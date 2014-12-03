@@ -1,0 +1,105 @@
+Archive member included because of file (symbol)
+
+C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\sh-elf\lib\libc.a(lib_a-memcpy.o)
+                              obj/misc.o (memcpy)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                . = 0x0
+
+.text           0x0000000000000000      0x958
+ *(.text)
+ .text          0x0000000000000000      0x1ec obj/main.o
+                0x0000000000000000                _main
+ .text          0x00000000000001ec      0x130 obj/misc.o
+                0x00000000000001ec                stub_execute
+                0x0000000000000248                InitPad
+                0x00000000000002a4                ReadPad
+                0x0000000000000310                ExitToMultiplayer
+ .text          0x000000000000031c      0x20c obj/compress.o
+                0x000000000000031c                lzf_decompress
+                0x00000000000003c0                _comp_header_get_data
+                0x000000000000041c                _comp_header_set_data
+                0x000000000000046a                _decomp_exec_internal
+                0x0000000000000510                decomp_exec
+                0x000000000000051c                decomp_getsize
+ .text          0x0000000000000528      0x39c obj/vdp.o
+                0x0000000000000528                vdp_init
+                0x00000000000005ec                vdp_shutdown
+                0x000000000000064c                vdp1_list_get_index
+                0x0000000000000658                vdp1_list_set_index
+                0x0000000000000664                vdp1_mesh
+                0x000000000000067c                vdp1_add_end
+                0x000000000000069c                vdp1_add_system_clip
+                0x00000000000006d0                vdp1_add_user_clip
+                0x000000000000070c                vdp1_add_local_coords
+                0x0000000000000740                vdp1_add_polyline
+                0x00000000000007a8                vdp1_add_polygon
+                0x0000000000000834                vdp1_add_distorted_sprite
+ .text          0x00000000000008c4        0x0 obj/copystubwrap.o
+ .text          0x00000000000008c4       0x94 C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\sh-elf\lib\libc.a(lib_a-memcpy.o)
+                0x00000000000008c4                memcpy
+
+.rela.dyn       0x0000000000000958        0x0
+ .rela.text     0x0000000000000000        0x0 obj/main.o
+
+.tors           0x0000000000000958        0x0
+                0x0000000000000958                ___ctors = .
+ *(.ctors)
+                0x0000000000000958                ___ctors_end = .
+                0x0000000000000958                ___dtors = .
+ *(.dtors)
+                0x0000000000000958                ___dtors_end = .
+
+.data           0x0000000000000960      0x120
+ *(.data)
+ .data          0x0000000000000960        0x0 obj/main.o
+ .data          0x0000000000000960        0x0 obj/misc.o
+ .data          0x0000000000000960        0x0 obj/compress.o
+ .data          0x0000000000000960        0x0 obj/vdp.o
+ .data          0x0000000000000960      0x120 obj/copystubwrap.o
+                0x0000000000000960                CopyStubData
+                0x0000000000000a70                CopyStubDataLen
+ .data          0x0000000000000a80        0x0 C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\sh-elf\lib\libc.a(lib_a-memcpy.o)
+                0x0000000000000a80                __bss_start = .
+
+.data.align4    0x0000000000000a80       0x14
+ .data.align4   0x0000000000000a80       0x14 obj/vdp.o
+                0x0000000000000a80                vdp2_reg
+                0x0000000000000a84                vdp2_cram
+                0x0000000000000a88                vdp2_vram
+                0x0000000000000a8c                vdp1_fb
+                0x0000000000000a90                vdp1_vram
+
+.bss            0x0000000000000a94        0x4
+ *(.bss)
+ .bss           0x0000000000000a94        0x0 obj/main.o
+ .bss           0x0000000000000a94        0x0 obj/misc.o
+ .bss           0x0000000000000a94        0x0 obj/compress.o
+ .bss           0x0000000000000a94        0x4 obj/vdp.o
+                0x0000000000000a94                _mesh_flag
+                0x0000000000000a96                _list_index
+ .bss           0x0000000000000a98        0x0 obj/copystubwrap.o
+ .bss           0x0000000000000a98        0x0 C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\sh-elf\lib\libc.a(lib_a-memcpy.o)
+                0x0000000000000a98                __bss_end = .
+                0x0000000000000a98                _end = .
+LOAD obj/main.o
+LOAD obj/misc.o
+LOAD obj/compress.o
+LOAD obj/vdp.o
+LOAD obj/copystubwrap.o
+LOAD C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\sh-elf\lib\libc.a
+LOAD C:\Progra~1\KPIT\GNUSHv12.02-elf\Sh-elf\lib\gcc\sh-elf\4.7-GNUSH_v12.02\libgcc.a
+OUTPUT(patch.elf elf32-sh)
+
+.comment        0x0000000000000000       0x1c
+ .comment       0x0000000000000000       0x1c obj/main.o
+                                         0x1d (size before relaxing)
+ .comment       0x0000000000000000       0x1d obj/misc.o
+ .comment       0x0000000000000000       0x1d obj/compress.o
+ .comment       0x0000000000000000       0x1d obj/vdp.o
