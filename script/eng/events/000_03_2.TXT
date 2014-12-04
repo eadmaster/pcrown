@@ -1,0 +1,24 @@
+78|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+83|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel...<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0004><string=016D><lineend><color=0001>...You're the Queen.<pause><lineend><CC03EA>I knew I had heard that name somewhere before.<pause><lineend>|
+|
+|
+92|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm so sorry. I had no intention of deceiving you.<pause><lineend>|
+|
+|
+112|
+<CC03EA><color=0004><string=016D><lineend><color=0001>We'll talk later.<pause><lineend><CC03EA>Get going! I'll be fine here.<pause><lineend>|
+|
+|
+114|
+<CC03EA><color=0004><string=016D><lineend><color=0001>I told you, you don't have to worry about me!<pause><lineend>|
+|
+|

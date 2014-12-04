@@ -1,0 +1,72 @@
+13|
+<CC03EA><color=0006><string=003B><lineend><color=0001>The tavern master says a strange old man has been giving him grief lately.<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0033><lineend><color=0001>It turns out those pirates weren't so tough after all!<pause><lineend><CC03EA>Heh heh!<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a pirate attack...I feel like a princess in a fairy-tale!<pause><lineend><CC03EA>What a great honeymoon this has been!<pause><lineend>|
+|
+|
+22|
+<CC03EA><color=0006><string=0067><lineend><color=0001>You really think that Drake's treasure exists, don't you?<pause><lineend><CC03EA>Me, I just can't believe it.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=0063><lineend><color=0001>I've heard that one of Captain Drake's treasures was a Gem called the Ocean Stone.<pause><lineend><CC03EA>They say it gave off a light more beautiful than any other Gem in the world.<pause><lineend><CC03EA>I'd love to lay eyes on that Gem, even just once.<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates are all gone.<pause><lineend><CC03EA>Now my Father can rest and heal up.<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Young folks these days just don't listen to their elders.<pause><lineend><CC03EA>It's a shame. The old folktales and legends have truths in them, you know.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=000F><lineend><color=0001>I've been coming across Knight Guardsmen in the forest a lot recently.<pause><lineend><CC03EA>Has something happened at the castle?<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0006><string=003D><lineend><color=0001>The pirates are gone, right?<pause><lineend><CC03EA>We're sure to get lots of people traveling through here again.<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew he never would have attacked those cargo ships.<pause><lineend><CC03EA>Oh Portgus...You're my hero...<pause><lineend>|
+|
+|
+44|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+50|
+<CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+53|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+59|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, you don't have anything to sell!<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+69|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough money, Sir.<pause><lineend>|
+|
+|
+79|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|

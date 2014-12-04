@@ -1,0 +1,24 @@
+8|
+<CC03EA><color=0006><string=0084><lineend><color=0001>Lord Shelius left the kingdom, and we lost our royal heir.<pause><lineend><CC03EA>It's hard to say, but perhaps the bravest of the Holy Knights will be chosen to succeed the King.<pause><lineend>|
+|
+|
+11|
+<CC03EA><color=0006><string=0085><lineend><color=0001>Lord Jadis is strict, but he is also fair.<pause><lineend><CC03EA>That's why our people don't fear injustice.<pause><lineend>|
+|
+|
+14|
+<CC03EA><color=0006><string=0052><lineend><color=0001>We owe you tremendous thanks for saving our King.<pause><lineend>|
+|
+|
+17|
+<CC03EA><color=0006><string=0086><lineend><color=0001>I shall soon be off to patrol the city.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=0073><lineend><color=0001>It's critical that the Holy Knights of Volga regroup and restore order.<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0006><string=0086><lineend><color=0001>I will never forget the terrible power of that Wizard.<pause><lineend>|
+|
+|

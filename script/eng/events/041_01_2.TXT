@@ -1,0 +1,168 @@
+15|
+<CC03EA><color=0006><string=0045><lineend><color=0001>So it was a group of bandits all along!<pause><lineend><CC03EA>They were unleashing monsters and spreading lies to try and capture an innocent mermaid.<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0046><lineend><color=0001>Yeah, that's what they say.<pause><lineend><CC03EA>I also heard that it was Sir Edward who came to the mermaid's rescue.<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=0045><lineend><color=0001>So it was a group of bandits all along!<pause><lineend><CC03EA>They were unleashing monsters and spreading lies to try and capture an innocent mermaid.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=0046><lineend><color=0001>Yeah, that's what they say.<pause><lineend><CC03EA>I also heard that it was Sir Edward who came to the mermaid's rescue.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0047><lineend><color=0001>I hear all that fuss over pirates in Leeland has died down, too.<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0006><string=0047><lineend><color=0001>I heard that the pirates in the Sea of Leeland are running amok these days!<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0047><lineend><color=0001>The merchants are nearly out of ships to run trade with.<pause><lineend><CC03EA>At this rate, that town is headed for ruin.<pause><lineend><CC03EA>I just wonder how the Queen expects to deal with pirates.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho Badho and not try something at The Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
+|
+|
+35|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+37|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+|
+|
+53|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+|
+|
+57|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+|
+|
+59|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+61|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you, then?<pause><lineend>|
+|
+|
+76|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+78|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+|
+|
+83|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
+|
+|
+86|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+91|
+<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be interested?<pause><lineend>|
+|
+|
+92|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+94|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+98|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+|
+|
+99|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+108|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
+|
+|
+109|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+115|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+119|
+<CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+|
+|
+125|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+131|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+|
+|
+134|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+|
+|
+141|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+|
+|
+143|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+144|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+155|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+156|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|

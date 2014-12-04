@@ -1,0 +1,68 @@
+38|
+<CC03EA><color=0003><string=0001><lineend><color=0001>They've even got Ghosts on their side.<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+46|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Gradriel.<lineend><pause>|
+|
+|
+48|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Are you OK?<pause><lineend>|
+|
+|
+49|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You take the one on the left!<pause><lineend>|
+|
+|
+55|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Got it!<pause><lineend>|
+|
+|
+121|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry about me. Stay focused on the battle!<pause><lineend>|
+|
+|
+122|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I...I will.<pause><lineend>|
+|
+|
+165|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Gradriel.<lineend><pause>|
+|
+|
+168|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Are you all right?<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...You're the Queen.<pause><lineend><CC03EA>I knew I had heard that name somewhere before.<pause><lineend>|
+|
+|
+175|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'm so sorry. I had no intention of deceiving you.<pause><lineend>|
+|
+|
+176|
+<CC03EA><color=0003><string=0001><lineend><color=0001>We'll talk later.<lineend>Here comes another one.<pause><lineend>|
+|
+|
+178|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Edward?<pause><lineend>|
+|
+|
+182|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Get going! I'll be fine here.<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I hope we can talk soon.<pause><lineend>|
+|
+|

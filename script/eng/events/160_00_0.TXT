@@ -1,0 +1,33 @@
+8|
+<CC03EA><color=0006><string=019B><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+|
+|
+9|
+<CC03EA><CC03FC=0004><string=019B><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+|
+|
+13|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
+|
+|
+29|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.
+<pause><lineend>|
+|
+|

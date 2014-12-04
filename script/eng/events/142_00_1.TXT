@@ -1,0 +1,184 @@
+20|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>Goods come in from all over the kingdom, along with people who want to buy them.<pause><lineend><CC03EA>...These days, though, we're getting fewer and fewer customers.<pause><lineend><CC03EA>The Demons must be scaring everybody off.<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0006><string=000A><lineend><color=0001>It's still safe here.<pause><lineend><CC03EA>Nobody knows when the Demon Horde might attack, though.<pause><lineend><CC03EA>Our job is to be prepared at all times.<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0006><string=0031><lineend><color=0001>I'd give anything to travel outside this town even just once.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'm all out of bags, I tell you!<pause><lineend>|
+|
+|
+32|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Excuse me, good Sir!<lineend>Might I interest you in a fine quality bag?<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'll give you one for only 1000G!<pause><lineend>|
+|
+|
+38|
+<CC03EA><CC03FC=0004><string=0059><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+|
+|
+40|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Anything you say. Just let me know if you change your mind?<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0006><string=0059><lineend><color=0001>You don't have enough, Sir.<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Thank you kindly!<pause><lineend>|
+|
+|
+53|
+<CC03EA><color=0002>Got one more bag! Now you can carry more items!<pause><lineend>|
+|
+|
+58|
+<CC03EA><color=0006><string=0024><lineend><color=0001>Yes Sir, quite a lot of merchants come to do business in this town.<pause><lineend>|
+|
+|
+61|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Spirit Grass make the prettiest flowers, don't they?<pause><lineend><CC03EA>When you stand in front of them, it's like your body magically feels better.<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to budge!<pause><lineend>|
+|
+|
+71|
+<CC03ED=0004000200010000><CC03FB=0050>|
+|
+|
+72|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
+|
+|
+75|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
+|
+|
+82|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full of mysteries...<pause><lineend><CC03EA>For example, I heard there's a shop here that sells really rare things.<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
+|
+|
+88|
+<CC03EA><color=0006><string=0020><lineend><color=0001>If you go north of Cadho Badho, you'll find the village of Knelt.<pause><lineend><CC03EA>Monsters sometimes attack people on the path, though, so it isn't the safest way to go.<pause><lineend>|
+|
+|
+91|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+|
+|
+94|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend><CC03EA>That's a secret, though.<lineend>Don't tell anybody!<pause><lineend>|
+|
+|
+97|
+<CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
+|
+|
+100|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody gets to meet the Merchants' Leader, you know.<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+110|
+<CC03EA><CC03FC=0004><string=01A6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+113|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, you don't have anything to sell!<pause><lineend>|
+|
+|
+124|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+131|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you don't have enough money, Sir.<pause><lineend>|
+|
+|
+139|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|
+145|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+149|
+<CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+|
+|
+155|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+161|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+|
+|
+164|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+|
+|
+171|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+174|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+185|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+186|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+193|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>Goods come in from all over the kingdom, along with people who want to buy them.<pause><lineend><CC03EA>...These days, though, we're getting fewer and fewer customers.<pause><lineend><CC03EA>The Demons must be scaring everybody off.<pause><lineend>|
+|
+|
+195|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'm all out of bags, I tell you!<pause><lineend>|
+|
+|
+196|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'll give you one for only 1000G!<pause><lineend>|
+|
+|

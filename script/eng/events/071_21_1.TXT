@@ -1,0 +1,100 @@
+83|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Golgotha...the one who trapped me there with his sword...<pause><lineend><CC03EA>His blood smelled the same way...<pause><lineend><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
+|
+|
+108|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wait, Edward!<pause><lineend><CC03EA>Swords don't work on this Demon!<pause><lineend>|
+|
+|
+115|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel...I mean, your Highness...What are you doing here?<pause><lineend>|
+|
+|
+117|
+<CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who stole my Gem and sent me 4 years into the future!<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Run, Edward!<pause><lineend>|
+|
+|
+169|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
+|
+|
+172|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel! Stand back!<pause><lineend>|
+|
+|
+210|
+<CC03EA><color=0004><string=016D><lineend><color=0001><CC03ED=016D0008000103FF>...I'd say THIS sword works just fine.<lineend><CC03ED=016D0007000103FF><pause>|
+|
+|
+219|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend>|
+|
+|
+221|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel...This time, I really do owe you one.<pause><lineend>|
+|
+|
+223|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Beyond this door lies the Demon Realm. Going inside?<pause><lineend>|
+|
+|
+224|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. They're holding my sister in there.<pause><lineend>|
+|
+|
+225|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Then I'm going with you.<pause><lineend><CC03EA>My Father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
+|
+|
+226|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Edward.<pause><lineend>|
+|
+|
+282|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+|
+|
+285|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
+|
+|
+287|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I am known as Skulg.<pause><lineend><CC03EA>My apologies for not introducing myself properly at the castle!<pause><lineend>|
+|
+|
+291|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my Father!!<pause><lineend>|
+|
+|
+293|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'm sorry, Gradriel, but I want you to go on alone.<pause><lineend>|
+|
+|
+310|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But Edward!<pause><lineend>|
+|
+|
+317|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'll catch up as soon as I'm done with this one here.<pause><lineend><CC03EA>Now get going!<pause><lineend>|
+|
+|
+326|
+<CC03EA><color=0002><string=0000><lineend><color=0001>OK! Good luck!<pause><lineend>|
+|
+|
+346|
+<CC03EA><color=0004><string=016E><lineend><color=0001>This is good. I didn't want to have to wait long to get revenge.<pause><lineend>|
+|
+|
+352|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I see you're carrying the sword that killed Bloody. That stubborn fool...<pause><lineend><CC03EA>I won't be holding back this time. I hope you don't disappoint!<pause><lineend>|
+|
+|

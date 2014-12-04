@@ -1,0 +1,80 @@
+62|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A voice is coming from over that way...<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0005><string=0130><lineend><color=0001>It still hurts where that parrot bit me!<pause><lineend>|
+|
+|
+65|
+<CC03EA><color=0005><string=0131><lineend><color=0001>It serves you right for bumping into it!<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0005><string=00F6><lineend><color=0001>Yeah, you idiot!<pause><lineend><CC03EA>Thanks to you, we'll have to steer clear of Cadho Badho for a long time!<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0005><string=0130><lineend><color=0001>I'm really sorry, guys!<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0005><string=00F6><lineend><color=0001>There's no use waiting around here. Our next target is Leeland.<pause><lineend>|
+|
+|
+91|
+<CC03EA><color=0005><string=0130><lineend><color=0001>Whoa! Who are you!?<pause><lineend>|
+|
+|
+109|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the Donfan Bandits.<pause><lineend><CC03EA>I'm here to stop you from ever stealing anything again!<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0005><string=0130><lineend><color=0001>What?<pause><lineend>|
+|
+|
+115|
+<CC03EA><CC03FC=0004><string=0186><color=0002>Time out, everybody!!<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Proserpina!?<pause><lineend>|
+|
+|
+144|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Stand back, Gradriel.<pause><lineend><CC03EA>If anyone trashes these punks, it's going to be me!<pause><lineend>|
+|
+|
+161|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Listen up, dirtbags!<pause><lineend><CC03EA>You've got some nerve stealing supplies from a witch!<pause><lineend><CC03EA>Give me one good reason why I shouldn't turn you all into frogs right here!<pause><lineend><CC03EA>...Too late!<lineend>Ala-ka-zam!<pause><lineend>|
+|
+|
+195|
+<CC03EA><color=0004><string=0186><lineend><color=0001>OK! Your turn!<pause><lineend>|
+|
+|
+197|
+<CC03EA><color=0005><string=00F6><lineend><color=0001>You sneaky little...<pause><lineend>|
+|
+|
+215|
+<CC03EA><color=0004><string=0186><lineend><color=0001>This calls for plan B.<pause><lineend>|
+|
+|
+222|
+<CC03EA><color=0004><string=0186><lineend><color=0001>You're in for it now! My friend Gradriel's gonna finish you off!<pause><lineend>|
+|
+|
+227|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Huh?<pause><lineend>|
+|
+|
+228|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Hee hee hee!<pause><lineend><CC03EA>Well then, Gradriel, it's been nice seeing you!<pause><lineend>|
+|
+|
+266|
+<CC03EA><color=0002>Recovered a stolen ring!<pause><lineend>|
+|
+|

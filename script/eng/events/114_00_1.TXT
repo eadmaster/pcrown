@@ -1,0 +1,64 @@
+12|
+<CC03EA><choose>Help the fairy<lineend>Don't help her<lineend><endchoose>|
+|
+|
+23|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Thank you, Mr. Knight! I can finally go back to the forest!<pause><lineend><CC03EA>Let me give you this as thanks.<pause><lineend>|
+|
+|
+24|
+<color=0002>Got the Trust Drop!<pause><lineend>|
+|
+|
+25|
+<CC03EA><CC03FC=0004><string=0168><color=0001>See you 'round.<lineend>Bye!<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Sorry, but I'm really busy now. I don't have time to get involved.<pause><lineend>|
+|
+|
+32|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do we do?<pause><lineend>|
+|
+|
+33|
+<CC03EA><CC03FC=0004><string=01D7><color=0001>YOU - GOOD - PERSON.<pause><lineend><CC03EA>TAKE - THIS.<pause><lineend>|
+|
+|
+39|
+<color=0002>Got the Battle Drop!<pause><lineend>|
+|
+|
+47|
+<CC03EA><CC03FC=0004><string=0168><color=0001>I told you no already, no!!<pause><lineend>|
+|
+|
+56|
+<CC03EA><CC03FC=0004><string=01D7><color=0001>I - LOVE - YOU.<pause><lineend>|
+|
+|
+61|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big robot wants me to...<pause><lineend>|
+|
+|
+63|
+<CC03EA><CC03FC=0004><string=01D7><color=0001>WHO - ARE - YOU?<pause><lineend><CC03EA>I - LOVE - THAT - GIRL.  I - WILL - MARRY - HER.<lineend><pause><CC03EA>YOU - GET - IN - MY - WAY - YOU - DIE.<lineend><pause>|
+|
+|
+65|
+<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this robot found me!<lineend><pause><CC03EA>He's a robot, for pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
+|
+|
+69|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...All right. You step back. This will get ugly.<lineend><pause>|
+|
+|
+70|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Yes, Sir!<pause><lineend>|
+|
+|
+72|
+<CC03EA><CC03FC=0004><string=01D7><color=0001>I - WILL - KILL - YOU!<pause><lineend>|
+|
+|

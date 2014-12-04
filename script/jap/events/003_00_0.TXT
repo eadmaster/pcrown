@@ -1,0 +1,4 @@
+9|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>まって、女王様。<pause><lineend><CC03EA>ここをまっすぐぬけると<lineend>ナッツビルの村なの。<pause><lineend><CC03EA>今、わたしが村に行くと<lineend>大さわぎになっちゃうから<pause><lineend><CC03EA>ナッツビルに入ったら<lineend>女王様が村を出るまで<lineend>姿をけしておくわね。<pause><lineend>|
+|
+|

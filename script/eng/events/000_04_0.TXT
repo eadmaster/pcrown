@@ -1,0 +1,134 @@
+21|
+<CC03EA><color=0006><string=017F><lineend><color=0001>Eriel studies affairs of state so that she may be of help to the Queen.<pause><lineend><CC03EA>When she isn't busy with that, she searches for a way to cure Sidrael's illness.<pause><lineend><CC03EA>Nobody is as considerate of her sisters as she is.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Your older sister Sidrael has been burdened with illness ever since she was a child.<pause><lineend><CC03EA>However, even on her worst days, she never fails to keep a smile.<pause><lineend><CC03EA>She has all the dignity of a beautiful white lily.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Your Majesty, when you wear that crown, you look just like your dear departed Mother.<pause><lineend><CC03EA>I'm so happy to see that you've grown up to be such a fine young woman.<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Good evening, Eriel.<pause><lineend>|
+|
+|
+32|
+<CC03EA><color=0004><string=0190><lineend><color=0001>Hello, Gradriel!<pause><lineend><CC03EA>It must be hard to keep up with all your as the Queen, but do keep at it.<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, Eriel.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0004><string=0190><lineend><color=0001>By the way, I heard that you've been learning how to sword-fight.<pause><lineend><CC03EA>Even when you were little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Just remember, you're still a little girl. Don't let yourself get hurt, OK?<pause><lineend>|
+|
+|
+35|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Eriel. I understand.<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0004><string=0190><lineend><color=0001>Gradriel? Are you still awake?<pause><lineend><CC03EA>It's all right to take a walk, but please do turn in soon.<pause><lineend>|
+|
+|
+46|
+<CC03EA><color=0004><string=0191><lineend><color=0001>Good evening, Gradriel.<pause><lineend>|
+|
+|
+47|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I thought you would be asleep, Sidrael. Are you OK?<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0004><string=0191><lineend><color=0001>Yes, I'm fine.<pause><lineend><CC03EA>In fact, I've been feeling better and better since yesterday.<pause><lineend><CC03EA>That medicine Eriel found for me is working wonders.<pause><lineend>|
+|
+|
+49|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I really hope you get better, Sidrael.<pause><lineend>|
+|
+|
+50|
+<CC03EA><color=0004><string=0191><lineend><color=0001>Thank you, Gradriel.<pause><lineend><CC03EA>You're always such a good girl. I have a gift for you.<pause><lineend><CC03EA>If you wear it, it will protect you from danger.<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0002>Got a Happiness Pendant!<pause><lineend>|
+|
+|
+52|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wow, thank you!<pause><lineend><CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+56|
+<CC03EA><color=0004><string=0191><lineend><color=0001>The moon is especially beautiful tonight.<pause><lineend><CC03EA>You can get a good view of it from the balcony over there.<pause><lineend>|
+|
+|
+59|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, your Highness.<pause><lineend><CC03EA>It's a lovely night, and the town is sleeping in peace.<pause><lineend>|
+|
+|
+62|
+<CC03EA><color=0006><string=007E><lineend><color=0001>My Father was also in the Knight Guard.<pause><lineend><CC03EA>He served under Queen Elfaran, but was killed by Golgotha the Traitor.<pause><lineend><CC03EA>That was 25 years ago, during the war with the Demon Horde.<pause><lineend><CC03EA>It's my intention to carry on my Father's duty as a Knight Guardsman.<pause><lineend>|
+|
+|
+65|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Your Majesty! What brings you to my humble quarters?<pause><lineend><CC03EA>These days, nothing brings me more pleasure than sparring with my Queen.<pause><lineend><CC03EA>Let's practice again tomorrow!<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, Queen Gradriel!<pause><lineend><CC03EA>I thank the gods that we have spent another day in peace.<pause><lineend><CC03EA>How about you? Won't you join me in a prayer?<pause><lineend>|
+|
+|
+74|
+<CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
+|
+|
+80|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps another time.<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+|
+|
+92|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+93|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+104|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+105|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+115|
+<CC03FA=0000000200000000000003FF000A00460000><CC03FB=0050>|
+|
+|
+116|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Hold on...<pause><lineend>
+<CC03EA><CC03F8=0001>This is Jestonai's room...<pause><lineend><CC03F8=0001>If he finds me, he'll stop me for sure.<pause><lineend>|
+|
+|
+119|
+<CC03FA=0000000300000000000003FF000A00460000><CC03FB=0050>|
+|
+|
+120|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Hold on...<pause><lineend>
+<CC03EA><CC03F8=0001>This is Jestonai's room...<pause><lineend><CC03F8=0001>If he finds me, he'll stop me for sure.<pause><lineend>|
+|
+|
+123|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Before I leave the castle, I should go talk to my sisters one more time.<pause><lineend>|
+|
+|

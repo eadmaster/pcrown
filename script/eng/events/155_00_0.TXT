@@ -1,0 +1,241 @@
+21|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I remember the times I had when I was younger.<pause><lineend><CC03EA>I used to sneak out of bed at night and go dance with the fairies in the forest.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Tabitha and Nilus are the best of friends.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=000A><lineend><color=0001>My son's probably off playing with Tabitha, the baker's daughter.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Spend enough time in this village, and you might get to meet the fairies, too!<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The children here are friends with the fairies in the forest.<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=00CC><lineend><color=0001>Quack! Quack!<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=00CD><lineend><color=0001>Quack!<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0006><string=00CE><lineend><color=0001>Quack!<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0006><string=018A><lineend><color=0001>Cheep cheep!<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0006><string=018B><lineend><color=0001>Cheep!!<pause><lineend>|
+|
+|
+52|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Did you meet up with Tabitha?<pause><lineend>|
+|
+|
+54|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh, hello. Are you Tabitha's friend?<pause><lineend><CC03EA>If you're looking for her, she just went off to play.<pause><lineend>|
+|
+|
+58|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>We're good friends with the fairies.<pause><lineend>|
+|
+|
+62|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+68|
+<CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+71|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+77|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+87|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+89|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+97|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those, I'm afraid.<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+107|
+<CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
+|
+|
+113|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you can't quite afford it. Come back anytime.<pause><lineend>|
+|
+|
+122|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then. Enjoy your stay.<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+|
+|
+131|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+132|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+143|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+144|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+151|
+<CC03FA=0002000300000000000003FF000A003C0000>|
+|
+|
+155|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Psst. Hey. You two.<pause><lineend>|
+|
+|
+156|
+<CC03F0=000200100000000303FF00000000>|
+|
+|
+159|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Don't you ever wish you could fly like the fairies do?<pause><lineend>|
+|
+|
+160|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Who are you?<pause><lineend>|
+|
+|
+161|
+<CC03EA><color=0002><string=0002><lineend><color=0001>My name is Proserpina, and I know all the secrets behind the fairies' magic!<pause><lineend><CC03EA>('Cause I'm a witch, that is.)<pause><lineend>|
+|
+|
+162|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>You do?<lineend>That's amazing!<pause><lineend>|
+|
+|
+163|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Once I cast a little magic on you, you'll each grow some beautiful wings and fly!<pause><lineend><CC03EA>Doesn't flying alongside the fairies sound like fun?<pause><lineend>|
+|
+|
+164|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Yeah! I've always wanted to fly!<pause><lineend>|
+|
+|
+165|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Me, too!<pause><lineend>|
+|
+|
+166|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Well then...hee hee!<pause><lineend><CC03EA>All you have to do is come see me tonight in the forest north of here.<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Why at night?<pause><lineend>|
+|
+|
+168|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Er...<pause><lineend>|
+|
+|
+169|
+<CC03FA=0002000800000000000003FF000A00780000>|
+|
+|
+171|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You see...Erm...<pause><lineend><CC03EA>...The spell that makes you grow wings only works when the moon is overhead!<pause><lineend>|
+|
+|
+172|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Wow!<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll wait for you tonight!<pause><lineend>|
+|
+|
+174|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>I'll be there. Count on it!<pause><lineend>|
+|
+|
+175|
+<CC03ED=0002001200010000><CC03F9=0002>|
+|
+|
+239|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Proserpina? Where are you?<pause><lineend>|
+|
+|
+240|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>We came, just like you said to!<pause><lineend>|
+|
+|
+241|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Proserpina...?<pause><lineend>|
+|
+|
+260|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Success!!!<pause><lineend>|
+|
+|
+272|
+<CC03EA><color=0004><string=00D0><lineend><color=0001>I want to go home. Change us back, Proserpina!<pause><lineend>|
+|
+|
+276|
+<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>No way!<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Do you know how rare it is to have a chance to use a shapeshifting spell on someone?<lineend><CC03ED=00020061000103FF><pause>|
+|
+|
+277|
+<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>You two just relax.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Once I get a little better at shapeshifting spells, I'll send you back to your village.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>We'll see whether I decide to change you back first, though!<lineend><CC03ED=00020061000103FF><pause>|
+|
+|
+283|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You know, I could use something to drink.<pause><lineend>|
+|
+|
+286|
+<CC03EA><color=0004><string=0184><lineend><color=0001>I'm feeling pretty dry, too, Proserpina.<pause><lineend><CC03EA>I feel like having some fresh Goblin Juice from the Goblin Market!<pause><lineend><CC03EA>Their stuff is the best!<pause><lineend>|
+|
+|
+287|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Sounds good. I'll give it a shot. You're buying, though.<pause><lineend>
+<CC03EA><color=0002>The Goblin Market,<color=0001> right?<lineend>Let's go!<pause><lineend><CC03EA>You two, don't make any noise until we get back!<pause><lineend>|
+|
+|

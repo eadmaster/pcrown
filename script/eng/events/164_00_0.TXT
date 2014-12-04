@@ -1,0 +1,236 @@
+19|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Dinnertime!<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Augh! He got me! I'm a goner!<pause><lineend>|
+|
+|
+21|
+<CC03FA=0002000000000000000003FF000A003C0000><CC03FB=0046>|
+|
+|
+22|
+<CC03EA><color=0002><string=0002><lineend><color=0001>What the heck are you two doing?<pause><lineend>|
+|
+|
+23|
+<CC03FA=0149000200000000000003FF0014003C0000><CC03FA=00EC000300000000000003FF000A003C0000><CC03FB=003C>|
+|
+|
+25|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Ooh! A tasty looking girl for desert!<pause><lineend>|
+|
+|
+26|
+<CC03ED=0002000600010000><CC03ED=00020007000103FF><CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Would you get out of the way already? I'm here on business.<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020007000103FF><CC03ED=00020008000103FF>I'm looking for someone named Halloween, not you.<lineend><CC03ED=0002000900010000><pause>|
+|
+|
+27|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Too bad for you!<pause><lineend><CC03EA>Because I'm going to eat you both of you up right now!<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0002><string=0002><lineend><color=0001>What!?<pause><lineend><CC03EA>Give me a break. If you're going to eat someone, eat Gabriel!<pause><lineend>|
+|
+|
+29|
+<CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina! How could you?!<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0005><string=0149><lineend><color=0001>How about I just eat all of you?<pause><lineend><CC03EA>Gya ha ha!<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Forget it. Now out of my way!<pause><lineend>|
+|
+|
+32|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Nope. No-can-do.<lineend>I'm hungry, you see.<pause><lineend><CC03EA>Nobody gets by until I get a snack. Why don't you bring me something to eat!<pause><lineend><CC03EA>Hee hee hee!!<pause><lineend><CC03ED=01490002000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+33|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You're one selfish Poltergeist.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0005><string=0149><lineend><color=0001>If you don't like it, then I'll get started on this juicy bit of pumpkin here.<pause><lineend>|
+|
+|
+35|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, I told you, if you're going to eat someone, eat Gabriel!<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina!<pause><lineend>|
+|
+|
+38|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Look, I'm kidding, OK?<lineend>Lighten up.<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0002><string=0002><lineend><color=0001>OK, so what should I bring you?<pause><lineend>|
+|
+|
+41|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled Meat!<pause><lineend><CC03EA>And an Elikshil Fruit for desert, too!<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0002><string=0002><lineend><color=0001>That much!? I think I know why you're so fat, Poulty.<pause><lineend><CC03EA>All right, fine. I'll bring all the stuff. Just don't go eating Halloween!<pause><lineend>|
+|
+|
+83|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Here you go, a Power Plant Seed.<pause><lineend>|
+|
+|
+86|
+<CC03EA><color=0002>Got a Power Plant Seed!<pause><lineend>|
+|
+|
+88|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You may not look it, but I know that deep down, you're a good ghost.<pause><lineend><CC03EA>Anyway, I think we're done here. See you later! And watch out for fat hungry ghosts next time!<pause><lineend>|
+|
+|
+93|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
+|
+|
+96|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Uwee hee hee! Did you bring everything?<pause><lineend>|
+|
+|
+97|
+<CC03EA><color=0002><string=0002><lineend><color=0001>That should do it. Now give me back Halloween!<pause><lineend>|
+|
+|
+98|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I don't know...A pumpkin and a girl would make a great breakfast...<pause><lineend><CC03EA>But a deal is a deal.<pause><lineend><CC03EA>Catch you later!<lineend>Hee hee hee!!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+99|
+<CC03F0=014900000001001E03FF00000000>|
+|
+|
+101|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Phew! I was starting to get worried, you know.<pause><lineend>|
+|
+|
+102|
+<CC03F0=000200100000000503FF00000000>|
+|
+|
+103|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Lucky for us, he didn't eat you!<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Thanks for getting me out of there.<pause><lineend>|
+|
+|
+105|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Which reminds me...<pause><lineend><CC03EA>There's actually a reason why I came to see you.<pause><lineend><CC03EA>I'd like you to sell me one of the Power Plant Seeds from your shop.<pause><lineend>|
+|
+|
+106|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Tell you what, I'll just give you one. This way, we're even.<pause><lineend>|
+|
+|
+107|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Really? That would be great!<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0002>Got a Power Plant Seed!<pause><lineend>|
+|
+|
+112|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You may not look it, but I know that deep down, you're a good ghost.<pause><lineend><CC03EA>Anyway, I think we're done here. See you later! And watch out for fat hungry ghosts next time!<pause><lineend>|
+|
+|
+117|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
+|
+|
+126|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee, I smell something good!<pause><lineend>|
+|
+|
+128|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hurry up and bring the Toast To Go!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+138|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee, I smell something good!<pause><lineend>|
+|
+|
+140|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Corn this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+150|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee, I smell something good!<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Fish this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+162|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! I smell something good!<pause><lineend>|
+|
+|
+164|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Meat this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+174|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! I smell something good!<pause><lineend>|
+|
+|
+176|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Elikshil Fruit this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+182|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Go get me the food you promised! And hurry it up!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+|
+|
+184|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'm going, I'm going. Jeez.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+|
+|
+188|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You lost your Power Plant Seed?<pause><lineend>|
+|
+|
+191|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>No kidding. Well, don't worry, I've got some more.<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll always have an extra if you need it.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+|
+|
+200|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Here we are! Another Power Plant Seed!<pause><lineend>|
+|
+|
+202|
+<CC03EA><color=0002>Got a Power Plant Seed!<pause><lineend>|
+|
+|
+203|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Woo hoo! Thanks!<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+|
+|
+205|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
+|
+|
+206|
+<CC03EA><color=0002><string=0002><lineend><color=0001>See me after you've gotten rid of something.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+|
+|

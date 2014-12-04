@@ -1,0 +1,12 @@
+5|
+<CC03EA><color=0006><string=0084><lineend><color=0001>二度とジャディス陛下のご身辺に<lineend>危険がおよばぬようにしなくては。<pause><lineend>|
+|
+|
+8|
+<CC03EA><color=0006><string=0085><lineend><color=0001>今度の戦いで多くの聖騎士が<lineend>死にました・・・<pause><lineend><CC03EA>彼らの為にも<lineend>ますます国を<lineend>もりたてていかねなりませんね。<pause><lineend>|
+|
+|
+11|
+<CC03EA><color=0006><string=0086><lineend><color=0001>ジャディス陛下は謁見の間に<lineend>いらっしゃいます。<pause><lineend>|
+|
+|

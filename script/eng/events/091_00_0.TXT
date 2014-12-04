@@ -1,0 +1,20 @@
+5|
+<CC03EA><CC03FC=0004><string=0125>Any sign of Drake's treasure yet, Boss?<pause><lineend>|
+|
+|
+8|
+<CC03EA><CC03FC=0004><string=0126>If we ever find that treasure, we'll be filthy rich!<pause><lineend>|
+|
+|
+11|
+<CC03EA><CC03FC=0004><string=00E7>Still no sign of Drake's treasure?<pause><lineend><CC03EA>I'll search for it myself, if you want me to.<pause><lineend>|
+|
+|
+12|
+<CC03EA><color=0003><string=0003><lineend><color=0001>No, that won't be necessary.<pause><lineend>|
+|
+|
+13|
+<CC03EA><CC03FC=0004><string=00E7>Well, whatever you say.<pause><lineend><CC03EA>I'll wait here. Please hurry up and find it, though!<pause><lineend>|
+|
+|

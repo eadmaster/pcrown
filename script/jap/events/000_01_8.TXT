@@ -1,0 +1,16 @@
+19|
+<CC03EA><CC03FC=0004><string=007D>たっ、大変だ！<lineend>モンスターが・・・<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0002><string=0000><lineend><color=0001>モンスターは<lineend>どのくらいの数なのです？<pause><lineend>|
+|
+|
+30|
+<CC03EA><CC03FC=0004><string=007D>数はグリフォン一匹！<lineend>城門にいます！<lineend><pause>|
+|
+|
+31|
+<CC03EA><color=0002><string=0000><lineend><color=0001>グリフォンが<lineend>こんな所に一匹で？<pause><lineend>|
+|
+|

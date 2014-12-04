@@ -1,0 +1,224 @@
+21|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Hello there, my brave little lady! Welcome to Dwarf Land, the Kingdom of Treasures!<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0092><lineend><color=0001>I feel warmth in my heart when I smell the scent of fresh-cut rock.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0093><lineend><color=0001>Sleepy's got a cousin named Smiley.<pause><lineend><CC03EA>He's a very skilled craftsman, too.<pause><lineend><CC03EA>But Sleepy wandered out into the world long ago, and none of us have seen him since...<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=0094><lineend><color=0001>A young witch turned up here recently.<pause><lineend><CC03EA>I've never met anyone so greedy and selfish in all my life!<pause><lineend><CC03EA>I suppose we'll have to learn to live with her...<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=0094><lineend><color=0001>...Hmm. That witch has been gone lately.<pause><lineend><CC03EA>I hate to admit it, but we miss her just a little.<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=0095><lineend><color=0001>It's awfully shaky around here these days. <pause><lineend><CC03EA>Me, I always fancied earthquakes happen when giant rats run by underground!<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is beckoning me! I'm out of here!<pause><lineend>|
+|
+|
+41|
+<CC03F0=009600060000001E03FF00000000>|
+|
+|
+44|
+<CC03EA><color=0006><string=0096><lineend><color=0001>That witch stole our Truck-Chase!<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Thank goodness. Now we can enjoy the Truck-Chase again!<pause><lineend>|
+|
+|
+50|
+<CC03EA><color=0006><string=0097><lineend><color=0001>You're better off not going near the Truck-Chase right now.<pause><lineend>|
+|
+|
+53|
+<CC03EA><color=0006><string=0098><lineend><color=0001>The say there's a spirit inside of every weapon the king makes.<pause><lineend>|
+|
+|
+57|
+<CC03EA><color=0006><string=0099><lineend><color=0001>The king must be happy!<pause><lineend>|
+|
+|
+59|
+<CC03EA><color=0006><string=0099><lineend><color=0001>Even the king is depressed that we can't go on the Truck-Chase anymore.<pause><lineend>|
+|
+|
+63|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>How's your sword working for you?<pause><lineend>|
+|
+|
+65|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>What is the world coming to?<pause><lineend><CC03EA>A witch came along and stole the Truck-Chase, one of our only pastimes!<pause><lineend><CC03EA>Oh, will we ever be able to feel the wind in our beards again?<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>The land always sings to us.<pause><lineend><CC03EA>The songs are about the wonders of life...the hardships, too...<pause><lineend>|
+|
+|
+76|
+<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
+|
+|
+78|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
+|
+|
+79|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, that's right. How did you know my name?<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Your mistress back in Cadho Badho mentioned you.<pause><lineend><CC03EA>She asked me to tell you to come home right away if I ever ran across you in my travels.<pause><lineend>|
+|
+|
+81|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>She did? Oh! Well, thank you for telling me.<pause><lineend><CC03EA>I can't believe she'd ask someone she doesn't even know to do such a thing, though.<pause><lineend><CC03EA>She really is as naive as they say.<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0002><string=0000><lineend><color=0001>At least now you have the message.<pause><lineend>|
+|
+|
+83|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, of course.<lineend>I'll hurry back.<pause><lineend><CC03EA>Please drop by Cadho Badho again sometime. I'm sure my mistress will want to thank you.<pause><lineend>|
+|
+|
+84|
+<CC03F0=01C5000B0001001E03FF00000000>|
+|
+|
+88|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
+|
+|
+93|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+|
+|
+94|
+<CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
+|
+|
+96|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Hey! There aren't any items in your bag!<pause><lineend>|
+|
+|
+116|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+123|
+<CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't it?<lineend>*Yawn*<pause><lineend>|
+|
+|
+124|
+<CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+128|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+130|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*...That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems...ZZZ......ZZZ...<pause><lineend>|
+|
+|
+131|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+139|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh!<lineend>Ah. Here you are!<pause><lineend>|
+|
+|
+140|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh! Oh, you don't have money, Ma'am.<pause><lineend>|
+|
+|
+143|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+148|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>That's not enough, Miss.<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
+|
+|
+157|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+161|
+<CC03EA><CC03FC=0004><string=0195><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+|
+|
+167|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Oh! You're a bit short the price. Come back anytime.<pause><lineend>|
+|
+|
+176|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+|
+|
+183|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+|
+|
+185|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+186|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+197|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+198|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|

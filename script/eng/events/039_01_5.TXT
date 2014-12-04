@@ -1,0 +1,24 @@
+7|
+<CC03EA><CC03FC=0004><string=0063><color=0001>Where will we go next?<lineend><choose>Arsontula<lineend>The Pirates Island<lineend><endchoose>|
+|
+|
+14|
+<CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll be waiting for you. Come back anytime!<pause><lineend>|
+|
+|
+17|
+<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
+|
+|
+18|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
+|
+|
+25|
+<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
+|
+|
+26|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
+|
+|

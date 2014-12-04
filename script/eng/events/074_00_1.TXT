@@ -1,0 +1,156 @@
+15|
+<CC03EA><color=0006><string=0011><lineend><color=0005>Take the left exit out of town, head west,<color=0001> and you'll find yourself in our capital city, <color=0002>Volga.<color=0001><pause><lineend><CC03EA>Castle Volga is very well-fortified.<pause><lineend><CC03EA>It's also guarded by an order of Holy Knights who have sworn allegiance to the Goddess.<pause><lineend>|
+|
+|
+18|
+<CC03EA><color=0006><string=0028><lineend><color=0001>I heard that the kingdom down south is under attack by Demons.<pause><lineend><CC03EA>It makes us all the more relieved that Volga is the home of the Warrior King.<pause><lineend><CC03EA>You heard right. The King himself is the strongest of all our Holy Knights!<pause><lineend>|
+|
+|
+21|
+<CC03EA><color=0006><string=005E><lineend><color=0001>It's been a long time since it was possible to travel to the Valendia Kingdom.<pause><lineend><CC03EA>If I got into the import business, I could make a killing selling rare imported goods!<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Our King, Lord Jadis, is both a King and a Warrior of the Holy Knights.<pause><lineend><CC03EA>That's why we call him the Warrior King.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0025><lineend><color=0001>You came from the southern kingdom? Is it true that they only have Queens there?<pause><lineend><CC03EA>I always thought that a kingdom is supposed to have a King.<pause><lineend><CC03EA>I mean, we've had nothing but Kings here since practically forever.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0014><lineend><color=0001>I was actually born in Knelt, myself.<pause><lineend><CC03EA>Yes, back in the day, I traveled all over Valendia.<pause><lineend><CC03EA>And even when I went someplace I'd already been before, I would always find new things.<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Volga may not be a big country...<pause><lineend><CC03EA>...but the people here are just as big-hearted as anyone in Valendia!<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Sword Mines are north of town. They've long been abandoned, though.<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=000B><lineend><color=0001>A visitor from afar? How unusual!<pause><lineend>|
+|
+|
+43|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
+|
+|
+49|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+52|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag is full...<pause><lineend>|
+|
+|
+58|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any items!<pause><lineend><CC03EA>It's not nice to tease your elders, you know.<pause><lineend>|
+|
+|
+63|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<lineend>Come again soon!<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag is full...<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You don't have enough money.<pause><lineend><CC03EA>Don't tease your elders like that!<pause><lineend>|
+|
+|
+78|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>I don't buy those.<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, the sun is starting to go down.<pause><lineend><CC03EA>It's probably best not to leave town when it's dark.<pause><lineend>|
+|
+|
+86|
+<CC03F0=000000880000000A03FF00000000>|
+|
+|
+144|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Aaaugh! Help me!<pause><lineend>|
+|
+|
+149|
+<CC03EA><color=0006><string=0028><lineend><color=0001>Eeeek!<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0006><string=0014><lineend><color=0001>What in the world is going on!?<pause><lineend>|
+|
+|
+163|
+<CC03EA><color=0006><string=0196><lineend><color=0001>I'm scared! I want my Mom!!<pause><lineend>|
+|
+|
+164|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please, everyone! Get yourselves somewhere safe!<pause><lineend>|
+|
+|
+218|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You!!<pause><lineend>|
+|
+|
+219|
+<CC03EA><color=0005><string=0106><lineend><color=0001>I've been expecting you, your Highness.<pause><lineend><CC03EA>Leon will be quite upset with me if I don't bring him your crown right away!<pause><lineend>|
+|
+|
+220|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm not giving it to you!<pause><lineend>|
+|
+|
+221|
+<CC03EA><color=0005><string=0106><lineend><color=0001>In that case, you'll just have to die.<pause><lineend>|
+|
+|
+252|
+<CC03EA><color=0005><string=0106><lineend><color=0001>Pretty tough, aren't you, your Highness?<pause><lineend><CC03EA>I can't wait to see how you do against me...<pause><lineend><CC03EA>...but today is your lucky day. It looks like someone's come to interfere.<pause><lineend>|
+|
+|
+268|
+<CC03EA><color=0006><string=0084><lineend><color=0001>We received word that monsters are attacking this town!<pause><lineend>|
+|
+|
+275|
+<CC03EA><color=0006><string=0085><lineend><color=0001>We, the Knights of Volga, are here to put a stop to them!<pause><lineend>|
+|
+|
+290|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You can't escape.<pause><lineend>|
+|
+|
+292|
+<CC03EA><color=0005><string=0106><lineend><color=0001>You think so?<pause><lineend><CC03EA>Actually, you've got other things to worry about, your Highness.<pause><lineend><CC03EA>Leon has already reached Castle Volga.<pause><lineend><CC03EA>I've also blocked off the road to the castle. You may as well give up on ever reaching it.<pause><lineend>|
+|
+|
+301|
+<CC03EA><color=0002><string=0000><lineend><color=0001>No!<pause><lineend>|
+|
+|
+318|
+<CC03EA><color=0006><string=0086><lineend><color=0001>Are you all right, Miss?<pause><lineend>|
+|
+|
+320|
+<CC03EA><color=0006><string=0086><lineend><color=0001>We did everything we could to get here as soon as we heard.<pause><lineend>|
+|
+|
+323|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Your King is in danger.<pause><lineend><CC03EA>Is there another way to get to Castle Volga?<pause><lineend>|
+|
+|
+330|
+<CC03EA><color=0006><string=0086><lineend><color=0001>Another way? Besides the main road?<pause><lineend><CC03EA>Well, you could get there by going through the old Sword Mines northwest of here...<pause><lineend>|
+|
+|
+332|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The Sword Mines to the northwest. Got it.<pause><lineend>|
+|
+|

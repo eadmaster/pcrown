@@ -1,0 +1,20 @@
+33|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Heeeelp!<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=0004><lineend><color=0001>D, d, Dragons!<lineend>Dragons in the village!<pause><lineend>|
+|
+|
+38|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Are you sure?<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Yes! There's one black Dragon leading three others! <pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Got it.<pause><lineend><CC03EA>You go and get yourself somewhere safe.<pause><lineend>|
+|
+|

@@ -1,0 +1,316 @@
+70|
+<CC03EA><color=0004><string=016E><lineend><color=0001>There's a good chance that someone will come here after Ondine.<pause><lineend><CC03EA>I should stay and protect her.<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Good idea.<pause><lineend><CC03EA>I'll go to Cadho Badho and look for whoever's responsible.<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Don't forget to watch your back.<pause><lineend>|
+|
+|
+73|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Right.<pause><lineend>|
+|
+|
+76|
+<CC03ED=016E001900010000>|
+|
+|
+77|
+<CC03EA><color=0004><string=016E><lineend><color=0001>One more thing...<pause><lineend>|
+|
+|
+78|
+<CC03ED=0000006200010000>|
+|
+|
+79|
+<CC03EA><color=0004><string=016E><lineend><color=0001>There are a lot of caves in the area that would make perfect hideouts.<lineend><pause><CC03EA>Whoever is after Ondine could be in one of them.<lineend><pause>|
+|
+|
+80|
+<CC03ED=0000008700010000>|
+|
+|
+82|
+<CC03ED=016E001900010000>|
+|
+|
+85|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Did you find anything?<pause><lineend>|
+|
+|
+86|
+<CC03ED=00000084000103FF><CC03FB=0064><CC03ED=0000008500010000>|
+|
+|
+87|
+<CC03EA><color=0004><string=016E><lineend><color=0001><CC03ED=016E0008000103FF>...Nothing?<lineend><CC03ED=016E0007000103FF><pause><CC03EA><CC03ED=016E000900010000><CC03ED=016E0001000103FF>There ought to be someone who's spreading rumors about Ondine.<lineend><CC03ED=016E0000000103FF><pause>|
+|
+|
+88|
+<CC03ED=0000008700010000><CC03ED=00000000000103FF>|
+|
+|
+134|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What are you doing to Edward!?<pause><lineend>|
+|
+|
+136|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You're the girl from Dorangora...<pause><lineend>|
+|
+|
+147|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward? Why are you protecting her?<pause><lineend><CC03EA>That mermaid is attacking the townspeople using monsters under her spell!<pause><lineend>|
+|
+|
+148|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Don't be ridiculous.<pause><lineend>|
+|
+|
+149|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...!!<lineend>Did she cast a spell on you, too!?<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hang on, Edward!<lineend>I'll get her!<lineend><pause>|
+|
+|
+156|
+<CC03EA><color=0004><string=016E><lineend><color=0001>It's like everyone in the world has gone deaf...<pause><lineend>|
+|
+|
+162|
+<CC03EA><color=0004><string=016E><lineend><CC03ED=016E0004000103FF><color=0001>Ondine, you go and hide yourself for now.<lineend><CC03ED=016E0003000103FF><pause>|
+|
+|
+177|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Your name was...Gradriel, right?<lineend><pause>|
+|
+|
+214|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Your skills have definitely improved.<pause><lineend><CC03EA>But if you're going to use your sword so carelessly...<pause><lineend><CC03EA>...you're no better than the rest of the criminals!<pause><lineend><CC03EA>Do you believe everything you hear, or do you judge the truth for yourself?<lineend><pause>|
+|
+|
+217|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...the truth?<pause><lineend>|
+|
+|
+219|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I don't suppose you've witnessed her attack anyone, have you?<pause><lineend>|
+|
+|
+222|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But everyone in town says...<pause><lineend>|
+|
+|
+224|
+<CC03EA><color=0004><string=016E><lineend><color=0001>See what she says, too! Then think about what you believe.<pause><lineend>|
+|
+|
+252|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>...Excuse me...<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+253|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Are you...trying to get a Mermaid's Tear, too?<pause><lineend>|
+|
+|
+256|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I haven't done anything wrong.<pause><lineend>|
+|
+|
+257|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>Aren't you the one controlling all the monsters?<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+259|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I may be a Siren, but I would never hurt anyone.<pause><lineend><CC03EA>I actually like people. That's why I live in this lake, away from the other Sirens.<pause><lineend>|
+|
+|
+262|
+<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so frightened...and so sad...<pause><lineend>|
+|
+|
+263|
+<CC03EA><color=0004><string=0107><lineend><color=0001>But Sir Edward was different. He put away his sword and listened to me.<pause><lineend><CC03EA>In fact, he's stayed here and watched over me ever since.<pause><lineend>|
+|
+|
+271|
+<CC03EA><color=0004><string=016E><lineend><color=0001>That's right.<pause><lineend>|
+|
+|
+274|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry. I've been wrong this whole time.<pause><lineend>|
+|
+|
+275|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Don't apologize to me.<pause><lineend>|
+|
+|
+285|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Oh, Edward...<pause><lineend><CC03EA>Nobody has ever treated me so kindly before...<pause><lineend>|
+|
+|
+298|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Her tear...<pause><lineend>|
+|
+|
+299|
+<CC03EA><color=0004><string=016E><lineend><color=0001>It's like they say in fairy-tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
+|
+|
+301|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's terrible...<lineend>We must put a stop to it!<pause><lineend>|
+|
+|
+302|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Don't you want to take the jewel?<pause><lineend>|
+|
+|
+306|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>It doesn't matter how beautiful it is, or how valuable.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I could never accept something born out of sadness like that.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+307|
+<CC03EA><color=0004><string=016E><lineend><color=0001>See, Ondine? There are people who do understand.<pause><lineend>|
+|
+|
+308|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You're right. This is why I like humans more than Sirens.<pause><lineend>|
+|
+|
+309|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>I'm so sorry. I had no right to accuse you of anything.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I judged you without any real proof.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>If I trace the rumors in Cadho Badho, I should be able to find who is after you.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>Whoever is responsible, I'll find them and make them stop. I promise.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+310|
+<CC03EA><color=0004><string=016E><lineend><color=0001>The sun is going down.<pause><lineend><CC03EA>You should spend the night here and go back to town tomorrow.<pause><lineend>|
+|
+|
+312|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're probably right. Come on, Aria. We can stay here tonight.<pause><lineend>|
+|
+|
+332|
+<CC03EA><color=0002><string=0000><lineend><color=0001>So...<lineend>I see you have a pet baby Dragon.<pause><lineend>|
+|
+|
+333|
+<CC03EA><color=0004><string=016E><lineend><color=0001>...Something like that.<pause><lineend><CC03EA>Let's just say someone made me take him.<pause><lineend>|
+|
+|
+338|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You two make a cute pair! Can he talk?<pause><lineend>|
+|
+|
+340|
+<CC03EA><color=0004><string=016E><lineend><color=0001>No, but he's still pretty helpful. He's been with me for a while now.<pause><lineend>|
+|
+|
+351|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Have you been traveling long?<pause><lineend>|
+|
+|
+352|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'm on a quest to find the Black Dragon.<pause><lineend><CC03EA>There's something I need to know, and he's part of the answer...<pause><lineend><CC03EA>But I'm also hoping that eventually, I'll be able to serve the Queen.<pause><lineend>|
+|
+|
+355|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What!?<pause><lineend><CC03EA>...I mean, serve the Queen how?<pause><lineend>|
+|
+|
+356|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Once I've wrapped everything up, I want to enroll in the Knight Guard.<pause><lineend>|
+|
+|
+357|
+<CC03EA><color=0002><string=0000><lineend><color=0001>If you really do join the Knight Guard someday, I...<pause><lineend><CC03EA>I think the Queen would feel very reassured.<pause><lineend>|
+|
+|
+374|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'll protect her with my life. Let's just say it's something I have to do.<pause><lineend>|
+|
+|
+375|
+<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Guard.<pause><lineend><CC03EA>One day, though...He came under a spell, double-crossed the Guard, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
+|
+|
+386|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I can do it by joining the Knight Guard and protecting the new Queen...<pause><lineend><CC03EA>...You know, you're the first person I've told this to.<pause><lineend>|
+|
+|
+393|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend><CC03EA>Please don't blame yourself for the things your Father did.<pause><lineend><CC03EA>I think you've proved enough already by becoming the kind of person you have.<pause><lineend>|
+|
+|
+398|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Is that so...<pause><lineend><CC03EA>Anyway, tell me, what brought you all the way out here?<pause><lineend>|
+|
+|
+403|
+<CC03EA><color=0002><string=0000><lineend><color=0001>There are things I wanted to see for myself...<pause><lineend><CC03EA>I'm sorry. I can't say any more than that right now.<pause><lineend>|
+|
+|
+406|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I suppose you have your reasons. That's all right. I won't pry.<pause><lineend>|
+|
+|
+412|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But thanks to meeting you, Edward, I feel like I've found one of the answers I've been looking for.<pause><lineend><CC03EA>Thank you very much.<pause><lineend>|
+|
+|
+415|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You've got a busy day in Cadho Badho tomorrow. I'll watch the fire. You go to sleep.<lineend><pause>|
+|
+|
+417|
+<CC03EA><color=0002><string=0000><lineend><color=0001>All right. Tomorrow, I'll catch whoever is behind this.<pause><lineend>|
+|
+|
+421|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'm sure you will. Now get some rest.<pause><lineend>|
+|
+|
+449|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Is everything OK?<pause><lineend>|
+|
+|
+453|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>The people behind the awful rumors are gone now.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>Everything is turning out all right. The people in the city are learning the truth as we speak.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+454|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Does this mean the townspeople and I can get along again?<pause><lineend>|
+|
+|
+455|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>I'm sure it does.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+459|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You're probably right.<pause><lineend>|
+|
+|
+460|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you for your help, Gradriel.<pause><lineend>|
+|
+|
+466|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I wish you the best of luck in your travels.<pause><lineend>|
+|
+|
+476|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Well, Gradriel, this is goodbye. I'm going to resume my search for the Black Dragon.<pause><lineend>|
+|
+|
+478|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Will I ever see you again, Edward?<pause><lineend>|
+|
+|
+482|
+<CC03EA><color=0004><string=016E><lineend><color=0001>As long as I'm alive, why not?<pause><lineend>|
+|
+|

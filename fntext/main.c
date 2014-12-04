@@ -1,4 +1,4 @@
-/*  Copyright 2013 Theo Berkau
+/*  Copyright 2012-2014 Theo Berkau
 
     This file is part of FNTEXT.
 

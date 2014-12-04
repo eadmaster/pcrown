@@ -1,0 +1,216 @@
+73|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Is it true that evil magic is spreading because the Demon King's seal is broken?<pause><lineend>|
+|
+|
+74|
+<CC03EA><color=0001>That is correct.<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Larva, The God of Darkness, can now manifest in our world...<pause><lineend>|
+|
+|
+86|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend><CC03EA>...What do you mean, "The God of Darkness?"<pause><lineend>|
+|
+|
+87|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>You must have a lot of questions indeed.<pause><lineend><CC03EA>Bear with me a moment. I'll tell you everything.<pause><lineend>|
+|
+|
+93|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>In our world there are two gods, and they exist together in a state of enmity.<pause><lineend><CC03EA>There is Gaia, the Goddess of Light, and Larva, the God of Darkness.<pause><lineend>|
+|
+|
+96|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Gods of both Light and Darkness...<pause><lineend>|
+|
+|
+97|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Long ago, people were abundant in faith and love.<pause><lineend><CC03EA>Faith and love are the very origin of Gaia herself. <pause><lineend><CC03EA>All of the world was once protected by her Light.<pause><lineend><CC03EA>But, there is another power known as Darkness.<pause><lineend><CC03EA>From the moment it appeared, it has sought to consume the world of Light.<lineend><pause>|
+|
+|
+98|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...<pause><lineend>|
+|
+|
+99|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Hatred and evil magic are the source of Larva's power.<pause><lineend><CC03EA>These things must overtake the world in order for him to consume it.<pause><lineend><CC03EA>Larva has appeared in our world in the form of a book.<pause><lineend><CC03EA>He has come in order to spread hatred and evil magic.<pause><lineend>|
+|
+|
+100|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That book was actually the Dark God himself...<pause><lineend>|
+|
+|
+101|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>It once led the prince of a certain kingdom to transform himself into the Demon King.<pause><lineend><CC03EA>Time and again, he has led the Demons in an attack on our world.<pause><lineend><CC03EA>He has spread hatred and evil magic in the place of love and faith.<pause><lineend><CC03EA>However, the Goddess Gaia sealed away both the Demon King and the book long ago.<pause><lineend><CC03EA>She had to spend her final strength to do it, but she saved our world in the process.<pause><lineend>|
+|
+|
+102|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Can all of this be true?<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Oh yes...I am sure of it...For the book itself has told me everything.<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon...?<lineend>You don't mean...<lineend><pause>|
+|
+|
+106|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Those chains didn't just seal the Demon King. They sealed the Demon Realm, too!<pause><lineend><CC03EA>Now the world is filling with evil magic.<pause><lineend><CC03EA>I really must remember to thank Sidrael for breaking that seal.<pause><lineend>|
+|
+|
+108|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I won't let you do anything of the sort.<pause><lineend>|
+|
+|
+109|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>The time for talking is over, I take it?<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Very well. That means it's time for me to get that crown off your head.<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What are you talking about?<pause><lineend>|
+|
+|
+130|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>The crowns of the royal families of Valendia and Volga house the power of Gaia.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>In order for the Larva to descend upon the world, the two crowns must first be sealed away.<lineend><CC03ED=00F70006000103FF><pause>|
+|
+|
+131|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>That is why I will now be taking yours!<lineend><CC03ED=00F70006000103FF><pause>|
+|
+|
+135|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Well well...Look at this.<lineend>Now I understand...<lineend><CC03ED=00F70006000103FF><pause>|
+|
+|
+136|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You were fond of me, weren't you?<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>You leave me no choice.<lineend><CC03ED=00F70006000103FF><pause>|
+|
+|
+145|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Necro-Samantha!<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0005><string=0106><lineend><color=0001>You called Master Leon?<pause><lineend>|
+|
+|
+151|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>I want you to kill this girl and take her crown. Understood!<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>I bid you farewell, Queen Gradriel!<pause><lineend>|
+|
+|
+155|
+<CC03EA><color=0005><string=0106><lineend><color=0001>Don't worry, your Highness. I'll keep you entertained!<pause><lineend>|
+|
+|
+168|
+<CC03EA><color=0005><string=0106><lineend><color=0001>So this is the girl who beat the Demon King.<pause><lineend><CC03EA>The next time we meet, I'm going to finish you off as Leon ordered.<pause><lineend><CC03EA>Count on it!<lineend><pause>|
+|
+|
+179|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon...<pause><lineend>|
+|
+|
+184|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Now you're the one under that book's spell? What should I do?<pause><lineend>|
+|
+|
+188|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Are you all right, your Majesty?<pause><lineend>|
+|
+|
+190|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We're not going to be able to stop the evil magic from spreading.<pause><lineend>|
+|
+|
+191|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, let's go to Volga! There's still time.<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Aria...<pause><lineend>|
+|
+|
+197|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're right. Leon is going to go after the crown of Volga.<pause><lineend>|
+|
+|
+198|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We should go see the King immediately.<pause><lineend>|
+|
+|
+217|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel! Thank goodness.<lineend><pause><lineend>|
+|
+|
+218|
+<CC03EA><color=0004><string=00FB><lineend><color=0001>We were worried about you, Gradriel.<pause><lineend>|
+|
+|
+220|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Eriel.<pause><lineend>|
+|
+|
+223|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>What happened at the Demon King's tower?<pause><lineend>|
+|
+|
+225|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I found Leon waiting inside.<pause><lineend>|
+|
+|
+226|
+<CC03EA><color=0004><string=00FB><lineend><color=0001>You mean the man who saved me? In the Demon Realm?<pause><lineend>|
+|
+|
+228|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon seemed to be under the spell of that same evil book.<pause><lineend>|
+|
+|
+231|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Not...Not THAT book!?<pause><lineend>|
+|
+|
+233|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon is working to bring Larva, the God of Darkness, into our world.<pause><lineend><CC03EA>He said he needs to seal away the two crowns of Valendia and Volga in order to do it.<pause><lineend>|
+|
+|
+234|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The crowns?<pause><lineend>|
+|
+|
+236|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think it's vital that we tell the King of Volga about this at once.<pause><lineend>|
+|
+|
+238|
+<CC03EA><color=0004><string=00FB><lineend><color=0001>Lord Jadis, the King, is our Grandfather.<pause><lineend><CC03EA>We have to hurry...<pause><lineend>|
+|
+|
+239|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Father, Sir Shelius, was Volga's crown prince.<pause><lineend><CC03EA>But once he fell in love with your Mother, he remained in this kingdom until his death.<pause><lineend><CC03EA>In doing so, he renounced his heritage. King Volga never forgave him for that.<pause><lineend><CC03EA>Whether or not he'll even receive a message from us is hard to say...<pause><lineend>|
+|
+|
+242|
+<CC03EA><color=0004><string=00FB><lineend><color=0001>Maybe so, but we have to warn him about the danger.<pause><lineend>|
+|
+|
+243|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'll warn him myself.<pause><lineend>|
+|
+|
+245|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Again? But Queen Gradriel...<pause><lineend><CC03EA>...Or is it useless to try and stop you?<pause><lineend>|
+|
+|

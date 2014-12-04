@@ -1,0 +1,76 @@
+13|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Remember those lovey-dovey honeymooners?<pause><lineend><CC03EA>Well, they went back home. I wonder how they're doing now?<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0059><lineend><color=0001>The Froggers in the Frogger Village were actually a pretty friendly bunch.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I guess all the bandits are gone from Cadho Badho...<pause><lineend><CC03EA>...but I'm having too much fun here to go home just yet!<pause><lineend>|
+|
+|
+22|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble right now because of a group of bandits called The Donfans.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=0067><lineend><color=0001>Y, you went to Illusion Island, right? That's what I heard.<pause><lineend><CC03EA>Are you sure you're not cursed with something now?<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0006><string=0063><lineend><color=0001>The seas were rough right before the earthquake. It must have been a sign.<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=003C><lineend><color=0001>With the way he looks, you know that one-legged man must be an amazing sailor.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=001C><lineend><color=0001>It's almost like the waves are trying to tell us something...<pause><lineend><CC03EA>No, it must be just my imagination!<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0006><string=000F><lineend><color=0001>Maybe the earthquake happened because Gaia is sad about something?<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0006><string=003D><lineend><color=0001>There was a really big earthquake. Or did you already know that?<pause><lineend>|
+|
+|
+43|
+<CC03EA><color=0006><string=001D><lineend><color=0001>You weren't hurt in that earthquake, were you, Miss?<pause><lineend>|
+|
+|
+47|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+53|
+<CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+56|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+62|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+67|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+74|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|

@@ -1,0 +1,4 @@
+4|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Go to Lake Titania. Ondine will help you.<pause><lineend>|
+|
+|

@@ -1,0 +1,12 @@
+5|
+<CC03EA><color=0006><string=007D><lineend><color=0001>次は、絶対に負けません！<pause><lineend><CC03EA>同じ敵におくれは取らないからこそ<lineend>カード騎士団は最強と呼ばれるのですから。<pause><lineend>|
+|
+|
+8|
+<CC03EA><color=0006><string=007E><lineend><color=0001>女王様をお護りする為なら<lineend>命さえもおしくはありません。<pause><lineend>|
+|
+|
+11|
+<CC03EA><color=0006><string=007D><lineend><color=0001>エドワード殿。<lineend><pause><CC03EA>謁見の間は、女王の許可なく<lineend>立ち入る事は禁じられています。<lineend><pause>|
+|
+|

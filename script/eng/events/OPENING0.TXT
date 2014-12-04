@@ -1,0 +1,56 @@
+63|
+<CC03EA><color=0001>"Once upon a time, there was a kingdom called Valendia."<pause><lineend><CC03EA>"The people of the kingdom lived in peace, watched over by their wise and powerful Queen."<pause><lineend><CC03EA>"But, one night, a horde of Demons suddenly appeared and attacked the castle..."<pause><lineend>|
+|
+|
+74|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring out the Queen!<pause><lineend><CC03EA>We require her royal blood to revive our King.<pause><lineend>|
+|
+|
+138|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Wretched Demon!<pause><lineend><CC03EA>As long as a single one of us stands, we won't let you take her.<pause><lineend>|
+|
+|
+140|
+<CC03EA><CC03FC=0004><string=007F>Jestonai! The other monsters are making their way to this floor!<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>I knew disaster was near when the light of the stars began to fade...<pause><lineend><CC03EA>...but I never imagined that it would come to this.<pause><lineend><CC03EA>That a Demon and his horde would barge their way into the Royal Castle itself!<pause><lineend><CC03EA>However, they will advance no further. I shall now vanquish them with my magic!<pause><lineend>|
+|
+|
+152|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Was that the best you could do?<pause><lineend>|
+|
+|
+175|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=001>Not a single one of you will survive. In the name of the Demon King, I will kill you all!<pause><lineend>|
+|
+|
+203|
+<CC03EA><CC03FC=0004><string=007D><color=0001>All of you get back! I will fight him alone!<pause><lineend>|
+|
+|
+207|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Here I am, Demon!<pause><lineend>|
+|
+|
+213|
+<CC03EA><CC03FC=0004><string=007F>Your Majesty!!<pause><lineend>|
+|
+|
+215|
+<CC03EA> <color=0004><string=00FF><lineend><color=0001>Look at all these wounded soldiers...You won't get away with this!<pause><lineend><CC03EA>Prepare to taste my sword, Demon!<pause><lineend>|
+|
+|
+229|
+<CC03EA><CC03FC=0004><string=007D>Men! The time to prove our bravery is now!<pause><lineend><CC03EA>Be the Queen's shield! Go!<pause><lineend>|
+|
+|
+251|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Your Highness, I'm putting all of my magic power into your sword!<pause><lineend>|
+|
+|
+258|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>We will never allow your plan to revive the Demon King to succeed.<pause><lineend><CC03EA>No matter how many generations pass, the sword of my family will never falter...<pause><lineend>|
+|
+|

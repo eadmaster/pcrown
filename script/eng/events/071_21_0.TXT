@@ -1,0 +1,65 @@
+84|
+<CC03EA><color=0005><string=0115><lineend><color=0001>Ha ha ha...<lineend>You thought you had me, didn't you?<pause><lineend><CC03EA>I must say, piercing your heart with my own claws was the most fun I've had in ages.<pause><lineend>|
+|
+|
+91|
+<CC03EA><color=0005><string=0115><lineend><color=0001>...You must be with Golgotha's son here. Ha ha! You're too late!<pause><lineend><CC03EA>Go ahead. Try and speak to him! He's nothing but a corpse now.<pause><lineend>|
+|
+|
+96|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I've swallowed dozens of Magic Stones to protect myself.<pause><lineend><CC03EA>Your human-made sword won't work on me.<pause><lineend>|
+|
+|
+98|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You killed Edward!!!<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your sword sword wouldn't work.<pause><lineend><CC03EA>Now once I finish you off, I can be on my way...<pause><lineend>|
+|
+|
+128|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Somebody! Help!<lineend>He's going to kill the Queen!<pause><lineend>|
+|
+|
+139|
+<CC03EA><color=0004><string=0116><lineend><color=0001>Demon! Don't you lay a single dirty finger on that girl!<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A Unicorn!?<pause><lineend>|
+|
+|
+157|
+<CC03EA><color=0004><string=0116><lineend><color=0001>It's all right now. The Demon will never follow us here.<pause><lineend>|
+|
+|
+160|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Where's Edward!?<pause><lineend>|
+|
+|
+161|
+<CC03EA><color=0004><string=0116><lineend><color=0001>...The young man in the cave was dead.<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But...How...<lineend>He can't be...<pause><lineend>|
+|
+|
+168|
+<CC03EA><color=0004><string=0116><lineend><color=0001>He must have been important to you.<pause><lineend>|
+|
+|
+172|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Unicorn, please!<lineend>Go back and save Edward!<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I'm so sorry...<lineend>That's simply not within my power.<pause><lineend><CC03EA>But...If you can find a Dragon called Heindel, he may be able to tell you a way to save him.<pause><lineend><CC03EA>His wisdom transcends the ages, and he can answer any question he is asked.<pause><lineend>
+<CC03EA><color=0005>The entrance to the underground ruins where he lives<color=0001> is near the <color=0002>left exit of Knelt.<color=0001><pause><lineend><CC03EA>It's worth a try.<pause><lineend>|
+|
+|
+174|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>A Dragon called Heindel...<pause><lineend>|
+|
+|

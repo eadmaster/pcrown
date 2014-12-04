@@ -1,0 +1,76 @@
+11|
+<CC03EA><color=0006><string=017F><lineend><color=0001>The Queen has decreed that you may enter any room that you wish.<pause><lineend><CC03EA>You are also welcome to make use of a guest room.<pause><lineend>|
+|
+|
+14|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Queen Elfaran's room is right through here.<pause><lineend>|
+|
+|
+17|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The town was attacked as well.<pause><lineend><CC03EA>Both the castle and the town went from pristine to ruined in the blink of an eye.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I can't believe they died at the hands of someone we trusted...<pause><lineend><CC03EA>I won't forget this, Golgotha... Those people you killed were my friends!<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Glowstar, I'll put my own life on the line to protect this country. You'll see...<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take you wherever you want to go.<pause><lineend>|
+|
+|
+29|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been waiting for you.<pause><lineend><CC03EA>The Time Stone has the power to overcome time and space.<pause><lineend><CC03EA>Of course, if it fell into the wrong hands, it would be a disaster...<pause><lineend><CC03EA>Just thinking that a Demon had been in possession of it gives me chills.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...er...My Lord, I have a request.<pause><lineend><CC03EA>I would like to borrow that Time Stone. It's for reasons that I sadly can't explain.<pause><lineend><CC03EA>The only thing I can say is that I need it to help a dear friend of mine.<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hmm...<pause><lineend><CC03EA>...So be it. You seem trustworthy.<pause><lineend><CC03EA>Here, take it. It belongs to you now.<pause><lineend><CC03EA>All you have to do is hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take you the time and place you desire.<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, if it isn't our savior!<pause><lineend><CC03EA>I will now offer a prayer of thanks for the peace that has fallen upon us.<pause><lineend><CC03EA>How about yourself? Would you care to join me?<pause><lineend>|
+|
+|
+41|
+<CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
+|
+|
+47|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps another time.<pause><lineend>|
+|
+|
+57|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your prayers.<pause><lineend>|
+|
+|
+59|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+60|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+71|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+117|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Time Stone, I beseech you!<pause><lineend>|
+|
+|
+118|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Take me to the future!<pause><lineend><CC03EA>Take me to just before Edward loses his life!<pause><lineend>|
+|
+|

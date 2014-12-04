@@ -1,0 +1,64 @@
+7|
+<CC03EA><color=0006><string=00B1><lineend><color=0001>This place is a Frogger's paradise!<pause><lineend><CC03EA>Why is that, you ask? Just look at all the bugs! <pause><lineend>|
+|
+|
+8|
+<CC03ED=00B1000200010000><CC03ED=00B10003000103FF><CC03FB=001E><CC03ED=00B1000600010000><CC03FB=003C>|
+|
+|
+9|
+<CC03EA><color=0006><string=00B1><lineend><color=0001>Urp...<lineend>This is the life.<pause><lineend>|
+|
+|
+12|
+<CC03EA><color=0006><string=00B2><lineend><color=0001>You probably think us Froggers lie around here all day without a care in the world.<pause><lineend><CC03EA>Well, you'd be right!<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=00B3><lineend><color=0001>I never liked fighting.<pause><lineend><CC03EA>Of course, you'll meet ruffian Froggers out there who love to pick fights.<pause><lineend><CC03EA>But take a good look at my face. Would this face ever hurt you?<pause><lineend>|
+|
+|
+18|
+<CC03EA><color=0006><string=00B4><lineend><color=0001>We Froggers have a song we sing when we want it to rain.<pause><lineend><CC03EA>After a while, we can make lightning strike, too!<pause><lineend><CC03EA>Did you know that if it weren't for Froggers, there would be no rain? That's the law of nature.<pause><lineend><CC03EA>Ha ha! Listen to me! "Law of nature..." I sound so smart! Now, back to eating bugs.<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0006><string=00B5><lineend><color=0001>Welcome! I run an inn for weary travelers.<pause><lineend><CC03EA>For 30G, you can spend the night.<pause><lineend>|
+|
+|
+27|
+<CC03EA><CC03FC=0004><string=00B5><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>|
+|
+|
+33|
+<CC03EA><color=0006><string=00B5><lineend><color=0001>Well, keep at it, then! Just don't work too hard.<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=00B5><lineend><color=0001>You're broke!<lineend>Try again later.<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0006><string=00B5><lineend><color=0001>OK, then! Make yourself at home!<pause><lineend>|
+|
+|
+49|
+<CC03EA><color=0006><string=00B5><lineend><color=0001>Good morning!<lineend>Have a safe trip!<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+52|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+63|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|

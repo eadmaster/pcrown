@@ -1,0 +1,92 @@
+76|
+<CC03EA><color=0005><string=0110><lineend><color=0001>It's time. Say the words passed down in the Royal Family.<pause><lineend><CC03EA>Release me from these chains...<lineend>Chains which bind my very soul...<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0004><string=012A><lineend><color=0001>"Voice of mine, reach the farthest lands."<pause><lineend>|
+|
+|
+87|
+<CC03EA><CC03FC=0004><string=012A><color=0001><CC03ED=012A000B000103FF>"I speak the prayer of all who seek the righteous path."<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>"May light rain down upon the darkness..."<lineend><CC03ED=012A000A000103FF><pause>|
+|
+|
+89|
+<CC03EA><CC03FC=0004><string=012A><color=0001>"May the restraints of suffering vanish..."<pause><lineend><CC03EA>"...And may that which is locked in our hearts be set free."<pause><lineend>|
+|
+|
+92|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael!<pause><lineend>|
+|
+|
+128|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Volgrod!<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael, watch out!<pause><lineend>|
+|
+|
+153|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Demon King! I am Gradriel, Queen of Valendia. Your fight is with me!<pause><lineend>|
+|
+|
+169|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel!<pause><lineend>|
+|
+|
+180|
+<CC03EA><color=0004><string=016D><lineend><color=0001>He must be the Demon King...<pause><lineend>|
+|
+|
+189|
+<CC03EA><color=0002><string=0000><lineend><color=0001>He's disappearing!<pause><lineend>|
+|
+|
+197|
+<CC03EA><color=0004><string=016D><lineend><color=0001>That doesn't sound good.<pause><lineend>|
+|
+|
+202|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The tower! It's shaking!<pause><lineend>|
+|
+|
+205|
+<CC03EA><color=0004><string=016D><lineend><color=0001>We've rescued Princess Sidrael. It's time to get out of here!<pause><lineend>|
+|
+|
+212|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Right. We should get Sidrael to a safe place quickly.<pause><lineend>|
+|
+|
+279|
+<CC03EA><color=0005><string=0174><lineend><color=0001>You attacked the King before he even had a chance to gather his strength!<pause><lineend>|
+|
+|
+280|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Skulg...<pause><lineend>|
+|
+|
+281|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel, get Princess Sidrael back to the ship. Hurry!<pause><lineend>|
+|
+|
+282|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+283|
+<CC03EA><color=0004><string=016D><lineend><color=0001>This is my fight. Nobody, not even you, is going to get in my way.<pause><lineend>|
+|
+|
+286|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Good luck, Edward...<pause><lineend>|
+|
+|
+306|
+<CC03EA><color=0004><string=016D><lineend><color=0001>You're the one who isn't going anywhere.<pause><lineend><CC03EA>I hope you're ready to see what it means to be the son of Golgotha!<pause><lineend>|
+|
+|
+307|
+<CC03EA><color=0005><string=0174><lineend><color=0001>If following in your Father's footsteps is what you want, then allow me to oblige!<pause><lineend>|
+|
+|

@@ -1,0 +1,180 @@
+16|
+<CC03EA><color=0006><string=0045><lineend><color=0001>The bandits may be gone, but the shield they stole from me never came back.<pause><lineend>|
+|
+|
+17|
+<CC03EA><color=0006><string=0046><lineend><color=0001>Just have a drink already!<pause><lineend><CC03EA>Cadho Badho is finally going to quiet down.<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=0045><lineend><color=0001>Those rotten bandits! They stole my magic shield!<pause><lineend><CC03EA>I worked my tail off to save enough money to buy that thing!<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=0046><lineend><color=0001>You just relax and have a drink.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0045><lineend><color=0001>The bandits may be gone, but the shield they stole from me never came back.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=0046><lineend><color=0001>Just have a drink already!<pause><lineend><CC03EA>Cadho Badho is finally going to quiet down.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0045><lineend><color=0001>Those rotten bandits! They stole my magic shield!<pause><lineend><CC03EA>I worked my tail off to save enough money to buy that thing!<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0006><string=0046><lineend><color=0001>You just relax and have a drink.<pause><lineend>|
+|
+|
+32|
+<CC03EA><color=0006><string=0047><lineend><color=0001>A Warrior has to be both brave and alert!<pause><lineend><CC03EA>I work to be so during each day of my life.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=0047><lineend><color=0001>The Warriors weren't the only ones the bandits robbed. They hit the Wizards pretty badly, too.<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
+|
+|
+41|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho Badho and not try something at The Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
+|
+|
+42|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+44|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+52|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+|
+|
+60|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+|
+|
+66|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+68|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+75|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
+|
+|
+83|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+85|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+89|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+92|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
+|
+|
+93|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+98|
+<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be interested?<pause><lineend>|
+|
+|
+99|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+101|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+105|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+|
+|
+106|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
+|
+|
+111|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+115|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
+|
+|
+116|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+|
+|
+122|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+126|
+<CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+|
+|
+132|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+138|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+|
+|
+141|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+|
+|
+148|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+151|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+162|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+163|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|

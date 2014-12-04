@@ -1,0 +1,20 @@
+8|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, look at this. A cabin! I had no idea this was here.<pause><lineend><CC03EA>Why, this isn't bad at all!<pause><lineend><CC03EA>OK, it's official. I'm making this place into my hideout!<pause><lineend><CC03EA>First things first. Better clean up and get everything ready!<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina, you're going the wrong way!<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I am?<pause><lineend>|
+|
+|
+40|
+<CC03F0=000200100001000F03FF00000000>|
+|
+|
+57|
+<CC03EA><color=0002><string=0002><lineend><color=0001>It's looking good.<pause><lineend><CC03EA>Now that it's all cleaned up, it's time to go kidnap some Nutsbill children!<pause><lineend><CC03EA>Ha ha ha ha ha!!<pause><lineend>|
+|
+|

@@ -1,0 +1,261 @@
+28|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Welcome to Knelt. You've certainly come a long way to get here!<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Donfan? Never heard of 'em.<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Welcome to Knelt. You've certainly come a long way to get here!<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=000B><lineend><color=0001>Beyond Knelt, there's hardly anything to speak of.<pause><lineend><CC03EA>Only craggy mountains as far as the eye can see.<pause><lineend><CC03EA>That's why we say our village is on the very edge of Valendia.<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0006><string=0020><lineend><color=0001>My Mom is way too protective.<pause><lineend><CC03EA>8 years old is practically grown up! But she still says I can't explore outside the village.<pause><lineend><CC03EA>It just isn't fair.<pause><lineend>|
+|
+|
+43|
+<CC03EA><color=0006><string=0020><lineend><color=0001>I was playing on the edge of town when a man I'd never seen before chased me off.<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0006><string=0020><lineend><color=0001>My Mom is way too protective.<pause><lineend><CC03EA>8 years old is practically grown up! But she still says I can't explore outside the village.<pause><lineend><CC03EA>It just isn't fair.<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0006><string=000A><lineend><color=0001>The monsters in this area are exceptionally strong.<pause><lineend><CC03EA>The thought of my son wandering off by himself terrifies me.<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0006><string=002D><lineend><color=0001>The Dwarves are kind and reliable neighbors.<pause><lineend>|
+|
+|
+54|
+<CC03EA><color=0006><string=0012><lineend><color=0001>It looks like the newlyweds are back from their honeymoon.<pause><lineend>|
+|
+|
+57|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad is walking from place to place all over the kingdom trying Local Delicacies.<pause><lineend>|
+|
+|
+60|
+<CC03EA><color=0006><string=0033><lineend><color=0001>The honeymoon was fabulous, but there's nothing like being back home.<pause><lineend><CC03EA>I feel so relaxed!<pause><lineend>|
+|
+|
+63|
+<CC03EA><color=0006><string=0031><lineend><color=0001>I've got to do my best to be a good wife.<pause><lineend><CC03EA>I'm going to make his favorite meals every day! I'm quite the cook, you know.<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0006><string=0052><lineend><color=0001>I'm experimenting with magic potions and medicines.<pause><lineend><CC03EA>It's my dream to invent entirely new potions all by myself.<pause><lineend>|
+|
+|
+75|
+<CC03EA><color=0006><string=0052><lineend><color=0001>This next experiment is going to be big. It's time to focus!<pause><lineend><CC03EA>Feel free to drop by again later. I just might have hit on a new Potion by then.<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Have a safe trip!<lineend><pause>|
+|
+|
+99|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+105|
+<CC03EA><CC03FC=0004><string=01A8><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+108|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have space to carry anything.<pause><lineend>|
+|
+|
+114|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+124|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have space to carry anything.<pause><lineend>|
+|
+|
+126|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+134|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|
+140|
+<CC03EA><color=0006><string=0053><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+|
+|
+141|
+<CC03EA><CC03FC=0004><string=0053><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+|
+|
+145|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+151|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+158|
+<CC03EA><color=0006><string=0053><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
+|
+|
+161|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+163|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.
+<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Welcome!<pause><lineend><CC03EA>We'll make whatever medicine you want with any ingredients you have.<pause><lineend>|
+|
+|
+168|
+<CC03EA><CC03FC=0004><string=01B9><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
+|
+|
+170|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back soon!<pause><lineend>|
+|
+|
+182|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Sharp-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+184|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Jagged-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+186|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Round-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+188|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Jagged-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+190|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Round-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Mixing costs 20G. Is that all right?<pause><lineend>|
+|
+|
+193|
+<CC03EA><CC03FC=0004><string=01B9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+197|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back soon!<pause><lineend>|
+|
+|
+201|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Sharp-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+203|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Jagged-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+205|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Round-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+207|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Jagged-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+209|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and Round-Leaf Grass to make that Potion.<pause><lineend>|
+|
+|
+210|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>You don't have enough ingredients.<pause><lineend>|
+|
+|
+211|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back soon!<pause><lineend>|
+|
+|
+219|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Looks like you can't quite afford it.<pause><lineend>|
+|
+|
+220|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back soon!<pause><lineend>|
+|
+|
+222|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Here you are!<pause><lineend>|
+|
+|
+223|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back soon!<pause><lineend>|
+|
+|
+230|
+<CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to make an Invincible Potion, but I think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
+|
+|
+236|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
+|
+|
+237|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
+|
+|
+238|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to me!<pause><lineend>|
+|
+|
+253|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf Grass!<lineend><pause>|
+|
+|
+259|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf Grass just yet.<lineend><pause>|
+|
+|
+260|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+|
+|
+275|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
+|
+|
+306|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Whew! Thank heavens!<lineend>And thank you, too!<pause><lineend><CC03EA>I really am an idiot sometimes...<pause><lineend><CC03EA>Here, I have something for you!<pause><lineend>|
+|
+|
+307|
+<CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
+|
+|
+312|
+<CC03EA><color=0002>Got Music Score number 3!<pause><lineend>|
+|
+|

@@ -1,0 +1,172 @@
+78|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, it's dangerous for you to be outside the cave.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+79|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I just saw you coming, that's all...<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I spoke with the Leader of the Knights.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't think anyone else from Cadho Badho will try to catch you.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+81|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you.<pause><lineend><CC03EA>Let me heal you, Sir Edward. It's the least I can do.<pause><lineend>|
+|
+|
+95|
+<CC03EA><color=0004><string=017E><lineend><color=0001>What are you doing to Edward!?<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You're the girl from Dorangora...<pause><lineend>|
+|
+|
+121|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Edward? Why are you protecting her?<pause><lineend><CC03EA>That mermaid is attacking the townspeople using monsters under her spell!<pause><lineend>|
+|
+|
+123|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't be ridiculous.<pause><lineend>|
+|
+|
+124|
+<CC03EA><color=0004><string=017E><lineend><color=0001>...!!<lineend>Did she cast a spell on you, too!?<pause><lineend>|
+|
+|
+127|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Hang on, Edward!<lineend>I'll get her!<lineend><pause>|
+|
+|
+128|
+<CC03EA><color=0003><string=0001><lineend><color=0001>It's like everyone in the world has gone deaf...<pause><lineend>|
+|
+|
+133|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, you go and hide yourself for now.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+142|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your name was...Gradriel, right?<pause><lineend>|
+|
+|
+187|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your skills have definitely improved.<pause><lineend><CC03EA>But if you're going to use your sword so carelessly...<pause><lineend><CC03EA>...you're no better than the rest of the criminals!<pause><lineend><CC03EA>Do you believe everything you hear, or do you judge the truth for yourself?<lineend><pause>|
+|
+|
+191|
+<CC03EA><color=0004><string=017E><lineend><color=0001>...the truth?<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I don't suppose you've witnessed her attack anyone, have you?<pause><lineend>|
+|
+|
+193|
+<CC03EA><color=0004><string=017E><lineend><color=0001>But everyone in town says...<pause><lineend>|
+|
+|
+198|
+<CC03EA><color=0003><string=0001><lineend><color=0001>See what she says, too! Then think about what you believe.<pause><lineend>|
+|
+|
+218|
+<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so frightened...and so sad...<pause><lineend>|
+|
+|
+219|
+<CC03EA><color=0004><string=0107><lineend><color=0001>But Sir Edward was different. He believed me when I told him the truth.<pause><lineend><CC03EA>In fact, he's stayed here and watched over me ever since.<pause><lineend>|
+|
+|
+226|
+<CC03EA><color=0003><string=0001><lineend><color=0001>That's right.<pause><lineend>|
+|
+|
+229|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'm sorry. I've been wrong this whole time.<pause><lineend>|
+|
+|
+230|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't apologize to me.<pause><lineend>|
+|
+|
+239|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Oh, Edward...<pause><lineend><CC03EA>Nobody has ever treated me so kindly before...<pause><lineend>|
+|
+|
+257|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Her tear...<pause><lineend>|
+|
+|
+258|
+<CC03EA><color=0003><string=0001><lineend><color=0001>It's like they say in fairy-tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
+|
+|
+260|
+<CC03EA><color=0004><string=017E><lineend><color=0001>That's terrible...We have to put a stop to it!<pause><lineend>|
+|
+|
+261|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Don't you want to take the jewel?<pause><lineend>|
+|
+|
+265|
+<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>It doesn't matter how beautiful it is, or how valuable.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I could never accept something born out of sadness like that.<lineend><CC03ED=017E001C000103FF><pause>|
+|
+|
+266|
+<CC03EA><color=0003><string=0001><lineend><color=0001>See, Ondine? There are people who do understand.<pause><lineend>|
+|
+|
+267|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You're right. This is why I like humans more than Sirens.<pause><lineend>|
+|
+|
+274|
+<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>I'm terribly sorry. I had no right to accuse you of anything.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I judged you without proof.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>If I trace the rumors in Cadho Badho, I should be able to find who is after you.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>Whoever is responsible, I'll find them and make them stop. I promise.<lineend><CC03ED=017E001C000103FF><pause>|
+|
+|
+275|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The sun is going down.<pause><lineend><CC03EA>You should spend the night here and go back to town tomorrow.<pause><lineend>|
+|
+|
+277|
+<CC03EA><color=0004><string=017E><lineend><color=0001>You're probably right. Come on, Aria. We can stay here tonight.<pause><lineend>|
+|
+|
+284|
+<CC03EA><color=0003><string=0001><lineend><color=0001>There's a good chance that someone will come here after Ondine.<pause><lineend><CC03EA>I should stay and protect her.<pause><lineend>|
+|
+|
+288|
+<CC03EA><color=0004><string=017E><lineend><color=0001>That's a good idea.<pause><lineend><CC03EA>I'll go to Cadho Badho and look for whoever's responsible.<pause><lineend>|
+|
+|
+290|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Watch your step.<pause><lineend>|
+|
+|
+292|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I will.<pause><lineend>|
+|
+|
+306|
+<CC03EA><CC03FC=0004><string=017E><color=0001>Edward! Come quick!<lineend><pause>|
+|
+|
+309|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel? What's the matter?<lineend><pause>|
+|
+|
+310|
+<CC03EA><CC03FC=0004><string=017E><color=0001>Some men are coming here to catch the mermaid.<lineend><pause><CC03EA>I can't fight them off alone.<lineend><pause><CC03EA>Please, Edward! Help me!<lineend><pause>|
+|
+|
+312|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Where are they right now?<lineend><pause>|
+|
+|
+313|
+<CC03EA><CC03FC=0004><string=017E><color=0001>This way.<lineend>Follow me!<lineend><pause>|
+|
+|

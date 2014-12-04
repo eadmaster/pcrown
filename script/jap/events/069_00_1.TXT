@@ -1,0 +1,20 @@
+7|
+<CC03EA><color=0006><string=0063><lineend><color=0001>リィランドにもどりますか？<pause><lineend>|
+|
+|
+8|
+<CC03EA><CC03FC=0004><string=0063><color=0001><choose>もどる　　<lineend>もどらない<lineend><endchoose>|
+|
+|
+10|
+<CC03EA><color=0006><string=0063><lineend><color=0001>そうですか。<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=0063><lineend><color=0001>じゃあ、急いで下さい。<lineend>もうすぐ、出発ですよ。<pause><lineend>|
+|
+|
+16|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880001000F03FF000003FF><CC03F2=00F800010001000F03FF00000000>|
+|
+|

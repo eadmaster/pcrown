@@ -1,0 +1,28 @@
+8|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Passage one way is 30G. Will you go to the Southern Kingdom?<pause><lineend>|
+|
+|
+9|
+<CC03EA><CC03FC=0004><string=0063><color=0001><choose>Go<lineend>Don't go<lineend><endchoose>|
+|
+|
+11|
+<CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll be waiting for you. Come back anytime!<pause><lineend>|
+|
+|
+18|
+<CC03EA><color=0006><string=0063><lineend><color=0001>You don't have enough! Try again later.<pause><lineend>|
+|
+|
+21|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Hurry along, then.<lineend>We're about to set sail!<pause><lineend>|
+|
+|
+22|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
+|
+|
+29|
+<CC03EA><color=0006><string=0067><lineend><color=0001>It's been 23 years since the Sirens last left us alone.<pause><lineend>|
+|
+|

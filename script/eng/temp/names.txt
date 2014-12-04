@@ -1,0 +1,261 @@
+グラドリエル<lineend>
+Gradriel
+エドワード<lineend>
+Edward
+プロセルピナ<lineend>
+Proserpina
+ポートガス<lineend>
+Portgus
+
+若者<lineend>
+Young Man
+旅人<lineend>
+Traveler
+おばさん<lineend>
+Woman
+ノッポのおじさん<lineend>
+Lanky Man
+ふとっちょおじさん<lineend>
+Fat Man
+おじいさん<lineend>
+Man
+おばあさん<lineend>
+Old Woman
+男の子<lineend>
+Boy
+女の子<lineend>
+Little Girl
+少女<lineend>
+Young Lady
+娘<lineend>
+Girl
+青年<lineend>
+Young Man
+戦士<lineend>
+Warrior
+傭兵<lineend>
+Guard
+魔術師<lineend>
+Wizard
+商人<lineend>
+Merchant
+水夫<lineend>
+Sailor
+修道士<lineend>
+Friar
+役人<lineend>
+Official
+メイド<lineend>
+Maid
+カード騎士<lineend>
+Knight Guardsman
+聖騎士<lineend>
+Holy Knight
+司祭<lineend>
+Priest
+魔女<lineend>
+Witch
+あやしげな男<lineend>
+Suspicious Man
+ドワーフ<lineend>
+Dwarf
+ゴブリン<lineend>
+Goblin
+ゴースト<lineend>
+Ghost
+グール<lineend>
+Ghoul
+ドードー<lineend>
+Doh Doh
+金色ドードー<lineend>
+Gold Doh Doh
+フロッガー<lineend>
+Frog
+マイコニド<lineend>
+Myconid
+ヤギ<lineend>
+Goat
+ハムスター<lineend>
+Hamster
+ニルス<lineend>
+Nilus
+馬<lineend>
+Horse
+オウム<lineend>
+Parrot
+タバサ<lineend>
+Tabatha
+戦士の長<lineend>
+Warriors' Leader
+魔術師の長<lineend>
+Wizards' Leader
+ギルドの長<lineend>
+Gild Leader
+ライアー<lineend>
+Liar
+村長<lineend>
+Mayor
+ドワーフ王<lineend>
+Dwarf King
+エサソン<lineend>
+Etherson
+ハロウィーン<lineend>
+Halloween
+船長<lineend>
+Captain
+女官長<lineend>
+Court Lady
+吟遊詩人<lineend>
+Wandering Poet
+スリーピー<lineend>
+Sleepy
+スマイリー<lineend>
+Smiley
+ブリオニア<lineend>
+Bulionia
+オババ<lineend>
+Grandma
+ドンファン<lineend>
+Donfan
+リヨン<lineend>
+Leon
+アーリア<lineend>
+Aria
+イグニス<lineend>
+Ignis
+ドレイク<lineend>
+Drake
+エリエル<lineend>
+Eriel
+シドラエル<lineend>
+Sidrael
+ジェストナイ<lineend>
+Jestonai
+エルファーラン<lineend>
+Elfaran
+クエイン<lineend>
+Kwein
+ゴルゴダ<lineend>
+Golgotha
+ハインデル<lineend>
+Heindel
+ジャディス<lineend>
+Jadis
+ネクロ・サマンサ<lineend>
+Necro-Samantha
+オンディーヌ<lineend>
+Ondine
+ファーラス<lineend>
+Faras
+禁断の書<lineend>
+Forbidden Book
+ラルヴァ<lineend>
+Larva
+魔法使い<lineend>
+Wizard
+魔王ヴォーグロド<lineend>
+Demon King Volgrod
+悪魔王ラルヴァ<lineend>
+Dark God Larva
+魔王<lineend>
+Demon King
+ブラッディ<lineend>
+Bloody
+ブラッディ<lineend>
+Bloody
+ユニコーン<lineend>
+Unicorn
+ユニコーンの子供<lineend>
+Little Unicorn
+ドラゴン<lineend>
+Dragon
+女魔術師<lineend>
+Sorceress
+パーソン<lineend>
+Parson
+海賊ビッグフック<lineend>
+Bighook the Pirate
+ニセモノ<lineend>
+Phony
+スカルグ<lineend>
+Skulg
+シャドウ<lineend>
+Shadow
+ディスパイアー<lineend>
+Despair
+ブラックドラゴン<lineend>
+Black Dragon
+子分その１<lineend>
+Flunkie #1
+子分その２<lineend>
+Flunkie #2
+子分その３<lineend>
+Flunkie #3
+子分その４<lineend>
+Flunkie #4
+デーモン<lineend>
+Demon
+盗賊<lineend>
+Pirate
+盗賊<lineend>
+Pirate
+死者の王<lineend>
+King of the Dead
+ニーズホック<lineend>
+Niohoggr
+ケンタウロス<lineend>
+Centaur
+ドッペルゲンガー<lineend>
+Doppelganger
+バーバリアン<lineend>
+Barbarian
+オーカージェリー<lineend>
+Ochre Jelly
+シャドウ<lineend>
+Shadow
+バジリスク<lineend>
+Basilisk
+タランチュラ<lineend>
+Tarantula
+グリフォン<lineend>
+Griffon
+ガイストアーマー<lineend>
+Geist Armor
+セイレーン<lineend>
+Siren
+ポルターガイスト<lineend>
+Poltergeist
+アイスドラゴン<lineend>
+Ice Dragon
+ゴブリン<lineend>
+Goblin
+カオティックアイ<lineend>
+Chaotic Eye
+海賊ビッグフック<lineend>
+Bighook the Pirate
+勇者エドワード<lineend>
+Edward
+悪のグラドリエル<lineend>
+Evil Gradriel
+悪のエリエル<lineend>
+Evil Eriel
+悪のゴルゴダ<lineend>
+Evil Golgotha
+グラドリエル姫<lineend>
+Princess Gradriel
+スレイヴウッド<lineend>
+Slavewood
+ガブリエル<lineend>
+Gabriel
+女神ガイア<lineend>
+Goddess Gaia
+アヒル<lineend>
+Duck
+ヒヨコ<lineend>
+Chick
+ジェシー<lineend>
+Jesse
+妖精<lineend>
+Fairy
+カスパール<lineend>
+Kasper

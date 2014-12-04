@@ -1,0 +1,104 @@
+8|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Ahhh!<pause><lineend><CC03EA>Nothing hits the spot like a cold beer after you've made a good deal!<pause><lineend>|
+|
+|
+11|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Well well! Hello there.<pause><lineend><CC03EA>Is your wallet a little heavy? If so, spend a night or two here at Cadho Badho's best inn.<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Secret Tavern. I'll take your order.<pause><lineend>|
+|
+|
+16|
+<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+18|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I can't cook that, right?<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's grill something. Please select a Food to use.<pause><lineend>|
+|
+|
+38|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I can't cook that, right?<pause><lineend>|
+|
+|
+40|
+<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+42|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+49|
+<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
+|
+|
+57|
+<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+59|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+63|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+|
+|
+64|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Here you are.<pause><lineend>|
+|
+|
+67|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Our Local Delicacy is a juicy Hamburger.<pause><lineend><CC03EA>We combine a big, charbroiled hamburger patty with premium lettuce and tomato.<pause><lineend><CC03EA>You'll have to open your mouth wide for it to fit!<pause><lineend><CC03EA>One is 24G.<lineend>How about it?<pause><lineend>|
+|
+|
+73|
+<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+75|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+79|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag is already full. Well, come again anytime!<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|
+89|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Here you are.<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+|
+|

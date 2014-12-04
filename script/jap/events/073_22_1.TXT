@@ -1,0 +1,36 @@
+4|
+<CC03EA><color=0005><string=012B><lineend><color=0001>タァ～ラリラリィ～！<pause><lineend><CC03EA>ここ、ゴブリンのお店ルル。<lineend>オイラが持ってる「にくだんごスープ」<lineend>９２Ｇでうってあげるリラ！<pause><lineend>　<lineend>|
+|
+|
+5|
+<CC03EA><CC03FC=0004><string=012B><color=0001><choose>買う　　<lineend>買わない<lineend><endchoose>|
+|
+|
+7|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ヤッキィ！<lineend>また来てね！！<pause><lineend>|
+|
+|
+14|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ルリルリ<lineend>金ピカぜんぜん、足りないルルゥ！！<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ヤッキィ！<lineend>また来てね！！<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ルリルリ<lineend>荷物がいっぱいルルゥ！<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ヤッキィ！<lineend>また来てね！！<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ウィッキィ！<pause><lineend><CC03EA>「にくだんごスープ」どうぞぉ～。<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ヤッキィ！<lineend>また来てね！！<pause><lineend>|
+|
+|

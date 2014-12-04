@@ -1,0 +1,168 @@
+67|
+<CC03EA><CC03FC=0004><string=0157><color=0001>Are you Edward the Dragon Slayer?<pause><lineend>|
+|
+|
+69|
+<CC03EA><CC03FC=0004><string=0157><color=0001>You are? I thought so. In that case...<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What the...<pause><lineend>|
+|
+|
+81|
+<CC03EA><CC03FC=0004><string=0157><color=0001>Your journey to the lake stops here.<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What is this!?<pause><lineend>|
+|
+|
+101|
+<CC03EA><CC03FC=0004><string=0157><color=0001>Ha ha ha! Some big Dragon Slayer you turned out to be.<pause><lineend>|
+|
+|
+121|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I see you're awake. Thank goodness!<pause><lineend>|
+|
+|
+125|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Someone got me with a magic attack...<pause><lineend><CC03EA>Did you save me?<pause><lineend><CC03EA>I heard that the mermaid in Lake Titania was hurting people, not helping them.<pause><lineend>|
+|
+|
+126|
+<CC03EA><color=0004><string=0107><lineend><color=0001>It's not true!<pause><lineend><CC03EA>I've never hurt a single human, ever!<pause><lineend>|
+|
+|
+127|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Then what exactly is going on?<pause><lineend>|
+|
+|
+128|
+<CC03EA><color=0004><string=0107><lineend><color=0001>...<pause><lineend><CC03EA>You probably wouldn't understand even if I told you.<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You'll recover fully by morning. When that time comes, please leave this place.<pause><lineend><CC03EA>Goodbye...<pause><lineend>|
+|
+|
+146|
+<CC03EA><color=0004><string=0107><lineend><color=0001>It's morning.<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I understand.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I'll get out of here.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+151|
+<CC03EA><color=0004><string=0107><lineend><color=0001>...<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Thank you for your help, Ondine.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+153|
+<CC03EA><color=0004><string=0107><lineend><color=0001>...Why don't I see you off?<pause><lineend>|
+|
+|
+174|
+<CC03EA><CC03FC=0004><string=0157>Heh heh. I knew I'd find you here.<pause><lineend><CC03EA>Today's the day you're giving me a Mermaid's Tear! You hear me?<pause><lineend>|
+|
+|
+175|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Who are you!?<pause><lineend>|
+|
+|
+188|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Ondine, get back.<pause><lineend>|
+|
+|
+193|
+<CC03EA><CC03FC=0004><string=0157>Well, if it isn't Edward!<pause><lineend><CC03EA>I thought you had enough after yesterday, but here you are again.<pause><lineend>|
+|
+|
+206|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You pulled a dirty trick on me yesterday. Today's not going to be so easy!!<pause><lineend>|
+|
+|
+210|
+<CC03EA><CC03FC=0004><string=0157>Is that so? Hey Tarantula!! Get him!!<pause><lineend>|
+|
+|
+229|
+<CC03EA><CC03FC=0004><string=0157>My Tarantula!!<pause><lineend><CC03EA>My poor Tarantula!!<pause><lineend>|
+|
+|
+232|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Was there anything else you wanted?<pause><lineend>|
+|
+|
+233|
+<CC03EA><CC03FC=0004><string=0157>Damn you!!<pause><lineend>|
+|
+|
+250|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Hmm...<pause><lineend>|
+|
+|
+251|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Use monsters to convince everybody she's evil...<pause><lineend><CC03EA>...then catch her in the name of protecting others.<pause><lineend><CC03EA>Makes sense. In fact, it's almost cunning.<pause><lineend>|
+|
+|
+255|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Um...Thank you for your help, Sir.<pause><lineend><CC03EA>I think I'll be all right now.<pause><lineend>|
+|
+|
+260|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Not yet you won't. Others will come eventually.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't expect them to give up. They know where you are. They could attack anytime.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+261|
+<CC03EA><color=0004><string=0107><lineend><color=0001>They could?<pause><lineend>|
+|
+|
+262|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Don't worry.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I'll protect you until the last of them turns back.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+263|
+<CC03EA><color=0004><string=0107><lineend><color=0001>...You're going to help me?<pause><lineend>|
+|
+|
+268|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I owe you one.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+269|
+<CC03EA><color=0004><string=0107><lineend><color=0001>...<pause><lineend>|
+|
+|
+272|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>What's wrong?<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+276|
+<CC03EA><color=0004><string=0107><lineend><color=0001>It's nothing.<pause><lineend><CC03EA>It's just...This is the first time a human has ever been nice to me...<pause><lineend><CC03EA>Thank you, Sir.<pause><lineend>|
+|
+|
+277|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>My name is Edward.<lineend>Edward Glowstar.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+278|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you, Edward.<pause><lineend>|
+|
+|
+287|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>They know that I'm protecting you now. They shouldn't try anything too reckless.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>You'll probably be fine for the time being if you keep yourself hidden.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I'll go back into town and try to find out more about them.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+288|
+<CC03EA><color=0004><string=0107><lineend><color=0001>All right.<lineend>Please be careful!<pause><lineend>|
+|
+|
+289|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I will.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|

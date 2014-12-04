@@ -1,0 +1,152 @@
+11|
+<CC03EA><color=0006><string=0014><lineend><color=0001>I heard Leon is leaving on a journey. We're all going to miss him.<pause><lineend>|
+|
+|
+12|
+<CC03EA><color=0006><string=0015><lineend><color=0001>This is all so much to bear...<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=0014><lineend><color=0001>I heard Leon is leaving on a journey. We're all going to miss him.<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0015><lineend><color=0001>This is all so much to bear...<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Welcome to the Moment's Rest Cafe! Please tell me your order.<pause><lineend>|
+|
+|
+21|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+23|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+|
+|
+43|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
+|
+|
+45|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+|
+|
+47|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+54|
+<CC03EA><color=0006><string=01AB><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
+|
+|
+62|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+64|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+69|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Here you are!<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+77|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Our Local Delicacy is well-done Grilled Corn.<pause><lineend><CC03EA>We use sweet, fresh-picked corn, dipped in our special sauce and grilled to perfection.<pause><lineend><CC03EA>It's so delicious, you'll swear you could eat them by the dozen!<pause><lineend><CC03EA>One costs 44G. Would you like to try it?<pause><lineend>|
+|
+|
+78|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+80|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+89|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You can't carry any more than you are now.<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+94|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Here you are!<pause><lineend>|
+|
+|
+95|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+|
+|
+101|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+|
+|
+105|
+<CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
+|
+|
+111|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+|
+|
+117|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+|
+|
+127|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeies be safe.<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+|
+|
+130|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+141|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|

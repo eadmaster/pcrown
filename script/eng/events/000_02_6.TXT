@@ -1,0 +1,12 @@
+84|
+<CC03EA><CC03FC=0004><string=007D><color=0001>My lady! A man who appears to be Knight Captain Glowstar is up on the third floor.<pause><lineend>|
+|
+|
+86|
+<CC03EA><CC03FC=0004><string=007D><color=0001>He's leading the monsters in an attack on the Knight Guard!<pause><lineend>|
+|
+|
+87|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The Knight Captain? After being gone for so long?<pause><lineend><CC03EA>Jestonai, I'm going to go see for myself.<pause><lineend>|
+|
+|

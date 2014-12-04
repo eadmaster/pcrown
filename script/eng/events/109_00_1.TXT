@@ -1,0 +1,96 @@
+38|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time for detours.<pause><lineend><CC03EA>We need to go see what's happening at Valendine Castle, and quick!<pause><lineend>|
+|
+|
+39|
+<CC03F0=0001000D0000001403FF00000000>|
+|
+|
+42|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time for detours.<pause><lineend><CC03EA>We need to go see what's happening at Valendine Castle, and quick!<pause><lineend>|
+|
+|
+43|
+<CC03F0=0001000D0001001403FF00000000>|
+|
+|
+53|
+<CC03ED=0001000600010000><CC03ED=00010007000103FF>|
+|
+|
+54|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What happened?<lineend><pause>|
+|
+|
+55|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>*sniff*...They...they...<lineend><pause>|
+|
+|
+56|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Why does the town looks like this?<lineend><pause>|
+|
+|
+57|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>The Demons...<lineend>The Demons attacked us!<lineend><pause><CC03EA>They found the place where I was hiding, and they wounded me.<lineend><pause>|
+|
+|
+64|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>...I can't go any further like I am.<lineend><pause>|
+|
+|
+68|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>Oh!<lineend><pause><CC03EA>You brought some Dragon Soup! May I have it?<lineend><pause><CC03EA>If I drink that, I'll heal up in an instant!<lineend><pause>|
+|
+|
+69|
+<CC03EA><choose>Give it to him<lineend>Don't give it to him<lineend><endchoose>|
+|
+|
+73|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>Thank you!<lineend><pause>|
+|
+|
+74|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>It's not much, but please take this!<lineend><pause>|
+|
+|
+75|
+<CC03EA><color=0002>Got the Unit Drop!<lineend><pause>|
+|
+|
+78|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>There may still be some of them around here. Be careful!<lineend><pause>|
+|
+|
+80|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>Thank you.<lineend><pause>|
+|
+|
+81|
+<CC03F0=01D800030001001E03FF00000000>|
+|
+|
+85|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>Really...<lineend><pause><CC03EA>That's too bad...<lineend><pause>|
+|
+|
+99|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Somebody! Somebody, help me!<pause><lineend>|
+|
+|
+107|
+<CC03EA><color=0005><string=012E><lineend><color=0001>You worthless humans will all give your lives for our King!<pause><lineend>|
+|
+|
+144|
+<CC03EA><color=0003><string=0001><lineend><color=0001>A Demon!<pause><lineend>|
+|
+|
+148|
+<CC03EA><color=0005><string=012E><lineend><color=0001>A vigilante?<lineend>How about I start with you!<pause><lineend>|
+|
+|
+153|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Bring it on, loud-mouth!<pause><lineend>|
+|
+|

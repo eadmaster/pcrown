@@ -1,0 +1,93 @@
+21|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I heard something happened at Valendine Castle.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0033><lineend><color=0001>It turns out those pirates weren't so tough after all!<pause><lineend><CC03EA>Heh heh!<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a pirate attack...I feel like a princess in a fairy-tale!<pause><lineend><CC03EA>What a great honeymoon this has been!<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend>
+<CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0004><string=0177><lineend><color=0001>Hey Gradriel!<pause><lineend><CC03EA>Just say the word, and I'll take you out on my ship. The best pirate ship in the world, that is!<pause><lineend><CC03ED=0177001200010000>|
+|
+|
+36|
+<CC03EA><color=0006><string=0063><lineend><color=0001>We won't have to worry about a thing. Ha ha!<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates are all gone.<pause><lineend><CC03EA>Now my Father can rest and heal up.<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of town that nobody's lived in for 20 years.<pause><lineend><CC03EA>Apparently the place is overrun with ghosts, and nobody goes in for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion, though. It must be worth a fortune!<pause><lineend><CC03EA>There's just nobody who wants to buy it.<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0006><string=000F><lineend><color=0001>People are worried that something terrible has happened at <color=0002>Valendine Castle.<color=0001><pause><lineend><CC03EA>I just went to Valendine on business myself...<pause><lineend><CC03EA>You wouldn't believe what people were saying happened to the Princesses.<pause><lineend>|
+|
+|
+48|
+<CC03EA><color=0006><string=003D><lineend><color=0002>Valendine<color=0001> is <color=0005>straight to the west from the left side of town.<color=0001><pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew Portgus never would have attacked those cargo ships.<pause><lineend><CC03EA>Oh Portgus...You're my hero...<pause><lineend>|
+|
+|
+55|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sorry for the holdup! We've finally got new goods coming in!<pause><lineend><CC03EA>Welcome, welcome. We have many items that will help you in your travels.<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
+|
+|
+61|
+<CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+64|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+75|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+90|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|
+102|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken care of everything I heard at my first audience.<pause><lineend><CC03EA>I guess that means it's time to stop in at the castle.<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, your Highness. I'll come with you!<pause><lineend>|
+|
+|
+109|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken care of everything I heard at my first audience.<pause><lineend><CC03EA>I guess that means it's time to stop in at the castle.<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, your Highness. I'll come with you!<pause><lineend>|
+|
+|

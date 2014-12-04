@@ -1,0 +1,16 @@
+6|
+<CC03EA><color=0006><string=0091><lineend><color=0001>どうだい？<lineend>りっぱな鉱山だろ？<pause><lineend>|
+|
+|
+9|
+<CC03EA><color=0006><string=0092><lineend><color=0001>ここで掘り出した宝石は<lineend>王国で細工をして、売るのさ。<pause><lineend>|
+|
+|
+12|
+<CC03EA><color=0006><string=0093><lineend><color=0001>まったく、最近の若いモンはけしからん！<pause><lineend><CC03EA>掘りつくされた古い鉱山を使って<lineend>トロロンチョイスとかいう乗り物を<lineend>作ってしまったんじゃ。<pause><lineend><CC03EA>鉱夫の仕事を忘れて<lineend>遊んでばかりとは、なさけないわい！！<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=0094><lineend><color=0001>お嬢ちゃんみたいな細っこい腕じゃ<lineend>いい鉱夫にはなれないなぁ。<pause><lineend>|
+|
+|

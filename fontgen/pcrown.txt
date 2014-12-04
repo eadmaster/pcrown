@@ -1,0 +1,5 @@
+-name "Courier New"
+-size 9
+-trh 1bpp-grid
+-blackbg
+-bmsize 256

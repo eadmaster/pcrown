@@ -1,0 +1,8 @@
+4|
+<CC03EA><color=0006><string=007D><lineend><color=0001>勇者様、どちらに行かれるのです。<lineend>お部屋でゆっくりおくつろぎ下さい。<pause><lineend>|
+|
+|
+7|
+<CC03EA><color=0006><string=007D><lineend><color=0001>勇者様、どちらに行かれるのです。<lineend>お部屋でゆっくりおくつろぎ下さい。<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|
+|
+|

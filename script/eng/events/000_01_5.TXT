@@ -1,0 +1,28 @@
+9|
+<CC03EA><color=0006><string=007D><lineend><color=0001>We came as soon as we could.<pause><lineend><CC03EA>The situation in Dorangora is under control for now.<pause><lineend>|
+|
+|
+12|
+<CC03EA><color=0006><string=007E><lineend><color=0001>Now that we're back, those Demons are in for a rude awakening!<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find peace in heaven...<pause><lineend>|
+|
+|
+18|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world do you think they took Sidrael?<pause><lineend><CC03EA>Her poor physical condition is especially concerning.<pause><lineend>|
+|
+|
+21|
+<CC03EA><color=0006><string=0080><lineend><color=0001>I always keep my items stocked, just in case the need should arise.<pause><lineend><CC03EA>I'd hate to be caught bare handed in a fight with a huge monster.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0082><lineend><color=0001>It means a lot to me to be in your Majesty's service. I will work hard every day!<pause><lineend>|
+|
+|

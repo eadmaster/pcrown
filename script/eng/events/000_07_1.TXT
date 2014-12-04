@@ -1,0 +1,8 @@
+5|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Please take care of yourself...<pause><lineend>|
+|
+|
+8|
+<CC03EA><color=0004><string=0102><lineend><color=0001>We lost a lot of men fighting that red-haired witch.<pause><lineend>|
+|
+|

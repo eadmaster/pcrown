@@ -1,0 +1,37 @@
+4|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Queen of Valendia, I am no longer interested in answering any questions.<pause><lineend><CC03EA>I will sleep...<lineend>Please do not disturb me.<pause><lineend>|
+|
+|
+7|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between the Unicorn Forest and Lowgrove is a path that leads to another tower.<color=0001><pause><lineend><CC03EA>At the top of it is something that can help you.<pause><lineend>|
+|
+|
+9|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If you happen to have a Vulcan Magic Stone to give me...<pause><lineend><CC03EA>...I'll use my all-seeing eyes to find something that you'll need in your journey.<pause><lineend>|
+|
+|
+13|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The next time you come here, bring a Vulcan Magic Stone.<pause><lineend>|
+|
+|
+15|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I see you brought the Magic Stone.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0001>Give Heindel the Vulcan Magic Stone?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+22|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Well, do as you please. It makes no difference to me.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Good. Now let me tell you what you will need on your adventure.<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0004><string=0104><lineend><color=0001>There is yet another tower.<pause><lineend>
+<CC03EA><color=0005>Between the Unicorn Forest and Lowgrove is a path.<color=0001><pause><lineend><CC03EA>Climb to the top of the <color=0003>tower deep in the forest,<color=0001> and see what you find there.<pause><lineend>|
+|
+|

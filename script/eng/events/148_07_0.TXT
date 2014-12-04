@@ -1,0 +1,72 @@
+48|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Are you Heindel?<pause><lineend>|
+|
+|
+49|
+<CC03EA><CC03FC=0004><string=0104>That's right. Pay no attention to this mess and make yourself at home.<pause><lineend>|
+|
+|
+50|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you can tell people anything they want to know.<pause><lineend><CC03EA>Well, I want to know something.<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You left your shipmates to come here, so it must be something important...Portgus.<pause><lineend>|
+|
+|
+53|
+<CC03EA><color=0003><string=0003><lineend><color=0001>You know who I am?<pause><lineend><CC03EA>It sounds like "they" were right.<pause><lineend>|
+|
+|
+55|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you're collecting some rare Magic Stones.<pause><lineend><CC03EA>I also heard that you'll answer any question in exchange for one.<pause><lineend><CC03EA>I have here...<pause><lineend>|
+|
+|
+62|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...The Pirate King Drake's treasure, The Ocean Stone.<pause><lineend><CC03EA>I'd like to trade it for an answer to my question.<pause><lineend>|
+|
+|
+65|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The blue light feels as though its seeping into my eyes. <pause><lineend><CC03EA>Yes, Portgus, you have found the real Ocean Stone.<pause><lineend>|
+|
+|
+67|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Do we have a deal, then?<pause><lineend><CC03EA>I want revenge on someone, and I need you to tell me where he is.<pause><lineend><CC03EA>I have to kill him myself. There is no other way for me.<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I'll tell you the answer.<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Demon you are searching for is called Shadow.<pause><lineend><CC03EA>He lives in <color=0002>the tower in the Forest of Enchantment.<color=0001><pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his name...<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path. <color=0001>Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
+|
+|
+74|
+<CC03EA><color=0004><string=0104><lineend><color=0001>That Demon possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is mine now.<pause><lineend>|
+|
+|
+76|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Not very friendly Dragon, are you? Anyway, I'll be extra careful when I fight him.<pause><lineend>|
+|
+|
+77|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If you have received the answer you sought, then it is time for you to leave.<pause><lineend>|
+|
+|
+78|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I appreciate it, Heindel.<lineend>Farewell!<pause><lineend>|
+|
+|
+85|
+<CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>At long last...<lineend>That makes three...<pause><lineend>|
+|
+|

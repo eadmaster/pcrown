@@ -1,0 +1,97 @@
+13|
+<CC03EA><color=0006><string=019B><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+|
+|
+14|
+<CC03EA><CC03FC=0004><string=019B><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+|
+|
+18|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.
+<pause><lineend>|
+|
+|
+40|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Thank you so much!<pause><lineend><CC03EA>I could never have returned to Cemeteryth without your help.<pause><lineend><CC03EA>I keep special holy items in stock here. By all means, have a look before you go!<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
+|
+|
+47|
+<CC03EA><CC03FC=0004><string=01B6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+50|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
+|
+|
+56|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It appears you aren't carrying anything.<pause><lineend>|
+|
+|
+61|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Please come again soon! Blessings be upon you in your travels...<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
+|
+|
+68|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Hmm. That's not quite enough money.<pause><lineend>|
+|
+|
+76|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Eh, I'm afraid I can't buy that.<pause><lineend>|
+|
+|
+81|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>I keep special holy items in stock here.<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
+|
+|
+87|
+<CC03EA><CC03FC=0004><string=01B6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+90|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
+|
+|
+96|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It appears you aren't carrying anything.<pause><lineend>|
+|
+|
+101|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Please come again soon! Blessings be upon you in your travels...<pause><lineend>|
+|
+|
+106|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
+|
+|
+108|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Hmm. That's not quite enough money.<pause><lineend>|
+|
+|
+116|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Eh, I'm afraid I can't buy that.<pause><lineend>|
+|
+|

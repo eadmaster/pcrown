@@ -1,0 +1,44 @@
+6|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>The kids made it back to their village.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>Now we can all get along with the people in Nutsbill again.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It's all thanks to you and Aria, your Majesty! We're so glad you came along!<lineend><CC03F1=0166><pause>|
+|
+|
+8|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Hey, it's the Queen!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You listened to Aria! And then you came all this way! Incredible!<lineend><CC03F1=0166><pause>|
+|
+|
+12|
+<CC03EA><color=0006><string=0167><lineend><color=0001><CC03ED=0167000A000103FF>Can I tell everyone how we got the Queen to come save the day?<lineend><CC03F1=0167><pause><CC03EA><CC03ED=0167000A000103FF>...Keep it a secret? Ah, I see. You're on a journey!<lineend><CC03F1=0167><pause><CC03EA><CC03ED=0167000A000103FF>Got it. I won't tell a soul! Fairies love to talk, but we keep our promises.<lineend><CC03F1=0167><pause>|
+|
+|
+14|
+<CC03EA><color=0006><string=0167><lineend><color=0001><CC03ED=0167000A000103FF>We love those two Nutsbill children.<lineend><CC03F1=0167><pause><CC03EA><CC03ED=0167000A000103FF>It's hard to believe something like this could happen to them...<lineend><CC03F1=0167><pause>|
+|
+|
+18|
+<CC03EA><color=0006><string=0168><lineend><color=0001><CC03ED=0168000A000103FF>I'm just glad everything's resolved!<lineend><CC03F1=0168><pause>|
+|
+|
+21|
+<CC03EA><color=0006><string=0168><lineend><color=0001><CC03ED=0168000A000103FF>Thank you, Queen Gradriel.<lineend>We're so happy you came along.<lineend><CC03F1=0168><pause><CC03EA><CC03ED=0168000A000103FF>Take this with you as a gift from the fairies!<lineend><CC03F1=0168><pause>|
+|
+|
+24|
+<CC03EA><color=0002>Got the Battle Drop!<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=0168><lineend><color=0001>With this Drop, Aria can help you during battles.<pause><lineend><CC03EA>Do your best, Aria!<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0006><string=0168><lineend><color=0001><CC03ED=0168000A000103FF>I wonder if there are any clues in that north forest?<lineend><CC03F1=0168><pause>|
+|
+|
+30|
+<CC03EA><color=0006><string=0168><lineend><color=0001><CC03ED=0168000A000103FF>We all searched for places that the kids might have gone to play.<lineend><CC03F1=0168><pause><CC03EA><CC03ED=0168000A000103FF>The square where the animals gather...the Heart Fruit trees...the shore of the lake...<lineend><CC03F1=0168><pause><CC03EA><CC03ED=0168000A000103FF>We didn't search was the forest up north, from <color=0005>the left side of Nutsbill Village...<color=0001><lineend><CC03F1=0168><pause><CC03EA><CC03ED=0168000A000103FF>...but there's no reason they'd have gone a place like that. It's full of monsters!<lineend><CC03F1=0168><pause>|
+|
+|
+31|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The north forest...<pause><lineend>|
+|
+|

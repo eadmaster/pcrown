@@ -1,0 +1,172 @@
+65|
+<CC03EA><color=0003><string=0001><lineend><color=0001>This is the sword my Father was talking about.<pause><lineend><CC03EA>The Kleipnir...<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0001>Who speaks my name?<lineend><pause>|
+|
+|
+69|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What the...!?<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0001>Have you come to take my power?<lineend><pause>|
+|
+|
+71|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...A talking sword?<pause><lineend>|
+|
+|
+72|
+<CC03EA><color=0001>Correct.<pause><lineend><CC03EA>I am the spirit Kleipnir, and I inhabit this sword.<lineend><pause><CC03EA>You have come to take my power, have you not?<lineend><pause>|
+|
+|
+74|
+<CC03EA><color=0001>My power was born of darkness.<lineend><pause><CC03EA>Do you wish to possess it even when you know this?<lineend><pause>|
+|
+|
+76|
+<CC03EA><color=0001>...Very well.<pause><lineend><CC03EA>Raise your sword in your hand.<lineend><pause>|
+|
+|
+97|
+<CC03EA><color=0001>The power of Kleipnir now inhabits your sword.<lineend><pause><CC03EA>From this point forward, for as long as you are worthy of it...<lineend><pause><CC03EA>...my power will aid you in striking down your enemies.<lineend><pause>|
+|
+|
+110|
+<CC03EA><color=0005><string=0114><lineend><color=0001>You must be the one...<pause><lineend><CC03EA>...who got rid that meddling sword...<pause><lineend>|
+|
+|
+111|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Will you save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
+|
+|
+112|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha...the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
+|
+|
+186|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfair, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my Father is in there.<lineend><CC03ED=00010003000103FF><pause>|
+|
+|
+193|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Edward, no!<pause><lineend>|
+|
+|
+194|
+<CC03EA><color=0003><string=0001><lineend><color=0001>!!<pause><lineend>|
+|
+|
+212|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Are you all right, Edward!?<pause><lineend>|
+|
+|
+213|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel...I mean, your Highness...What are you doing here?<pause><lineend>|
+|
+|
+214|
+<CC03EA><color=0004><string=017D><lineend><color=0001>I have to go to the Demon Realm to save my sister.<pause><lineend>|
+|
+|
+215|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You came by yourself...Find a safe place and leave this one to me.<pause><lineend>|
+|
+|
+220|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel, get back!!<pause><lineend>|
+|
+|
+248|
+<CC03EA><color=0005><string=0114><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
+|
+|
+257|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Kleipnir! Become the embodiment of my anger, and strike!!<pause><lineend>|
+|
+|
+283|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...I'd say THIS sword works just fine.<lineend><pause>|
+|
+|
+287|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+302|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel...This time, I really do owe you one.<pause><lineend>|
+|
+|
+303|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Beyond this door lies the Demon Realm. Going inside?<pause><lineend>|
+|
+|
+305|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Yes. They're holding my sister in there.<pause><lineend>|
+|
+|
+306|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Then I'm going with you.<pause><lineend>|
+|
+|
+307|
+<CC03EA><color=0003><string=0001><lineend><color=0001>My Father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
+|
+|
+308|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Thank you, Edward.<pause><lineend>|
+|
+|
+309|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel...<pause><lineend>|
+|
+|
+310|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Come on. Let's go.<pause><lineend>|
+|
+|
+372|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+|
+|
+375|
+<CC03EA><color=0004><string=017E><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
+|
+|
+376|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I am known as Skulg.<pause><lineend><CC03EA>My apologies for not introducing myself properly at the castle!<pause><lineend>|
+|
+|
+381|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my Father!!<pause><lineend>|
+|
+|
+387|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I'm sorry, Gradriel, but I want you to go on alone.<pause><lineend>|
+|
+|
+391|
+<CC03EA><color=0004><string=017E><lineend><color=0001>But Edward!<pause><lineend>|
+|
+|
+404|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I'll catch up as soon as I'm done with this one here.<pause><lineend><CC03EA>...Now get going!<pause><lineend>|
+|
+|
+430|
+<CC03EA><color=0003><string=0001><lineend><color=0001>This is good. I didn't want to have to wait long to get revenge.<pause><lineend>|
+|
+|
+432|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I see you're carrying the sword that killed Bloody. That stubborn fool...<pause><lineend><CC03EA>I won't be holding back this time. I hope you don't disappoint!<pause><lineend>|
+|
+|
+467|
+<CC03EA><color=0005><string=0121><lineend><color=0001>...!!...<lineend>The King...<pause><lineend><CC03EA>We'll finish this later!<pause><lineend>|
+|
+|
+478|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel!<pause><lineend>|
+|
+|

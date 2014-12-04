@@ -1,0 +1,93 @@
+70|
+<CC03EA><color=0002><string=0002><lineend><color=0001>This is going just perfect! Am I amazing or what?<pause><lineend><CC03EA>It almost makes me want to sing!<pause><lineend>
+<CC03EA><color=0004>Ahem...<lineend>"Maaaagic!"<lineend>"Sweet wonderful maaaagic!"<pause><lineend>|
+|
+|
+77|
+<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Ahem...<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>Gabriel? What's with that look you're giving me? You think I'm tone-deaf or something?<lineend><CC03ED=00020007000103FF><pause>|
+|
+|
+81|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Fine.<pause><lineend><CC03EA>You get no food for three days!!<pause><lineend>|
+|
+|
+84|
+<CC03EA><color=0004><string=0184><lineend><color=0001>What!? H, How can you be so cruel!?<pause><lineend>|
+|
+|
+89|
+<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Whatever. You started it.<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>Come on! We're going now.<lineend><CC03ED=00020007000103FF><pause>|
+|
+|
+91|
+<CC03EA><color=0004><string=0184><lineend><color=0001>Auugh...<pause><lineend>|
+|
+|
+112|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aah!!<pause><lineend>|
+|
+|
+124|
+<CC03ED=00020007000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Wait just a darn minute!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020007000103FF>What are you doing in MY house? Nobody said YOU could come in here.<lineend><CC03ED=00020007000103FF><pause>|
+|
+|
+127|
+<CC03EA><color=0004><string=018D><lineend><color=0001>You're the one who changed these children into animals, aren't you?<pause><lineend><CC03EA>Change them back this instant! Everyone is worried sick about them!<pause><lineend>|
+|
+|
+128|
+<CC03EA><color=0002><string=0002><lineend><color=0001>No way, Jose.<pause><lineend>|
+|
+|
+129|
+<CC03EA><color=0002><string=0002><lineend><color=0001>This is part of my training to become a great and powerful witch!<pause><lineend><CC03EA>Besides, who's really going to get mad that I turned a couple dumb kids into animals?<pause><lineend>|
+|
+|
+133|
+<CC03EA><color=0004><string=017D><lineend><color=0001>The villagers are all mad the fairies. They think this is some kind of a prank they're pulling.<pause><lineend>|
+|
+|
+135|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Ha! That's Great!<pause><lineend><CC03EA>I was going to blame it all on the fairies anyway!<pause><lineend>|
+|
+|
+138|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Enough is enough.<pause><lineend><CC03EA>I'm putting a stop to your foolishness right now.<pause><lineend><CC03EA>I want you to break the spell on those children at once!<pause><lineend>|
+|
+|
+142|
+<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Ugh. Put a cork in it, lady!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>I hate people who act all high and mighty! I hate them!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>Say one more word, and I'll change you into something nasty, too!<lineend><CC03ED=0002000900010000><pause>|
+|
+|
+164|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I give!! I give!!<pause><lineend>|
+|
+|
+165|
+<CC03EA><color=0004><string=017D><lineend><color=0001>It's not over yet, though...<pause><lineend>|
+|
+|
+187|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Have you come to your senses?<pause><lineend>|
+|
+|
+188|
+<CC03EA><color=0004><string=017D><lineend><color=0001>If you don't change them back, I might just have to...<pause><lineend>|
+|
+|
+192|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll do it! I'll do it!<lineend>Sheesh!<pause><lineend>|
+|
+|
+215|
+<CC03EA><color=0004><string=018D><lineend><color=0001>There! Everyone's back to normal!<pause><lineend>|
+|
+|
+222|
+<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>I won't forget this!!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>Stupid meanie!<lineend><CC03ED=00020007000103FF><pause>|
+|
+|
+252|
+<CC03EA><color=0002><string=0002><lineend><color=0001>What was the deal with that cheeky girl and her stuck-up fairy?<pause><lineend><CC03EA>They ruined all of my brilliant plans!<pause><lineend><CC03EA>I have to go see Auntie. She'll tell me how to get back at them!<pause><lineend>|
+|
+|

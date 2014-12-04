@@ -1,0 +1,108 @@
+12|
+<CC03EA><color=0006><string=0027><lineend><color=0001>There are Goblins gathering on the other side of the field!<pause><lineend><CC03EA>What could they be up to? What's with all their goofy laughing?<pause><lineend><CC03EA>Ugh. Just what I need, Goblins right where my goats are supposed to be grazing.<pause><lineend><CC03EA>I really think the only reason Goblins exist is to drive people crazy!<pause><lineend>|
+|
+|
+16|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+20|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+61|
+<CC03F0=00A000540001000F03FF000003FF><CC03F0=00A100550001000F03FF000003FF><CC03F0=009F00560001000F03FF00000000>|
+|
+|
+70|
+<CC03F0=002700070000001B03FF000003FF><CC03F0=00BB00020000001403FF000003FF><CC03F0=00BC00020000002203FF00000000>|
+|
+|
+72|
+<CC03EA><color=0006><string=0027><lineend><color=0001>Hey, the Goblins are gone...<pause><lineend>|
+|
+|
+74|
+<CC03FA=0027000200000000000003FF000A003C0000><CC03FB=003C>|
+|
+|
+75|
+<CC03EA><color=0006><string=0027><lineend><color=0001>Thank you for taking care of them!<pause><lineend>|
+|
+|
+76|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'd say your goats won't be going hungry anymore.<pause><lineend>|
+|
+|
+78|
+<CC03EA><color=0006><string=0027><lineend><color=0001>Finally! Thank you so much!<pause><lineend>|
+|
+|
+80|
+<CC03EA><color=0006><string=0027><lineend><color=0001>Let me give you something in return.<pause><lineend><CC03EA>Here, take this with you.<pause><lineend><CC03EA>It's a little tattered, but it still holds a lot!<pause><lineend>|
+|
+|
+82|
+<CC03EA><color=0002>Got one more bag! Now you can carry more items!<pause><lineend>|
+|
+|
+88|
+<CC03EA><color=0006><string=0027><lineend><color=0001>The goats are doing well today.<pause><lineend><CC03EA>They're eating lots of grass, and soon, they'll be a lot bigger!<pause><lineend>|
+|
+|
+92|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+96|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+99|
+<CC03EA><color=0006><string=0027><lineend><color=0001>The goats are doing well today.<pause><lineend><CC03EA>They're eating lots of grass, and soon, they'll be a lot bigger!<pause><lineend>|
+|
+|
+103|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+107|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+|
+|
+121|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Woo-hoo! This is gonna be great!<pause><lineend>|
+|
+|
+122|
+<CC03EA><color=0005><string=009A><lineend><color=0001>Just wait here, fellas. The time is almost ripe.<pause><lineend>|
+|
+|
+123|
+<CC03EA><color=0005><string=009D><lineend><color=0001>We're going to take every last goat they've got!<pause><lineend>|
+|
+|
+124|
+<CC03EA><color=0005><string=00A0><lineend><color=0001>I'm going to eat goat-cheese until I explode!!<pause><lineend>|
+|
+|
+125|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>All right, you guys...Let's do this!<pause><lineend>|
+|
+|
+143|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're going to have to get past me first!<pause><lineend>|
+|
+|
+148|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Who the heck are you?<pause><lineend>|
+|
+|
+149|
+<CC03EA><color=0005><string=009D><lineend><color=0001>Get out of our way!<pause><lineend>|
+|
+|
+150|
+<CC03EA><color=0005><string=009A><lineend><color=0001>Looks like she's asking for it, fellas!!<pause><lineend>|
+|
+|

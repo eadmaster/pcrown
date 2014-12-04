@@ -1,0 +1,82 @@
+13|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Everyone's glad that those sailors were innocent.<pause><lineend><CC03EA>Hearing that the neighbors you trusted are criminals will put anyone in a bad mood.<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I've traveled to every corner of Valendia, but one place was absolutely the strangest of them all...<pause><lineend><CC03EA>East of Cadho Badho...<lineend><color=0003>The Frogger Village!<pause><lineend>
+<CC03EA><color=0001>I don't imagine too many people have been guest to a bunch of Froggers before.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I guess all the bandits are gone from Cadho Badho...<pause><lineend><CC03EA>...but I'm having too much fun here to go home just yet!<pause><lineend>|
+|
+|
+22|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble right now because of a group of bandits called The Donfans.<pause><lineend>|
+|
+|
+25|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend>
+<CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
+|
+|
+28|
+<CC03EA><color=0006><string=0063><lineend><color=0001>The artist who moved into the haunted mansion was a monster!?<pause><lineend><CC03EA>To think, if I had asked him for a painting...<pause><lineend><CC03EA>...people would have wound up believing I was a criminal, too!<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The one-legged fellow who was in front of the item shop disappeared.<pause><lineend><CC03EA>Part of me wishes I had gone with him! I mean, he was so good looking...<pause><lineend>|
+|
+|
+34|
+<CC03EA><color=0006><string=001C><lineend><color=0001>So the artist was a monster all along?<pause><lineend><CC03EA>Well, I was suspicious of him ever since he bought the haunted mansion.<pause><lineend><CC03EA>But I never once thought he was something other than a human!<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0006><string=000F><lineend><color=0001>The other sailors were awfully glad to hear that their friends were innocent.<pause><lineend>|
+|
+|
+41|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Ah! The ocean breeze feels fantastic.<pause><lineend>|
+|
+|
+43|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Oh hey, there were some sailors looking for you.<pause><lineend><CC03EA>They told me to tell you to go down to the harbor if I saw you.<pause><lineend><CC03EA>I'd hurry if I were you!<pause><lineend>|
+|
+|
+47|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The artist wasn't even a human! It's incredible!<pause><lineend>|
+|
+|
+51|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+57|
+<CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+60|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+76|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+78|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+86|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|

@@ -1,0 +1,8 @@
+4|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Whoa. Bad idea.<pause><lineend><CC03EA>I've got to be careful not to get too close to Nutsbill!<pause><lineend>|
+|
+|
+5|
+<CC03F0=000200100001000F03FF00000000>|
+|
+|

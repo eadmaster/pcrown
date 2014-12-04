@@ -1,0 +1,172 @@
+62|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Ha!!<pause><lineend><CC03EA>Not too shabby, is it? I'd say it lives up to the name.<pause><lineend>|
+|
+|
+70|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>...That's it!<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>The Ocean Stone!<lineend>The stone the legends say embodies the radiance of the sea!<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>At long last, with this Gem, I can find out where that Demon is hiding.<lineend><CC03ED=00030009000103FF><pause>|
+|
+|
+80|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>Incredible!<pause><lineend>|
+|
+|
+86|
+<CC03EA><color=0003><string=0003><lineend><color=0001>You were following me, weren't you, old man?<pause><lineend>|
+|
+|
+87|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>You didn't run into any great danger. Where's the harm in following you?<pause><lineend>|
+|
+|
+88|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...I suppose you're right.<pause><lineend><CC03EA>Anyway, it is one heck of a treasure, wouldn't you say?<pause><lineend>|
+|
+|
+89|
+<CC03EA><color=0003><string=0003><lineend><color=0001>The only share of it I want is the Ocean Stone.<pause><lineend><CC03EA>The rest is yours.<pause><lineend>|
+|
+|
+90|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>That's very generous of you...<pause><lineend><CC03EA>...but the Ocean Stone is coming with me, along with everything else.<pause><lineend>|
+|
+|
+104|
+<CC03EA><color=0003><string=0003><lineend><color=0001>What the...!?<pause><lineend>|
+|
+|
+105|
+<CC03EA><CC03FC=0004><string=011E><color=0001>I've got you right where I want you this time, Portgus.<pause><lineend><CC03EA>In the end, it's Captain Bighook who is coming out on top!<pause><lineend>|
+|
+|
+109|
+<CC03EA><color=0003><string=0003><lineend><color=0001>So it was a ruse all along.<pause><lineend><CC03EA>But how do you plan on getting away with all this treasure?<pause><lineend><CC03EA>I hope for your sake that the final part of your plan wasn't to beat me in a fight.<pause><lineend>|
+|
+|
+134|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>The Ocean Stone is all mine now, Portgus!<pause><lineend>|
+|
+|
+142|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Wait!!<pause><lineend><CC03EA>You can keep everything! All I want is that Gem!<pause><lineend>|
+|
+|
+153|
+<CC03EA><color=0001>Trea...sure...<lineend>...My...<lineend>...trea...sure...<pause><lineend><CC03EA>You...can't...have...it...<lineend>Not...the...<lineend>Ocean...Stone...<pause><lineend>|
+|
+|
+162|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...the heck is that?<pause><lineend>|
+|
+|
+173|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It's D...It's Dra....<lineend>It's Drake!!!<pause><lineend>|
+|
+|
+174|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Drake?<pause><lineend>|
+|
+|
+175|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>When Captain Drake went to hide his treasure, he never returned! It's him for sure!<pause><lineend>|
+|
+|
+176|
+<CC03EA><color=0003><string=0003><lineend><color=0001>No kidding...<pause><lineend><CC03EA>I'd never leave here either, if I looked like that.<pause><lineend>|
+|
+|
+177|
+<CC03EA><color=0005><string=0171><lineend><color=0001>You can't have it...<lineend>Not...my Ocean Stone...<pause><lineend>|
+|
+|
+180|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Listen! Drake! He's the one you want! Taking your treasure was all his idea!<pause><lineend><CC03EA>He's the one after your Ocean Stone, too!<pause><lineend>|
+|
+|
+184|
+<CC03EA><color=0003><string=0003><lineend><color=0001>What!?<pause><lineend>|
+|
+|
+185|
+<CC03EA><color=0005><string=0171><lineend><color=0001>You can't...have...it...<pause><lineend>|
+|
+|
+186|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Hold it!<pause><lineend><CC03EA>Let's talk this over. Please, Drake!<pause><lineend>|
+|
+|
+187|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Have fun playing with your new friend, Portgus!<pause><lineend><CC03EA>I think I'll head home for the day.<pause><lineend><CC03EA>Don't get too depressed, by the way.<pause><lineend><CC03EA>I'll soon be sending your crew along to keep you company in the afterlife!<pause><lineend>|
+|
+|
+194|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Drake! Wait!<pause><lineend><CC03EA>I'm not the one with your treasure!<pause><lineend>|
+|
+|
+217|
+<CC03EA><color=0003><string=0003><lineend><color=0001>You and I have no reason to fight...<pause><lineend><CC03EA>Oh, fine. Let's just get this over with.<pause><lineend>|
+|
+|
+225|
+<CC03EA><color=0003><string=0003><lineend><color=0001>This is bad. I'm taking too long.<pause><lineend><CC03EA>If I don't catch up to Bighook fast, the others are done for...<pause><lineend>|
+|
+|
+240|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Look at that. He's a tricky old devil.<pause><lineend><CC03EA>Well, what now? There weren't any other entrances to the cave.<pause><lineend>|
+|
+|
+252|
+<CC03EA><color=0003><string=0003><lineend><color=0001>What the...! He's back!?<pause><lineend>|
+|
+|
+253|
+<CC03EA><color=0004><string=0171><lineend><color=0001>Young man...Lower your sword.<pause><lineend>|
+|
+|
+254|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...Captain Drake?<pause><lineend>|
+|
+|
+255|
+<CC03EA><color=0004><string=0171><lineend><color=0001>That is correct.<pause><lineend><CC03EA>I've spent the last 200 years in this place, together with all my riches.<pause><lineend><CC03EA>Because of your help, I'll finally be able to sleep. Thank you.<pause><lineend><CC03EA>My treasures are yours now.<lineend>Take them.<pause><lineend>|
+|
+|
+259|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I'm grateful and all, but treasure isn't exactly my biggest concern at the moment.<pause><lineend><CC03EA>I need to hurry back to my ship and save my crew.<pause><lineend><CC03EA>I don't care what it takes, just tell me how to get outside.<pause><lineend>|
+|
+|
+260|
+<CC03EA><color=0004><string=0171><lineend><color=0001>You care more about a few friends than all this treasure?<pause><lineend>|
+|
+|
+262|
+<CC03EA><color=0003><string=0003><lineend><color=0001>There's always another treasure. But my friends' lives are another matter.<pause><lineend><CC03EA>I don't want to lose any of them, so I'm trying to hurry.<pause><lineend>|
+|
+|
+263|
+<CC03EA><color=0004><string=0171><lineend><color=0001>A man who lives only for treasure is a wretched thing indeed...<pause><lineend><CC03EA>Very well.<pause><lineend><CC03EA>I will use my power to send you to outside of this cave.<pause><lineend>|
+|
+|
+278|
+<CC03EA><CC03FC=0004><string=0125>Boss! We're in trouble!<pause><lineend><CC03EA>Look at that pirate ship!!<pause><lineend>|
+|
+|
+284|
+<CC03EA><CC03FC=0004><string=0125>Boss! What in the world is happening!?<pause><lineend><CC03EA>The old man vanished, and then a little later, that ship appeared! I don't get it!<pause><lineend>|
+|
+|
+285|
+<CC03EA><color=0003><string=0003><lineend><color=0001>The old man was a phony all along.<pause><lineend><CC03EA>He used our ship to lead his cronies here so they could swipe Drake's treasure.<pause><lineend><CC03EA>Part of his plan was to off every last one of us, too.<pause><lineend>|
+|
+|
+292|
+<CC03EA><CC03FC=0004><string=0126><CC03ED=0126000F000103FF>He got us pretty good. Anyway, what are going to do now, Boss?<lineend><CC03ED=0126000E000103FF><pause>|
+|
+|
+293|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Isn't it obvious?<pause><lineend><CC03EA>We're going show them what we're made of! Get ready to fight!!<pause><lineend>|
+|
+|
+299|
+<CC03EA><CC03FC=0004><string=0125>Aye-aye, Sir!!<pause><lineend>|
+|
+|

@@ -1,0 +1,252 @@
+141|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty! You've come back!<pause><lineend><CC03EA>Did you meet with King Volga? And what of his crown?<pause><lineend>|
+|
+|
+144|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Grandfather's crown was stolen.<pause><lineend><CC03EA>Leon is probably going to come after my crown next.<pause><lineend>|
+|
+|
+146|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Whatever happens, we must stop him from summoning the Dark God Larva.<pause><lineend>|
+|
+|
+152|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel, please allow me to take care of this!<pause><lineend><CC03EA>I won't let you come in harm's way again. I swear it!<pause><lineend>|
+|
+|
+153|
+<CC03EA><color=0004><string=0102><lineend><color=0001>The guards have the castle locked up tight. Even a kitten couldn't sneak its way in!<pause><lineend>|
+|
+|
+155|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...All right.<lineend>I'll be counting on you both.<pause><lineend>|
+|
+|
+156|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Hey! I've come to help, too! Just give me something to do, and I'll do it.<pause><lineend>|
+|
+|
+162|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Portgus! What are you doing here?<pause><lineend>|
+|
+|
+163|
+<CC03EA><color=0004><string=0178><lineend><color=0001>I wanted to see if I could catch the infamous crown-thief.<pause><lineend><CC03EA>We're friends, aren't we? Come on, let me give you a hand.<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I can hardly turn away a friend of the Queen. Come inside, Portgus.<lineend><pause>|
+|
+|
+194|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Do I have to stay here the whole time?<pause><lineend>|
+|
+|
+196|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>We're going to protect you, your Majesty. Please just relax and wait here.<lineend><pause>|
+|
+|
+201|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid he's going to use powerful magic against all of you.<pause><lineend><CC03EA>Please be ready for anything.<pause><lineend>|
+|
+|
+205|
+<CC03EA><color=0004><string=016C><lineend><color=0001>There's no turning back now, is there, Gradriel?<pause><lineend>|
+|
+|
+216|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward!<pause><lineend>|
+|
+|
+217|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank goodness! I'm so happy you're all right.<pause><lineend>|
+|
+|
+218|
+<CC03EA><color=0004><string=016C><lineend><color=0001>I had no intention of dying in a place like that.<lineend><pause>|
+|
+|
+220|
+<CC03EA><color=0004><string=016C><lineend><color=0001>By the way, some fussy old man from Volga wanted to talk to you, so I brought him with me.<pause><lineend>|
+|
+|
+227|
+<CC03EA><color=0002><string=0000><lineend><color=0001>King Volga!<pause><lineend>|
+|
+|
+231|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Queen of Valendia, if I may say so...<pause><lineend><CC03EA>...this Knight of yours leaves much to be desired.<pause><lineend>|
+|
+|
+232|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>King Volga, what brings you here so suddenly?<pause><lineend>|
+|
+|
+233|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Make no mistake.<pause><lineend><CC03EA>I'm only here to take back my stolen crown.<pause><lineend><CC03EA>It has nothing to do with my lovely granddaughter changing my mind!<pause><lineend>|
+|
+|
+235|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Grandfather...<pause><lineend>|
+|
+|
+237|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Don't trouble yourself over me. I'll simply be doing as I see fit.<pause><lineend>|
+|
+|
+251|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Your Majesty! Jestonai!<pause><lineend><CC03EA>A Wizard calling himself Leon is attacking at the castle gate!<pause><lineend>|
+|
+|
+253|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>So he's finally come...<pause><lineend>|
+|
+|
+254|
+<CC03EA><CC03FC=0004><string=007D><color=0001>The Knights are having difficulty against his magic.<pause><lineend>|
+|
+|
+256|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Tell the Captain that I'll be there immediately to join them!<pause><lineend>|
+|
+|
+257|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Yes, Sir!<pause><lineend>|
+|
+|
+267|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...If you'll excuse me, your Majesty.<pause><lineend>|
+|
+|
+269|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Be careful, Jestonai.<pause><lineend>|
+|
+|
+278|
+<CC03EA><color=0004><string=0178><lineend><color=0001>I guess it's time for me to get out there with the rest of them!<pause><lineend>|
+|
+|
+279|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm going to fight, too!<pause><lineend>|
+|
+|
+281|
+<CC03EA><color=0004><string=0178><lineend><color=0001>The old guy already told you, didn't he?<pause><lineend><CC03EA>Your job is the stay here.<pause><lineend>|
+|
+|
+282|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But...<pause><lineend>|
+|
+|
+283|
+<CC03EA><color=0004><string=016C><lineend><color=0001>He's right, you know.<pause><lineend>|
+|
+|
+286|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Fine. Just be careful. Both of you.<pause><lineend>|
+|
+|
+354|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>I've come for the crown of the Queen of Valendia.<pause><lineend>|
+|
+|
+355|
+<CC03EA><color=0004><string=0102><lineend><color=0001>As long as the Knight Guard stands, you won't lay a finger on the Queen!<pause><lineend>|
+|
+|
+367|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>That's a rather presumptuous greeting, don't you think?<pause><lineend>|
+|
+|
+368|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Go! Take him out!<pause><lineend>|
+|
+|
+393|
+<CC03EA><color=0004><string=0102><lineend><color=0001>...Hmph!<pause><lineend>|
+|
+|
+401|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Sir Kwein, are you all right!?<pause><lineend>|
+|
+|
+405|
+<CC03EA><color=0004><string=0102><lineend><color=0001>We've already lost many of our men.<pause><lineend>|
+|
+|
+410|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>You're not going to win. It doesn't matter how many of you die!<pause><lineend>|
+|
+|
+415|
+<CC03EA><color=0004><string=0102><lineend><color=0001>You...!<pause><lineend>|
+|
+|
+455|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>I've had enough of this absurdity.<pause><lineend>|
+|
+|
+457|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>What incredible magic power...<pause><lineend><CC03EA>...but I still can't allow him to pass!<pause><lineend>|
+|
+|
+509|
+<CC03EA><color=0004><string=0105><lineend><color=0001>We were hoping you'd arrive.<pause><lineend>|
+|
+|
+513|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Go! The time has come to show the true strength of the Holy Knights of Volga!<pause><lineend>|
+|
+|
+519|
+<CC03EA><color=0006><string=0084><lineend><color=0001>Yaaah!<pause><lineend>|
+|
+|
+570|
+<CC03EA><color=0004><string=0105><lineend><color=0001>I want my crown back.<pause><lineend>|
+|
+|
+572|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Keep it up all you want. The result will be the same every time.<pause><lineend><CC03EA>This is no place for doddering old men.<pause><lineend><CC03EA>King Volga, why don't you go back to where you came from?<pause><lineend>|
+|
+|
+573|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Don't underestimate me!<pause><lineend>|
+|
+|
+644|
+<CC03EA><color=0004><string=0179><lineend><color=0001>The Crown Thief has arrived, eh?<pause><lineend>|
+|
+|
+645|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>How unusual. Who let a dog into the castle?<pause><lineend>|
+|
+|
+646|
+<CC03EA><color=0004><string=0179><lineend><color=0001>You jerk, that was my line.<pause><lineend><CC03EA>Oh well. What do you say we skip the small talk?<pause><lineend>|
+|
+|
+651|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>That will be fine.<pause><lineend>|
+|
+|
+654|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Of course, for me it only means stepping around another boulder.<pause><lineend>|
+|
+|
+755|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>So the Queen is in the audience hall...<pause><lineend>|
+|
+|
+756|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You must be the one who's after Gradriel's crown.<pause><lineend><CC03EA>If you return King Volga's crown right now, I might let you leave with your life.<pause><lineend>|
+|
+|
+762|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Give me any lip, and I'll kill you where you stand.<pause><lineend>|
+|
+|
+765|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>You've got yourself a fine sword there...<pause><lineend><CC03EA>The only problem is actually hitting me with it!<pause><lineend>|
+|
+|

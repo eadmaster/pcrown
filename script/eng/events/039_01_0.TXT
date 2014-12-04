@@ -1,0 +1,176 @@
+9|
+<CC03FA=0000000000000000000003FF000A003C0000><CC03FB=0046>|
+|
+|
+12|
+<CC03EA><color=0006><string=0063><lineend><color=0001>You there! Congratulations!<pause><lineend><CC03EA>You'll be the 10,000th guest to come aboard the Friedfin!<pause><lineend><CC03EA>That's means you're getting a fabulous cruise vacation, free of charge!<pause><lineend><CC03EA>Come right this way! We're pushing off now!<pause><lineend>|
+|
+|
+13|
+<CC03F2=006300090000005D03FF00000000>|
+|
+|
+15|
+<CC03FA=0000000800000000000003FF000A005A0000><CC03FB=005A>|
+|
+|
+16|
+<CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF000003FF><CC03F2=006300090000008803FF00000000>|
+|
+|
+101|
+<CC03EA><color=0006><string=0063><lineend><color=0001><CC03ED=0063000D000103FF>How about that ocean view? Isn't it wonderful?<lineend><CC03ED=0063000C000103FF><pause><CC03EA>It's what we Leelanders take pride in most of all.<pause><lineend>|
+|
+|
+113|
+<CC03EA><color=0006><string=0033><lineend><color=0001>Here we are: The beautiful Sea of Leeland...It really is extraordinary!<pause><lineend><CC03EA>Yet next to your beauty, my darling sweet, it's nothing at all.<pause><lineend>|
+|
+|
+119|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Tee hee! Not bad! But yes, it is very lovely...<pause><lineend><CC03EA>I feel like we could just fly away, like seagulls. Just the two of us.<pause><lineend>|
+|
+|
+120|
+<CC03EA><color=0006><string=0033><lineend><color=0001>Oh, honey. You're so cute.<pause><lineend>|
+|
+|
+147|
+<CC03EA><CC03FC=0004><string=011B><CC03ED=011B000A000103FF>Greetings, little lady! Traveling by yourself, eh?<lineend><CC03ED=011B0009000103FF><pause>|
+|
+|
+148|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Well...As a matter of fact, I am.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+151|
+<CC03EA><CC03FC=0004><string=011B><color=0001><CC03ED=011B000A000103FF>That's not safe, you know!<lineend><CC03ED=011B0009000103FF><pause><CC03EA><CC03ED=011B000A000103FF>As long as we're on this ship together, little lady, why don't you and I stick together?<lineend><CC03ED=011B0009000103FF><pause>|
+|
+|
+157|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>I suppose that's fine. Thank you.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>You can stop calling me "little lady," though. My name is Gradriel.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+173|
+<CC03EA><color=0006><string=0063><lineend><color=0001>P, p, p, pirates!<lineend>Pirates are attacking!<pause><lineend>|
+|
+|
+196|
+<CC03EA><CC03FC=0004><string=0134><color=0005>Pirate<lineend><color=0001>Everyone shut yer traps and do what we say!<pause><lineend>|
+|
+|
+208|
+<CC03EA><CC03FC=0004><string=0135><color=0005>Pirate<lineend><color=0001>Anyone who resists will be food for the fishes!<pause><lineend>|
+|
+|
+219|
+<CC03EA><CC03FC=0004><string=0134><color=0001>You're all coming with us to our hideout! Got it? Then get moving!<pause><lineend>|
+|
+|
+286|
+<CC03EA><color=0005><string=011E><lineend><color=0001>This must be the last two.<pause><lineend><CC03EA>Lock them up in the cave! There will be no escape for anyone!<pause><lineend>|
+|
+|
+290|
+<CC03EA><CC03FC=0004><string=0178><color=0001>...You must be Portgus.<pause><lineend>|
+|
+|
+291|
+<CC03EA><color=0005><string=011E><lineend><color=0001>Precisely! My name is Portgus, and I rule the seas!<pause><lineend><CC03EA>This island is my secret hideout!<pause><lineend>|
+|
+|
+295|
+<CC03EA><CC03FC=0004><string=0178><color=0001>About 100 miles north of Leeland, I see...<pause><lineend>|
+|
+|
+296|
+<CC03EA><color=0005><string=011E><lineend><color=0001>...That's right. You're a sailor, too, I take it.<pause><lineend><CC03EA>Such a shame you won't live to tell anyone what you found!<pause><lineend>|
+|
+|
+299|
+<CC03EA><CC03FC=0004><string=0178><color=0001>That does sound like a pity...<pause><lineend>|
+|
+|
+301|
+<CC03EA><CC03FC=0004><string=0178><color=0001>Let me ask one more question.<pause><lineend><CC03EA>I've heard that Portgus kept a parrot named Drake with him, almost like a partner.<pause><lineend><CC03EA>Where is he?<pause><lineend>|
+|
+|
+302|
+<CC03EA><color=0005><string=011E><lineend><color=0001>Huh? He did!?<pause><lineend><CC03EA>Erm, I mean, he...Uh, that is...<pause><lineend>|
+|
+|
+305|
+<CC03EA><CC03FC=0004><string=0178><color=0001>A word of advice, old man.<pause><lineend>|
+|
+|
+308|
+<CC03EA><color=0005><string=011E><lineend><color=0001>What?<pause><lineend>|
+|
+|
+309|
+<CC03EA><CC03FC=0004><string=0178><color=0001>Next time you decide to steal someone's name, get a good look at him first.<pause><lineend>|
+|
+|
+312|
+<CC03EA><color=0005><string=011E><lineend><color=0001>Grr....I told you, I AM PORTGUS!!<pause><lineend>|
+|
+|
+314|
+<CC03EA><CC03FC=0004><string=0178><color=0001>Drake's not happy that you forgot about him.<pause><lineend>|
+|
+|
+317|
+<CC03EA><CC03FC=0004><string=0178><color=0001>Figured it out yet, Mr. Con-Man?<pause><lineend>|
+|
+|
+336|
+<CC03EA><color=0005><string=011E><lineend><color=0001>It couldn't be...a one eyed man...one leg...and a parrot...you're...!?<pause><lineend>|
+|
+|
+337|
+<CC03EA><CC03FC=0004><string=0178><color=0001>Took you long enough!<pause><lineend>|
+|
+|
+345|
+<CC03EA><color=0004><string=0178><lineend><color=0001>It really gets one my nerves when idiots like you try to use my name.<pause><lineend>|
+|
+|
+347|
+<CC03EA><CC03FC=0004><string=0136><color=0005>Pirate<lineend><color=0001>It's...the real Portgus!<pause><lineend>|
+|
+|
+354|
+<CC03EA><color=0004><string=0178><lineend><color=0001>What are you going to do about it?<pause><lineend>|
+|
+|
+359|
+<CC03EA><CC03FC=0004><string=0137><color=0005>Pirate<lineend><color=0001><CC03ED=0137000F000103FF>Aaah!! Don't hurt me!!<lineend><CC03ED=0137000E000103FF><pause>|
+|
+|
+367|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>You're the real Portgus?<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+372|
+<CC03EA><color=0004><string=0178><lineend><color=0001><CC03ED=0178000A000103FF>That's right.<lineend><CC03ED=01780009000103FF><pause><CC03EA><CC03ED=0178000A000103FF>It never fails. I take one little vacation, and I have to deal with imposters.<lineend><CC03ED=01780009000103FF><pause>|
+|
+|
+373|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>That means all those ship attacks in Leeland...<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+374|
+<CC03EA><color=0004><string=0178><lineend><color=0001><CC03ED=0178000A000103FF>...were carried out by that big oaf you just saw, not me.<lineend><CC03ED=01780009000103FF><pause>|
+|
+|
+383|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Now I need to go finish business with those scallywags.<pause><lineend>|
+|
+|
+384|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>I'll go, too!<lineend><pause><CC03EA>Besides, someone has to save those people they took prisoner.<lineend><CC03ED=0000001C000103FF><pause>|
+|
+|
+388|
+<CC03EA><color=0004><string=0178><lineend><color=0001>All right, then. You get everybody on-board the ship.<lineend><pause><CC03EA>I'll be back the moment I wrap things up. Be careful not to get caught!<lineend><pause>|
+|
+|

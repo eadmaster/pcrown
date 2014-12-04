@@ -1,0 +1,97 @@
+15|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Welcome to Knelt. You've certainly come a long way to get here!<pause><lineend>|
+|
+|
+18|
+<CC03EA><color=0006><string=000B><lineend><color=0001>Beyond Knelt, there's hardly anything to speak of.<pause><lineend><CC03EA>Only craggy mountains as far as the eye can see.<pause><lineend><CC03EA>That's why we say our village is on the very edge of Valendia.<pause><lineend>|
+|
+|
+21|
+<CC03EA><color=0006><string=0020><lineend><color=0001>My Mom is way too protective.<pause><lineend><CC03EA>8 years old is practically grown up! But she still says I can't explore outside the village.<pause><lineend><CC03EA>It just isn't fair.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=000A><lineend><color=0001>The monsters in this area are exceptionally strong.<pause><lineend><CC03EA>The thought of my son wandering off by himself terrifies me.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=002D><lineend><color=0001>The Dwarves are kind and reliable neighbors.<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0012><lineend><color=0001>It's awfully inconvenient to live here if you don't have a horse.<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad is walking from place to place all over the kingdom trying Local Delicacies.<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0006><string=0052><lineend><color=0001>I'm experimenting with magic potions and medicines.<pause><lineend><CC03EA>It's my dream to invent entirely new potions all by myself.<pause><lineend>|
+|
+|
+46|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+52|
+<CC03EA><CC03FC=0004><string=01A8><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+55|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have space to carry anything.<pause><lineend>|
+|
+|
+61|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have space to carry anything.<pause><lineend>|
+|
+|
+73|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+81|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|
+87|
+<CC03EA><color=0006><string=0053><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+|
+|
+88|
+<CC03EA><CC03FC=0004><string=0053><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+|
+|
+92|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+98|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+|
+|
+99|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+105|
+<CC03EA><color=0006><string=0053><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
+|
+|
+108|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
+|
+|
+110|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.
+<pause><lineend>|
+|
+|

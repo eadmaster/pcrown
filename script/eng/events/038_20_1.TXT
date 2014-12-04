@@ -1,0 +1,88 @@
+92|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A Demon!<pause><lineend>|
+|
+|
+93|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Ha ha ha...Like flies to a web.<pause><lineend>|
+|
+|
+98|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the one who guards the entrance.<pause><lineend>|
+|
+|
+103|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Precisely. Want to get by? Then come at me, if you dare!<pause><lineend>|
+|
+|
+114|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Skulg was supposed to have taken care of you...<pause><lineend><CC03EA>Human scum! You'll never get through!<pause><lineend>|
+|
+|
+168|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no!<lineend>Your Majesty! The floor is crumbling away!<pause><lineend>|
+|
+|
+177|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What do we do? The gate...<pause><lineend>|
+|
+|
+184|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>If we don't get out of here quick, we're gonna get squished!<pause><lineend>|
+|
+|
+243|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Well, now what? The gate to the Demon Realm is closed off.<pause><lineend>|
+|
+|
+244|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Why don't we go back to the castle for now, your Majesty?<pause><lineend>|
+|
+|
+265|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Jestonai.<pause><lineend>|
+|
+|
+267|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel, you've returned! What did you find?<pause><lineend>|
+|
+|
+268|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The gate at the top of the tower is ruined.<pause><lineend><CC03EA>Is there any other way to get to the Demon Realm?<pause><lineend>|
+|
+|
+269|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Another way?<pause><lineend>|
+|
+|
+272|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Was the only path through that tower?<lineend><pause>|
+|
+|
+274|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...When the Demon Horde attacked 25 years ago, they came over the sea.<pause><lineend>|
+|
+|
+275|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The sea?<pause><lineend>|
+|
+|
+276|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been told that they appeared on an island called Arsontula.<pause><lineend>|
+|
+|
+278|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Then that's exactly where I'm going next.<pause><lineend>|
+|
+|
+280|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>There's no certainty that that's where they came from, your Highness.<pause><lineend>|
+|
+|
+281|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Well, I intend to find out either way.<pause><lineend>|
+|
+|
+283|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The port town Leeland <color=0001>is full of sailors who may be able to tell you more.<pause><lineend><CC03EA>Your Majesty, the Knight Guard and I will be ready at any moment you might need us.<pause><lineend><CC03EA>Please keep this in mind if you encounter any danger.<pause><lineend>|
+|
+|

@@ -1,0 +1,60 @@
+14|
+<CC03EA><color=0006><string=007D><lineend><color=0001>We've kept the castle safe!<pause><lineend>|
+|
+|
+17|
+<CC03EA><color=0006><string=007C><lineend><color=0001>It gives me peace of mind to know that all three of you are in the castle.<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our kingdom's greatest treasure.<pause><lineend>|
+|
+|
+26|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Surely you've started using Magic Stones by now, your Highness?<pause><lineend><CC03EA>Have you tried taking out a monster without even using your sword?<pause><lineend><CC03EA>If you can do that, I'd say you're as good a magic user as anyone else.<pause><lineend>|
+|
+|
+29|
+<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
+|
+|
+32|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, your Highness.<pause><lineend>|
+|
+|
+35|
+<CC03EA><color=0006><string=0078><lineend><color=0001>Earthquakes are so frightening, your Majesty. I was afraid I was done for!<pause><lineend>|
+|
+|
+38|
+<CC03EA><color=0006><string=0079><lineend><color=0001>I'm thankful we live in a sturdy castle.<pause><lineend>|
+|
+|
+41|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>Your appearance is really starting to resemble your Mother's, Queen Gradriel.<pause><lineend><CC03EA>The similarities are quite striking.<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
+|
+|
+46|
+<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+|
+|
+48|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your Highness.<pause><lineend><CC03EA>Who would have ever thought that these words were the key to releasing the Demon King?<pause><lineend>|
+|
+|
+50|
+<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Who would have thought such gentle words would be the key to releasing the Demon King?<pause><lineend>|
+|
+|
+53|
+<CC03EA><color=0006><string=0080><lineend><color=0001>It's been a long time since so many gathered in the same place. <pause><lineend>|
+|
+|

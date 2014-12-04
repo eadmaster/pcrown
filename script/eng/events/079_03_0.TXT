@@ -1,0 +1,52 @@
+114|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>It appears Samantha was useless after all.<pause><lineend><CC03EA>But no matter. You are too late. Lord Jadis is turned to stone, and his crown is mine.<pause><lineend><CC03EA>That leaves only you, Queen of Valendia...<pause><lineend><CC03EA>Once I take your crown, I shall at last set Larva free.<pause><lineend>|
+|
+|
+117|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What have you done to the King!?<pause><lineend>|
+|
+|
+118|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Would you care to be the first whom I sacrifice to the God of Darkness?<pause><lineend><CC03EA>Or would you prefer it be one of your sisters?<pause><lineend>|
+|
+|
+121|
+<CC03EA><color=0002><string=0000><lineend><color=0001>!!<pause><lineend>|
+|
+|
+126|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>...so...much...hate...<pause><lineend>|
+|
+|
+132|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Aaahh!!!<pause><lineend>|
+|
+|
+167|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible magic power!<pause><lineend><CC03EA>That's the power of...darkness!<pause><lineend><CC03EA>Such a shame. I'll have to withdraw for now.<pause><lineend>|
+|
+|
+169|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>But that crown of yours will be mine! And very soon!<pause><lineend>|
+|
+|
+202|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Ugh...Where am I?<pause><lineend>|
+|
+|
+206|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Is anybody here?<pause><lineend>|
+|
+|
+207|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Eriel...<pause><lineend>|
+|
+|
+208|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael...<pause><lineend>|
+|
+|
+209|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...<pause><lineend>|
+|
+|

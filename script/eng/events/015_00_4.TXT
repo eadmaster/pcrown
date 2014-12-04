@@ -1,0 +1,72 @@
+13|
+<CC03EA><color=0006><string=004B><lineend><color=0001>I get the feeling that Dragons are stronger these days than they ever were before.<pause><lineend>|
+|
+|
+16|
+<CC03EA><color=0006><string=0014><lineend><color=0001>We haven't had an earthquake like that in years.<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=0004><lineend><color=0001>If you go south of this village, you'll find the crypt town Cemeteryth.<pause><lineend><CC03EA>Beyond that is the village of <color=0002>Lowgrove,<color=0001> which lay in the middle of a big forest. <pause><lineend><CC03EA>The goatsmilk they have there is the best. Make sure you try some.<pause><lineend>|
+|
+|
+22|
+<CC03EA><color=0006><string=000A><lineend><color=0001>My grandma told me something when I was little.<pause><lineend><CC03EA>Long ago, there was a Dragon that swallowed a musical score, or something like that.<pause><lineend><CC03EA>Whatever it was, the Dragon became so happy after he swallowed it...<pause><lineend><CC03EA>...he decided to retire to <color=0003>an old Dragon's nest in a cave south of here.<color=0001><pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0006><string=0028><lineend><color=0001>I can't believe what happened...<pause><lineend><CC03EA>Have I been wrong about Edward all along?<pause><lineend>|
+|
+|
+30|
+<CC03EA><color=0006><string=0035><lineend><color=0001>The ground was shaking all over the place. I was scared stiff!<pause><lineend>|
+|
+|
+33|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Anybody who's good at fighting is also good at using items.<pause><lineend><CC03EA>After all, being stingy with items just makes battles take longer.<pause><lineend>|
+|
+|
+36|
+<CC03EA><color=0006><string=004D><lineend><color=0001>Want me to teach you my brilliant new technique?<pause><lineend><CC03EA>First, step back from your opponent and miss one strike on purpose.<pause><lineend><CC03EA>The enemy will see that you missed and come at you...<pause><lineend><CC03EA>...and that's when you hit him with your desperation attack!<pause><lineend><CC03EA>I call this move <color=0002>"The Chisel."<color=0001><pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0006><string=0029><lineend><color=0001>We'll never let those Dragons get the best of us!<pause><lineend>|
+|
+|
+42|
+<CC03EA><color=0006><string=0050><lineend><color=0001>I've read every last book they have here, and one thing is for sure...<pause><lineend><CC03EA>There's no way to win a battle by sitting around and reading all day.<pause><lineend><CC03EA>I think I need to get out more.<pause><lineend>|
+|
+|
+46|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+|
+|
+52|
+<CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+55|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+61|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+|
+|
+66|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+|
+|
+71|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+|
+|
+73|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+|
+|
+81|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+|
+|

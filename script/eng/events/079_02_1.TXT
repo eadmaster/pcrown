@@ -1,0 +1,92 @@
+10|
+<CC03EA><color=0006><string=0077><lineend><color=0001>I've never been so frightened in my entire life.<pause><lineend>|
+|
+|
+13|
+<CC03EA><color=0006><string=0078><lineend><color=0001>That Wizard's strength... It was simply extraordinary.<pause><lineend>|
+|
+|
+16|
+<CC03EA><CC03FC=0004><string=006B><color=0006>Friar<lineend><color=0001>Only those hiding inside the castle survived.<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0006><string=0079><lineend><color=0001>I heard about the one who saved Volga...<pause><lineend><CC03EA>Would you believe it was daughter of our own Prince Shelius?<pause><lineend><CC03EA>A mysterious twist of fate, don't you think?<pause><lineend>|
+|
+|
+20|
+<CC03EA><color=0006><string=007A><lineend><color=0001>Lord Shelius got his swordsmanship from his Father, Lord Jadis.<pause><lineend><CC03EA>He must have passed on his excellent skills to his daughter.<pause><lineend>|
+|
+|
+23|
+<CC03EA><color=0006><string=0079><lineend><color=0001>I heard about the one who saved Volga...<pause><lineend><CC03EA>Would you believe it was daughter of our own Prince Shelius?<pause><lineend><CC03EA>A mysterious twist of fate, don't you think?<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0006><string=007A><lineend><color=0001>Lord Shelius got his swordsmanship from his Father, Lord Jadis.<pause><lineend><CC03EA>He must have passed on his excellent skills to his daughter.<pause><lineend>|
+|
+|
+27|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|
+|
+|
+31|
+<CC03FA=00F0000300000000000003FF000D003C0000><CC03FB=0046>|
+|
+|
+32|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Gradriel!?<pause><lineend>|
+|
+|
+33|
+<CC03ED=0000008700010000><CC03F9=0000>|
+|
+|
+34|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Oh, Gradriel...Please do promise that you'll come see us again soon.<pause><lineend>|
+|
+|
+35|
+<CC03F0=000000880000000303FF00000000>|
+|
+|
+36|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Pardon me, but who are you?<pause><lineend>|
+|
+|
+37|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I hope I didn't alarm you. I serve as the ranking court lady here.<pause><lineend><CC03EA>Once upon a time, I was your Father's wet-nurse.<pause><lineend>|
+|
+|
+39|
+<CC03FA=0000000200000000000003FF000A003C0000><CC03FB=0046>|
+|
+|
+40|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Is...that...so?<pause><lineend>|
+|
+|
+44|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Yes. Lord Shelius and I were always special to one another.<pause><lineend><CC03EA>He even wrote letters to me about his daughters many years ago.<pause><lineend><CC03EA>I never thought I would get the chance to meet one of you in person, though.<pause><lineend>|
+|
+|
+45|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Looking at you reminds me of him.<pause><lineend><CC03EA>Lord Shelius and Lord Jadis had different ways of thinking. They argued often.<pause><lineend>|
+|
+|
+47|
+<CC03ED=00F00048000103FF><CC03ED=00F00049000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>The sky and the ocean are both blue, but they don't mix.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Shelius finally fled this kingdom, and later found himself in Valendia.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Jadis never forgave him after that.<lineend><CC03ED=00F00048000103FF><pause>|
+|
+|
+48|
+<CC03ED=00F0004E00010000><CC03ED=00F0004F000103FF><CC03ED=00F00050000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>But...that's something I think he regrets now...<lineend><CC03ED=00F0005100010000><pause>|
+|
+|
+50|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|
+|
+|
+51|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=000000A500010000>|
+|
+|

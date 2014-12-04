@@ -1,0 +1,811 @@
+０<lineend>
+１<lineend>
+２<lineend>
+３<lineend>
+４<lineend>
+５<lineend>
+６<lineend>
+７<lineend>
+８<lineend>
+９<lineend>
+アイテムが一つもない。<lineend>
+You have no items!
+ハートの実<lineend>
+Heart Fruit
+ハートの実<lineend>
+Heart Fruit
+ハートの実<lineend>
+Heart Fruit
+エリクシルの実<lineend>
+Elikshil Fruit
+エリクシルの実<lineend>
+Elikshil Fruit
+エリクシルの実<lineend>
+Elikshil Fruit
+ユグドラシルの実<lineend>
+Yggdrasill Fruit
+ユグドラシルの実<lineend>
+Yggdrasill Fruit
+ユグドラシルの実<lineend>
+Yggdrasill Fruit
+魔法のキノコ<lineend>
+Magic Mushroom
+魔法のキノコ<lineend>
+Magic Mushroom
+魔法のキノコ<lineend>
+Magic Mushroom
+やきもろこし<lineend>
+Grilled Corn
+やきもろこし<lineend>
+Grilled Corn
+やきもろこし<lineend>
+Grilled Corn
+おべんとパン<lineend>
+Toast To Go
+バター付きパン<lineend>
+Buttered Toast
+バター付きパン<lineend>
+Buttered Toast
+やきざかな<lineend>
+Grilled Fish
+やきざかな<lineend>
+Grilled Fish
+やきざかな<lineend>
+Grilled Fish
+グリルにく<lineend>
+Grilled Meat
+グリルにく<lineend>
+Grilled Meat
+グリルにく<lineend>
+Grilled Meat
+ドラゴンステーキ<lineend>
+Dragon Steak
+ドラゴンステーキ<lineend>
+Dragon Steak
+ドラゴンステーキ<lineend>
+Dragon Steak
+果物のケーキ<lineend>
+Fruit Cake
+果物のケーキ<lineend>
+Fruit Cake
+果物のケーキ<lineend>
+Fruit Cake
+特大ハンバーガー<lineend>
+Hamburger
+特大ハンバーガー<lineend>
+Hamburger
+特大ハンバーガー<lineend>
+Hamburger
+コーンスープ<lineend>
+Corn Soup
+コーンスープ<lineend>
+Corn Soup
+コーンスープ<lineend>
+Corn Soup
+たまごスープ<lineend>
+Egg Soup
+たまごスープ<lineend>
+Egg Soup
+たまごスープ<lineend>
+Egg Soup
+さかなのスープ<lineend>
+Fish Soup
+さかなのスープ<lineend>
+Fish Soup
+さかなのスープ<lineend>
+Fish Soup
+にくだんごスープ<lineend>
+Meatball Soup
+にくだんごスープ<lineend>
+Meatball Soup
+にくだんごスープ<lineend>
+Meatball Soup
+ドラゴンスープ<lineend>
+Dragon Soup
+ドラゴンスープ<lineend>
+Dragon Soup
+ドラゴンスープ<lineend>
+Dragon Soup
+しぼりたてミルク<lineend>
+Fresh Milk
+しぼりたてミルク<lineend>
+Fresh Milk
+しぼりたてミルク<lineend>
+Fresh Milk
+ゴブリンジュース<lineend>
+Goblin Juice
+ゴブリンジュース<lineend>
+Goblin Juice
+ゴブリンジュース<lineend>
+Goblin Juice
+無敵の薬<lineend>
+Invincible Medicine
+無敵の薬<lineend>
+Invincible Medicine
+無敵の薬<lineend>
+Invincible Medicine
+やせ我慢の薬<lineend>
+Courage Medicine
+やせ我慢の薬<lineend>
+Courage Medicine
+やせ我慢の薬<lineend>
+Courage Medicine
+おなかの薬<lineend>
+Stomach Medicine
+おなかの薬<lineend>
+Stomach Medicine
+おなかの薬<lineend>
+Stomach Medicine
+力持ちの薬<lineend>
+Attack Medicine
+力持ちの薬<lineend>
+Attack Medicine
+力持ちの薬<lineend>
+Attack Medicine
+打たれづよさの薬<lineend>
+Defense Potion
+打たれづよさの薬<lineend>
+Defense Potion
+打たれづよさの薬<lineend>
+Defense Potion
+戦士のグローブ<lineend>
+Warrior Glove
+オウガのグローブ<lineend>
+Ogre Glove
+銀のガントレット<lineend>
+Silver Glove
+金のガントレット<lineend>
+Gold Glove
+幸運のペンダント<lineend>
+Luck Pendant
+魔法のペンダント<lineend>
+Magic Pendant
+エルフのブーツ<lineend>
+Elf Boots
+まばたきのブーツ<lineend>
+Blink Boots
+天使のブーツ<lineend>
+Angel Boots
+錬金の指輪<lineend>
+Alchemist Ring
+飛行石の指輪<lineend>
+Flight Ring
+やけつく指輪<lineend>
+Heat Ring
+いてつく指輪<lineend>
+Freeze Ring
+するどいトゲの盾<lineend>
+Spiked Shield
+冷ややかな目の盾<lineend>
+Frozen-Eye Shield
+火ふき竜の盾<lineend>
+Fire Dragon Shield
+盗賊の腕輪<lineend>
+Thief Bracelet
+戦士の腕輪<lineend>
+Warrior Bracelet
+戦士のグローブ<lineend>
+Warrior Glove
+オウガのグローブ<lineend>
+Ogre Glove
+銀のガントレット<lineend>
+Silver Glove
+金のガントレット<lineend>
+Gold Glove
+幸運のペンダント<lineend>
+Luck Pendant
+魔法のペンダント<lineend>
+Magic Pendant
+エルフのブーツ<lineend>
+Elf Boots
+まばたきのブーツ<lineend>
+Blink Boots
+天使のブーツ<lineend>
+Angel Boots
+錬金の指輪<lineend>
+Alchemist Ring
+飛行石の指輪<lineend>
+Flight Ring
+やけつく指輪<lineend>
+Heat Ring
+いてつく指輪<lineend>
+Freeze Ring
+するどいトゲの盾<lineend>
+Spiked Shield
+冷ややかな目の盾<lineend>
+Frozen-Eye Shield
+火ふき竜の盾<lineend>
+Fire Dragon Shield
+盗賊の腕輪<lineend>
+Thief Bracelet
+戦士の腕輪<lineend>
+Warrior Bracelet
+ゴルゴンの魔法石<lineend>
+Gorgon Magic Stone
+ゴルゴンの魔法石<lineend>
+Gorgon Magic Stone
+ゴルゴンの魔法石<lineend>
+Gorgon Magic Stone
+バルカンの魔法石<lineend>
+Vulcan Magic Stone
+バルカンの魔法石<lineend>
+Vulcan Magic Stone
+バルカンの魔法石<lineend>
+Vulcan Magic Stone
+トールの魔法石<lineend>
+Thor Magic Stone
+トールの魔法石<lineend>
+Thor Magic Stone
+トールの魔法石<lineend>
+Thor Magic Stone
+ツンドラの魔法石<lineend>
+Thunder Magic Stone
+ツンドラの魔法石<lineend>
+Thunder Magic Stone
+ツンドラの魔法石<lineend>
+Thunder Magic Stone
+星々の魔法石<lineend>
+Star Magic Stone
+星々の魔法石<lineend>
+Star Magic Stone
+星々の魔法石<lineend>
+Star Magic Stone
+聖なる魔法石<lineend>
+Holy Magic Stone
+聖なる魔法石<lineend>
+Holy Magic Stone
+聖なる魔法石<lineend>
+Holy Magic Stone
+魔女の杖<lineend>
+Witch Rod
+魔導師の杖<lineend>
+Wizard Rod
+呪術師の杖<lineend>
+Curse Rod
+風神の杖<lineend>
+Wind Rod
+ゴブリンの杖<lineend>
+Goblin Rod
+神聖なる紋章<lineend>
+Holy Crest
+ゴム化の呪文<lineend>
+Rubber Scroll
+大地震の呪文<lineend>
+Earthquake Scroll
+魔炎剣の呪文<lineend>
+Fire Scroll
+雷神剣の呪文<lineend>
+Thunder Scroll
+錬金術の呪文<lineend>
+Gold Scroll
+分身の呪文<lineend>
+Mirror Scroll
+非常口の呪文<lineend>
+Exit Scroll
+振り返りの呪文<lineend>
+Return Scroll
+メッキの呪文<lineend>
+Mekki Scroll
+フライパン<lineend>
+Frying Pan
+料理なべ<lineend>
+Soup Pot
+マナのしずく<lineend>
+Drop of Mana
+装備強化の呪文<lineend>
+Reinforce Scroll
+呪い破りの呪文<lineend>
+Dispel Scroll
+復元の呪文<lineend>
+Restore Scroll
+識別の呪文<lineend>
+Eye Scroll
+戦士の剣<lineend>
+Warrior Dagger
+戦士の剣<lineend>
+Warrior Dagger
+戦士の剣<lineend>
+Warrior Dagger
+魔法の剣<lineend>
+Magic Dagger
+魔法の剣<lineend>
+Magic Dagger
+魔法の剣<lineend>
+Magic Dagger
+手投げオノ<lineend>
+Throwing Axe
+手投げオノ<lineend>
+Throwing Axe
+手投げオノ<lineend>
+Throwing Axe
+ばくだん<lineend>
+Bomb
+聖水<lineend>
+Holy Water
+大きなホネ<lineend>
+Large Bone
+さかなのホネ<lineend>
+Fish Bone
+壊れたフライパン<lineend>
+Broken Frying Pan
+壊れた料理なべ<lineend>
+Broken Soup Pot
+空きビン<lineend>
+Empty Bottle
+エリクシルの種<lineend>
+Elikshil Seed
+薬花草の種<lineend>
+Medicine Grass Seed
+精花草の種<lineend>
+Power Plant Seed
+ばくだん草の種<lineend>
+Bomb Seed
+ドードーのたまご<lineend>
+Dodo Egg
+ドラゴンのにく<lineend>
+Dragon Meat
+なまにく<lineend>
+Raw Meat
+さかな<lineend>
+Fish
+とうもろこし<lineend>
+Corn
+オニキス<lineend>
+Opal
+ルビー<lineend>
+Ruby
+アメジスト<lineend>
+Amethyst
+サファイア<lineend>
+Sapphire
+エメラルド<lineend>
+Emerald
+ダイヤモンド<lineend>
+Diamond
+料理のスパイス<lineend>
+Cooking Spice
+料理のスパイス<lineend>
+Cooking Spice
+料理のスパイス<lineend>
+Cooking Spice
+スープのもと<lineend>
+Soup Spice
+スープのもと<lineend>
+Soup Spice
+スープのもと<lineend>
+Soup Spice
+ムシの粉<lineend>
+Insect Powder
+葉がまるい草<lineend>
+Round-Leaf Grass
+葉がギザギザの草<lineend>
+Jagged-Leaf Grass
+葉がとがった草<lineend>
+Sharp-Leaf Grass
+大地の魔法石<lineend>
+Land Stone
+時空の魔法石<lineend>
+Time Stone
+楽譜の切れはし１<lineend>
+Music Score 1
+楽譜の切れはし２<lineend>
+Music Score 2
+楽譜の切れはし３<lineend>
+Music Score 3
+かたみの指輪<lineend>
+Memento Ring
+いにしえのカギ<lineend>
+Ancient Key
+壊れた剣<lineend>
+Broken Sword
+太陽の魔法石<lineend>
+Sun Stone
+海の魔法石<lineend>
+Ocean Stone
+ノーティスドロップ<lineend>
+Notice Drop
+バトルドロップ<lineend>
+Battle Drop
+カインドドロップ<lineend>
+Kind Drop
+トラストドロップ<lineend>
+Trust Drop
+アタックドロップ<lineend>
+Attack Drop
+リムーブドロップ<lineend>
+Remove Drop
+ユニットドロップ<lineend>
+Unit Drop
+キュアドロップ<lineend>
+Cure Drop
+
+
+
+
+　体力全回復。<lineend>
+All Health Restored
+　体力が回復。<lineend>
+Health Restored
+　　<lineend>
+　　Ｇ<lineend>
+G
+　　Ｇ<lineend>
+G
+　おなかいっぱいになった<lineend>
+Your stomach is full
+　体力の最大値が増えた<lineend>
+Max HP has increased
+　どんどん力がみなぎってくる<lineend>
+Power limitless!
+　なにもおこらなかった<lineend>
+Nothing happened
+
+体力の回復<lineend>
+Health Restore
+体力とパワーの増加<lineend>
+Health & Power Boost
+パワーの増加<lineend>
+Power Boost
+体力全回復とパワー増加<lineend>
+Full Health Restore & Power Boost
+体力半減でパワー増加<lineend>
+Health Halved For Power Boost
+
+
+
+一定時間無敵になる<lineend>
+Temporary Invincibility
+痛みを感じなくなる<lineend>
+Feel No Pain
+食事を素早く取れる<lineend>
+Eat Quickly
+一時的に攻撃力ＵＰ<lineend>
+Attack Power UP
+一時的に防御力ＵＰ<lineend>
+Defense Power UP
+  攻撃力１０％ＵＰ<lineend>
+Attack Power 10% UP
+  攻撃力２０％ＵＰ<lineend>
+Attack Power 20% UP
+  攻撃力３０％ＵＰ<lineend>
+Attack Power 30% UP
+  会心の一撃がよく出る<lineend>
+Make More Critical Hits
+  防御力２０％ＵＰ<lineend>
+Defense 20% UP
+  防御力５０％ＵＰ<lineend>
+Defense 50% UP
+  自動的に回避を行う<lineend>
+Automatically Evade
+  スピードＵＰ<lineend>
+Speed UP
+  ジャンプ力ＵＰ<lineend>
+Jump UP
+  攻撃毎にお金が出現<lineend>
+Attacking Creates Coins
+  ２段ジャンプ可能<lineend>
+Double Jump Possible
+  対氷防御力ＵＰ<lineend>
+Ice Defense UP
+  対炎防御力ＵＰ<lineend>
+Fire Defense UP
+  敵の攻撃をはね返す<lineend>
+Rebound Enemy Attacks
+  盾に触れた敵が凍る<lineend>
+Attacking Enemies Freeze
+  盾に触れた敵が焼けつく<lineend>
+Attacking Enemies Burn
+  しゃがまずに物をひろう<lineend>
+No-Crouch Item Pick-Up
+  自動的に防御を行う<lineend>
+Defend Automaticaly
+石化光線を放つ<lineend>
+Unleash Petrification Beam
+火のかたまりを放つ<lineend>
+Shoot Fireballs
+イカズチの柱を放つ<lineend>
+Call Down Lightening
+するどい氷の矢を放つ<lineend>
+Release Ice Arrows
+小さな星を降らせる<lineend>
+Rain Down Meteors
+聖なる光の矢を放つ<lineend>
+Launch Holy Light
+
+弱い敵を小動物に変える<lineend>
+Change Weak Enemies Into Animals
+魔法で剣を発生させる<lineend>
+Imbibe Sword With Magic
+敵を防御不能にする<lineend>
+Make Enemies Defenseless
+強風で間合いを開く<lineend>
+Put Distance Between Enemy
+ゴブリンが敵を転ばせる<lineend>
+Summon Goblin Dive-Bomb
+霊をはらう<lineend>
+Burn Undead Enemies
+戦闘中、装備が壊れない<lineend>
+Items Won't Break
+地震で岩石を落とす<lineend>
+Drop Boulder With Earthquake
+一定時間、剣に炎が宿る<lineend>
+Sword Gains Fire Magic
+一定時間、剣に雷が宿る<lineend>
+Sword Gains Lightening Magic
+敵を黄金の塊にする<lineend>
+Turn Enemy Into Gold Statue
+分身攻撃で攻撃力２ばい<lineend>
+Double Attack On Enemies
+迷宮から脱出する<lineend>
+Escape From Dungeon
+最後のセーブ場所へ戻る<lineend>
+Return To Last Save Point
+一戦闘中光線をかわす<lineend>
+Anti-Petrification
+焼き料理をつくる<lineend>
+Cook Food
+スープをつくる<lineend>
+Make Soup
+魔法石の魔力を回復<lineend>
+Restore Magic Stones
+装備を強化する<lineend>
+Strengthen Items
+装備の呪いを解く<lineend>
+Remove Curse From Item
+消費アイテムを復元する<lineend>
+Restore Consumable Item
+呪われているかを調べる<lineend>
+Check Item For Curse
+手投げ用の剣<lineend>
+Throwing Sword
+相手を転ばせる手投げ剣<lineend>
+Magic Throwing Sword
+空中の敵に投げつける<lineend>
+Throw At Flying Enemies
+落下地点でばくはつする<lineend>
+Explodes Where Dropped
+霊体にダメージを与える<lineend>
+Damage Undead Enemies
+敵に投げつける<lineend>
+Throw At Enemies
+
+
+植えると草が生える<lineend>
+Grass Grows Where Planted
+食材<lineend>
+Food
+魔法石の原石<lineend>
+Use To Make Magic Stone
+スープの調味料<lineend>
+Soup Spice
+グリル料理の調味料<lineend>
+Cooking Spice
+薬の材料<lineend>
+Use To Make Potions
+ハインデルが求める宝石<lineend>
+Stone Sought By Heindel
+未来に戻る魔法石<lineend>
+Use To Travel In Time
+楽譜の一部<lineend>
+Piece Of Music Scroll
+若い魔術師のかたみ<lineend>
+Young Wizard's Memento
+失われたカギ<lineend>
+Lost Key
+先のおれた剣<lineend>
+Tip Is Broken
+敵の気配を読む<lineend>
+Senses Enemies
+戦闘に協力してくれる<lineend>
+Lend A Hand In Battle
+戦闘中アイテムをくれる<lineend>
+Give Items During Battle
+戦闘中に薬をくれる<lineend>
+Give Potions During Battle
+戦闘中に連続攻撃を行う<lineend>
+Combo Attack In Battle
+呪い装備を外してくれる<lineend>
+Dispel Curses
+仲間を呼び集団攻撃する<lineend>
+Bombard Enemies In Battle
+戦闘中に回復魔法を行う<lineend>
+Offer Healing In Battle
+体力回復の花がさく<lineend>
+Grow Healing Flower
+パワー回復の花がさく<lineend>
+Grow Power Flower
+ばくだんの実が成る<lineend>
+Grow Bomb Plant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+の攻撃は防がれた<lineend>
+'s attack blocked!
+の攻撃はかわされた<lineend>
+'s attack evaded!
+回避モード<lineend>
+Evade Mode
+サイドステップでかわす<lineend>
+Side-Step
+バックステップでかわす<lineend>
+Back-Step
+アイテムを使う<lineend>
+Use Item
+身構える<lineend>
+Defend
+パワーがたりない<lineend>
+No Power!
+は凍りついた！<lineend>
+ is frozen!
+は石化した！<lineend>
+ is petrified!
+の攻撃をかわした！<lineend>
+'s attack evaded!
+の攻撃を防御！<lineend>
+'s attack blocked!
+の攻撃をかわせなかった！<lineend>
+'s attack unevaded!
+の攻撃ではじかれた！<lineend>
+ knocked you back!
+の攻撃を防げなかった！<lineend>
+ broke your defense!
+に攻撃のすきを突かれた！<lineend>
+ attacked faster!
+は黄金にかわった！！<lineend>
+ turned to gold!!
+は凍てつく吐息を吐いた！<lineend>
+ is breathing ice!
+は鋭い氷をまとった！！<lineend>
+ will throw sharp ice!
+は仲間を呼んだ<lineend>
+ called his friend!
+はハートの実を食べた<lineend>
+ ate a heart fruit
+毒の効果で物がまともに見えなくなった<lineend>
+Poison has made items hard to see
+さらに毒をくらった　幻覚がひどくなった<lineend>
+Now more poisoned, hallucinating
+はドロドロと押し寄せた<lineend>
+ is slowly closing in
+は雷を呼び寄せた<lineend>
+ summoned lightening
+たちにふくろだたきにされた<lineend>
+s are ganging up on you
+にアイテムをばらまかれた<lineend>
+ have scattered your items
+の矢はクジラに当たった<lineend>
+'s arrow hit its mark
+相棒が怪しい行動をとった<lineend>
+His partner up to something
+はにくを食べた<lineend>
+ ate some meat
+はふしぎなランプを振った<lineend>
+ waved a mysterious lamp
+はバンシーを呼び寄せた<lineend>
+ summoned a Banshee
+バンシーの呪いの矢がささった<lineend>
+Hit by the Banshee's arrow
+に異界の海へ連れ去られた<lineend>
+ took you to faraway seas
+体の一部が本体へと姿を変えた<lineend>
+Body reverting to real self
+はテレキネシスを使った<lineend>
+ used telekinesis
+は首切りの剣を振り上げた<lineend>
+ raised his beheading sword
+のアミにからめとられた<lineend>
+ caught you in his net
+はつむじ風を起こした<lineend>
+ started a whirlwind
+はエネルギーを集中した<lineend>
+ has focued its energy
+は人形にとりついた<lineend>
+ has taken a human form
+は怒りくるっている<lineend>
+ is mad with rage!
+は焼けつく炎を吐いた<lineend>
+ is breathing fire!
+はその身に炎をまとった<lineend>
+ will blast you with fire
+は凶悪な魔力を放った<lineend>
+ will use evil magic
+は生けにえを食らった<lineend>
+ was sacrificed
+は毒ヘビを呼び出した<lineend>
+ summoned poisonous snakes
+は氷の魔獣を呼び出した<lineend>
+ summoned an ice devil
+は死者をあやつった<lineend>
+ has controled the dead
+はゴーストを呼び寄せた<lineend>
+ summoned a ghost
+は魔獣を呼び出した<lineend>
+ summoned a beast
+妖花アルラウネが呼び出された<lineend>
+A Bewitching Beauty...
+は爪に魔力を集中した<lineend>
+ focused magic in his claws
+は火の玉をたたきつけた<lineend>
+ threw a fireball
+は強力な光線を放射した<lineend>
+ fired a strong beam
+殺気が別の方向に移った<lineend>
+Another one wants his turn
+の腕を破壊した<lineend>
+ is all busted up
+は星々の王を呼び出した<lineend>
+ summoned meteors
+は回避、ガードが出来ない<lineend>
+ can't gaurd or evade
+　装備アイテムを選んで下さい<lineend>
+Select an Equipment Item
+　食材を選んでしてください<lineend>
+Select a Food
+　宝石を選んでください<lineend>
+Select a Gem
+　復元させる物を選んでください<lineend>
+Choose something to restore
+　が完成した<lineend>
+ is done
+　も必要です<lineend>
+ is necessary
+　は料理出来ません<lineend>
+ can't be cooked
+　の復元が出来た<lineend>
+ has been restored
+　は復元出来ません<lineend>
+ can't be restored
+　の耐久力が上がった<lineend>
+'s strength has gone up
+　の呪い度が下がった<lineend>
+'s curse is wearing off
+　の呪いが解けた<lineend>
+ 's curse is dispelled
+　の耐久力は最大です<lineend>
+ is at maximum strength
+　は呪われていません<lineend>
+ is not cursed
+　の復元が出来た<lineend>
+ has been restored
+　は復元出来ません<lineend>
+ can't be restored
+　は呪われています<lineend>
+ is cursed
+　食材がありません<lineend>
+You don't have Food
+ Travel Item Bag
+　イベントアイテムのバッグ<lineend>
+ Event Item Bag
+　は壊れた<lineend>
+ has broken
+　を落とした<lineend>
+ is dropped
+　の効果がきれた<lineend>
+'s effect has worn off
+
+剣よ！<lineend>
+負けられない<lineend>
+この一撃でいい<lineend>
+苦しいか？<lineend>
+オレの道をふさぐ者は<lineend>
+剣よ！<lineend>
+いくわよぉ！<lineend>
+今までよくもやって<lineend>
+もぉ！　あんたなんか<lineend>
+さあ、いくぜぇ！<lineend>
+さっきの１発はやばかったぜ<lineend>
+そんな攻撃じゃ<lineend>
+　敵の気配がするわ<lineend>

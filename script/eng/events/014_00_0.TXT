@@ -1,0 +1,32 @@
+4|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>Aaaah ha ha ha ha!!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
+|
+|
+10|
+<CC03EA><CC03FC=0004><string=01B8><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+|
+|
+13|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>It looks to me like your bag is full...<pause><lineend>|
+|
+|
+19|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>You haven't got any items!<pause><lineend><CC03EA>It's not nice to tease your elders, you know.<pause><lineend>|
+|
+|
+24|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>Aaaah ha ha ha ha!!<lineend>Come again soon!<pause><lineend>|
+|
+|
+29|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>It looks to me like your bag is full...<pause><lineend>|
+|
+|
+31|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>You don't have enough money.<pause><lineend><CC03EA>Don't tease your elders like that!<pause><lineend>|
+|
+|
+39|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>Sorry, I don't buy those.<pause><lineend>|
+|
+|
