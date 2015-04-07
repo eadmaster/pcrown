@@ -1,0 +1,18 @@
+Misc Notes:
+-----------
+event file Load order:
+-SELECT.EVN(select book)
+-OPENING0.EVN(opening battle)
+-OP_GRAD0.EVN("YEARS LATER", After battle during cermony)
+-000_06_0.EVN(couryard battle, bedroom)
+
+Debugging event files:
+1. Set breakpoint for 0x06076388(for events where user maintains control), 0x0607638A/0x06076FF4/0x060771A0(for scripted events)
+2. Step through each breakpoint until I get to the one I'm looking for. For scripted events, R2 holds the event pointer(0x0029E000+offset)
+
+Item descriptions appear to be stored around 0xAD520 of 0.bin
+
+000_06_0.EVN cmd offsets:
+10AE
+10B5
+10C6
