@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <font base="12" height="15">
 <bitmaps>
-<bitmap id="0" name="..\fontgen\pcrown-0.png" size="256x256" />
+<bitmap id="0" name="C:\Users\cwx\Documents\GitHub\pcrown\fontgen\font-0.png" size="256x256" />
 </bitmaps>
 <glyphs>
 <glyph ch=" " code="0020" bm="0" origin="0,0" size="0x0" aw="7" lsb="0" />

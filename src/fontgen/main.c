@@ -141,14 +141,14 @@ int main(int argc, char *argv[])
    STARTUPINFO si;
    PROCESS_INFORMATION pi;
    char path[MAX_PATH];
-   char args[MAX_PATH * 2];
+   char args[MAX_PATH * 3];
    RGB pal[256];
    char xml_filename[MAX_PATH], png_filename[MAX_PATH];
    char *p;
    font_struct font;
+	char *bmfontgen_filename="BMFontGen.exe";
 
    memset(&font, 0, sizeof(font));
-
    if (argc < 4)
    {
       printf ("fontgen [options] [filename].txt -o [filename].bin\n");
@@ -162,6 +162,11 @@ int main(int argc, char *argv[])
          round_up_width = TRUE;
          i++;
       }
+		else if (strcmp(argv[i], "-b") == 0)
+		{
+			bmfontgen_filename = argv[i+1];
+			i += 2;
+		}
       else if (strcmp (argv[i], "-o") == 0)
       {
          output_filename = argv[i+1];
@@ -190,7 +195,7 @@ int main(int argc, char *argv[])
    convert_slash(output_filename);
 
    // Execute BMFontGen
-   strcpy_s(args, sizeof(args), "BMFontGen.exe -optfile ");
+   sprintf_s(args, sizeof(args), "%s -optfile ", bmfontgen_filename);
    strcat_s(args, sizeof(args), input_filename);
 
    strcpy_s(path, sizeof(path), input_filename);
@@ -200,7 +205,7 @@ int main(int argc, char *argv[])
 
    strcat_s(args, sizeof(args), " -output ");
    strcat_s(args, sizeof(args), path);
-   strcat_s(args, sizeof(args), "pcrown");
+   strcat_s(args, sizeof(args), "font");
 
    ZeroMemory(&si, sizeof(si));
    si.cb = sizeof(si);
@@ -235,9 +240,8 @@ int main(int argc, char *argv[])
    CloseHandle( pi.hThread );
 
    // Load XML file
-   strcpy_s(xml_filename, sizeof(xml_filename), input_filename);
-   p = strrchr(xml_filename, '.');
-   strcpy_s(p, sizeof(xml_filename)-(p-xml_filename), ".xml");
+   strcpy_s(xml_filename, sizeof(xml_filename), path);
+   strcat_s(xml_filename, sizeof(xml_filename), "font.xml");
    read_font_xml(xml_filename, &font);
 
    // Start going through XML and copying font to our 12x12 1BPP buffer
@@ -255,7 +259,11 @@ int main(int argc, char *argv[])
    else
       strcpy_s(png_filename, sizeof(png_filename), font.bitmaps[0].filename);
 
-   bmp = load_bitmap(png_filename, pal);
+   if ((bmp = load_bitmap(png_filename, pal)) == NULL)
+	{
+		printf("Error loading generated png file\n");
+		exit(1);
+	}
 
    output_buffer = malloc(12 * 12 / 8 * 1024);
 
