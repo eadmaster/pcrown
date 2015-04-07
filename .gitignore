@@ -4,3 +4,6 @@ cd/PRINCESS_CROWN.BIN
 cd/PRINCESS_CROWN.CUE
 cd/PRINCESS_CROWN_SATAKORE.BIN
 cd/PRINCESS_CROWN_SATAKORE.CUE
+/build
+/yabause/*.bin
+/yabause/yabause.ini
