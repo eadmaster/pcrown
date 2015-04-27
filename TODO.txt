@@ -1,0 +1,36 @@
+Game plan for english text:
+---------------------------
+ cwx: -Disassemble and rebuild original 0.bin code along with relocation table. This is pretty much done, just need to redo the original patches.
+ cwx: -Insert item descriptions, names, etc. contained in 0.bin
+       -Need to rework insertion in a way so I can get everything fitting in ram. Do I even have enough space?
+ cwx: -Issues with font generation:
+  -Currently the font width has to be a multiple of 2 or character gets clipped, Need to figure out a way around this
+   -Need to think how I want to handle odd offsets. Either the initial render to a temp buffer has to offset +1 or
+    final buffer write has to offset. It might be easier to do former.
+   -The way x offset is calculated is based on byte increment. Need a leftover variable that stores the odd offset
+   -choice querry is current limited to fixed width(8 pixels). Need a better solution for this
+   -After writing character, figure out offset of pixel we'll then use or operation on next write
+   -May have to use ROTR, etc. to put the bits in the correct position. It's something to look into anyways
+  -The font we're using(Courier New) is actually a fixed width font. Kind of defeats the purpose of vwf. Will have to fix.
+  -Most fonts end up being either too tall or too wide. Is there a solution? 
+   -I had a utility that was given to me that basically makes solving the problem easy. Can't remember name of it, need to look through my stuff or else ask on #yabause again.
+ -Translate/Insert save selection menu.
+ -Dump/Translate/Insert Town names(Each character drawn as sprite. Actual text in COMM.PAK, stored as a 0xC byte size structure. first two bytes is character? Town names all have 0x4XXX values)
+ -Dump/Translate/Insert room names(stored as sprites in files like CAVE.CHR, DG1C.CHR, etc. Need to figure out how to dump)
+ -Dump some misc text that hasn't been found yet:
+  -150_00_1 has some text that isn't being dumped correctly. See "<CC03EC>ÉR<pause>"
+ -Translate/Insert battle enemy names(All stored in the *.PRG files as plain ascii text. "KUWEIN" is in CARD.PRG for instance.)
+ -Insert intro engrish(graphics stored in FONT.CHR. Text in plain ascii in 0.BIN starting at offset 0xACC85)
+ cafe_alpha:-Insert another intro screen before Atlus logo to identify who did the translation
+ -Adjust copyright text under Princess Crown logo to include our copyright
+ -Supposedly there's a bug in the original game in a certain room.
+ -Adapt patch for Satakore version. Not really a priority until we get basic translation done.
+ -Use something better for applying the final patch. Maybe adapt the cd tools + patching into one tool. 
+ 
+Other: 
+------
+ -Figure out a way of loading whatever script/graphics data I want in Yabause. Refer to _EVNLoadDataSelection in ram dumps
+ -We will likely need to rework compression scheme. If we do however, all the control codes will also have to be reworked. 
+  Maybe initially use the old scheme to verify everything else is working, then rework so that all text/control codes/decompress
+  schemes, etc. use 1 byte instead of 2 for each set of data.
+
