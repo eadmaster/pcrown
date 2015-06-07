@@ -132,22 +132,21 @@ find_file(CDIMAGE_CUE_SATAKORE
 
 set(TRANS_LANG "eng" CACHE STRING "Prefix of language to translate to")
 
-set(SCRIPT_TRANS_DIR ${CMAKE_CURRENT_SOURCE_DIR}/script/${TRANS_LANG})
-set(SCRIPT_ORIG_DIR ${CMAKE_CURRENT_SOURCE_DIR}/script/jap)
+set(SCRIPT_TRANS_DIR ${CMAKE_SOURCE_DIR}/script/${TRANS_LANG})
+set(SCRIPT_ORIG_DIR ${CMAKE_SOURCE_DIR}/script/jap)
 
 option(OLD_SH2_PATCH "Enable Old SH2 code Patching" ON)
 
 if (OLD_SH2_PATCH)
-    ExternalProject_Add(satcode
-    	DOWNLOAD_COMMAND ""
-    	SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/satcode
-    	CMAKE_GENERATOR "Unix Makefiles"
-    	CMAKE_ARGS ${SATURN_CMAKE_ARGS}
-    	INSTALL_COMMAND ""
-    	BINARY_DIR ${CMAKE_CURRENT_BINARY_DIR}/satcode)
+	ExternalProject_Add(satcode
+		DOWNLOAD_COMMAND ""
+		SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/satcode
+		CMAKE_GENERATOR "Unix Makefiles"
+		CMAKE_ARGS ${SATURN_CMAKE_ARGS}
+		INSTALL_COMMAND ""
+		BINARY_DIR ${CMAKE_CURRENT_BINARY_DIR}/satcode)
 else()
 	# Build Saturn SH2 code
-	set(SATURN_CMAKE_ARGS "-DCMAKE_TOOLCHAIN_FILE=${CMAKE_CURRENT_SOURCE_DIR}/Platform/SegaSaturn")
 	ExternalProject_Add(prog
 		DOWNLOAD_COMMAND ""
 		SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/prog

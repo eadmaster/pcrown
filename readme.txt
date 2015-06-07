@@ -28,9 +28,15 @@ Build Instructions
 8. Close cmake.
 9. If everything is successful you should get a message "[100%] Built target pcrown". The final patch is princess_crown.xdelta and the final disk image is binary is called "PseudoSaturn.BIN" is is located in the binaries directory.
 
+Credits
+-------
+-CyberWarriorX(hacking and insertion utilities)
+-SamIAm(translation)
+-cafealpha(mksplash)
+
 Special Thanks
 --------------
-Thanks to my buds on #yabause, #mednafen, rhdn, and assemblergames
+Thanks to buds on #yabause, #mednafen, rhdn, and assemblergames
 -Amon
 -BlueCrab
 -Charles MacDonald

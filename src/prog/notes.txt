@@ -1,0 +1,69 @@
+-Program and overlay is done. I just have some strange bugs to fix:
+ -Game runs fine until after title screen. Looks like text isn't being rendered correctly. I be having some work to do!
+
+
+
+
+
+
+
+
+
+
+
+
+
+STG_DAT2.PRG:
+ -Each pointer at beginning points to a structure that is a multiple of 0x1C
+ -format of each 0x1C bytes:
+  0x00000000: Pointer to Struc_13
+  0x00000004: Pointer to Struc_14(8 byte structure)
+  0x00000008: Pointer to Struc_15(16 byte structure)
+  0x0000000C: Pointer to Struc_16
+  0x00000010: Pointer to Struc_17
+  0x00000014: Pointer to Struc_18(8 byte structure)
+  0x00000018: Number of Struc_14 at offset 0x00000004
+  0x00000019: Unknown byte
+  0x0000001A: EVN file id(May need to verify)
+ Struc_13:
+
+ Struc_14:
+  0x00000000: Unknown Byte
+  0x00000001: Unknown Byte
+  0x00000002: Unknown Byte
+  0x00000003: Unused?
+  0x00000004: Struc_19 pointer(0xC byte structure)
+
+ Struc_15:
+  0x00000000: Unknown byte
+  0x00000001: Unknown byte
+  0x00000002: Unknown byte
+  0x00000003: Unknown byte
+  0x00000004: Unknown Pointer
+  0x00000008: Unknown byte
+  0x00000009: Unknown byte
+  0x0000000A: Unknown byte
+  0x0000000B: Unknown byte
+  0x0000000C: Unknown byte
+  0x0000000D: Unknown byte
+  0x0000000E: Unknown byte
+  0x0000000F: Unknown byte
+
+ Struc_16:
+ 
+ Struc_17:
+   
+ Struc_18:
+  0x00000000: Unknown Byte
+  0x00000001: Unknown Byte
+  0x00000002: Unknown Byte
+  0x00000003: Unknown Byte
+  0x00000004: Unknown Byte
+  0x00000005: Unknown Byte
+  0x00000006: Unknown Byte
+  0x00000007: Unknown Byte
+ 
+ Struc_19:
+  0x00000000: Function pointer
+  0x00000004-0x00000000B: Unknown
+ 

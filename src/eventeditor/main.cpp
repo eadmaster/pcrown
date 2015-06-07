@@ -931,10 +931,16 @@ int main(int argc, char *argv[])
 			attr2 = GetFileAttributesA(argv[i+2]);
 
 			if (attr1 == INVALID_FILE_ATTRIBUTES ||
-				attr1 & FILE_ATTRIBUTE_DIRECTORY ||
-				attr2 == INVALID_FILE_ATTRIBUTES ||
-				attr2 & FILE_ATTRIBUTE_DIRECTORY)
+				attr1 & FILE_ATTRIBUTE_DIRECTORY)
 			{
+				printf("Invalid input EVN filename\n", argv[i+1]);
+				usage();
+				return 4;
+			}
+			else if(attr2 == INVALID_FILE_ATTRIBUTES ||
+				     attr2 & FILE_ATTRIBUTE_DIRECTORY)
+			{
+				printf("Invalid input TXT filename: %s\n", argv[i+2]);
 				usage();
 				return 4;
 			}

@@ -6,10 +6,8 @@ project(buildcd)
 
 # dependencies: bmfontgen.exe, eventeditor.exe, fontgen.exe, mksplash.exe, satcode-insert.exe, vcdbuild.exe, xdelta.exe
 
-# Disc dependencies
-set( buildcd_SOURCES
-	IP.BIN
-	files/0.BIN files/000_00_0.EVN files/000_00_1.EVN
+set( evn_SOURCES
+ files/000_00_0.EVN files/000_00_1.EVN
 	files/000_00_2.EVN files/000_00_3.EVN files/000_00_4.EVN
 	files/000_00_7.EVN files/000_00_8.EVN files/000_00_9.EVN
 	files/000_01_0.EVN files/000_01_1.EVN files/000_01_2.EVN
@@ -154,7 +152,13 @@ set( buildcd_SOURCES
 	files/160_00_0.EVN files/160_00_1.EVN files/162_00_0.EVN
 	files/164_00_0.EVN files/166_00_0.EVN files/167_00_0.EVN
 	files/167_01_0.EVN files/169_00_0.EVN files/171_00_0.EVN
-	files/175_00_0.EVN files/176_00_0.EVN files/ADRI.CHR
+	files/175_00_0.EVN files/176_00_0.EVN 
+)
+
+# Disc dependencies
+set( buildcd_SOURCES
+	IP.BIN
+	files/0.BIN files/ADRI.CHR
 	files/ADRI.PAK files/AERI.CHR files/AERI.PAK
 	files/ANML.CHR files/ANML.PAK files/AREL.CHR
 	files/AREL.PAK files/ASTL1C.CHB files/ASTL1C.MCB
@@ -660,32 +664,32 @@ set( buildcd_SOURCES
 
 set(evnfiles)
 set(evncopyfiles)
-foreach(_file ${buildcd_SOURCES})
-	get_filename_component(_fileext ${_file} EXT)
-        if (${_fileext} MATCHES ".EVN")
+foreach(_file ${evn_SOURCES})
+	#get_filename_component(_fileext ${_file} EXT)
+        #if (${_fileext} MATCHES ".EVN")
 		get_filename_component(_basefile ${_file} NAME_WE)
                 set(_txtfile ${SCRIPT_TRANS_DIR}/events/${_basefile}.TXT)
 
 		add_custom_command(OUTPUT EVN/${_basefile}.EVN
-			COMMAND  ${CMAKE_COMMAND} -E copy ${_file} EVN/${_basefile}.EVN
+			COMMAND  ${CMAKE_COMMAND} -E copy ${_file} ${CMAKE_CURRENT_BINARY_DIR}/EVN/${_basefile}.EVN
             MAIN_DEPENDENCY IP.BIN
 			COMMENT "Backing up original ${_basefile}.EVN"
 		)
 		list(APPEND evncopyfiles EVN/${_basefile}.EVN)
 
 		add_custom_command(OUTPUT ${_file}
-			COMMAND eventeditor -i EVN/${_basefile}.EVN ${_txtfile} -o ${_file}
+			COMMAND eventeditor -i ${CMAKE_CURRENT_BINARY_DIR}/EVN/${_basefile}.EVN ${_txtfile} -o ${_file}
 			DEPENDS EVN/${_basefile}.EVN eventeditor ${_txtfile}
 			COMMENT "Inserting script file ${_basefile}.TXT into ${_basefile}.EVN"
 		)
 
 		list(APPEND evnfiles ${_file})
-	endif()
+	#endif()
 endforeach()
 
 
 file(MAKE_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/EVN)
-add_custom_command(OUTPUT IP.BIN 
+add_custom_command(OUTPUT ${buildcd_SOURCES}
 	COMMAND ${ISOTOOLS} --extract=${CMAKE_CURRENT_BINARY_DIR} --iso=${CDIMAGE_CUE}
 	COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_CURRENT_SOURCE_DIR}/IP-RF.BIN ${CMAKE_CURRENT_BINARY_DIR}/IP.BIN
     MAIN_DEPENDENCY ${ISOTOOLS}
@@ -723,7 +727,7 @@ endif()
 
 add_custom_command(OUTPUT princess_crown.dsk
 	COMMAND ${VCDBUILD} disc -B
-	DEPENDS ${buildcd_SOURCES}
+	DEPENDS ${buildcd_SOURCES} ${evn_SOURCES}
 	COMMENT "Generating Translated CD Image"
 )
 
@@ -734,8 +738,8 @@ add_custom_command(OUTPUT princess_crown.xdelta
 )
 
 add_custom_target(buildcd ALL
-	DEPENDS ${evncopyfiles} ${buildcd_SOURCES} princess_crown.xdelta
-	SOURCES ${buildcd_SOURCES}
+	DEPENDS ${evncopyfiles} ${buildcd_SOURCES} ${evn_SOURCES} princess_crown.xdelta
+	SOURCES ${buildcd_SOURCES} ${evn_SOURCES}
 )
 
 # Group source files 

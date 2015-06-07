@@ -7,3 +7,6 @@ cd/PRINCESS_CROWN_SATAKORE.CUE
 /build
 /yabause/*.bin
 /yabause/yabause.ini
+*.idb
+*.id0
+*.id1
