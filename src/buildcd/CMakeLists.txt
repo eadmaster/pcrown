@@ -687,9 +687,16 @@ foreach(_file ${evn_SOURCES})
 	#endif()
 endforeach()
 
+set(isotools_out ${buildcd_SOURCES})
+list(REMOVE_ITEM isotools_out "files/KANJI.BIN")
+if (OLD_SH2_PATCH)
+else()
+	list(REMOVE_ITEM isotools_out "files/0.BIN")
+	list(REMOVE_ITEM isotools_out "files/STG_DAT2.PRG")
+endif()
 
 file(MAKE_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/EVN)
-add_custom_command(OUTPUT ${buildcd_SOURCES}
+add_custom_command(OUTPUT ${isotools_out}
 	COMMAND ${ISOTOOLS} --extract=${CMAKE_CURRENT_BINARY_DIR} --iso=${CDIMAGE_CUE}
 	COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_CURRENT_SOURCE_DIR}/IP-RF.BIN ${CMAKE_CURRENT_BINARY_DIR}/IP.BIN
     MAIN_DEPENDENCY ${ISOTOOLS}
@@ -698,6 +705,8 @@ add_custom_command(OUTPUT ${buildcd_SOURCES}
 )
 
 if (OLD_SH2_PATCH)
+	list(REMOVE_ITEM lib_srcs "IlmImf/b44ExpLogTable.cpp")
+
 	add_custom_command(OUTPUT EVN/0.BIN
 		COMMAND  ${CMAKE_COMMAND} -E copy files/0.BIN EVN/0.BIN
 		MAIN_DEPENDENCY IP.BIN
@@ -718,10 +727,18 @@ if (OLD_SH2_PATCH)
 		COMMENT "Inserting names and items"
 	)
 else()
-	add_custom_command(OUTPUT files/0.BIN
+	add_custom_command(OUTPUT files/0.BIN files/STG_DAT2.PRG
 		COMMAND  ${CMAKE_COMMAND} -E copy ${CMAKE_CURRENT_BINARY_DIR}/../prog/0.BIN files/0.BIN
-        DEPENDS prog
-		COMMENT "Copying compiled 0.bin"
+		COMMAND  ${CMAKE_COMMAND} -E copy ${CMAKE_CURRENT_BINARY_DIR}/../prog/STG_DAT2.PRG files/STG_DAT2.PRG
+		#DEPENDS prog ${CMAKE_CURRENT_BINARY_DIR}/../prog/0.BIN ${CMAKE_CURRENT_BINARY_DIR}/../prog/STG_DAT2.PRG IP.BIN 
+		MAIN_DEPENDENCY IP.BIN
+		COMMENT "Copying compiled 0.bin/stg_dat2.prg"
+	)
+
+	add_custom_command(OUTPUT files/KANJI.BIN
+		COMMAND fontgen -2 -b ${BMFONTGEN} ${FONTGEN_DIR}/pcrown.txt -o files/KANJI.BIN
+		DEPENDS ${FONTGEN_DIR}/pcrown.txt IP.BIN
+		COMMENT "Generating new font"
 	)
 endif()
 

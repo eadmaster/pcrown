@@ -49,7 +49,4 @@ Thanks to buds on #yabause, #mednafen, rhdn, and assemblergames
 -SaturnAR
 -tehcloud
 -WhiteSnake
-
-Other Acknowledgements
-----------------------
--vbt for his code that became helpful for understanding and rebuilding the main code. Originally I was going to include a special thanks, however since then he's been an absolute douchebag. So he's getting no thanks, just this.
+-vbt for his code that became helpful for understanding and rebuilding the main code.

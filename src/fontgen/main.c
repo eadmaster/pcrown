@@ -22,6 +22,7 @@
 #define USE_CONSOLE
 #include <allegro.h>
 #include <winalleg.h>
+#include <shlwapi.h>
 //#include <loadpng.h>
 #include <math.h>
 #include "xml.h"
@@ -130,6 +131,18 @@ void convert_slash(char *str)
    }
 }
 
+void fix_path(char *path)
+{
+	int index = 0;
+	while(path[index])
+	{     
+		if(path[index] == '/')
+			path[index] = '\\';
+		else
+			index++;
+	}
+}
+
 int main(int argc, char *argv[])
 {
    char *input_filename=NULL;
@@ -142,11 +155,13 @@ int main(int argc, char *argv[])
    PROCESS_INFORMATION pi;
    char path[MAX_PATH];
    char args[MAX_PATH * 3];
+	char temp[MAX_PATH], temp2[MAX_PATH];
    RGB pal[256];
    char xml_filename[MAX_PATH], png_filename[MAX_PATH];
    char *p;
    font_struct font;
 	char *bmfontgen_filename="BMFontGen.exe";
+
 
    memset(&font, 0, sizeof(font));
    if (argc < 4)
@@ -165,16 +180,19 @@ int main(int argc, char *argv[])
 		else if (strcmp(argv[i], "-b") == 0)
 		{
 			bmfontgen_filename = argv[i+1];
+			fix_path(bmfontgen_filename);
 			i += 2;
 		}
       else if (strcmp (argv[i], "-o") == 0)
       {
          output_filename = argv[i+1];
+			fix_path(output_filename);
          i += 2;
       }
       else
       {
          input_filename = argv[i];
+			fix_path(input_filename);
          i++;
       }
    }
@@ -195,10 +213,15 @@ int main(int argc, char *argv[])
    convert_slash(output_filename);
 
    // Execute BMFontGen
-   sprintf_s(args, sizeof(args), "%s -optfile ", bmfontgen_filename);
-   strcat_s(args, sizeof(args), input_filename);
+	GetCurrentDirectoryA(sizeof(temp), temp);
+	if (!PathRelativePathToA(temp2, temp, FILE_ATTRIBUTE_DIRECTORY, bmfontgen_filename, FILE_ATTRIBUTE_NORMAL))
+		strcpy_s(temp2, sizeof(temp2), bmfontgen_filename);
+   sprintf_s(args, sizeof(args), "%s -optfile ", temp2);
+	if (!PathRelativePathToA(temp2, temp, FILE_ATTRIBUTE_DIRECTORY, input_filename, FILE_ATTRIBUTE_NORMAL))
+		strcpy_s(temp2, sizeof(temp2), input_filename);
+   strcat_s(args, sizeof(args), temp2);
 
-   strcpy_s(path, sizeof(path), input_filename);
+   strcpy_s(path, sizeof(path), temp2);
 
    if ((p = strrchr(path, '\\')) != NULL)
       p[1] = '\0';

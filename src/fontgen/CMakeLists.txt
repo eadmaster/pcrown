@@ -16,6 +16,7 @@ set( fontgen_SOURCES
 	xml.c )
 
 set (FONTGEN_LIBRARIES 
+    shlwapi
 	${ALLEGRO_LIBRARY} 
 	${LOADPNG_LIBRARY} 
 	${LIBPNG_LIBRARY} 
@@ -42,5 +43,6 @@ add_custom_command(TARGET fontgen POST_BUILD
 	COMMAND  ${CMAKE_COMMAND} -E copy ${LIBXML2_DLL} ${CMAKE_CURRENT_BINARY_DIR}/Debug
 	COMMAND  ${CMAKE_COMMAND} -E copy ${ICONV_DLL} ${CMAKE_CURRENT_BINARY_DIR}/Debug
 	COMMAND  ${CMAKE_COMMAND} -E copy ${ZLIB_DLL} ${CMAKE_CURRENT_BINARY_DIR}/Debug
+    COMMENT "Copying dependencies"
 )
 

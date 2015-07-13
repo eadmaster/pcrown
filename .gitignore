@@ -10,3 +10,12 @@ cd/PRINCESS_CROWN_SATAKORE.CUE
 *.idb
 *.id0
 *.id1
+*.coff
+src/prog/STG_DAT2.PRG
+src/prog/0-orig.bin
+src/prog/old-asm-s.bak
+src/prog/0.nam
+src/prog/0.til
+src/prog/0.bin
+src/font.xml
+src/fontgen/font.xml
