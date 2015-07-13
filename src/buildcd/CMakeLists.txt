@@ -705,8 +705,6 @@ add_custom_command(OUTPUT ${isotools_out}
 )
 
 if (OLD_SH2_PATCH)
-	list(REMOVE_ITEM lib_srcs "IlmImf/b44ExpLogTable.cpp")
-
 	add_custom_command(OUTPUT EVN/0.BIN
 		COMMAND  ${CMAKE_COMMAND} -E copy files/0.BIN EVN/0.BIN
 		MAIN_DEPENDENCY IP.BIN
