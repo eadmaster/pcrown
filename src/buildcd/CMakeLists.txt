@@ -152,7 +152,9 @@ set( evn_SOURCES
 	files/160_00_0.EVN files/160_00_1.EVN files/162_00_0.EVN
 	files/164_00_0.EVN files/166_00_0.EVN files/167_00_0.EVN
 	files/167_01_0.EVN files/169_00_0.EVN files/171_00_0.EVN
-	files/175_00_0.EVN files/176_00_0.EVN 
+	files/175_00_0.EVN files/176_00_0.EVN files/OPENING0.EVN
+	files/OP_EDOW.EVN files/OP_GRAD0.EVN files/OP_HIND.EVN
+	files/OP_PORT.EVN files/OP_PURO.EVN files/SELECT.EVN
 )
 
 # Disc dependencies
@@ -445,9 +447,7 @@ set( buildcd_SOURCES
 	files/OD1C.PAK files/OLD1C.CHB files/OLD1C.MCB
 	files/OLD1E.CHB files/OLD1E.MCB files/OLD1K.CHB
 	files/OLD1K.MCB files/ONDN2C.CHB files/ONDN2C.MCB
-	files/ONDN2K.CHB files/ONDN2K.MCB files/OPENING0.EVN
-	files/OP_EDOW.EVN files/OP_GRAD0.EVN files/OP_HIND.EVN
-	files/OP_PORT.EVN files/OP_PURO.EVN files/PC_ABS.TXT
+	files/ONDN2K.CHB files/ONDN2K.MCB files/PC_ABS.TXT
 	files/PC_BIB.TXT files/PC_CPY.TXT files/PEOP_DAT.PRG
 	files/PH1C.CHR files/PH1C.PAK files/PIRA.CHR
 	files/PIRA.PAK files/PIRA_C.CHR files/PIRA_C.PAK
@@ -498,7 +498,7 @@ set( buildcd_SOURCES
 	files/SCHL1E.CHB files/SCHL1E.MCB files/SDDRVS.TSK
 	files/SDOL.CHR files/SDOL.PAK files/SDOLONLY.CHR
 	files/SDOLONLY.PAK files/SE1C.CHR files/SE1C.PAK
-	files/SELECT.EVN files/SEME.CHR files/SEME.PAK
+	files/SEME.CHR files/SEME.PAK
 	files/SEME1C.CHB files/SEME1C.MCB files/SEME1E.CHB
 	files/SEME1E.MCB files/SEME1K.CHB files/SEME1K.MCB
 	files/SEME2C.CHB files/SEME2C.MCB files/SEME2E.CHB
@@ -690,6 +690,7 @@ endforeach()
 set(isotools_out ${buildcd_SOURCES})
 list(REMOVE_ITEM isotools_out "files/KANJI.BIN")
 if (OLD_SH2_PATCH)
+	list(REMOVE_ITEM isotools_out "files/0.BIN")
 else()
 	list(REMOVE_ITEM isotools_out "files/0.BIN")
 	list(REMOVE_ITEM isotools_out "files/STG_DAT2.PRG")
@@ -721,8 +722,9 @@ if (OLD_SH2_PATCH)
 	add_custom_command(OUTPUT files/KANJI.BIN
 		COMMAND fontgen -2 -b ${BMFONTGEN} ${FONTGEN_DIR}/pcrown.txt -o files/KANJI.BIN
 		#COMMAND itemsutil -i ${SCRIPT_TRANS_DIR}/names.txt ${SCRIPT_TRANS_DIR}/items.txt files/0.BIN files/KANJI.BIN 0x2400
-		DEPENDS  ${FONTGEN_DIR}/pcrown.txt ${SCRIPT_TRANS_DIR}/names.txt ${SCRIPT_TRANS_DIR}/items.txt files/0.bin
-		COMMENT "Inserting names and items"
+		DEPENDS  ${FONTGEN_DIR}/pcrown.txt ${SCRIPT_TRANS_DIR}/names.txt ${SCRIPT_TRANS_DIR}/items.txt files/0.bin EVN/0.BIN
+		#COMMENT "Inserting names and items"
+		COMMENT "Generating new font"
 	)
 else()
 	add_custom_command(OUTPUT files/0.BIN files/STG_DAT2.PRG
