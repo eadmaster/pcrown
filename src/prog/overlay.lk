@@ -1,0 +1,47 @@
+SECTIONS {		
+	SLSTART 0x06004000 (NOLOAD): {	
+		___Start = .;	
+		*(SLSTART)	
+	}			
+	.text ALIGN(0x20) (NOLOAD):			
+	{			
+		* (.text)			
+		*(.strings)			
+		__etext = .;			
+	}			
+	SLPROG ALIGN(0x20) (NOLOAD): {	
+		__slprog_start = .;	
+		*(SLPROG)	
+		__slprog_end = .;	
+	}			
+	.data ALIGN(0x10) (NOLOAD):			
+	{			
+		* (.data)			
+		__edata = . ;			
+	}			
+	.bss ALIGN(0x10) (NOLOAD):			
+	{			
+		__bstart = . ;			
+		*(.bss)			
+		* ( COMMON )			
+		__bend = . ;			
+	_end = .;			
+	}			
+	.tors  ALIGN(0x10) (NOLOAD):			
+	{			
+		___ctors = . ;			
+		*(.ctors)			
+		___ctors_end = . ;			
+		___dtors = . ;			
+		*(.dtors)			
+		___dtors_end = . ;			
+	}
+	.overlay 0x002AD000: 
+	{
+	    *(.overlay)
+	}
+	.tail ALIGN(0x4) (NOLOAD):
+	{
+	    *(.tail)
+	}
+}				

@@ -31,8 +31,8 @@ SET(CMAKE_FIND_ROOT_PATH /usr/local/share/sh-elf/bin)
 enable_language(ASM)
 set(prog_SOURCES
 	0-bin.s
-	#new-asm.s
-	old-asm.s
+	new-asm.s
+	#old-asm.s
 	overlay.s
 	text.c)
 
@@ -48,14 +48,14 @@ if (PROG_WANT_DEBUG)
 	add_definitions(-DENABLE_DEBUG=1)
 endif()
 
-set(CMAKE_C_FLAGS "-O2 -Wall -m2")
-set(CMAKE_EXE_LINKER_FLAGS "-nostartfiles -Wl,--script,${CMAKE_SOURCE_DIR}/sl.lk")
 set(CMAKE_EXECUTABLE_SUFFIX ".elf")
 
 enable_language(ASM)
 add_executable(${PROJECT_NAME} ${prog_SOURCES})
 
 target_link_libraries(${PROJECT_NAME} ${prog_LIBRARIES} )
+set_target_properties(${PROJECT_NAME} PROPERTIES COMPILE_FLAGS "-Wall -m2 -Os")
+set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-nostartfiles -Wl,--script,${CMAKE_SOURCE_DIR}/sl.lk")
 
 #add_custom_command(TARGET ${PROJECT_NAME}
 #	POST_BUILD
@@ -80,19 +80,21 @@ if (PROG_WANT_DEBUG)
 	add_definitions(-DENABLE_DEBUG=1)
 endif()
 
-set(CMAKE_C_FLAGS "-O2 -Wall -m2")
-set(CMAKE_EXE_LINKER_FLAGS "-nostartfiles -Wl,--script,${CMAKE_SOURCE_DIR}/overlay.lk")
 set(CMAKE_EXECUTABLE_SUFFIX ".elf")
 
 enable_language(ASM)
 add_executable(${PROJECT_NAME} ${prog_SOURCES})
 
 target_link_libraries(${PROJECT_NAME} ${prog_LIBRARIES} )
+set_target_properties(${PROJECT_NAME} PROPERTIES COMPILE_FLAGS "-Wall -m2 -Os")
+set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-nostartfiles -Wl,--script -Wl,${CMAKE_SOURCE_DIR}/overlay.lk")
 
 add_custom_command(TARGET ${PROJECT_NAME}
 	POST_BUILD
 	DEPENDS ${PROJECT_NAME}
-	COMMAND ${CMAKE_STRIP} ${PROJECT_NAME}.elf --strip-all --output-target=binary -o STG_DAT2.PRG
+	COMMAND ${CMAKE_STRIP} ${PROJECT_NAME}.elf --remove-section=.text --remove-section=bss --output-target=binary -o STG_DAT2.PRG
     COMMENT "Generating stripped STG_DAT2.PRG" )
 
 install(FILES ${CMAKE_BINARY_DIR}/STG_DAT2.PRG DESTINATION ".")
+
+#source_group("Source Files" REGULAR_EXPRESSION .*\\.s$)
