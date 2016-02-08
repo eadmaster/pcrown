@@ -1,8 +1,8 @@
-4|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>異常ありません！<pause><lineend>|
 |
-|
-7|
+<CC03EA><color=0006><string=007D><lineend><color=0001>異常ありません！<pause><lineend>|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>我々がしっかりと見回っております。<lineend>女王様は、ごゆっくりお休みください。<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=007E><lineend><color=0001>我々がしっかりと見回っております。<lineend>女王様は、ごゆっくりお休みください。<pause><lineend>|

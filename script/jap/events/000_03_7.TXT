@@ -1,8 +1,8 @@
-4|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>あなたが勇者様！？<pause><lineend><CC03EA>失礼しました。<lineend>強いと聞いていたので<lineend>まさかこんなにかわいらしい人だとは・・・<pause><lineend>|
 |
-|
-7|
+<CC03EA><color=0006><string=007D><lineend><color=0001>あなたが勇者様！？<pause><lineend><CC03EA>失礼しました。<lineend>強いと聞いていたので<lineend>まさかこんなにかわいらしい人だとは・・・<pause><lineend>|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>あなたのおかげで魔王軍は去りました。<lineend>これで平和が来るといいんですが・・・<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=007E><lineend><color=0001>あなたのおかげで魔王軍は去りました。<lineend>これで平和が来るといいんですが・・・<pause><lineend>|

@@ -1,8 +1,8 @@
-3|
+0|
 <CC03EA><color=0003><string=0001><lineend><color=0001>ここで戻っているひまはない！<pause><lineend><CC03EA>はやく、グラドリエルを<lineend>助けにいかないと・・・。<lineend><pause>|
 |
-|
-4|
+<CC03EA><color=0003><string=0001><lineend><color=0001>ここで戻っているひまはない！<pause><lineend><CC03EA>はやく、グラドリエルを<lineend>助けにいかないと・・・。<lineend><pause>|
+1|
 <CC03F0=0001000D0000000A03FF00000000>|
 |
-|
+<CC03F0=0001000D0000000A03FF00000000>|

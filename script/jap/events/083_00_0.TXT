@@ -1,8 +1,8 @@
-4|
+0|
 <CC03EA><color=0006><string=003C><lineend><color=0001>いらっしゃい。<pause><lineend><CC03EA>ここが名物料理めぐりの<lineend>最終地点、最後の酒場よ。<pause><lineend>|
 |
-|
-7|
+<CC03EA><color=0006><string=003C><lineend><color=0001>いらっしゃい。<pause><lineend><CC03EA>ここが名物料理めぐりの<lineend>最終地点、最後の酒場よ。<pause><lineend>|
+1|
 <CC03EA><color=0006><string=0008><lineend><color=0001>今まで食べた名物料理を思い出すよ。<pause><lineend><CC03EA>ナッツビルの「果物のケーキ」は<lineend>ブランデーのかおりが最高だったし<pause><lineend><CC03EA>秘密の店の「ハンバーガー」は<lineend>ジューシーなハンバーグが<lineend>泣けるあじだったよなぁ。<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=0008><lineend><color=0001>今まで食べた名物料理を思い出すよ。<pause><lineend><CC03EA>ナッツビルの「果物のケーキ」は<lineend>ブランデーのかおりが最高だったし<pause><lineend><CC03EA>秘密の店の「ハンバーガー」は<lineend>ジューシーなハンバーグが<lineend>泣けるあじだったよなぁ。<pause><lineend>|

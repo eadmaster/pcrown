@@ -1,8 +1,4 @@
-5|
+0|
 <CC03EA><color=0004><string=0101><lineend><color=0001>・・・あなたとは初めて会ったはずなのに<lineend>なぜか昔から知っているような気がします。<pause><lineend><CC03EA>ふたたび旅に出られるまで<lineend>この城で好きなだけ休んで<lineend>行かれるとよいでしょう。<pause><lineend><CC03F0=000000880001000F03FF00000000>|
 |
-|
-8|
 <CC03EA><color=0004><string=0101><lineend><color=0001>・・・あなたとは初めて会ったはずなのに<lineend>なぜか昔から知っているような気がします。<pause><lineend><CC03EA>ふたたび旅に出られるまで<lineend>この城で好きなだけ休んで<lineend>行かれるとよいでしょう。<pause><lineend><CC03F0=000000880001000F03FF00000000>|
-|
-|

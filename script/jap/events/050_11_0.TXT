@@ -1,4 +1,4 @@
-56|
+65536|
 <CC03EA><color=0002>「カインドドロップ」を手に入れた！<pause><lineend>|
 |
-|
+<CC03EA><color=0002>「カインドドロップ」を手に入れた！<pause><lineend>|

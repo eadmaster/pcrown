@@ -1,4 +1,4 @@
-4|
+0|
 <CC03EA><color=0001>どこからともなく<lineend>声が聞こえてくる・・・<pause><lineend><CC03EA><color=0002>時は来ました。<pause><lineend><CC03EA>わたくしの子孫よ・・・<lineend>黄金の戦士の子孫と力を合わせ<lineend>迷宮に隠された手紙を捜し出しなさい。<pause><lineend>|
 |
-|
+<CC03EA><color=0001>どこからともなく<lineend>声が聞こえてくる・・・<pause><lineend><CC03EA><color=0002>時は来ました。<pause><lineend><CC03EA>わたくしの子孫よ・・・<lineend>黄金の戦士の子孫と力を合わせ<lineend>迷宮に隠された手紙を捜し出しなさい。<pause><lineend>|

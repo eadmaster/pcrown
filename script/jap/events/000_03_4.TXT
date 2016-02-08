@@ -1,8 +1,8 @@
-4|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>次は、絶対に負けません！<pause><lineend><CC03EA>同じ敵におくれは取らないからこそ<lineend>カード騎士団は最強と呼ばれるのですから。<pause><lineend>|
 |
-|
-7|
+<CC03EA><color=0006><string=007D><lineend><color=0001>次は、絶対に負けません！<pause><lineend><CC03EA>同じ敵におくれは取らないからこそ<lineend>カード騎士団は最強と呼ばれるのですから。<pause><lineend>|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>女王様をお護りする為なら<lineend>命さえもおしくはありません。<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=007E><lineend><color=0001>女王様をお護りする為なら<lineend>命さえもおしくはありません。<pause><lineend>|

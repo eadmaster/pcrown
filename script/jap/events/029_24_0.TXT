@@ -1,4 +1,4 @@
-53|
+65536|
 <CC03EA><color=0002>「ノーティスドロップ」を手に入れた！<pause><lineend>|
 |
-|
+<CC03EA><color=0002>「ノーティスドロップ」を手に入れた！<pause><lineend>|

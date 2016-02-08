@@ -1,8 +1,8 @@
-4|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>カード騎士団の半数が、ドラゴン退治などで<lineend>ただいま城をあけております。<pause><lineend>|
 |
-|
-7|
+<CC03EA><color=0006><string=007D><lineend><color=0001>カード騎士団の半数が、ドラゴン退治などで<lineend>ただいま城をあけております。<pause><lineend>|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>残られた王家の方の安全は<lineend>我らで必ず護ります。<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=007E><lineend><color=0001>残られた王家の方の安全は<lineend>我らで必ず護ります。<pause><lineend>|

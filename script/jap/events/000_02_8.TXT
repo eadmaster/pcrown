@@ -1,8 +1,8 @@
-5|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>急いでジェストナイ様と<lineend>クエイン騎士団長をお呼びします！<pause><lineend>|
 |
-|
-8|
+<CC03EA><color=0006><string=007D><lineend><color=0001>急いでジェストナイ様と<lineend>クエイン騎士団長をお呼びします！<pause><lineend>|
+1|
 <CC03EA><color=0006><string=0052><lineend><color=0001>なぜか強い魔力を感じます。<lineend>お気をつけください。<pause><lineend>|
 |
-|
+<CC03EA><color=0006><string=0052><lineend><color=0001>なぜか強い魔力を感じます。<lineend>お気をつけください。<pause><lineend>|
