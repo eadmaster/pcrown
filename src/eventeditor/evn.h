@@ -46,13 +46,16 @@ extern unsigned long num_names;
 
 int EVNFreeFile();
 int EVNLoadFile(const char *filename);
+unsigned long EVNGetCompressionOffsetAlt(int i);
+unsigned long EVNGetCompressionNum(int index);
+
 int EVNSaveFile(const char *filename, const char *names_filename);
 int EVNSaveFile(const char *filename);
 void UpdateEvent(HWND hWnd);
 bool IsDialogueCommand(command_struct *command);
 void GenerateDialogText(command_struct *command, BOOL include_format, void *text, size_t text_size, BOOL unicode_convert);
 void DumpBin(unsigned long tbl_addr, int tbl_size, unsigned long cmp_addr);
-void DecompressText(dcmp_text_struct *dcmp_info, unsigned char *data, unsigned long start, unsigned long end, BOOL include_format, char *text, size_t text_size);
+void DecompressText(dcmp_text_struct *dcmp_info, unsigned char *data, unsigned long offset, unsigned long start, unsigned long end, BOOL include_format, char *text, size_t text_size);
 int EVNLoadNamesItemsText(const char *filename, ttentry_struct **ttentry, unsigned long *tbl_size);
 unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_out_size, ttentry_struct *ttentry, int text_num, int compress);
 #endif // evn_h__

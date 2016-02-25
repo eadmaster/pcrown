@@ -30,30 +30,39 @@ BOOL TransConvertText(transtext_struct *transtext)
 {
    char text[8192 * 2];
    int max_ttentry=0;
+	int id=0;
    
    transtext->ttentry = NULL;
    transtext->num = 0;
 
-   for (unsigned long i = 0; i < num_commands; i++)
-   {
-      if (IsDialogueCommand(&command[i]) == false)
-         continue;
+	for (int j = -1; j < 8; j++)
+	{
+		unsigned long num=EVNGetCompressionNum(j);
 
-      GenerateDialogText(&command[i], TRUE, text, sizeof(text), FALSE);
+		if (j > -1 && EVNGetCompressionOffsetAlt(j) == 0)
+			break;
+		for (unsigned long i = 0; i < num; i++)
+		{
+			command_struct cmd;
+			cmd.cmd43_var = j;
+			cmd.arg[0] = i;
+			GenerateDialogText(&cmd, TRUE, text, sizeof(text), FALSE);
 
-      ReallocMem((void **)&transtext->ttentry, sizeof(ttentry_struct), &max_ttentry, transtext->num);
-      memset(&transtext->ttentry[transtext->num], 0, sizeof(ttentry_struct));
-      transtext->ttentry[transtext->num].event_id = i;
-      transtext->ttentry[transtext->num].orig_text = _strdup(text);
-      if (dupe_trans)
-         transtext->ttentry[transtext->num].trans_text = _strdup(text);
-      else
-//         transtext->ttentry[transtext->num].trans_text = _strdup("");
-         transtext->ttentry[transtext->num].trans_text = NULL;
-      if (transtext->ttentry[transtext->num].orig_text == NULL)
-         return FALSE;
-      transtext->num++;
-   }
+			ReallocMem((void **)&transtext->ttentry, sizeof(ttentry_struct), &max_ttentry, transtext->num);
+			memset(&transtext->ttentry[transtext->num], 0, sizeof(ttentry_struct));
+			transtext->ttentry[transtext->num].event_id = ((j+1)<<16) | i;
+			id++;
+			transtext->ttentry[transtext->num].orig_text = _strdup(text);
+			if (dupe_trans)
+				transtext->ttentry[transtext->num].trans_text = _strdup(text);
+			else
+				transtext->ttentry[transtext->num].trans_text = NULL;
+			if (transtext->ttentry[transtext->num].orig_text == NULL)
+				return FALSE;
+			transtext->num++;
+		}
+	}
+
    return TRUE;
 }
 
@@ -69,9 +78,7 @@ bool TransTextSave(const char *filename, transtext_struct *transtext)
    {
       fprintf(fp, "%d|\n%s|\n%s|\n%s|\n",
               transtext->ttentry[i].event_id,
-              transtext->ttentry[i].orig_text == NULL ? "" : transtext->ttentry[i].orig_text,
-              transtext->ttentry[i].trans_text == NULL ? "" : transtext->ttentry[i].trans_text,
-              transtext->ttentry[i].notes == NULL ? "" : transtext->ttentry[i].notes);
+				  transtext->ttentry[i].orig_text == NULL ? "" : transtext->ttentry[i].orig_text);
    }
    fclose(fp);
    return true;

@@ -108,7 +108,7 @@ int extract_data(text_info_struct *ti, const char *filename, const char *out_fil
       }
       memset(text, 0, sizeof(text));
       if (start<end)
-         DecompressText(&dcmp_info, data, start, end, TRUE, text, sizeof(text));
+         DecompressText(&dcmp_info, data, 0, start, end, TRUE, text, sizeof(text));
       fprintf(out_fp, "%s\n", text);
    }
 

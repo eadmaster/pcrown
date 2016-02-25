@@ -49,9 +49,9 @@ unsigned long num_names=0;
 typedef struct 
 {
    unsigned short offsets1[8];
-   unsigned short data1;
+   unsigned short cmp_tbl_offset;
    unsigned short offsets2[8];
-   unsigned short data2;
+   unsigned short cmp_data_offset;
    unsigned short offsets3[8];
 } evn_header_struct;
 
@@ -106,7 +106,7 @@ void EVNParseHeader(unsigned char *data, evn_header_struct *header)
       data+=2;
    }
 
-   header->data1 = WordSwap(*((unsigned short*)data));
+   header->cmp_tbl_offset = WordSwap(*((unsigned short*)data));
    data += 2;
 
    for (i = 0; i < 8; i++)
@@ -115,7 +115,7 @@ void EVNParseHeader(unsigned char *data, evn_header_struct *header)
       data+=2;
    }
 
-   header->data2 = WordSwap(*((unsigned short*)data));
+   header->cmp_data_offset = WordSwap(*((unsigned short*)data));
    data += 2;
 
    for (i = 0; i < 8; i++)
@@ -853,6 +853,50 @@ int EVNLoadFile(const char *filename)
    return 0;
 }
 
+unsigned long EVNGetCompressionNum(int index)
+{
+	unsigned long start, end, i;
+	if (index == -1)
+	{
+		if (header.cmp_data_offset != 0)
+		{
+			start = header.cmp_tbl_offset;
+			end = header.cmp_data_offset;
+		}
+		else
+			return 0;
+	}
+	else
+	{
+		if (header.offsets2[index] == 0 && index != 0)
+			return 0;
+		end = header.offsets2[index+1];
+		if (end == 0 || index == 7)
+		{
+			end = header.cmp_data_offset;
+			if (end == 0)
+				end = header.offsets3[0];
+		}
+		start = header.offsets2[index];
+	}
+
+	for (i = start+2; i < end; i+=2)
+	{
+		if (WordSwap(*((unsigned short *)(event_data+0x1000+i))) == 0)
+		{
+			end = i;
+			break;
+		}
+	}
+
+	return ((end-start)/2)-1;
+}
+
+unsigned long EVNGetCompressionOffsetAlt(int i)
+{
+	return header.offsets3[i];
+}
+
 void EVNBuildHeader(unsigned char *data, evn_header_struct *header)
 {
    int i;
@@ -862,7 +906,7 @@ void EVNBuildHeader(unsigned char *data, evn_header_struct *header)
       data+=2;
    }
 
-   *((unsigned short*)data) = WordSwap(header->data1);
+   *((unsigned short*)data) = WordSwap(header->cmp_tbl_offset);
    data += 2;
 
    for (i = 0; i < 8; i++)
@@ -871,7 +915,7 @@ void EVNBuildHeader(unsigned char *data, evn_header_struct *header)
       data+=2;
    }
 
-   *((unsigned short*)data) =  WordSwap(header->data2);
+   *((unsigned short*)data) =  WordSwap(header->cmp_data_offset);
    data += 2;
 
    for (i = 0; i < 8; i++)
@@ -1794,7 +1838,7 @@ int EVNSaveFile(const char *filename)
    // Inject 0xFF tbl
    if (text_pointer_list[0])
    {
-      header.data1 = offset-0x1000;
+      header.cmp_tbl_offset = offset-0x1000;
 
       // Copy over compressed data offsets to buffer
       for (i = 0; i < (unsigned long)text_num[0]; i++)
@@ -1804,7 +1848,7 @@ int EVNSaveFile(const char *filename)
    }
    else if (text_pointer_list[1])
       // Fill first Table offset
-      header.data1 = offset-0x1000;
+      header.cmp_tbl_offset = offset-0x1000;
 
    for (j = 0; j < 8; j++)
    {
@@ -1825,7 +1869,7 @@ int EVNSaveFile(const char *filename)
    // Inject 0xFF compressed text
    if (text_pointer_list[0])
    {
-      header.data2 = offset-0x1000;
+      header.cmp_data_offset = offset-0x1000;
       // Copy over compressed data to buffer   
       memcpy((void *)(evn_data+offset), cmp_text[0], cmp_text_size[0]);
       offset += cmp_text_size[0];
@@ -1952,13 +1996,13 @@ int CCHandle(dcmp_text_struct *dcmp_info, unsigned long *counter, unsigned long 
    return TRUE;
 }
 
-void DecompressText(dcmp_text_struct *dcmp_info, unsigned char *data, unsigned long start, unsigned long end, BOOL include_format, char *text, size_t text_size)
+void DecompressText(dcmp_text_struct *dcmp_info, unsigned char *data, unsigned long offset, unsigned long start, unsigned long end, BOOL include_format, char *text, size_t text_size)
 {
    char work_text[512];
    unsigned long counter=start;
    unsigned short textword;
 
-   dcmp_info->textbuffer = data+0x1000+start;
+   dcmp_info->textbuffer = data+0x1000+offset+start;
    dcmp_info->finished = FALSE;
 
    memset(text, 0, sizeof(text_size));
@@ -2139,7 +2183,7 @@ unsigned short FetchTextOffset(int index)
 
    if (cmd43_var == 0xFF)
    {
-      offset = header.data1;
+      offset = header.cmp_tbl_offset;
    }
    else
    {
@@ -2153,7 +2197,7 @@ unsigned short FetchTextOffset(int index)
 void CalcOffsets(command_struct *command, unsigned short *stuff, unsigned short *start, unsigned short *end)
 {
    if (cmd43_var == 0xFF)
-      stuff[0] = header.data2;
+      stuff[0] = header.cmp_data_offset;
    else
       stuff[0] = header.offsets3[cmd43_var];
 
@@ -2165,14 +2209,14 @@ void CalcOffsets(command_struct *command, unsigned short *stuff, unsigned short 
 
 void GenerateDialogText(command_struct *command, BOOL include_format, void *text, size_t text_size, BOOL unicode_convert)
 {
-   unsigned short stuff, start, end;
+   unsigned short offset, start, end;
    char tempstr[8192 * 2];
    unsigned long long result;
    dcmp_text_struct dcmp_info;
    unsigned short var1;
 
    cmd43_var = command->cmd43_var;
-   CalcOffsets(command, &stuff, &start, &end);
+   CalcOffsets(command, &offset, &start, &end);
    if (end == 0xFFFF)
    {
       printf("Something weird happened with offsets fetching\n");
@@ -2185,11 +2229,11 @@ void GenerateDialogText(command_struct *command, BOOL include_format, void *text
    //var3 = start;
 
    //if (???)
-      dcmp_info.magic_number = event_data[0x1000+stuff+var1+4];
+      dcmp_info.magic_number = event_data[0x1000+offset+var1+4];
    //else
    //   dcmp_info.magic_number = unk_60B1524[var1];
 
-   DecompressText(&dcmp_info, event_data, stuff+start, end, include_format, tempstr, sizeof(tempstr));
+   DecompressText(&dcmp_info, event_data, offset, start, end, include_format, tempstr, sizeof(tempstr));
 
    if (unicode_convert)
       MultiByteToWideChar(/* CP_ACP */ 932, MB_COMPOSITE, tempstr, -1, (LPWSTR)text, (int)text_size);
