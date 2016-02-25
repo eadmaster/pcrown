@@ -1,6 +1,10 @@
 Princess Crown Translation
 --------------------------
 
+Introduction
+------------
+This information is provided to developers for the purpose of contributing to this project. If this describes you, then great! Otherwise, please consider waiting for the final full release. 
+
 How to Patch
 ------------
 1. Make sure you have the original Princess Crown release(not satakore) and rip the disc to bin/cue using your favorite utility(if unsure how to do, check Google).
