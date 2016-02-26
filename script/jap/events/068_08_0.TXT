@@ -1,36 +1,18 @@
 65536|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>女王様、女王様。<lineend>あそこの部屋の前に見張りの海賊がいるよ。<pause><lineend><CC03EA>もしかしたらあそこに<lineend>捕まった人たちがいるんじゃない。<pause><lineend>|
-|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>女王様、女王様。<lineend>あそこの部屋の前に見張りの海賊がいるよ。<pause><lineend><CC03EA>もしかしたらあそこに<lineend>捕まった人たちがいるんじゃない。<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>おっ！？　このガキ。<lineend>どっから入りこんだんだ！<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>おっ！？　このガキ。<lineend>どっから入りこんだんだ！<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>その奥に<lineend>捕まっている人たちがいるのですね？<pause><lineend>|
-|
-<CC03EA><color=0002><string=0000><lineend><color=0001>その奥に<lineend>捕まっている人たちがいるのですね？<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>それがどうした！<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>それがどうした！<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>その人たちを助けます。<pause><lineend>|
-|
-<CC03EA><color=0002><string=0000><lineend><color=0001>その人たちを助けます。<pause><lineend>|
 65541|
-<CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>笑わせやがる。<pause><lineend><CC03EA>おい相棒とっとと<lineend>こいつをふんじばっちまおうぜ！！<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=0192><color=0005>海賊<lineend><color=0001>笑わせやがる。<pause><lineend><CC03EA>おい相棒とっとと<lineend>こいつをふんじばっちまおうぜ！！<pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>大丈夫ですか？<pause><lineend>|
-|
-<CC03EA><color=0002><string=0000><lineend><color=0001>大丈夫ですか？<pause><lineend>|
 131073|
 <CC03EA><color=0006><string=0031><lineend><color=0001>私たちは大丈夫、下の階に<lineend>水夫さんたちが捕まっています。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0031><lineend><color=0001>私たちは大丈夫、下の階に<lineend>水夫さんたちが捕まっています。<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>今のうちに逃げてください。<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>今のうちに逃げてください。<pause><lineend>|

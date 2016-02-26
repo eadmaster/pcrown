@@ -1,4 +1,2 @@
 0|
 <CC03EA><color=0004><string=0104><lineend><color=0001>ティタニア湖に行くがよい。<lineend>オンディーヌが力になろう。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>ティタニア湖に行くがよい。<lineend>オンディーヌが力になろう。<pause><lineend>|

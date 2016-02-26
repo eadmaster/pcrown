@@ -1,24 +1,12 @@
 0|
 <CC03EA><color=0006><string=0063><lineend><color=0001>船もすっかり直りました！<pause><lineend><CC03EA>今度、新しく海賊の島が<lineend>観光コースにくみこまれたんですけど<lineend>行ってみませんか？<pause><lineend><CC03EA>片道たったの３０ゴールドです。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>船もすっかり直りました！<pause><lineend><CC03EA>今度、新しく海賊の島が<lineend>観光コースにくみこまれたんですけど<lineend>行ってみませんか？<pause><lineend><CC03EA>片道たったの３０ゴールドです。<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=0063><color=0001><choose>乗る　　<lineend>乗らない<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=0063><color=0001><choose>乗る　　<lineend>乗らない<lineend><endchoose>|
 2|
 <CC03EA><color=0006><string=0063><lineend><color=0001>じゃあ、急いで乗って下さい！<lineend>もうすぐ、出発ですよ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>じゃあ、急いで乗って下さい！<lineend>もうすぐ、出発ですよ。<pause><lineend>|
 3|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
 <CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
 4|
 <CC03EA><color=0006><string=0063><lineend><color=0001>そうですか。<lineend>では、またどうぞ！<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>そうですか。<lineend>では、またどうぞ！<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>あららら、お金が足りませんよ。<lineend>また来て下さい。<pause><lineend>|
-|
 <CC03EA><color=0006><string=0063><lineend><color=0001>あららら、お金が足りませんよ。<lineend>また来て下さい。<pause><lineend>|

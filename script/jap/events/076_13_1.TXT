@@ -1,4 +1,2 @@
 65536|
 <CC03EA><color=0002>「こわれた剣」を手に入れた！<pause><lineend>|
-|
-<CC03EA><color=0002>「こわれた剣」を手に入れた！<pause><lineend>|

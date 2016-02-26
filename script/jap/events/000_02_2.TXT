@@ -1,36 +1,18 @@
 65536|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>おのれ！<pause><lineend>|
-|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>おのれ！<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>ケガはないか？<pause><lineend>|
-|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>ケガはないか？<pause><lineend>|
 65538|
 <CC03EA><color=0006><string=007D><lineend><color=0001>ハッ、申しわけありません・・・<pause><lineend>|
-|
-<CC03EA><color=0006><string=007D><lineend><color=0001>ハッ、申しわけありません・・・<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ジェストナイ、大丈夫ですか？<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>ジェストナイ、大丈夫ですか？<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>女王！　よくぞ戻られました。<lineend>心配しておりましたぞ。<pause><lineend>|
-|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>女王！　よくぞ戻られました。<lineend>心配しておりましたぞ。<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>エリエルお姉様もご無事です。<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>エリエルお姉様もご無事です。<pause><lineend>|
 65542|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>シドラエル様がまだ<lineend>４階の自室におられるのです！<pause><lineend>|
-|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>シドラエル様がまだ<lineend>４階の自室におられるのです！<pause><lineend>|
 65543|
 <CC03EA><color=0006><string=007D><lineend><color=0001>新手のモンスターが！<pause><lineend>|
-|
-<CC03EA><color=0006><string=007D><lineend><color=0001>新手のモンスターが！<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>この場は任せて<lineend>女王はシドラエル様と避難してください！<pause><lineend>|
-|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>この場は任せて<lineend>女王はシドラエル様と避難してください！<pause><lineend>|

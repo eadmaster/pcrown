@@ -1,36 +1,18 @@
 0|
 <CC03EA><color=0004><string=0104><lineend><color=0001>もし、お前が今「バルカンの魔法石」を<lineend>持ってているのなら・・・<pause><lineend><CC03EA>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>もし、お前が今「バルカンの魔法石」を<lineend>持ってているのなら・・・<pause><lineend><CC03EA>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0104><lineend><color=0001>次に来るときは「バルカンの魔法石」を<lineend>持ってくるがいい。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0001>次に来るときは「バルカンの魔法石」を<lineend>持ってくるがいい。<pause><lineend>|
 2|
 <CC03EA><color=0004><string=0104><lineend><color=0001>魔法石を持っているようだな。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>魔法石を持っているようだな。<pause><lineend>|
 3|
-<CC03EA><color=0001>「バルカンの魔法石」をわたしますか？<lineend><choose>わたす　　<lineend>わたさない<lineend><endchoose>|
-|
 <CC03EA><color=0001>「バルカンの魔法石」をわたしますか？<lineend><choose>わたす　　<lineend>わたさない<lineend><endchoose>|
 4|
 <CC03EA><color=0004><string=0104><lineend><color=0001>お前の冒険だ。<lineend>私は別にかまわないがね・・・<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>お前の冒険だ。<lineend>私は別にかまわないがね・・・<pause><lineend>|
 5|
-<CC03EA><color=0004><string=0104><lineend><color=0001>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0001>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
 6|
 <CC03EA><color=0004><string=0104><lineend><color=0001>・・・ふむ。<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>に塔がひとつ・・・<pause><lineend><CC03EA>その<color=0003>森のおく深き塔<color=0001>に<lineend>のぼってみるがいい。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>・・・ふむ。<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>に塔がひとつ・・・<pause><lineend><CC03EA>その<color=0003>森のおく深き塔<color=0001>に<lineend>のぼってみるがいい。<pause><lineend>|
 7|
 <CC03EA><color=0004><string=0104><lineend><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>の塔。<pause><lineend><CC03EA>そこにはお前の力となる物が<lineend>ねむっているだろう。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>の塔。<pause><lineend><CC03EA>そこにはお前の力となる物が<lineend>ねむっているだろう。<pause><lineend>|
 8|
-<CC03EA><color=0004><string=0104><lineend><color=0001>女王、残念だが今は<lineend>どんな問いにも答える気がない。<pause><lineend><CC03EA>私は眠る・・・<lineend>じゃまをしないでくれ・・・<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0001>女王、残念だが今は<lineend>どんな問いにも答える気がない。<pause><lineend><CC03EA>私は眠る・・・<lineend>じゃまをしないでくれ・・・<pause><lineend>|

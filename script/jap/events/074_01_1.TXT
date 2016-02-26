@@ -1,12 +1,6 @@
 0|
 <CC03EA><color=0006><string=0067><lineend><color=0001>セイレーンがたいじされたのって<lineend>かれこれ、２３年ぶりかなぁ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0067><lineend><color=0001>セイレーンがたいじされたのって<lineend>かれこれ、２３年ぶりかなぁ。<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0063><lineend><color=0001>どうだい、異国の風は？<lineend>何だか心がわくわくするだろ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>どうだい、異国の風は？<lineend>何だか心がわくわくするだろ。<pause><lineend>|
 2|
-<CC03EA><color=0004><string=0178><lineend><color=0001>疲れたろ？<lineend>今日はゆっくり休んだ方がいいぜ。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0178><lineend><color=0001>疲れたろ？<lineend>今日はゆっくり休んだ方がいいぜ。<pause><lineend>|

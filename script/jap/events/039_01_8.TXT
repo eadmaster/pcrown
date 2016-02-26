@@ -1,16 +1,8 @@
 65536|
 <CC03EA><color=0004><string=0179><lineend><color=0001>城に戻るんだろ。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0179><lineend><color=0001>城に戻るんだろ。<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>はい・・・<lineend>皆が心配しているでしょうから。<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>はい・・・<lineend>皆が心配しているでしょうから。<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=0179><lineend><color=0001>俺もいつかグラドリエルに会いに<lineend>王城に行ってみたいが・・・<pause><lineend><CC03EA>女王の友人が海賊じゃまずいか。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0179><lineend><color=0001>俺もいつかグラドリエルに会いに<lineend>王城に行ってみたいが・・・<pause><lineend><CC03EA>女王の友人が海賊じゃまずいか。<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>そんなことありません。<lineend>いつでも会いにいらしてください。<pause><lineend><CC03EA>船にのせてくださって<lineend>ありがとうポートガス。<lineend><pause>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>そんなことありません。<lineend>いつでも会いにいらしてください。<pause><lineend><CC03EA>船にのせてくださって<lineend>ありがとうポートガス。<lineend><pause>|

@@ -1,36 +1,18 @@
 0|
 <CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend><CC03EA>ああ、それから。<lineend>もし、お前が今「バルカンの魔法石」を<lineend>持っているのなら・・・<pause><lineend><CC03EA>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend><CC03EA>ああ、それから。<lineend>もし、お前が今「バルカンの魔法石」を<lineend>持っているのなら・・・<pause><lineend><CC03EA>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0104><lineend><color=0001>次に来るときは「バルカンの魔法石」を<lineend>持ってくるがいい。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0001>次に来るときは「バルカンの魔法石」を<lineend>持ってくるがいい。<pause><lineend>|
 2|
 <CC03EA><color=0004><string=0104><lineend><color=0001>魔法石を持っているようだな。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>魔法石を持っているようだな。<pause><lineend>|
 3|
-<CC03EA><color=0001>「バルカンの魔法石」をわたしますか？<lineend><choose>わたす　　<lineend>わたさない<lineend><endchoose>|
-|
 <CC03EA><color=0001>「バルカンの魔法石」をわたしますか？<lineend><choose>わたす　　<lineend>わたさない<lineend><endchoose>|
 4|
 <CC03EA><color=0004><string=0104><lineend><color=0001>お前の冒険だ。<lineend>私は別にかまわないがね・・・<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>お前の冒険だ。<lineend>私は別にかまわないがね・・・<pause><lineend>|
 5|
-<CC03EA><color=0004><string=0104><lineend><color=0001>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0001>この全てを見とおす目で<lineend>お前の冒険に必要な物をみつけてやろう。<pause><lineend>|
 6|
 <CC03EA><color=0004><string=0104><lineend><color=0001>・・・ふむ。<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>に塔がひとつ・・・<pause><lineend><CC03EA>その<color=0003>森のおく深き塔<color=0001>に<lineend>のぼってみるがいい。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0001>・・・ふむ。<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>に塔がひとつ・・・<pause><lineend><CC03EA>その<color=0003>森のおく深き塔<color=0001>に<lineend>のぼってみるがいい。<pause><lineend>|
 7|
 <CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend><CC03EA>そして、もうひとつ・・・<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>の塔。<pause><lineend><CC03EA>そこにはお前の力となる物が<lineend>ねむっているだろう。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend><CC03EA>そして、もうひとつ・・・<pause><lineend><CC03EA><color=0005>ユニコーンの森とローグローブの間にある<lineend>わき道のさき<color=0001>の塔。<pause><lineend><CC03EA>そこにはお前の力となる物が<lineend>ねむっているだろう。<pause><lineend>|
 8|
-<CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0104><lineend><color=0005>ドワーフ王国を右にぬける<color=0001>と魔の森だ。<lineend>その先には<color=0002>デーモンがひそむ塔<color=0001>がある。<pause><lineend><CC03EA>デーモンの名はシャドウといい<lineend>時の流れをあやつる「時空の魔法石」を<lineend>持っている。<pause><lineend><CC03EA>その魔法石を使い<lineend>エドワードが殺される前の時間に戻るのだ。<pause><lineend>|

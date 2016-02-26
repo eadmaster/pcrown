@@ -1,12 +1,6 @@
 0|
 <CC03EA><color=0006><string=0063><lineend><color=0001>あ～、お嬢さん、スミマセン。<pause><lineend><CC03EA>今ちょっと、私以外の<lineend>船乗りがいなくって<lineend>フリードルフィンを動かせないんです。<pause><lineend><CC03EA>街はそのうわさでもちきりですよ。<lineend>この船はリィランドの観光の<lineend>目玉でしたからね・・・<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>あ～、お嬢さん、スミマセン。<pause><lineend><CC03EA>今ちょっと、私以外の<lineend>船乗りがいなくって<lineend>フリードルフィンを動かせないんです。<pause><lineend><CC03EA>街はそのうわさでもちきりですよ。<lineend>この船はリィランドの観光の<lineend>目玉でしたからね・・・<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0063><lineend><color=0001>はぁ、実は、仲間達が<lineend>無実の罪で捕まってしまったんです。<pause><lineend><CC03EA>彼らが帰ってこない事には<lineend>いつまでたっても船を出せません。<pause><lineend><CC03EA>何とかして仲間達の<lineend>ぬれぎぬをはらさなければ・・・<pause><lineend><CC03EA>私は、ぜったい<lineend>あの<color=0002>街の奥のお化け屋敷<color=0001>をかった<lineend>画家があやしいと思うんです！<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>はぁ、実は、仲間達が<lineend>無実の罪で捕まってしまったんです。<pause><lineend><CC03EA>彼らが帰ってこない事には<lineend>いつまでたっても船を出せません。<pause><lineend><CC03EA>何とかして仲間達の<lineend>ぬれぎぬをはらさなければ・・・<pause><lineend><CC03EA>私は、ぜったい<lineend>あの<color=0002>街の奥のお化け屋敷<color=0001>をかった<lineend>画家があやしいと思うんです！<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0063><lineend><color=0001>もうお聞きおよびのとおり、仲間が<lineend>無実の罪で捕まってしまったんです。<pause><lineend><CC03EA>彼らが帰ってこない事には<lineend>いつまでたっても船を出せません。<pause><lineend><CC03EA>何とかして仲間達の<lineend>ぬれぎぬをはらさなければ・・・<pause><lineend><CC03EA>私は、ぜったい<lineend>あの<color=0002>街の奥のお化け屋敷<color=0001>をかった<lineend>画家があやしいと思うんです！<pause><lineend>|
-|
 <CC03EA><color=0006><string=0063><lineend><color=0001>もうお聞きおよびのとおり、仲間が<lineend>無実の罪で捕まってしまったんです。<pause><lineend><CC03EA>彼らが帰ってこない事には<lineend>いつまでたっても船を出せません。<pause><lineend><CC03EA>何とかして仲間達の<lineend>ぬれぎぬをはらさなければ・・・<pause><lineend><CC03EA>私は、ぜったい<lineend>あの<color=0002>街の奥のお化け屋敷<color=0001>をかった<lineend>画家があやしいと思うんです！<pause><lineend>|

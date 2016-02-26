@@ -1,12 +1,6 @@
 0|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>女王、くれぐれもお気をつけて・・・<pause><lineend>|
-|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>女王、くれぐれもお気をつけて・・・<pause><lineend>|
 1|
 <CC03EA><color=0004><string=0102><lineend><color=0001>赤い髪の魔女の前に<lineend>多くの騎士が倒れました。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0102><lineend><color=0001>赤い髪の魔女の前に<lineend>多くの騎士が倒れました。<pause><lineend>|
 65536|
-<CC03EA>これはダミーです<lineend><pause>|
-|
 <CC03EA>これはダミーです<lineend><pause>|

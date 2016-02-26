@@ -1,112 +1,56 @@
 0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>このひろい世界のどこかに<lineend>何でも知っている賢者がいるらしいよ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0011><lineend><color=0001>このひろい世界のどこかに<lineend>何でも知っている賢者がいるらしいよ。<pause><lineend>|
 1|
-<CC03EA><color=0006><string=002E><lineend><color=0001>そういえば<lineend>あたしも聞いた事があるわ。<pause><lineend><CC03EA>宝物とひきかえに<lineend>どんなしつもんにも<lineend>こたえてくれるって。<pause><lineend><CC03EA>お父さんだったら<lineend>何をたずねるの？<pause><lineend>|
-|
 <CC03EA><color=0006><string=002E><lineend><color=0001>そういえば<lineend>あたしも聞いた事があるわ。<pause><lineend><CC03EA>宝物とひきかえに<lineend>どんなしつもんにも<lineend>こたえてくれるって。<pause><lineend><CC03EA>お父さんだったら<lineend>何をたずねるの？<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>う～ん、そうだなぁ。<pause><lineend><CC03EA>大金持ちになる方法かな？<pause><lineend>|
-|
-<CC03EA><color=0006><string=0011><lineend><color=0001>う～ん、そうだなぁ。<pause><lineend><CC03EA>大金持ちになる方法かな？<pause><lineend>|
 3|
-<CC03EA><color=0006><string=002E><lineend><color=0001>やぁね、夢がないんだから。<pause><lineend><CC03EA>あたしだったら<lineend>そうだなぁ・・・<pause><lineend><CC03EA>世界が平和になる方法を<lineend>たずねるわ。<pause><lineend><CC03EA>みんなで平和にくらしたいものね。<pause><lineend>|
-|
 <CC03EA><color=0006><string=002E><lineend><color=0001>やぁね、夢がないんだから。<pause><lineend><CC03EA>あたしだったら<lineend>そうだなぁ・・・<pause><lineend><CC03EA>世界が平和になる方法を<lineend>たずねるわ。<pause><lineend><CC03EA>みんなで平和にくらしたいものね。<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0011><lineend><color=0001>最近、旅人らしからぬ怪しいヤツが<lineend>街の奥をうろうろしているな。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0011><lineend><color=0001>最近、旅人らしからぬ怪しいヤツが<lineend>街の奥をうろうろしているな。<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002E><lineend><color=0001>お父さんの気のせいじゃない？<pause><lineend><CC03EA>物好きな旅人以外<lineend>こんなイナカには来ないと思うけどな。<pause><lineend>|
-|
 <CC03EA><color=0006><string=002E><lineend><color=0001>お父さんの気のせいじゃない？<pause><lineend><CC03EA>物好きな旅人以外<lineend>こんなイナカには来ないと思うけどな。<pause><lineend>|
 6|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>黒猫亭にようこそ。<lineend>さぁ、注文をききましょう。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>黒猫亭にようこそ。<lineend>さぁ、注文をききましょう。<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>料理して<lineend>持ち帰り<lineend>やめる　<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>料理して<lineend>持ち帰り<lineend>やめる　<lineend><endchoose>|
 8|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>それでは、またのおこしを待っていますよ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>それでは、またのおこしを待っていますよ。<pause><lineend>|
 9|
-<CC03EA><CC03FC=0004><string=01AD><color=0001>うちの名物料理は<lineend>遠火でじっくりあぶった<lineend>「グリルにく」です。<pause><lineend><CC03EA>塩だけでシンプルにあじつけしてあるので<lineend>にくのうまみを<lineend>じゅうぶんに味わって下さいね。<pause><lineend><CC03EA>ひとつ５２Ｇです。<lineend>お買いあげになりますか？<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=01AD><color=0001>うちの名物料理は<lineend>遠火でじっくりあぶった<lineend>「グリルにく」です。<pause><lineend><CC03EA>塩だけでシンプルにあじつけしてあるので<lineend>にくのうまみを<lineend>じゅうぶんに味わって下さいね。<pause><lineend><CC03EA>ひとつ５２Ｇです。<lineend>お買いあげになりますか？<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
-<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
 11|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>お金が足りません。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>お金が足りません。<pause><lineend>|
 12|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>それ以上持てないようですね？<lineend>荷物をへらして来てください。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>それ以上持てないようですね？<lineend>荷物をへらして来てください。<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>はい、どうぞ。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>はい、どうぞ。<pause><lineend>|
 14|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>グリル料理をつくりましょう。<lineend>材料をセレクトして下さい。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>グリル料理をつくりましょう。<lineend>材料をセレクトして下さい。<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>それでは料理はできません。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>それでは料理はできません。<pause><lineend>|
 16|
 <CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>を使うんですね。<pause><lineend><CC03EA>３０Ｇになりますが<lineend>いいですか？<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>を使うんですね。<pause><lineend><CC03EA>３０Ｇになりますが<lineend>いいですか？<pause><lineend>|
 17|
-<CC03EA><CC03FC=0004><string=01AD><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
 18|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>お金が足りません。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>うーん・・・<lineend>お金が足りません。<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>いらっしゃいませ。<lineend>ウチは旅のつかれをいやす宿屋です。<pause><lineend><CC03EA>一晩　３０Ｇになりますが<lineend>おとまりになりますか？<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B5><lineend><color=0001>いらっしゃいませ。<lineend>ウチは旅のつかれをいやす宿屋です。<pause><lineend><CC03EA>一晩　３０Ｇになりますが<lineend>おとまりになりますか？<pause><lineend>|
 20|
 <CC03EA><CC03FC=0004><string=01B5><color=0001><choose>泊まる<lineend>セーブ<lineend>やめる<lineend><endchoose>お金のチェック<lineend>|
-|
-<CC03EA><CC03FC=0004><string=01B5><color=0001><choose>泊まる<lineend>セーブ<lineend>やめる<lineend><endchoose>お金のチェック<lineend>|
 21|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>おや、お金が足りないようです。<lineend>またいらして下さい。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B5><lineend><color=0001>おや、お金が足りないようです。<lineend>またいらして下さい。<pause><lineend>|
 22|
 <CC03EA><color=0006><string=01B5><lineend><color=0001>それではゆっくりとお休み下さい。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>それではゆっくりとお休み下さい。<pause><lineend>|
 23|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>おはようございます。<lineend>気をつけて旅をお続け下さい。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B5><lineend><color=0001>おはようございます。<lineend>気をつけて旅をお続け下さい。<pause><lineend>|
 24|
 <CC03EA><color=0006><string=01B5><lineend><color=0001>あまりはりきると倒れてしまいますよ。<lineend>つかれたら、すぐにいらして下さいね。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>あまりはりきると倒れてしまいますよ。<lineend>つかれたら、すぐにいらして下さいね。<pause><lineend>|
 25|
-<CC03EA><color=0001>セーブしますか？<lineend><pause>|
-|
 <CC03EA><color=0001>セーブしますか？<lineend><pause>|
 26|
 <CC03EA><color=0001>選んだしおりに<lineend>本当にセーブしてもいいですか？<pause><lineend>|
-|
-<CC03EA><color=0001>選んだしおりに<lineend>本当にセーブしてもいいですか？<pause><lineend>|
 27|
-<CC03EA><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
 <CC03EA><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|

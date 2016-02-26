@@ -1,120 +1,60 @@
 0|
 <CC03EA><color=0006><string=0005><lineend><color=0001>君は、ヒック、知ってるかい？<pause><lineend><CC03EA>ヒック！　ヴァレナディンの女王<lineend>エルファーラン陛下は<lineend>賢王と呼ばれる素晴らしいお方なんだ。<pause><lineend>|
-|
-<CC03EA><color=0006><string=0005><lineend><color=0001>君は、ヒック、知ってるかい？<pause><lineend><CC03EA>ヒック！　ヴァレナディンの女王<lineend>エルファーラン陛下は<lineend>賢王と呼ばれる素晴らしいお方なんだ。<pause><lineend>|
 1|
-<CC03FA=0029000300000000000003FF000A00460000><CC03FB=0046>|
-|
 <CC03FA=0029000300000000000003FF000A00460000><CC03FB=0046>|
 2|
 <CC03EA><color=0006><string=0029><lineend><color=0001>また始まった！<lineend>よっぱらったら必ずこれなんだから。<pause><lineend><CC03EA>そんなに女王様が好きなら<lineend>あたしとじゃなく<lineend>女王様と結婚すればいいでしょ！<pause><lineend>|
-|
-<CC03EA><color=0006><string=0029><lineend><color=0001>また始まった！<lineend>よっぱらったら必ずこれなんだから。<pause><lineend><CC03EA>そんなに女王様が好きなら<lineend>あたしとじゃなく<lineend>女王様と結婚すればいいでしょ！<pause><lineend>|
 3|
-<CC03FA=000A000200000000000003FF000A00460000><CC03FB=0046>|
-|
 <CC03FA=000A000200000000000003FF000A00460000><CC03FB=0046>|
 4|
 <CC03FA=0000000600000000000003FF000A00500000><CC03FB=0050>|
-|
-<CC03FA=0000000600000000000003FF000A00500000><CC03FB=0050>|
 5|
-<CC03FA=0000000700000000000003FF000A00500000><CC03FB=0050>|
-|
 <CC03FA=0000000700000000000003FF000A00500000><CC03FB=0050>|
 6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>彼ったら、口を開けば<lineend>エルファーラン様、エルファーラン様って！<pause><lineend><CC03EA>まったく、フィアンセのあたしを<lineend>なんだと思っているのかしら！<pause><lineend>|
-|
-<CC03EA><color=0006><string=0029><lineend><color=0001>彼ったら、口を開けば<lineend>エルファーラン様、エルファーラン様って！<pause><lineend><CC03EA>まったく、フィアンセのあたしを<lineend>なんだと思っているのかしら！<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000E><lineend><color=0001>あぁ、うまい。<pause><lineend><CC03EA>たとえ、世界が平和だろうと<lineend>魔王軍に襲われていようと<lineend>酒の味は変わらないね。<pause><lineend>|
-|
 <CC03EA><color=0006><string=000E><lineend><color=0001>あぁ、うまい。<pause><lineend><CC03EA>たとえ、世界が平和だろうと<lineend>魔王軍に襲われていようと<lineend>酒の味は変わらないね。<pause><lineend>|
 8|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>女王様のおひざ元、ヴァレナディン城下の<lineend>いこいの場、コカーニュ亭にようこそ！<pause><lineend><CC03EA>ご注文をおうかがいします。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>女王様のおひざ元、ヴァレナディン城下の<lineend>いこいの場、コカーニュ亭にようこそ！<pause><lineend><CC03EA>ご注文をおうかがいします。<pause><lineend>|
 9|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>料理して<lineend>持ち帰り<lineend>やめる　<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>料理して<lineend>持ち帰り<lineend>やめる　<lineend><endchoose>|
 10|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>それでは<lineend>またのおこしをお待ちしております。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>それでは<lineend>またのおこしをお待ちしております。<pause><lineend>|
 11|
-<CC03EA><CC03FC=0004><string=01A9><color=0001>うちの名物料理は<lineend>うみたての「ドードーのたまご」を使った<lineend>「おべんとパン」です。<pause><lineend><CC03EA>パンは、やきたてサクサクで<lineend>はんじゅくのたまごはトローリ。<lineend>とてもおいしいですよ。<pause><lineend><CC03EA>おひとつ４０Ｇですが<lineend>お買いあげになりますか？<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=01A9><color=0001>うちの名物料理は<lineend>うみたての「ドードーのたまご」を使った<lineend>「おべんとパン」です。<pause><lineend><CC03EA>パンは、やきたてサクサクで<lineend>はんじゅくのたまごはトローリ。<lineend>とてもおいしいですよ。<pause><lineend><CC03EA>おひとつ４０Ｇですが<lineend>お買いあげになりますか？<pause><lineend>|
 12|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
 13|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>おや、お金が足りないようです。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>おや、お金が足りないようです。<pause><lineend>|
 14|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>それ以上、お持ちになれないようですね。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>それ以上、お持ちになれないようですね。<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>ありがとうございます。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>ありがとうございます。<pause><lineend>|
 16|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>グリル料理をお作りしますので<lineend>材料をセレクトして下さい。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>グリル料理をお作りしますので<lineend>材料をセレクトして下さい。<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>それでは料理がお作りできません。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>それでは料理がお作りできません。<pause><lineend>|
 18|
 <CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>を使うんですね。<pause><lineend><CC03EA>３０Ｇになりますが<lineend>よろしいでしょうか？<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>を使うんですね。<pause><lineend><CC03EA>３０Ｇになりますが<lineend>よろしいでしょうか？<pause><lineend>|
 19|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
 20|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>おや、お金が足りないようです。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>おや、お金が足りないようです。<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>いらっしゃいませ。<lineend>ウチは旅のつかれをいやす宿屋です。<pause><lineend><CC03EA>一晩　３０Ｇになりますが<lineend>おとまりになりますか？<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>いらっしゃいませ。<lineend>ウチは旅のつかれをいやす宿屋です。<pause><lineend><CC03EA>一晩　３０Ｇになりますが<lineend>おとまりになりますか？<pause><lineend>|
 22|
 <CC03EA><CC03FC=0004><string=01B4><color=0001><choose>泊まる<lineend>セーブ<lineend>やめる<lineend><endchoose>お金のチェック<lineend>|
-|
-<CC03EA><CC03FC=0004><string=01B4><color=0001><choose>泊まる<lineend>セーブ<lineend>やめる<lineend><endchoose>お金のチェック<lineend>|
 23|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>おや、お金が足りないようです。<lineend>またいらして下さい。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>おや、お金が足りないようです。<lineend>またいらして下さい。<pause><lineend>|
 24|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>それではゆっくりとお休み下さい。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>それではゆっくりとお休み下さい。<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>おはようございます。<lineend>気をつけて旅をお続け下さい。<pause><lineend>|
-|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>おはようございます。<lineend>気をつけて旅をお続け下さい。<pause><lineend>|
 26|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>あまりはりきると倒れてしまいますよ。<lineend>つかれたら、すぐにいらして下さいね。<pause><lineend>|
-|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>あまりはりきると倒れてしまいますよ。<lineend>つかれたら、すぐにいらして下さいね。<pause><lineend>|
 27|
-<CC03EA><color=0001>セーブしますか？<lineend><pause>|
-|
 <CC03EA><color=0001>セーブしますか？<lineend><pause>|
 28|
 <CC03EA><color=0001>選んだしおりに<lineend>本当にセーブしてもいいですか？<pause><lineend>|
-|
-<CC03EA><color=0001>選んだしおりに<lineend>本当にセーブしてもいいですか？<pause><lineend>|
 29|
-<CC03EA><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|
-|
 <CC03EA><color=0001><choose>はい　<lineend>いいえ<lineend><endchoose>|

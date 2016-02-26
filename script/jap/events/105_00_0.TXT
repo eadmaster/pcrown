@@ -1,8 +1,4 @@
 0|
 <CC03EA><color=0004><string=0116><lineend><color=0001>ようこそ。<lineend>この森はいつでもあなたをかんげいします。<pause><lineend>|
-|
-<CC03EA><color=0004><string=0116><lineend><color=0001>ようこそ。<lineend>この森はいつでもあなたをかんげいします。<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0117><lineend><color=0001>おねえちゃん、ありがとう。<pause><lineend>|
-|
 <CC03EA><color=0004><string=0117><lineend><color=0001>おねえちゃん、ありがとう。<pause><lineend>|

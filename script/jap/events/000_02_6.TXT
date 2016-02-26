@@ -1,20 +1,10 @@
 65536|
 <CC03EA><color=0002><string=00FF><lineend><color=0001>（未使用）<pause><lineend><CC03EA>（未使用）<pause><lineend>|
-|
-<CC03EA><color=0002><string=00FF><lineend><color=0001>（未使用）<pause><lineend><CC03EA>（未使用）<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=007D><color=0001>陛下！　ゴルゴダ騎士団長らしき<lineend>人物が３階に・・・<pause><lineend>|
-|
 <CC03EA><CC03FC=0004><string=007D><color=0001>陛下！　ゴルゴダ騎士団長らしき<lineend>人物が３階に・・・<pause><lineend>|
 65538|
 <CC03EA><CC03FC=0004><string=007D><color=0001>モンスターを率いて<lineend>騎士団を攻撃しております！<pause><lineend>|
-|
-<CC03EA><CC03FC=0004><string=007D><color=0001>モンスターを率いて<lineend>騎士団を攻撃しております！<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>行方不明だった騎士団長が？<pause><lineend><CC03EA>ジェストナイ、先に行きます。<pause><lineend>|
-|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>行方不明だった騎士団長が？<pause><lineend><CC03EA>ジェストナイ、先に行きます。<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>（未使用）<pause><lineend>|
-|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>（未使用）<pause><lineend>|

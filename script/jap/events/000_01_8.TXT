@@ -1,16 +1,8 @@
 65536|
 <CC03EA><CC03FC=0004><string=007D>たっ、大変だ！<lineend>モンスターが・・・<pause><lineend>|
-|
-<CC03EA><CC03FC=0004><string=007D>たっ、大変だ！<lineend>モンスターが・・・<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>モンスターは<lineend>どのくらいの数なのです？<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>モンスターは<lineend>どのくらいの数なのです？<pause><lineend>|
 65538|
 <CC03EA><CC03FC=0004><string=007D>数はグリフォン一匹！<lineend>城門にいます！<lineend><pause>|
-|
-<CC03EA><CC03FC=0004><string=007D>数はグリフォン一匹！<lineend>城門にいます！<lineend><pause>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>グリフォンが<lineend>こんな所に一匹で？<pause><lineend>|
-|
 <CC03EA><color=0002><string=0000><lineend><color=0001>グリフォンが<lineend>こんな所に一匹で？<pause><lineend>|

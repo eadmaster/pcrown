@@ -1,20 +1,10 @@
 0|
 <CC03EA><CC03FC=0004><string=0063><color=0001>どちらに行きますか？<lineend><choose>北の王国へ<lineend>その他へ　<lineend><endchoose>|
-|
-<CC03EA><CC03FC=0004><string=0063><color=0001>どちらに行きますか？<lineend><choose>北の王国へ<lineend>その他へ　<lineend><endchoose>|
 1|
-<CC03EA><CC03FC=0004><string=0063><color=0001>どちらに行きますか？<lineend><choose>アーソントゥラへ<lineend>海賊の島へ　　　<lineend><endchoose>|
-|
 <CC03EA><CC03FC=0004><string=0063><color=0001>どちらに行きますか？<lineend><choose>アーソントゥラへ<lineend>海賊の島へ　　　<lineend><endchoose>|
 2|
 <CC03EA><color=0006><string=0063><lineend><color=0001>では、出発しましょう！<pause><lineend>|
-|
-<CC03EA><color=0006><string=0063><lineend><color=0001>では、出発しましょう！<pause><lineend>|
 3|
 <CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
 4|
-<CC03EA><color=0006><string=0063><lineend><color=0001>そうですか。<lineend>では、またどうぞ。<pause><lineend>|
-|
 <CC03EA><color=0006><string=0063><lineend><color=0001>そうですか。<lineend>では、またどうぞ。<pause><lineend>|
