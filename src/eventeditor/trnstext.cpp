@@ -76,7 +76,7 @@ bool TransTextSave(const char *filename, transtext_struct *transtext)
 
    for (i = 0; i < transtext->num; i++)
    {
-      fprintf(fp, "%d|\n%s|\n%s|\n%s|\n",
+      fprintf(fp, "%d|\n%s|\n",
               transtext->ttentry[i].event_id,
 				  transtext->ttentry[i].orig_text == NULL ? "" : transtext->ttentry[i].orig_text);
    }
@@ -90,8 +90,6 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
    FILE *fp;
    char *event_text=NULL;
    char *orig_text=NULL;
-   char *trans_text=NULL;
-   char *notes_text=NULL;
    int tt_count=0;
    int ret;
    int max_data=0;
@@ -103,19 +101,13 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
 
    event_text = (char *)malloc(buffer_size);
    orig_text = (char *)malloc(buffer_size);
-   trans_text = (char *)malloc(buffer_size);
-   notes_text = (char *)malloc(buffer_size);
 
-   if (event_text == NULL || orig_text == NULL || trans_text == NULL || notes_text == NULL)
+   if (event_text == NULL || orig_text == NULL)
    {
       if (event_text)
          free(event_text);
       if (orig_text)
          free(orig_text);
-      if (trans_text)
-         free(trans_text);
-      if (notes_text)
-         free(notes_text);
    }
 
    transtext->num = tt_count;
@@ -123,15 +115,13 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
    i = 0;
    for(;;)
    {
-      char *text_list[] = { event_text, orig_text, trans_text, notes_text };
+      char *text_list[] = { event_text, orig_text };
       bool done=false;
 
       memset(event_text, 0, buffer_size);
       memset(orig_text, 0, buffer_size);
-      memset(trans_text, 0, buffer_size);
-      memset(notes_text, 0, buffer_size);
 
-      for (j = 0; j < 4; j++)
+      for (j = 0; j < 2; j++)
       {
          // Keep reading until EOF or | at end
          for (;;)
@@ -165,8 +155,6 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
 
       event_text[strlen(event_text)-1] = '\0';
       orig_text[strlen(orig_text)-1] = '\0';
-      trans_text[strlen(trans_text)-1] = '\0';
-      notes_text[strlen(notes_text)-1] = '\0';
 
       ReallocMem((void **)&transtext->ttentry, sizeof(ttentry_struct), &max_data, i);
       memset(&transtext->ttentry[i], 0, sizeof(ttentry_struct));
@@ -199,15 +187,11 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
 
       transtext->ttentry[i].event_id = atoi(event_text);
       transtext->ttentry[i].orig_text = strlen(orig_text) > 0 ? _strdup(orig_text) : NULL;
-      transtext->ttentry[i].trans_text = strlen(trans_text) > 0 ? _strdup(trans_text) : NULL;
-      transtext->ttentry[i].notes = strlen(notes_text) > 0 ? _strdup(notes_text) : NULL;
       i++;
    }
    transtext->num = i;
    free(event_text);
    free(orig_text);
-   free(trans_text);
-   free(notes_text);
    fclose(fp);
    return ret;
 }
