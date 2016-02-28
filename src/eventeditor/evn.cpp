@@ -1372,15 +1372,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
    out_size[0] = 0;
    text_num[0] = 0;
 
-   // Calculate number of strings
-   for (i = 0; i < num_commands; i++)
-   {
-      if (command[i].cmd != 0x04 || cur_cmd43_var != command[i].cmd43_var)
-         continue;
-
-      if ((command[i].arg[0]+1) > num_text)
-         num_text = command[i].arg[0]+1;
-   }
+	num_text = EVNGetCompressionNum(cur_cmd43_var);
 
    if (num_text == 0)
       return NULL;
@@ -1389,180 +1381,150 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
    text_num[0] = Align16Byte(num_text * 2) / 2;
    if ((text_pointer_list = (unsigned short *)calloc(sizeof(unsigned short), text_num[0])) == NULL)
       return NULL;
-
    for (l = 0; l < num_text; l++)
    {
-      for (k = 0; k < num_commands; k++)
+		char *text=NULL;
+		int event_id=-1;
+      for (k = 0; k < maintranstext.num; k++)
       {
-         char *text=NULL;
+			if (((maintranstext.ttentry[k].event_id >> 16) & 0xFFFF) == cur_cmd43_var+1 &&
+				 (maintranstext.ttentry[k].event_id & 0xFFFF) == l)
+			{				
+				event_id = maintranstext.ttentry[k].event_id;
+				text = maintranstext.ttentry[k].orig_text;
+				break;
+			}
+		}
 
-         // Should only parse text for commands that have text
-         if (command[k].cmd != 0x04 || command[k].arg[0] != l || cur_cmd43_var != command[k].cmd43_var)
-            continue;
+		if (text == NULL)
+		{
+			printf("Event ID %d not present in script\n", l);
+			free (text_pointer_list);
+			return NULL;
+		
+		}
 
-         // If cmd43_var == 0, use header.data2, otherwise use header.offsets3
-#if 0
-         if (last_cmd43_var != command[k].cmd43_var)
-         {
-            if (command[k].cmd43_var == 0xFF)
-               header->data2 = 0x40 + text_num[0] * 2;
-            else
-               header->offsets3[command[k].cmd43_var] = out_size[0];
+		text = FixLineWrap(text, event_id);
+		if (text == NULL)
+		{
+			free (text_pointer_list);
+			return NULL;
+		}
 
-            last_cmd43_var = command[k].cmd43_var;
-         }
-#endif
+		// Create new entry for pointer
+		text_pointer_list[l] = out_size[0];
+		for (i = 0; i < strlen(text);)
+		{
+			// Is it a control code?
+			if (text[i] == '<')
+			{
+				char text2[512];
 
-         // Set translated text 
-         for (i = 0; i < (size_t)maintranstext.num; i++)
-         {
-            if (maintranstext.ttentry[i].event_id == k)
-            {
-               if (maintranstext.ttentry[i].trans_text != NULL)
-                  text = maintranstext.ttentry[i].trans_text;
-               else
-                  text = maintranstext.ttentry[i].orig_text;
-               break;
-            }
-         }
+				sscanf_s(text+i+1, " %[^=>] ", text2, sizeof(text2));
 
-         if (text == NULL)
-         {
-            printf("Event ID %d not present in script\n", k);
-            free (text_pointer_list);
-            return NULL;
-         }
+				// Add 0x3FF to buffer
+				CompressAddWord(0x03FF, &outbuf, out_size, &magic_number, &enc_count);
 
-         // Verify that only one copy of the line of text is being written to the file
-         if (CheckStringDupe(k, text, cur_cmd43_var))
-         {
-            //if (text_pointer_list[l] == 0)
-            //   assert(0);
-            continue;
-         }
+				// Convert control code
+				if (strcmp(text2, "lineend") == 0)
+					CompressAddCC(0x03E8, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "pause") == 0)
+					CompressAddCC(0x03E9, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03EA") == 0)
+					CompressAddCC(0x03EA, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "color") == 0)
+					CompressAddCC(0x03EB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03EC") == 0)
+					CompressAddCC(0x03EC, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03ED") == 0)
+					CompressAddCC(0x03ED, text, &i, 4, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03EF") == 0)
+					CompressAddCC(0x03EF, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F0") == 0)
+					CompressAddCC(0x03F0, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F1") == 0)
+					CompressAddCC(0x03F1, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F2") == 0)
+					CompressAddCC(0x03F2, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F3") == 0)
+					CompressAddCC(0x03F3, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F4") == 0)
+					CompressAddCC(0x03F4, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "choose") == 0)
+					CompressAddCC(0x03F5, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "endchoose") == 0)
+					CompressAddCC(0x03F6, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F7") == 0)
+					CompressAddCC(0x03F7, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F8") == 0)
+					CompressAddCC(0x03F8, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03F9") == 0)
+					CompressAddCC(0x03F9, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03FA") == 0)
+					CompressAddCC(0x03FA, text, &i, 9, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03FB") == 0)
+					CompressAddCC(0x03FB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "CC03FC") == 0)
+					CompressAddCC(0x03FC, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+				else if (strcmp(text2, "string") == 0)
+					CompressAddCC(0, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+			}
+			// Is ascii text?
+			else if ((unsigned char)text[i] <= 0x7F)
+			{
+				BOOL pattern_found = FALSE;
+				// See if it's a dictionary pattern
+				for (j = 0; j < num_patterns; j++)
+				{
+					if (strcmp(text+i, pattern_list[j]) == 0)
+					{
+						CompressAddWord(0x80+j, &outbuf, out_size, &magic_number, &enc_count);
+						i += strlen(pattern_list[j]);
+						pattern_found = TRUE;
+					}
+				}
 
-         text = FixLineWrap(text, k);
-         if (text == NULL)
-         {
-            free (text_pointer_list);
-            return NULL;
-         }
+				if (!pattern_found)
+				{
+					// Just add as is
+					CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
+					i++;
+				}
+			}
+			// Shift-JIS, convert 4 characters to 
+			else
+			{
+				// Find Character and encode
+				for (j = 0; j < (sizeof(texttbl) / sizeof(unsigned short)); j++)
+				{
+					if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
+					{
+						CompressAddWord(j, &outbuf, out_size, &magic_number, &enc_count);
+						i+= 2;
+						break;
+					}
+				}
+			}
+		}
 
-         // Create new entry for pointer
-         text_pointer_list[l] = out_size[0];
-         for (i = 0; i < strlen(text);)
-         {
-            // Is it a control code?
-            if (text[i] == '<')
-            {
-               char text2[512];
+		if (text)
+			free(text);
 
-               sscanf_s(text+i+1, " %[^=>] ", text2, sizeof(text2));
+		if (l == num_text-1)
+		{
+			while (out_size[0] % 5 != 0)
+				CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);
 
-               // Add 0x3FF to buffer
-               CompressAddWord(0x03FF, &outbuf, out_size, &magic_number, &enc_count);
-
-               // Convert control code
-               if (strcmp(text2, "lineend") == 0)
-                  CompressAddCC(0x03E8, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "pause") == 0)
-                  CompressAddCC(0x03E9, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03EA") == 0)
-                  CompressAddCC(0x03EA, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "color") == 0)
-                  CompressAddCC(0x03EB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03EC") == 0)
-                  CompressAddCC(0x03EC, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03ED") == 0)
-                  CompressAddCC(0x03ED, text, &i, 4, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03EF") == 0)
-                  CompressAddCC(0x03EF, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F0") == 0)
-                  CompressAddCC(0x03F0, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F1") == 0)
-                  CompressAddCC(0x03F1, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F2") == 0)
-                  CompressAddCC(0x03F2, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F3") == 0)
-                  CompressAddCC(0x03F3, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F4") == 0)
-                  CompressAddCC(0x03F4, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "choose") == 0)
-                  CompressAddCC(0x03F5, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "endchoose") == 0)
-                  CompressAddCC(0x03F6, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F7") == 0)
-                  CompressAddCC(0x03F7, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F8") == 0)
-                  CompressAddCC(0x03F8, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03F9") == 0)
-                  CompressAddCC(0x03F9, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03FA") == 0)
-                  CompressAddCC(0x03FA, text, &i, 9, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03FB") == 0)
-                  CompressAddCC(0x03FB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "CC03FC") == 0)
-                  CompressAddCC(0x03FC, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-               else if (strcmp(text2, "string") == 0)
-                  CompressAddCC(0, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-            }
-            // Is ascii text?
-            else if ((unsigned char)text[i] <= 0x7F)
-            {
-               BOOL pattern_found = FALSE;
-               // See if it's a dictionary pattern
-               for (j = 0; j < num_patterns; j++)
-               {
-                  if (strcmp(text+i, pattern_list[j]) == 0)
-                  {
-                     CompressAddWord(0x80+j, &outbuf, out_size, &magic_number, &enc_count);
-                     i += strlen(pattern_list[j]);
-                     pattern_found = TRUE;
-                  }
-               }
-
-               if (!pattern_found)
-               {
-                  // Just add as is
-                  CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
-                  i++;
-               }
-            }
-            // Shift-JIS, convert 4 characters to 
-            else
-            {
-               // Find Character and encode
-               for (j = 0; j < (sizeof(texttbl) / sizeof(unsigned short)); j++)
-               {
-                  if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
-                  {
-                     CompressAddWord(j, &outbuf, out_size, &magic_number, &enc_count);
-                     i+= 2;
-                     break;
-                  }
-               }
-            }
-         }
-
-         if (text)
-            free(text);
-
-         if (l == num_text-1)
-         {
-            while (out_size[0] % 5 != 0)
-               CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);
-
-            // increase text_num to compensate
-            int old_text_num=text_num[0], max_size=text_num[0];
-            num_text++;
-            text_num[0] = Align16Byte(num_text * 2) / 2;
-            ReallocMem((void **)&text_pointer_list, sizeof(unsigned short), &max_size, text_num[0]-1);
-            if (text_num[0] > old_text_num)
-               memset(&text_pointer_list[old_text_num], 0, (text_num[0]-old_text_num)*sizeof(unsigned short));
-            text_pointer_list[l+1] = out_size[0];
-            break;
-         }
-      }
+			// increase text_num to compensate
+			int old_text_num=text_num[0], max_size=text_num[0];
+			num_text++;
+			text_num[0] = Align16Byte(num_text * 2) / 2;
+			ReallocMem((void **)&text_pointer_list, sizeof(unsigned short), &max_size, text_num[0]-1);
+			if (text_num[0] > old_text_num)
+				memset(&text_pointer_list[old_text_num], 0, (text_num[0]-old_text_num)*sizeof(unsigned short));
+			text_pointer_list[l+1] = out_size[0];
+			break;
+		}
    }
 
    // Go through offsets and fill in any null offsets
@@ -1582,7 +1544,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
       }
    }
 
-   // Ensure compressed data is 16-byte aligned
+	// Ensure compressed data is 16-byte aligned
    out_size[0] = Align16Byte(out_size[0]);
 
    return text_pointer_list;
@@ -1768,7 +1730,7 @@ int EVNSaveFile(const char *filename)
 
    // Rebuild the compressed text
    cmp_text[0] = (unsigned char *)calloc(1, 0xFFFF);
-   text_pointer_list[0] = CompressText(0xFF, cmp_text[0], cmp_text_size, &header, text_num);
+   text_pointer_list[0] = CompressText(-1, cmp_text[0], cmp_text_size, &header, text_num);
 
    for (i = 0; i < 8; i++)
    {

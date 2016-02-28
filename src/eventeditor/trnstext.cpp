@@ -159,7 +159,7 @@ int TransTextLoad(const char *filename, transtext_struct *transtext)
       ReallocMem((void **)&transtext->ttentry, sizeof(ttentry_struct), &max_data, i);
       memset(&transtext->ttentry[i], 0, sizeof(ttentry_struct));
 
-      if (strlen(event_text) == 0 || atoi(event_text) == 0)
+      if (strlen(event_text) == 0 || (atoi(event_text) == 0 && strcmp(event_text, "0") != 0))
       {
          printf("%s(%d): Event ID is invalid\n", filename, line-4);
          free(transtext->ttentry);
