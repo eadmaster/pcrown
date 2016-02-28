@@ -1,72 +1,36 @@
-100|
+65536|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel!<pause><lineend>|
-|
-|
-105|
+65537|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward...<pause><lineend>|
-|
-|
-108|
+65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Are you all right, Princess Sidrael?<pause><lineend>|
-|
-|
-127|
+65539|
 <CC03EA><color=0003><string=0001><lineend><color=0001>That doesn't sound good.<pause><lineend>|
-|
-|
-133|
+65540|
 <CC03EA><color=0004><string=017D><lineend><color=0001>The tower! It's shaking!<pause><lineend>|
-|
-|
-134|
+65541|
 <CC03EA><color=0003><string=0001><lineend><color=0001>We've rescued Princess Sidrael. It's time to get out of here!<pause><lineend>|
-|
-|
-135|
+65542|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Right. We need to get Sidrael to a safe place quickly.<pause><lineend>|
-|
-|
-198|
+131072|
 <CC03EA><color=0005><string=0121><lineend><color=0001>I won't let you leave the Demon Realm!<pause><lineend>|
-|
-|
-199|
+131073|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Skulg...<lineend><CC03ED=00010003000103FF><pause>|
-|
-|
-200|
+131074|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Gradriel, get Princess Sidrael back to the ship. Hurry!<lineend><CC03ED=00010003000103FF><pause>|
-|
-|
-204|
+131075|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward!<pause><lineend>|
-|
-|
-207|
+131076|
 <CC03EA><color=0003><string=0001><lineend><color=0001>This is my fight. Nobody, not even you, is going to get in my way.<pause><lineend>|
-|
-|
-210|
+131077|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Good luck, Edward...<pause><lineend>|
-|
-|
-228|
+131078|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>You're the one who isn't going anywhere.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I hope you're ready to see what it means to be the son of Golgotha!<lineend><CC03ED=00010003000103FF><pause>|
-|
-|
-238|
+131079|
 <CC03EA><color=0005><string=0121><lineend><color=0001>If following in your Father's footsteps is what you want, then allow me to oblige!<pause><lineend>|
-|
-|
-250|
+196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Father...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>You were a true Knight after all.<lineend><CC03ED=00010007000103FF><pause>|
-|
-|
-251|
+196609|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>I may not be as strong as you were...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>But when the day comes that I am...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>...I'll do as you did and join the Knight Guard.<lineend><CC03ED=00010007000103FF><pause>|
-|
-|
-255|
+196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Come on, Ignis. Let's go.<pause><lineend>|
-|
-|

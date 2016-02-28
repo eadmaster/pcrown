@@ -1,92 +1,48 @@
-59|
+0|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Where are you going, your Majesty?<pause><lineend><CC03EA>We have to do something, quick!<pause><lineend>|
-|
-|
-60|
+1|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You're right. We're the only ones left...<pause><lineend><CC03EA>There's no choice. I have to go confront Larva.<lineend><pause>|
-|
-|
-61|
+2|
 <CC03F0=000000880000000A03FF00000000>|
-|
-|
-96|
+65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Another earthquake...!<pause><lineend>|
-|
-|
-104|
+65537|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>The Dark God Larva is nearly upon us.<pause><lineend>|
-|
-|
-112|
+65538|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>There is nobody left to protect you.<lineend><pause><CC03EA>It's only you and me now.<lineend><pause><CC03EA>If you listen to what I say and hand over that crown...<pause><lineend>|
-|
-|
-115|
+65539|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>...I'll let you live as Samantha's replacement.<pause><lineend>|
-|
-|
-118|
+65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm not handing you anything.<pause><lineend>|
-|
-|
-119|
+65541|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>Then you'll die just like the others!<pause><lineend>|
-|
-|
-120|
+65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Why, you...!<pause><lineend>|
-|
-|
-161|
+65543|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>The two crowns have been sealed!<pause><lineend>|
-|
-|
-163|
+65544|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Nobody can resist me now!<pause><lineend>|
-|
-|
-164|
+65545|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Dark God Larva! The gate is open!<pause><lineend>|
-|
-|
-212|
+65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>No!<pause><lineend><CC03EA>Leon, stop it!<pause><lineend>|
-|
-|
-222|
+131072|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I'm...I'm sorry...<pause><lineend>|
-|
-|
-228|
+131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend>|
-|
-|
-235|
+131074|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>What have I done...<pause><lineend><CC03EA>I lost control...I couldn't do anything...<pause><lineend>|
-|
-|
-236|
+131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon, no...<pause><lineend>|
-|
-|
-237|
+131076|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I...I'm done for...<pause><lineend>|
-|
-|
-238|
+131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Don't speak, Leon.<pause><lineend>|
-|
-|
-239|
+131078|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Queen Gradriel...leave me...<pause><lineend><CC03EA>Larva is...all that matters...<pause><lineend>|
-|
-|
-242|
+131079|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>He is not at full strength yet...<lineend><pause><CC03EA>You must do something before he...comes into this world.<pause><lineend>|
-|
-|
-243|
+131080|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>...Queen Gradriel...<pause><lineend>|
-|
-|
+196608|
+<CC03EA>Ç±ÇÍÇÕÉ_É~Å[Ç≈Ç∑<lineend><pause>|

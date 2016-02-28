@@ -1,40 +1,26 @@
-7|
+0|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the one making people see all those weird illusions!<pause><lineend><CC03EA>Once I take care of you, I can go find that girl!<pause><lineend>|
-|
-|
-10|
+1|
+<CC03EA><color=0002><string=0002><lineend><color=0001>迷子ちゃんは<lineend>この奥かしらね。<pause><lineend>|
+2|
 <CC03ED=00020016000103FF><CC03F2=000200170000005A03FF00000000><CC03ED=0002001A00010000>|
-|
-|
-50|
+65536|
 <CC03EA><color=0006><string=0023><lineend><color=0001>I feel like I'm going in circles...<pause><lineend><CC03EA>Will I ever find my way home again?<pause><lineend>|
-|
-|
-54|
+65537|
+<CC03EA><color=0006><string=00BB><lineend><color=0001>メェェ！<pause><lineend>|
+65538|
 <CC03EA><color=0002><string=0002><lineend><color=0001>You there! Goat girl!<pause><lineend>|
-|
-|
-61|
+65539|
 <CC03EA><color=0002><string=0002><lineend><color=0001>A monster was tricking you with illusions, and I just sent him packing!<pause><lineend><CC03EA>You should be able to leave the forest now.<pause><lineend>|
-|
-|
-65|
+65540|
 <CC03EA><color=0006><string=0023><lineend><color=0001>You beat the monster? Weren't you scared of him?<pause><lineend>|
-|
-|
-66|
+65541|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Don't make me laugh...<pause><lineend><CC03EA>It takes more than that to scare this witch!<pause><lineend>|
-|
-|
-68|
+65542|
 <CC03EA><color=0006><string=0023><lineend><color=0001>That's amazing!<pause><lineend>|
-|
-|
-69|
+65543|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Let's get going. I need you and your goats back in your village!<pause><lineend>|
-|
-|
-70|
+65544|
 <CC03EA><color=0006><string=0023><lineend><color=0001>We're on our way.<lineend>Thank you!<pause><lineend>|
-|
-|
+65545|
+<CC03EA><color=0006><string=00BC><lineend><color=0001>メェェ～！<lineend>|

@@ -1,64 +1,32 @@
-16|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>It's a bad sign indeed that those monsters could storm in so easily.<pause><lineend><CC03EA>I fear we've been making terrible oversights...<pause><lineend><CC03EA>Queen Gradriel, please accept my apologies.<pause><lineend>|
-|
-|
-19|
+1|
 <CC03EA><color=0006><string=007C><lineend><color=0001>It's important that we make the castle just as beautiful as before.<pause><lineend><CC03EA>Let's get to work!<pause><lineend>|
-|
-|
-22|
+2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
-|
-|
-25|
+3|
 <CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our kingdom's greatest treasure.<pause><lineend><CC03EA>But how will we ever bring Princess Sidrael back from the Demon Realm?<pause><lineend>|
-|
-|
-28|
+4|
 <CC03EA><color=0006><string=0052><lineend><color=0001>A Drop of Mana does more than just restore Magic Stones.<pause><lineend><CC03EA>You can use it to turn a normal gem into a Magic Stone, too.<pause><lineend>|
-|
-|
-31|
+5|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
-|
-|
-34|
+6|
 <CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, your Highness.<pause><lineend>|
-|
-|
-37|
+7|
 <CC03EA><color=0006><string=0078><lineend><color=0001>I heard that Sir Glowstar protected you, your Highness.<pause><lineend><CC03EA>We've been mistaken about him all this time, haven't we?<pause><lineend>|
-|
-|
-40|
+8|
 <CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at the death of his Father, Sir Glowstar.<pause><lineend><CC03EA>I wonder where it is he's gone to?<pause><lineend>|
-|
-|
-43|
+9|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of Elfaran and Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep her safe.<pause><lineend>|
-|
-|
-47|
+10|
 <CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
-|
-|
-48|
+11|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-50|
+12|
 <CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your Highness.<pause><lineend>|
-|
-|
-52|
+13|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means, but the words do convey the kindness of our Royal Family.<pause><lineend>|
-|
-|
-55|
+14|
 <CC03EA><color=0006><string=0080><lineend><color=0001>It appears that only our castle and town were attacked. Other towns nearby haven't reported any damage.<pause><lineend>|
-|
-|
-59|
+15|
 <CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother...Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|
-|
-|

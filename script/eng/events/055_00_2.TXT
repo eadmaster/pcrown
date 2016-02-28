@@ -1,208 +1,86 @@
-20|
+0|
 <CC03EA><color=0006><string=0091><lineend><color=0001>Everyone is ecstatic that the terrible monster is gone!<pause><lineend><CC03EA>My lady, we are in your debt!<pause><lineend>|
-|
-|
-23|
+1|
 <CC03EA><color=0006><string=0092><lineend><color=0001>There's no greater pleasure in life than getting your hands dirty doing some digging!<pause><lineend>|
-|
-|
-26|
+2|
 <CC03EA><color=0006><string=0093><lineend><color=0001>I wouldn't trade digging for anything in the world!<pause><lineend>|
-|
-|
-30|
+3|
 <CC03EA><color=0006><string=0094><lineend><color=0001>The Dwarf mines are rich in high-quality Gems.<pause><lineend><CC03EA>With that Spider gone, we have some catching up to do!<pause><lineend>|
-|
-|
-33|
+4|
 <CC03EA><color=0006><string=0094><lineend><color=0001>Did you take a look inside Sleepy's Shop?<pause><lineend>|
-|
-|
-37|
+5|
 <CC03EA><color=0006><string=0095><lineend><color=0001>Gems, gems, and more gems!<pause><lineend><CC03EA>It's time to get into the mines and dig, dig, and dig some more!<pause><lineend>|
-|
-|
-40|
+6|
 <CC03EA><color=0006><string=0096><lineend><color=0001>It's feels like forever since I got to try the Truck-Chase. Time to fix that!<pause><lineend>|
-|
-|
-41|
+7|
 <CC03F0=009600060000001E03FF00000000>|
-|
-|
-45|
+8|
 <CC03EA><color=0006><string=0097><lineend><color=0001>It's hard to believe such a sweet-looking girl could have vanquished that monster!<pause><lineend><CC03EA>You humans are brave, I'll give you that.<pause><lineend>|
-|
-|
-48|
+9|
 <CC03EA><color=0006><string=0098><lineend><color=0001>The say there's a spirit inside of every weapon the king makes.<pause><lineend>|
-|
-|
-51|
+10|
 <CC03EA><color=0006><string=0099><lineend><color=0001>I'm sure the king is deeply grateful for your help.<pause><lineend>|
-|
-|
-54|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Consider yourself a dear friend to all Dwarves!<pause><lineend><CC03EA>As long as you're here, please make yourself at home.<pause><lineend>|
-|
-|
-57|
-<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>We Dwarves can hear the ground singing to us!<pause><lineend>|
-|
-|
-63|
+11|
 <CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
-|
-|
-65|
+12|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
-|
-|
-66|
+13|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, that's right. How did you know my name?<pause><lineend>|
-|
-|
-67|
+14|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Your mistress back in Cadho Badho mentioned you.<pause><lineend><CC03EA>She asked me to tell you to come home right away if I ever ran across you in my travels.<pause><lineend>|
-|
-|
-68|
+15|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>She did? Oh! Well, thank you for telling me.<pause><lineend><CC03EA>I can't believe she'd ask someone she doesn't even know to do such a thing, though.<pause><lineend><CC03EA>She really is as naive as they say.<pause><lineend>|
-|
-|
-69|
+16|
 <CC03EA><color=0002><string=0000><lineend><color=0001>At least now you have the message.<pause><lineend>|
-|
-|
-70|
+17|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, of course.<lineend>I'll hurry back.<pause><lineend><CC03EA>Please drop by Cadho Badho again sometime. I'm sure my mistress will want to thank you.<pause><lineend>|
-|
-|
-71|
+18|
 <CC03F0=01C5000B0001001E03FF00000000>|
-|
-|
-75|
+19|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
-|
-|
-80|
+20|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Consider yourself a dear friend to all Dwarves!<pause><lineend><CC03EA>As long as you're here, please make yourself at home.<pause><lineend>|
+21|
+<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>We Dwarves can hear the ground singing to us!<pause><lineend>|
+22|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
-|
-|
-81|
+23|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
-|
-|
-83|
+24|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-90|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
-|
-|
-91|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-97|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Hey! There aren't any items in your bag!<pause><lineend>|
-|
-|
-103|
+25|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
-|
-|
-106|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-110|
-<CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't it?<lineend>*Yawn*<pause><lineend>|
-|
-|
-111|
-<CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-115|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-117|
+26|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*...That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems...ZZZ......ZZZ...<pause><lineend>|
-|
-|
-118|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-126|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh!<lineend>Ah. Here you are!<pause><lineend>|
-|
-|
-127|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-129|
+27|
+<CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't it?<lineend>*Yawn*<pause><lineend>|
+28|
+<CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+29|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh! Oh, you don't have money, Ma'am.<pause><lineend>|
-|
-|
-130|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-135|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
-|
-|
-137|
+30|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh!<lineend>Ah. Here you are!<pause><lineend>|
+31|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>That's not enough, Miss.<pause><lineend>|
-|
-|
-139|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
-|
-|
-144|
+32|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
+33|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Hey! There aren't any items in your bag!<pause><lineend>|
+34|
 <CC03EA><color=0006><string=0195><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-148|
+35|
 <CC03EA><CC03FC=0004><string=0195><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-154|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-160|
+36|
 <CC03EA><color=0006><string=0195><lineend><color=0001>Oh! You're a bit short the price. Come back anytime.<pause><lineend>|
-|
-|
-163|
+37|
 <CC03EA><color=0006><string=0195><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-170|
+38|
 <CC03EA><color=0006><string=0195><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-172|
+39|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+40|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-173|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-184|
+41|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-185|
+42|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

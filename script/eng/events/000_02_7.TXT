@@ -1,44 +1,22 @@
-13|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>I can't believe someone your size took on a Demon!<pause><lineend><CC03EA>You've got courage, that's for sure.<pause><lineend>|
-|
-|
-16|
+1|
 <CC03EA><color=0006><string=007C><lineend><color=0001>I better cook up some soup for all our wounded Knights!<pause><lineend>|
-|
-|
-19|
+2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>It's a true Knight who keeps fighting for his Queen no matter how injured he becomes.<pause><lineend><CC03EA>I'd never stop fighting for Queen Elfaran no matter what. Even if I couldn't stand.<pause><lineend>|
-|
-|
-22|
+3|
 <CC03EA><color=0006><string=007E><lineend><color=0001>The Queen would have been in a lot of trouble if it hadn't been for you.<pause><lineend><CC03EA>You were truly her savior. Allow me to thank you from the bottom of my heart. <pause><lineend>|
-|
-|
-25|
+4|
 <CC03EA><color=0006><string=0052><lineend><color=0001>The magic we humans can use doesn't compare to what the Demons have at their disposal.<pause><lineend><CC03EA>I heard that they get all that power by actually eating Magic Stones.<pause><lineend>|
-|
-|
-28|
+5|
 <CC03EA><color=0006><string=0077><lineend><color=0001>Oh, it's the Hero! Please, help yourself to anything you see here.<pause><lineend>|
-|
-|
-31|
+6|
 <CC03EA><color=0006><string=0078><lineend><color=0001>I wonder where the Knight Captain has gone now that he's betrayed the Queen.<pause><lineend>|
-|
-|
-34|
+7|
 <CC03EA><color=0006><string=0079><lineend><color=0001>He wasn't just one of their flunkies, either. He was actually leading them!<pause><lineend><CC03EA>It's such a shame. Golgotha was a wonderful Knight...<pause><lineend>|
-|
-|
-37|
+8|
 <CC03EA><color=0006><string=0033><lineend><color=0001>It's a relief that all the fighting is over. My wife's baby is due any day now!<pause><lineend><CC03EA>I want my child to come into a peaceful world.<pause><lineend><CC03EA>Believe me, I'm going to tell my baby everything, too.<pause><lineend><CC03EA>She'll learn all about Queen Elfaran, and how she restored peace to our kingdom. <pause><lineend>|
-|
-|
-40|
+9|
 <CC03EA><color=0006><string=0053><lineend><color=0001>During the fighting, I saw for myself what power those Demons have.<pause><lineend><CC03EA>Now, I'm scared to even use magic.<pause><lineend><CC03EA>I feel as though magic itself is something wicked...<pause><lineend>|
-|
-|
-43|
+10|
 <CC03EA><color=0006><string=0080><lineend><color=0001>The Knight Guard became what it is today because of Golgotha.<pause><lineend><CC03EA>Yet it was this very man who double-crossed us...<pause><lineend>`|
-|
-|

@@ -1,358 +1,132 @@
-23|
+0|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Lord Jadis quickly noticed that something was wrong and evacuated the townspeople.<pause><lineend><CC03EA>Thanks to him, our losses were few.<pause><lineend>|
-|
-|
-26|
+1|
 <CC03EA><color=0006><string=0005><lineend><color=0001>For crying out loud, Lord Jadis's nickname is The Warrior King.<pause><lineend><CC03EA>Yet people are saying he barely escaped in one piece? Inconceivable!<pause><lineend><CC03EA>Even a Dragon couldn't take more than one or two hits! Not from Lord Jadis!<pause><lineend><CC03EA>I just can't accept that he would lose a fight against one lousy Wizard.<pause><lineend>|
-|
-|
-29|
+2|
 <CC03EA><CC03FC=0004><string=006B><color=0006>Monk<lineend><color=0001>The souls of the Holy Knights who fell in battle will rest in an eternal sleep...<pause><lineend><CC03EA>...by the grace of the Goddess Gaia.<pause><lineend><CC03EA>Those of us left in this world have nothing but to pray that their sleep is a peaceful one.<pause><lineend>|
-|
-|
-32|
+3|
 <CC03EA><color=0006><string=0024><lineend><color=0001>I wasn't scared, you know.<pause><lineend><CC03EA>Volga has Sir Jadis. Whoever attacked us doesn't.<pause><lineend>|
-|
-|
-35|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>My friend works as a maid in the castle.<pause><lineend><CC03EA>I wonder if she's all right. I'm getting worried...<pause><lineend>|
-|
-|
-38|
+5|
 <CC03EA><color=0006><string=000B><lineend><color=0001>We can't let something like this make us lose heart.<pause><lineend><CC03EA>The women of Volga are too strong for that!<pause><lineend>|
-|
-|
-41|
+6|
 <CC03EA><color=0006><string=0004><lineend><color=0001>One very, shall we say, dedicated friend of mine...<pause><lineend><CC03EA>...has been traveling all over the world eating Local Delicacies.<pause><lineend><CC03EA>Just recently, he finally found his way to the <color=0003>Last Tavern.<color=0001><pause><lineend><CC03EA>The Last Tavern...Makes you wonder, doesn't it? If only he would tell me the way there.<pause><lineend><CC03EA>I guess it's a secret only those who have tried every Local Delicacy get to find out.<pause><lineend>|
-|
-|
-44|
+7|
 <CC03EA><CC03FC=0004><string=006C><color=0006>Monk<lineend><color=0001>Our country once had a prince named Shelius.<pause><lineend><CC03EA>He had eyes with a glimmer as beautiful as Gaia herself.<pause><lineend><CC03EA>Perhaps it's just my imagination...<pause><lineend><CC03EA>...but I'd swear it's the same sparkle coming from your eyes as well.<pause><lineend>|
-|
-|
-47|
+8|
 <CC03EA><color=0006><string=001F><lineend><color=0001>The High Lady of the Court is very nice.<pause><lineend><CC03EA>She makes all kinds of sweets and gives them out to us.<pause><lineend>|
-|
-|
-50|
+9|
 <CC03EA><color=0006><string=0025><lineend><color=0001>She's my favorite person in the whole world!<pause><lineend>|
-|
-|
-53|
+10|
 <CC03EA><color=0006><string=0020><lineend><color=0001>The Fruit Cake they have here is the best!<pause><lineend>|
-|
-|
-57|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Did you stop by the cabin in the south woods?<pause><lineend>|
-|
-|
-60|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Whoa! Thank you!!<pause><lineend><CC03EA>I promised I'd give you something in return, didn't I?<pause><lineend><CC03EA>Go into the cabin in the woods south of town.<pause><lineend>|
-|
-|
-66|
-<CC03EA><color=0006><string=0004><lineend><color=0003>Would you be willing to get the "Broken Sword" out of the Sword Mines for me?<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
-|
-|
-82|
+11|
 <CC03EA><color=0006><string=0004><lineend><color=0001>I'm worried about my dear old Mother, so I've hurried back here from Sagon.<pause><lineend>|
-|
-|
-85|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Say, I was just wondering...<pause><lineend>
-<CC03EA><color=0001>Would you be willing to <color=0003>go to the Sword Mines and get me the Broken Sword?<pause><lineend><CC03EA>A long time ago, my friend and I used to play Knights with it.<pause><lineend><CC03EA>You might say it's got a lot of memories tied to it.<pause><lineend><CC03EA>Trouble is, I dropped it on my way here from Sagon.<pause><lineend><CC03EA>I heard about how you saved Castle Volga, and I realized you'd be perfect for the job.<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
-|
-|
-90|
+12|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Say, I was just wondering...<pause><lineend><CC03EA><color=0001>Would you be willing to <color=0003>go to the Sword Mines and get me the Broken Sword?<pause><lineend><CC03EA>A long time ago, my friend and I used to play Knights with it.<pause><lineend><CC03EA>You might say it's got a lot of memories tied to it.<pause><lineend><CC03EA>Trouble is, I dropped it on my way here from Sagon.<pause><lineend><CC03EA>I heard about how you saved Castle Volga, and I realized you'd be perfect for the job.<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=0004><lineend><color=0003>Would you be willing to get the "Broken Sword" out of the Sword Mines for me?<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Whoa! Thank you!!<pause><lineend><CC03EA>I promised I'd give you something in return, didn't I?<pause><lineend><CC03EA>Go into the cabin in the woods south of town.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Did you stop by the cabin in the south woods?<pause><lineend>|
+16|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I'm so proud of this boy of mine. He's always looked after his parents.<pause><lineend>|
-|
-|
-93|
+17|
 <CC03EA><color=0006><string=008B><lineend><color=0001>We have nothing to fear.<pause><lineend><CC03EA>All will change in time in accordance the will of the Goddess Gaia.<pause><lineend>|
-|
-|
-97|
+18|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>How about some delicious cake? Step right up and give us your order.<pause><lineend>|
-|
-|
-98|
+19|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-100|
+20|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-108|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
-|
-|
-116|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food to use.<pause><lineend>|
-|
-|
-120|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
-|
-|
-122|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-124|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-131|
-<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
-|
-|
-139|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-141|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-145|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
-|
-|
-146|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-148|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Here you are!<pause><lineend>|
-|
-|
-149|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-154|
+21|
 <CC03EA><CC03FC=0004><string=01AF><color=0001>Our Local Delicacy is Fruit Cake. We use lots of fruit when we make it.<pause><lineend><CC03EA>You'll taste sweet cherries and a hint of orange inside the buttery cake.<pause><lineend><CC03EA>It's moist and fluffy, too. We have fresh baked ones right now.<pause><lineend><CC03EA>The price is 16G. Will you be buying one?<pause><lineend>|
-|
-|
-155|
+22|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-157|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-161|
+23|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
-|
-|
-162|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-166|
+24|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>You can't carry anymore. Please free up some space.<pause><lineend>|
-|
-|
-167|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-171|
+25|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Here you are!<pause><lineend>|
-|
-|
-172|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-177|
+26|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food to use.<pause><lineend>|
+27|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
+28|
+<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
+29|
+<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+30|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
+31|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
-|
-|
-183|
+32|
 <CC03EA><CC03FC=0004><string=01A3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
-|
-|
-186|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-192|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
-|
-|
-197|
+33|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
-|
-|
-202|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-204|
+34|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid you don't have enough money, Ma'am.<pause><lineend>|
-|
-|
-212|
+35|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+36|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+37|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
-|
-|
-218|
+38|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-222|
+39|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-228|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-234|
+40|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-237|
+41|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-244|
+42|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-246|
+43|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+44|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-247|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-258|
+45|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-259|
+46|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-267|
-<CC03EA><color=0006><string=0051><lineend><color=0001>After what's happened, I'm thinking of linking up with the kingdom to the south.<pause><lineend><CC03EA>Try coming back soon. The magic-square should be connected by then.<pause><lineend>|
-|
-|
-274|
+47|
 <CC03EA><color=0006><string=0051><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
-|
-|
-275|
+48|
 <CC03EA><CC03FC=0004><string=0051><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
-|
-|
-279|
-<CC03EA><color=0006><string=0051><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
-|
-|
-285|
-<CC03EA><color=0006><string=0051><lineend><color=0001>It looks like you're broke.<pause><lineend>|
-|
-|
-286|
-<CC03EA><color=0006><string=0051><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
-|
-|
-292|
+49|
 <CC03EA><color=0006><string=0051><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
-|
-|
-295|
+50|
 <CC03EA><color=0006><string=0051><lineend><color=0001>We hope to see you again soon! And may the powers of magic watch over you...<pause><lineend>|
-|
-|
-297|
-<CC03EA><color=0006><string=0051><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.
-<pause><lineend>|
-|
-|
-302|
+51|
+<CC03EA><color=0006><string=0051><lineend><color=0001>It looks like you're broke.<pause><lineend>|
+52|
+<CC03EA><color=0006><string=0051><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.<pause><lineend>|
+53|
+<CC03EA><color=0006><string=0051><lineend><color=0001>After what's happened, I'm thinking of linking up with the kingdom to the south.<pause><lineend><CC03EA>Try coming back soon. The magic-square should be connected by then.<pause><lineend>|
+54|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>Welcome...to the Smiley Gem Shop!!<pause><lineend><CC03EA>We're always smiling, just for you!<pause><lineend>|
-|
-|
-303|
+55|
 <CC03EA><CC03FC=0004><string=01D3><color=0001><choose>Buy<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
-|
-|
-305|
+56|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-312|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
-|
-|
-313|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-319|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>You don't have anything!<pause><lineend>|
-|
-|
-325|
+57|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>I'll turn any Gems you have into Magic Stones.<pause><lineend><CC03EA>Please select the Gem you would like to use.<pause><lineend>|
-|
-|
-328|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-332|
-<CC03EA><color=0006><string=01D3><lineend><color=0001><CC03F7>...Very well.<pause><lineend><CC03EA>That will be 10G. Is that all right?<pause><lineend>|
-|
-|
-333|
-<CC03EA><CC03FC=0004><string=01D3><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-337|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-339|
+58|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>You can't change that into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems.<pause><lineend>|
-|
-|
-340|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-348|
+59|
+<CC03EA><color=0006><string=01D3><lineend><color=0001><CC03F7>...Very well.<pause><lineend><CC03EA>That will be 10G. Is that all right?<pause><lineend>|
+60|
+<CC03EA><CC03FC=0004><string=01D3><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+61|
+<CC03EA><color=0006><string=01D3><lineend><color=0001>I'm afraid you don't have enough money, Ma'am.<pause><lineend>|
+62|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>There! It's finished!<pause><lineend>|
-|
-|
-349|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-351|
+63|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>I'm afraid you don't have enough money, Ma'am.<pause><lineend>|
-|
-|
-352|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
-357|
+64|
 <CC03EA><color=0006><string=01D3><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
-|
-|
-359|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>I'm afraid you don't have enough money, Ma'am.<pause><lineend>|
-|
-|
-361|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Come again!<lineend>We'll be here.<pause><lineend>|
-|
-|
+65|
+<CC03EA><color=0006><string=01D3><lineend><color=0001>You don't have anything!<pause><lineend>|

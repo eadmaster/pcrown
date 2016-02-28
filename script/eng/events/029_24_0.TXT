@@ -1,4 +1,2 @@
-53|
+65536|
 <CC03EA><color=0002>Got the Notice Drop!<pause><lineend>|
-|
-|

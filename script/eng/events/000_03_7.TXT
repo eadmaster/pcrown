@@ -1,8 +1,4 @@
-4|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>YOU are the Hero!?<pause><lineend><CC03EA>...Please excuse me.<pause><lineend><CC03EA>I heard you were strong. I just had no idea you'd be so lovely...<pause><lineend>|
-|
-|
-7|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>Thanks to you, the Demon Horde is gone.<pause><lineend><CC03EA>I only hope this means that the fighting is over.<pause><lineend>|
-|
-|

@@ -1,76 +1,38 @@
-54|
+65536|
 <CC03EA><color=0006><string=0063><lineend><color=0001>This way! Come on!<pause><lineend>|
-|
-|
-79|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend><CC03EA>Please come back safe.<pause><lineend>|
-|
-|
-107|
+131072|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel!<lineend>Are you all right?<pause><lineend>|
-|
-|
-108|
+131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Oh Eriel...<lineend>I'm sorry I took so long.<pause><lineend><CC03EA>Sidrael and I are both fine.<pause><lineend>|
-|
-|
-119|
+131074|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Eriel!<pause><lineend>|
-|
-|
-120|
+131075|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Sidrael...<pause><lineend>|
-|
-|
-128|
+131076|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I'm positively delighted to see you all back safe and sound.<pause><lineend>|
-|
-|
-138|
+131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry, Jestonai.<lineend>The three of us must worry you an awful lot.<pause><lineend>|
-|
-|
-139|
+131078|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I do grow faint when I imagine the Queen traveling alone into the Demon Realm.<pause><lineend>|
-|
-|
-140|
+131079|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>But, it's now clear how strong our Queen has become.<pause><lineend>|
-|
-|
-141|
+131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Maybe it was for the best that I left the castle after all?<pause><lineend>|
-|
-|
-145|
+131081|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Well...<lineend>Regardless, I'm glad you're safe.<pause><lineend>|
-|
-|
-161|
+196608|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...What was that?<pause><lineend>|
-|
-|
-162|
+196609|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty! Your Majesty!<pause><lineend>|
-|
-|
-164|
+196610|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Aria? What in the world could be happening at this hour?<pause><lineend>|
-|
-|
-165|
+196611|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>A monster, that's what!<lineend>It's trying to break in!<pause><lineend>|
-|
-|
-169|
+196612|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...a monster?<pause><lineend>|
-|
-|
-179|
+196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Where is it?<pause><lineend>|
-|
-|
-180|
+196614|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Down at castle gate, your Majesty.<pause><lineend>|
-|
-|

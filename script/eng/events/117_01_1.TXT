@@ -1,289 +1,120 @@
-15|
+0|
 <CC03EA><color=0006><string=0045><lineend><color=0001>I heard there's a Siren in <color=0002>Lake Titania<color=0001> who is commanding monsters to attack people.<pause><lineend><CC03EA>I wonder if there is anyone who can fight her?<pause><lineend>|
-|
-|
-18|
+1|
 <CC03EA><color=0006><string=0046><lineend><color=0001>We sent some Warriors to the lake to investigate.<pause><lineend><CC03EA>They seem to have disappeared...<pause><lineend>|
-|
-|
-22|
+2|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Edward! It's good to see you again.<pause><lineend><CC03EA>You've come at a good time. I have a favor to ask you.<pause><lineend>|
-|
-|
-23|
+3|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Trouble again?<pause><lineend>|
-|
-|
-24|
+4|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Correct.<pause><lineend><CC03EA>There's a Siren in Lake Titania that's making monsters attack people.<pause><lineend><CC03EA>We've sent many men to the lake to find out more, but not a single one has returned.<pause><lineend>|
-|
-|
-25|
+5|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...and you want me to go have a look, right?<pause><lineend>|
-|
-|
-26|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Correct again.<pause><lineend><CC03EA>If you can beat an Ice Dragon, you should be fine. I'd appreciate the help.<pause><lineend>
-<CC03EA><color=0002>Lake Titania<color=0001> is <color=0005>to the east, from the right side of the Wizard's town.<color=0001><pause><lineend>|
-|
-|
-32|
+6|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Correct again.<pause><lineend><CC03EA>If you can beat an Ice Dragon, you should be fine. I'd appreciate the help.<pause><lineend><CC03EA><color=0002>Lake Titania<color=0001> is <color=0005>to the east, from the right side of the Wizard's town.<color=0001><pause><lineend>|
+7|
 <CC03EA><color=0004><string=015C><lineend><color=0001>I'm counting on you, Edward.<pause><lineend>|
-|
-|
-38|
-<CC03EA><color=0004><string=015C><lineend><color=0001>We'll be on the lookout for any suspicious people.<pause><lineend>|
-|
-|
-44|
-<CC03EA><color=0004><string=015C><lineend><color=0001>You should hurry to Lake Titania.<pause><lineend><CC03EA>I'll set the record straight around town.<pause><lineend>|
-|
-|
-47|
-<CC03EA><color=0004><string=015C><lineend><color=0001>You should hurry to Lake Titania.<pause><lineend><CC03EA>I'll set the record straight around town.<pause><lineend>|
-|
-|
-52|
-<CC03EA><color=0004><string=015C><lineend><color=0001>The Black Dragon is supposed to be fiercely strong.<pause><lineend><CC03EA>Be careful out there, Edward.<pause><lineend>|
-|
-|
-55|
+8|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Did you find anything out, Edward?<pause><lineend>|
-|
-|
-56|
+9|
 <CC03ED=0001005F00010000>|
-|
-|
-57|
+10|
 <CC03EA><color=0003><string=0001><lineend><color=0001>The Siren is innocent. In fact, there's someone after her.<pause><lineend>|
-|
-|
-58|
+11|
 <CC03EA><color=0004><string=015C><lineend><color=0001>What are you talking about?<pause><lineend>|
-|
-|
-59|
+12|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I was attacked by someone on my way to the lake.<pause><lineend><CC03EA>He got the jump on me, but Ondine, the Siren in the lake, came and got me out of trouble.<pause><lineend>|
-|
-|
-60|
+13|
 <CC03EA><color=0004><string=015C><lineend><color=0001>The Siren helped you!?<pause><lineend>|
-|
-|
-61|
+14|
 <CC03ED=0001005F00010000>|
-|
-|
-62|
+15|
 <CC03EA><color=0003><string=0001><lineend><color=0001>The person who attacked me is trying to catch her.<pause><lineend><CC03EA>You've heard the stories about mermaid tears turning into Gems, haven't you?<pause><lineend><CC03EA>I think he's trying to make Ondine out to be evil...<pause><lineend><CC03EA>...then use that as grounds to capture her.<pause><lineend>|
-|
-|
-63|
+16|
 <CC03EA><color=0004><string=015C><lineend><color=0001>That's quite unforgivable.<pause><lineend><CC03EA>We'll look into who is behind the rumors going around town.<pause><lineend><CC03EA>In the meantime, I'd like you to go back and keep the Siren safe.<pause><lineend>|
-|
-|
-64|
+17|
 <CC03ED=0001005F00010000>|
-|
-|
-69|
+18|
+<CC03EA><color=0004><string=015C><lineend><color=0001>We'll be on the lookout for any suspicious people.<pause><lineend>|
+19|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Have you learned anything?<pause><lineend>|
-|
-|
-70|
+20|
 <CC03EA><color=0004><string=015C><lineend><color=0001>We know there is a suspicious man lurking around town.<pause><lineend><CC03EA>It seems he's been trying to convince people that the Siren is evil.<pause><lineend>|
-|
-|
-71|
+21|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Ç«ÇÒÇ»íjÇæÅH<pause><lineend>|
+22|
 <CC03EA><color=0004><string=015C><lineend><color=0001>He apparently goes by the nickname "Monster Hunter."<pause><lineend><CC03EA>He's a large brute, and he's good at fighting with the giant axe he carries with him.<pause><lineend>|
-|
-|
-72|
+23|
 <CC03EA><color=0003><string=0001><lineend><color=0001>That's would be him.<pause><lineend><CC03EA>That's the man who attacked me and is trying to get one of Ondine's tears.<pause><lineend>|
-|
-|
-73|
+24|
 <CC03EA><color=0004><string=015C><lineend><color=0001>He's already headed back toward Lake Titania.<pause><lineend>|
-|
-|
-77|
+25|
 <CC03EA><color=0003><string=0001><lineend><color=0001>In that case, I'm going back there right now!<pause><lineend><CC03EA>You go and tell everyone what's really happening.<pause><lineend>|
-|
-|
-82|
+26|
+<CC03EA><color=0004><string=015C><lineend><color=0001>You should hurry to Lake Titania.<pause><lineend><CC03EA>I'll set the record straight around town.<pause><lineend>|
+27|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I stopped the man who was after Ondine, for good this time.<pause><lineend>|
-|
-|
-83|
+28|
 <CC03EA><color=0004><string=015C><lineend><color=0001>I see.<pause><lineend><CC03EA>The Siren is all right, then?<pause><lineend>|
-|
-|
-84|
+29|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I think she'll go back to living a quiet, peaceful life.<pause><lineend>|
-|
-|
-85|
+30|
 <CC03EA><color=0004><string=015C><lineend><color=0001>I regret that our misunderstanding caused her so much harm...<lineend><pause><CC03EA>Thank you, Edward. This whole affair has come to a proper close.<pause><lineend><CC03EA>Take this.<lineend>You should have it.<pause><lineend>|
-|
-|
-86|
+31|
 <CC03EA><color=0002>Got one more bag!<lineend>Now you can carry more items!<pause><lineend>|
-|
-|
-89|
+32|
 <CC03EA><color=0004><string=015C><lineend><color=0001>One more thing, Edward.<pause><lineend><CC03EA>It's about that Black Dragon you're looking for...<pause><lineend><CC03EA>A Mercenary coming back from Knelt said he spotted it along his path.<pause><lineend><CC03EA>It's hard to say, but the Dragon might live somewhere just off the road.<pause><lineend>|
-|
-|
-90|
+33|
 <CC03EA><color=0003><string=0001><lineend><color=0001>The road that connects Cadho Badho and Knelt?<pause><lineend><CC03EA>Got it. I'm off to take a closer look.<pause><lineend>|
-|
-|
-91|
+34|
 <CC03EA><color=0004><string=015C><lineend><color=0001>All right. Be careful out there.<pause><lineend>|
-|
-|
-92|
+35|
 <CC03ED=0001005F00010000>|
-|
-|
-101|
+36|
+<CC03EA><color=0004><string=015C><lineend><color=0001>The Black Dragon is supposed to be fiercely strong.<pause><lineend><CC03EA>Be careful out there, Edward.<pause><lineend>|
+37|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
-|
-|
-105|
+38|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho Badho and not try something at The Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
-|
-|
-106|
+39|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-108|
+40|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-116|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
-|
-|
-124|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
-|
-|
-128|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
-|
-|
-130|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-132|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-139|
-<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
-|
-|
-147|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-149|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-153|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
-|
-|
-154|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-156|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
-|
-|
-157|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-162|
+41|
 <CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be interested?<pause><lineend>|
-|
-|
-163|
+42|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-165|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-169|
+43|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
-|
-|
-170|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-174|
+44|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
-|
-|
-175|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-179|
+45|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
-|
-|
-180|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-186|
+46|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+47|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+48|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
+49|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+50|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+51|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-190|
+52|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-196|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-202|
+53|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-205|
+54|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-212|
+55|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-214|
+56|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+57|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-215|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-226|
+58|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-227|
+59|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

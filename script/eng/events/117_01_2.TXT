@@ -1,152 +1,52 @@
-15|
+0|
 <CC03EA><color=0006><string=0045><lineend><color=0001>Thanks for your help during that Lake Titania incident.<pause><lineend>|
-|
-|
-18|
+1|
 <CC03EA><color=0006><string=0046><lineend><color=0001>I still can't believe it wasn't the Siren!<pause><lineend>|
-|
-|
-21|
+2|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Did you manage to slay the Black Dragon yet?<pause><lineend>|
-|
-|
-24|
+3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
-|
-|
-28|
+4|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho Badho and not try something at The Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
-|
-|
-29|
+5|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-31|
+6|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-39|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
-|
-|
-47|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
-|
-|
-51|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
-|
-|
-53|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-55|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-62|
-<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
-|
-|
-70|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-72|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-76|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
-|
-|
-77|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-79|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
-|
-|
-80|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-85|
+7|
 <CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be interested?<pause><lineend>|
-|
-|
-86|
+8|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-88|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-92|
+9|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
-|
-|
-93|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-97|
+10|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
-|
-|
-98|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-102|
+11|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
-|
-|
-103|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
-|
-|
-109|
+12|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
+15|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+16|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+17|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-113|
+18|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-119|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-125|
+19|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-128|
+20|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-135|
+21|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-137|
+22|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-138|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-149|
+24|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-150|
+25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

@@ -1,80 +1,40 @@
-24|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
-|
-|
-25|
+1|
 <CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
-|
-|
-28|
+2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>The Demon Horde attacked the castle, but the Queen fought them off.<pause><lineend><CC03EA>I wish I could have been at her side!<pause><lineend>|
-|
-|
-31|
+3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so young.<pause><lineend>|
-|
-|
-34|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-37|
+5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The monsters these days are really strong!<pause><lineend><CC03EA>One little Dodo turned me all black and blue the other day. It still hurts!<pause><lineend>|
-|
-|
-40|
+6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>Isn't there any big strong man out there who can protect me?<pause><lineend>|
-|
-|
-43|
+7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>I'm not scared of anything! Not as long as I have my Myconid dolly!<pause><lineend>|
-|
-|
-46|
+8|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Golden Warrior.<pause><lineend><CC03EA> He saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendent of the one who killed the Demons' leader.<pause><lineend><CC03EA>The Silver Sorceress may have given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's strength that saved the day in the end.<pause><lineend><CC03EA>And that is precisely why the Warriors are superior to the Wizards. Ha ha!!<pause><lineend>|
-|
-|
-49|
+9|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Even if the Demon King does attack, our patrolmen will see them coming from a mile away!<pause><lineend>|
-|
-|
-52|
+10|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
-|
-|
-55|
+11|
 <CC03EA><color=0006><string=0162><lineend><color=0001>We'll keep this town safe!<pause><lineend>|
-|
-|
-58|
+12|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Please keep Cadho Badho safe!<pause><lineend>|
-|
-|
-61|
+13|
 <CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
-|
-|
-64|
+14|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
-|
-|
-67|
+15|
 <CC03EA><color=0006><string=0012><lineend><color=0001>Forget it. He's made me wait long enough already!<pause><lineend>|
-|
-|
-70|
+16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
-|
-|
-73|
+17|
 <CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot. I just fed him, too!<pause><lineend>|
-|
-|
-76|
+18|
 <CC03EA><color=0006><string=000B><lineend><color=0001>This town is pretty rough! Maybe I ought to move to the countryside...<pause><lineend>|
-|
-|
-79|
+19|
 <CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
-|
-|

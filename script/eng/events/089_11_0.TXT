@@ -1,24 +1,12 @@
-37|
+65536|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I thought for sure he'd be in this cave...<pause><lineend>|
-|
-|
-43|
+65537|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>The Black Dragon!?<lineend><CC03ED=00010003000103FF><pause>|
-|
-|
-59|
+65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>At last, I've found you.<pause><lineend><CC03EA>This is it, Black Dragon. I'm not leaving without the Sun Stone!<pause><lineend>|
-|
-|
-95|
+131072|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...This must be the Sun Stone...<lineend><CC03ED=00010007000103FF><pause>|
-|
-|
-106|
+131073|
 <CC03EA><color=0002>Got the Sun Stone.<pause><lineend>|
-|
-|
-114|
+131074|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Let's head back, Ignis.<pause><lineend>|
-|
-|

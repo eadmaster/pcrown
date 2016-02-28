@@ -1,164 +1,52 @@
-12|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Remember what it used to be like when the Friedfin would sail in?<pause><lineend><CC03EA>It would be full of exotic goods and people alike from the Volga Kingdom to the north.<pause><lineend>|
-|
-|
-13|
+1|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Those days won't be back, though.<pause><lineend><CC03EA>Not as long as the north seas are filled with those dreadful monsters.<pause><lineend>|
-|
-|
-14|
+2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>The Friedfin just goes on local cruises now.<pause><lineend><CC03EA>I miss the days when we could take it all the way to Volga and back!<pause><lineend>|
-|
-|
-17|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Remember what it used to be like when the Friedfin would sail in?<pause><lineend><CC03EA>It would be full of exotic goods and people alike from the Volga Kingdom to the north.<pause><lineend>|
-|
-|
-18|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Those days won't be back, though.<pause><lineend><CC03EA>Not as long as the north seas are filled with those dreadful monsters.<pause><lineend>|
-|
-|
-19|
-<CC03EA><color=0006><string=0011><lineend><color=0001>The Friedfin just goes on local cruises now.<pause><lineend><CC03EA>I miss the days when we could take it all the way to Volga and back!<pause><lineend>|
-|
-|
-22|
+3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
-|
-|
-26|
+4|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Tronto Tavern! Shall I take your order?<pause><lineend>|
-|
-|
-27|
+5|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-29|
+6|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-37|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>We can't cook that. Sorry.<pause><lineend>|
-|
-|
-45|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
-|
-|
-49|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>We can't cook that. Sorry.<pause><lineend>|
-|
-|
-51|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-53|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-60|
-<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G. Sound good?<pause><lineend>|
-|
-|
-68|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-70|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-74|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have enough money.<pause><lineend>|
-|
-|
-75|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-77|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I hope you like it.<pause><lineend>|
-|
-|
-78|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-83|
+7|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Our Local Delicacy is Grilled Fish.<pause><lineend><CC03EA>We take fresh, locally caught fish and grill them up nice and slowly.<pause><lineend><CC03EA>The strong spices we use really whet your appetite. Try squeezing a little lime on it!<pause><lineend><CC03EA>One costs 48G. Would you like to try it?<pause><lineend>|
-|
-|
-84|
+8|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-86|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-90|
+9|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have enough money.<pause><lineend>|
-|
-|
-91|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-95|
+10|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any more.<pause><lineend>|
-|
-|
-96|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-100|
+11|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>I hope you like it.<pause><lineend>|
-|
-|
-101|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
-|
-|
-107|
+12|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>We can't cook that. Sorry.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G. Sound good?<pause><lineend>|
+15|
+<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+16|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have enough money.<pause><lineend>|
+17|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-111|
+18|
 <CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
-|
-|
-117|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-123|
+19|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-126|
+20|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-133|
+21|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeies be safe.<pause><lineend>|
-|
-|
-135|
+22|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-136|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-147|
+24|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-148|
+25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

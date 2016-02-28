@@ -1,220 +1,112 @@
-22|
+0|
 <CC03EA><color=0006><string=0014><lineend><color=0001>How dreadful...<pause><lineend><CC03EA>I never imagined I'd see those wicked Demons for a second time in my life.<pause><lineend>|
-|
-|
-25|
+1|
 <CC03EA><color=0006><string=001C><lineend><color=0001>I wonder if the Queen is all right?<pause><lineend><CC03EA>She must have been terrified to be caught up in that mess.<pause><lineend>|
-|
-|
-28|
+2|
 <CC03EA><color=0006><string=002E><lineend><color=0001>I heard Princess Sidrael was kidnapped! Do you suppose it's true?<pause><lineend>|
-|
-|
-31|
+3|
 <CC03EA><color=0006><string=0005><lineend><color=0001>How could the Demon Horde show up here in the first place?<pause><lineend><CC03EA>My Grandma always told me that Queen Elfaran locked them up in the Demon Realm.<pause><lineend>|
-|
-|
-35|
-<CC03EA><color=0006><string=002F><lineend><color=0001>Thank you, good Knight.<pause><lineend>|
-|
-|
-37|
+4|
 <CC03EA><color=0006><string=002F><lineend><color=0001>Sir! Thank you for helping us.<pause><lineend><CC03EA>As a reward, please accept this Bag.<pause><lineend>|
-|
-|
-39|
+5|
 <CC03EA><color=0002>Got one more Bag! Now you can carry more items!<pause><lineend>|
-|
-|
-45|
+6|
+<CC03EA><color=0006><string=002F><lineend><color=0001>Thank you, good Knight.<pause><lineend>|
+7|
 <CC03EA><color=0006><string=0020><lineend><color=0001>I didn't cry at all when I saw the monsters.<pause><lineend><CC03EA>It takes more than that to make a boy cry! Or at least it should!<pause><lineend>|
-|
-|
-48|
+8|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Those Demons were so scary, I start shivering whenever I think about them!<pause><lineend><CC03EA>They looked so evil...Oh...I think I'm going to faint...<pause><lineend>|
-|
-|
-51|
+9|
 <CC03EA><color=0006><string=002D><lineend><color=0001>We were just attacked by Demons, and still my boyfriend is drinking in the tavern!<pause><lineend>|
-|
-|
-54|
+10|
 <CC03EA><color=0006><string=0008><lineend><color=0001>It's just crazy!<pause><lineend><CC03EA>How could those Demons have stormed in here like that? This is a castle town!<pause><lineend>|
-|
-|
-57|
+11|
 <CC03EA><color=0006><string=000C><lineend><color=0001>You can only think about bad things when you're hungry.<pause><lineend><CC03EA>Let's all eat up and do our best!<pause><lineend>|
-|
-|
-60|
+12|
 <CC03EA><color=0006><string=0009><lineend><color=0001>Frying Pans and Cooking Pots will break after you use them too many times.<pause><lineend><CC03EA>When that happens, you can't cook with them anymore.<pause><lineend><CC03EA>You can still throw them, though! That goes for Empty Bottles, too.<pause><lineend>|
-|
-|
-63|
+13|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Hey Mister, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My Mom told me so.<pause><lineend>|
-|
-|
-66|
+14|
 <CC03EA><color=0006><string=0015><lineend><color=0001>The Demons are coming again...<lineend>Probably from the cursed land of Bindfair...<pause><lineend>|
-|
-|
-69|
+15|
 <CC03EA><color=0006><string=001D><lineend><color=0001>I never expected to see Demons ever again...<pause><lineend>|
-|
-|
-73|
+16|
+<CC03EA><color=0006><string=0181><lineend><color=0001>あ、あの・・・<lineend>ロレンスの行方はわかりましたか？<pause><lineend>|
+17|
+<CC03ED=0001006000010000>|
+18|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・・・・そうですか。<lineend><CC03ED=01810031000103FF><pause>|
+19|
+<CC03EA><color=0003><string=0001><lineend><color=0001>そう気をおとすな。<pause><lineend><CC03EA>かならず俺がロレンスを<lineend>見つけて来てやるからな。<pause><lineend>|
+20|
+<CC03ED=0181003300010000><CC03ED=0181002A000103FF><CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・よろしくお願いします。<lineend><CC03ED=0181002A000103FF><pause>|
+21|
+<CC03EA><color=0006><string=0181><lineend><color=0001>あ、あの・・・<lineend>ロレンスの行方はわかりましたか？<pause><lineend>|
+22|
+<CC03ED=0001000600010000><CC03ED=00010007000103FF>|
+23|
+<CC03ED=00010007000103FF><CC03EA><color=0003><string=0001><lineend><color=0001>・・・・・・。<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>俺が彼を見つけた時には<lineend>すでに手後れだった・・・<lineend><CC03ED=00010007000103FF><pause>|
+24|
+<CC03EA><color=0002>エドワードはカトリーヌに<lineend>かたみの品を渡した。<pause><lineend>|
+25|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>そんな・・・、あのロレンスが<lineend>死んだなんて・・・・・・。<lineend><CC03ED=01810031000103FF><pause>|
+26|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>アァ、ロレンス・・・・・・<lineend><CC03ED=01810031000103FF><pause>|
+27|
+<CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・あ、エドワード様。<lineend>先日はおせわになりました。<lineend><CC03ED=0181002A000103FF><pause><CC03EA><CC03ED=0181002B000103FF>せめてものお礼に<lineend>これをさしあげます。<lineend><CC03ED=0181002A000103FF><pause>|
+28|
+<CC03EA><color=0002>「ユニットドロップ」を手に入れた！<pause><lineend>|
+29|
+<CC03ED=01810001000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>いつまでも、くよくよしていても<lineend>仕方ありませんね。<lineend><CC03ED=01810000000103FF><pause><CC03EA><CC03ED=01810001000103FF>これからは彼のぶんまで<lineend>精一杯生きていくつもりです。<lineend><CC03ED=01810000000103FF><pause>|
+30|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
-|
-|
-79|
+31|
 <CC03EA><CC03FC=0004><string=01A3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
-|
-|
-82|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-88|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Sir, you don't have anything to sell!<pause><lineend>|
-|
-|
-93|
+32|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
-|
-|
-98|
-<CC03EA><color=0006><string=01A3><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-100|
+33|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid you don't have enough money, Sir.<pause><lineend>|
-|
-|
-108|
+34|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Sir, it looks like you don't have space to carry anything.<pause><lineend>|
+35|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Sir, you don't have anything to sell!<pause><lineend>|
+36|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
-|
-|
-114|
+37|
 <CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
-|
-|
-115|
+38|
 <CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
-|
-|
-119|
-<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May the powers of magic watch over you...<pause><lineend>|
-|
-|
-125|
-<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
-|
-|
-126|
-<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May the powers of magic watch over you...<pause><lineend>|
-|
-|
-132|
+39|
 <CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
-|
-|
-135|
+40|
 <CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May the powers of magic watch over you...<pause><lineend>|
-|
-|
-137|
+41|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
+42|
 <CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>You must find places like this one in your travels. Only then can I send you to them.<pause><lineend>|
-|
-|
-140|
-<CC03EA><color=0006><string=0014><lineend><color=0001>How dreadful...<pause><lineend><CC03EA>I never imagined I'd see those wicked Demons for a second time in my life.<pause><lineend>|
-|
-|
-144|
+43|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome...<lineend>How about some Potions for your journey?<pause><lineend><CC03EA>I'll mix up anything you want with the ingredients you have.<pause><lineend>|
-|
-|
-145|
+44|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
-|
-|
-147|
+45|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
-|
-|
-159|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Sharp-Leaf Grass for that.<pause><lineend>|
-|
-|
-161|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Jagged-Leaf Grass for that.<pause><lineend>|
-|
-|
-163|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Round-Leaf Grass for that.<pause><lineend>|
-|
-|
-165|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Jagged-Leaf Grass for that.<pause><lineend>|
-|
-|
-167|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Round-Leaf Grass for that.<pause><lineend>|
-|
-|
-169|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Mixing costs 20G. Is that all right?<pause><lineend>|
-|
-|
-170|
-<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-174|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
-|
-|
-178|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Sharp-Leaf Grass for that.<pause><lineend>|
-|
-|
-180|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Jagged-Leaf Grass for that.<pause><lineend>|
-|
-|
-182|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Round-Leaf Grass for that.<pause><lineend>|
-|
-|
-184|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Jagged-Leaf Grass for that.<pause><lineend>|
-|
-|
-186|
-<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Round-Leaf Grass for that.<pause><lineend>|
-|
-|
-187|
+46|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>You'll have to fetch me the right ingredients first!<pause><lineend>|
-|
-|
-188|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
-|
-|
-196|
+47|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Mixing costs 20G. Is that all right?<pause><lineend>|
+48|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+49|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>What's this? You don't have enough money.<pause><lineend>|
-|
-|
-197|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
-|
-|
-199|
+50|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>There! It's done!<pause><lineend>|
-|
-|
-200|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
-|
-|
+51|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Sharp-Leaf Grass for that.<pause><lineend>|
+52|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Jagged-Leaf Grass for that.<pause><lineend>|
+53|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Round-Leaf Grass for that.<pause><lineend>|
+54|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Jagged-Leaf Grass for that.<pause><lineend>|
+55|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Round-Leaf Grass for that.<pause><lineend>|

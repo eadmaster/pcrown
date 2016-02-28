@@ -1,60 +1,30 @@
-56|
+65536|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I have watched over humankind for one thousand years...<pause><lineend><CC03EA>The darkness is fading, while love and faith are slowly returning.<pause><lineend><CC03EA>Soon, the Goddess Gaia will awaken.<pause><lineend>|
-|
-|
-57|
+65537|
 <CC03EA><color=0004><string=0104><lineend><color=0001>The three Gems are in my possession...<pause><lineend>|
-|
-|
-58|
+65538|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Perhaps it is time to fulfill my own destiny and wake her myself.<pause><lineend><CC03EA>Yet doing so will bring about the end of my own life.<pause><lineend>|
-|
-|
-59|
+65539|
 <CC03EA><color=0004><string=0104><lineend><color=0001>...I shall leave it to the young Queen.<pause><lineend>|
-|
-|
-82|
+131072|
 <CC03EA><color=0001>Gradriel...<lineend>Queen Gradriel of Valendia.<pause><lineend>|
-|
-|
-86|
+131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Who's there?<pause><lineend>|
-|
-|
-87|
+131074|
 <CC03EA><color=0001>Gradriel...<pause><lineend>|
-|
-|
-88|
+131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Heindel?<pause><lineend>|
-|
-|
-89|
+131076|
 <CC03EA><color=0001>Come outside.<pause><lineend>|
-|
-|
-90|
+131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What in the world could be going on this time?<pause><lineend>|
-|
-|
-127|
+196608|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Heindel? What are you doing here?<pause><lineend>|
-|
-|
-132|
+196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What are those Gems?<pause><lineend>|
-|
-|
-133|
+196610|
 <CC03EA><color=0004><string=0104><lineend><color=0001>These are three of the four Gems that will restore the Goddess to this land.<pause><lineend>|
-|
-|
-134|
+196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Restore...the Goddess?<pause><lineend>|
-|
-|
-135|
+196612|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I shall lead you to the Goddess's temple now. There, you will learn everything.<pause><lineend>|
-|
-|

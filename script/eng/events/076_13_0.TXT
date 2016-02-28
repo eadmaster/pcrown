@@ -1,44 +1,22 @@
-42|
+65536|
 <CC03EA><color=0005><string=0106><lineend><color=0001>I can't believe there was a hidden path here.<pause><lineend>|
-|
-|
-45|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Samantha.<pause><lineend>|
-|
-|
-46|
+65538|
 <CC03EA><color=0005><string=0106><lineend><color=0001>You're persistent, I'll give you that.<pause><lineend>|
-|
-|
-47|
+65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Get out of my way!<pause><lineend>|
-|
-|
-53|
+65540|
 <CC03EA><color=0005><string=0106><lineend><color=0001>Ha ha ha!<pause><lineend>|
-|
-|
-54|
+65541|
 <CC03EA><color=0005><string=0106><lineend><color=0001>You'll never stop Leon. Do yourself a favor and give up now, your Highness.<pause><lineend>|
-|
-|
-55|
+65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'll keep Leon from summoning Larva if it's the last thing I do!<pause><lineend>|
-|
-|
-58|
+65543|
 <CC03EA><color=0005><string=0106><lineend><color=0001>It just might be, you know. Well, if you can make it past me, that is!<pause><lineend>|
-|
-|
-78|
+131072|
 <CC03EA><color=0005><string=0106><lineend><color=0001>Damn...This body is finished...<pause><lineend><CC03EA>......Ha ha ha!<lineend>...How fascinating!<pause><lineend><CC03EA>Gradriel...you haven't even noticed it...but after fighting so many battles...<pause><lineend><CC03EA>...you've started to grow the dark powers of hatred within yourself.<lineend><pause>|
-|
-|
-82|
+131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Dark powers of hatred? What are you talking about?<pause><lineend>|
-|
-|
-83|
+131074|
 <CC03EA><color=0005><string=0106><lineend><color=0001>Oh, you'll understand soon.<lineend><pause><CC03EA>It will all come clear...the moment you turn into one of us...<pause><lineend>|
-|
-|

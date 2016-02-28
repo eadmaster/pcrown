@@ -1,124 +1,72 @@
-104|
+65536|
 <CC03EA><color=0005><string=0122><lineend><color=0001>I know that smell. It's royal blood...And here comes someone to give me a taste of it.<pause><lineend>|
-|
-|
-105|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I've come for the Time Stone that you are said to possess. Will you let me have it?<pause><lineend>|
-|
-|
-106|
+65538|
 <CC03EA><color=0005><string=0122><lineend><color=0001>You mean you came all the way up here for this little Gem?<pause><lineend>|
-|
-|
-119|
+65539|
 <CC03EA><color=0005><string=0122><lineend><color=0001>If you want it, you're going to have to come get it from me.<pause><lineend><CC03EA>Of course, I myself took it from another Demon, called Bloody...<pause><lineend>|
-|
-|
-130|
+65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Bloody?<lineend>The red Demon?<pause><lineend>|
-|
-|
-161|
+131072|
 <CC03EA><color=0005><string=0122><lineend><color=0001>Since you're so interested, why don't I give you a demonstration?<lineend><pause><CC03EA>After all, there's no need to fight when I can simply banish you to another era altogether!<lineend><pause>|
-|
-|
-205|
+131073|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ああっ！<pause><lineend>|
+196608|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Trouble is afoot. I can sense it.<pause><lineend>|
-|
-|
-209|
+196609|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Be on your guard, men.<pause><lineend><CC03EA>Lord Jestonai said something would bring disaster upon the kingdom.<pause><lineend><CC03EA>Whatever that is, it's close.<pause><lineend>|
-|
-|
-233|
+196610|
+<CC03EA><color=0004><string=0102><lineend><color=0001>ゴルゴダ様。<lineend>こちらは何も見つかりませんでした。<pause><lineend>|
+196611|
+<CC03EA><color=0004><string=0103><lineend><color=0001>・・・そうか。<pause><lineend>|
+196612|
 <CC03EA><CC03FC=0004><string=007D><color=0001>Sir Glowstar, there's a passage this way.<pause><lineend>|
-|
-|
-300|
+196613|
+<CC03EA><CC03FC=0004><string=007D><color=0001>今の声は・・・！？<pause><lineend>|
+196614|
 <CC03EA><color=0004><string=0102><lineend><color=0001>...A Demon!!<pause><lineend>|
-|
-|
-301|
+196615|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Don't flinch, men! Everyone follow my lead!<pause><lineend>|
-|
-|
-339|
+196616|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Sir Glowstar!<pause><lineend>|
-|
-|
-355|
+196617|
 <CC03EA><CC03FC=0004><string=007E><color=0001>Damn! I...I'm trembling!<pause><lineend>|
-|
-|
-401|
+196618|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Was that Demon what we were looking for, Sir Glowstar?<pause><lineend>|
-|
-|
-402|
+196619|
 <CC03EA><color=0004><string=0103><lineend><color=0001>No, he's not it. Let's split up and keep searching.<pause><lineend>|
-|
-|
-433|
+262144|
 <CC03EA><color=0004><string=0102><lineend><color=0001>What's this?<pause><lineend>|
-|
-|
-436|
+262145|
 <CC03EA><CC03FC=0004><string=010C><color=0001>Welcome, good Knight.<pause><lineend>|
-|
-|
-439|
+262146|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Who are you?<pause><lineend>|
-|
-|
-440|
+262147|
 <CC03EA><CC03FC=0004><string=010C><color=0001>I am called Larva. I am the very thing you have been searching for.<pause><lineend>|
-|
-|
-447|
+262148|
 <CC03EA><CC03FC=0004><string=010C><color=0001>I am a holy book that will save the world.<pause><lineend><CC03EA>I have waited long for a worthy Knight to whom I can entrust my awesome power...<pause><lineend><CC03EA>...a power that will allow him to slay any Dragon and destroy any Demon.<pause><lineend><CC03EA>Now, take me in your hands.<pause><lineend>|
-|
-|
-448|
+262149|
 <CC03EA><color=0004><string=0102><lineend><color=0001>What manner of foolery is this?<pause><lineend>|
-|
-|
-449|
+262150|
 <CC03EA><CC03FC=0004><string=010C><color=0001>Danger is at your doorstep, good Knight!<pause><lineend><CC03EA>Look at you. A single Demon appeared, and your knees buckled beneath you.<pause><lineend><CC03EA>Can you honestly say you're strong enough to protect the Queen?<pause><lineend>|
-|
-|
-450|
+262151|
 <CC03EA><color=0004><string=0102><lineend><color=0001>...<pause><lineend>|
-|
-|
-451|
+262152|
 <CC03EA><CC03FC=0004><string=010C><color=0001>Shall I tell you what the future holds? Demons are coming to storm your castle!<pause><lineend><CC03EA>Many shall perish. When death surrounds you, can you still fight without fear?<pause><lineend>|
-|
-|
-454|
+262153|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Demons will attack the castle...<lineend>So that's what it is...<pause><lineend>|
-|
-|
-455|
+262154|
 <CC03EA><CC03FC=0004><string=010C><color=0001>It takes true strength to defend the Queen and the kingdom.<pause><lineend><CC03EA>...Now come. Take me.<pause><lineend>|
-|
-|
-473|
+262155|
 <CC03EA><color=0004><string=0103><lineend><color=0001>No!!<pause><lineend>|
-|
-|
-495|
+262156|
+<CC03EA><color=0004><string=0103><lineend><color=0001>クエイン！！<pause><lineend>|
+262157|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Hrrg...<lineend>Gyaaaah!!<pause><lineend>|
-|
-|
-503|
+262158|
 <CC03EA><CC03FC=0004><string=007D><color=0001>S, Sir Glowstar!<pause><lineend>|
-|
-|
-538|
+327680|
 <CC03EA><CC03FC=0004><string=007D><color=0001>...Sir Glowstar?<pause><lineend>|
-|
-|
-547|
+327681|
 <CC03EA><color=0005><string=0120><lineend><color=0001>I have news for you all. Demons will soon be storming the castle...<pause><lineend><CC03EA>...because I'm about to unleash them from the Demon Realm!<pause><lineend>|
-|
-|

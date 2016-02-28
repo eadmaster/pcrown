@@ -1,254 +1,92 @@
-24|
+0|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Nice weather puts the goats in a good mood, and they eat a lot of grass.<pause><lineend>|
-|
-|
-28|
+1|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-31|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Right about now is when people come from the next village to buy milk, but...<pause><lineend><CC03EA>What? The next village?<pause><lineend>
-<CC03EA><color=0002>It's called Amberstep,<color=0001> and it's a desert village<color=0005> to the northeast of here.<pause><lineend><CC03EA>Take the path from the right side of town to get there.<pause><lineend>|
-|
-|
-35|
+2|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Right about now is when people come from the next village to buy milk, but...<pause><lineend><CC03EA>What? The next village?<pause><lineend><CC03EA><color=0002>It's called Amberstep,<color=0001> and it's a desert village<color=0005> to the northeast of here.<pause><lineend><CC03EA>Take the path from the right side of town to get there.<pause><lineend>|
+3|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-38|
+4|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Canes are surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to change weaker monsters into little animals.<pause><lineend>|
-|
-|
-41|
+5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>You met a Unicorn, didn't you? I knew it!<pause><lineend>|
-|
-|
-45|
+6|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-48|
+7|
 <CC03EA><color=0006><string=0005><lineend><color=0001>I hear Dorangora is having trouble with Dragon attacks again.<pause><lineend><CC03EA>Someone from that village was was on his way to get help from a Wizard in Amberstep...<pause><lineend><CC03EA>I wonder what's happened to him?<pause><lineend>|
-|
-|
-51|
+8|
 <CC03EA><color=0006><string=0028><lineend><color=0001>I no longer have that bad feeling from before.<pause><lineend><CC03EA>I guess that means that things worked out for the Unicorns.<pause><lineend>|
-|
-|
-56|
-<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-60|
-<CC03EA><color=0006><string=001F><lineend><color=0001>The next time any Goblins come making trouble, I'm going to whip 'em myself!<pause><lineend>|
-|
-|
-62|
+9|
 <CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
-|
-|
-67|
+10|
+<CC03EA><color=0006><string=001F><lineend><color=0001>The next time any Goblins come making trouble, I'm going to whip 'em myself!<pause><lineend>|
+11|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-71|
-<CC03EA><color=0006><string=0023><lineend><color=0001>That priest went back to Cemeteryth.<pause><lineend>|
-|
-|
-73|
+12|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+13|
 <CC03EA><color=0006><string=0023><lineend><color=0001>Guess what? There's a priest here who ran away from Cemeteryth.<pause><lineend><CC03EA>He said he got chased out by a huge ghost!<pause><lineend>|
-|
-|
-78|
-<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-82|
-<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-86|
-<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
-|
-|
-90|
+14|
+<CC03EA><color=0006><string=0023><lineend><color=0001>That priest went back to Cemeteryth.<pause><lineend>|
+15|
 <CC03EA><color=0006><string=0027><lineend><color=0001>How about some Fresh Goat's Milk? It's sweet and delicious!<pause><lineend><CC03EA>One bottle is 24G.<pause><lineend>|
-|
-|
-91|
+16|
 <CC03EA><CC03FC=0004><string=0027><color=0001><choose>Please!<lineend>No thanks.<lineend><endchoose>|
-|
-|
-93|
+17|
 <CC03EA><color=0006><string=0027><lineend><color=0001>Come back anytime!<pause><lineend>|
-|
-|
-101|
+18|
 <CC03EA><color=0006><string=0027><lineend><color=0001>Uh oh. You don't have enough money!<pause><lineend>|
-|
-|
-102|
-<CC03EA><color=0006><string=0027><lineend><color=0001>Come back anytime!<pause><lineend>|
-|
-|
-106|
+19|
 <CC03EA><color=0006><string=0027><lineend><color=0001>Uh oh. Your bag is full!<pause><lineend>|
-|
-|
-107|
-<CC03EA><color=0006><string=0027><lineend><color=0001>Come back anytime!<pause><lineend>|
-|
-|
-111|
+20|
 <CC03EA><color=0006><string=0027><lineend><color=0001>Here you are!<pause><lineend>|
-|
-|
-115|
-<CC03EA><color=0004><string=00EB><lineend><color=0001>If only that Poltergeist would go away, I could get back to Cemeteryth where I belong.<pause><lineend>
-<CC03EA> <color=0001>You'll find Cemeteryth <color=0005>along the westward path from the left side of this village.<pause><lineend>|
-|
-|
-117|
+21|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Um...Are you the Priest of Cemeteryth?<pause><lineend>|
-|
-|
-118|
+22|
 <CC03EA><color=0004><string=00EB><lineend><color=0001>Yes, that's right.<pause><lineend><CC03EA>To live in Cemeteryth and pray for the peaceful resting of souls is my job. <pause><lineend><CC03EA>...Or it was, until I was chased out by a ghost.<pause><lineend><CC03EA>This particular ghost has played pranks on me before...<pause><lineend><CC03EA>...but this is the first time he's done something so cruel.<pause><lineend><CC03EA>He's a big fat ghost called a Poltergeist.<pause><lineend><CC03EA>There hasn't been peace in Cemeteryth since the moment he appeared.<pause><lineend>|
-|
-|
-126|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Fresh bread! Come on and get it while it's hot! You there, what can I get you?<pause><lineend>|
-|
-|
-127|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-129|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-137|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
-|
-|
-145|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food to use.<pause><lineend>|
-|
-|
-149|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
-|
-|
-151|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-153|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-160|
-<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
-|
-|
-168|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-170|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-174|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
-|
-|
-175|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-177|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while it's hot!<pause><lineend>|
-|
-|
-178|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-183|
-<CC03EA><CC03FC=0004><string=01AF><color=0001>Our Local Delicacy is Toast To Go made with freshly laid Dodo Eggs.<pause><lineend><CC03EA>We use nutritious bread with a rich herbal fragrance.<pause><lineend><CC03EA>Take one bite, and you'll be sighing with pleasure!<pause><lineend><CC03EA>We add a dash of salt and pepper that goes perfectly with the soft-boiled egg.<pause><lineend><CC03EA>The price is 40G. Will you be taking one?<pause><lineend>|
-|
-|
-184|
-<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-186|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-190|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
-|
-|
-191|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-195|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>You can't carry anymore. Please free up some space.<pause><lineend>|
-|
-|
-196|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-200|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while it's hot!<pause><lineend>|
-|
-|
-201|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
-|
-|
-207|
+23|
+<CC03EA><color=0004><string=00EB><lineend><color=0001>If only that Poltergeist would go away, I could get back to Cemeteryth where I belong.<pause><lineend><CC03EA> <color=0001>You'll find Cemeteryth <color=0005>along the westward path from the left side of this village.<pause><lineend>|
+24|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-211|
+25|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-217|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-223|
+26|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-226|
+27|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-233|
+28|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-235|
+29|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+30|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-236|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-247|
+31|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-248|
+32|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
+33|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Fresh bread! Come on and get it while it's hot! You there, what can I get you?<pause><lineend>|
+34|
+<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+35|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime you're passing through!<pause><lineend>|
+36|
+<CC03EA><CC03FC=0004><string=01AF><color=0001>Our Local Delicacy is Toast To Go made with freshly laid Dodo Eggs.<pause><lineend><CC03EA>We use nutritious bread with a rich herbal fragrance.<pause><lineend><CC03EA>Take one bite, and you'll be sighing with pleasure!<pause><lineend><CC03EA>We add a dash of salt and pepper that goes perfectly with the soft-boiled egg.<pause><lineend><CC03EA>The price is 40G. Will you be taking one?<pause><lineend>|
+37|
+<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+38|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|
+39|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>You can't carry anymore. Please free up some space.<pause><lineend>|
+40|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while it's hot!<pause><lineend>|
+41|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food to use.<pause><lineend>|
+42|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
+43|
+<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
+44|
+<CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+45|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough money.<pause><lineend>|

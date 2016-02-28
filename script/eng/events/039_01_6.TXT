@@ -1,96 +1,40 @@
-9|
+0|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Hello, my lady!<pause><lineend><CC03EA>Where can we take you this time?<pause><lineend>|
-|
-|
-10|
+1|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I need to go north to the Volga Kingdom.<pause><lineend>|
-|
-|
-11|
+2|
 <CC03FA=0063000300000000000003FF000D003C0000><CC03FB=003C>|
-|
-|
-12|
+3|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Volga? But, my lady...<pause><lineend><CC03EA>...Well, I suppose there's no stopping you.<pause><lineend>|
-|
-|
-13|
+4|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry.<pause><lineend><CC03EA>I know I keep asking so many dangerous things of you.<pause><lineend><CC03EA>But...Please! I need your help!<pause><lineend>|
-|
-|
-14|
+5|
 <CC03FA=0063000500000000000003FF000D005A0000><CC03FB=005A>|
-|
-|
-15|
+6|
 <CC03EA><color=0006><string=0063><lineend><color=0001>...All right.<pause><lineend><CC03EA>Please get yourself ready for the trip. We'll be doing the same here.<pause><lineend>|
-|
-|
-16|
+7|
 <CC03ED=0000008700010000>|
-|
-|
-23|
+8|
 <CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>The North Kingdom<lineend>Elsewhere<lineend><endchoose>|
-|
-|
-28|
+9|
 <CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>Arsontula<lineend>The Pirates Island<lineend><endchoose>|
-|
-|
-35|
+10|
+<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
+11|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
+12|
 <CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll be waiting for you. Come back anytime!<pause><lineend>|
-|
-|
-38|
-<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
-|
-|
-39|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-|
-46|
-<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
-|
-|
-47|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-|
-54|
-<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
-|
-|
-55|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-|
-94|
+65536|
 <CC03EA><color=0006><string=0063><lineend><color=0001>We're coming up on the area with the Sirens.<pause><lineend><CC03EA>I've got a dreadful feeling about this...<pause><lineend>|
-|
-|
-133|
+65537|
 <CC03EA><color=0006><string=0067><lineend><color=0001>Oh no! The ship!<pause><lineend>|
-|
-|
-137|
+65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there some way we can make her stop?<pause><lineend>|
-|
-|
-153|
+65539|
 <CC03EA><color=0006><string=0063><lineend><color=0001>It's no good!<pause><lineend><CC03EA>We can't control the ship like this!<pause><lineend>|
-|
-|
-154|
+65540|
 <CC03EA><color=0006><string=0067><lineend><color=0001>We've no choice but to go back!<pause><lineend>|
-|
-|
-158|
+65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But we're so close to Volga...<pause><lineend>|
-|
-|
-166|
+65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I suppose there's no other choice.<pause><lineend>|
-|
-|

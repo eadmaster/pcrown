@@ -1,152 +1,52 @@
-11|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*...Demon Horde? Ha! They're nothing to worry about.<pause><lineend><CC03EA>We've got the daughter of Elfaran fighting on our side! Here's to Queen Gradriel!<pause><lineend>|
-|
-|
-14|
+1|
 <CC03EA><color=0006><string=000A><lineend><color=0001>This time, I think I'm going to have faith in what my husband says.<pause><lineend>|
-|
-|
-17|
+2|
 <CC03EA><color=0006><string=0007><lineend><color=0001>Is the Demon Horde really coming back? The suspense is killing me!<pause><lineend><CC03EA>Nothing another beer can't fix, though.<pause><lineend><CC03ED=0007003400010000>|
-|
-|
-18|
+3|
 <CC03EA><color=0006><string=0007><lineend><color=0001>...BURRRP!...<pause><lineend>|
-|
-|
-22|
+4|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Cokanu Restaurant, at the foot of Valendine Castle and the Queen herself!<pause><lineend><CC03EA>If you're ready, I'll take your order.<pause><lineend>|
-|
-|
-23|
+5|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-25|
+6|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-33|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
-|
-|
-41|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you, then. What Food would you like to use?<pause><lineend>|
-|
-|
-45|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
-|
-|
-47|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-49|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-56|
-<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
-|
-|
-64|
-<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-66|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-70|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford it.<pause><lineend>|
-|
-|
-71|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-73|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very much.<pause><lineend>|
-|
-|
-74|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-79|
+7|
 <CC03EA><CC03FC=0004><string=01A9><color=0001>Our Local Delicacy is Toast To Go made with fresh Dodo eggs.<pause><lineend><CC03EA>The bread has an out-of-the-oven crispiness.<pause><lineend><CC03EA>The over-easy egg on top makes it even tastier. Satisfaction is guaranteed!<pause><lineend><CC03EA>The price is 40G. Would you like one?<pause><lineend>|
-|
-|
-80|
+8|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-82|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-86|
+9|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford it.<pause><lineend>|
-|
-|
-87|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-91|
+10|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any more than that.<pause><lineend>|
-|
-|
-92|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-96|
+11|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very much.<pause><lineend>|
-|
-|
-97|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-103|
+12|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you, then. What Food would you like to use?<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
+15|
+<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+16|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford it.<pause><lineend>|
+17|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-107|
+18|
 <CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
-|
-|
-113|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-119|
+19|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-122|
+20|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-129|
+21|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeies be safe.<pause><lineend>|
-|
-|
-131|
+22|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-132|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-143|
+24|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-144|
+25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

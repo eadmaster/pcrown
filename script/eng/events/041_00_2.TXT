@@ -1,80 +1,40 @@
-24|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
-|
-|
-25|
+1|
 <CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
-|
-|
-28|
+2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>I heard those suspicious men prowling around the alleyways were captured.<pause><lineend><CC03EA>Everyone in town knows the monsters were a hoax they cooked up to catch the mermaid themselves.<pause><lineend>|
-|
-|
-31|
+3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub called the Silver Sword.<pause><lineend><CC03EA>If you want to know what they're up to, you should go there yourself.<pause><lineend>|
-|
-|
-34|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-37|
+5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend><CC03EA>This time, they were racing to be the first to solve the problem at Lake Titania.<pause><lineend><CC03EA>Meanwhile, a young woman captured the real criminals in an alleyway.<pause><lineend><CC03EA>They'll probably call that a draw!<pause><lineend>|
-|
-|
-40|
+6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
-|
-|
-43|
+7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>Our leader is a really nice man!<pause><lineend><CC03EA>OK, so he is pretty stubborn. Nobody's perfect!<pause><lineend>|
-|
-|
-46|
+8|
 <CC03EA><color=0004><string=015C><lineend><color=0001>The whole incident has been resolved.<pause><lineend><CC03EA>Having said that... I'm positively exhausted of speaking to the leader of the Wizards.<pause><lineend><CC03EA>Who does he think I am? A student at one of his lectures?<pause><lineend>|
-|
-|
-49|
+9|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
-|
-|
-52|
+10|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
-|
-|
-55|
+11|
 <CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
-|
-|
-58|
+12|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I'm sure the Golden Warrior guided the ones who solved the problem at the lake.<pause><lineend>|
-|
-|
-61|
+13|
 <CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
-|
-|
-64|
+14|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
-|
-|
-67|
+15|
 <CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the Elikshil Fruits I set out are going bad!<pause><lineend>|
-|
-|
-70|
+16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
-|
-|
-73|
+17|
 <CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to say that?<pause><lineend>|
-|
-|
-76|
+18|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Phew! It looks like all this nonsense about lake monsters is coming to a close.<pause><lineend>|
-|
-|
-79|
+19|
 <CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
-|
-|

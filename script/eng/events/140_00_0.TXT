@@ -1,80 +1,40 @@
-24|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
-|
-|
-25|
+1|
 <CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
-|
-|
-28|
+2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a Knight and work at the castle protecting the Queen.<pause><lineend><CC03EA>Being in her Majesty's Knight Guard is greatest honor any warrior could hope for.<pause><lineend>|
-|
-|
-31|
+3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Our town is full of Warriors, and they keep everyone safe.<pause><lineend><CC03EA>Only the best of the best can be a Warrior in Cadho Badho!<pause><lineend>|
-|
-|
-34|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-37|
+5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors haven't gotten along with the Wizards for years.<pause><lineend><CC03EA>Anytime they come together, it ends in useless bickering.<pause><lineend>|
-|
-|
-40|
+6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
-|
-|
-43|
+7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors' Leader.<pause><lineend>|
-|
-|
-46|
+8|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Greetings, traveler. I'm the leader of the Warriors of Cadho Badho.<pause><lineend><CC03EA>We Warriors are prepared to lay our lives down at any time for the safety of this town.<pause><lineend><CC03EA>What a pity that the Wizards can't comprehend such a noble attitude!<pause><lineend><CC03EA>They're great at running their mouths, and not much else.<pause><lineend><CC03EA>Our job would be much easier without them!<pause><lineend>|
-|
-|
-49|
+9|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
-|
-|
-52|
+10|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
-|
-|
-55|
+11|
 <CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
-|
-|
-58|
+12|
 <CC03EA><color=0006><string=000A><lineend><color=0001>This town has had its fair share of problems.<pause><lineend><CC03EA>These days, though, it's a peaceful place to live.<pause><lineend>|
-|
-|
-61|
+13|
 <CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
-|
-|
-64|
+14|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
-|
-|
-67|
+15|
 <CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizard's town by now. I wonder if he got lost again?<pause><lineend><CC03EA>The tea I made is getting cold!<pause><lineend>|
-|
-|
-70|
+16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
-|
-|
-73|
+17|
 <CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot. I just fed him, too!<pause><lineend>|
-|
-|
-76|
+18|
 <CC03EA><color=0006><string=000B><lineend><color=0001>A quiet life really is the best.<pause><lineend>|
-|
-|
-79|
+19|
 <CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
-|
-|

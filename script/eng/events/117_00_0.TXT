@@ -1,76 +1,38 @@
-23|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Knight, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
-|
-|
-24|
+1|
 <CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<lineend><CC03F1=0011><pause>|
-|
-|
-27|
+2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a Knight and work at the castle protecting the Queen.<pause><lineend><CC03EA>Being in her Majesty's Knight Guard is greatest honor any warrior could hope for.<pause><lineend>|
-|
-|
-30|
+3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Knights always eat at a pub called the Silver Sword.<pause><lineend>|
-|
-|
-33|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-36|
+5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend>|
-|
-|
-39|
+6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Knights are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
-|
-|
-42|
+7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>My Mom told me some guy named Edward beat up the evil Dragon!<pause><lineend>|
-|
-|
-45|
+8|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
-|
-|
-48|
+9|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
-|
-|
-51|
+10|
 <CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
-|
-|
-54|
+11|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>Some incredible warrior came along and slew the evil Dragon just outside of town!<pause><lineend>|
-|
-|
-57|
+12|
 <CC03EA><color=0006><string=0163><lineend><color=0001>Ah, Edward! Thanks for all your help the other day.<pause><lineend>|
-|
-|
-60|
+13|
 <CC03EA><color=0006><string=0164><lineend><color=0005>If you go northwest out of town,<color=0001>you'll find a village called<color=0002> Dorangora.<color=0001><pause><lineend><CC03EA>Right now, though, it's no place to visit.<pause><lineend><CC03EA>I hear Dragons have been attacking the village left and right!<pause><lineend>|
-|
-|
-63|
+14|
 <CC03EA><color=0006><string=0012><lineend><color=0001>My cousin ought to be here any minute.<pause><lineend>|
-|
-|
-66|
+15|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
-|
-|
-69|
+16|
 <CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot. I just fed him, too!<pause><lineend>|
-|
-|
-72|
+17|
 <CC03EA><color=0006><string=000B><lineend><color=0001>A quiet life really is the best.<pause><lineend>|
-|
-|
-75|
+18|
 <CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
-|
-|

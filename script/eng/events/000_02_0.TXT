@@ -1,62 +1,30 @@
-17|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>If you ever feel lost, your Majesty, you can get your bearings by pressing the <color=0005>R button.<color=0001><pause><lineend>|
-|
-|
-20|
-<CC03EA><color=0006><string=007C><lineend><color=0001>Your Majesty, if you press the <color=0005>A button,<color=0001> you can view all the items you currently have.<pause><lineend>
-<CC03EA>Pressing the <color=0005>L button<color=0001> will bring up all of your <color=0002>stored items.<color=0001><pause><lineend>
-<CC03EA><color=0005>Press the R button while viewing your stored items,<color=0001> to <color=0002>see your Familiar's bag.<pause><lineend>|
-|
-|
-23|
+1|
+<CC03EA><color=0006><string=007C><lineend><color=0001>Your Majesty, if you press the <color=0005>A button,<color=0001> you can view all the items you currently have.<pause><lineend><CC03EA>Pressing the <color=0005>L button<color=0001> will bring up all of your <color=0002>stored items.<color=0001><pause><lineend><CC03EA><color=0005>Press the R button while viewing your stored items,<color=0001> to <color=0002>see your Familiar's bag.<pause><lineend>|
+2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
-|
-|
-26|
+3|
 <CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of "Magic Stones."<pause><lineend>|
-|
-|
-29|
+4|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
-|
-|
-32|
+5|
 <CC03EA><color=0006><string=0077><lineend><color=0001>Do you see an item you want to pick up or a treasure chest you want to open?<pause><lineend><CC03EA>Just bend down in front of it to access it.<pause><lineend><CC03EA>If there's anything here that you need, please help yourself.<pause><lineend>|
-|
-|
-35|
+6|
 <CC03EA><color=0006><string=0078><lineend><color=0001>Hello, your Majesty.<pause><lineend><CC03EA>What brings you to a place like this at such an hour? Jestonai will be upset with you.<pause><lineend><CC03EA>We'll keep it our little secret, OK?<pause><lineend>|
-|
-|
-38|
+7|
 <CC03EA><color=0006><string=0079><lineend><color=0001>Your Highness, I believe that you will one day be as great a Queen as your Mother.<pause><lineend>|
-|
-|
-41|
+8|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>When the moon is as beautiful as it is today...<pause><lineend><CC03EA>...it makes me remember your dear departed Mother and her husband, Sir Shelius.<pause><lineend><CC03EA>The moon was just like this on the night of their wedding.<pause><lineend><CC03EA>It was such a beautiful ceremony. I can still picture it now.<pause><lineend>|
-|
-|
-45|
+9|
 <CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
-|
-|
-46|
+10|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-48|
+11|
 <CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your Highness.<pause><lineend>|
-|
-|
-50|
+12|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means, but the words do convey the kindness of our Royal Family.<pause><lineend>|
-|
-|
-53|
+13|
 <CC03EA><color=0006><string=0080><lineend><color=0001>When you slam your enemies with desperation attacks, they'll drop items one after another.<pause><lineend><CC03EA>You can only hold 8 items in battle, so don't be stingy with them. When you've got it, use it!<pause><lineend>|
-|
-|
-57|
+14|
 <CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, Mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|
-|
-|

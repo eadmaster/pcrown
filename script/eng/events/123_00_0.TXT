@@ -1,32 +1,16 @@
-24|
+65536|
 <CC03EA><color=0005><string=0157><lineend><color=0001>This is it! Today I'm not going home without a Mermaid's Tear!<lineend><pause><CC03EA>All I need is that tear, and I'll get my reward from the witch!<lineend><pause>|
-|
-|
-25|
+65537|
 <CC03EA><color=0005><string=0157><lineend><color=0001>But first things first. I need to do something about Edward.<lineend><pause><CC03EA>If I use this Magic Item that the witch gave me...<lineend><pause>|
-|
-|
-37|
+65538|
 <CC03EA><CC03FC=0004><string=014F><color=0001>You called, Sir?<lineend><pause>|
-|
-|
-38|
+65539|
 <CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha! It worked!<lineend><pause><CC03EA>You're one of those monsters who can change himself to look like anybody he wants, right?<lineend><pause>|
-|
-|
-39|
+65540|
 <CC03EA><CC03FC=0004><string=014F><color=0001>That is correct.<lineend><pause>|
-|
-|
-40|
+65541|
 <CC03EA><color=0005><string=0157><lineend><color=0001>Excellent.<lineend><pause><CC03EA>I want you to make yourself look like that friend of Edward's.<lineend><pause><CC03EA>You lead him away somewhere, and I'll use the chance to nab the mermaid.<lineend><pause>|
-|
-|
-46|
+65542|
 <CC03EA><CC03FC=0004><string=014F><color=0001>How do you like it?<lineend><pause><CC03EA>I'll keep Edward distracted. If he gives me any trouble...I'll just take care of it.<lineend><pause>|
-|
-|
-47|
+65543|
 <CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha ha! That mermaid is as good as mine now!<lineend><pause>|
-|
-|

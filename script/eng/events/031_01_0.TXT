@@ -1,154 +1,74 @@
-12|
+0|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><CC03ED=00000021000103FF><color=0001>Are you...Leon?<lineend><CC03ED=00000020000103FF><pause>|
-|
-|
-13|
+1|
 <CC03EA><color=0004><string=01D9><lineend><color=0001>How do you...know my...name?<pause><lineend><CC03EA>Ah...the tavern. You must have found...that girl.<pause><lineend>|
-|
-|
-14|
+2|
 <CC03ED=0000002200010000><CC03FB=000F><CC03ED=0000008700010000><CC03FB=0014><CC03ED=0000001F00010000><CC03ED=00000020000103FF>|
-|
-|
-15|
+3|
 <CC03EA><color=0004><string=01D9><lineend><color=0001>It looks like the gods haven't forgotten me after all...<pause><lineend>|
-|
-|
-16|
+4|
 <CC03EA><color=0004><string=01D9><lineend><color=0001>Young lady, as you can see, we've been attacked by a Basilisk.<pause><lineend><CC03EA>The only way to change the townspeople back to normal is to kill that monster.<pause><lineend><CC03EA>Please, find a way to let the Queen in Valendine know what's happened here.<pause><lineend>|
-|
-|
-17|
+5|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>I can fight the Basilisk myself.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>Besides, it wouldn't be right to leave while it's still on the loose.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>I may not look like it, but I know how to use a sword.<lineend><CC03ED=00000020000103FF><pause>|
-|
-|
-18|
+6|
 <CC03EA><color=0004><string=01D9><lineend><color=0001>You're sure you want to fight it?<pause><lineend><CC03EA>...Very well.<pause><lineend><CC03EA>The Basilisk has the power to turn anything he looks at to stone.<pause><lineend><CC03EA>He's a tough match for even the strongest fighters.<pause><lineend><CC03EA>If you don't have a Mekki Scroll to counteract his magic, you'll probably lose...<pause><lineend><CC03EA>I strongly advise you to find one.<pause><lineend>|
-|
-|
-19|
+7|
 <CC03ED=0000002200010000><CC03FB=000F><CC03ED=0000008700010000><CC03FB=0014><CC03ED=0000001F00010000><CC03ED=00000020000103FF>|
-|
-|
-20|
-<CC03EA><color=0004><string=01D9><lineend><color=0001>I had one of those scrolls myself, but a Goblin snatched it away during a fight.<pause><lineend><CC03EA>Items that the Goblins steal wind up at the Goblin Market.<pause><lineend><CC03EA>If you want to get it back, you'll have to go there.<pause><lineend>
-<CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
-|
-|
-21|
+8|
+<CC03EA><color=0004><string=01D9><lineend><color=0001>I had one of those scrolls myself, but a Goblin snatched it away during a fight.<pause><lineend><CC03EA>Items that the Goblins steal wind up at the Goblin Market.<pause><lineend><CC03EA>If you want to get it back, you'll have to go there.<pause><lineend><CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
+9|
 <CC03ED=0000002200010000><CC03FB=000F><CC03ED=0000008700010000><CC03FB=0014>|
-|
-|
-30|
-<CC03EA><color=0004><string=01D9><lineend><color=0001>Did you get the Mekki Scroll back from the Goblins?<pause><lineend>
-<CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
-|
-|
-39|
+10|
+<CC03EA><color=0004><string=01D9><lineend><color=0001>Did you get the Mekki Scroll back from the Goblins?<pause><lineend><CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
+11|
 <CC03ED=00F7000500010000><CC03ED=00F70006000103FF><CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You've broken the curse of the Basilisk!<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>Thank you very much. You have truly saved us all.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-44|
-<CC03ED=00F7000500010000><CC03ED=00F70006000103FF><CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You've broken the curse of the Basilisk!<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>Thank you very much. You have truly saved us all.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-48|
+12|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>By the way, I never did ask your name, did I?<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-49|
+13|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>It's Gradriel. I'm on a journey to find out more about the world.<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-53|
+14|
 <CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Gradriel...<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-56|
+15|
 <CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>...Your Majesty, it is an honor.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-57|
+16|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>You know who I am!?<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-60|
+17|
 <CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I've gone to Valendine Castle in the past to consult your Mother.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It's quite a surprise to see you traveling the kingdom unaccompanied like this.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It reminds me of something that Queen Elfaran herself would do.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>That aside, please allow me to extend my gratitude for saving this village.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I can't offer you much, but you are welcome to stay in my home to rest.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-61|
+18|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Please do me one favor, Leon.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I'd like you not to tell anyone that I'm the Queen.<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-62|
+19|
 <CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I won't tell a soul. In fact, I'll consider it your royal command.<lineend><CC03ED=00F7000B00010000><CC03ED=00F70006000103FF><pause>|
-|
-|
-94|
+65536|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>You mentioned before that you are traveling to discover the world for yourself.<pause><lineend><CC03EA>Forgive me, but why would a Queen need to do such a thing?<pause><lineend>|
-|
-|
-98|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The day I took the crown, people from all over the kingdom came to ask me for help.<pause><lineend><CC03EA>How could I answer them when the only world I understood was the one inside the castle?<pause><lineend><CC03EA>I could never be as helpful to people as my Mother was if I were to go on living that way.<pause><lineend><CC03EA>That's why I left.<lineend><pause><CC03EA>Though I may have done the wrong thing by leaving the castle without telling anyone...<lineend><pause>|
-|
-|
-99|
+65538|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>But it was because you left the castle and came all this way that you could save us.<pause><lineend><CC03EA>I don't think there's a single person in the whole village would say you were wrong.<pause><lineend>|
-|
-|
-101|
+65539|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>In the end, there's more than one path to becoming a great Queen.<pause><lineend>|
-|
-|
-105|
+65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Leon.<pause><lineend>|
-|
-|
-106|
+65541|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>If you care to, your Highness, please use my home to rest for the night.<pause><lineend>|
-|
-|
-107|
+65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think I'll take you up on that offer. Thank you!<pause><lineend>|
-|
-|
-121|
+65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Good morning, Leon.<pause><lineend>|
-|
-|
-122|
+65544|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Will you be leaving right away, then?<pause><lineend>|
-|
-|
-124|
+65545|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's the plan.<pause><lineend>|
-|
-|
-125|
+65546|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I need to leave the village as well. This house will be empty for a while, it seems.<pause><lineend>|
-|
-|
-126|
+65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Where are you going?<pause><lineend>|
-|
-|
-128|
+65548|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>There has been a lot of monster activity throughout the kingdom recently.<pause><lineend><CC03EA>It will take some investigating to find out exactly why that is.<pause><lineend><CC03EA>Once I uncover the reason, I'll be sure to report it to the castle immediately.<pause><lineend>|
-|
-|
-130|
+65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I see.<pause><lineend>|
-|
-|
-131|
+65550|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I'll excuse myself here. Please be careful along your journey, Queen Gradriel.<pause><lineend>|
-|
-|
-133|
+65551|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I wish you safe travels as well, Leon.<pause><lineend>|
-|
-|
-135|
+65552|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Thank you, your Highness. I think you're well on your way to becoming a great Queen!<pause><lineend>|
-|
-|

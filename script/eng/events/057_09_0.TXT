@@ -1,36 +1,12 @@
-4|
+0|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome to the Goblin Shop!<pause><lineend><CC03EA>For 50G, you can have one of my Exit Scrolls!<pause><lineend><lineend>|
-|
-|
-5|
+1|
 <CC03EA><CC03FC=0004><string=012B><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
-|
-|
-7|
+2|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Come again soon!<lineend>Uwee hee hee!<pause><lineend>|
-|
-|
-14|
+3|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
-|
-|
-15|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Come again soon!<lineend>Uwee hee hee!<pause><lineend>|
-|
-|
-19|
+4|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
-|
-|
-20|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Come again soon!<lineend>Uwee hee hee!<pause><lineend>|
-|
-|
-24|
+5|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Yaa ha ha!!<pause><lineend><CC03EA>Here you are! One Exit Scroll!<pause><lineend>|
-|
-|
-25|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Come again soon!<lineend>Uwee hee hee!<pause><lineend>|
-|
-|

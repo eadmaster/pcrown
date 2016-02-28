@@ -1,56 +1,24 @@
-15|
+0|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Oh! We've been looking for you!<pause><lineend><CC03EA>You got our crew members out of one heck of a mess. Thank you so much!<pause><lineend><CC03EA>About all we can give you in return is free passage anywhere you like.<pause><lineend><CC03EA>Just tell us where, and we'll take you!<pause><lineend>|
-|
-|
-16|
+1|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you.<pause><lineend><CC03EA>In that case, I'd like to go to Arsontula, the Island of Illusion.<pause><lineend>|
-|
-|
-17|
+2|
 <CC03FA=0063000300000000000003FF000D00460000><CC03FB=0050>|
-|
-|
-18|
+3|
 <CC03EA><color=0006><string=0063><lineend><color=0001>A, A, Arsontula!?<pause><lineend>|
-|
-|
-19|
+4|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I know I'm asking a lot, but if there's any way you can do it...<pause><lineend>|
-|
-|
-20|
+5|
 <CC03FA=0063000500000000000003FF000D00780000><CC03FB=0082>|
-|
-|
-21|
+6|
 <CC03EA><color=0006><string=0063><lineend><color=0001>...All right.<pause><lineend><CC03EA>Please get yourself ready for the trip. We'll be doing the same here.<pause><lineend>|
-|
-|
-22|
+7|
 <CC03ED=0000008700010000>|
-|
-|
-31|
+8|
 <CC03EA><CC03FC=0004><string=0063><color=0001>Where will we go next?<lineend><choose>Arsontula<lineend>The Pirates Island<lineend><endchoose>|
-|
-|
-38|
+9|
+<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
+10|
+<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
+11|
 <CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll be waiting for you. Come back anytime!<pause><lineend>|
-|
-|
-41|
-<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
-|
-|
-42|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-|
-49|
-<CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
-|
-|
-50|
-<CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880000008C03FF000003FF><CC03F2=00F800010000008C03FF00000000>|
-|
-|

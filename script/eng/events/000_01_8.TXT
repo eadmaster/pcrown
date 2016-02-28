@@ -1,16 +1,8 @@
-19|
+65536|
 <CC03EA><CC03FC=0004><string=007D>Monster attack!<pause><lineend>|
-|
-|
-26|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Monsters!? How many of them!?<pause><lineend>|
-|
-|
-30|
+65538|
 <CC03EA><CC03FC=0004><string=007D>It's a lone Griffon! Now it's down at the gate!<lineend><pause>|
-|
-|
-31|
+65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A Griffon came here all by itself?<pause><lineend>|
-|
-|

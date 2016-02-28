@@ -1,228 +1,104 @@
-21|
-<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>There are goods coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend><CC03EA>...These days, though, we're getting fewer and fewer customers.<pause><lineend><CC03EA>What with earthquakes and the Demon Horde, nobody wants to even go outside.<pause><lineend>|
-|
-|
-23|
+0|
 <CC03EA><color=0006><string=005E><lineend><color=0001>Uwa ha ha! My home is truly impenetrable!<pause><lineend><CC03EA>The Donfan Bandits didn't lay a finger on any of MY stuff!<pause><lineend>|
-|
-|
-27|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I've given up on my stolen property coming back.<pause><lineend><CC03EA>Next time, I'm hiding my savings a little better!<pause><lineend><CC03EA>I put my money in Rubies before, but maybe this time I'll go with Emeralds...<pause><lineend>|
-|
-|
-29|
+1|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>There are goods coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend><CC03EA>...These days, though, we're getting fewer and fewer customers.<pause><lineend><CC03EA>What with earthquakes and the Demon Horde, nobody wants to even go outside.<pause><lineend>|
+2|
 <CC03EA><color=0006><string=000A><lineend><color=0001>The Donfan Bandits got me, too.<pause><lineend><CC03EA>All those Gems I set aside...every last one of them...gone.<pause><lineend><CC03EA>My husband has no idea I was buying them, too.<pause><lineend><CC03EA>Now I have to pretend like nothing's the matter!<pause><lineend>|
-|
-|
-33|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Hmm...<pause><lineend><CC03EA>I wonder how pretty I'll look good in one of those Dwarf-made bracelets!<pause><lineend>|
-|
-|
-39|
-<CC03EA><color=0006><string=0031><lineend><color=0001>I'm counting on you!<pause><lineend>|
-|
-|
-41|
+3|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I've given up on my stolen property coming back.<pause><lineend><CC03EA>Next time, I'm hiding my savings a little better!<pause><lineend><CC03EA>I put my money in Rubies before, but maybe this time I'll go with Emeralds...<pause><lineend>|
+4|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Where could she be?<pause><lineend><CC03EA>I sent a maid out to buy something from the Dwarf Kingdom, but she's still not back.<pause><lineend><CC03EA>You're a traveler, aren't you, miss?<pause><lineend><CC03EA>Would you mind telling her to please come home at once?<pause><lineend><CC03EA>Should you ever run across her, that is.<pause><lineend>|
-|
-|
-42|
+5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What's her name?<pause><lineend>|
-|
-|
-43|
+6|
 <CC03EA><color=0006><string=0031><lineend><color=0001>It's Jesse. She should be wearing a blue outfit.<pause><lineend>|
-|
-|
-44|
+7|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jesse...<lineend>I think I got it.<pause><lineend><CC03EA>If I see her somewhere, I'll be sure to tell her.<pause><lineend>|
-|
-|
-45|
+8|
 <CC03EA><color=0006><string=0031><lineend><color=0001>That's very kind of you! Thanks!<pause><lineend>|
-|
-|
-50|
+9|
+<CC03EA><color=0006><string=0031><lineend><color=0001>I'm counting on you!<pause><lineend>|
+10|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Thanks to you, Jesse came home! I finally got my Dwarf-made pendant, too!<pause><lineend><CC03EA>Please allow me to reward you somehow.<pause><lineend><CC03EA>Hmm. I wonder what would be best...<pause><lineend>|
-|
-|
-53|
+11|
 <CC03FA=0031000200000000000003FF000D003C0000><CC03FB=0046>|
-|
-|
-54|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Oh, I know!<pause><lineend><CC03EA>I'll ask my Father to give you access to the <color=0005>Secret Market<color=0001> from now on!<pause><lineend><CC03EA>You can find some really useful things there, so be sure to check it out!<pause><lineend><CC03EA>It's on the right side of town.<lineend>Try talking to the guard there!<pause><lineend>|
-|
-|
-57|
+12|
 <CC03FA=0031000300000000000003FF000D003C0000><CC03FB=0046>|
-|
-|
-58|
+13|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Oh, I know!<pause><lineend><CC03EA>I'll ask my Father to give you access to the <color=0005>Secret Market<color=0001> from now on!<pause><lineend><CC03EA>You can find some really useful things there, so be sure to check it out!<pause><lineend><CC03EA>It's on the right side of town.<lineend>Try talking to the guard there!<pause><lineend>|
-|
-|
-63|
-<CC03EA><color=0006><string=0059><lineend><color=0001>They're a nuisance, I tell you!<pause><lineend><CC03EA>I only wanted to go pick some Medicine Grass to lift my spirits.<pause><lineend><CC03EA>When I came to the meadow, the Goblins were there, and I had to turn around!<pause><lineend><CC03EA>A pox on those lousy Goblins!<pause><lineend>|
-|
-|
-65|
-<CC03EA><color=0006><string=0059><lineend><color=0001>Sigh...Whatever shall I do?<pause><lineend><CC03EA>I finally replenished my supply of Medicine Grass, but the thieves took every last one!<pause><lineend><CC03EA>I suppose I'll have to go find more.<pause><lineend><CC03EA>Sigh...<lineend>What a cruel world this is!<pause><lineend>|
-|
-|
-68|
-<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
-|
-|
-71|
-<CC03EA><color=0006><string=002D><lineend><color=0001>I told my friend that Goblin Juice is really delicious.<pause><lineend><CC03EA>You should have seen the face he made when he tried it!<pause><lineend>|
-|
-|
-74|
-<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
-|
-|
-78|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to budge!<pause><lineend>|
-|
-|
-81|
-<CC03ED=0004000200010000><CC03FB=0050>|
-|
-|
-82|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
-|
-|
-85|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
-|
-|
-92|
-<CC03EA><color=0006><string=0008><lineend><color=0001>Only the top Merchants have permission to go inside to Secret Market.<pause><lineend><CC03EA>Though apparently there are Warriors and other travelers who have access, too...<pause><lineend><CC03EA>How do you suppose they got the Leader to let them in?<pause><lineend>|
-|
-|
-96|
-<CC03EA><color=0006><string=005F><lineend><color=0001>The Leader told me everything. Go right on in.<pause><lineend>|
-|
-|
-99|
-<CC03EA><color=0006><string=005F><lineend><color=0001>Well well...<pause><lineend><CC03EA>A lavender-haired girl with amethyst eyes...about 13 years old...<pause><lineend><CC03EA>You must be the one who did the favor for our Leader's daughter!<pause><lineend><CC03EA>Go right ahead. The Leader himself gave you the OK.<pause><lineend>|
-|
-|
-103|
-<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
-|
-|
-106|
+14|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Hmm...<pause><lineend><CC03EA>I wonder how pretty I'll look good in one of those Dwarf-made bracelets!<pause><lineend>|
+15|
 <CC03EA><color=0006><string=0020><lineend><color=0001>Lake Titania is south of Cadho Badho.<pause><lineend>|
-|
-|
-110|
+16|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Sigh...Whatever shall I do?<pause><lineend><CC03EA>I finally replenished my supply of Medicine Grass, but the thieves took every last one!<pause><lineend><CC03EA>I suppose I'll have to go find more.<pause><lineend><CC03EA>Sigh...<lineend>What a cruel world this is!<pause><lineend>|
+17|
+<CC03EA><color=0006><string=0059><lineend><color=0001>They're a nuisance, I tell you!<pause><lineend><CC03EA>I only wanted to go pick some Medicine Grass to lift my spirits.<pause><lineend><CC03EA>When I came to the meadow, the Goblins were there, and I had to turn around!<pause><lineend><CC03EA>A pox on those lousy Goblins!<pause><lineend>|
+18|
+<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
+19|
+<CC03EA><color=0006><string=002D><lineend><color=0001>I told my friend that Goblin Juice is really delicious.<pause><lineend><CC03EA>You should have seen the face he made when he tried it!<pause><lineend>|
+20|
+<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to budge!<pause><lineend>|
+22|
+<CC03ED=0004000200010000><CC03FB=0050>|
+23|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
+24|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
+25|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Only the top Merchants have permission to go inside to Secret Market.<pause><lineend><CC03EA>Though apparently there are Warriors and other travelers who have access, too...<pause><lineend><CC03EA>How do you suppose they got the Leader to let them in?<pause><lineend>|
+26|
+<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
+27|
+<CC03EA><color=0006><string=005F><lineend><color=0001>Well well...<pause><lineend><CC03EA>A lavender-haired girl with amethyst eyes...about 13 years old...<pause><lineend><CC03EA>You must be the one who did the favor for our Leader's daughter!<pause><lineend><CC03EA>Go right ahead. The Leader himself gave you the OK.<pause><lineend>|
+28|
+<CC03EA><color=0006><string=005F><lineend><color=0001>The Leader told me everything. Go right on in.<pause><lineend>|
+29|
 <CC03EA><color=0006><string=0060><lineend><color=0001>How's business? Are you turning a profit?<pause><lineend>|
-|
-|
-116|
+30|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
-|
-|
-117|
+31|
 <CC03ED=000B004300010000><CC03ED=000B0044000103FF><CC03ED=000B0045000103FF><CC03EA><color=0006><string=000B><lineend><color=0001>Hold it a minute, son.<lineend>Did you forget about that little talk we had?<lineend><CC03ED=000B0044000103FF><pause>|
-|
-|
-120|
+32|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
-|
-|
-121|
+33|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could you forget about what I just said?<pause><lineend>|
-|
-|
-124|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
-|
-|
-126|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could you forget about what I just said?<pause><lineend>|
-|
-|
-129|
+34|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
-|
-|
-132|
+35|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Merchants' Leader runs a hidden market here.<pause><lineend>|
-|
-|
-136|
+36|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
-|
-|
-142|
+37|
 <CC03EA><CC03FC=0004><string=01A6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
-|
-|
-145|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-151|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
-|
-|
-156|
+38|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
-|
-|
-161|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-163|
+39|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
-|
-|
-171|
+40|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+41|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+42|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
-|
-|
-177|
+43|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-181|
+44|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-187|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-193|
+45|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-196|
+46|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-203|
+47|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-205|
+48|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+49|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-206|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-217|
+50|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-218|
+51|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

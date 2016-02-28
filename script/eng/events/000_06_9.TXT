@@ -1,12 +1,6 @@
-5|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>We Knight Guardsmen are the retainers of the Queen and a symbol of the kingdom.<pause><lineend><CC03EA>In order to live up to that name, we're careful to keep our skills sharp.<pause><lineend>|
-|
-|
-8|
+1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>When we know you're watching us train, we really give it everything we've got.<pause><lineend>|
-|
-|
-11|
+2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>Anyone intending to join the Knight Guard must go through the dungeon beneath that building.<pause><lineend><CC03EA>At the very bottom of it waits a Ghoul that Jestonai has summoned.<pause><lineend><CC03EA>Once a cadet has defeated the Ghoul and brought back the item it was holding...<pause><lineend><CC03EA>...he can receive the title of "Knight."<pause><lineend><CC03EA>Your Majesty, would you care to give it a try yourself?<pause><lineend>|
-|
-|

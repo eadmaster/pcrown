@@ -1,197 +1,74 @@
-13|
+0|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>I don't trust that Edward fellow one bit!<pause><lineend><CC03EA>Right now he says he's here to help slay Dragons...<pause><lineend><CC03EA>Next thing you know, his evil blood will kick in and he'll stab us all in the back!<pause><lineend><CC03EA>We all better keep an eye on that guy.<pause><lineend>|
-|
-|
-17|
+1|
 <CC03EA><color=0006><string=004F><lineend><color=0001>Who in their right mind ever said a Dragon is like a big lizard!?<pause><lineend><CC03EA>I never met a lizard that could turn you into a pile of cinders with its breath!<pause><lineend><CC03EA>They'd be holding my funeral now if I hadn't been wearing my Freeze Ring.<pause><lineend>|
-|
-|
-20|
-<CC03EA><color=0006><string=004F><lineend><color=0001>What? You don't know what a Freeze Ring is?<pause><lineend>
-<CC03EA><color=0001>It guards against fire. In between <color=0005>Nutsbill and Dorangora<color=0001> is a path that leads north to a <color=0003>shop run by a witch.<color=0001><pause><lineend><CC03EA>You can buy one there. Just look for an opening in the rocks as you go.<pause><lineend><CC03EA>Why are you asking me about this, anyway?<pause><lineend><CC03EA>Don't tell me you plan on fighting the Dragons, too!?<pause><lineend><CC03EA>Wah ha ha ha! That's rich!<pause><lineend><CC03EA>Little girl, you couldn't even fight a Dodo!<pause><lineend>|
-|
-|
-25|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Take it easy!<pause><lineend>|
-|
-|
-33|
+2|
+<CC03EA><color=0006><string=004F><lineend><color=0001>What? You don't know what a Freeze Ring is?<pause><lineend><CC03EA><color=0001>It guards against fire. In between <color=0005>Nutsbill and Dorangora<color=0001> is a path that leads north to a <color=0003>shop run by a witch.<color=0001><pause><lineend><CC03EA>You can buy one there. Just look for an opening in the rocks as you go.<pause><lineend><CC03EA>Why are you asking me about this, anyway?<pause><lineend><CC03EA>Don't tell me you plan on fighting the Dragons, too!?<pause><lineend><CC03EA>Wah ha ha ha! That's rich!<pause><lineend><CC03EA>Little girl, you couldn't even fight a Dodo!<pause><lineend>|
+3|
 <CC03EA><color=0004><string=0185><lineend><color=0001>Hey! I remember you!!<lineend>...<pause><lineend><CC03EA>...<lineend>Er...What was your name?<pause><lineend>|
-|
-|
-34|
+4|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It's Gradriel.<pause><lineend>|
-|
-|
-35|
+5|
 <CC03EA><color=0004><string=0185><lineend><color=0001>Oh yeah, that was it. Gradriel.<pause><lineend><CC03EA>Anyway, what are you doing here? You aren't after me again, are you?<pause><lineend>|
-|
-|
-36|
+6|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Not this time, no.<pause><lineend><CC03EA>I'm here to slay the Dragons attacking the village.<pause><lineend>|
-|
-|
-37|
+7|
 <CC03EA><color=0004><string=0185><lineend><color=0001>Good!<pause><lineend><CC03EA>I was afraid you were here to mess up my plans again.<pause><lineend>|
-|
-|
-38|
+8|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>I don't suppose you're up to any mischief, are you?<pause><lineend>|
-|
-|
-39|
+9|
 <CC03EA><color=0004><string=0185><lineend><color=0001>Hmm...Heh heh heh!<pause><lineend><CC03EA>Uh...<lineend>Of course not!<pause><lineend>|
-|
-|
-40|
+10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>If you say so, then I guess everything is fine...<pause><lineend>|
-|
-|
-41|
+11|
 <CC03EA><color=0004><string=0185><lineend><color=0001>Well then, I better get going!<pause><lineend>|
-|
-|
-42|
+12|
 <CC03EA><color=0004><string=0185><lineend><color=0001>See you 'round, Gradriel!<pause><lineend><CC03EA>I'll keep my fingers crossed that the Dragons don't have you for lunch.<pause><lineend><CC03EA>After all, I still owe you one from last time!<pause><lineend>|
-|
-|
-43|
+13|
 <CC03ED=0185001400010000><CC03F2=018500100001000F03FF00000000>|
-|
-|
-49|
+14|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Take it easy!<pause><lineend>|
+15|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>If you're going to be fighting Dragons, you better get your strength up first!<pause><lineend><CC03EA>Now, what'll it be?<pause><lineend>|
-|
-|
-50|
+16|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-52|
+17|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-60|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
-|
-|
-68|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select a Food to use.<pause><lineend>|
-|
-|
-72|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
-|
-|
-74|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-76|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-83|
-<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>It's 30G. Is that all right?<pause><lineend>|
-|
-|
-91|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-93|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-97|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
-|
-|
-98|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-100|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
-|
-|
-101|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-106|
+18|
 <CC03EA><CC03FC=0004><string=01AA><color=0001>Our Local Delicacy is oven-made Grilled Steak.<pause><lineend><CC03EA>The outside has a well-done savoriness, but the inside is nice and juicy.<pause><lineend><CC03EA>The garlic gives it a nice touch, too.<pause><lineend><CC03EA>A couple bites of it, and those Dragons won't be scary at all!<pause><lineend><CC03EA>It costs 52G.<lineend>Want one?<pause><lineend>|
-|
-|
-107|
+19|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-109|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-113|
+20|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
-|
-|
-114|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-118|
+21|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any more, can you? Come see me when you can.<pause><lineend>|
-|
-|
-119|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-123|
+22|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
-|
-|
-124|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-130|
+23|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select a Food to use.<pause><lineend>|
+24|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
+25|
+<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>It's 30G. Is that all right?<pause><lineend>|
+26|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+27|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
+28|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-134|
+29|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-140|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-146|
+30|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-149|
+31|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-156|
+32|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-158|
+33|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+34|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-159|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-170|
+35|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-171|
+36|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

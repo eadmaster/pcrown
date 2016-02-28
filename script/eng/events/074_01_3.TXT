@@ -1,20 +1,20 @@
-27|
+0|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Portgus?<pause><lineend>|
-|
-|
-28|
+1|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Hey! There you are. How are King Volga and his crown doing?<pause><lineend>|
-|
-|
-31|
+2|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Grandpa's crown was stolen.<pause><lineend><CC03EA>They'll be coming after mine next.<pause><lineend><CC03EA>Let's head back. I don't want the people of Volga tangled up in this mess any further.<pause><lineend>|
-|
-|
-32|
+3|
 <CC03EA><color=0004><string=0179><lineend><color=0001>I don't know who this Leon guy is, but he must be one heck of a thief...<pause><lineend><CC03EA>Anyway, let's get back to Leeland.<pause><lineend>|
-|
-|
-34|
+4|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<pause><lineend>|
-|
-|
+65536|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Portgus?<pause><lineend>|
+65537|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Hey! There you are. How are King Volga and his crown doing?<pause><lineend>|
+65538|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Grandpa's crown was stolen.<pause><lineend><CC03EA>They'll be coming after mine next.<pause><lineend><CC03EA>Let's head back. I don't want the people of Volga tangled up in this mess any further.<pause><lineend>|
+65539|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I don't know who this Leon guy is, but he must be one heck of a thief...<pause><lineend><CC03EA>Anyway, let's get back to Leeland.<pause><lineend>|
+65540|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<pause><lineend>|

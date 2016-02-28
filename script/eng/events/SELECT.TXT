@@ -1,160 +1,62 @@
-13|
+0|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Welcome, my dear.<pause><lineend><CC03EA>Which story shall we read tonight?<pause><lineend>|
-|
-|
-15|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures live on today in the stories that the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good Queen?<pause><lineend><CC03EA>Why yes, she went on to become an even greater Queen than her Mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
-|
-|
-17|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edwards travels didn't end there, but for this book, that's all.<pause><lineend>|
-|
-|
-18|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a member of the Guard?<pause><lineend><CC03EA>I'm afraid you'll have to wait until next time to find out! Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
-|
-|
-20|
-<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so, finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun story?<pause><lineend><CC03EA>Proserpina went on to cause Queen Gradriel all kinds of trouble in the years to come.<pause><lineend><CC03EA>In the end, though, she became a wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
-|
-|
-22|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Portgus kept the treasure with him for the rest of his life.<pause><lineend><CC03EA>...The End.<lineend>How did you like this one?<pause><lineend><CC03EA>What's that?<lineend>It made you a little sad?<pause><lineend><CC03EA>Don't worry, my dear. Portgus returned to the seas, where he lived a happy life.<pause><lineend><CC03EA>Together with Faris's jewel, that is.<pause><lineend>|
-|
-|
-23|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Well then, are there any other books you would like me to read you?<pause><lineend>|
-|
-|
-25|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, ever-lasting peace fell over the whole kingdom.<pause><lineend><CC03EA>...and now, we've finished all the stories.<pause><lineend>|
-|
-|
-26|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandMother would read these to me again and again. <pause><lineend><CC03EA>Your great-grandMother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
-|
-|
-27|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was Tabitha.<pause><lineend>|
-|
-|
-28|
-<CC03ED=01720000000103FF>|
-|
-|
-37|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Books can be heavy! Bend down to pick them up.<pause><lineend>|
-|
-|
-40|
+1|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Go and pick a book for me to read you.<pause><lineend>|
-|
-|
-58|
+2|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Books can be heavy! Bend down to pick them up.<pause><lineend>|
+3|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "Princess Crown."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
-|
-|
-59|
-<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-64|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This is the only book we have at the moment.<pause><lineend>|
-|
-|
-66|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-71|
+4|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Demon Sword."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
-|
-|
-72|
-<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-76|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-81|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Magic Potion."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
-|
-|
-82|
-<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-86|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-91|
+5|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Lost Treasure."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
-|
-|
-92|
-<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-96|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-101|
+6|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Magic Potion."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
+7|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This book is the very last one.<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
-|
-|
-102|
+8|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-106|
+9|
+<CC03EA><CC03FC=0004><string=0172><color=0001><choose>‚Í‚¶‚ß‚©‚ç<lineend>‚Â‚Ã‚«‚©‚ç<lineend><endchoose>|
+10|
 <CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-113|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This is the only book we have at the moment.<pause><lineend>|
-|
-|
-115|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
-|
-|
-125|
+11|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Let's change the game settings.<pause><lineend>|
-|
-|
-130|
+12|
 <CC03EA><CC03FC=0004><string=0172><color=0001>It's getting late. Make sure you keep the volume down!<lineend><choose>Stereo<lineend>Mono<lineend><endchoose>|
-|
-|
-136|
+13|
 <CC03EA><CC03FC=0004><string=0172><color=0001>How fast should I read?<lineend><choose>Fast<lineend>Normal<lineend>Slow<lineend><endchoose>|
-|
-|
-147|
+14|
 <CC03EA><CC03FC=0004><string=0172><color=0001>The story begins long before the Princess was born...<pause><lineend>|
-|
-|
-149|
+15|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Which one did you get? Ah, this one is a bit of a boy's story...<pause><lineend>|
-|
-|
-151|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This one is about a tomboy witch...<pause><lineend>|
-|
-|
-153|
+16|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This is a story about a pirate!<pause><lineend><CC03EA>But he's not a bad pirate. Just listen, and you'll see...<pause><lineend>|
-|
-|
-155|
+17|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This one is about a tomboy witch...<pause><lineend>|
+18|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This one is called "The Last Story."<pause><lineend><CC03EA>Let's begin...<pause><lineend>|
-|
-|
-158|
+19|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Ah yes, here is where we left off...<pause><lineend>|
-|
-|
+20|
+<CC03ED=01720000000103FF>|
+21|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This is the only book we have at the moment.<pause><lineend>|
+22|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures live on today in the stories that the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good Queen?<pause><lineend><CC03EA>Why yes, she went on to become an even greater Queen than her Mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+23|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edwards travels didn't end there, but for this book, that's all.<pause><lineend>|
+24|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a member of the Guard?<pause><lineend><CC03EA>I'm afraid you'll have to wait until next time to find out! Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+25|
+<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so, finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun story?<pause><lineend><CC03EA>Proserpina went on to cause Queen Gradriel all kinds of trouble in the years to come.<pause><lineend><CC03EA>In the end, though, she became a wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+26|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Portgus kept the treasure with him for the rest of his life.<pause><lineend><CC03EA>...The End.<lineend>How did you like this one?<pause><lineend><CC03EA>What's that?<lineend>It made you a little sad?<pause><lineend><CC03EA>Don't worry, my dear. Portgus returned to the seas, where he lived a happy life.<pause><lineend><CC03EA>Together with Faris's jewel, that is.<pause><lineend>|
+27|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Well then, are there any other books you would like me to read you?<pause><lineend>|
+28|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, ever-lasting peace fell over the whole kingdom.<pause><lineend><CC03EA>...and now, we've finished all the stories.<pause><lineend>|
+29|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandMother would read these to me again and again. <pause><lineend><CC03EA>Your great-grandMother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
+30|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was Tabitha.<pause><lineend>|

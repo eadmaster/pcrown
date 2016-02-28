@@ -1,36 +1,18 @@
-64|
+65536|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Filthy monster!<pause><lineend>|
-|
-|
-78|
+65537|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Are you hurt?<pause><lineend>|
-|
-|
-80|
+65538|
 <CC03EA><color=0006><string=007D><lineend><color=0001>I'll be fine. Thank you, Sir.<pause><lineend>|
-|
-|
-85|
+65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, are you all right?<pause><lineend>|
-|
-|
-86|
+65540|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness! You've come back! We've been so worried about you.<pause><lineend>|
-|
-|
-87|
+65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Princess Eriel is all right.<pause><lineend>|
-|
-|
-88|
+65542|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Sidrael is still in her room on the 4th floor.<pause><lineend>|
-|
-|
-91|
+65543|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Here come some more! The nerve of these monsters!<pause><lineend>|
-|
-|
-97|
+65544|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Please leave this to me. Go get Princess Sidrael and hide!<pause><lineend>|
-|
-|

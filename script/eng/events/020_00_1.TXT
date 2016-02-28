@@ -1,16 +1,8 @@
-10|
+0|
 <CC03ED=01470002000103FF><CC03FB=005A><CC03F1=0147>|
-|
-|
-11|
+1|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You must be the Poltergeist that Father Etherson was talking about!<pause><lineend>|
-|
-|
-40|
+65536|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>Ha ha ha! Don't worry, I won't hurt you!<pause><lineend>|
-|
-|
-43|
+65537|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>I want to thank you for putting an end to that hooligan.<pause><lineend><CC03EA>I went out for a little walk when that Poltergeist came and cast a spell on me.<pause><lineend><CC03EA>l couldn't control my own body! But now, thanks to you, I can get back to my tavern.<pause><lineend><CC03EA>It's called the <color=0003>Pumpkin House,<color=0001> by the way. Stop by anytime you like!<pause><lineend><CC03EA>Hee hee hee!<pause><lineend>|
-|
-|

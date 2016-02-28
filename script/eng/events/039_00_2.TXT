@@ -1,77 +1,36 @@
-17|
+0|
 <CC03EA><color=0006><string=003B><lineend><color=0001>I saw flames rising from Valendine Castle!<pause><lineend>|
-|
-|
-20|
+1|
 <CC03EA><color=0006><string=0033><lineend><color=0001>I won't let any lousy Demons ruin our honeymoon!<pause><lineend>|
-|
-|
-23|
+2|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Whatever you say, honey.<pause><lineend><CC03EA>I'm sure you'll protect me from whatever monsters show up!<pause><lineend>|
-|
-|
-26|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend>
-<CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
-|
-|
-29|
+3|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
+4|
 <CC03EA><color=0004><string=0177><lineend><color=0001>Ah! Gradriel!<pause><lineend><CC03EA>Let me take you out on my ship! The best pirate ship in the world, that is!<pause><lineend><CC03ED=0177001200010000>|
-|
-|
-32|
+5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>I wonder if we'll have another war with the Demon Horde.<pause><lineend>|
-|
-|
-35|
+6|
 <CC03EA><color=0006><string=003C><lineend><color=0001>There may be trouble in the air, but that's no reason to sit around worrying all day.<pause><lineend><CC03EA>It's times like these that you really have to show good cheer.<pause><lineend>|
-|
-|
-38|
+7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of town that nobody's lived in for 20 years.<pause><lineend><CC03EA>Apparently the place is overrun with ghosts, and nobody goes in for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion, though. It must be worth a fortune!<pause><lineend><CC03EA>There's just nobody who wants to buy it.<pause><lineend>|
-|
-|
-41|
+8|
 <CC03EA><color=0006><string=000F><lineend><color=0001>Pirates are scary, but Demons are scarier!<pause><lineend>|
-|
-|
-44|
+9|
 <CC03EA><color=0006><string=003D><lineend><color=0001>It sounds crazy, but even the color of the ocean isn't quite right these days.<pause><lineend>|
-|
-|
-47|
+10|
 <CC03EA><color=0006><string=001D><lineend><color=0001>If there's ever a fight between a Demon and Portgus, my money's on Portgus!<pause><lineend>|
-|
-|
-51|
+11|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
-|
-|
-57|
+12|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
-|
-|
-60|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-66|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
-|
-|
-71|
+13|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
-|
-|
-76|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-78|
+14|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
-|
-|
-86|
+15|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+17|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
-|
-|

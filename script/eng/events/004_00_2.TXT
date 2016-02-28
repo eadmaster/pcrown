@@ -1,228 +1,86 @@
-19|
+0|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The fairies actually came out of the forest to protect the village.<pause><lineend>|
-|
-|
-22|
+1|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I'm going to tell Nilus not to go so far away anymore.<pause><lineend><CC03EA>It's for his own good, after all.<lineend><pause>|
-|
-|
-25|
+2|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Tabitha and I are best friends. We play together all the time!<pause><lineend>|
-|
-|
-28|
+3|
 <CC03EA><color=0006><string=0012><lineend><color=0001>It's really nice to be surrounded by my family.<pause><lineend>|
-|
-|
-31|
+4|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The ducks are doing fine, as usual.<pause><lineend>|
-|
-|
-34|
+5|
 <CC03EA><color=0006><string=00CC><lineend><color=0001>Quack! Quack!<pause><lineend>|
-|
-|
-37|
+6|
 <CC03EA><color=0006><string=00CD><lineend><color=0001>Quack!<pause><lineend>|
-|
-|
-40|
+7|
 <CC03EA><color=0006><string=00CE><lineend><color=0001>Quack caw caw!<pause><lineend>|
-|
-|
-43|
+8|
 <CC03EA><color=0006><string=018A><lineend><color=0001>Cheep cheep!<pause><lineend>|
-|
-|
-46|
+9|
 <CC03EA><color=0006><string=018B><lineend><color=0001>Cheep!!<pause><lineend>|
-|
-|
-57|
+10|
 <CC03EA><color=0006><string=0166><lineend><color=0001>Aria! Long time, no see.<pause><lineend><CC03EA>Just leave it to us to look after Nutsbill.<pause><lineend><CC03EA>We'll keep everyone safe!<pause><lineend>|
-|
-|
-64|
-<CC03EA><color=0006><string=0166><lineend><color=0001>Aria! Long time, no see.<pause><lineend><CC03EA>Just leave it to us to look after Nutsbill.<pause><lineend><CC03EA>We'll keep everyone safe!<pause><lineend>|
-|
-|
-67|
+11|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Hey! You came!<pause><lineend><CC03EA>We can go back to playing with Nilus every day, and it's all thanks to you!<pause><lineend>|
-|
-|
-71|
+12|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the Nutsbill Bakery. What can I get for you?<pause><lineend>|
-|
-|
-72|
+13|
 <CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-74|
+14|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-82|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't cook that!<pause><lineend>|
-|
-|
-90|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to grill something for you. Please select a Food to use.<pause><lineend>|
-|
-|
-94|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't cook that!<pause><lineend>|
-|
-|
-96|
-<CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-98|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-105|
-<CC03EA><color=0006><string=01AE><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
-|
-|
-113|
-<CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-115|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-119|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't quite have enough.<pause><lineend>|
-|
-|
-120|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-122|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Here you are!<pause><lineend>|
-|
-|
-123|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-128|
+15|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Our Local Delicacy is Fruit Cake.<pause><lineend><CC03EA>The fruit's been steeped in brandy, so it should be quite tasty.<pause><lineend><CC03EA>One is 16G.<lineend>How about it?<pause><lineend>|
-|
-|
-129|
+16|
 <CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-131|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-135|
+17|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't quite have enough.<pause><lineend>|
-|
-|
-136|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-140|
+18|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>You can't carry any more, can you? Come see me when you can.<pause><lineend>|
-|
-|
-141|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-145|
+19|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Here you are!<pause><lineend>|
-|
-|
-146|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
-|
-|
-150|
+20|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to grill something for you. Please select a Food to use.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't cook that!<pause><lineend>|
+22|
+<CC03EA><color=0006><string=01AE><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
+23|
+<CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+24|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't quite have enough.<pause><lineend>|
+25|
 <CC03EA><color=0006><string=00E8><lineend><color=0001>Even if monsters do come and attack the village...<pause><lineend><CC03EA>...the fairies and everyone else will come together and protect it!<pause><lineend>|
-|
-|
-153|
+26|
 <CC03EA><color=0006><string=0167><lineend><color=0001>There are a lot of monsters around these days.<pause><lineend><CC03EA>I've been talking with the mayor about how to keep the village safe from them.<pause><lineend>|
-|
-|
-157|
+27|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
-|
-|
-163|
+28|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
-|
-|
-166|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-172|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
-|
-|
-177|
+29|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
-|
-|
-182|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
-|
-|
-184|
+30|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
-|
-|
-192|
+31|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+32|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+33|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those, I'm afraid.<pause><lineend>|
-|
-|
-198|
+34|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-202|
+35|
 <CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
-|
-|
-208|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-214|
+36|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you can't quite afford it. Come back anytime.<pause><lineend>|
-|
-|
-217|
+37|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then. Enjoy your stay.<pause><lineend>|
-|
-|
-224|
+38|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-226|
+39|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+40|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-227|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-238|
+41|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-239|
+42|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

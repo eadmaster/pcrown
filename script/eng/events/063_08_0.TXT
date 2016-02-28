@@ -1,4 +1,2 @@
-3|
+0|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Kingdom, and you'll quickly find where the Land Stone is.<pause><lineend>|
-|
-|

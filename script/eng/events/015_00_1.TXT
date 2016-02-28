@@ -1,172 +1,146 @@
-27|
+0|
 <CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat up that Dragon!<lineend><CC03ED=00350002000103FF><pause>|
-|
-|
-28|
+1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
-|
-|
-105|
+2|
+<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>おかあさん！<lineend><CC03ED=00350002000103FF><pause>|
+3|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>あぁ、マリー<lineend>よく無事で・・・<lineend><CC03ED=000A0017000103FF><pause>|
+4|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>うん。<lineend>あのお姉ちゃんに助けてもらったんだ。<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
+5|
+<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>おじょうさん。<lineend><pause><CC03EA>娘を助けて下さって<lineend>ありがとうございました。<lineend><pause>|
+6|
+<CC03ED=0000009500010000><CC03ED=0000009800010000>|
+7|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>エドワード様も・・・<lineend><pause><CC03EA>ここまでついてきて下さって<lineend>ありがとうございました。<lineend><pause>|
+8|
+<CC03EA><color=0004><string=016C><lineend><color=0001>・・・あんまりのんびりしていると<lineend>別のドラゴンが来るぞ。<pause><lineend>|
+9|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>さあ、ちゃんとついていらっしゃい。<lineend><pause>|
+10|
+<CC03ED=0035000500010000><CC03ED=00350003000103FF><CC03EA><CC03FC=0004><string=0035>お姉ちゃん、ありがとー！<lineend><CC03ED=0035000400010000><CC03ED=000000B200010000><pause>|
+11|
+<CC03EA><color=0004><string=016C><lineend><color=0001>ずいぶんと無茶をするな・・・<lineend><pause>|
+12|
+<CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>すみません。<lineend><pause>|
+13|
+<CC03EA><color=0004><string=016C><lineend><color=0001>・・・だが、見直したぞ。<lineend>その剣でドラゴンを一匹しとめるとは。<pause><lineend>|
+14|
+<CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>まだ名前を聞いていなかったな。<lineend><pause>|
+15|
+<CC03EA><color=0002><string=0000><lineend><color=0001>・・・グラドリエルといいます。<pause><lineend><CC03EA>あなたがグロースター家の<lineend>エドワード様ですね・・・<pause><lineend><CC03EA>先ほどはありがとう<lineend>ございました。<pause><lineend>|
+16|
+<CC03EA><color=0004><string=016C><lineend><color=0001>ふん・・・魔人ゴルゴダの息子は<lineend>どこへ行っても有名人だな・・・<pause><lineend><CC03EA>騎士団が来たからと言って<lineend>この村が危険な事にかわりはない<pause><lineend><CC03EA>グラドリエル、お前も<lineend>はやく村から避難した方がいい。<pause><lineend>|
+17|
+<CC03EA><color=0001>一方その頃、ヴァレナディン城では・・・<pause><lineend>|
+65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What the...<pause><lineend>|
-|
-|
-106|
+65537|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>A Dragon attack!<pause><lineend>|
-|
-|
-119|
+65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I hear crying...<lineend>Someone's there!<pause><lineend>|
-|
-|
-120|
+65539|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>It's coming from over that way.<pause><lineend>|
-|
-|
-133|
+65540|
 <CC03EA><CC03FC=0004><string=0035>Mommy! I want my Mommy!<pause><lineend>|
-|
-|
-143|
+65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>It's dangerous here! Let's go find where it's safe, OK?<pause><lineend><CC03EA>It will be all right. I'm sure your Mother is close by.<pause><lineend>|
-|
-|
-159|
+65542|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>This one's been wounded! Looks like he's pretty mad, too!<pause><lineend>|
-|
-|
-162|
+65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run away! It's too dangerous!<pause><lineend>|
-|
-|
-198|
+131072|
 <CC03EA><CC03FC=0004><string=007D>We took too long to get here...<pause><lineend><CC03EA>There may still be Dragons in the area. Move out and protect the village!<pause><lineend>|
-|
-|
-227|
+131073|
 <CC03EA><CC03FC=0004><string=007D>Playtime is over for those Dragons now that we're here!<pause><lineend>|
-|
-|
-264|
-<CC03EA><CC03FC=0004><string=007D>We took too long to get here...<pause><lineend><CC03EA>There may still be Dragons in the area. Move out and protect the village!<pause><lineend>|
-|
-|
-283|
+196608|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her Majesty is safe...<pause><lineend>|
-|
-|
-284|
+196609|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she was going to "see the kingdom."<pause><lineend>|
-|
-|
-285|
+196610|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, and I'm afraid she may have headed toward Dorangora.<pause><lineend><CC03EA>The Dragon Suppression Squad has special orders to search for her there.<pause><lineend>|
-|
-|
-288|
+196611|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Thank you, Jestonai. I'm sorry for all the trouble we put you through.<pause><lineend><CC03EA>Sidrael and I are unable to succeed the throne...<pause><lineend><CC03EA>...because the law says that twins will divide the kingdom.<pause><lineend><CC03EA>Instead the crown fell to our little sister, who is only thirteen.<pause><lineend><CC03EA>Please look after her, Jestonai.<pause><lineend><CC03EA>She'll need your help until she can be a good Queen...<pause><lineend>|
-|
-|
-291|
+196612|
 <CC03EA><color=0004><string=0129><lineend><color=0001>I'll do my best to tend to her responsibilities while she is gone.<pause><lineend><CC03EA>I know what a burden it is, but I'll ask you to continue overseeing her civic duties.<pause><lineend>|
-|
-|
-292|
+196613|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I'll gladly do anything I can.<pause><lineend>|
-|
-|
-294|
+196614|
 <CC03EA><CC03FC=0004><string=007D>Pardon the intrusion, Lord Jestonai.<pause><lineend>|
-|
-|
-306|
+196615|
 <CC03EA><CC03FC=0004><string=007D>It's time. Please follow me into the hallway.<pause><lineend>|
-|
-|
-309|
+196616|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going, then.<pause><lineend>|
-|
-|
-312|
+196617|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Princess Eriel, do remember to rest from time to time.<pause><lineend><CC03EA>Remember, all things in moderation.<pause><lineend>|
-|
-|
-313|
+196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Thank you.<pause><lineend>|
-|
-|
-327|
+196619|
 <CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=0129000B000103FF>...Oh, Gradriel...<lineend><CC03ED=0129000A000103FF><pause><CC03EA><CC03ED=0129000B000103FF>If only I were Queen...I would never put anyone through any of this.<lineend><CC03ED=0129000A000103FF><pause>|
-|
-|
-339|
+196620|
 <CC03EA><color=0004><string=0129><lineend><color=0001>What was that?<pause><lineend>|
-|
-|
-350|
+196621|
 <CC03EA><color=0004><string=0129><lineend><color=0001>A hidden room? What's this doing here?<pause><lineend>|
-|
-|
-367|
+262144|
 <CC03EA><CC03FC=0004><string=010D>What a nice surprise!<pause><lineend><CC03EA>It's been so long since I had company...<pause><lineend><CC03EA>...and for it to be none other than a princess!<pause><lineend>|
-|
-|
-374|
+262145|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Did you just talk to me!?<pause><lineend>|
-|
-|
-375|
+262146|
 <CC03EA><CC03FC=0004><string=010D>Please excuse me.<pause><lineend>|
-|
-|
-376|
+262147|
 <CC03EA><CC03FC=0004><string=010D><color=0001>My name is Larva. I am a holy book, created to keep the world safe.<pause><lineend><CC03EA>I know of a magic power hidden far from the Demon King.<pause><lineend><CC03EA>I know of worlds kept secret from humans.<pause><lineend><CC03EA>This kingdom's past and its future...the fate of the stars...<pause><lineend><CC03EA>I once tried to pass on my knowledge for the good of mankind...<pause><lineend><CC03EA>...but a foolish Wizard has trapped me and left me as you see me now.<pause><lineend><CC03EA>Take me into your hands and release me.<pause><lineend><CC03EA>Do this, sweet princess, and I shall entrust you with all that I know.<pause><lineend>|
-|
-|
-377|
+262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No...I can't...<pause><lineend>|
-|
-|
-378|
+262149|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Just imagine it, Princess...<pause><lineend><CC03EA>You'll be stronger than any Wizard and wiser than any sage.<pause><lineend>|
-|
-|
-379|
+262150|
 <CC03EA><color=0004><string=0129><lineend><color=0001>I can't...<pause><lineend>|
-|
-|
-382|
+262151|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Something tells me your real desire is to hurt our kingdom, not help it.<pause><lineend>|
-|
-|
-383|
+262152|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Knowledge only appears sinister to those who lack it.<pause><lineend><CC03EA>Whether harm really comes from my knowledge will depend on none other than you, Princess.<pause><lineend>|
-|
-|
-386|
+262153|
 <CC03EA><color=0004><string=0129><lineend><color=0001>But...But...<pause><lineend>|
-|
-|
-387|
+262154|
 <CC03EA><color=0005><string=010D><lineend><color=0001>My knowledge can bring an end to the suffering of all people.<pause><lineend>|
-|
-|
-389|
+262155|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Can it cure Sidrael's illness?<pause><lineend>|
-|
-|
-390|
+262156|
 <CC03EA><color=0005><string=010D><lineend><color=0001>...Of course it can.<pause><lineend>|
-|
-|
-391|
+262157|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Now take me in your hands...For your dear sister's sake...<pause><lineend>|
-|
-|
-394|
+262158|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Everything shall begin with a turn of my page...<pause><lineend>|
-|
-|
-396|
+262159|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Come...<pause><lineend>|
-|
-|
+327680|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>おかあさん！<lineend><CC03ED=00350002000103FF><pause>|
+327681|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>あぁ、マリー<lineend>よく無事で・・・<lineend><CC03ED=000A0017000103FF><pause>|
+327682|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>うん。<lineend>あのお姉ちゃんに助けてもらったんだ。<lineend><CC03ED=00350002000103FF><pause>|
+327683|
+<CC03EA><CC03FC=0004><string=000A>おじょうさん。<lineend><pause><CC03EA>娘を助けて下さって<lineend>ありがとうございました。<lineend><pause>|
+327684|
+<CC03EA><CC03FC=0004><string=000A>エドワード様も・・・<lineend><pause><CC03EA>ここまでついてきて下さって<lineend>ありがとうございました。<pause><lineend>|
+327685|
+<CC03EA><color=0004><string=016E><lineend><color=0001>・・・あんまりのんびりしていると<lineend>別のドラゴンが来るぞ。<pause><lineend>|
+327686|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>さあ、ちゃんとついていらっしゃい。<lineend><CC03ED=000A0017000103FF><pause>|
+327687|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>お姉ちゃん、ありがとー！<lineend><CC03ED=00350002000103FF><pause>|
+327688|
+<CC03EA><color=0004><string=016E><lineend><color=0001>ずいぶんと無茶をするな・・・<lineend><pause>|
+327689|
+<CC03EA><color=0002><string=0000><lineend><color=0001>すみません。<lineend><pause>|
+327690|
+<CC03EA><color=0004><string=016E><lineend><color=0001>・・・だが、見直したぞ。<lineend>その剣でドラゴンを一匹しとめるとは。<pause><lineend>|
+327691|
+<CC03EA><color=0004><string=016E><lineend><color=0001>まだ名前を聞いていなかったな。<pause><lineend>|
+327692|
+<CC03EA><color=0002><string=0000><lineend><color=0001>・・・グラドリエルといいます。<pause><lineend><CC03EA>あなたがグロースター家の<lineend>エドワード様ですね・・・<pause><lineend><CC03EA>先ほどはありがとう<lineend>ございました。<pause><lineend>|
+327693|
+<CC03EA><color=0004><string=016E><lineend><color=0001>ふん・・・魔人ゴルゴダの息子は<lineend>どこへ行っても有名人だな・・・<pause><lineend><CC03EA>騎士団が来たからと言って<lineend>この村が危険な事にかわりはない<pause><lineend><CC03EA>グラドリエル、お前も<lineend>はやく村から避難した方がいい。<pause><lineend>|
+327694|
+<CC03EA><color=0001>一方その頃、ヴァレナディン城では・・・<pause><lineend>|

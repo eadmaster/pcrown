@@ -1,132 +1,72 @@
-30|
+0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
-|
-|
-31|
+1|
 <CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<lineend><CC03F1=0011><pause>|
-|
-|
-34|
+2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>There's a beautiful lake to the west of town called <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>I wouldn't get too close to it, though.<pause><lineend><CC03EA>A wicked mermaid has turned up there. She controls monsters with magic to attack people.<pause><lineend>|
-|
-|
-37|
+3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat reward for whoever captures the evil Siren living there.<pause><lineend>|
-|
-|
-41|
+4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-44|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
-|
-|
-46|
+5|
 <CC03EA><color=0006><string=002D><lineend><color=0001>What? What is it?<pause><lineend><CC03EA>You keep walking up and glaring at people.<pause><lineend><CC03EA>What's the big idea?<pause><lineend>|
-|
-|
-47|
+6|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
-|
-|
-48|
+7|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone else...<pause><lineend>|
-|
-|
-51|
+8|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
-|
-|
-55|
+9|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
-|
-|
-58|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
-|
-|
-60|
+10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>What are you looking at!?<lineend>Do you have a problem or something?<pause><lineend>|
-|
-|
-61|
+11|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
-|
-|
-62|
+12|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone else...<pause><lineend>|
-|
-|
-66|
+13|
 <CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors' Leader.<pause><lineend>|
-|
-|
-69|
+14|
 <CC03EA><color=0006><string=0036><lineend><color=0001>It was amazing!<pause><lineend><CC03EA>I saw this lanky old guy with a beard cover himself in smoke and transform!<pause><lineend><CC03EA>After that, he wandered off toward the tavern.<pause><lineend>|
-|
-|
-72|
-<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors' Leader.<pause><lineend>|
-|
-|
-75|
+15|
 <CC03EA><color=0004><string=015C><lineend><color=0001>Sir Edward told us the mermaid in Lake Titania doesn't attack humans.<pause><lineend><CC03EA>I've started telling that to people here, but what about the other areas?<pause><lineend><CC03EA>Somebody ought to let the Merchants' Leader know.<pause><lineend><CC03EA>Not to mention that insufferable leader of the Wizards...<pause><lineend><CC03EA>I don't mind the Merchants' Leader, but the Wizards' Leader jumps to too many silly conclusions!<pause><lineend><CC03EA>Much like you did when you unsheathed your sword at that mermaid, actually.<pause><lineend>|
-|
-|
-78|
+16|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
-|
-|
-81|
+17|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
-|
-|
-84|
+18|
 <CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
-|
-|
-87|
+19|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake Titania casts spells on monsters to make them attack people!<pause><lineend><CC03EA>She's so dangerous, some of the Warriors who went to investigate never even came back.<pause><lineend>|
-|
-|
-90|
+20|
 <CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
-|
-|
-93|
+21|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
-|
-|
-96|
+22|
 <CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizard's town by now.<pause><lineend><CC03EA>That cake I made is going to get stale!<pause><lineend>|
-|
-|
-99|
+23|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
-|
-|
-102|
+24|
 <CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to say that?<pause><lineend>|
-|
-|
-105|
+25|
 <CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the gossip is about the monster attacks around the lake.<pause><lineend><CC03EA>I don't understand why people can't just stay away from there.<pause><lineend><CC03EA>Then we could talk about something else for a change!<pause><lineend>|
-|
-|
-108|
+26|
 <CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
-|
-|
-115|
+27|
 <CC03FA=002E000200000000000003FF000B003C0000><CC03FB=003C>|
-|
-|
-116|
+28|
 <CC03FA=002E000800000000000003FF000B003C0000><CC03FB=003C>|
-|
-|
-117|
+29|
+<CC03FA=002E000300000000000003FF000B003C0000><CC03FB=003C>|
+30|
+<CC03FA=002E000800010000000003FF000B003C0000><CC03FB=003C>|
+31|
 <CC03F0=002E00320000001903FF00000000>|
-|
-|
+32|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>女王様、確か赤い髪の魔女がいるのって<pause><lineend><CC03EA><color=0005>この街とアンバーステップの間にある<lineend>わきみちを行った先<color=0001>の洞窟よね？<pause><lineend>|
+33|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ええ。<lineend>たしか<color=0002>南西にある洞窟<color=0001>だと言っていました。<pause><lineend>|
+34|
+<CC03F0=000000880001000A03FF00000000>|
+35|
+<CC03F0=000000880000000A03FF00000000>|

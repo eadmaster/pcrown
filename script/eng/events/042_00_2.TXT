@@ -1,45 +1,22 @@
-35|
+65536|
 <CC03EA><color=0006><string=002E><lineend><color=0001>Hey, what's the big idea?<pause><lineend>|
-|
-|
-40|
+65537|
 <CC03EA><color=0006><string=002E><lineend><color=0001>...Er...I mean, what can I do for you, Ma'am?<pause><lineend>|
-|
-|
-41|
+65538|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>How about telling us what kind of little girl talks like a grisly old bandit?<pause><lineend>|
-|
-|
-44|
+65539|
 <CC03EA><color=0006><string=002E><lineend><color=0001>Argh...I've been spotted!<pause><lineend>|
-|
-|
-71|
+65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>There's something we want to know.<pause><lineend>|
-|
-|
-73|
+65541|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>...and you better answer, or I'll put a fairy-curse on you!<pause><lineend>|
-|
-|
-77|
+65542|
 <CC03EA><color=0005><string=0130><lineend><color=0001>Get on with it then!<pause><lineend>|
-|
-|
-78|
+65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Who put you up to spreading all these rumors about Ondine?<pause><lineend>|
-|
-|
-79|
+65544|
 <CC03EA><color=0005><string=0130><lineend><color=0001>It was a witch. She had red hair and a big, floating ponytail.<pause><lineend><CC03EA>She approached me and promised me gold if I cooperated.<pause><lineend><CC03EA>I'm only doing what she told me to!<pause><lineend>|
-|
-|
-80|
+65545|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired witch...<pause><lineend>|
-|
-|
-83|
-<CC03EA><color=0005><string=0130><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend>
-<CC03EA><color=0005>Go left from the Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I promise I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't put a curse on me!<pause><lineend>|
-|
-|
+65546|
+<CC03EA><color=0005><string=0130><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I promise I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't put a curse on me!<pause><lineend>|

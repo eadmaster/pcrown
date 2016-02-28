@@ -1,40 +1,22 @@
-35|
+65536|
 <CC03EA><color=0004><string=017E><lineend><color=0001>A Dragon!<pause><lineend>|
-|
-|
-41|
+65537|
 <CC03EA><color=0004><string=017E><lineend><color=0001>...No!<lineend>...This isn't right!<pause><lineend>|
-|
-|
-42|
+65538|
 <CC03EA><color=0004><string=017E><lineend><color=0001>My legs won't budge!<pause><lineend>|
-|
-|
-59|
+65539|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I don't know who you are or what you're doing here.<pause><lineend><CC03EA>But this mountain is swarming with Dragons. If I were you, I'd run for it.<pause><lineend>|
-|
-|
-68|
+65540|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Thank you so much!<pause><lineend>|
-|
-|
-69|
+65541|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Get out of here!<pause><lineend>|
-|
-|
-71|
+65542|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I can't keep an eye on you and fight Dragons at the same time!<pause><lineend>|
-|
-|
-73|
+65543|
 <CC03EA><color=0004><string=017E><lineend><color=0001>...OK.<pause><lineend><CC03EA>But Sir, what about you?<pause><lineend>|
-|
-|
-74|
+65544|
 <CC03EA><color=0003><string=0001><lineend><color=0001>If you're worried about me, don't be.<pause><lineend><CC03EA>You might say killing Dragons is my job.<pause><lineend>|
-|
-|
-89|
+65545|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Come back for more? You're stubborn even for a Dragon!<pause><lineend>|
-|
-|
+65546|
+<CC03EA><color=0004><string=017E><lineend><color=0001>ÅEÅEÅE<pause><lineend>|

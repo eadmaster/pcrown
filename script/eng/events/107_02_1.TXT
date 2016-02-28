@@ -1,48 +1,22 @@
-13|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us...It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
-|
-|
-16|
+1|
 <CC03EA><color=0006><string=007C><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>Where are you going at this time of night?<pause><lineend>|
-|
-|
-19|
+2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
-|
-|
-22|
+3|
 <CC03EA><color=0006><string=007E><lineend><color=0001>Queen Gradriel inherited the crown.<pause><lineend><CC03EA>Princess Eriel inherited beauty. Princess Sidrael, grace.<pause><lineend><CC03EA>Without any one of them, our Kingdom is incomplete.<pause><lineend>|
-|
-|
-25|
+4|
 <CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of "Magic Stones."<pause><lineend>|
-|
-|
-28|
+5|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
-|
-|
-31|
+6|
 <CC03EA><color=0006><string=0077><lineend><color=0001>If you need anything, you are welcome to take whatever you find.<pause><lineend>|
-|
-|
-34|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us...It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
-|
-|
-37|
+7|
 <CC03EA><color=0006><string=0181><lineend><color=0001>I wonder if Sidrael is unharmed?<pause><lineend>|
-|
-|
-40|
+8|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of Elfaran and Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep her safe.<pause><lineend>|
-|
-|
-43|
+9|
 <CC03EA><color=0006><string=0051><lineend><color=0001>Are you Sir Edward the Dragon slayer?<pause><lineend><CC03EA>You have that same strong determination in your eyes that Sir Glowstar had.<pause><lineend>|
-|
-|
-46|
+10|
 <CC03EA><color=0006><string=0080><lineend><color=0001>A friend of mine disappeared in the Black Forest.<pause><lineend><CC03EA>I'm very worried whether he's all right.<pause><lineend>|
-|
-|

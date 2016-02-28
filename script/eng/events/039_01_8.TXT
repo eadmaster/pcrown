@@ -1,16 +1,8 @@
-35|
+65536|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Back to the castle, then?<pause><lineend>|
-|
-|
-36|
+65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes...Everyone must be worried about me.<pause><lineend>|
-|
-|
-38|
+65538|
 <CC03EA><color=0004><string=0179><lineend><color=0001>I'd sure like to come visit you in the castle one of these days...<pause><lineend><CC03EA>Is it too shady for a Queen to be friends with a pirate?<pause><lineend>|
-|
-|
-39|
+65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Not at all. Please come see me anytime you like.<pause><lineend><CC03EA>Thank you for giving me a ride on your ship, Portgus.<lineend><pause>|
-|
-|

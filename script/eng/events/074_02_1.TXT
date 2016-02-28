@@ -1,140 +1,48 @@
-10|
+0|
 <CC03EA><color=0006><string=000E><lineend><color=0001>They say the southern kingdom is full of beautiful women since it's ruled by a Queen.<pause><lineend><CC03EA>You think it's true? If it is, maybe I could convince one of them to marry me!<pause><lineend><CC03EA>"I the name of Gaia herself, I promise to love you forever. Now marry me!"<pause><lineend><CC03EA>Gya ha ha ha!<pause><lineend>|
-|
-|
-13|
+1|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>I hear there's even a Dwarf Kingdom in Valendia.<pause><lineend><CC03EA>They probably dig up some incredible Gems there.<pause><lineend><CC03EA>Speaking of Dwarves, did you know there is a very skilled Dwarf craftsman in Volga city?<pause><lineend>|
-|
-|
-17|
+2|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the Whale in the Sky Tavern! I'll take your order.<pause><lineend>|
-|
-|
-18|
+3|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-20|
+4|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-28|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
-|
-|
-36|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's grill something. Please select a Food to use.<pause><lineend>|
-|
-|
-40|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
-|
-|
-42|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-44|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-51|
-<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G. Is that all right?<pause><lineend>|
-|
-|
-59|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-61|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-65|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have enough.<pause><lineend>|
-|
-|
-66|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-68|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>There! It's finished!<pause><lineend>|
-|
-|
-69|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-74|
+5|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Our Local Delicacy is Grilled Fish.<pause><lineend><CC03EA>We lightly salt fresh fish and cook it quickly in a hot fire. The soft texture is amazing.<pause><lineend><CC03EA>Squeeze a little lemon on it before you eat it!<pause><lineend><CC03EA>One is 48G. Will you be buying one?<pause><lineend>|
-|
-|
-75|
+6|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-77|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-81|
+7|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have enough.<pause><lineend>|
-|
-|
-82|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-86|
+8|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any more. Empty your bag a little bit first.<pause><lineend>|
-|
-|
-87|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-91|
+9|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>There! It's finished!<pause><lineend>|
-|
-|
-92|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back again soon!<pause><lineend>|
-|
-|
-98|
+10|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's grill something. Please select a Food to use.<pause><lineend>|
+11|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G. Is that all right?<pause><lineend>|
+13|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+14|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have enough.<pause><lineend>|
+15|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>Ah, you must be Gradriel. You're here from the kingdom to the south, right?<pause><lineend><CC03EA>It's all been taken care of. Will you be spending the night?<pause><lineend>|
-|
-|
-102|
+16|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-108|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-113|
+17|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Ç®Ç‚ÅAÇ®ã‡Ç™ë´ÇËÇ»Ç¢ÇÊÇ§Ç≈Ç∑ÅB<lineend>Ç‹ÇΩÇ¢ÇÁÇµÇƒâ∫Ç≥Ç¢ÅB<pause><lineend>|
+18|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-120|
+19|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-122|
+20|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+21|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-123|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-134|
+22|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-135|
+23|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

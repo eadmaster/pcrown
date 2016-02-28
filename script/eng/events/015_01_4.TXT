@@ -1,152 +1,52 @@
-11|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy-tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
-|
-|
-13|
+0|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>How in the heck are we supposed to fight earthquakes!?<pause><lineend>|
-|
-|
-16|
+1|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy-tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
+2|
 <CC03EA><color=0006><string=004F><lineend><color=0001>Monsters have been running amok all over the place these days.<pause><lineend><CC03EA>Weak as they are, even Dodos and Myconids are more aggressive now.<pause><lineend>|
-|
-|
-19|
+3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Take it easy!<pause><lineend>|
-|
-|
-23|
+4|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>If you're going to be fighting Dragons, you better get your strength up first!<pause><lineend><CC03EA>Now, what'll it be?<pause><lineend>|
-|
-|
-24|
+5|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-26|
+6|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-34|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
-|
-|
-42|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select a Food to use.<pause><lineend>|
-|
-|
-46|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
-|
-|
-48|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
-|
-|
-50|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-57|
-<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>It's 30G. Is that all right?<pause><lineend>|
-|
-|
-65|
-<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-67|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-71|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
-|
-|
-72|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-74|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
-|
-|
-75|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-80|
+7|
 <CC03EA><CC03FC=0004><string=01AA><color=0001>Our Local Delicacy is oven-made Grilled Steak.<pause><lineend><CC03EA>The outside has a well-done savoriness, but the inside is nice and juicy.<pause><lineend><CC03EA>The garlic gives it a nice touch, too.<pause><lineend><CC03EA>A couple bites of it, and those Dragons won't be scary at all!<pause><lineend><CC03EA>It costs 52G.<lineend>Want one?<pause><lineend>|
-|
-|
-81|
+8|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-83|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-87|
+9|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
-|
-|
-88|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-92|
+10|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any more, can you? Come see me when you can.<pause><lineend>|
-|
-|
-93|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-97|
+11|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
-|
-|
-98|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
-|
-|
-104|
+12|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select a Food to use.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>It's 30G. Is that all right?<pause><lineend>|
+15|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+16|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough money.<pause><lineend>|
+17|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
-|
-|
-108|
+18|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
-|
-|
-114|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
-|
-|
-120|
+19|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
-|
-|
-123|
+20|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
-|
-|
-130|
+21|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
-|
-|
-132|
+22|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
-|
-|
-133|
-<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|
-144|
+24|
 <CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
-|
-|
-145|
+25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
-|
-|

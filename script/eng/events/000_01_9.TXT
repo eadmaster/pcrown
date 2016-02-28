@@ -1,32 +1,14 @@
-9|
-<CC03EA><color=0006><string=007D><lineend><color=0001>There's a strange murmur in the air these days.<pause><lineend><CC03EA>I can hear it when I close my eyes.<pause><lineend>|
-|
-|
-12|
-<CC03EA><color=0006><string=007E><lineend><color=0001>The monster from last night seems to have been an ordinary Griffon.<pause><lineend><CC03EA>It doesn't make sense. A Griffon has no reason to come where there are so many humans.<pause><lineend>|
-|
-|
-15|
+0|
 <CC03EA><color=0006><string=008B><lineend><color=0001>To think that you made it all the way to the Demon Realm and back...<pause><lineend><CC03EA>What a Queen we have!<pause><lineend><CC03EA>Our Motherly Goddess must be giving you her greatest protection.<pause><lineend>|
-|
-|
-18|
-<CC03EA><color=0006><string=007F><lineend><color=0001>We have seen how your swordsmanship has improved, your Highness.<pause><lineend><CC03EA>I would be surprised if a single one of us could win a match against you.<pause><lineend>|
-|
-|
-21|
-<CC03EA><color=0006><string=0080><lineend><color=0001>May our Queen be prosperous!<pause><lineend>|
-|
-|
-24|
-<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
-|
-|
-27|
-<CC03EA><color=0006><string=0082><lineend><color=0001>It gives me strength to know that my Queen is at our side with her sword in her hand.<pause><lineend>|
-|
-|
-30|
+1|
 <CC03EA><color=0006><string=007D><lineend><color=0001>There's a strange murmur in the air these days.<pause><lineend><CC03EA>I can hear it when I close my eyes.<pause><lineend>|
-|
-|
+2|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The monster from last night seems to have been an ordinary Griffon.<pause><lineend><CC03EA>It doesn't make sense. A Griffon has no reason to come where there are so many humans.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007F><lineend><color=0001>We have seen how your swordsmanship has improved, your Highness.<pause><lineend><CC03EA>I would be surprised if a single one of us could win a match against you.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0080><lineend><color=0001>May our Queen be prosperous!<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0082><lineend><color=0001>It gives me strength to know that my Queen is at our side with her sword in her hand.<pause><lineend>|

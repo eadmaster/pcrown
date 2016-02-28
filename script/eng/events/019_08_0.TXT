@@ -1,4 +1,2 @@
-49|
+65536|
 <CC03EA><color=0002>Got Music Score number 1!<pause><lineend>|
-|
-|

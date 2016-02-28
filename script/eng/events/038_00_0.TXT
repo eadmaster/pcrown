@@ -1,92 +1,46 @@
-24|
+65536|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Your Majesty!? Good heavens! We meet again.<pause><lineend><CC03EA>I have to say, I never expected to encounter you in a place like this.<pause><lineend>|
-|
-|
-27|
+65537|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Have your travels been going well?<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-30|
+65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>To tell you the truth...<pause><lineend>|
-|
-|
-31|
+65539|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Has something gone wrong?<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-32|
+65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A witch kidnapped my sister Eriel and took her into that tower there.<pause><lineend>|
-|
-|
-35|
+65541|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Oh no! Princess Eriel?<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-39|
+65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>What are you doing here, Leon?<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-40|
+65543|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>There's a great deal of evil magic emanating from this tower.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I've come to understand that any monster affected by this magic turns violent.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>If the flow of it grows, it's even possible that a path to the Demon Realm will open here.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-43|
+65544|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I knew it! That witch really is trying to open a way to the Demon Realm!<pause><lineend>|
-|
-|
-46|
+65545|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>There's something in particular that alarms me.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-47|
+65546|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>It's a certain line of one of the prophecies I've read...<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>"When the world grows full of evil magic, the darkness will spread...<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>...and their King shall breathe once more."<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-48|
+65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Darkness...<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-49|
+65548|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>That must mean the Demon Horde, and the king breathing, the Demon King's revival.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-52|
+65549|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>If the witch in this tower is trying to open a way to the Demon Realm...<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>...then there can only be one reason why she kidnapped Princess Eriel.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>Only members of the Royal Family can break the seal on the Demon King.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-53|
+65550|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>We have to hurry and rescue my sister!<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-54|
+65551|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>As long as it's a witch we're facing, I think it'd be best if you left it to me.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-59|
+65552|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>That's not possible. She told me to come alone.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I'll have to face her myself.<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-62|
+65553|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>All right.  I'll see if I can't find another way to the top of the tower.<lineend><CC03ED=00F70006000103FF><pause>|
-|
-|
-66|
+65554|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>It gives me courage to know that you're here, Leon.<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-79|
+65555|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>We better get started.<lineend><CC03ED=0000001C000103FF><pause>|
-|
-|
-87|
+65556|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It won't open. It looks like it has a magic seal on it.<pause><lineend>|
-|
-|
-88|
+65557|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70003000103FF>Allow me.<lineend><CC03ED=00F70002000103FF><pause>|
-|
-|
-103|
+65558|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70003000103FF>Phew...It worked.<lineend>Let's go inside.<lineend><CC03ED=00F70002000103FF><pause>|
-|
-|

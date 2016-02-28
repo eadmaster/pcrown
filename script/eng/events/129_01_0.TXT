@@ -1,24 +1,12 @@
-5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>I don't want to make you mad. I just think you should stay away from that island.<pause><lineend>|
-|
-|
-7|
+0|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Are you looking to sail somewhere?<pause><lineend>|
-|
-|
-8|
+1|
 <CC03ED=0001005F00010000>|
-|
-|
-9|
+2|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I need to go to a place called Arsontula.<pause><lineend>|
-|
-|
-10|
+3|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Arsontula!?<pause><lineend><CC03EA>Look, Mister, that's just crazy.<pause><lineend><CC03EA>There's an evil curse around that island. Ships that get too close never make it back!<pause><lineend><CC03EA>I don't want to make you mad. I just think you should stay away from that island.<pause><lineend>|
-|
-|
-13|
+4|
+<CC03EA><color=0006><string=0063><lineend><color=0001>I don't want to make you mad. I just think you should stay away from that island.<pause><lineend>|
+5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>I'm sorry, Sir.<pause><lineend><CC03EA>There aren't enough sailors here at the moment to get the Friedfin moving.<pause><lineend><CC03EA>Why don't you try coming back later?<pause><lineend>|
-|
-|

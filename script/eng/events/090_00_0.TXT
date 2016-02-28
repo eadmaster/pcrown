@@ -1,228 +1,116 @@
-42|
+0|
 <CC03EA><color=0003><string=0003><lineend><color=0001>That ought to put an end to any ships being sunk.<pause><lineend>|
-|
-|
-44|
+1|
 <CC03EA><CC03FC=0004><string=0125>We did it, Boss.<pause><lineend>|
-|
-|
-45|
+2|
 <CC03ED=0003001000010000>|
-|
-|
-46|
+3|
 <CC03EA><color=0003><string=0003><lineend><color=0001>They won't bother us again, that's for sure.<pause><lineend>|
-|
-|
-48|
+4|
 <CC03EA><color=0003><string=0003><lineend><color=0001>All right, men! Set sail for the island with the treasure!<pause><lineend>|
-|
-|
-101|
+5|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Did you really think I would go down so easily?<pause><lineend>|
-|
-|
-102|
+6|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr....Fine! Let's settle this!<pause><lineend>|
-|
-|
-168|
+65536|
 <CC03EA><color=0003><string=0003><lineend><color=0001>We're almost to the Ship Graveyard.<pause><lineend>|
-|
-|
-169|
+65537|
 <CC03EA><CC03FC=0004><string=0125>This keeps looking more and more like a bad idea...<pause><lineend>|
-|
-|
-170|
+65538|
 <CC03EA><CC03FC=0004><string=0126>We sink here, and we're doomed to become ghost-sailors...<pause><lineend><CC03EA>B, Boss...How about we turn around? It'll be like we never even came.<pause><lineend>|
-|
-|
-174|
+65539|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What are you talking about?<pause><lineend><CC03EA>I couldn't hold my head up in town if we lost our cool over some dumb old ghosts!<pause><lineend>|
-|
-|
-181|
+65540|
 <CC03EA><CC03FC=0004><string=0127>Look there!<lineend>A ghost ship!!<pause><lineend>|
-|
-|
-203|
+65541|
 <CC03EA><CC03FC=0004><string=00A2><color=0001>This sea belongs to the dead, and the dead alone.<pause><lineend><CC03EA>It is no place for the living. Get out!<pause><lineend>|
-|
-|
-204|
+65542|
 <CC03EA><CC03FC=0004><string=00A3><color=0001>...Unless, of course, you'd like to join us here?<pause><lineend>|
-|
-|
-206|
+65543|
 <CC03EA><color=0003><string=0003><lineend><color=0001>You're awfully bossy for a couple of dead guys.<pause><lineend><CC03EA>Everyone, stand back!<pause><lineend>|
-|
-|
-243|
+65544|
 <CC03EA><CC03FC=0004><string=0147><color=0001>You can actually put up a fight? Well, color me surprised!<pause><lineend>|
-|
-|
-244|
+65545|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=00030022000103FF>Hey there, fatso! You're up next!<lineend><CC03ED=00030021000103FF><pause>|
-|
-|
-245|
+65546|
 <CC03EA><CC03FC=0004><string=0147><color=0001>Who are you calling fat!?<pause><lineend>|
-|
-|
-255|
+131072|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I'm going to go look for the secret treasure cave on the map our friend showed me.<pause><lineend><CC03EA>You men wait here and look after him.<pause><lineend>|
-|
-|
-256|
+131073|
 <CC03EA><CC03FC=0004><string=0125>Aye-aye, Sir!<pause><lineend>|
-|
-|
-264|
+131074|
 <CC03EA><CC03FC=0004><string=00E7>What!? Wait here on the ship!?<pause><lineend><CC03EA>If I wanted to let you find the treasure by yourself, I'd have stayed back in Leeland!<pause><lineend>|
-|
-|
-275|
+131075|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Relax, old man.<pause><lineend><CC03EA>Nobody's going to run off with your treasure.<pause><lineend><CC03EA>I've just got to make sure there aren't any monsters in the cave.<pause><lineend><CC03EA>After that, the treasure hunt can begin.<pause><lineend>|
-|
-|
-277|
+131076|
 <CC03EA><CC03FC=0004><string=00E7><color=0001>But what about me?<pause><lineend>|
-|
-|
-280|
+131077|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I told you. Wait here and relax.<pause><lineend><CC03EA>I'll take you to your little treasure hoard.<pause><lineend>|
-|
-|
-301|
+196608|
 <CC03EA><CC03FC=0004><string=0125><color=0001>Boss! It's them! Their ship is here!<pause><lineend>|
-|
-|
-321|
+196609|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>I don't care how you made it out of there.<pause><lineend><CC03EA>This time, I'm just going to kill you.<pause><lineend>|
-|
-|
-322|
+196610|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Big talk for someone who turned and ran from some little ghosts.<pause><lineend>|
-|
-|
-324|
+196611|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Shut your mouth!<pause><lineend>|
-|
-|
-326|
+196612|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Let's make a deal.<pause><lineend><CC03EA>You quietly hand over the Ocean Stone, and I'll let you leave in one piece.<pause><lineend>|
-|
-|
-327|
+196613|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Nice try, Portgus.<pause><lineend><CC03EA>Are you ready for a taste of my hook?<pause><lineend>|
-|
-|
-329|
+196614|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Leave it to a third-rate pirate not to know when to quit.<pause><lineend>|
-|
-|
-331|
+196615|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Listen to you.<pause><lineend><CC03EA>Everything out of your mouth sounds like sass from a young, spoiled brat.<pause><lineend><CC03EA>Look at me. I've been a pirate since long before you were born.<pause><lineend>|
-|
-|
-334|
+196616|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>This is it, men! Finish them off! Every last one of them!!<pause><lineend>|
-|
-|
-367|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It doesn't make any sense...<pause><lineend><CC03EA>How could I lose to a punk like you?<lineend><pause>|
-|
-|
-368|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I'm taking the Ocean Stone back.<pause><lineend>|
-|
-|
-374|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr....<pause><lineend><CC03EA>Just you remember! You won't get off so light next time!<lineend><pause>|
-|
-|
-399|
+262144|
 <CC03EA><CC03FC=0004><string=0126>Are you sure about this, Boss? He's getting away!<pause><lineend>|
-|
-|
-400|
+262145|
 <CC03EA><color=0003><string=0003><lineend><color=0001>It's all right. A buffoon like him can only cause so much trouble anyway.<pause><lineend>|
-|
-|
-401|
+262146|
 <CC03EA><CC03FC=0004><string=0125>You're probably right.<pause><lineend>|
-|
-|
-408|
+262147|
 <CC03EA><CC03FC=0004><string=0127>But what about the treasure?<pause><lineend>|
-|
-|
-409|
+262148|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Well, I wanted to talk to you about that...You see...<pause><lineend>|
-|
-|
-439|
+262149|
 <CC03EA><CC03FC=0004><string=0125><CC03ED=01250014000103FF>Whoa!!<lineend>This is incredible!!<lineend><CC03ED=01250013000103FF><pause><CC03EA><CC03ED=01250014000103FF>Ha ha haaa!!<lineend>It's raining gold!!<lineend><CC03ED=01250013000103FF><pause>|
-|
-|
-458|
+262150|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Drake...You're doing this, aren't you?<pause><lineend>|
-|
-|
-460|
+262151|
 <color=0001><CC03EA>What fun is being a pirate if you don't get any treasure?<pause><lineend>|
-|
-|
-462|
+262152|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...Indeed.<pause><lineend>|
-|
-|
-490|
+262153|
+<CC03EA><color=0005><string=011E><lineend><color=0001>ÉkÉkÉkÉkÉkÉbÅI<pause><lineend><CC03EA>Ç´ÇÂÅAç°ì˙ÇÕ<lineend>Ç±ÇÍÇÆÇÁÇ¢Ç≈ãñÇµÇƒÇ®Ç¢ÇƒÇ‚ÇÈÇ∫ÅI<pause><lineend>|
+262154|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It doesn't make any sense...<pause><lineend><CC03EA>How could I lose to a punk like you?<lineend><pause>|
+262155|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I'm taking the Ocean Stone back.<pause><lineend>|
+262156|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr....<pause><lineend><CC03EA>Just you remember! You won't get off so light next time!<lineend><pause>|
+327680|
 <CC03EA><color=0003><string=0003><lineend><color=0001>All right, everyone, listen up.<pause><lineend>|
-|
-|
-501|
+327681|
 <CC03EA><CC03FC=0004><string=0125>What is it, Boss? You look so serious all of a sudden.<pause><lineend>|
-|
-|
-504|
+327682|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I've decided it's time for me to leave for a while.<pause><lineend>|
-|
-|
-520|
+327683|
 <CC03EA><CC03FC=0004><string=0126>Boss!<pause><lineend><CC03EA>You're leaving the ship? Look at all the treasure we just got!<pause><lineend>|
-|
-|
-524|
+327684|
 <CC03EA><color=0003><string=0003><lineend><color=0001>There's something that I have to take care of.<pause><lineend><CC03EA>It's something from my past. Something that needs settling...<pause><lineend>|
-|
-|
-534|
+327685|
 <CC03EA><CC03FC=0004><string=0126>...<pause><lineend>|
-|
-|
-539|
+327686|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What? Don't worry. I'll come right back.<pause><lineend>|
-|
-|
-545|
+327687|
 <CC03EA><CC03FC=0004><string=0126>I'm going, too!<pause><lineend>|
-|
-|
-555|
+327688|
 <CC03EA><CC03FC=0004><string=0126>We're shipmates, aren't we?<pause><lineend>|
-|
-|
-560|
+327689|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I'm grateful, but you have to understand.<pause><lineend><CC03EA>If I don't do this by myself, then there's no reason to do it at all.<pause><lineend>|
-|
-|
-563|
+327690|
 <CC03EA><CC03FC=0004><string=0126>Boss!<pause><lineend>|
-|
-|
-576|
+327691|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Sorry. You all just take care of the gold, OK?<pause><lineend>|
-|
-|

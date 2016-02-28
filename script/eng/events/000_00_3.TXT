@@ -1,12 +1,6 @@
-6|
-<CC03EA><color=0006><string=007D><lineend><color=0001>May all your battles be victorious!<pause><lineend>|
-|
-|
-8|
+0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Your Highness, I hope you will refrain from wandering outside.<pause><lineend>|
-|
-|
-11|
+1|
+<CC03EA><color=0006><string=007D><lineend><color=0001>May all your battles be victorious!<pause><lineend>|
+2|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty? Where might you be going? Please turn in for the night.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|
-|
-|

@@ -1,120 +1,66 @@
-5|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care. May all your battles be victorious!<pause><lineend>|
-|
-|
-9|
+0|
 <CC03FB=000A>|
-|
-|
-10|
+1|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting in the throne room. Please see him at once!<pause><lineend>|
-|
-|
-51|
+2|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Ç«Ç§Ç©âyå©ÇÃä‘Ç…Ç®ã}Ç¨â∫Ç≥Ç¢ÅB<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care. May all your battles be victorious!<pause><lineend>|
+65536|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>You've made it back safely!<pause><lineend><CC03EA>We were all so worried about you.<pause><lineend><CC03EA>I hope you realize the weight of what you've done...<lineend><pause>|
-|
-|
-52|
+65537|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize for leaving without telling anybody.<lineend><CC03ED=000000A0000103FF><pause>|
-|
-|
-53|
+65538|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>There are urgent matters to deal with, but they can wait until tomorrow.<pause><lineend>|
-|
-|
-57|
+65539|
 <CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Is something wrong?<pause><lineend>|
-|
-|
-58|
+65540|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Eriel has vanished from the castle. No one has the faintest idea where she is.<pause><lineend><CC03EA>A few townspeople said they saw someone who looked like Eriel in the Black Forest.<pause><lineend><CC03EA>Sir Kwein took a few Knights to search the area, but there is still no word from him.<pause><lineend>|
-|
-|
-65|
+65541|
 <CC03EA><CC03FC=0004><string=007F><color=0001>Lord Jestonai! Sir Kwein has returned!!<pause><lineend>|
-|
-|
-67|
+65542|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Oh? Send him in at once!<pause><lineend>|
-|
-|
-69|
+65543|
 <CC03EA><CC03FC=0004><string=007F><color=0001>Yes Sir!<pause><lineend>|
-|
-|
-76|
+65544|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Queen Gradriel...<pause><lineend>|
-|
-|
-77|
+65545|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sir Kwein! Did you see any sign of my sister Eriel?<pause><lineend>|
-|
-|
-78|
+65546|
 <CC03EA><color=0004><string=0102><lineend><color=0001>We were searching deep in the Black Forest when we found a tower.<pause><lineend><CC03EA>None of us could remember seeing it before. Yet in one of its windows, we saw Eriel.<pause><lineend>|
-|
-|
-79|
+65547|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>You did? Was she all right?<pause><lineend>|
-|
-|
-80|
+65548|
 <CC03EA><color=0004><string=0102><lineend><color=0001>We tried to enter the tower, but a red-haired witch attacked us.<pause><lineend><CC03EA>I lost nearly all of my men...<pause><lineend>|
-|
-|
-81|
+65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired witch!? I know who you're talking about!<pause><lineend>|
-|
-|
-82|
+65550|
 <CC03EA><color=0004><string=0102><lineend><color=0001>The witch gave me a message to bring back...<pause><lineend><CC03EA>She said for the Queen to come to the tower, alone.<pause><lineend>|
-|
-|
-86|
+65551|
 <CC03EA><color=0002><string=0000><lineend><color=0001>So Eriel's been kidnapped by the evil red-haired witch!<pause><lineend><CC03EA>I'm going to that tower right away!<pause><lineend>|
-|
-|
-89|
+65552|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I can't allow that, your Majesty!<pause><lineend><CC03EA>We don't yet understand what that witch is after. It's far too dangerous.<pause><lineend>|
-|
-|
-91|
+65553|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think I know what she's up to. There's not a moment to lose!<pause><lineend>|
-|
-|
-92|
+65554|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Perhaps I should accompany you?<pause><lineend>|
-|
-|
-95|
+65555|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, you stay here and guard the castle.<pause><lineend><CC03EA>I'm afraid that something dreadful might happen soon.<pause><lineend><CC03EA>Anyway, please don't worry! I promise I won't get carried away.<pause><lineend><CC03EA>If it gets too dangerous, I'll simply turn around and come back.<pause><lineend>|
-|
-|
-96|
+65556|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>But your Highness...<pause><lineend>|
-|
-|
-97|
+65557|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...I order you to stay.<pause><lineend>|
-|
-|
-98|
+65558|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>...Very well.<pause><lineend>|
-|
-|
-99|
+65559|
 <CC03EA><color=0004><string=0102><lineend><color=0001>My men and I will be on high alert. We'll come after you at a moment's notice.<pause><lineend><CC03EA>The witch has a book with her that can unleash all kinds of dreadful magic. <pause><lineend><CC03EA>Please be careful, Queen Gradriel.<pause><lineend>|
-|
-|
-100|
+65560|
 <CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>(A book? That could be the wicked book that broke free and disappeared!)<pause><lineend> |
-|
-|
-101|
+65561|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valendine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
-|
-|
-102|
+65562|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Jestonai. I'm off to the Black Forest.<pause><lineend>|
-|
-|
+65563|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valendine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
+65564|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>çïÇÃêXÇÃÇ‹ÇÒÇ»Ç©Ç…ñkÇ…ÇÃÇ—ÇÈÇ ÇØìπ<color=0001>Ç™Ç†ÇË<lineend>ÇªÇÃêÊÇ…<color=0002>ñÇèóÇÃìÉ<color=0001>Ç™Ç†ÇËÇ‹Ç∑ÅB<pause><lineend><CC03EA>ïtãﬂÇÃêXÇ…ãRémÇë“ã@Ç≥ÇπÅB<lineend>Ç¢Ç¬Ç≈Ç‡èÊÇËçûÇﬂÇÈÇÊÇ§Ç…éËîzÇ¢ÇΩÇµÇ‹Ç∑ÅB<lineend><pause>|

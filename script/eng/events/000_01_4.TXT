@@ -1,24 +1,12 @@
-8|
+0|
 <CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find peace in heaven...<pause><lineend>|
-|
-|
-11|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world do you think they took Sidrael?<pause><lineend><CC03EA>Her poor physical condition is especially concerning.<pause><lineend>|
-|
-|
-14|
-<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons attack, they'll probably come through the tower in the Black Forest.<pause><lineend><CC03EA>The gate in that tower is one of a few that connects our world and the Demon Realm.<pause><lineend>|
-|
-|
-17|
-<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
-|
-|
-20|
-<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come, they will never break us.<pause><lineend><CC03EA>Not as long as Queen Gradriel is by our side!<pause><lineend>|
-|
-|
-23|
+1|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have perished, but he upheld the spirit of a true Knight to the end.<pause><lineend><CC03EA>We Knights who survived, as well as his son, will carry on this spirit in our hearts.<pause><lineend>|
-|
-|
+2|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world do you think they took Sidrael?<pause><lineend><CC03EA>Her poor physical condition is especially concerning.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons attack, they'll probably come through the tower in the Black Forest.<pause><lineend><CC03EA>The gate in that tower is one of a few that connects our world and the Demon Realm.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come, they will never break us.<pause><lineend><CC03EA>Not as long as Queen Gradriel is by our side!<pause><lineend>|

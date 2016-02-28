@@ -1,181 +1,98 @@
-91|
+65536|
 <CC03EA><color=0003><string=0003><lineend><color=0001>There's no going any higher than this.<pause><lineend><CC03EA>I don't get it. I checked everywhere on the way up here.<pause><lineend>|
-|
-|
-97|
+65537|
 <CC03EA><color=0005><string=0122><lineend><color=0001>Ha ha ha ha...<pause><lineend>|
-|
-|
-137|
+65538|
 <CC03EA><color=0005><string=0122><lineend><color=0001>You fight pretty well! For a human, of course.<pause><lineend>|
-|
-|
-138|
+65539|
 <CC03EA><color=0003><string=0003><lineend><color=0001>We meet again, Shadow.<pause><lineend><CC03EA>I've spent more days and nights searching for you than I can even count.<pause><lineend>|
-|
-|
-139|
+65540|
 <CC03EA><color=0005><string=0122><lineend><color=0001>We've met before?<pause><lineend>|
-|
-|
-140|
+65541|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I've never forgotten what happened. Not for a single day.<pause><lineend><CC03EA>I watched as you took Faris's life away.<pause><lineend>|
-|
-|
-161|
+131072|
 <CC03EA><CC03FC=0004><string=0004>Yo, Portgus! Your big day with Faris is almost here!<pause><lineend><CC03EA>I'm still amazed a troublemaker like you managed to land such a great girl.<pause><lineend><CC03EA>What could Faris possibly see in you?<pause><lineend>|
-|
-|
-162|
+131073|
 <CC03EA><CC03FC=0004><string=0027>Yeah, no kidding.<pause><lineend><CC03EA>Just remember, I'm her best friend...<pause><lineend><CC03EA>...and if you ever make her cry, you'll have to answer to me!<pause><lineend><CC03EA>Ahem...<lineend>What I'm trying to say is, just make her happy, OK?<pause><lineend>|
-|
-|
-169|
+131074|
 <CC03EA><CC03FC=0004><string=0011>Portgus? Faris is looking for you at the harbor.<pause><lineend>|
-|
-|
-198|
+196608|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Aren't you a little late?<pause><lineend>|
-|
-|
-199|
+196609|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Hi Faris. Did I keep you waiting?<pause><lineend>|
-|
-|
-201|
+196610|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Like you even care. Hmph!<pause><lineend>|
-|
-|
-208|
+196611|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Aw, I'm sorry.<pause><lineend><CC03EA>I was on time until some people in town started poking fun at me.<pause><lineend>|
-|
-|
-211|
+196612|
 <CC03EA><color=0004><string=0108><lineend><color=0001>I'm just kidding, silly!<pause><lineend><CC03EA>I only got here a minute ago anyway.<pause><lineend><CC03EA>Did you see the church? They've already started decorating it!<pause><lineend>|
-|
-|
-212|
+196613|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Not yet. I wanted to see it with you.<pause><lineend><CC03EA>Let's go take a look.<pause><lineend>|
-|
-|
-219|
+196614|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Portgus? You won't ever leave me, will you?<pause><lineend><CC03EA>Do you really want to be with me forever?<pause><lineend>|
-|
-|
-221|
+196615|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Faris? What's gotten into you? You've never talked like this before.<pause><lineend>|
-|
-|
-222|
-<CC03EA><color=0004><string=0108><lineend><color=0001>I had a strange dream.<pause><lineend><CC03EA>I was chasing you, running as fast as I could, but I couldn't catch you...<pause><lineend><CC03EA>No matter how fast or how far I went, a black shadow kept creeping over me...<pause><lineend>
-<CC03EA>...and then suddenly everything just...stopped.<pause><lineend><CC03EA>Will you go out to sea and never come back? Will you leave me here?<pause><lineend>|
-|
-|
-230|
+196616|
+<CC03EA><color=0004><string=0108><lineend><color=0001>I had a strange dream.<pause><lineend><CC03EA>I was chasing you, running as fast as I could, but I couldn't catch you...<pause><lineend><CC03EA>No matter how fast or how far I went, a black shadow kept creeping over me...<pause><lineend><CC03EA>...and then suddenly everything just...stopped.<pause><lineend><CC03EA>Will you go out to sea and never come back? Will you leave me here?<pause><lineend>|
+196617|
 <CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>Faris, no matter what else happens, I'll never leave you.<lineend><CC03ED=011C0005000103FF><pause><CC03EA><CC03ED=011C0006000103FF>Don't you trust me?<lineend><CC03ED=011C0005000103FF><pause>|
-|
-|
-231|
+196618|
 <CC03EA><color=0004><string=0108><lineend><color=0001>It's not that. It's just...<pause><lineend>|
-|
-|
-232|
+196619|
 <CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>I'll protect you for as long as I live. Now come on, show me a smile.<lineend><CC03ED=011C0005000103FF><pause>|
-|
-|
-234|
+196620|
 <CC03EA><color=0004><string=0108><lineend><color=0001><CC03ED=0108005E000103FF>All right.<lineend><CC03ED=0108005D000103FF><pause>|
-|
-|
-235|
+196621|
 <CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>That's better. Now let's go see the church!<lineend><CC03ED=011C0005000103FF><pause>|
-|
-|
-236|
+196622|
 <CC03EA><color=0004><string=0108><lineend><color=0001><CC03ED=0108005E000103FF>Yeah!<lineend><CC03ED=0108005D000103FF><pause>|
-|
-|
-243|
+196623|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Aaaaah!!<pause><lineend>|
-|
-|
-252|
+196624|
 <CC03EA><CC03FC=0004><string=0122>A soul like yours will make for a powerful Magic Stone indeed...<pause><lineend>|
-|
-|
-253|
+196625|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Who are you!?<pause><lineend>|
-|
-|
-275|
+196626|
+<CC03EA><color=0004><string=0108><lineend><color=0001>ポートガスッ！<pause><lineend>|
+196627|
+<CC03EA><color=0003><string=011C><lineend><color=0001>ファーラーーースッ！！<pause><lineend>|
+196628|
 <CC03EA><CC03FC=0004><string=0122>She is just what I needed. There is no finer soul of a young woman in all the land.<pause><lineend>|
-|
-|
-285|
+196629|
+<CC03EA><color=0003><string=011C><lineend><color=0001>き、きさまー！<pause><lineend>|
+196630|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Aaaugh!!<pause><lineend>|
-|
-|
-286|
+196631|
 <CC03EA><CC03FC=0004><string=0122>Ha ha ha...<pause><lineend><CC03EA>You, on the other hand, have a soul that's worthless to me.<pause><lineend><CC03EA>Consider yourself lucky, human!<pause><lineend>|
-|
-|
-289|
+196632|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Faris...<pause><lineend><CC03EA>Faris!!<pause><lineend>|
-|
-|
-298|
+262144|
 <CC03EA><color=0005><string=0122><lineend><color=0001>I have the power to change human souls into Magic Stones.<pause><lineend><CC03EA>Then, when I swallow them, I can draw upon their energy from within my body.<pause><lineend><CC03EA>Have you come to take revenge on me for that girl?<pause><lineend><CC03EA>What foolishness! And after I let you live, too.<pause><lineend><CC03EA>Go home. Don't waste your life.<pause><lineend>|
-|
-|
-299|
+262145|
 <CC03EA><color=0003><string=0003><lineend><color=0001>You must be joking.<pause><lineend><CC03EA>A Demon who eats souls is trying to save me?<pause><lineend>|
-|
-|
-300|
+262146|
 <CC03EA><color=0005><string=0122><lineend><color=0001>Ha ha ha...What can a flimsy little human like you even do?<lineend><pause><CC03EA>I may not need your soul...<pause><lineend><CC03EA>...but I'll enjoy killing you all the same!<pause><lineend>|
-|
-|
-327|
+327680|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=00030022000103FF>You asked me what a human can do, did you not?<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Remember this. There is nothing a human cannot do as long as he has the heart to do it.<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Share that with your friends when you meet them in Hell.<lineend><CC03ED=00030021000103FF><pause>|
-|
-|
-335|
+327681|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faris...<lineend><CC03ED=00030009000103FF><pause>|
-|
-|
-340|
+327682|
 <CC03EA><color=0001>...gus...<lineend>...Portgus...<pause><lineend>|
-|
-|
-348|
+327683|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Faris!?<pause><lineend>|
-|
-|
-351|
+327684|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Oh, Faris.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I'm so sorry. I wasn't strong enough when you needed me.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I...I'm the reason why all this happened to you...<lineend><CC03ED=00030009000103FF><pause>|
-|
-|
-352|
+327685|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You must not keep blaming yourself, Portgus.<lineend><pause><CC03EA>I always believed that you would come for me.<lineend><pause>|
-|
-|
-354|
+327686|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...Faris.<pause><lineend>|
-|
-|
-355|
+327687|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You saved my soul, Portgus!<lineend><pause><CC03EA>I can finally pass on in peace.<lineend><pause>|
-|
-|
-356|
+327688|
+<CC03EA><color=0003><string=0003><lineend><color=0001>・・・グラドリエルの事か？<pause><lineend>|
+327689|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You've made me very happy.<pause><lineend><CC03EA>Talking with you one last time is how I always hoped it would end...<lineend><pause>|
-|
-|
-362|
+327690|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faris.<lineend><CC03ED=00030009000103FF><pause>|
-|
-|
-363|
+327691|
 <CC03EA><color=0004><string=0108><lineend><color=0001><CC03ED=0108005E000103FF>Goodbye, Portgus.<lineend><CC03ED=0108005D000103FF><pause><CC03EA><CC03ED=0108005E000103FF>Don't forget me.<lineend>I'll always be by your side.<lineend><CC03ED=0108005D000103FF><pause><CC03EA><CC03ED=0108005E000103FF>I'll always be watching over you...<lineend><CC03ED=0108005D000103FF><pause>|
-|
-|
