@@ -3,7 +3,8 @@ Princess Crown Translation
 
 Introduction
 ------------
-This normally would have instructions on how to build. But please note the current source tree is not in a working state. So don't waste your time trying to get this working. Please wait for the full and final release. Thanks.
+This normally would have instructions on how to build. But please note the current source tree is not in a working state. So 
+don't waste your time trying to get this working. Please wait for the full and final release. Thanks.
 
 Credits
 -------
