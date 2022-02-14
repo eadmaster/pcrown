@@ -1,4 +1,6 @@
 Princess Crown Translation
+MiYaku Edition is focused on Accuracy and absolutely no Censorship.
+Credit for hacking and coding goes to the original team.
 --------------------------
 
 Introduction
@@ -9,8 +11,9 @@ don't waste your time trying to get this working. Please wait for the full and f
 Credits
 -------
 -CyberWarriorX(hacking and insertion utilities)
--SamIAm(translation)
+-SamIAm for Original Translation modified by MiYaku
 -cafealpha(mksplash)
+-MiYaku Gaming for Translation from scratch
 
 Special Thanks
 --------------
