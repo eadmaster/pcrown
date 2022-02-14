@@ -8,25 +8,25 @@
 7<lineend>
 8<lineend>
 9<lineend>
-You have no items!<lineend>
+And not even one item!<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Magic Mushroom<lineend>
-Magic Mushroom<lineend>
-Magic Mushroom<lineend>
+Elixer Fruit<lineend>
+Elixer Fruit<lineend>
+Elixer Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Magic Mushrooms<lineend>
+Magic Mushrooms<lineend>
+Magic Mushrooms<lineend>
 Grilled Corn<lineend>
 Grilled Corn<lineend>
 Grilled Corn<lineend>
-Toast To Go<lineend>
-Buttered Toast<lineend>
-Buttered Toast<lineend>
+Obento Bread<lineend>
+Buttered Bread<lineend>
+Buttered Bread<lineend>
 Grilled Fish<lineend>
 Grilled Fish<lineend>
 Grilled Fish<lineend>
@@ -39,9 +39,9 @@ Dragon Steak<lineend>
 Fruit Cake<lineend>
 Fruit Cake<lineend>
 Fruit Cake<lineend>
-Hamburger<lineend>
-Hamburger<lineend>
-Hamburger<lineend>
+XL Hamburger<lineend>
+XL Hamburger<lineend>
+XL Hamburger<lineend>
 Corn Soup<lineend>
 Corn Soup<lineend>
 Corn Soup<lineend>
@@ -57,101 +57,101 @@ Meatball Soup<lineend>
 Dragon Soup<lineend>
 Dragon Soup<lineend>
 Dragon Soup<lineend>
-Fresh Milk<lineend>
-Fresh Milk<lineend>
-Fresh Milk<lineend>
+Freshly Squeezed Milk<lineend>
+Freshly Squeezed Milk<lineend>
+Freshly Squeezed Milk<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
 Invincible Medicine<lineend>
 Invincible Medicine<lineend>
 Invincible Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
+Endurance Medicine<lineend>
+Endurance Medicine<lineend>
+Endurance Medicine<lineend>
 Stomach Medicine<lineend>
 Stomach Medicine<lineend>
 Stomach Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
-Defense Potion<lineend>
-Defense Potion<lineend>
-Defense Potion<lineend>
+Strong Man Medicine<lineend>
+Strong Man Medicine<lineend>
+Strong Man Medicine<lineend>
+Vigilant Potion<lineend>
+Vigilant Potion<lineend>
+Vigilant Potion<lineend>
+Warrior's Glove<lineend>
+Ogre's Glove<lineend>
+Silvered Gauntlet<lineend>
+Golden Gauntlet<lineend>
+Pendant of Fortune<lineend>
+Pendant of Sorcery<lineend>
+Elven Boots<lineend>
+Blinking Boots<lineend>
+Boots of Angels<lineend>
+Ring of Alchemist<lineend>
+Ring of Flying Jewel<lineend>
+Burning Ring<lineend>
+Freezing Ring<lineend>
+Sharply Spiked Shield<lineend>
+Cold Eyed Shield<lineend>
+Dragon Ablazed Shield<lineend>
+Thief's Bracelet<lineend>
+Warrior's Bracelet<lineend>
 Warrior Glove<lineend>
 Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
-Luck Pendant<lineend>
-Magic Pendant<lineend>
-Elf Boots<lineend>
-Blink Boots<lineend>
-Angel Boots<lineend>
-Alchemist Ring<lineend>
-Flight Ring<lineend>
-Heat Ring<lineend>
-Freeze Ring<lineend>
-Spiked Shield<lineend>
-Frozen-Eye Shield<lineend>
-Fire Dragon Shield<lineend>
-Thief Bracelet<lineend>
-Warrior Bracelet<lineend>
-Warrior Glove<lineend>
-Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
-Luck Pendant<lineend>
-Magic Pendant<lineend>
-Elf Boots<lineend>
-Blink Boots<lineend>
-Angel Boots<lineend>
-Alchemist Ring<lineend>
-Flight Ring<lineend>
-Heat Ring<lineend>
-Freeze Ring<lineend>
-Spiked Shield<lineend>
-Frozen-Eye Shield<lineend>
-Fire Dragon Shield<lineend>
-Thief Bracelet<lineend>
-Warrior Bracelet<lineend>
-Gorgon Magic Stone<lineend>
-Gorgon Magic Stone<lineend>
-Gorgon Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Vulcan Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thor Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Star Magic Stone<lineend>
-Star Magic Stone<lineend>
-Star Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Holy Magic Stone<lineend>
-Witch Rod<lineend>
-Wizard Rod<lineend>
-Curse Rod<lineend>
-Wind Rod<lineend>
-Goblin Rod<lineend>
-Holy Crest<lineend>
-Rubber Scroll<lineend>
-Earthquake Scroll<lineend>
-Fire Scroll<lineend>
-Thunder Scroll<lineend>
-Gold Scroll<lineend>
-Mirror Scroll<lineend>
-Exit Scroll<lineend>
-Return Scroll<lineend>
-Mekki Scroll<lineend>
+Silvered Gauntlet<lineend>
+Golden Gauntlet<lineend>
+Pendant of Fortune<lineend>
+Pendant of Sorcery<lineend>
+Elven Boots<lineend>
+Blinking Boots<lineend>
+Boots of Angels<lineend>
+Alchemist's Ring<lineend>
+Ring of Flying Jewel<lineend>
+Burning Ring<lineend>
+Freezing Ring<lineend>
+Sharply Spiked Shield<lineend>
+Cold Eyed Shield<lineend>
+Dragon Ablazed Shield<lineend>
+Thief's Bracelet<lineend>
+Warrior's Bracelet<lineend>
+Gorgon's Sorcerer Stone<lineend>
+Gorgon's Sorcerer Stone<lineend>
+Gorgon's Sorcerer Stone<lineend>
+Vulcan's Sorcerer Stone<lineend>
+Vulcan's Sorcerer Stone<lineend>
+Vulcan's Sorcerer Stone<lineend>
+Thor's Sorcerer Stone<lineend>
+Thor's Sorcerer Stone<lineend>
+Thor's Sorcerer Stone<lineend>
+Tundra's Sorcerer Stone<lineend>
+Tundra's Sorcerer Stone<lineend>
+Tundra's Sorcerer Stone<lineend>
+Celestial Sorcerer Stone<lineend>
+Celestial Sorcerer Stone<lineend>
+Celestrial Sorcerer Stone<lineend>
+Holy Sorcerer Stone<lineend>
+Holy Sorcerer Stone<lineend>
+Holy Sircerer Stone<lineend>
+Witch's Staff<lineend>
+Sorcerer's Staff<lineend>
+Shaman's Staff<lineend>
+Wind God's Staff<lineend>
+Goblin's Staff<lineend>
+Holiness Crest<lineend>
+Rubberizing Spell<lineend>
+Massive Earthquake Spell<lineend>
+Demon Flame Sword Spell<lineend>
+God of Thunder Sword Spell<lineend>
+Alchemy Spell<lineend>
+Reincarnation Spell<lineend>
+Emergency Exit Spell<lineend>
+Look Back Spell<lineend>
+Coating Spell<lineend>
 Frying Pan<lineend>
-Soup Pot<lineend>
+Cooking Pot<lineend>
 Drop of Mana<lineend>
-Reinforce Scroll<lineend>
-Dispel Scroll<lineend>
+Equipment Strengthening Spell<lineend>
+WORK ON THIS! Dispel Scroll<lineend>
 Restore Scroll<lineend>
 Eye Scroll<lineend>
 Warrior Dagger<lineend>
@@ -220,9 +220,9 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7>　<CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7>　<CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7>　<CC03EC>G<pause><lineend>
+<CC03EA><color=0000><CC03F7>ﾂ　<CC03F7><pause><lineend>
+<CC03EA><color=0000><CC03F7>ﾂ　<CC03EC>G<lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7>ﾂ　<CC03EC>G<pause><lineend>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
 <CC03EA><color=0000>Power Limitless!<lineend><pause>
