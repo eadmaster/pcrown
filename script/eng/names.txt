@@ -34,7 +34,7 @@ Ghost<lineend>
 Ghoul<lineend>
 Doh Doh<lineend>
 Gold Doh Doh<lineend>
-Froggerkkkkkkk<lineend>
+Frogger<lineend>
 Myconid<lineend>
 Goat<lineend>
 Hamster<lineend>
