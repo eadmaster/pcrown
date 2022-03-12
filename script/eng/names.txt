@@ -1,32 +1,32 @@
 Gradriel<lineend>
 Edward<lineend>
 Proserpina<lineend>
-Portgus<lineend>
+Portgas<lineend>
 
 Young Man<lineend>
 Traveler<lineend>
-Woman<lineend>
-Lanky Man<lineend>
-Fat Man<lineend>
-Man<lineend>
-Old Woman<lineend>
+Aunt<lineend>
+Lanky Old Man<lineend>
+Fat Old Man<lineend>
+Grandfather<lineend>
+Grandmother<lineend>
 Boy<lineend>
-Little Girl<lineend>
-Young Lady<lineend>
 Girl<lineend>
+Maiden<lineend>
+Young Woman<lineend>
 Young Man<lineend>
 Warrior<lineend>
-Guard<lineend>
-Wizard<lineend>
+Mercenary<lineend>
+Sorcerer<lineend>
 Merchant<lineend>
 Sailor<lineend>
 Friar<lineend>
-Official<lineend>
+Government Official<lineend>
 Maid<lineend>
-Knight Guardsman<lineend>
+Card Knight<lineend>
 Holy Knight<lineend>
 Priest<lineend>
-Witch<lineend>
+Sorceress<lineend>
 Suspicious Man<lineend>
 Dwarf<lineend>
 Goblin<lineend>
@@ -34,7 +34,7 @@ Ghost<lineend>
 Ghoul<lineend>
 Doh Doh<lineend>
 Gold Doh Doh<lineend>
-Frog<lineend>
+Froggerkkkkkkk<lineend>
 Myconid<lineend>
 Goat<lineend>
 Hamster<lineend>
@@ -42,65 +42,65 @@ Nilus<lineend>
 Horse<lineend>
 Parrot<lineend>
 Tabatha<lineend>
-Warriors' Leader<lineend>
-Wizards' Leader<lineend>
-Gild Leader<lineend>
+Head of Warriors<lineend>
+Head of Sorcerers<lineend>
+Head of Guild<lineend>
 Liar<lineend>
-Mayor<lineend>
+Village Mayor<lineend>
 Dwarf King<lineend>
-Etherson<lineend>
+Ethason<lineend>
 Halloween<lineend>
-Captain<lineend>
-Court Lady<lineend>
-Wandering Poet<lineend>
+Ship's Captain<lineend>
+Head Court Lady<lineend>
+Troubadour<lineend>
 Sleepy<lineend>
 Smiley<lineend>
-Bulionia<lineend>
-Grandma<lineend>
-Donfan<lineend>
-Leon<lineend>
+Bryony<lineend>
+Old Woman<lineend>
+Don Juan<lineend>
+Lyon<lineend>
 Aria<lineend>
 Ignis<lineend>
 Drake<lineend>
 Eriel<lineend>
-Sidrael<lineend>
-Jestonai<lineend>
-Elfaran<lineend>
+Shidorael<lineend>
+Jesstonai<lineend>
+Elfaalan<lineend>
 Kwein<lineend>
 Golgotha<lineend>
 Heindel<lineend>
 Jadis<lineend>
-Necro-Samantha<lineend>
+Necro Samantha<lineend>
 Ondine<lineend>
-Faras<lineend>
+Farras<lineend>
 Forbidden Book<lineend>
-Larva<lineend>
-Wizard<lineend>
+Larvae<lineend>
+Sorcerer<lineend>
 Demon King Volgrod<lineend>
-Dark God Larva<lineend>
+Devil King Larvae<lineend>
 Demon King<lineend>
 Bloody<lineend>
 Bloody<lineend>
 Unicorn<lineend>
-Little Unicorn<lineend>
+Child of Unicorn<lineend>
 Dragon<lineend>
 Sorceress<lineend>
 Parson<lineend>
-Bighook the Pirate<lineend>
-Phony<lineend>
+Pirate BigHook<lineend>
+Imitation<lineend>
 Skulg<lineend>
 Shadow<lineend>
 Despair<lineend>
 Black Dragon<lineend>
-Flunkie #1<lineend>
-Flunkie #2<lineend>
-Flunkie #3<lineend>
-Flunkie #4<lineend>
+Follower 1<lineend>
+Follower 2<lineend>
+Follower 3<lineend>
+Follower 4<lineend>
 Demon<lineend>
-Pirate<lineend>
-Pirate<lineend>
+Thief<lineend>
+Thief<lineend>
 King of the Dead<lineend>
-Niohoggr<lineend>
+Nidhogg<lineend>
 Centaur<lineend>
 Doppelganger<lineend>
 Barbarian<lineend>
@@ -115,17 +115,17 @@ Poltergeist<lineend>
 Ice Dragon<lineend>
 Goblin<lineend>
 Chaotic Eye<lineend>
-Bighook the Pirate<lineend>
-Edward<lineend>
+Pirate BigHook<lineend>
+Hero Edward<lineend>
 Evil Gradriel<lineend>
 Evil Eriel<lineend>
 Evil Golgotha<lineend>
 Princess Gradriel<lineend>
 Slavewood<lineend>
-Gabriel<lineend>
+Gabrielle<lineend>
 Goddess Gaia<lineend>
-Duck<lineend>
+Domestic Duck<lineend>
 Chick<lineend>
 Jesse<lineend>
 Fairy<lineend>
-Kasper<lineend>
+Casper<lineend>
