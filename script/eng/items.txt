@@ -151,15 +151,15 @@ Frying Pan<lineend>
 Cooking Pot<lineend>
 Drop of Mana<lineend>
 Equipment Strengthening Spell<lineend>
-WORK ON THIS! Dispel Scroll<lineend>
-Restore Scroll<lineend>
-Eye Scroll<lineend>
-Warrior Dagger<lineend>
-Warrior Dagger<lineend>
-Warrior Dagger<lineend>
-Magic Dagger<lineend>
-Magic Dagger<lineend>
-Magic Dagger<lineend>
+Curse Breaking Scroll<lineend>
+Restoration Scroll<lineend>
+Identification Scroll<lineend>
+Warrior's Sword<lineend>
+Warrior's Sword<lineend>
+Warrior's Sword<lineend>
+Sword of Magic<lineend>
+Sword of Magic<lineend>
+Sword of Magic<lineend>
 Throwing Axe<lineend>
 Throwing Axe<lineend>
 Throwing Axe<lineend>
@@ -167,19 +167,19 @@ Bomb<lineend>
 Holy Water<lineend>
 Large Bone<lineend>
 Fish Bone<lineend>
-Broken Frying Pan<lineend>
-Broken Soup Pot<lineend>
+Broken Fry Pan<lineend>
+Broken Hot Pot<lineend>
 Empty Bottle<lineend>
-Elikshil Seed<lineend>
-Medicine Grass Seed<lineend>
-Power Plant Seed<lineend>
-Bomb Seed<lineend>
-Dodo Egg<lineend>
-Dragon Meat<lineend>
+Elixir Seed<lineend>
+Medicinal Grass Flower Seed<lineend>
+Strength Grass Flower Seed<lineend>
+Bomb Grass Seed<lineend>
+Dohdoh's Egg<lineend>
+Dragon's Meat<lineend>
 Raw Meat<lineend>
 Fish<lineend>
 Corn<lineend>
-Opal<lineend>
+Onyx<lineend>
 Ruby<lineend>
 Amethyst<lineend>
 Sapphire<lineend>
@@ -188,23 +188,23 @@ Diamond<lineend>
 Cooking Spice<lineend>
 Cooking Spice<lineend>
 Cooking Spice<lineend>
-Soup Spice<lineend>
-Soup Spice<lineend>
-Soup Spice<lineend>
+Soup Base<lineend>
+Soup Base<lineend>
+Soup Base<lineend>
 Insect Powder<lineend>
-Round-Leaf Grass<lineend>
-Jagged-Leaf Grass<lineend>
-Sharp-Leaf Grass<lineend>
-Land Stone<lineend>
-Time Stone<lineend>
-Music Score 1<lineend>
-Music Score 2<lineend>
-Music Score 3<lineend>
+Round Leaf Grass<lineend>
+Serrated Leaf Grass<lineend>
+Sharp Leaf Grass<lineend>
+Earth Sorcerer Stone<lineend>
+Space-time Sorcerer Stone<lineend>
+Sheet Music Scrap 1<lineend>
+Sheet Music Scrap 2<lineend>
+Sheet Music Scrap 3<lineend>
 Memento Ring<lineend>
-Ancient Key<lineend>
+Key of Antiquity<lineend>
 Broken Sword<lineend>
-Sun Stone<lineend>
-Ocean Stone<lineend>
+Sorcerer's Sun Stone<lineend>
+Sorcerer's Sea Stone<lineend>
 Notice Drop<lineend>
 Battle Drop<lineend>
 Kind Drop<lineend>
@@ -218,50 +218,50 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All Health Restored<pause><lineend>
-<CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
+<CC03EA><color=0000>Full Health Restored<pause><lineend>
+<CC03EA><color=0000>Health<CC03EC>Recovered<pause><lineend>
 <CC03EA><color=0000><CC03F7>@<CC03F7><pause><lineend>
 <CC03EA><color=0000><CC03F7>@<CC03EC>G<lineend><CC03F7><pause>
 <CC03EA><color=0000><CC03F7>@<CC03EC>G<pause><lineend>
-<CC03EA><color=0000>Stomach Full<lineend><pause>
-<CC03EA><color=0000>Max HP Increased<lineend><pause>
-<CC03EA><color=0000>Power Limitless!<lineend><pause>
+<CC03EA><color=0000>Stomach Became Full<lineend><pause>
+<CC03EA><color=0000>Max Health Increased<lineend><pause>
+<CC03EA><color=0000>Bursting with Power!<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Health Restore<lineend>
-Health & Power Boost<lineend>
-Power Boost<lineend>
-Full Health Restore & Power Boost<lineend>
-Health Halved For Power Boost<lineend>
+Health Recovery<lineend>
+Health and Power Increase<lineend>
+Power Increase<lineend>
+Full Health Restore and Power Increase<lineend>
+Health Halved For Power Increase<lineend>
 
 
 
 
 Temporary Invincibility<lineend>
-Feel No Pain<lineend>
-Eat Quickly<lineend>
-Attack Power UP<lineend>
-Defense Power UP<lineend>
-Attack Power 10% UP<lineend>
-Attack Power 20% UP<lineend>
-Attack Power 30% UP<lineend>
-Make More Critical Hits<lineend>
-Defense 20% UP<lineend>
-Defense 50% UP<lineend>
-Automatically Evade<lineend>
+Feel painless<lineend>
+Eat Quicker<lineend>
+Temporary Offensive Ability UP<lineend>
+Temporary Defense Power UP<lineend>
+F Offensive Ability 10% UP<lineend>
+F Offensive Ability 20% UP<lineend>
+F Offensive Ability 30% UP<lineend>
+Land Critical Hits Often<lineend>
+Defense Power 20% UP<lineend>
+Defense Power 50% UP<lineend>
+Perform Evade Automatically<lineend>
 Speed UP<lineend>
-Jump UP<lineend>
-Attacking Creates Coins<lineend>
-Double Jump Possible<lineend>
-Ice Defense UP<lineend>
-Fire Defense UP<lineend>
-Rebound Enemy Attacks<lineend>
-Attacking Enemies Freeze<lineend>
-Attacking Enemies Burn<lineend>
-No-Crouch Item Pick-Up<lineend>
-Defend Automaticaly<lineend>
-Unleash Petrification Beam<lineend>
+Jump Power UP<lineend>
+Each Attack Generates Money<lineend>
+Two Jumps Possible<lineend>
+Ice Defense Power UP<lineend>
+Fire Defense Power UP<lineend>
+Bounce Back Enemy Attacks<lineend>
+Touch this Shield, Enemy Freezes<lineend>
+Touch this Shield, Enemy Burns<lineend>
+No Crouching to Pick up Item<lineend>
+Automatically perform Defend<lineend>
+(Work on this) Unleash Petrification Beam<lineend>
 Shoot Fireballs<lineend>
 Call Down Lightening<lineend>
 Release Ice Arrows<lineend>
