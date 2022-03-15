@@ -261,67 +261,67 @@ Touch this Shield, Enemy Freezes<lineend>
 Touch this Shield, Enemy Burns<lineend>
 No Crouching to Pick up Item<lineend>
 Automatically perform Defend<lineend>
-(Work on this) Unleash Petrification Beam<lineend>
-Shoot Fireballs<lineend>
-Call Down Lightening<lineend>
-Release Ice Arrows<lineend>
-Rain Down Meteors<lineend>
-Launch Holy Light<lineend>
+Release Petrification Beam<lineend>
+Release Fire Cluster<lineend>
+Release Lighting Prism<lineend>
+Release Sharp Ice Arrow<lineend>
+Send Down Small Heavenly Bodies<lineend>
+Release Holy Light Arrow<lineend>
 
-Change Weak Enemies Into Animals<lineend>
+Change Weak Enemy to Animal<lineend>
 Imbue Sword With Magic<lineend>
-Make Enemies Defenseless<lineend>
-Put Distance Between Enemy<lineend>
-Summon Goblin Dive-Bomb<lineend>
-Burn Undead Enemies<lineend>
-Items Won't Break<lineend>
-Drop Boulder With Earthquake<lineend>
-Sword Gains Fire Magic<lineend>
-Sword Gains Lightening Magic<lineend>
-Turn Enemy Into Gold Statue<lineend>
-Double Attack On Enemies<lineend>
-Escape From Dungeon<lineend>
-Return To Last Save Point<lineend>
-Anti-Petrification<lineend>
-Cook Food<lineend>
+Enemy Incapable of Defense<lineend>
+Strong Wind opens up Distance<lineend>
+Goblin Dives on Enemy<lineend>
+Clear Spirit away<lineend>
+During Battle, Equipment doesn't Break<lineend>
+Rocks smash down from Earthquake<lineend>
+Temporarily, Sword is Flaming<lineend>
+Temporarily, Sword is Electrified<lineend>
+Enemy's Soul is Gold<lineend>
+Other self Attacks, x2 Offensive Ability<lineend>
+Escape From Labyrinth<lineend>
+Return To Last Save Location<lineend>
+For one Battle, avoid Beams<lineend>
+Make Cooked Food<lineend>
 Make Soup<lineend>
-Restore Magic Stones<lineend>
-Strengthen Items<lineend>
-Remove Curse From Item<lineend>
+Restore Magical Power to Sorcerer Stone<lineend>
+Strengthen Equipment<lineend>
+Release Curse from Equipment<lineend>
 Restore Consumable Item<lineend>
-Check Item For Curse<lineend>
+Examine for Curse<lineend>
 Throwing Sword<lineend>
-Magic Throwing Sword<lineend>
-Throw At Flying Enemies<lineend>
-Explodes Where Dropped<lineend>
-Damage Undead Enemies<lineend>
-Throw At Enemies<lineend>
+Opponent's Throwing Sword Drops<lineend>
+Throw At Enemy above<lineend>
+Explodes on Impact Site<lineend>
+Soul of Body takes Damage<lineend>
+Throw At Enemy<lineend>
 
 
 
-Grows Where Planted<lineend>
-Food<lineend>
-Use To Make Magic Stone<lineend>
-Soup Spice<lineend>
-Cooking Spice<lineend>
-Use To Make Potions<lineend>
-Stone Sought By Heindel<lineend>
-Use To Travel In Time<lineend>
-Piece Of Music Scroll<lineend>
-Young Wizard's Memento<lineend>
+Grows where Planted on Grass<lineend>
+Ingredient<lineend>
+Ore of Sorcerer's Stone<lineend>
+Soup Seasoning<lineend>
+Grilled Meal Seasoning<lineend>
+Medicinal Ingredient<lineend>
+Jewel requested By Heindel<lineend>
+Sorcerer Stone to go back to the Future<lineend>
+One Section of Sheet Music<lineend>
+Young Sorcerer's Memento<lineend>
 Lost Key<lineend>
-Tip Is Broken<lineend>
-Senses Enemies<lineend>
-Lend A Hand In Battle<lineend>
-Give Items During Battle<lineend>
-Give Potions During Battle<lineend>
-Combo Attack In Battle<lineend>
-Dispel Curses<lineend>
-Bombard Enemies In Battle<lineend>
-Offer Healing In Battle<lineend>
-Grow Healing Flower<lineend>
-Grow Power Flower<lineend>
-Grow Bomb Plant<lineend>
+Sword with Broken Tip<lineend>
+Read Enemy's Signs<lineend>
+Supports you in Battle<lineend>
+Gives you Item During Battle<lineend>
+Gives you Medicine During Battle<lineend>
+Perform Successive Attacks During Battle<lineend>
+Removes Curse from Equipment<lineend>
+Summon Group of Friends to Attack<lineend>
+Perform Healing Magic During Battle<lineend>
+Healing Flower Blooms<lineend>
+Power Recovering Flower Blooms<lineend>
+Seed Becomes Bomb<lineend>
 
 
 
