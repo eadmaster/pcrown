@@ -339,105 +339,105 @@ Seed Becomes Bomb<lineend>
 
 
 
-<CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack evaded!<pause><lineend>
-<CC03EA>Evade Mode<pause><lineend>
-<CC03EA>Side-Step<pause><lineend>
-<CC03EA>Back-Step<pause><lineend>
+Defended against <CC03EA><CC03F4>'s attack!<pause><lineend>
+Dodged <CC03EA><CC03F4>'s attack!<pause><lineend>
+<CC03EA>Evasion Mode<pause><lineend>
+<CC03EA>Evade by Side Step<pause><lineend>
+<CC03EA>Evade by Back Step<pause><lineend>
 <CC03EA>Use Item<pause><lineend>
-<CC03EA>Defend<pause><lineend>
-<CC03EA>No Power!<pause><lineend>
-<CC03EA><CC03F4> is frozen!<pause><lineend>
+<CC03EA>Be on Guard<pause><lineend>
+<CC03EA>Not enough Power<pause><lineend>
+<CC03EA><CC03F4> is frozen in place!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
-<CC03EA><CC03F4>'s attack evaded!<pause><lineend>
-<CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack unevaded!<pause><lineend>
-<CC03EA><CC03F4> knocked you back!<pause><lineend>
-<CC03EA><CC03F4> broke your defense!<pause><lineend>
-<CC03EA><CC03F4> attacked faster!<pause><lineend>
-<CC03EA><CC03F4> turned to gold!!<pause><lineend>
-<CC03EA><CC03F4> is breathing ice!<pause><lineend>
-<CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
-<CC03EA><CC03F4> called his friends!<pause><lineend>
+Evaded <CC03EA><CC03F4>'s attack!<pause><lineend>
+Defended against <CC03EA><CC03F4>'s attack!<pause><lineend>
+Couldn't evade against <CC03EA><CC03F4>'s attack!<pause><lineend>
+Knocked back by <CC03EA><CC03F4>'s attack!<pause><lineend>
+Couldn't defend against <CC03EA><CC03F4>'s attack!<pause><lineend>
+<CC03EA><CC03F4> pierced through the attack's gap!<pause><lineend>
+<CC03EA><CC03F4> changed to Gold!<pause><lineend>
+<CC03EA><CC03F4> exhaled out long freezing breath!<pause><lineend>
+<CC03EA><CC03F4> is clad in sharp ice!<pause><lineend>
+<CC03EA><CC03F4> summoned companions<pause><lineend>
 <CC03EA><CC03F4> ate a heart fruit<pause><lineend>
-<CC03EA>Poison has made items hard to see<pause><lineend>
-<CC03EA>Now more poisoned, hallucinating<pause><lineend>
-<CC03EA><CC03F4> is slowly closing in<pause><lineend>
-<CC03EA><CC03F4> summoned lightning<pause><lineend>
-<CC03EA><CC03F4>s are ganging up on you!<pause><lineend>
+<CC03EA>Unable to see directly under the effect of poison<pause><lineend>
+<CC03EA>Poisoned even more, hallucination became severe<pause><lineend>
+<CC03EA><CC03F4> is rushing in with a rumble<pause><lineend>
+<CC03EA><CC03F4> summoned Lightning<pause><lineend>
+<CC03EA><CC03F4>s have swarmed you<pause><lineend>
 <CC03EA><CC03F4> have scattered your items<pause><lineend>
-<CC03EA><CC03F4>'s arrow hit its mark<pause><lineend>
-<CC03EA>His partner is up to something!<pause><lineend>
-<CC03EA><CC03F4> ate some meat<pause><lineend>
-<CC03EA><CC03F4> waved a mysterious lamp<pause><lineend>
+<CC03EA><CC03F4>'s arrow hit and stays in place<pause><lineend>
+<CC03EA>Partner is acting suspicious!<pause><lineend>
+<CC03EA><CC03F4> ate meat<pause><lineend>
+<CC03EA><CC03F4> shook a mysterious Lamp<pause><lineend>
 <CC03EA><CC03F4> summoned a Banshee<pause><lineend>
-<CC03EA>Hit by the Banshee's arrow<pause><lineend>
-<CC03EA><CC03F4> took you to faraway seas<pause><lineend>
-<CC03EA>Body reverting back to normal.<pause><lineend>
-<CC03EA><CC03F4> used telekinesis<pause><lineend>
-<CC03EA><CC03F4> raised his beheading sword<pause><lineend>
-<CC03EA><CC03F4> caught you in his net<pause><lineend>
-<CC03EA><CC03F4>started a whirlwind<pause><lineend>
-<CC03EA><CC03F4> has focused its energy<pause><lineend>
-<CC03EA><CC03F4> has taken a human form<pause><lineend>
-<CC03EA><CC03F4> is mad with rage!<pause><lineend>
-<CC03EA><CC03F4> is breathing fire<pause><lineend>
-<CC03EA><CC03F4> will blast you with fire<pause><lineend>
-<CC03EA><CC03F4> released evil magic<pause><lineend>
-<CC03EA><CC03F4> was sacrificed<pause><lineend>
-<CC03EA><CC03F4> summoned poisonous snakes<pause><lineend>
-<CC03EA><CC03F4> summoned an ice devil<pause><lineend>
-<CC03EA><CC03F4> has controlled the dead<pause><lineend>
+<CC03EA>Struck by the Banshee's Cursed Arrow<pause><lineend>
+<CC03EA><CC03F4> took you to the Sea's Spirit World<pause><lineend>
+<CC03EA>Some of your Body became normal<pause><lineend>
+<CC03EA><CC03F4> used Telekinesis<pause><lineend>
+<CC03EA><CC03F4> raised beheading Sword overhead<pause><lineend>
+<CC03EA><CC03F4> caught you in its net<pause><lineend>
+<CC03EA><CC03F4>generated a Whirlwind<pause><lineend>
+<CC03EA><CC03F4> concentrated Energy<pause><lineend>
+<CC03EA><CC03F4> possessed a Doll<pause><lineend>
+<CC03EA><CC03F4> is enraged with Anger<pause><lineend>
+<CC03EA><CC03F4> exhaled burning flame<pause><lineend>
+<CC03EA><CC03F4> targets your body with Flame<pause><lineend>
+<CC03EA><CC03F4> released brutal Sorcery<pause><lineend>
+<CC03EA><CC03F4> ate a living Sacrifice<pause><lineend>
+<CC03EA><CC03F4> summoned poisonous Snakes<pause><lineend>
+<CC03EA><CC03F4> summoned Magical Ice Beast<pause><lineend>
+<CC03EA><CC03F4> has pulled the strings of the Decased<pause><lineend>
 <CC03EA><CC03F4> summoned a ghost<pause><lineend>
 <CC03EA><CC03F4> summoned a beast<pause><lineend>
-<CC03EA>A Bewitching Beauty...<pause><lineend>
-<CC03EA><CC03F4> focused magic in his claws<pause><lineend>
-<CC03EA><CC03F4> threw a fireball<pause><lineend>
-<CC03EA><CC03F4> fired a strong beam<pause><lineend>
-<CC03EA>Another one wants his turn<pause><lineend>
-<CC03EA><CC03F4> is all busted up<pause><lineend>
-<CC03EA><CC03F4> summoned meteors<pause><lineend>
-<CC03EA><CC03F4> can't gaurd or evade<pause><lineend>
-<CC03EA><color=0000>Select an Equipment Item<lineend><pause>
-<CC03EA><color=0000>Select a Food<lineend><pause>
-<CC03EA><color=0000>Select a Gem<lineend><pause>
-<CC03EA><color=0000>Choose something to restore<lineend><pause>
-<CC03EA><color=0000><CC03F7> is done<lineend><pause>
-<CC03EA><color=0000><CC03F7> is necessary<lineend><pause>
-<CC03EA><color=0000><CC03F7> can't be cooked<lineend><pause>
-<CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
-<CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s endurance has gone up<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s curse is wearing off<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s curse is dispelled<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s endurance is at max<lineend><pause>
-<CC03EA><color=0000><CC03F7> is not cursed<lineend><pause>
-<CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
-<CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
-<CC03EA><color=0000><CC03F7> is cursed<lineend><pause>
-<CC03EA><color=0000>You don't have any Food items<lineend><pause>
-<CC03EA><color=0000>You have no spice<lineend><pause>
-<CC03EA><color=0000>Change item's location<lineend><pause>
-<CC03EA><color=0000>Swap bag contents<lineend><pause>
-<CC03EA><color=0000>Main Bag<lineend><pause>
+<CC03EA>Enchantingly Beautiful Flower Alraune has been summoned<pause><lineend>
+<CC03EA><CC03F4> concentrated Sorcery in the Claws<pause><lineend>
+<CC03EA><CC03F4> violently threw a Fireball against you<pause><lineend>
+<CC03EA><CC03F4> emitted a powerful Beam<pause><lineend>
+<CC03EA>Changed direction with Bloodlust<pause><lineend>
+<CC03EA><CC03F4>'s arm is destroyed<pause><lineend>
+<CC03EA><CC03F4> summoned King of Stars<pause><lineend>
+<CC03EA><CC03F4> cannot Evade or Guard<pause><lineend>
+<CC03EA><color=0000>Please Select an Equipment Item<lineend><pause>
+<CC03EA><color=0000>Please Select an Ingredient<lineend><pause>
+<CC03EA><color=0000>Please Select a Gem<lineend><pause>
+<CC03EA><color=0000>Choose something to Restore<lineend><pause>
+<CC03EA><color=0000><CC03F7> is completed<lineend><pause>
+<CC03EA><color=0000><CC03F7> is also required<lineend><pause>
+<CC03EA><color=0000><CC03F7> cannot cook<lineend><pause>
+<CC03EA><color=0000><CC03F7> was able to restore<lineend><pause>
+<CC03EA><color=0000><CC03F7> cannot be restored<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s Stamina has increased<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s Curse Strength has worn off<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s Curse released<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s Stamina is at maximum<lineend><pause>
+<CC03EA><color=0000><CC03F7> is not Cursed<lineend><pause>
+<CC03EA><color=0000><CC03F7> was able to restore<lineend><pause>
+<CC03EA><color=0000><CC03F7> cannot restore<lineend><pause>
+<CC03EA><color=0000><CC03F7> is Cursed<lineend><pause>
+<CC03EA><color=0000>No Ingredients<lineend><pause>
+<CC03EA><color=0000>No Seasoning<lineend><pause>
+<CC03EA><color=0000>To change Item's location, move it<lineend><pause>
+<CC03EA><color=0000>Shift Bag's Contents<lineend><pause>
+<CC03EA><color=0000>Current Bag in Use<lineend><pause>
 <CC03EA><color=0000>Spare Bag<lineend><pause>
-<CC03EA><color=0000>Familiar's Bag<lineend><pause>
+<CC03EA><color=0000>Follower's Item Bag<lineend><pause>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
-<CC03EA><color=0000><CC03F7> has broken<lineend><pause>
-<CC03EA><color=0000><CC03F7> is dropped<lineend><pause>
-<CC03EA><color=0000><CC03F7> is no longer effective<lineend><pause>
+<CC03EA><color=0000><CC03F7> is broken<lineend><pause>
+<CC03EA><color=0000><CC03F7> dropped<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s effects expired<lineend><pause>
 
 
-<CC03EA>Sword!<lineend>Grant me strength and courage!!<pause><lineend>
-<CC03EA>In the name of all mighty Queens!!<pause><lineend>
-<CC03EA>If I land another hit, I hope it's this one!<pause><lineend>
-<CC03EA>Did that hurt? This will put you out of your misery!!<pause><lineend>
-<CC03EA>I don't care who you are. You get in my way, you die!!<pause><lineend>
-<CC03EA>Sword! Embody my anger!!<pause><lineend>
-<CC03EA>Here we go! This one's going to be full-blast!!<pause><lineend>
-<CC03EA>It's been fun. Bye now!!<pause><lineend>
-<CC03EA>Enough! Just die already!!<pause><lineend>
-<CC03EA>You better hope this doesn't stick, or you're finished!<pause><lineend>
-<CC03EA>You almost had me. Now it's my turn!<pause><lineend>
-<CC03EA>You'll never beat me, if that's all you've got!<pause><lineend>
-<CC03F3=0000><CC03EA>I sense monsters nearby<pause><lineend>
+<CC03EA>Sword!<lineend>Grant me Courage and Strength!!<pause><lineend>
+<CC03EA>To not lose<lineend>I swear by the name of Princess!!<pause><lineend>
+<CC03EA>Good by this blow<lineend>fulfill!<pause><lineend>
+<CC03EA>Painful?<lineend>And by this it is over!!<pause><lineend>
+<CC03EA>One who stands in the way of my journey<lineend>who it is, is defeated!!<pause><lineend>
+<CC03EA>Sword!<lineend>Respond to this Rage!!<pause><lineend>
+<CC03EA>I'm gooing!<lineend>Sorcery full throttle!!<pause><lineend>
+<CC03EA>Skillful until now<lineend>You've given it!!<pause><lineend>
+<CC03EA>Enough! The lines of you<lineend>diies!!<pause><lineend>
+<CC03EA>Well, i'm gooin'!<lineend>Avoid punishment with your life<pause><lineend>
+<CC03EA>That blow earlier was certainly dangerous<lineend>This time it's my turn!<pause><lineend>
+<CC03EA>With such an attack<lineend>You can't kill ME!!<pause><lineend>
+<CC03F3=0000><CC03EA>I sense the Enemy<pause><lineend>
