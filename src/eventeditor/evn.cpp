@@ -1285,7 +1285,6 @@ char *FixLineWrap(char *text, int event_id)
       else if ((unsigned char)text[i] <= 0x7F)
       {
          // Keep going until I hit a control code, etc.
-         
          int j = 0;
 
          // Find end of word
@@ -1373,7 +1372,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
    text_num[0] = 0;
 
 	num_text = EVNGetCompressionNum(cur_cmd43_var);
-
+   
    if (num_text == 0)
       return NULL;
 
@@ -1404,13 +1403,15 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 		
 		}
 
-		text = FixLineWrap(text, event_id);
+/*
+		text = FixLineWrap(text, event_id);  // 2FIX: crash with ascii text
 		if (text == NULL)
 		{
 			free (text_pointer_list);
 			return NULL;
 		}
-
+  */
+      
 		// Create new entry for pointer
 		text_pointer_list[l] = out_size[0];
 		for (i = 0; i < strlen(text);)
@@ -1483,12 +1484,43 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 						pattern_found = TRUE;
 					}
 				}
+            
 
 				if (!pattern_found)
 				{
 					// Just add as is
-					CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
-					i++;
+					//CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
+					//i++;
+               // convert to 16-bit char
+                              
+               // Find Character and encode
+               if ( text[i]  == ' ') CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == ',') CompressAddWord(1, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '.') CompressAddWord(2, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '?') CompressAddWord(4, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '!') CompressAddWord(5, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '_') CompressAddWord(6, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '-') CompressAddWord(8, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '~') CompressAddWord(9, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '(') CompressAddWord(10, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == ')') CompressAddWord(11, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '\'') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '\"') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '%') CompressAddWord(16, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '0') CompressAddWord(0x11, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '1') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '2') CompressAddWord(0x13, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '3') CompressAddWord(0x14, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '4') CompressAddWord(0x15, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '5') CompressAddWord(0x16, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '6') CompressAddWord(0x17, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '7') CompressAddWord(0x18, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '8') CompressAddWord(0x19, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  == '9') CompressAddWord(0x1A, &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  >= 'A' && text[i] <= 'Z') CompressAddWord((0x3C0 + text[i] - 'A'), &outbuf, out_size, &magic_number, &enc_count);
+               else if ( text[i]  >= 'a' && text[i] <= 'z') CompressAddWord((0x3E0 + text[i] - 'a'), &outbuf, out_size, &magic_number, &enc_count);
+               else printf("invalid char found (skipped): %c\n", text[i]);
+               i++;
 				}
 			}
 			// Shift-JIS, convert 4 characters to 
@@ -1500,10 +1532,11 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 					if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
 					{
 						CompressAddWord(j, &outbuf, out_size, &magic_number, &enc_count);
-						i+= 2;
+                  // i+= 2;
 						break;
 					}
 				}
+            i+= 2;  // skip char if not found
 			}
 		}
 

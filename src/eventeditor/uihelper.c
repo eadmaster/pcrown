@@ -22,7 +22,8 @@
 #include <stdio.h>
 #include <fcntl.h>
 #include <io.h>
-#include <TCHAR.h>
+//#include <TCHAR.h>
+#include <tchar.h>
 
 #include "uihelper.h"
 

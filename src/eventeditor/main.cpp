@@ -20,7 +20,7 @@
 
 #include <windows.h>
 #include <commctrl.h>
-#include <Shlobj.h>
+#include <shlobj.h>
 #include <richedit.h>
 #include <stdio.h>
 #include <io.h>
