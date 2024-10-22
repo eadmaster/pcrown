@@ -25,9 +25,11 @@ My attempt to restart the CyberWarriorX translation project.
 
 ## Contributions
  
-Issues, PRs and discussions are currently restricted to contributors.
+Issues, PRs and discussions are currently restricted to contributors to avoid spamming.
 
 Contact me via forums if you can contribute:
 
  - https://segaxtreme.net/threads/help-me-translate-princess-crown.18555/
  - https://gbatemp.net/threads/princess-crown-psp-any-updates.645443/
+
+Currently i mostly need help with the code part, a [semi-complete translation](https://github.com/eadmaster/pcrown/tree/master/script/eng) was already contributed by SamIAm.
