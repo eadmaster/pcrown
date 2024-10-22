@@ -7,9 +7,14 @@ My attempt to restart the CyberWarriorX translation project.
 
 ## Current status
 
- - story events patching works using a fixed-size font, word wrapping still needs reworking
+ - story events patching works using a fixed-width font
+   - word wrapping still needs reworking
  - items and names translation TBA soon
  - needs testing for crashes
+
+## Preview
+
+![shot1](https://github.com/user-attachments/assets/517c4f76-3926-4831-9924-0dd5ac1e6487)
 
 ## Patch instructions
 
