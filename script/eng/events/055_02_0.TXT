@@ -1,23 +1,23 @@
 0|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>Hello, m'lady!<pause><lineend><CC03EA>This is the beginner course of the world-famous Truck-Chase!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>Hello, m'lady!<pause><lineend><CC03EA>This is the<lineend>beginner course of the world-famous Truck-Chase!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>You there! Young lady!<pause><lineend><CC03EA>This is the world-famous Truck-Chase's intermediate course.<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>You there! Young<lineend>lady!<pause><lineend><CC03EA>This is the<lineend>world-famous Truck-Chase's intermediate course.<pause><lineend>|
 2|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho ho!<lineend>Welcome, my lady.<pause><lineend><CC03EA>This is the Truck-Chase's advanced course. Experts only!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho ho!<lineend>Welcome, my lady.<pause><lineend><CC03EA>This is the<lineend>Truck-Chase's advanced course. Experts only!<pause><lineend>|
 3|
-<CC03EA><CC03FC=0004><string=01CE><color=0001>Since your bag is full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01CE><color=0001>Since your bag is<lineend>full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 4|
-<CC03EA><CC03FC=0004><string=01CF><color=0001>Since your bag is full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01CF><color=0001>Since your bag is<lineend>full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 5|
-<CC03EA><CC03FC=0004><string=00EA><color=0001>It looks like your bag is full. If you win, you won't be able to keep your prize!<pause><lineend><CC03EA> Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=00EA><color=0001>It looks like your<lineend>bag is full. If you win, you won't be able to keep your prize!<pause><lineend><CC03EA> Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 6|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>All right, then. Come again once you've lightened your load.<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>All right, then.<lineend>Come again once you've lightened your load.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>OK, then. Lighten your load, then come see me.<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>OK, then. Lighten<lineend>your load, then come see me.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>OK. See me again after you've taken care of that.<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>OK. See me again<lineend>after you've taken care of that.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>It will cost you 70G. Is that all right?<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>It will cost you<lineend>70G. Is that all right?<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=01CE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 11|
@@ -25,60 +25,60 @@
 12|
 <CC03EA><CC03FC=0004><string=01CF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 13|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>This one costs 130G.<lineend>Still up for it?<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>This one costs<lineend>130G.<lineend>Still up for it?<pause><lineend>|
 14|
 <CC03EA><CC03FC=0004><string=00EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 15|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>Ho ho...You're in for a heck of a ride! Shall I explain the rules?<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>Ho ho...You're in<lineend>for a heck of a ride! Shall I explain the rules?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>All right, then. Shall I explain the rules?<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>All right, then.<lineend>Shall I explain the rules?<pause><lineend>|
 17|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho!! Wonderful!!<lineend>Do you need to hear the rules?<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho!! Wonderful!!<lineend>Do you need to hear<lineend>the rules?<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>It's pretty simple, but listen well.<pause><lineend><CC03EA>Two small Dwarves are going to race in minecarts for us.<pause><lineend><CC03EA>Needless to say, the first to the finish is the winner.<pause><lineend><CC03EA>Your Dwarf is going to do exactly as you say, so you don't need to worry.<pause><lineend><CC03EA>If you win, you'll get a prize. If I win, you won't get anything.<pause><lineend><CC03EA>Press the Up Button when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the rails entirely, the race will be over, so be careful.<pause><lineend><CC03EA>Also, boulders will occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into one, your speed will drop.<pause><lineend><CC03EA>As you collect Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you grab along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on coins too much, though, you'll never catch me.<pause><lineend><CC03EA>That about covers it. Are you ready? Then let the chase begin!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>It's pretty simple,<lineend>but listen well.<pause><lineend><CC03EA>Two small Dwarves<lineend>are going to race in minecarts for us.<pause><lineend><CC03EA>Needless to say,<lineend>the first to the finish is the winner.<pause><lineend><CC03EA>Your Dwarf is going<lineend>to do exactly as you say, so you don't need to worry.<pause><lineend><CC03EA>If you win, you'll<lineend>get a prize. If I win, you won't get anything.<pause><lineend><CC03EA>Press the Up Button<lineend>when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the<lineend>rails entirely, the race will be over, so be careful.<pause><lineend><CC03EA>Also, boulders will<lineend>occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into<lineend>one, your speed will drop.<pause><lineend><CC03EA>As you collect<lineend>Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C<lineend>Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you<lineend>grab along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on<lineend>coins too much, though, you'll never catch me.<pause><lineend><CC03EA>That about covers<lineend>it. Are you ready? Then let the chase begin!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>OK, then. It's pretty simple.<pause><lineend><CC03EA>Two small Dwarves are going to race in minecarts for us.<pause><lineend><CC03EA>Needless to say, the first to the finish is the winner.<pause><lineend><CC03EA>Your Dwarf is going to do exactly as you say, so just relax.<pause><lineend><CC03EA>If you win, you'll get a prize. If I win, you get nothing.<pause><lineend><CC03EA>Press the Up Button when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the rails entirely, the race will be over, so watch it.<pause><lineend><CC03EA>Also, boulders will occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into one, your speed will drop.<pause><lineend><CC03EA>As you collect Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you grab along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on coins too much, though, I'll beat you for sure.<pause><lineend><CC03EA>I think that's all. Have you got it? Then let's go!<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>OK, then. It's<lineend>pretty simple.<pause><lineend><CC03EA>Two small Dwarves<lineend>are going to race in minecarts for us.<pause><lineend><CC03EA>Needless to say,<lineend>the first to the finish is the winner.<pause><lineend><CC03EA>Your Dwarf is going<lineend>to do exactly as you say, so just relax.<pause><lineend><CC03EA>If you win, you'll<lineend>get a prize. If I win, you get nothing.<pause><lineend><CC03EA>Press the Up Button<lineend>when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the<lineend>rails entirely, the race will be over, so watch it.<pause><lineend><CC03EA>Also, boulders will<lineend>occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into<lineend>one, your speed will drop.<pause><lineend><CC03EA>As you collect<lineend>Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C<lineend>Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you<lineend>grab along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on<lineend>coins too much, though, I'll beat you for sure.<pause><lineend><CC03EA>I think that's all.<lineend>Have you got it? Then let's go!<pause><lineend>|
 20|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>OK. Piece of cake.<pause><lineend><CC03EA>Two small Dwarves are going to race in minecarts for you and me.<pause><lineend><CC03EA>Needless to say, the first one to the finish wins.<pause><lineend><CC03EA>Your Dwarf is going to do exactly as you say, so don't worry about a thing.<pause><lineend><CC03EA>If you win, you'll get a prize.<pause><lineend><CC03EA>Press the Up Button when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the rails entirely, the race will be over. So be careful!<pause><lineend><CC03EA>Also, boulders will occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into them, your speed will drop.<pause><lineend><CC03EA>As you collect Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you pick up along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on them too much, though, you'll never catch me.<pause><lineend><CC03EA>That should do it. Are you ready? Then let the chase begin!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>OK. Piece of cake.<pause><lineend><CC03EA>Two small Dwarves<lineend>are going to race in minecarts for you and me.<pause><lineend><CC03EA>Needless to say,<lineend>the first one to the finish wins.<pause><lineend><CC03EA>Your Dwarf is going<lineend>to do exactly as you say, so don't worry about a thing.<pause><lineend><CC03EA>If you win, you'll<lineend>get a prize.<pause><lineend><CC03EA>Press the Up Button<lineend>when you come to the end of a rail, and you'll jump.<pause><lineend><CC03EA>If you fall off the<lineend>rails entirely, the race will be over. So be careful!<pause><lineend><CC03EA>Also, boulders will<lineend>occasionally fall on the rails, so try to avoid them.<pause><lineend><CC03EA>If you run into<lineend>them, your speed will drop.<pause><lineend><CC03EA>As you collect<lineend>Magic Mushrooms, your cart's power-gauge will charge up.<pause><lineend><CC03EA>Pressing the C<lineend>Button will make your speed go up.<pause><lineend><CC03EA>Whatever coins you<lineend>pick up along the way will be added to your reward at the end.<pause><lineend><CC03EA>If you focus on<lineend>them too much, though, you'll never catch me.<pause><lineend><CC03EA>That should do it.<lineend>Are you ready? Then let the chase begin!<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>Aww, but it's so much fun! Think about it, OK?<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>Aww, but it's so<lineend>much fun! Think about it, OK?<pause><lineend>|
 22|
 <CC03EA><color=0006><string=01CF><lineend><color=0001>That's too bad.<lineend>Maybe next time.<pause><lineend>|
 23|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>How unexciting...<lineend>Maybe next time.<pause><lineend>|
 24|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>Oh, look at that. You don't have enough money!<pause><lineend><CC03EA>I guess you better go find some more!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>Oh, look at that.<lineend>You don't have enough money!<pause><lineend><CC03EA>I guess you better<lineend>go find some more!<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>Hey! You don't have enough!<lineend>Try again later.<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>Hey! You don't have<lineend>enough!<lineend>Try again later.<pause><lineend>|
 26|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>You don't have enough, my lady. Try us again later.<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>You don't have<lineend>enough, my lady. Try us again later.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>OK!<lineend>Let the chase begin!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>OK!<lineend>Let the chase<lineend>begin!<pause><lineend>|
 28|
 <CC03EA><color=0006><string=01CF><lineend><color=0001>Let's do it, then!<pause><lineend>|
 29|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Then let the chase begin!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Then let the chase<lineend>begin!<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>Wow! You're fast!<lineend>Lightning fast!<pause><lineend><CC03EA>Well, here's your prize.<lineend>Let's do it again soon!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>Wow! You're fast!<lineend>Lightning fast!<pause><lineend><CC03EA>Well, here's your<lineend>prize.<lineend>Let's do it again<lineend>soon!<pause><lineend>|
 31|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>Hmph! I can't believe I lost!<pause><lineend><CC03EA>Well, here's your prize.<lineend>Now I want a rematch!<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>Hmph! I can't<lineend>believe I lost!<pause><lineend><CC03EA>Well, here's your<lineend>prize.<lineend>Now I want a<lineend>rematch!<pause><lineend>|
 32|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>*Huff*...*Puff*...I...I lost? You really are amazing, young lady.<pause><lineend><CC03EA>Well, here's your prize. I can't wait for our next match!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>*Huff*...*Puff*...I...I lost? You really are amazing, young lady.<pause><lineend><CC03EA>Well, here's your<lineend>prize. I can't wait for our next match!<pause><lineend>|
 33|
-<CC03EA><color=0006><string=01CE><lineend><color=0001>It's tough, isn't it?<pause><lineend><CC03EA>Well, everyone has their bad days. Maybe luck will be on your side next time!<pause><lineend>|
+<CC03EA><color=0006><string=01CE><lineend><color=0001>It's tough, isn't<lineend>it?<pause><lineend><CC03EA>Well, everyone has<lineend>their bad days. Maybe luck will be on your side next time!<pause><lineend>|
 34|
-<CC03EA><color=0006><string=01CF><lineend><color=0001>Nice try. Heh heh...<pause><lineend><CC03EA>Let me know when you're ready to take another crack at it.<pause><lineend>|
+<CC03EA><color=0006><string=01CF><lineend><color=0001>Nice try. Heh<lineend>heh...<pause><lineend><CC03EA>Let me know when<lineend>you're ready to take another crack at it.<pause><lineend>|
 35|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho ho ho!!!<lineend>Nobody beats me!!<pause><lineend>|
 36|
 <CC03EA><color=0002>Got a <CC03F7>!<pause><lineend>|
 37|
-<CC03EA><color=0006><string=0092><lineend><color=0001>Coming here is a great break from work.<pause><lineend><CC03EA>It turns out racing is the perfect stress reliever!<pause><lineend>|
+<CC03EA><color=0006><string=0092><lineend><color=0001>Coming here is a<lineend>great break from work.<pause><lineend><CC03EA>It turns out racing<lineend>is the perfect stress reliever!<pause><lineend>|
 38|
-<CC03EA><color=0006><string=0095><lineend><color=0001>Truck-Chase is going to go down as one of the great Dwarf inventions.<pause><lineend>|
+<CC03EA><color=0006><string=0095><lineend><color=0001>Truck-Chase is<lineend>going to go down as one of the great Dwarf inventions.<pause><lineend>|
 39|
-<CC03EA><color=0006><string=0098><lineend><color=0001>The king was actually the one who made the carts.<pause><lineend><CC03EA>He often woke me up in the middle of the night to make me help him, too!<pause><lineend><CC03EA>Ah, the memories...<pause><lineend>|
+<CC03EA><color=0006><string=0098><lineend><color=0001>The king was<lineend>actually the one who made the carts.<pause><lineend><CC03EA>He often woke me up<lineend>in the middle of the night to make me help him, too!<pause><lineend><CC03EA>Ah, the memories...<pause><lineend>|
 40|
-<CC03EA><color=0006><string=01D1><lineend><color=0001>M'lady?<pause><lineend><CC03EA>If you want to try the Truck-Chase, I'll be your driver.<pause><lineend><CC03EA>After all, you're too big to fit in one of the carts. I'm just the right size, though!<pause><lineend><CC03EA>I'll do exactly as you say, though, so relax and enjoy the race!<pause><lineend>|
+<CC03EA><color=0006><string=01D1><lineend><color=0001>M'lady?<pause><lineend><CC03EA>If you want to try<lineend>the Truck-Chase, I'll be your driver.<pause><lineend><CC03EA>After all, you're<lineend>too big to fit in one of the carts. I'm just the right size, though!<pause><lineend><CC03EA>I'll do exactly as<lineend>you say, though, so relax and enjoy the race!<pause><lineend>|
 41|
-<CC03EA><color=0006><string=01D0><lineend><color=0001>Think you can beat us?<pause><lineend>|
+<CC03EA><color=0006><string=01D0><lineend><color=0001>Think you can beat<lineend>us?<pause><lineend>|

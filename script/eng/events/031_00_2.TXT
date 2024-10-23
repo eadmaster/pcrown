@@ -1,20 +1,20 @@
 0|
-<CC03EA><color=0006><string=0035><lineend><color=0001>Leon hasn't been back once since he started his journey.<pause><lineend><CC03EA>I miss him...<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>Leon hasn't been<lineend>back once since he started his journey.<pause><lineend><CC03EA>I miss him...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>It looks like today's going to be another hot one.<pause><lineend><CC03EA>I think I'll go have myself a beer!<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>It looks like<lineend>today's going to be another hot one.<pause><lineend><CC03EA>I think I'll go<lineend>have myself a beer!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>I saw Leon a few days ago. It was in the middle of the night.<pause><lineend><CC03EA>He was with a woman who was wearing a mantle.<pause><lineend><CC03EA>When I went to see him in the morning, though, there was nobody in his house.<pause><lineend><CC03EA>Maybe it was only a dream...<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>I saw Leon a few<lineend>days ago. It was in the middle of the night.<pause><lineend><CC03EA>He was with a woman<lineend>who was wearing a mantle.<pause><lineend><CC03EA>When I went to see<lineend>him in the morning, though, there was nobody in his house.<pause><lineend><CC03EA>Maybe it was only a<lineend>dream...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a really fun game called <color=0003>Truck Chase<color=0001> that you can play there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine<lineend>just went to the Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a<lineend>really fun game called <color=0003>Truck Chase<color=0001> that you can play<lineend>there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Hey, it's the girl who beat up that monster!<pause><lineend><CC03EA>Well, guess what? I beat up a monster, too!<pause><lineend><CC03EA>I saw a Goblin wandering by himself, and I smacked him with a Large Bone!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Hey, it's the girl<lineend>who beat up that monster!<pause><lineend><CC03EA>Well, guess what? I<lineend>beat up a monster, too!<pause><lineend><CC03EA>I saw a Goblin<lineend>wandering by himself, and I smacked him with a Large Bone!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=000B><lineend><color=0001>I heard the castle came under attack.<pause><lineend><CC03EA>I was thinking of getting some milk from the next village...<pause><lineend><CC03EA>Now I'm not sure that's a good idea...<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>I heard the castle<lineend>came under attack.<pause><lineend><CC03EA>I was thinking of<lineend>getting some milk from the next village...<pause><lineend><CC03EA>Now I'm not sure<lineend>that's a good idea...<pause><lineend>|
 6|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Aaah...Aaah....Aaah-Choo!<pause><lineend><CC03EA>I can't stop sneezing!<pause><lineend><CC03EA>Did you know that when you sneeze, it means someone is talking about you?<pause><lineend><CC03EA>For a handsome guy like me, it only figures.<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Aaah...Aaah....Aaah-Choo!<pause><lineend><CC03EA>I can't stop<lineend>sneezing!<pause><lineend><CC03EA>Did you know that<lineend>when you sneeze, it means someone is talking about you?<pause><lineend><CC03EA>For a handsome guy<lineend>like me, it only figures.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Have you visited Cadho Badho yet? It's a really big city!<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Have you visited<lineend>Cadho Badho yet? It's a really big city!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you something nobody else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find the a great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you<lineend>something nobody else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy<lineend>Woods,<color=0001> you can find the a<lineend>great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as<lineend>you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the Fairy Woods.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the<lineend>Fairy Woods.<color=0001><pause><lineend>|

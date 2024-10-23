@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>At the moment, half of our Knights are away fighting Dragons.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>At the moment, half<lineend>of our Knights are away fighting Dragons.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>Those of us remaining here will protect the Royal Family with all our might!<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>Those of us<lineend>remaining here will protect the Royal Family with all our might!<pause><lineend>|

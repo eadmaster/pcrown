@@ -1,8 +1,8 @@
 0|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time to turn back now!<pause><lineend><CC03EA>I've got to chase those Demons out of the castle!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time<lineend>to turn back now!<pause><lineend><CC03EA>I've got to chase<lineend>those Demons out of the castle!<lineend><pause>|
 1|
 <CC03F0=0001000D0000000A03FF00000000>|
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...He's dead...<lineend>What's going on here?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...He's dead...<lineend>What's going on<lineend>here?<pause><lineend>|
 65537|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Why am I not surprised?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Why am I not<lineend>surprised?<pause><lineend>|

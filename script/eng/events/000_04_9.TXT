@@ -1,30 +1,30 @@
 0|
 <CC03EA><color=0006><string=017F><lineend><color=0001>How frightening!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>I was scared half to death!<pause><lineend><CC03EA>At least now I know what an earthquake feels like.<pause><lineend><CC03EA>I had never felt one before in my whole life.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>I was scared half<lineend>to death!<pause><lineend><CC03EA>At least now I know<lineend>what an earthquake feels like.<pause><lineend><CC03EA>I had never felt<lineend>one before in my whole life.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Queen Gradriel, this gives me a most terrible premonition.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Queen Gradriel,<lineend>this gives me a most terrible premonition.<pause><lineend>|
 3|
-<CC03EA><color=0004><string=00FB><lineend><color=0001>Gradriel, we'll take care of everything else while you're gone.<pause><lineend><CC03EA>Sidrael and I can protect the kingdom together.<pause><lineend>|
+<CC03EA><color=0004><string=00FB><lineend><color=0001>Gradriel, we'll<lineend>take care of everything else while you're gone.<pause><lineend><CC03EA>Sidrael and I can<lineend>protect the kingdom together.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=00FC><lineend><color=0001>I'm praying that Volgrod's humanity has returned to him...<pause><lineend>|
+<CC03EA><color=0004><string=00FC><lineend><color=0001>I'm praying that<lineend>Volgrod's humanity has returned to him...<pause><lineend>|
 5|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Is every other town and village all right?<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Is every other town<lineend>and village all right?<pause><lineend>|
 6|
-<CC03EA><color=0006><string=007E><lineend><color=0001>What was that earthquake all about?<pause><lineend><CC03EA>In this kingdom, earthquakes are practically unheard of.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>What was that<lineend>earthquake all about?<pause><lineend><CC03EA>In this kingdom,<lineend>earthquakes are practically unheard of.<pause><lineend>|
 7|
-<CC03EA><color=0004><string=0102><lineend><color=0001>May your travels be unfettered.<pause><lineend><CC03EA>In your absence, I shall protect the kingdom at all costs.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>May your travels be<lineend>unfettered.<pause><lineend><CC03EA>In your absence, I<lineend>shall protect the kingdom at all costs.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>May true peace once again reign over this land. We must all pray.<pause><lineend><CC03EA>How about yourself? Won't you join me in a prayer?<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>May true peace once<lineend>again reign over this land. We must all pray.<pause><lineend><CC03EA>How about yourself?<lineend>Won't you join me in a prayer?<pause><lineend>|
 9|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 10|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard your Majesty's prayers.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps another time.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps<lineend>another time.<pause><lineend>|
 12|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 13|
-<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
 14|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

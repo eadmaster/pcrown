@@ -1,18 +1,18 @@
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Here it is.<lineend>The Land Stone, as promised.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Here it is.<lineend>The Land Stone, as<lineend>promised.<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=0104><lineend><color=0001>That is indeed the Land Stone.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>That is indeed the<lineend>Land Stone.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Please tell me how to help Edward!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please tell me how<lineend>to help Edward!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0104><lineend><color=0001>East of the Dwarf Kingdom is a magic forest. Perhaps you know of it.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>East of the Dwarf<lineend>Kingdom is a magic forest. Perhaps you know of it.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit from the Dwarves' town,<color=0001> and you'll find it quickly enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a Demon lurks.<color=0001> His name is Shadow.<pause><lineend><CC03EA>Shadow has a Gem called the Time Stone. As its name suggests, it controls the flow of time.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit<lineend>from the Dwarves' town,<color=0001> and you'll find it<lineend>quickly enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a<lineend>Demon lurks.<color=0001> His name is<lineend>Shadow.<pause><lineend><CC03EA>Shadow has a Gem<lineend>called the Time Stone. As its name suggests, it controls the flow of time.<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The flow of time?<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0104><lineend><color=0001>You can use that Gem to go back to before Edward was killed.<pause><lineend><CC03EA>Of course, that's assuming you can get it back from Shadow first.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You can use that<lineend>Gem to go back to before Edward was killed.<pause><lineend><CC03EA>Of course, that's<lineend>assuming you can get it back from Shadow first.<pause><lineend>|
 65543|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The Time Stone...Shadow...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The Time<lineend>Stone...Shadow...<pause><lineend>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'll give it a try.<lineend>Thank you, Heindel.<pause><lineend>|

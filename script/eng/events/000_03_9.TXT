@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>May you have a safe departure.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>May you have a safe<lineend>departure.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I've felt an increasing sense of dread ever since the earthquake.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I've felt an<lineend>increasing sense of dread ever since the earthquake.<pause><lineend>|

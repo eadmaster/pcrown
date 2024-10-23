@@ -1,24 +1,24 @@
 65536|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Don't you ever get fed up with losing, Bighook?<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Don't you ever get<lineend>fed up with losing, Bighook?<pause><lineend>|
 65537|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>I heard about you, Portgus. You're leaving the Kingdom. What for?<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>I heard about you,<lineend>Portgus. You're leaving the Kingdom. What for?<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Where did you ever hear that?<pause><lineend><CC03EA>Listen up. Do anything underhanded while I'm gone, and I'll make you regret it.<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Where did you ever<lineend>hear that?<pause><lineend><CC03EA>Listen up. Do<lineend>anything underhanded while I'm gone, and I'll make you regret it.<pause><lineend>|
 65539|
-<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>Is that right? I'm gong exactly wherever you're going.<pause><lineend><CC03EA>I know one thing for sure: where you're headed, there's bound to be treasure.<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>Is that right? I'm<lineend>gong exactly wherever you're going.<pause><lineend><CC03EA>I know one thing<lineend>for sure: where you're headed, there's bound to be treasure.<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=0125><color=0006>Sailor<lineend><color=0001>Did you head what he said, Boss?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0125><color=0006>Sailor<lineend><color=0001>Did you head what<lineend>he said, Boss?<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Leave him be! We've got bigger fish to fry. Prepare for departure.<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Leave him be! We've<lineend>got bigger fish to fry. Prepare for departure.<pause><lineend>|
 131072|
-<CC03EA><color=0002><string=0000><lineend><color=0001>"Edward Glowstar. It is time to recite the pledge of the Knights of Valendia."<pause><lineend><CC03EA>"May I speak not but the truth, and may I bravely face all which is evil."<pause><lineend><CC03EA>"May my heart always be true. May my sword aid the weak in need."<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>"Edward Glowstar.<lineend>It is time to recite the pledge of the Knights of Valendia."<pause><lineend><CC03EA>"May I speak not<lineend>but the truth, and may I bravely face all which is evil."<pause><lineend><CC03EA>"May my heart<lineend>always be true. May my sword aid the weak in need."<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=016D><lineend><color=0001>I won't fight for anyone else.<pause><lineend><CC03EA>My sword is protecting you, and you alone, Gradriel.<lineend>...My Queen.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>I won't fight for<lineend>anyone else.<pause><lineend><CC03EA>My sword is<lineend>protecting you, and you alone, Gradriel.<lineend>...My Queen.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=016D><lineend><color=0001>"Together with the Knight's pledge, I hereby swear myself as the Queen's guardian. <pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>"Together with the<lineend>Knight's pledge, I hereby swear myself as the Queen's guardian. <pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>"In the name of Valendia's Royal Crown...<pause><lineend><CC03EA>...I now bestow upon you the title of Holy Knight.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>"In the name of<lineend>Valendia's Royal Crown...<pause><lineend><CC03EA>...I now bestow<lineend>upon you the title of Holy Knight.<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Queen Gradriel?<pause><lineend><CC03EA>Everyone is asleep now.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Queen Gradriel?<pause><lineend><CC03EA>Everyone is asleep<lineend>now.<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The witch making trouble in Leelend has got to be Proserpina.<pause><lineend><CC03EA>Let's get going!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The witch making<lineend>trouble in Leelend has got to be Proserpina.<pause><lineend><CC03EA>Let's get going!<pause><lineend>|

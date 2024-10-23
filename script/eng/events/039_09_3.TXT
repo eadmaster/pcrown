@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What a strange place to keep running into monsters.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What a strange<lineend>place to keep running into monsters.<pause><lineend>|
 65536|
-<CC03EA><color=0001>I hope you've enjoyed your little tour of my mansion.<pause><lineend>|
+<CC03EA><color=0001>I hope you've<lineend>enjoyed your little tour of my mansion.<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=014F><CC03EA><color=0001>You've probably noticed how my paintings have a way of...coming to life.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=014F><CC03EA><color=0001>You've probably<lineend>noticed how my paintings have a way of...coming to life.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...In other words, you're the one behind all the trouble in town!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...In other words,<lineend>you're the one behind all the trouble in town!<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=014F>I'm only making pretty pictures like people ask me.<pause><lineend><CC03EA>Let me give you a demonstration!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=014F>I'm only making<lineend>pretty pictures like people ask me.<pause><lineend><CC03EA>Let me give you a<lineend>demonstration!<pause><lineend>|

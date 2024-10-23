@@ -1,52 +1,52 @@
 65536|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells<lineend>familiar...<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Golgotha...the one who trapped me there with his sword...<pause><lineend><CC03EA>His blood smelled the same way...<pause><lineend><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Golgotha...the one<lineend>who trapped me there with his sword...<pause><lineend><CC03EA>His blood smelled<lineend>the same way...<pause><lineend><CC03EA>That makes you his<lineend>son, doesn't it?<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Wait, Edward!<pause><lineend><CC03EA>Swords don't work on this Demon!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wait, Edward!<pause><lineend><CC03EA>Swords don't work<lineend>on this Demon!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel...I mean, your Highness...What are you doing here?<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel...I mean,<lineend>your Highness...What are you doing here?<pause><lineend>|
 65540|
-<CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who stole my Gem and sent me 4 years into the future!<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who<lineend>stole my Gem and sent me 4 years into the future!<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run, Edward!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your<lineend>sword wouldn't work. Now to finish you off...<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel! Stand back!<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel! Stand<lineend>back!<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=016D><lineend><color=0001>åïÇÊÅI<lineend>Ç±ÇÃì{ÇËÇ…Ç±ÇΩÇ¶ÇÊÅIÅI<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=016D><lineend><color=0001><CC03ED=016D0008000103FF>...I'd say THIS sword works just fine.<lineend><CC03ED=016D0007000103FF><pause>|
+<CC03EA><color=0004><string=016D><lineend><color=0001><CC03ED=016D0008000103FF>...I'd say THIS<lineend>sword works just fine.<lineend><CC03ED=016D0007000103FF><pause>|
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel...This time, I really do owe you one.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel...This<lineend>time, I really do owe you one.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Beyond this door lies the Demon Realm. Going inside?<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Beyond this door<lineend>lies the Demon Realm. Going inside?<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. They're holding my sister in there.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. They're<lineend>holding my sister in there.<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Then I'm going with you.<pause><lineend><CC03EA>My Father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Then I'm going with<lineend>you.<pause><lineend><CC03EA>My Father would<lineend>never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Edward.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty!<lineend>Welcome to the World of the Demons!<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's the Demon<lineend>that kidnapped Sidrael!<pause><lineend>|
 196610|
-<CC03EA><color=0005><string=0121><lineend><color=0001>I am known as Skulg.<pause><lineend><CC03EA>My apologies for not introducing myself properly at the castle!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I am known as<lineend>Skulg.<pause><lineend><CC03EA>My apologies for<lineend>not introducing myself properly at the castle!<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=016E><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my Father!!<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my<lineend>Father!!<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=016E><lineend><color=0001>I'm sorry, Gradriel, but I want you to go on alone.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'm sorry,<lineend>Gradriel, but I want you to go on alone.<pause><lineend>|
 196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But Edward!<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=016E><lineend><color=0001>I'll catch up as soon as I'm done with this one here.<pause><lineend><CC03EA>Now get going!<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I'll catch up as<lineend>soon as I'm done with this one here.<pause><lineend><CC03EA>Now get going!<pause><lineend>|
 196615|
 <CC03EA><color=0002><string=0000><lineend><color=0001>OK! Good luck!<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=016E><lineend><color=0001>This is good. I didn't want to have to wait long to get revenge.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>This is good. I<lineend>didn't want to have to wait long to get revenge.<pause><lineend>|
 196617|
-<CC03EA><color=0005><string=0121><lineend><color=0001>I see you're carrying the sword that killed Bloody. That stubborn fool...<pause><lineend><CC03EA>I won't be holding back this time. I hope you don't disappoint!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I see you're<lineend>carrying the sword that killed Bloody. That stubborn fool...<pause><lineend><CC03EA>I won't be holding<lineend>back this time. I hope you don't disappoint!<pause><lineend>|

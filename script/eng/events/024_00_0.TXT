@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Hey, there's something written on the door! It says...it says...<pause><lineend><CC03EA>"Many evil spirits are sealed within..."<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hey, there's<lineend>something written on the door! It says...it says...<pause><lineend><CC03EA>"Many evil spirits<lineend>are sealed within..."<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>But it looks like we need a key, so we can't get inside for now.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But it looks like<lineend>we need a key, so we can't get inside for now.<pause><lineend>|
 2|
 <CC03F0=000000880001000703FF00000000>|
 3|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Hey, you don't suppose...<pause><lineend><CC03EA>That key we got from the Froggers...Could it be the key to this door?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hey, you don't<lineend>suppose...<pause><lineend><CC03EA>That key we got<lineend>from the Froggers...Could it be the key to this door?<pause><lineend>|
 4|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It worked!<pause><lineend>|

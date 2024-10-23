@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0005><string=0130><lineend><color=0001>Ha ha ha!<pause><lineend><CC03EA>So many people think there's a bounty, they'll be tripping over each other to get to the lake!<pause><lineend>|
+<CC03EA><color=0005><string=0130><lineend><color=0001>Ha ha ha!<pause><lineend><CC03EA>So many people<lineend>think there's a bounty, they'll be tripping over each other to get to the lake!<pause><lineend>|
 1|
-<CC03EA><color=0005><string=0131><lineend><color=0001>It's just a matter of time until we get our hands on the Siren.<pause><lineend><CC03EA>That witch is going to line our pockets good!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>It's just a matter<lineend>of time until we get our hands on the Siren.<pause><lineend><CC03EA>That witch is going<lineend>to line our pockets good!<pause><lineend>|
 2|
 <CC03F0=000000880001000903FF00000000>|
 3|
@@ -13,10 +13,10 @@
 6|
 <CC03F0=000000880000000F03FF00000000>|
 7|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I see it's you two who are telling everybody lies.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I see it's you two<lineend>who are telling everybody lies.<pause><lineend>|
 8|
-<CC03EA><color=0005><string=0131><lineend><color=0001>Oh, crud! Quick, go hide in town!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>Oh, crud! Quick, go<lineend>hide in town!<pause><lineend>|
 9|
 <CC03F0=013000030001001D03FF000003FF><CC03F0=013100030000001D03FF00000000>|
 10|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Hurry, your Majesty! After them!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Hurry, your<lineend>Majesty! After them!<pause><lineend>|

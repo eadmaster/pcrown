@@ -1,82 +1,82 @@
 65536|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Oh no! I'm out of magic power!!<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Oh no! I'm out of<lineend>magic power!!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Hey monster! Try and get me first!!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hey monster! Try<lineend>and get me first!!<pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend>|
 131073|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>Thanks to you I am!<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I see that you, too, decided to take on the trial all by yourself.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I see that you,<lineend>too, decided to take on the trial all by yourself.<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>...I can handle it alone.<pause><lineend><CC03EA>No matter what anybody says, I'm the descendant of the Silver Sorceress.<pause><lineend><CC03EA>The Sorceress who sealed the Demon General's power!<pause><lineend><CC03EA>I don't need help from any savage swordsma...<lineend>Hold it.<pause><lineend><CC03EA>"You, too?" Does that mean the Warriors' Leader also attempted the trial by himself?<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>...I can handle it<lineend>alone.<pause><lineend><CC03EA>No matter what<lineend>anybody says, I'm the descendant of the Silver Sorceress.<pause><lineend><CC03EA>The Sorceress who<lineend>sealed the Demon General's power!<pause><lineend><CC03EA>I don't need help<lineend>from any savage swordsma...<lineend>Hold it.<pause><lineend><CC03EA>"You, too?" Does<lineend>that mean the Warriors' Leader also attempted the trial by himself?<pause><lineend>|
 131076|
-<CC03EA><color=0002><string=0000><lineend><color=0001>He did.<pause><lineend><CC03EA>Along the way, he found a letter from the Golden Warrior.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>He did.<pause><lineend><CC03EA>Along the way, he<lineend>found a letter from the Golden Warrior.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>I found a letter as well! Shall I read mine aloud?<pause><lineend><CC03EA>"To my heir: This trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach this point...<pause><lineend><CC03EA>...then I am sure that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded. It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the Golden Warrior that I could seal the power of my enemy.<pause><lineend><CC03EA>For as long as you live, remember this: The Warriors are friends to rely upon.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>I found a letter as<lineend>well! Shall I read mine aloud?<pause><lineend><CC03EA>"To my heir: This<lineend>trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked<lineend>together to reach this point...<pause><lineend><CC03EA>...then I am sure<lineend>that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been<lineend>clouded. It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the<lineend>help of the Golden Warrior that I could seal the power of my enemy.<pause><lineend><CC03EA>For as long as you<lineend>live, remember this: The Warriors are friends to rely upon.<pause><lineend>|
 131078|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The letter from the Golden Warrior said precisely the same thing.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The letter from the<lineend>Golden Warrior said precisely the same thing.<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Maybe so, but even if these are from our ancestors, they amount to no more than words.<pause><lineend><CC03EA>Am I really supposed to make friends with the Warriors' Leader after all this time?<pause><lineend><CC03EA>You can't expect me to change my mind about him so easily.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Maybe so, but even<lineend>if these are from our ancestors, they amount to no more than words.<pause><lineend><CC03EA>Am I really<lineend>supposed to make friends with the Warriors' Leader after all this time?<pause><lineend><CC03EA>You can't expect me<lineend>to change my mind about him so easily.<pause><lineend>|
 131080|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>What's so funny?<pause><lineend>|
 131081|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You're saying the same thing about him that he says about you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're saying the<lineend>same thing about him that he says about you.<pause><lineend>|
 131082|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>Well...<pause><lineend>|
 131083|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I've come here because there is something I wanted to tell you.<pause><lineend><CC03EA>And I do hope you'll listen. The Warriors' Leader wants to be friends with you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I've come here<lineend>because there is something I wanted to tell you.<pause><lineend><CC03EA>And I do hope<lineend>you'll listen. The Warriors' Leader wants to be friends with you.<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>He actually said so?<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>He actually said<lineend>so?<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>That's right.<pause><lineend><CC03EA>Take a moment and think hard about what that letter says.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>That's right.<pause><lineend><CC03EA>Take a moment and<lineend>think hard about what that letter says.<pause><lineend>|
 131086|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>But...But...<pause><lineend>|
 131087|
-<CC03EA><color=0002><string=0000><lineend><color=0001>It takes a lot of courage to take the first step.<pause><lineend><CC03EA>Nonetheless, the Warriors' Leader is trying to take it with you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It takes a lot of<lineend>courage to take the first step.<pause><lineend><CC03EA>Nonetheless, the<lineend>Warriors' Leader is trying to take it with you.<pause><lineend>|
 131088|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>Hmm...<pause><lineend>|
 131089|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't it your turn now?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't it your turn<lineend>now?<pause><lineend>|
 131090|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>The Warriors' Leader wants to be friends?<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>The Warriors'<lineend>Leader wants to be friends?<pause><lineend>|
 131091|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>All right, then. I'll try talking with him.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>All right, then.<lineend>I'll try talking with him.<pause><lineend>|
 196608|
 <CC03EA><color=0004><string=00E4><lineend><color=0001>...You came.<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>H, hello.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>...So...right...I, uh...<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>...So...right...I,<lineend>uh...<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Yes, I too...that is...<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Yes, I too...that<lineend>is...<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Sheesh! Are you two going to make up or aren't you?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Sheesh! Are you two<lineend>going to make up or aren't you?<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>......<lineend>I owe you an apology.<pause><lineend><CC03EA>With the words of my ancestor and the help this young woman, my eyes have opened.<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>......<lineend>I owe you an<lineend>apology.<pause><lineend><CC03EA>With the words of<lineend>my ancestor and the help this young woman, my eyes have opened.<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>So have mine. I see how I've perpetuated a meaningless rivalry.<pause><lineend><CC03EA>Just as our ancestors said, my eyes have been clouded. Please forgive me.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>So have mine. I see<lineend>how I've perpetuated a meaningless rivalry.<pause><lineend><CC03EA>Just as our<lineend>ancestors said, my eyes have been clouded. Please forgive me.<pause><lineend>|
 196615|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What a relief!<pause><lineend><CC03EA>I don't think we'll have to worry about Cadho Badho any longer.<pause><lineend><CC03EA>The two leaders are finally joining together.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What a relief!<pause><lineend><CC03EA>I don't think we'll<lineend>have to worry about Cadho Badho any longer.<pause><lineend><CC03EA>The two leaders are<lineend>finally joining together.<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>Don't worry about a thing!<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>Don't worry about a<lineend>thing!<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>The two of us will be working together from now on.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>The two of us will<lineend>be working together from now on.<pause><lineend>|
 196618|
-<CC03EA><color=0002><string=0000><lineend><color=0001>In that case, I suppose I'll leave you to it.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>In that case, I<lineend>suppose I'll leave you to it.<pause><lineend>|
 196619|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>Oh, but wait just a moment!<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>Oh, but wait just a<lineend>moment!<pause><lineend>|
 196620|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>We'd like to give this to you.<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>We'd like to give<lineend>this to you.<pause><lineend>|
 196621|
 <CC03EA><color=0002>Got the Unit Drop!<pause><lineend>|
 196622|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Consider it a gift from both of us.<pause><lineend><CC03EA>Each of the letters we found had half of that drop bundled with it.<pause><lineend><CC03EA>They fit together, just as we thought they would.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Consider it a gift<lineend>from both of us.<pause><lineend><CC03EA>Each of the letters<lineend>we found had half of that drop bundled with it.<pause><lineend><CC03EA>They fit together,<lineend>just as we thought they would.<pause><lineend>|
 196623|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you sure?<pause><lineend><CC03EA>I mean, it's a gift to you from your ancestors, isn't it?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you sure?<pause><lineend><CC03EA>I mean, it's a gift<lineend>to you from your ancestors, isn't it?<pause><lineend>|
 196624|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>We didn't work together to find these letters.<pause><lineend><CC03EA>Thus, we have no right to claim this prize.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>We didn't work<lineend>together to find these letters.<pause><lineend><CC03EA>Thus, we have no<lineend>right to claim this prize.<pause><lineend>|
 196625|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>But you helped us finally see things as they are.<pause><lineend><CC03EA>It's entirely appropriate for you to take it.<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>But you helped us<lineend>finally see things as they are.<pause><lineend><CC03EA>It's entirely<lineend>appropriate for you to take it.<pause><lineend>|
 196626|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...<pause><lineend><CC03EA>In that case, I'll accept it.<lineend>Thank you both!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...<pause><lineend><CC03EA>In that case, I'll<lineend>accept it.<lineend>Thank you both!<pause><lineend>|

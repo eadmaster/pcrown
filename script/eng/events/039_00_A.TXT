@@ -1,16 +1,16 @@
 65536|
-<CC03EA><color=0004><string=0186><lineend><color=0001>Hold it right there! You've got a lot of nerve eating my lunch!<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Hold it right<lineend>there! You've got a lot of nerve eating my lunch!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=018E><lineend><color=0001>That wasn't your lunch! It was mine!<pause><lineend><CC03EA>It's not fair. You already had your lunch. Why do you have to steal mine?<pause><lineend>|
+<CC03EA><color=0004><string=018E><lineend><color=0001>That wasn't your<lineend>lunch! It was mine!<pause><lineend><CC03EA>It's not fair. You<lineend>already had your lunch. Why do you have to steal mine?<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0186><lineend><color=0001>Oh! Talk back to me, will you?<pause><lineend><CC03EA>I think it's time to teach you a lesson, Gabriel!<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Oh! Talk back to<lineend>me, will you?<pause><lineend><CC03EA>I think it's time<lineend>to teach you a lesson, Gabriel!<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=00E0><color=0004>Gabriel<lineend><color=0001>Aaahh! What did you do to me?<pause><lineend><CC03EA>Change...*RIBBIT*...me back!<lineend>Change...*RIBBIT*...me back!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E0><color=0004>Gabriel<lineend><color=0001>Aaahh! What did you<lineend>do to me?<pause><lineend><CC03EA>Change...*RIBBIT*...me back!<lineend>Change...*RIBBIT*...me back!<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=0186><lineend><color=0001>Ribbit! Ribbit!<lineend>Bah ha ha ha ha!!<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0186><lineend><color=0001>What? You want to be a Frogger, too, old man?<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>What? You want to<lineend>be a Frogger, too, old man?<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0186><lineend><color=0001>Hee hee! Just hold still for one second!<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>Hee hee! Just hold<lineend>still for one second!<pause><lineend>|
 65543|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Aaaaah!!!<pause><lineend>|

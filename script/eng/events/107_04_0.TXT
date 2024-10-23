@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time to go back down.<lineend><pause><CC03EA>I've got to go help Sidrael, and fast!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time<lineend>to go back down.<lineend><pause><CC03EA>I've got to go help<lineend>Sidrael, and fast!<lineend><pause>|
 65536|
 <CC03EA><color=0004><string=0103><lineend><color=0001>You...You're...<pause><lineend>|
 65537|
@@ -7,29 +7,29 @@
 65538|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Edward?<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I've been looking for you.<pause><lineend><CC03EA>You betray the Queen, break your vows as a Knight, lead Demons into the castle...<pause><lineend><CC03EA>...and now you're here protecting it? But you're a traitor!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I've been looking<lineend>for you.<pause><lineend><CC03EA>You betray the<lineend>Queen, break your vows as a Knight, lead Demons into the castle...<pause><lineend><CC03EA>...and now you're<lineend>here protecting it? But you're a traitor!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0103><lineend><color=0001>A traitor, am I?<pause><lineend><CC03EA>That I once assisted the Demon Horde is indeed the truth.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>A traitor, am I?<pause><lineend><CC03EA>That I once<lineend>assisted the Demon Horde is indeed the truth.<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0001><lineend><color=0001>The whole kingdom is afraid of me, and it's because of you.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The whole kingdom<lineend>is afraid of me, and it's because of you.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Your swordsmanship has improved, Edward.<pause><lineend><CC03EA>I can definitely see it.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Your swordsmanship<lineend>has improved, Edward.<pause><lineend><CC03EA>I can definitely<lineend>see it.<pause><lineend>|
 65543|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Shut up!!<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=0103><lineend><color=0001>But your swings are still misguided somehow.<pause><lineend><CC03EA>You're not clearing your mind before you strike!<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>But your swings are<lineend>still misguided somehow.<pause><lineend><CC03EA>You're not clearing<lineend>your mind before you strike!<pause><lineend>|
 65545|
 <CC03EA><color=0004><string=0103><lineend><color=0001>You...You're...<pause><lineend><CC03EA><color=0003><string=0001><lineend><color=0001>Golgotha!<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=0103><lineend><color=0001>I'm sorry, but there's no time for this now.<pause><lineend><CC03EA>The Demon King is after the three Princesses. He needs their royal blood.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>I'm sorry, but<lineend>there's no time for this now.<pause><lineend><CC03EA>The Demon King is<lineend>after the three Princesses. He needs their royal blood.<pause><lineend>|
 65547|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Why should I believe anything you say?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Why should I<lineend>believe anything you say?<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Come with me, and you'll see.<pause><lineend><CC03EA>It was over quickly, but I'm happy that I had a chance to cross swords with you, son.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Come with me, and<lineend>you'll see.<pause><lineend><CC03EA>It was over<lineend>quickly, but I'm happy that I had a chance to cross swords with you, son.<pause><lineend>|
 65549|
-<CC03EA><color=0003><string=0001><lineend><color=0001>What could you be after?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What could you be<lineend>after?<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0174><lineend><color=0001>You, however, I can kill right now!<pause><lineend>|
+<CC03EA><color=0005><string=0174><lineend><color=0001>You, however, I can<lineend>kill right now!<pause><lineend>|
 131073|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Ç Ç®Ç®Ç®Ç¡ÅI<pause><lineend>|
 131074|
@@ -41,25 +41,25 @@
 131077|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Urg...<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=017C><lineend><color=0001>Hang on! Please, hang on!<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>Hang on! Please,<lineend>hang on!<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Gradriel.<pause><lineend><CC03EA>You have to rescue Sidrael from the Demons, at all costs...<pause><lineend><CC03EA>...or the Demon King will...soon...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Gradriel.<pause><lineend><CC03EA>You have to rescue<lineend>Sidrael from the Demons, at all costs...<pause><lineend><CC03EA>...or the Demon<lineend>King will...soon...<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=017C><lineend><color=0001>You mustn't speak. It's bad for your wounds.<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>You mustn't speak.<lineend>It's bad for your wounds.<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=0103><lineend><color=0001>...I'm only thankful that I was able to protect you. You're safety is the most important thing.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>...I'm only<lineend>thankful that I was able to protect you. You're safety is the most important thing.<pause><lineend>|
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Golgotha.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...<pause><lineend><CC03EA>I didn't want you or your Mother caught up in this. That's why I left. Forgive me.<pause><lineend><CC03EA>I know what I did while under the Demon King's control is hard for you to live with.<lineend><pause>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...<pause><lineend><CC03EA>I didn't want you<lineend>or your Mother caught up in this. That's why I left. Forgive me.<pause><lineend><CC03EA>I know what I did<lineend>while under the Demon King's control is hard for you to live with.<lineend><pause>|
 131084|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You picked quite a time to tell me all of this.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You picked quite a<lineend>time to tell me all of this.<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...You must take the sword...<pause><lineend><CC03EA>Take the sword...that they gave me when I was one of them.<pause><lineend><CC03EA>It's on the door...with the Demon...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...You must<lineend>take the sword...<pause><lineend><CC03EA>Take the<lineend>sword...that they gave me when I was one of them.<pause><lineend><CC03EA>It's on the<lineend>door...with the Demon...<pause><lineend>|
 131086|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>A sword...<lineend><CC03ED=00010007000103FF><pause>|
 131087|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Grow strong...Edward...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Grow<lineend>strong...Edward...<pause><lineend>|
 131088|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Golgotha!!<lineend><CC03ED=00010007000103FF><pause>|
 131089|
@@ -67,22 +67,22 @@
 131090|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Father...<lineend><CC03ED=00010007000103FF><pause>|
 196608|
-<CC03EA><color=0004><string=0102><lineend><color=0001>You're really going, then? You won't reconsider?<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>You're really<lineend>going, then? You won't reconsider?<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Please hear me, Edward. We need you in the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Please hear me,<lineend>Edward. We need you in the Knight Guard.<pause><lineend>|
 196610|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Captain Kwein, I'm grateful for what you're saying...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Captain Kwein, I'm<lineend>grateful for what you're saying...<pause><lineend>|
 196611|
-<CC03EA><color=0003><string=0001><lineend><color=0001>But there is something else that I absolutely have to do.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>But there is<lineend>something else that I absolutely have to do.<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=0102><lineend><color=0001>I see.<pause><lineend>|
 196613|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I must find out more before I'll be able to accept the things my Father has done.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I must find out<lineend>more before I'll be able to accept the things my Father has done.<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Do as you must. I'm sure you'll become a fine Knight just like your Father.<pause><lineend><CC03EA>Come back to us anytime. You're always welcome.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Do as you must. I'm<lineend>sure you'll become a fine Knight just like your Father.<pause><lineend><CC03EA>Come back to us<lineend>anytime. You're always welcome.<pause><lineend>|
 196615|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Thank you.<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Take care of yourself.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Take care of<lineend>yourself.<pause><lineend>|
 196617|
 <CC03EA><color=0003><string=0001><lineend><color=0001>You too, Captain.<pause><lineend>|

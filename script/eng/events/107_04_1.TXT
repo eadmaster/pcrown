@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Princess's bedrooms are this way. Men are not allowed to go any further.<pause><lineend><CC03EA>I'm aware of who you are, but I still can't let you pass.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Princess's<lineend>bedrooms are this way. Men are not allowed to go any further.<pause><lineend><CC03EA>I'm aware of who<lineend>you are, but I still can't let you pass.<pause><lineend>|
 1|
 <CC03F0=0001000D0001000503FF00000000>|
 2|
-<CC03EA><color=0006><string=007E><lineend><color=0001>If only we had been stronger...<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>If only we had been<lineend>stronger...<pause><lineend>|
 3|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Edward, I'm looking forward to the day that you enlist in the Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Edward, I'm looking<lineend>forward to the day that you enlist in the Guard.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am so shaken by what's happened to Sidrael that all I can do is pray.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am so shaken by<lineend>what's happened to Sidrael that all I can do is pray.<pause><lineend>|

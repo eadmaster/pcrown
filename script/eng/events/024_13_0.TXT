@@ -1,2 +1,2 @@
 65536|
-<CC03EA><color=0002>Got Music Score number 2!<pause><lineend>|
+<CC03EA><color=0002>Got Music Score<lineend>number 2!<pause><lineend>|

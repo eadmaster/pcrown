@@ -1,30 +1,30 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Ahhh!<pause><lineend><CC03EA>Nothing hits the spot like a cold beer after you've made a good deal!<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Ahhh!<pause><lineend><CC03EA>Nothing hits the<lineend>spot like a cold beer after you've made a good deal!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Well well! Hello there.<pause><lineend><CC03EA>Is your wallet a little heavy? If so, spend a night or two here at Cadho Badho's best inn.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Well well! Hello<lineend>there.<pause><lineend><CC03EA>Is your wallet a<lineend>little heavy? If so, spend a night or two here at Cadho Badho's best inn.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Secret Tavern. I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the<lineend>Secret Tavern. I'll take your order.<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 4|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for<lineend>stopping by!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Our Local Delicacy is a juicy Hamburger.<pause><lineend><CC03EA>We combine a big, charbroiled hamburger patty with premium lettuce and tomato.<pause><lineend><CC03EA>You'll have to open your mouth wide for it to fit!<pause><lineend><CC03EA>One is 24G.<lineend>How about it?<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Our Local Delicacy<lineend>is a juicy Hamburger.<pause><lineend><CC03EA>We combine a big,<lineend>charbroiled hamburger patty with premium lettuce and tomato.<pause><lineend><CC03EA>You'll have to open<lineend>your mouth wide for it to fit!<pause><lineend><CC03EA>One is 24G.<lineend>How about it?<pause><lineend>|
 6|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 7|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't<lineend>have enough.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag is already full. Well, come again anytime!<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag<lineend>is already full. Well, come again anytime!<pause><lineend>|
 9|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Here you are.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's grill something. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's<lineend>grill something. Please select a Food to use.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I can't cook that, right?<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I<lineend>can't cook that, right?<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G.<lineend>Is that all right?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 14|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't<lineend>have enough.<pause><lineend>|

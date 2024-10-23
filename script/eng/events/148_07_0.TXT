@@ -1,36 +1,36 @@
 65536|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Are you Heindel?<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=0104>That's right. Pay no attention to this mess and make yourself at home.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104>That's right. Pay<lineend>no attention to this mess and make yourself at home.<pause><lineend>|
 65538|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you can tell people anything they want to know.<pause><lineend><CC03EA>Well, I want to know something.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you can<lineend>tell people anything they want to know.<pause><lineend><CC03EA>Well, I want to<lineend>know something.<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0104><lineend><color=0001>You left your shipmates to come here, so it must be something important...Portgus.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You left your<lineend>shipmates to come here, so it must be something important...Portgus.<pause><lineend>|
 65540|
-<CC03EA><color=0003><string=0003><lineend><color=0001>You know who I am?<pause><lineend><CC03EA>It sounds like "they" were right.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>You know who I am?<pause><lineend><CC03EA>It sounds like<lineend>"they" were right.<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you're collecting some rare Magic Stones.<pause><lineend><CC03EA>I also heard that you'll answer any question in exchange for one.<pause><lineend><CC03EA>I have here...<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you're<lineend>collecting some rare Magic Stones.<pause><lineend><CC03EA>I also heard that<lineend>you'll answer any question in exchange for one.<pause><lineend><CC03EA>I have here...<pause><lineend>|
 65542|
-<CC03EA><color=0003><string=0003><lineend><color=0001>...The Pirate King Drake's treasure, The Ocean Stone.<pause><lineend><CC03EA>I'd like to trade it for an answer to my question.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...The Pirate King<lineend>Drake's treasure, The Ocean Stone.<pause><lineend><CC03EA>I'd like to trade<lineend>it for an answer to my question.<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The blue light feels as though its seeping into my eyes. <pause><lineend><CC03EA>Yes, Portgus, you have found the real Ocean Stone.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The blue light<lineend>feels as though its seeping into my eyes. <pause><lineend><CC03EA>Yes, Portgus, you<lineend>have found the real Ocean Stone.<pause><lineend>|
 65544|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Do we have a deal, then?<pause><lineend><CC03EA>I want revenge on someone, and I need you to tell me where he is.<pause><lineend><CC03EA>I have to kill him myself. There is no other way for me.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Do we have a deal,<lineend>then?<pause><lineend><CC03EA>I want revenge on<lineend>someone, and I need you to tell me where he is.<pause><lineend><CC03EA>I have to kill him<lineend>myself. There is no other way for me.<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=0104><lineend><color=0001>I'll tell you the answer.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I'll tell you the<lineend>answer.<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The Demon you are searching for is called Shadow.<pause><lineend><CC03EA>He lives in <color=0002>the tower in the Forest of Enchantment.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Demon you are<lineend>searching for is called Shadow.<pause><lineend><CC03EA>He lives in <color=0002>the tower in the<lineend>Forest of Enchantment.<color=0001><pause><lineend>|
 65547|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his name...<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his<lineend>name...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path. <color=0001>Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and<lineend>Cadho Badho is a branching path. <color=0001>Take it.<pause><lineend><CC03EA>At its end, you<lineend>will find Shadow's tower.<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=0104><lineend><color=0001>That Demon possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is mine now.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>That Demon<lineend>possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes<lineend>little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is<lineend>mine now.<pause><lineend>|
 65550|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Not very friendly Dragon, are you? Anyway, I'll be extra careful when I fight him.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Not very friendly<lineend>Dragon, are you? Anyway, I'll be extra careful when I fight him.<pause><lineend>|
 65551|
-<CC03EA><color=0004><string=0104><lineend><color=0001>If you have received the answer you sought, then it is time for you to leave.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If you have<lineend>received the answer you sought, then it is time for you to leave.<pause><lineend>|
 65552|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I appreciate it, Heindel.<lineend>Farewell!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I appreciate it,<lineend>Heindel.<lineend>Farewell!<pause><lineend>|
 65553|
 <CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>At long last...<lineend>That makes three...<pause><lineend>|

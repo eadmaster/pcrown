@@ -1,81 +1,81 @@
 0|
-<CC03EA><color=0005><string=009A><lineend><color=0001>Bones and empty jars can get in the way, but at least you can throw 'em!<pause><lineend>|
+<CC03EA><color=0005><string=009A><lineend><color=0001>Bones and empty<lineend>jars can get in the way, but at least you can throw 'em!<pause><lineend>|
 1|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Tra la di...<lineend>Tra la da...<pause><lineend><CC03EA>Another fine day to snatch some items!<pause><lineend><CC03EA>Let an item sit on the ground too long, and we'll be right along to take it!<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Tra la di...<lineend>Tra la da...<pause><lineend><CC03EA>Another fine day to<lineend>snatch some items!<pause><lineend><CC03EA>Let an item sit on<lineend>the ground too long, and we'll be right along to take it!<pause><lineend>|
 2|
-<CC03EA><color=0005><string=009C><lineend><color=0001>These mushrooms...They taste like honey... <pause><lineend><CC03EA>...I can't stop eating them!<pause><lineend><CC03EA>Magic Mushrooms are so good, you won't want to stop at one.<pause><lineend><CC03EA>All it takes is one bite, and WHAM-O!<pause><lineend><CC03EA>You'll have more energy than you'll know what to do with. Wa ha haa!!<pause><lineend>|
+<CC03EA><color=0005><string=009C><lineend><color=0001>These<lineend>mushrooms...They taste like honey... <pause><lineend><CC03EA>...I can't stop<lineend>eating them!<pause><lineend><CC03EA>Magic Mushrooms are<lineend>so good, you won't want to stop at one.<pause><lineend><CC03EA>All it takes is one<lineend>bite, and WHAM-O!<pause><lineend><CC03EA>You'll have more<lineend>energy than you'll know what to do with. Wa ha haa!!<pause><lineend>|
 3|
-<CC03EA><color=0005><string=009D><lineend><color=0001>Hee hee hee...<lineend>You there. Little girl.<pause><lineend><CC03EA>Have some Goblin Juice. It's good stuff! It'll put some meat on those bones of yours, too.<pause><lineend>|
+<CC03EA><color=0005><string=009D><lineend><color=0001>Hee hee hee...<lineend>You there. Little<lineend>girl.<pause><lineend><CC03EA>Have some Goblin<lineend>Juice. It's good stuff! It'll put some meat on those bones of yours, too.<pause><lineend>|
 4|
-<CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! We Goblins just love the glitter of Gold!<pause><lineend>|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! We<lineend>Goblins just love the glitter of Gold!<pause><lineend>|
 5|
-<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
+<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane<lineend>around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in<lineend>your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though!<lineend>If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens,<lineend>you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
 6|
-<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
+<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of<lineend>courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't<lineend>wind up being for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
 7|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the Goblin Market!<pause><lineend><CC03EA>Tell me, pretty young thing, what is it you desire?<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for<lineend>sale at the Goblin Market!<pause><lineend><CC03EA>Tell me, pretty<lineend>young thing, what is it you desire?<pause><lineend>|
 8|
-<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>About the Mekki Scroll<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>About the Mekki<lineend>Scroll<lineend><endchoose>|
 9|
 <CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 10|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Come again soon! Uwee hee hee!!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Come again soon!<lineend>Uwee hee hee!!<pause><lineend>|
 11|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have<lineend>enough money!<pause><lineend>|
 12|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is<lineend>full already!<pause><lineend>|
 13|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have anything!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You<lineend>don't have anything!<pause><lineend>|
 14|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that piece of junk!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I<lineend>want with that piece of junk!<pause><lineend>|
 15|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swallow sometime. You'll be in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some<lineend>Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold!<lineend>We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll<lineend>get used to it.<pause><lineend><CC03EA>Try a swallow<lineend>sometime. You'll be in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
 16|
 <CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
 17|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!! Come again!!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!! Come<lineend>again!!<pause><lineend>|
 18|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have<lineend>enough money!<pause><lineend>|
 19|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is<lineend>full already!<pause><lineend>|
 20|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are...Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are...Hee<lineend>hee!<lineend>...One Goblin<lineend>Juice!<pause><lineend>|
 21|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Hee hee hee! Welcome!! Have yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you gonna do?<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Hee hee hee!<lineend>Welcome!! Have yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G.<lineend>What are you gonna do?<pause><lineend>|
 22|
 <CC03EA><CC03FC=0004><string=01BC><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>|
 23|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Hey! You don't have<lineend>enough money!<pause><lineend>|
 24|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at home!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at<lineend>home!<pause><lineend>|
 25|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to<lineend>rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye<lineend>bye!<pause><lineend>|
 26|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself.<lineend>Maybe next time.<pause><lineend>|
 27|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 28|
-<CC03EA><color=0001>Are you sure you want to save on this bookmark?<lineend><pause>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<lineend><pause>|
 29|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 30|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Er...A what scroll?<pause><lineend>|
 31|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Don't play dumb with me.<pause><lineend><CC03EA>I'm here for the Mekki Scroll you stole from a Wizard in Amberstep.<pause><lineend><CC03EA>Hand it over, please!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Don't play dumb<lineend>with me.<pause><lineend><CC03EA>I'm here for the<lineend>Mekki Scroll you stole from a Wizard in Amberstep.<pause><lineend><CC03EA>Hand it over,<lineend>please!<pause><lineend>|
 32|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>All right, all right. Jeez.<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>All right, all<lineend>right. Jeez.<pause><lineend>|
 33|
 <CC03F0=01BA00560000001903FF00000000>|
 34|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Huh...That's funny...<pause><lineend><CC03EA>I can't seem to find it! Ha ha!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Huh...That's<lineend>funny...<pause><lineend><CC03EA>I can't seem to<lineend>find it! Ha ha!<pause><lineend>|
 35|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>I'll need time to search the whole place. You go wait outside!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>I'll need time to<lineend>search the whole place. You go wait outside!<pause><lineend>|
 36|
 <CC03F0=009F00560001000F03FF00000000>|
 37|
-<CC03EA><color=0005><string=009F><lineend><color=0001>Gya ha ha! Looks like you caught me!<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>Gya ha ha! Looks<lineend>like you caught me!<pause><lineend>|
 38|
-<CC03EA><color=0005><string=009F><lineend><color=0001>It wasn't easy getting this Scroll. I'm not giving it up without a fight!<pause><lineend><CC03EA>Everyone! Uwee hee hee! Get her!!<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>It wasn't easy<lineend>getting this Scroll. I'm not giving it up without a fight!<pause><lineend><CC03EA>Everyone! Uwee hee<lineend>hee! Get her!!<pause><lineend>|
 39|
 <CC03F0=009F00560000001903FF000003FF><CC03F0=009D00540001002403FF000003FF><CC03F0=009B00550001001E03FF000003FF><CC03F0=009A00560001001803FF00000000>|
 40|
@@ -83,22 +83,22 @@
 41|
 <CC03FA=009F000800010000000003FF000A005A0000><CC03FB=005A>|
 42|
-<CC03EA><color=0005><string=009F><lineend><color=0001>Whoa, whoa! OK! We lost already. Sheesh!<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>Whoa, whoa! OK! We<lineend>lost already. Sheesh!<pause><lineend>|
 43|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Give me the Mekki Scroll.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Give me the Mekki<lineend>Scroll.<pause><lineend>|
 44|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Grr...<pause><lineend>|
 45|
-<CC03EA><color=0005><string=009F><lineend><color=0001>Oi oi...You don't have room for it!<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>Oi oi...You don't<lineend>have room for it!<pause><lineend>|
 46|
-<CC03EA><color=0005><string=009F><lineend><color=0001>Here, take it. It's yours.<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>Here, take it. It's<lineend>yours.<pause><lineend>|
 47|
-<CC03EA><color=0002>Got the Mekki Scroll!<pause><lineend>|
+<CC03EA><color=0002>Got the Mekki<lineend>Scroll!<pause><lineend>|
 48|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Now I don't have to be afraid of the Basilisk's eye-beam turning me to stone!<pause><lineend><CC03EA>I better hurry back to Amberstep and help those petrified villagers.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Now I don't have to<lineend>be afraid of the Basilisk's eye-beam turning me to stone!<pause><lineend><CC03EA>I better hurry back<lineend>to Amberstep and help those petrified villagers.<pause><lineend>|
 49|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Whoa, whoa! OK! We lost already. Sheesh!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Whoa, whoa! OK! We<lineend>lost already. Sheesh!<pause><lineend>|
 50|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...You don't have room for it!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...You don't<lineend>have room for it!<pause><lineend>|
 51|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Here, take it. It's yours.<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Here, take it. It's<lineend>yours.<pause><lineend>|

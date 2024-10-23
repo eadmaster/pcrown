@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>May all your battles be victorious!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>May all your<lineend>battles be victorious!<pause><lineend>|

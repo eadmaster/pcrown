@@ -1,8 +1,8 @@
 0|
 <CC03EA><color=0006><string=0091><lineend><color=0001>This is our mine.<lineend>Impressed?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0092><lineend><color=0001>We take the Gems we mine here back to our shops and craft them into items to sell.<pause><lineend>|
+<CC03EA><color=0006><string=0092><lineend><color=0001>We take the Gems we<lineend>mine here back to our shops and craft them into items to sell.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0093><lineend><color=0001>The young folks these days are a disgrace!<pause><lineend><CC03EA>They built a Truck-something-or-other in one of the old mineshafts.<pause><lineend><CC03EA>Now they do nothing but play! They never even touch their pick-axes! It's an outrage!<pause><lineend>|
+<CC03EA><color=0006><string=0093><lineend><color=0001>The young folks<lineend>these days are a disgrace!<pause><lineend><CC03EA>They built a<lineend>Truck-something-or-other in one of the old mineshafts.<pause><lineend><CC03EA>Now they do nothing<lineend>but play! They never even touch their pick-axes! It's an outrage!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0094><lineend><color=0001>Oh dear. You'll never be a good miner with skinny little arms like those!<pause><lineend>|
+<CC03EA><color=0006><string=0094><lineend><color=0001>Oh dear. You'll<lineend>never be a good miner with skinny little arms like those!<pause><lineend>|

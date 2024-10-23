@@ -1,25 +1,25 @@
 0|
-<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>There are goods coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend><CC03EA>Since everyone's trying to catch that mermaid, perhaps I'll invest in nets and rope?<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the<lineend>perfect place for doing business.<pause><lineend><CC03EA>There are goods<lineend>coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend><CC03EA>Since everyone's<lineend>trying to catch that mermaid, perhaps I'll invest in nets and rope?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=005E><lineend><color=0001>How mind-boggling!<pause><lineend><CC03EA>I just watched as a silly round-bodied man shrouded himself in smoke.<pause><lineend><CC03EA>When it cleared, he was skinny and handsome!<pause><lineend><CC03EA>My daughters were swooning over him, too.<pause><lineend><CC03EA>I'd sure love to see their faces if they saw what he looked like before.<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>How mind-boggling!<pause><lineend><CC03EA>I just watched as a<lineend>silly round-bodied man shrouded himself in smoke.<pause><lineend><CC03EA>When it cleared, he<lineend>was skinny and handsome!<pause><lineend><CC03EA>My daughters were<lineend>swooning over him, too.<pause><lineend><CC03EA>I'd sure love to<lineend>see their faces if they saw what he looked like before.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I heard a beautiful mermaid has been casting spells on the monsters at Lake Titania.<pause><lineend><CC03EA>What a pity. It's such a beautiful lake.<pause><lineend><CC03EA>Right now, people are too scared to even head in that direction for a picnic.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I heard a beautiful<lineend>mermaid has been casting spells on the monsters at Lake Titania.<pause><lineend><CC03EA>What a pity. It's<lineend>such a beautiful lake.<pause><lineend><CC03EA>Right now, people<lineend>are too scared to even head in that direction for a picnic.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Hey, have you ever been to the <color=0003>Dwarf Kingdom<color=0001> before?<pause><lineend><CC03EA>One of the mines there is absolutely packed with beautiful Gems.<pause><lineend><CC03EA>I'd like to see it for myself, but my dad keeps saying there are too many monsters to go.<pause><lineend><CC03EA>I don't buy it. Monsters? In a peaceful country like ours? No way.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Hey, have you ever<lineend>been to the <color=0003>Dwarf Kingdom<color=0001> before?<pause><lineend><CC03EA>One of the mines<lineend>there is absolutely packed with beautiful Gems.<pause><lineend><CC03EA>I'd like to see it<lineend>for myself, but my dad keeps saying there are too many monsters to go.<pause><lineend><CC03EA>I don't buy it.<lineend>Monsters? In a peaceful country like ours? No way.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0031><lineend><color=0001>That well-to-do looking fellow just went inside the empty house.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>That well-to-do<lineend>looking fellow just went inside the empty house.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0020><lineend><color=0005>Take the right exit from the Wizard's town,<color=0001> and you can go to <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>Watch out, though. There's a scary mermaid living there!<pause><lineend>|
+<CC03EA><color=0006><string=0020><lineend><color=0005>Take the right exit<lineend>from the Wizard's town,<color=0001> and you can go to <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>Watch out, though.<lineend>There's a scary mermaid living there!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0059><lineend><color=0001>They all ganged up on me, I tell you!<pause><lineend><CC03EA>I'm just home from visiting the family tombstones in Cemeteryth.<pause><lineend><CC03EA>The number of monsters along the way...<lineend>Shocking! Just shocking!<pause><lineend><CC03EA>A pack of Goblins surrounded me and helped themselves to my items!<pause><lineend><CC03EA>A Dodo shouted for his friends to come and trample me!<pause><lineend><CC03EA>I finally come home, and to what? A bunch of commotion over monsters at the lake!<pause><lineend><CC03EA>I ask you, what is this world coming to?<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>They all ganged up<lineend>on me, I tell you!<pause><lineend><CC03EA>I'm just home from<lineend>visiting the family tombstones in Cemeteryth.<pause><lineend><CC03EA>The number of<lineend>monsters along the way...<lineend>Shocking! Just<lineend>shocking!<pause><lineend><CC03EA>A pack of Goblins<lineend>surrounded me and helped themselves to my items!<pause><lineend><CC03EA>A Dodo shouted for<lineend>his friends to come and trample me!<pause><lineend><CC03EA>I finally come<lineend>home, and to what? A bunch of commotion over monsters at the lake!<pause><lineend><CC03EA>I ask you, what is<lineend>this world coming to?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you<lineend>something about this area...<pause><lineend><CC03EA>Somewhere, it's got<lineend>a <color=0003>Secret Market<color=0001> just for<lineend>merchants.<pause><lineend><CC03EA>Only the merchants<lineend>themselves even know where it is.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Spirit Grass make the prettiest flowers, don't they?<pause><lineend><CC03EA>When you stand in front of them, it's like your body magically feels better.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and<lineend>Spirit Grass make the prettiest flowers, don't they?<pause><lineend><CC03EA>When you stand in<lineend>front of them, it's like your body magically feels better.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in<lineend>the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter<lineend>of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled<lineend>all her life, so she's pretty naive.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to budge!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way<lineend>from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid<lineend>thing refuses to budge!<pause><lineend>|
 11|
 <CC03ED=0004000200010000><CC03FB=0050>|
 12|
@@ -27,72 +27,72 @@
 13|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
 14|
-<CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full of mysteries...<pause><lineend><CC03EA>For example, I heard there's a shop here that sells really rare things.<pause><lineend><CC03EA>But do you think it's actually true? The only place I've found is just a normal item shop.<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full<lineend>of mysteries...<pause><lineend><CC03EA>For example, I<lineend>heard there's a shop here that sells really rare things.<pause><lineend><CC03EA>But do you think<lineend>it's actually true? The only place I've found is just a normal item shop.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this<lineend>building!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an<lineend>enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually<lineend>made himself rich with one of those.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at<lineend>the secret marketplace!<pause><lineend>|
 18|
-<CC03ED=000B004300010000><CC03ED=000B0044000103FF><CC03ED=000B0045000103FF><CC03EA><color=0006><string=000B><lineend><color=0001>Hold it a minute, son. Did you forget the little talk we had?<lineend><CC03ED=000B0044000103FF><pause>|
+<CC03ED=000B004300010000><CC03ED=000B0044000103FF><CC03ED=000B0045000103FF><CC03EA><color=0006><string=000B><lineend><color=0001>Hold it a minute,<lineend>son. Did you forget the little talk we had?<lineend><CC03ED=000B0044000103FF><pause>|
 19|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's<lineend>right!<pause><lineend><CC03EA>I wasn't supposed<lineend>to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
 20|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could you forget about what I just said?<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could<lineend>you forget about what I just said?<pause><lineend>|
 21|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody gets to meet the Merchants' Leader, you know.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody<lineend>gets to meet the Merchants' Leader, you know.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=01A6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 25|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 26|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
 28|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
 29|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
 31|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 32|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money. Come back anytime.<pause><lineend>|
 33|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 34|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
 36|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 37|
-<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
 38|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 65536|
-<CC03EA><color=0006><string=0033><lineend><color=0001>W, who are you? Stop or I'll yell for the police!<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>W, who are you?<lineend>Stop or I'll yell for the police!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Go ahead. They'll arrest you, not us. We know you're wearing a disguise!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Go ahead. They'll<lineend>arrest you, not us. We know you're wearing a disguise!<pause><lineend>|
 65538|
 <CC03EA><color=0006><string=0033><lineend><color=0001>Damn!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>There's nowhere to run. Now answer my questions.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>There's nowhere to<lineend>run. Now answer my questions.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>...and you better answer or I'll put a fairy-curse on you!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>...and you better<lineend>answer or I'll put a fairy-curse on you!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=0131><lineend><color=0001>No! Please! I'll tell you anything you want!!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>No! Please! I'll<lineend>tell you anything you want!!<pause><lineend>|
 65542|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Who put you up to spreading all these lies about Ondine?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Who put you up to<lineend>spreading all these lies about Ondine?<pause><lineend>|
 65543|
-<CC03EA><color=0005><string=0131><lineend><color=0001>It was a witch. She had red hair and a strange, floating ponytail.<pause><lineend><CC03EA>She approached me and promised me gold if I cooperated.<pause><lineend><CC03EA>I'm only doing what she told me to!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>It was a witch. She<lineend>had red hair and a strange, floating ponytail.<pause><lineend><CC03EA>She approached me<lineend>and promised me gold if I cooperated.<pause><lineend><CC03EA>I'm only doing what<lineend>she told me to!<pause><lineend>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired witch...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired<lineend>witch...<pause><lineend>|
 65545|
-<CC03EA><color=0005><string=0131><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't curse me!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>You can find her in<lineend><color=0002>a cave to the<lineend>southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the<lineend>Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the<lineend>end of it.<pause><lineend><CC03EA>OK? Now let me go!<lineend>I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do,<lineend>just don't curse me!<pause><lineend>|

@@ -1,77 +1,77 @@
 0|
 <CC03ED=0001000600010000><CC03ED=00010007000103FF><CC03FB=0050>|
 1|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...He's wasn't here, either.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...He's wasn't<lineend>here, either.<pause><lineend>|
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I think it's time for you to stand back. Unless you want to wind up like your friend, that is.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I think it's time<lineend>for you to stand back. Unless you want to wind up like your friend, that is.<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=004B><color=0001>I think you're right.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>I think you're<lineend>right.<pause><lineend>|
 65538|
 <CC03EA><CC03FC=0004><string=004C><color=0001>Aaaaahhh!!<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You really want to go through with this?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You really want to<lineend>go through with this?<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=004B><color=0001>Of course I do. It's what we came here for!<pause><lineend><CC03EA>Look here Dragon Slayer, whoever you are...<pause><lineend><CC03EA>You just stay out of the way!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>Of course I do.<lineend>It's what we came here for!<pause><lineend><CC03EA>Look here Dragon<lineend>Slayer, whoever you are...<pause><lineend><CC03EA>You just stay out<lineend>of the way!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=015C><color=0001>You certainly made short work of that Dragon!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>You certainly made<lineend>short work of that Dragon!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=004B><color=0001>I apologize for underestimating you. Your skills are incredible.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>I apologize for<lineend>underestimating you. Your skills are incredible.<pause><lineend>|
 131074|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Even a furious Ice Dragon is no match for the Dragon Slayer!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Even a furious Ice<lineend>Dragon is no match for the Dragon Slayer!<pause><lineend>|
 131075|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>He wasn't there, though...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>The Black Dragon must be somewhere else.<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>He wasn't there,<lineend>though...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>The Black Dragon<lineend>must be somewhere else.<lineend><CC03ED=00010007000103FF><pause>|
 131076|
-<CC03EA><CC03FC=0004><string=015C><color=0001>About the Black Dragon...<pause><lineend><CC03EA>A traveling Mercenary told me he saw a black-colored Dragon in Dorangora.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>About the Black<lineend>Dragon...<pause><lineend><CC03EA>A traveling<lineend>Mercenary told me he saw a black-colored Dragon in Dorangora.<pause><lineend>|
 131077|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Really!?<pause><lineend>|
 131078|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend>|
 131079|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...I have no further business in this town. I bid you all farewell.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...I have no<lineend>further business in this town. I bid you all farewell.<pause><lineend>|
 131080|
-<CC03EA><CC03FC=0004><string=015C><color=0001>Off to Dorangora, I take it?<pause><lineend><CC03EA>What do you want with the Black Dragon, anyway?<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Off to Dorangora, I<lineend>take it?<pause><lineend><CC03EA>What do you want<lineend>with the Black Dragon, anyway?<lineend><pause>|
 131081|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>It's a long story...<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>It's a long<lineend>story...<lineend><CC03ED=00010007000103FF><pause>|
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>・・・それは、<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>俺が父とは違うということを<lineend>証明するためだ。<lineend><CC03ED=00010007000103FF><pause>|
 131083|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking<lineend>about? And who is his Father, anyway?<pause><lineend>|
 131084|
 <CC03EA><CC03FC=0004><string=015C><color=0001>・・・彼はグロースターの名を継ぐ者だ。<lineend><pause>|
 131085|
-<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same<lineend>as Golgotha the Traitor?!<pause><lineend>|
 131086|
 <CC03EA><CC03FC=0004><string=015C><color=0001>そうだ。<pause><lineend><CC03EA>魔人と呼ばれし父を持つがゆえの<lineend>苦悩というものが<lineend>あるのだろうな、おそらく・・・<lineend><pause>|
 196608|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon that knows everything there is to know?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon<lineend>that knows everything there is to know?<pause><lineend>|
 196609|
-<CC03EA><CC03FC=0004><string=0104><color=0001>I certainly know your name, Edward.<lineend><pause><CC03EA>People who come to me all seek answers.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>I certainly know<lineend>your name, Edward.<lineend><pause><CC03EA>People who come to<lineend>me all seek answers.<pause><lineend>|
 196610|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Yes, as do I.<pause><lineend><CC03EA>Golgotha Glowstar, my Father, is hiding. I want you to tell me where.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Yes, as do I.<pause><lineend><CC03EA>Golgotha Glowstar,<lineend>my Father, is hiding. I want you to tell me where.<pause><lineend>|
 196611|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the Traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an honorable Knight, like my Mother says? I must know.<pause><lineend><CC03EA>If he is a traitor, I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he better be ready to explain why he abandoned us for all those years.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the<lineend>Traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an<lineend>honorable Knight, like my Mother says? I must know.<pause><lineend><CC03EA>If he is a traitor,<lineend>I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he<lineend>better be ready to explain why he abandoned us for all those years.<pause><lineend>|
 196612|
-<CC03EA><CC03FC=0004><string=0104><color=0001>It sounds almost as if you want me to help you murder your Father.<pause><lineend><CC03EA>If you absolutely must know, then I will make a deal with you.<pause><lineend><CC03EA>In exchange for telling you, I want you to bring me something that I desire.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>It sounds almost as<lineend>if you want me to help you murder your Father.<pause><lineend><CC03EA>If you absolutely<lineend>must know, then I will make a deal with you.<pause><lineend><CC03EA>In exchange for<lineend>telling you, I want you to bring me something that I desire.<pause><lineend>|
 196613|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...I could just force you to tell me, you know.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...I could just<lineend>force you to tell me, you know.<pause><lineend>|
 196614|
-<CC03EA><CC03FC=0004><string=0104><color=0001>If I thought you were going to attack me, I wouldn't have sat here waiting as I did.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>If I thought you<lineend>were going to attack me, I wouldn't have sat here waiting as I did.<pause><lineend>|
 196615|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...Lousy Dragon.<pause><lineend><CC03EA>What do I have to bring?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Lousy Dragon.<pause><lineend><CC03EA>What do I have to<lineend>bring?<pause><lineend>|
 196616|
-<CC03EA><CC03FC=0004><string=0104><color=0001>My name is Heindel. Be so kind as to use it.<pause><lineend><CC03EA>I want you to bring me a Gem called the Sun Stone.<pause><lineend><CC03EA>It's in the hands of a Dragon...The Black Dragon.<pause><lineend><CC03EA>He's both very powerful and unafraid of death. Are you still interested?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>My name is Heindel.<lineend>Be so kind as to use it.<pause><lineend><CC03EA>I want you to bring<lineend>me a Gem called the Sun Stone.<pause><lineend><CC03EA>It's in the hands<lineend>of a Dragon...The Black Dragon.<pause><lineend><CC03EA>He's both very<lineend>powerful and unafraid of death. Are you still interested?<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=0104><lineend><color=0001>I'll give you someone to help you in your search.<pause><lineend><CC03EA>Ignis!!<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I'll give you<lineend>someone to help you in your search.<pause><lineend><CC03EA>Ignis!!<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=0104><lineend><color=0001>He'll make things easier for you, so take him along.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>He'll make things<lineend>easier for you, so take him along.<pause><lineend>|
 196619|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Do as you please...<pause><lineend><CC03EA>I'll be back here with the Sun Stone soon. Count on it.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Do as you please...<pause><lineend><CC03EA>I'll be back here<lineend>with the Sun Stone soon. Count on it.<pause><lineend>|
 196620|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The Black Dragon never stays in one place long...<pause><lineend><CC03EA>...but you'll find him soon enough. I see it in your fate.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Black Dragon<lineend>never stays in one place long...<pause><lineend><CC03EA>...but you'll find<lineend>him soon enough. I see it in your fate.<pause><lineend>|
 196621|
-<CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>Now it's only a matter of time...<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>Now it's only a<lineend>matter of time...<pause><lineend>|
 262144|
-<CC03EA><CC03FC=0004><string=015C><color=0001>You certainly made short work of that Dragon!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>You certainly made<lineend>short work of that Dragon!<pause><lineend>|
 262145|
 <CC03EA><CC03FC=0004><string=004B><color=0001>すげぇ戦いだったんだぜ。<lineend>みんなにも見せてやりたかったよ。<pause><lineend>|
 262146|
@@ -91,12 +91,12 @@
 262153|
 <CC03EA><color=0003><string=0001><lineend><color=0001>それは・・・<pause><lineend>|
 262154|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...That's what I'm after.<pause><lineend><CC03EA>It's to prove that I'm not the same as my Father.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...That's what I'm<lineend>after.<pause><lineend><CC03EA>It's to prove that<lineend>I'm not the same as my Father.<pause><lineend>|
 262155|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking<lineend>about? And who is his Father, anyway?<pause><lineend>|
 262156|
-<CC03EA><CC03FC=0004><string=015C><color=0001>...<pause><lineend><CC03EA>He's the successor to the Glowstar name.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>...<pause><lineend><CC03EA>He's the successor<lineend>to the Glowstar name.<lineend><pause>|
 262157|
-<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same<lineend>as Golgotha the Traitor?!<pause><lineend>|
 262158|
-<CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend><CC03EA>Growing up as the son of an infamous traitor must make for a very hard life indeed.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend><CC03EA>Growing up as the<lineend>son of an infamous traitor must make for a very hard life indeed.<lineend><pause>|

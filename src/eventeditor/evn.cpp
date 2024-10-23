@@ -1354,6 +1354,41 @@ char *FixLineWrap(char *text, int event_id)
    return ret;
 }
 
+
+unsigned short AsciiCharToTexttblIndex(char c) {
+   if ( c  == ' ') return(0);
+   else if ( c  == ',') return(1);  // TODO: replace
+   else if ( c  == '.') return(2);  // TODO: replace
+   else if ( c  == '*') return(3);  // TODO: replace
+   else if ( c  == '#') return(3);  // TODO: replace
+   else if ( c  == '&') return(3);  // TODO: replace
+   else if ( c  == '?') return(4);
+   else if ( c  == '!') return(5);
+   else if ( c  == '_') return(6);
+   else if ( c  == '-') return(8);
+   else if ( c  == '~') return(9);
+   else if ( c  == '(') return(10);
+   else if ( c  == ')') return(11);
+   else if ( c  == '\'') return(12);  // TODO: replace
+   else if ( c  == '\"') return(12);  // TODO: replace
+   else if ( c  == '%') return(16);
+   else if ( c  == '0') return(0x11);
+   else if ( c  == '1') return(0x12);
+   else if ( c  == '2') return(0x13);
+   else if ( c  == '3') return(0x14);
+   else if ( c  == '4') return(0x15);
+   else if ( c  == '5') return(0x16);
+   else if ( c  == '6') return(0x17);
+   else if ( c  == '7') return(0x18);
+   else if ( c  == '8') return(0x19);
+   else if ( c  == '9') return(0x1A);
+   else if ( c  >= 'A' && c <= 'Z') return(0x3C0 + c - 'A');
+   else if ( c  >= 'a' && c <= 'z') return(0x3E0 + c - 'a');
+   else return(0xFFF);  // invalid
+}
+
+
+
 unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_size, evn_header_struct *header, int *text_num)
 {
    unsigned char magic_number=0;
@@ -1485,7 +1520,6 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 					}
 				}
             
-
 				if (!pattern_found)
 				{
 					// Just add as is
@@ -1494,32 +1528,12 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
                // convert to 16-bit char
                               
                // Find Character and encode
-               if ( text[i]  == ' ') CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == ',') CompressAddWord(1, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '.') CompressAddWord(2, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '?') CompressAddWord(4, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '!') CompressAddWord(5, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '_') CompressAddWord(6, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '-') CompressAddWord(8, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '~') CompressAddWord(9, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '(') CompressAddWord(10, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == ')') CompressAddWord(11, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '\'') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '\"') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '%') CompressAddWord(16, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '0') CompressAddWord(0x11, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '1') CompressAddWord(0x12, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '2') CompressAddWord(0x13, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '3') CompressAddWord(0x14, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '4') CompressAddWord(0x15, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '5') CompressAddWord(0x16, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '6') CompressAddWord(0x17, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '7') CompressAddWord(0x18, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '8') CompressAddWord(0x19, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  == '9') CompressAddWord(0x1A, &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  >= 'A' && text[i] <= 'Z') CompressAddWord((0x3C0 + text[i] - 'A'), &outbuf, out_size, &magic_number, &enc_count);
-               else if ( text[i]  >= 'a' && text[i] <= 'z') CompressAddWord((0x3E0 + text[i] - 'a'), &outbuf, out_size, &magic_number, &enc_count);
-               else printf("invalid char found (skipped): %c\n", text[i]);
+               unsigned short k = AsciiCharToTexttblIndex(text[i]);
+               if (k != 0xFFF)
+                  CompressAddWord(k, &outbuf, out_size, &magic_number, &enc_count);
+               else 
+                  printf("invalid char found (skipped): %c\n", text[i]);
+               
                i++;
 				}
 			}
@@ -1583,6 +1597,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
    return text_pointer_list;
 }
 
+// MEMO: used by itemsutil
 unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_out_size, ttentry_struct *ttentry, int text_num, int lzo_compress)
 {
    unsigned char magic_number=0;
@@ -1608,7 +1623,9 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
 
          if (out_size[0] >= max_out_size)
          {
+            // 2FIX: ERROR_INSUFFICIENT_BUFFER with items.txt
             free(text_pointer_list);
+            printf("%d>=%d\n", out_size[0], max_out_size);
             return NULL;
          }
 
@@ -1708,7 +1725,14 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
                   if (!pattern_found)
                   {
                      // Just add as is
-                     CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
+                     //CompressAddWord(text[i], &outbuf, out_size, &magic_number, &enc_count);
+                     
+                     unsigned short k = AsciiCharToTexttblIndex(text[i]);
+                     if (k != 0xFFF)
+                        CompressAddWord(k, &outbuf, out_size, &magic_number, &enc_count);
+                     else 
+                        printf("invalid char found (skipped): %c\n", text[i]);
+                        
                      i++;
                   }
                }
@@ -1721,10 +1745,10 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
                      if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
                      {
                         CompressAddWord(j, &outbuf, out_size, &magic_number, &enc_count);
-                        i+= 2;
                         break;
                      }
                   }
+                  i+= 2;
                }
             }
          }

@@ -1,2 +1,2 @@
 65536|
-<CC03EA><color=0002>Got the Notice Drop!<pause><lineend>|
+<CC03EA><color=0002>Got the Notice<lineend>Drop!<pause><lineend>|

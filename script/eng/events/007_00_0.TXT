@@ -1,44 +1,44 @@
 0|
 <CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>*sniffle*<lineend><CC03F1=0166><pause>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What's wrong, little Fairy? Why are you crying?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What's wrong,<lineend>little Fairy? Why are you crying?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>I was supposed to take care of the Yggdrasill Tree...<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>I was supposed to<lineend>take care of the Yggdrasill Tree...<lineend><CC03F1=0166><pause>|
 3|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yggdrasill Tree?<pause><lineend>|
 4|
 <CC03F2=000000880000003203FF00000000><CC03ED=0000001B00010000><CC03ED=0000001C000103FF>|
 5|
-<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>My goodness. It's huge!<lineend><CC03ED=0000001C000103FF><pause>|
+<CC03EA><color=0002><string=0000><lineend><CC03ED=0000001D000103FF><color=0001>My goodness. It's<lineend>huge!<lineend><CC03ED=0000001C000103FF><pause>|
 6|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Some say it's the most beautiful tree in the entire world.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>But at this rate, it hasn't got long to live.<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Some say it's the<lineend>most beautiful tree in the entire world.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>But at this rate,<lineend>it hasn't got long to live.<lineend><CC03F1=0166><pause>|
 7|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What? Why is that?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>A monster tasted some Yggdrasill Fruit and decided it wanted more.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It burrowed deep into the ground and started sapping at the tree's power.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>But there's nothing I can do to stop it!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>What am I going to do? The tree I'm supposed to protect is going to die!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>A monster tasted<lineend>some Yggdrasill Fruit and decided it wanted more.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It burrowed deep<lineend>into the ground and started sapping at the tree's power.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>But there's nothing<lineend>I can do to stop it!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>What am I going to<lineend>do? The tree I'm supposed to protect is going to die!<lineend><CC03F1=0166><pause>|
 9|
-<CC03EA><color=0002><string=0000><lineend><color=0001>A monster deep under the tree...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A monster deep<lineend>under the tree...<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>*sniffle*<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>At this rate, the Yggdrasill Tree is going to wilt away!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>*sniffle*<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>At this rate, the<lineend>Yggdrasill Tree is going to wilt away!<lineend><CC03F1=0166><pause>|
 11|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Wait, what?<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You beat the monster for us?<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Wait, what?<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You beat the<lineend>monster for us?<lineend><CC03F1=0166><pause>|
 12|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. It should be all right now.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. It should be<lineend>all right now.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>That means Yggdrasill Tree isn't going to wilt!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It will always be here to quietly watch over the world...<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You really did it! Thank you! Thank you so much!!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>That means<lineend>Yggdrasill Tree isn't going to wilt!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It will always be<lineend>here to quietly watch over the world...<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You really did it!<lineend>Thank you! Thank you so much!!<lineend><CC03F1=0166><pause>|
 14|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>We'd like you to have this bag, and this Yggdrasill Fruit, too!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>We'd like you to<lineend>have this bag, and this Yggdrasill Fruit, too!<lineend><CC03F1=0166><pause>|
 15|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yggdrasill Fruit?<pause><lineend><CC03EA>I don't know if I can accept something so precious.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yggdrasill Fruit?<pause><lineend><CC03EA>I don't know if I<lineend>can accept something so precious.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>I'm sure that it's what the Yggdrasill Tree wants, too.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You're its savior, after all!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>I'm sure that it's<lineend>what the Yggdrasill Tree wants, too.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You're its savior,<lineend>after all!<lineend><CC03F1=0166><pause>|
 17|
-<CC03EA><color=0002>Got one more bag! Now you can carry more items!<pause><lineend>|
+<CC03EA><color=0002>Got one more bag!<lineend>Now you can carry more items!<pause><lineend>|
 18|
-<CC03EA><color=0002>Got Yggdrasill Fruit!<pause><lineend>|
+<CC03EA><color=0002>Got Yggdrasill<lineend>Fruit!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Thanks to you, the Yggdrasill Tree will bear lots of fruit!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You're the best!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Thanks to you, the<lineend>Yggdrasill Tree will bear lots of fruit!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You're the best!<lineend><CC03F1=0166><pause>|
 20|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Try coming again later. I think the Yggdrasill will bear some new fruit before long.<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Try coming again<lineend>later. I think the Yggdrasill will bear some new fruit before long.<lineend><CC03F1=0166><pause>|
 21|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>A few Yggdrasill Fruits are ripe. You might as well take them!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>A few Yggdrasill<lineend>Fruits are ripe. You might as well take them!<lineend><CC03F1=0166><pause>|

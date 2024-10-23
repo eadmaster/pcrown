@@ -1,56 +1,56 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>They say somewhere out there is a sage who knows everything.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>They say somewhere<lineend>out there is a sage who knows everything.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=002E><lineend><color=0001>Somebody told me the same thing!<pause><lineend><CC03EA>What I heard was that he'll answer any question in exchange for treasure.<pause><lineend><CC03EA>What would you ask him, Dad?<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>Somebody told me<lineend>the same thing!<pause><lineend><CC03EA>What I heard was<lineend>that he'll answer any question in exchange for treasure.<pause><lineend><CC03EA>What would you ask<lineend>him, Dad?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Well, let me think.<pause><lineend><CC03EA>Maybe how to get rich?<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Well, let me think.<pause><lineend><CC03EA>Maybe how to get<lineend>rich?<pause><lineend>|
 3|
-<CC03EA><color=0006><string=002E><lineend><color=0001>Is that the only thing you ever think about?<pause><lineend><CC03EA>I'd ask him for...<lineend>Umm...<pause><lineend><CC03EA>Oh, I know! I'd ask him how we can have peace in the world.<pause><lineend><CC03EA>I just want everybody to get along!<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>Is that the only<lineend>thing you ever think about?<pause><lineend><CC03EA>I'd ask him for...<lineend>Umm...<pause><lineend><CC03EA>Oh, I know! I'd ask<lineend>him how we can have peace in the world.<pause><lineend><CC03EA>I just want<lineend>everybody to get along!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Some strange folks have been gathering on the edge of town recently.<pause><lineend><CC03EA>They don't look like travelers to me.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Some strange folks<lineend>have been gathering on the edge of town recently.<pause><lineend><CC03EA>They don't look<lineend>like travelers to me.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002E><lineend><color=0001>You're imagining things again, Dad.<pause><lineend><CC03EA>Nobody comes to a place like this unless they're sight-seeing.<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>You're imagining<lineend>things again, Dad.<pause><lineend><CC03EA>Nobody comes to a<lineend>place like this unless they're sight-seeing.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome the The Black Cat Tavern. I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome the The<lineend>Black Cat Tavern. I'll take your order.<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 8|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Thanks again for<lineend>stopping by!<pause><lineend>|
 9|
-<CC03EA><CC03FC=0004><string=01AD><color=0001>Our Local Delicacy is slow-roasted Grilled Meat.<pause><lineend><CC03EA>We put nothing more on it than a little salt, so you can enjoy its pure meaty goodness.<pause><lineend><CC03EA>One is 52G.<lineend>How about it?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AD><color=0001>Our Local Delicacy<lineend>is slow-roasted Grilled Meat.<pause><lineend><CC03EA>We put nothing more<lineend>on it than a little salt, so you can enjoy its pure meaty goodness.<pause><lineend><CC03EA>One is 52G.<lineend>How about it?<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 11|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't<lineend>have enough.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag is already full. Well, come again anytime!<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag<lineend>is already full. Well, come again anytime!<pause><lineend>|
 13|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Here you are.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's grill something. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's<lineend>grill something. Please select a Food to use.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I can't cook that, right?<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I<lineend>can't cook that, right?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all right?<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G.<lineend>Is that all right?<pause><lineend>|
 17|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 18|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't<lineend>have enough.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B5><lineend><color=0001>Welcome. You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
 20|
 <CC03EA><CC03FC=0004><string=01B5><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 21|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B5><lineend><color=0001>You don't quite<lineend>have enough money. Come back anytime.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B5><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B5><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
 24|
-<CC03EA><color=0006><string=01B5><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B5><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
 25|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 26|
-<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
 27|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

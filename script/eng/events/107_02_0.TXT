@@ -1,32 +1,32 @@
 65536|
-<CC03EA><CC03FC=0004><string=007D>They just keep coming! We'll never beat all of them!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>They just keep<lineend>coming! We'll never beat all of them!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Don't talk like that! We have to stand our ground!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Don't talk like<lineend>that! We have to stand our ground!<pause><lineend>|
 65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Let me help you.<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Thank you! What's your name?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Thank you! What's<lineend>your name?<pause><lineend>|
 65540|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Edward Glowstar. I think you'll find that I'm good with a sword.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Edward Glowstar. I<lineend>think you'll find that I'm good with a sword.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Glowstar? That would make you the son of...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Glowstar? That<lineend>would make you the son of...<pause><lineend>|
 65542|
-<CC03EA><color=0003><string=0001><lineend><color=0001>What do you want me to do?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What do you want me<lineend>to do?<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>They're after Princess Sidrael. We're trying to stop them.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>They're after<lineend>Princess Sidrael. We're trying to stop them.<pause><lineend>|
 65544|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Where is she now?<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>She's hiding in her bedroom on the top floor.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>She's hiding in her<lineend>bedroom on the top floor.<pause><lineend>|
 65546|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Got it.<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Allow me to thank you on behalf of Queen Gradriel!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Allow me to thank<lineend>you on behalf of Queen Gradriel!<pause><lineend>|
 65548|
 <CC03EA><color=0003><string=0001><lineend><CC03F8=0001><color=0001>Queen...Gradriel?<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>We'll deal with the monsters on these two floors.<pause><lineend><CC03EA>Please take care of the Princess, Sir Edward!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>We'll deal with the<lineend>monsters on these two floors.<pause><lineend><CC03EA>Please take care of<lineend>the Princess, Sir Edward!<pause><lineend>|
 65550|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Right.<pause><lineend>|
 65551|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>The son of Golgotha...He's grown up to be truly brave.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The son of<lineend>Golgotha...He's grown up to be truly brave.<pause><lineend>|

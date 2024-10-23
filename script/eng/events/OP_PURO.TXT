@@ -1,42 +1,42 @@
 65536|
-<CC03EA><color=0001>The little witch Proserpina lived together with her Auntie, who was herself a great witch...<pause><lineend>|
+<CC03EA><color=0001>The little witch<lineend>Proserpina lived together with her Auntie, who was herself a great witch...<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Proserpina! Hey, Proserpina!! <lineend>Get in here!!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Proserpina! Hey,<lineend>Proserpina!! <lineend>Get in here!!<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Aw, what now, Auntie?<pause><lineend><CC03EA>I was going to go pick some mushrooms in the forest!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aw, what now,<lineend>Auntie?<pause><lineend><CC03EA>I was going to go<lineend>pick some mushrooms in the forest!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>What's this?<pause><lineend><CC03EA>Wipe that pouty look off your face!<pause><lineend><CC03EA>You must show respect when you talk to an elderly witch. You're but a child, after all.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>What's this?<pause><lineend><CC03EA>Wipe that pouty<lineend>look off your face!<pause><lineend><CC03EA>You must show<lineend>respect when you talk to an elderly witch. You're but a child, after all.<pause><lineend>|
 65540|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, I'm a future super-witch!<pause><lineend><CC03EA>One of these days, I'm going to be a much better witch than you, Auntie!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, I'm a future<lineend>super-witch!<pause><lineend><CC03EA>One of these days,<lineend>I'm going to be a much better witch than you, Auntie!<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho, I can't wait to see that.<pause><lineend><CC03EA>But you'll have to grow up a little before your magic can get better.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho, I can't wait<lineend>to see that.<pause><lineend><CC03EA>But you'll have to<lineend>grow up a little before your magic can get better.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Now then, Proserpina.<pause><lineend><CC03EA>You know what our job is as witches, don't you?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Now then,<lineend>Proserpina.<pause><lineend><CC03EA>You know what our<lineend>job is as witches, don't you?<pause><lineend>|
 65543|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Yes.<pause><lineend><CC03EA>To surprise the daylights out of ordinary people!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Yes.<pause><lineend><CC03EA>To surprise the<lineend>daylights out of ordinary people!<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Correct!<pause><lineend><CC03EA>To surprise people is every witch's duty.<pause><lineend><CC03EA>I think it's time you took a journey to grow yourself into a better witch.<pause><lineend><CC03EA>Think you can do it without my help?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Correct!<pause><lineend><CC03EA>To surprise people<lineend>is every witch's duty.<pause><lineend><CC03EA>I think it's time<lineend>you took a journey to grow yourself into a better witch.<pause><lineend><CC03EA>Think you can do it<lineend>without my help?<pause><lineend>|
 65545|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I'll be fine!<pause><lineend><CC03EA>Traveling alone is a piece of cake for a future super-witch!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll be fine!<pause><lineend><CC03EA>Traveling alone is<lineend>a piece of cake for a future super-witch!<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Excellent.<pause><lineend><CC03EA>I want you to prove your talent to me.<pause><lineend><CC03EA>Your first assignment is to go stir things up in Nutsbill.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Excellent.<pause><lineend><CC03EA>I want you to prove<lineend>your talent to me.<pause><lineend><CC03EA>Your first<lineend>assignment is to go stir things up in Nutsbill.<pause><lineend>|
 65547|
-<CC03EA><color=0002><string=0002><lineend><color=0001>All right.<pause><lineend><CC03EA>Maybe I'll kidnap a few children and change them into animals.<pause><lineend><CC03EA>Imagine how surprised everyone will be when they see their kids turned into ducks and frogs!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>All right.<pause><lineend><CC03EA>Maybe I'll kidnap a<lineend>few children and change them into animals.<pause><lineend><CC03EA>Imagine how<lineend>surprised everyone will be when they see their kids turned into ducks and frogs!<pause><lineend>|
 65548|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Ha ha! Splendid!<pause><lineend>|
 65549|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I knew you'd think so!<pause><lineend><CC03EA>Well then, Auntie, I'm off!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I knew you'd think<lineend>so!<pause><lineend><CC03EA>Well then, Auntie,<lineend>I'm off!<pause><lineend>|
 65550|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Wait one moment.<pause><lineend>|
 65551|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>It's customary for any witch on her first journey to take a servant.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>It's customary for<lineend>any witch on her first journey to take a servant.<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Gabriel! Get in here!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Gabriel! Get in<lineend>here!<pause><lineend>|
 65553|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>I captured Gabriel in preparation for this day. Take him with you.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>I captured Gabriel<lineend>in preparation for this day. Take him with you.<pause><lineend>|
 65554|
-<CC03EA><color=0002><string=0002><lineend><color=0001>A Goblin!?<pause><lineend><CC03EA>Can't I have something cooler? A witch with a Goblin is so out of fashion these days.<pause><lineend><CC03EA>How about a Griffon? Or a Dragon?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>A Goblin!?<pause><lineend><CC03EA>Can't I have<lineend>something cooler? A witch with a Goblin is so out of fashion these days.<pause><lineend><CC03EA>How about a<lineend>Griffon? Or a Dragon?<pause><lineend>|
 65555|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Quit whining!<pause><lineend><CC03EA>It's customary to take a Goblin, so that's what you're taking!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Quit whining!<pause><lineend><CC03EA>It's customary to<lineend>take a Goblin, so that's what you're taking!<pause><lineend>|
 65556|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Fine! I'll take the stupid Goblin...<pause><lineend><CC03EA>OK, Gabriel. Let's get a move on!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Fine! I'll take the<lineend>stupid Goblin...<pause><lineend><CC03EA>OK, Gabriel. Let's<lineend>get a move on!<pause><lineend>|

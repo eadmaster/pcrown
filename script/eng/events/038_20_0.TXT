@@ -1,72 +1,72 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Eriel!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You!<pause><lineend><CC03EA>What have you done to my sister!?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You!<pause><lineend><CC03EA>What have you done<lineend>to my sister!?<pause><lineend>|
 65538|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Just look at you, Gradriel, all covered in bruises.<pause><lineend><CC03EA>Even when you were little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Girls aren't supposed to do things that could get them hurt...I tried to tell you...<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Just look at you,<lineend>Gradriel, all covered in bruises.<pause><lineend><CC03EA>Even when you were<lineend>little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Girls aren't<lineend>supposed to do things that could get them hurt...I tried to tell you...<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Eriel?<lineend>...You're Eriel!?<pause><lineend>|
 65540|
 <CC03EA><color=0005><string=011A><lineend><color=0001>Surprised?<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=011A><lineend><color=0001>I've got some powers of my own now, and things have changed.<pause><lineend><CC03EA>All I want anymore is for the Demon King to come and destroy this cruel world.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>I've got some<lineend>powers of my own now, and things have changed.<pause><lineend><CC03EA>All I want anymore<lineend>is for the Demon King to come and destroy this cruel world.<pause><lineend>|
 65542|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Gradriel, just be a dear and stay where you are.<pause><lineend><CC03EA>Here, right beneath our feet, is where the door to the Demon Realm will open.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Gradriel, just be a<lineend>dear and stay where you are.<pause><lineend><CC03EA>Here, right beneath<lineend>our feet, is where the door to the Demon Realm will open.<pause><lineend>|
 65543|
-<CC03EA><color=0005><string=011A><lineend><color=0001>I'll need you when that happens...<pause><lineend><CC03EA>You're going to break the seal on the Demon King!<pause><lineend><CC03EA>How lucky for you, Gradriel. You get to be the one who initiates the end of the world!<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>I'll need you when<lineend>that happens...<pause><lineend><CC03EA>You're going to<lineend>break the seal on the Demon King!<pause><lineend><CC03EA>How lucky for you,<lineend>Gradriel. You get to be the one who initiates the end of the world!<pause><lineend>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I won't break the seal! Never!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I won't break the<lineend>seal! Never!<pause><lineend>|
 65545|
-<CC03EA><color=0005><string=011A><lineend><color=0001>You were always such a good little girl...<pause><lineend><CC03EA>You wouldn't disobey your big sister, would you?<pause><lineend><CC03EA>I wonder if tasting a little of my magic will get you to listen?<lineend><pause>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>You were always<lineend>such a good little girl...<pause><lineend><CC03EA>You wouldn't<lineend>disobey your big sister, would you?<pause><lineend><CC03EA>I wonder if tasting<lineend>a little of my magic will get you to listen?<lineend><pause>|
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Eriel! Stop it!<pause><lineend>|
 65547|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Now that I think about it, there is one more member of our Royal Family...<pause><lineend><CC03EA>Actually, I can't wait to see how pained Sidrael will be when she finds out!<lineend><pause>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Now that I think<lineend>about it, there is one more member of our Royal Family...<pause><lineend><CC03EA>Actually, I can't<lineend>wait to see how pained Sidrael will be when she finds out!<lineend><pause>|
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...I...<lineend>...No...<lineend><pause>|
 65549|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Your hands are shaking. Ha ha! Thinking of hitting your big sister, huh?<pause><lineend><CC03EA>Bad girls like you need a spanking!<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Your hands are<lineend>shaking. Ha ha! Thinking of hitting your big sister, huh?<pause><lineend><CC03EA>Bad girls like you<lineend>need a spanking!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=011A><lineend><color=0001>You've grown strong...<lineend>Just like Mother...<pause><lineend><CC03EA>You're too late though. Sorry! The gate is nearly complete.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>You've grown<lineend>strong...<lineend>Just like Mother...<pause><lineend><CC03EA>You're too late<lineend>though. Sorry! The gate is nearly complete.<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Someone must be controlling Princess Eriel.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Someone must be<lineend>controlling Princess Eriel.<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>Leon!<lineend>Oh Leon, what should I do?<lineend><CC03ED=00000023000103FF><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>Leon!<lineend>Oh Leon, what<lineend>should I do?<lineend><CC03ED=00000023000103FF><pause>|
 131075|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Just stand back, your Majesty.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Just stand back,<lineend>your Majesty.<pause><lineend>|
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Leon...<lineend><CC03ED=0000001C000103FF><pause>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Eriel! Are you all right?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Eriel! Are you all<lineend>right?<pause><lineend>|
 131078|
 <CC03EA><color=0004><string=00FB><lineend><color=0001>G...Gradriel...<pause><lineend>|
 131079|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Eriel!!<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=00FB><lineend><color=0001><CC03ED=00FB0011000103FF>What have I done...How will anyone ever forgive me?<lineend><CC03ED=00FB0010000103FF><pause>|
+<CC03EA><color=0004><string=00FB><lineend><color=0001><CC03ED=00FB0011000103FF>What have I<lineend>done...How will anyone ever forgive me?<lineend><CC03ED=00FB0010000103FF><pause>|
 131081|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>There's no time to talk! We have to get outside! The gate is opening!<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>There's no time to<lineend>talk! We have to get outside! The gate is opening!<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no! Demons must have come through the gate!<pause><lineend><CC03EA>They're headed for the castle! They're going to attack it!!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no! Demons must<lineend>have come through the gate!<pause><lineend><CC03EA>They're headed for<lineend>the castle! They're going to attack it!!<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Leon, I'm going to borrow your horse!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon, I'm going to<lineend>borrow your horse!<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Your Majesty, their objective is to revive the Demon King!<pause><lineend><CC03EA>They'll probably go after Princess Sidrael!<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Your Majesty, their<lineend>objective is to revive the Demon King!<pause><lineend><CC03EA>They'll probably go<lineend>after Princess Sidrael!<pause><lineend>|
 196611|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Please take care of my sister!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please take care of<lineend>my sister!<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Let's head for the castle.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Let's head for the<lineend>castle.<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>...I sense an exorbitant level of evil magic...<lineend><CC03ED=00F70006000103FF><pause>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>...I sense an<lineend>exorbitant level of evil magic...<lineend><CC03ED=00F70006000103FF><pause>|
 196614|
 <CC03EA><color=0004><string=00FB><lineend><color=0001>...Leon?<pause><lineend>|
 196615|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>...What's that?<lineend>Don't worry. It's nothing.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>...What's that?<lineend>Don't worry. It's<lineend>nothing.<pause><lineend>|
 262144|
-<CC03EA><color=0002><string=0000><lineend><color=0001>It's the Knight Guard!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It's the Knight<lineend>Guard!<pause><lineend>|
 262145|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right!?<pause><lineend>|
 262146|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your Majesty?<pause><lineend><CC03EA>Are those people...<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your<lineend>Majesty?<pause><lineend><CC03EA>Are those people...<pause><lineend>|
 262147|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The castle is straight up ahead. Let's hurry!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The castle is<lineend>straight up ahead. Let's hurry!<pause><lineend>|

@@ -1,38 +1,38 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>The sailors from the Friedfin were arrested because they stole a bunch of gold coins.<pause><lineend><CC03EA>Those guys are so bird-brained, nobody ever imagined they would pull a stunt like that.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>The sailors from<lineend>the Friedfin were arrested because they stole a bunch of gold coins.<pause><lineend><CC03EA>Those guys are so<lineend>bird-brained, nobody ever imagined they would pull a stunt like that.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>I'm thinking of hiring that artist everyone is talking about to do a painting.<pause><lineend><CC03EA>What could be more stylish than a honeymoon portrait of the two of us?<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>I'm thinking of<lineend>hiring that artist everyone is talking about to do a painting.<pause><lineend><CC03EA>What could be more<lineend>stylish than a honeymoon portrait of the two of us?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Oh, how wonderful it would be if these days could go on forever...<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Oh, how wonderful<lineend>it would be if these days could go on forever...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place<lineend>north of the pirates hideout...<pause><lineend><CC03EA>It's as far north<lineend>as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's<lineend>a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it<lineend>that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years<lineend>since anyone has even tried going there.<pause><lineend><CC03EA>After all, who<lineend>wants to die halfway to paradise?<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0177><lineend><color=0001>Two of the Friedfin's crewmen have been arrested by local officials.<pause><lineend><CC03EA>You know, those guys don't look like the type to try pulling off a heist.<pause><lineend><CC03EA>I do remember they said they wanted a painting from the new artist in town.<pause><lineend><CC03EA>If you ask me, he's the one to be suspicious of!<pause><lineend>|
+<CC03EA><color=0004><string=0177><lineend><color=0001>Two of the<lineend>Friedfin's crewmen have been arrested by local officials.<pause><lineend><CC03EA>You know, those<lineend>guys don't look like the type to try pulling off a heist.<pause><lineend><CC03EA>I do remember they<lineend>said they wanted a painting from the new artist in town.<pause><lineend><CC03EA>If you ask me, he's<lineend>the one to be suspicious of!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>That artist who just moved here? He bought the haunted mansion!<pause><lineend><CC03EA>Hey, maybe I should go ask him to paint something for me?<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>That artist who<lineend>just moved here? He bought the haunted mansion!<pause><lineend><CC03EA>Hey, maybe I should<lineend>go ask him to paint something for me?<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>Everyone says the artist who moved here paints the most beautiful pictures.<pause><lineend><CC03EA>But there's just something creepy about him. I think I'm going to keep my distance.<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>Everyone says the<lineend>artist who moved here paints the most beautiful pictures.<pause><lineend><CC03EA>But there's just<lineend>something creepy about him. I think I'm going to keep my distance.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Nobody ever thought there would be someone crazy enough to buy that mansion.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Nobody ever thought<lineend>there would be someone crazy enough to buy that mansion.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000F><lineend><color=0001>For all their muscle, sailors are awfully timid and superstitious.<pause><lineend><CC03EA>I wonder what it would take to convince one to go near the Island of Illusion?<pause><lineend><CC03EA>You know, that place where they say ships never come back.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>For all their<lineend>muscle, sailors are awfully timid and superstitious.<pause><lineend><CC03EA>I wonder what it<lineend>would take to convince one to go near the Island of Illusion?<pause><lineend><CC03EA>You know, that<lineend>place where they say ships never come back.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=003D><lineend><color=0001>What? You want to go to Arsontula? That's not going to be easy, you know.<pause><lineend><CC03EA>Cargo ships make it a rule to never go near the area.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>What? You want to<lineend>go to Arsontula? That's not going to be easy, you know.<pause><lineend><CC03EA>Cargo ships make it<lineend>a rule to never go near the area.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=003D><lineend><color=0001>What? You want to go to Arsontula? That's not going to be easy, you know.<pause><lineend><CC03EA>Cargo ships make it a rule to never go near the area.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>What? You want to<lineend>go to Arsontula? That's not going to be easy, you know.<pause><lineend><CC03EA>Cargo ships make it<lineend>a rule to never go near the area.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=001D><lineend><color=0001>Can you believe someone is living in that haunted mansion? It's incredible!<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Can you believe<lineend>someone is living in that haunted mansion? It's incredible!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 14|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|

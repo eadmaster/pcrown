@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way back home...<CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's a beautiful lake to the west of town called <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>I wouldn't get too close to it, though.<pause><lineend><CC03EA>A wicked mermaid has turned up there. She controls monsters with magic to attack people.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's a beautiful<lineend>lake to the west of town called <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>I wouldn't get too<lineend>close to it, though.<pause><lineend><CC03EA>A wicked mermaid<lineend>has turned up there. She controls monsters with magic to attack people.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat reward for whoever captures the evil Siren living there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in<lineend>there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat<lineend>reward for whoever captures the evil Siren living there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find something really worth your while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're<lineend>both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors' Leader.<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in<lineend>the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors'<lineend>Leader.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Greetings, traveler. I'm the leader of the Warriors of Cadho Badho.<pause><lineend><CC03EA>We Warriors are prepared to lay our lives down at any time for the safety of this town.<pause><lineend><CC03EA>What a pity that the Wizards can't comprehend such a noble attitude!<pause><lineend><CC03EA>They're great at running their mouths, and not much else.<pause><lineend><CC03EA>Our job would be much easier without them!<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Greetings,<lineend>traveler. I'm the leader of the Warriors of Cadho Badho.<pause><lineend><CC03EA>We Warriors are<lineend>prepared to lay our lives down at any time for the safety of this town.<pause><lineend><CC03EA>What a pity that<lineend>the Wizards can't comprehend such a noble attitude!<pause><lineend><CC03EA>They're great at<lineend>running their mouths, and not much else.<pause><lineend><CC03EA>Our job would be<lineend>much easier without them!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most important duties.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each area were made to commemorate them.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through the alleys that connect the different areas.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake Titania casts spells on monsters to make them attack people!<pause><lineend><CC03EA>She's so dangerous, some of the Warriors who went to investigate never even came back.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake<lineend>Titania casts spells on monsters to make them attack people!<pause><lineend><CC03EA>She's so dangerous,<lineend>some of the Warriors who went to investigate never even came back.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizard's town by now. I wonder if he got lost again?<pause><lineend><CC03EA>The tea I made is getting cold!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from the Wizard's town by now. I wonder if he got lost again?<pause><lineend><CC03EA>The tea I made is<lineend>getting cold!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE<lineend>TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to say that?<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you<lineend>suppose he learned to say that?<pause><lineend>|
 18|
-<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the gossip is about the monster attacks around the lake.<pause><lineend><CC03EA>I don't understand why people can't just stay away from there.<pause><lineend><CC03EA>Then we could talk about something else for a change!<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the<lineend>gossip is about the monster attacks around the lake.<pause><lineend><CC03EA>I don't understand<lineend>why people can't just stay away from there.<pause><lineend><CC03EA>Then we could talk<lineend>about something else for a change!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single day!<pause><lineend>|

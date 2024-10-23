@@ -1,75 +1,75 @@
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, it's dangerous for you to be outside the cave.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, it's<lineend>dangerous for you to be outside the cave.<lineend><CC03ED=00010003000103FF><pause>|
 65537|
-<CC03EA><color=0004><string=0107><lineend><color=0001>I just saw you coming, that's all...<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I just saw you<lineend>coming, that's all...<pause><lineend>|
 65538|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I spoke with the Leader of the Knights.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't think anyone else from Cadho Badho will try to catch you.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I spoke with the<lineend>Leader of the Knights.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't think<lineend>anyone else from Cadho Badho will try to catch you.<lineend><CC03ED=00010003000103FF><pause>|
 65539|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you.<pause><lineend><CC03EA>Let me heal you, Sir Edward. It's the least I can do.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you.<pause><lineend><CC03EA>Let me heal you,<lineend>Sir Edward. It's the least I can do.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=017E><lineend><color=0001>What are you doing to Edward!?<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>What are you doing<lineend>to Edward!?<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You're the girl from Dorangora...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You're the girl<lineend>from Dorangora...<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=017E><lineend><color=0001>Edward? Why are you protecting her?<pause><lineend><CC03EA>That mermaid is attacking the townspeople using monsters under her spell!<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Edward? Why are you<lineend>protecting her?<pause><lineend><CC03EA>That mermaid is<lineend>attacking the townspeople using monsters under her spell!<pause><lineend>|
 65543|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Don't be ridiculous.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't be<lineend>ridiculous.<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=017E><lineend><color=0001>...!!<lineend>Did she cast a spell on you, too!?<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>...!!<lineend>Did she cast a<lineend>spell on you, too!?<pause><lineend>|
 65545|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Hang on, Edward!<lineend>I'll get her!<lineend><pause>|
 65546|
-<CC03EA><color=0003><string=0001><lineend><color=0001>It's like everyone in the world has gone deaf...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>It's like everyone<lineend>in the world has gone deaf...<pause><lineend>|
 65547|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, you go and hide yourself for now.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Ondine, you go and<lineend>hide yourself for now.<lineend><CC03ED=00010003000103FF><pause>|
 65548|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Your name was...Gradriel, right?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your name<lineend>was...Gradriel, right?<pause><lineend>|
 65549|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Your skills have definitely improved.<pause><lineend><CC03EA>But if you're going to use your sword so carelessly...<pause><lineend><CC03EA>...you're no better than the rest of the criminals!<pause><lineend><CC03EA>Do you believe everything you hear, or do you judge the truth for yourself?<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your skills have<lineend>definitely improved.<pause><lineend><CC03EA>But if you're going<lineend>to use your sword so carelessly...<pause><lineend><CC03EA>...you're no better<lineend>than the rest of the criminals!<pause><lineend><CC03EA>Do you believe<lineend>everything you hear, or do you judge the truth for yourself?<lineend><pause>|
 65550|
 <CC03EA><color=0004><string=017E><lineend><color=0001>...the truth?<pause><lineend>|
 65551|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I don't suppose you've witnessed her attack anyone, have you?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I don't suppose<lineend>you've witnessed her attack anyone, have you?<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=017E><lineend><color=0001>But everyone in town says...<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>But everyone in<lineend>town says...<pause><lineend>|
 65553|
-<CC03EA><color=0003><string=0001><lineend><color=0001>See what she says, too! Then think about what you believe.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>See what she says,<lineend>too! Then think about what you believe.<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so frightened...and so sad...<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople<lineend>changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it<lineend>wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so<lineend>frightened...and so sad...<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=0107><lineend><color=0001>But Sir Edward was different. He believed me when I told him the truth.<pause><lineend><CC03EA>In fact, he's stayed here and watched over me ever since.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>But Sir Edward was<lineend>different. He believed me when I told him the truth.<pause><lineend><CC03EA>In fact, he's<lineend>stayed here and watched over me ever since.<pause><lineend>|
 131074|
 <CC03EA><color=0003><string=0001><lineend><color=0001>That's right.<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I'm sorry. I've been wrong this whole time.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'm sorry. I've<lineend>been wrong this whole time.<pause><lineend>|
 131076|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Don't apologize to me.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't apologize to<lineend>me.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Oh, Edward...<pause><lineend><CC03EA>Nobody has ever treated me so kindly before...<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Oh, Edward...<pause><lineend><CC03EA>Nobody has ever<lineend>treated me so kindly before...<pause><lineend>|
 131078|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Her tear...<pause><lineend>|
 131079|
-<CC03EA><color=0003><string=0001><lineend><color=0001>It's like they say in fairy-tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>It's like they say<lineend>in fairy-tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to<lineend>get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=017E><lineend><color=0001>That's terrible...We have to put a stop to it!<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>That's<lineend>terrible...We have to put a stop to it!<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Don't you want to take the jewel?<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Don't you want to<lineend>take the jewel?<pause><lineend>|
 131082|
-<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>It doesn't matter how beautiful it is, or how valuable.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I could never accept something born out of sadness like that.<lineend><CC03ED=017E001C000103FF><pause>|
+<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>It doesn't matter<lineend>how beautiful it is, or how valuable.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I could never<lineend>accept something born out of sadness like that.<lineend><CC03ED=017E001C000103FF><pause>|
 131083|
-<CC03EA><color=0003><string=0001><lineend><color=0001>See, Ondine? There are people who do understand.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>See, Ondine? There<lineend>are people who do understand.<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=0107><lineend><color=0001>You're right. This is why I like humans more than Sirens.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You're right. This<lineend>is why I like humans more than Sirens.<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>I'm terribly sorry. I had no right to accuse you of anything.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I judged you without proof.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>If I trace the rumors in Cadho Badho, I should be able to find who is after you.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>Whoever is responsible, I'll find them and make them stop. I promise.<lineend><CC03ED=017E001C000103FF><pause>|
+<CC03EA><color=0004><string=017E><lineend><color=0001><CC03ED=017E001D000103FF>I'm terribly sorry.<lineend>I had no right to accuse you of anything.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>I judged you<lineend>without proof.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>If I trace the<lineend>rumors in Cadho Badho, I should be able to find who is after you.<lineend><CC03ED=017E001C000103FF><pause><CC03EA><CC03ED=017E001D000103FF>Whoever is<lineend>responsible, I'll find them and make them stop. I promise.<lineend><CC03ED=017E001C000103FF><pause>|
 131086|
-<CC03EA><color=0003><string=0001><lineend><color=0001>The sun is going down.<pause><lineend><CC03EA>You should spend the night here and go back to town tomorrow.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The sun is going<lineend>down.<pause><lineend><CC03EA>You should spend<lineend>the night here and go back to town tomorrow.<pause><lineend>|
 131087|
-<CC03EA><color=0004><string=017E><lineend><color=0001>You're probably right. Come on, Aria. We can stay here tonight.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>You're probably<lineend>right. Come on, Aria. We can stay here tonight.<pause><lineend>|
 196608|
-<CC03EA><color=0003><string=0001><lineend><color=0001>There's a good chance that someone will come here after Ondine.<pause><lineend><CC03EA>I should stay and protect her.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>There's a good<lineend>chance that someone will come here after Ondine.<pause><lineend><CC03EA>I should stay and<lineend>protect her.<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=017E><lineend><color=0001>That's a good idea.<pause><lineend><CC03EA>I'll go to Cadho Badho and look for whoever's responsible.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>That's a good idea.<pause><lineend><CC03EA>I'll go to Cadho<lineend>Badho and look for whoever's responsible.<pause><lineend>|
 196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Watch your step.<pause><lineend>|
 196611|
@@ -77,10 +77,10 @@
 262144|
 <CC03EA><CC03FC=0004><string=017E><color=0001>Edward! Come quick!<lineend><pause>|
 262145|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel? What's the matter?<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel? What's<lineend>the matter?<lineend><pause>|
 262146|
-<CC03EA><CC03FC=0004><string=017E><color=0001>Some men are coming here to catch the mermaid.<lineend><pause><CC03EA>I can't fight them off alone.<lineend><pause><CC03EA>Please, Edward! Help me!<lineend><pause>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>Some men are coming<lineend>here to catch the mermaid.<lineend><pause><CC03EA>I can't fight them<lineend>off alone.<lineend><pause><CC03EA>Please, Edward!<lineend>Help me!<lineend><pause>|
 262147|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Where are they right now?<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Where are they<lineend>right now?<lineend><pause>|
 262148|
 <CC03EA><CC03FC=0004><string=017E><color=0001>This way.<lineend>Follow me!<lineend><pause>|

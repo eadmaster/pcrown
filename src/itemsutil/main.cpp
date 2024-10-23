@@ -22,10 +22,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <io.h>
-#include "evn.h"
-#include "texttbl.h"
-#include "trnstext.h"
-#include "util.h"
+#include "../eventeditor/evn.h"
+#include "../eventeditor/texttbl.h"
+#include "../eventeditor/trnstext.h"
+#include "../eventeditor/util.h"
+
+bool dupe_trans=false;
 
 typedef struct  
 {
@@ -146,6 +148,8 @@ int read_file(const char *filename, void **buffer, int *size)
    return ERROR_SUCCESS;
 }
 
+
+// insert_data(&ti[i], filename = argv[2,3], out_filename = argv[4] = 0.bin, &out_size, FALSE);
 
 int insert_data(text_info_struct *ti, const char *filename, const char *out_filename, int *out_size, int lzo_compress)
 {
@@ -296,9 +300,9 @@ int main(int argc, char *argv[])
       ti[0].x_reft_off[1] = 4;
       ti[0].num_x_reft = 2;
 
-      ti[1].txt_filename = argv[5];
+      ti[1].txt_filename = argv[5];  // KANJI.BIN?
       ti[1].txt_addr = 0x05E6B800+strtol(argv[6], NULL, 0);
-      ti[1].txt_offset = strtol(argv[6], NULL, 0);
+      ti[1].txt_offset = strtol(argv[6], NULL, 0);  // 0x2400
       memset(ti[1].x_reft_off, 0, sizeof(ti[1].x_reft_off));
       ti[1].x_reft[0] = 0x0607204C; // pointer + 4
       ti[1].x_reft[1] = 0x06072214; // pointer + 4

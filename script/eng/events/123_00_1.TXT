@@ -1,18 +1,18 @@
 65536|
-<CC03EA><CC03FC=0004><string=017E><color=0001>What's wrong, Edward?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>What's wrong,<lineend>Edward?<pause><lineend>|
 65537|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Where exactly are you taking me?<pause><lineend><CC03EA>Any further and we'll be back in Cadho Badho.<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Where exactly are<lineend>you taking me?<pause><lineend><CC03EA>Any further and<lineend>we'll be back in Cadho Badho.<lineend><pause>|
 65538|
-<CC03EA><CC03FC=0004><string=017E><color=0001>...You're right.<pause><lineend><CC03EA>I guess this will do...<lineend><pause>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>...You're right.<pause><lineend><CC03EA>I guess this will<lineend>do...<lineend><pause>|
 65539|
-<CC03EA><CC03FC=0004><string=017E><color=0001>...as your final resting place, of course!<lineend><pause>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>...as your final<lineend>resting place, of course!<lineend><pause>|
 65540|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel!? What are you doing!?<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel!? What are<lineend>you doing!?<lineend><pause>|
 65541|
-<CC03EA><CC03FC=0004><string=017E><color=0001>I'm sorry, Edward. But I'm afraid I need you to die.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>I'm sorry, Edward.<lineend>But I'm afraid I need you to die.<lineend><pause>|
 65542|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...What are you...<lineend><pause><CC03EA>You're not Gradriel!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...What are you...<lineend><pause><CC03EA>You're not<lineend>Gradriel!<lineend><pause>|
 65543|
-<CC03EA><CC03FC=0004><string=017E><color=0001>Ha ha ha!<pause><lineend><CC03EA>I bet we've got ourselves a Mermaid's Tear already!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=017E><color=0001>Ha ha ha!<pause><lineend><CC03EA>I bet we've got<lineend>ourselves a Mermaid's Tear already!<pause><lineend>|
 65544|
-<CC03EA><color=0003><string=0001><lineend><color=0001>So that's it...You're buddies with the other guy.<pause><lineend><CC03EA>You'll regret ever trying to fool me!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>So that's<lineend>it...You're buddies with the other guy.<pause><lineend><CC03EA>You'll regret ever<lineend>trying to fool me!<lineend><pause>|

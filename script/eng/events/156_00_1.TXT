@@ -1,34 +1,34 @@
 0|
-<CC03EA><color=0006><string=004B><lineend><color=0001>Somehow, we managed to chase off those Dragons.<pause><lineend><CC03EA>As for you, little girl, you should get yourself to another village before they come back.<pause><lineend><CC03EA>That's the only way you'll be safe.<pause><lineend>|
+<CC03EA><color=0006><string=004B><lineend><color=0001>Somehow, we managed<lineend>to chase off those Dragons.<pause><lineend><CC03EA>As for you, little<lineend>girl, you should get yourself to another village before they come back.<pause><lineend><CC03EA>That's the only way<lineend>you'll be safe.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Phew! Things are getting back to normal around here.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Phew! Things are<lineend>getting back to normal around here.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0004><lineend><color=0005>Go south from the right exit of this village,<color=0001> and you'll reach the <color=0003> crypt town Cemeteryth.<pause><lineend><CC03EA><color=0001>Rumor has it that it's filled with g, g, ghosts...<pause><lineend><CC03EA>Not that they scare me or anything!<pause><lineend><CC03EA>Beyond Cemeteryth is the village of <color=0002>Lowgrove,<color=0001> which lay in the middle of a big forest.<pause><lineend><CC03EA>The goatsmilk they have there is the best. Make sure you try some.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0005>Go south from the<lineend>right exit of this village,<color=0001> and you'll reach<lineend>the <color=0003> crypt town<lineend>Cemeteryth.<pause><lineend><CC03EA><color=0001>Rumor has it that<lineend>it's filled with g, g, ghosts...<pause><lineend><CC03EA>Not that they scare<lineend>me or anything!<pause><lineend><CC03EA>Beyond Cemeteryth<lineend>is the village of <color=0002>Lowgrove,<color=0001> which lay in the<lineend>middle of a big forest.<pause><lineend><CC03EA>The goatsmilk they<lineend>have there is the best. Make sure you try some.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=000A><lineend><color=0001>A brave young woman came along and saved my daughter.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>A brave young woman<lineend>came along and saved my daughter.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0028><lineend><color=0001>Edward saved the village.<pause><lineend><CC03EA>Could it be that I've been wrong about him?<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>Edward saved the<lineend>village.<pause><lineend><CC03EA>Could it be that<lineend>I've been wrong about him?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0035><lineend><color=0001>The Dragons were scary!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>The Dragons were<lineend>scary!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=004C><lineend><color=0001>No way, you killed a Dragon, too? It must be easier than I thought.<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>No way, you killed<lineend>a Dragon, too? It must be easier than I thought.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=004D><lineend><color=0001>They say that when witches equip Angel Boots, they fly faster.<pause><lineend>|
+<CC03EA><color=0006><string=004D><lineend><color=0001>They say that when<lineend>witches equip Angel Boots, they fly faster.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful for a while.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things<lineend>will be peaceful for a while.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0050><lineend><color=0001>I figured out how to keep your equipment from breaking!<pause><lineend><CC03EA>If you use a Rubber Scroll, anything you've got equipped will become like rubber.<pause><lineend><CC03EA>That makes it able to withstand any blow!<pause><lineend><CC03EA>It won't break for the entire battle, too. What a relief!<pause><lineend>|
+<CC03EA><color=0006><string=0050><lineend><color=0001>I figured out how<lineend>to keep your equipment from breaking!<pause><lineend><CC03EA>If you use a Rubber<lineend>Scroll, anything you've got equipped will become like rubber.<pause><lineend><CC03EA>That makes it able<lineend>to withstand any blow!<pause><lineend><CC03EA>It won't break for<lineend>the entire battle, too. What a relief!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have<lineend>many items that will help you in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 11|
 <CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 12|
 <CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|

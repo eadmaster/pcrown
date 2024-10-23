@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0006><string=003C><lineend><color=0001>Welcome to the Last Tavern.<pause><lineend><CC03EA>This is the final stop for all seekers of Local Delicacies.<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>Welcome to the Last<lineend>Tavern.<pause><lineend><CC03EA>This is the final<lineend>stop for all seekers of Local Delicacies.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0008><lineend><color=0001>I remember all the Local Delicacies I've tried along my way.<pause><lineend><CC03EA>The Fruit Cake in Nutsbill smelled wonderfully like brandy...<pause><lineend><CC03EA>The Hamburger at the Secret Market was so juicy, it brought tears to my eyes...<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>I remember all the<lineend>Local Delicacies I've tried along my way.<pause><lineend><CC03EA>The Fruit Cake in<lineend>Nutsbill smelled wonderfully like brandy...<pause><lineend><CC03EA>The Hamburger at<lineend>the Secret Market was so juicy, it brought tears to my eyes...<pause><lineend>|

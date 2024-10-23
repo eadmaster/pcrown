@@ -1,37 +1,37 @@
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Wait right where you are!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wait right where<lineend>you are!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I won't let you lay a finger on my sister.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I won't let you lay<lineend>a finger on my sister.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=0121><color=0001>You must be in the Royal Family, too.<pause><lineend><CC03EA>How perfect...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0121><color=0001>You must be in the<lineend>Royal Family, too.<pause><lineend><CC03EA>How perfect...<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=0121><color=0001>It seems you're no ordinary Princess.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0121><color=0001>It seems you're no<lineend>ordinary Princess.<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=0121><color=0001>You fight well...but not well enough!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0121><color=0001>You fight<lineend>well...but not well enough!<pause><lineend>|
 196608|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael!<pause><lineend>|
 196609|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty...<pause><lineend><CC03EA>The Demon captured Sidrael and went to the balcony...<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty...<pause><lineend><CC03EA>The Demon captured<lineend>Sidrael and went to the balcony...<pause><lineend>|
 262144|
-<CC03EA><CC03FC=0004><string=0174><color=0001>Ha ha ha! This one is coming with me!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>Ha ha ha! This one<lineend>is coming with me!<pause><lineend>|
 262145|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael!<pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=0174><color=0001>Our King will finally return to us...<lineend><pause>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>Our King will<lineend>finally return to us...<lineend><pause>|
 262147|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Your Highness! Is Sidrael all right!?<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Your Highness! Is<lineend>Sidrael all right!?<pause><lineend>|
 262148|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Golgotha!<pause><lineend>|
 262149|
-<CC03EA><CC03FC=0004><string=0174><color=0001>If the Princess's life is worth anything to you, you better not come any closer.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>If the Princess's<lineend>life is worth anything to you, you better not come any closer.<pause><lineend>|
 262150|
-<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>...I am the Queen of Valendia.<lineend><CC03ED=00000023000103FF><pause><CC03EA><CC03ED=00000024000103FF>Let go of my sister, and take me instead.<lineend><CC03ED=00000023000103FF><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>...I am the Queen<lineend>of Valendia.<lineend><CC03ED=00000023000103FF><pause><CC03EA><CC03ED=00000024000103FF>Let go of my<lineend>sister, and take me instead.<lineend><CC03ED=00000023000103FF><pause>|
 262151|
 <CC03EA><color=0005><string=0103><lineend><color=0001>Queen Gradriel, no!<pause><lineend>|
 262152|
-<CC03EA><CC03FC=0004><string=0174><color=0001>So you're the Queen...<pause><lineend><CC03EA>This girl will be enough to break the seal on the Demon King.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>So you're the<lineend>Queen...<pause><lineend><CC03EA>This girl will be<lineend>enough to break the seal on the Demon King.<lineend><pause>|
 262153|
-<CC03EA><CC03FC=0004><string=0174><color=0001>You, however, I can kill right now!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>You, however, I can<lineend>kill right now!<pause><lineend>|
 262154|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Aaarrrggh!<pause><lineend>|
 262155|
@@ -39,9 +39,9 @@
 262156|
 <CC03EA><color=0004><string=0103><lineend><color=0001>...He got away...<pause><lineend>|
 262157|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Sir! You're terribly wounded!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sir! You're<lineend>terribly wounded!<pause><lineend>|
 262158|
-<CC03EA><color=0004><string=0103><lineend><color=0001>...Even...after all my sins...<pause><lineend><CC03EA>I may die...with the Queen at my side...<pause><lineend><CC03EA>...Elfaran...Your Majesty...<pause><lineend><CC03EA>Please...Forgive me...<lineend>Forgive me...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>...Even...after all<lineend>my sins...<pause><lineend><CC03EA>I may die...with<lineend>the Queen at my side...<pause><lineend><CC03EA>...Elfaran...Your<lineend>Majesty...<pause><lineend><CC03EA>Please...Forgive<lineend>me...<lineend>Forgive me...<pause><lineend>|
 262159|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Golgotha!<pause><lineend>|
 262160|
@@ -49,52 +49,52 @@
 262161|
 <CC03EA><color=0002><string=0000><lineend><color=0001>He's gone.<pause><lineend>|
 262162|
-<CC03EA><color=0004><string=016C><lineend><color=0001>Did he die fighting as a Knight?<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Did he die fighting<lineend>as a Knight?<pause><lineend>|
 262163|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...He sacrificed himself to save my life.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...He sacrificed<lineend>himself to save my life.<pause><lineend>|
 262164|
 <CC03EA><color=0004><string=016C><lineend><color=0001>He did?<pause><lineend>|
 262165|
 <CC03EA><color=0004><string=016C><lineend><color=0001><CC03ED=016C0008000103FF>Father...<lineend><CC03ED=016C0007000103FF><pause>|
 327680|
-<CC03EA><CC03FC=0004><string=0110>Are you awake, Princess?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110>Are you awake,<lineend>Princess?<pause><lineend>|
 327681|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Where is this?<pause><lineend>|
 327682|
-<CC03EA><CC03FC=0004><string=0110>Allow me to apologize for the rough journey you've had.<pause><lineend><CC03EA>This is Bindfair...<pause><lineend><CC03EA>Otherwise known to you humans as the Demon Realm.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110>Allow me to<lineend>apologize for the rough journey you've had.<pause><lineend><CC03EA>This is Bindfair...<pause><lineend><CC03EA>Otherwise known to<lineend>you humans as the Demon Realm.<pause><lineend>|
 327683|
 <CC03EA><color=0004><string=012A><lineend><color=0001>The Demon Realm!?<pause><lineend>|
 327684|
-<CC03EA><color=0005><string=0110><lineend><color=0001>I brought you here to help me get rid of these chains...<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>I brought you here<lineend>to help me get rid of these chains...<pause><lineend>|
 327685|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Oh no...<pause><lineend>|
 327686|
-<CC03EA><color=0005><string=0110><lineend><color=0001>My name is Volgrod. I am the King of Bindfair and the Lord of this tower.<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>My name is Volgrod.<lineend>I am the King of Bindfair and the Lord of this tower.<pause><lineend>|
 327687|
-<CC03EA><color=0005><string=0110><lineend><color=0001>These loathsome chains are bound tightly around my heart.<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>These loathsome<lineend>chains are bound tightly around my heart.<pause><lineend>|
 327688|
-<CC03EA><color=0005><string=0110><lineend><color=0001>However, it seems my pain will soon come to an end.<pause><lineend><CC03EA>Come, Princess! If you value your life, then rid me of these chains!<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>However, it seems<lineend>my pain will soon come to an end.<pause><lineend><CC03EA>Come, Princess! If<lineend>you value your life, then rid me of these chains!<pause><lineend>|
 327689|
-<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>...I won't  do it. I'll never revive the Demon King.<lineend><CC03ED=012A0007000103FF><pause><CC03EA><CC03ED=012A0008000103FF>If I break that seal, you'll destroy the entire world.<lineend><CC03ED=012A0007000103FF><pause>|
+<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>...I won't  do it.<lineend>I'll never revive the Demon King.<lineend><CC03ED=012A0007000103FF><pause><CC03EA><CC03ED=012A0008000103FF>If I break that<lineend>seal, you'll destroy the entire world.<lineend><CC03ED=012A0007000103FF><pause>|
 327690|
-<CC03EA><color=0005><string=0110><lineend><color=0001>You're going to refuse me?<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>You're going to<lineend>refuse me?<pause><lineend>|
 327691|
-<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>Even if it means the end of my life, I'll never put other people in harm's way.<lineend><CC03ED=012A0007000103FF><pause>|
+<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>Even if it means<lineend>the end of my life, I'll never put other people in harm's way.<lineend><CC03ED=012A0007000103FF><pause>|
 327692|
-<CC03EA><color=0005><string=0110><lineend><color=0001>Very well.<pause><lineend><CC03EA>As soon as we find the Book of Larva, we'll be able to control you.<pause><lineend><CC03EA>Until that time comes, you and I will wait here.<lineend><pause>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Very well.<pause><lineend><CC03EA>As soon as we find<lineend>the Book of Larva, we'll be able to control you.<pause><lineend><CC03EA>Until that time<lineend>comes, you and I will wait here.<lineend><pause>|
 393216|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...You mean Eriel had actually been transformed into that witch?<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...You mean Eriel<lineend>had actually been transformed into that witch?<lineend><pause>|
 393217|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I see.<pause><lineend><CC03EA>Poor Eriel...I was afraid she had found the book...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I see.<pause><lineend><CC03EA>Poor Eriel...I was<lineend>afraid she had found the book...<pause><lineend>|
 393218|
-<CC03EA><color=0002><string=0000><lineend><color=0001>About that book, Jestonai...<pause><lineend><CC03EA>What else do you know about it?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>About that book,<lineend>Jestonai...<pause><lineend><CC03EA>What else do you<lineend>know about it?<pause><lineend>|
 393219|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Little other than that it is to be feared.<pause><lineend><CC03EA>It turns whoever touches it into an agent working for the revival of the Demon King.<pause><lineend><CC03EA>25 years ago, it took control of Golgotha and led us into that war with the Demon Horde.<pause><lineend><CC03EA>When the war was over, I hid it in a place where I thought nobody would ever find it...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Little other than<lineend>that it is to be feared.<pause><lineend><CC03EA>It turns whoever<lineend>touches it into an agent working for the revival of the Demon King.<pause><lineend><CC03EA>25 years ago, it<lineend>took control of Golgotha and led us into that war with the Demon Horde.<pause><lineend><CC03EA>When the war was<lineend>over, I hid it in a place where I thought nobody would ever find it...<pause><lineend>|
 393220|
-<CC03EA><color=0004><string=0102><lineend><color=0001>The monsters that attacked the castle and the town left when the Demons did.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>The monsters that<lineend>attacked the castle and the town left when the Demons did.<lineend><pause>|
 393221|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Good. Thank you, Sir Kwein.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Good. Thank you,<lineend>Sir Kwein.<pause><lineend>|
 393222|
-<CC03EA><color=0004><string=0102><lineend><color=0001><CC03ED=01020046000103FF>Edward arrived immediately to help during the fighting.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>I hear he's about to leave the castle now, though.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>He's Golgotha's son, isn't he? This must all be so hard for him to take.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>He probably hasn't left the castle just yet...<lineend><CC03ED=01020045000103FF><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001><CC03ED=01020046000103FF>Edward arrived<lineend>immediately to help during the fighting.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>I hear he's about<lineend>to leave the castle now, though.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>He's Golgotha's<lineend>son, isn't he? This must all be so hard for him to take.<lineend><CC03ED=01020045000103FF><pause><CC03EA><CC03ED=01020046000103FF>He probably hasn't<lineend>left the castle just yet...<lineend><CC03ED=01020045000103FF><pause>|
 393223|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'll go look for him, then.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'll go look for<lineend>him, then.<pause><lineend>|

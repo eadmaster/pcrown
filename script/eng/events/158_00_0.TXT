@@ -1,46 +1,46 @@
 0|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Here, have some Dragon Meat.<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Here, have some<lineend>Dragon Meat.<pause><lineend>|
 1|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Yay!<lineend>Thank you!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=004C><lineend><color=0001>Huh?<lineend>Your bag is full.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=004C><lineend><color=0001>You want another one?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>You want another<lineend>one?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 4|
-<CC03EA><color=0006><string=004C><lineend><color=0001>This is the last one.<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>This is the last<lineend>one.<pause><lineend>|
 5|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You're very generous. Thanks!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You're very<lineend>generous. Thanks!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Really?<pause><lineend><CC03EA>I guess I owe you for saving me, don't I?<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Really?<pause><lineend><CC03EA>I guess I owe you<lineend>for saving me, don't I?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, I really owed it to you. Thanks!<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, I really owed<lineend>it to you. Thanks!<pause><lineend>|
 65536|
-<CC03EA><color=0006><string=004C><lineend><color=0001>I'm so close to beating him...but I'm all out of strength!<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>I'm so close to<lineend>beating him...but I'm all out of strength!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=0184><lineend><color=0001>There's a Dragon, Proserpina!<pause><lineend><CC03EA>If we beat him, we can get our Dragon Meat!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>There's a Dragon,<lineend>Proserpina!<pause><lineend><CC03EA>If we beat him, we<lineend>can get our Dragon Meat!<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Good thinking.<pause><lineend><CC03EA>Not to mention, he's probably tired from fighting that Mercenary.<pause><lineend><CC03EA>It's a perfect opportunity. Let's do this!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Good thinking.<pause><lineend><CC03EA>Not to mention,<lineend>he's probably tired from fighting that Mercenary.<pause><lineend><CC03EA>It's a perfect<lineend>opportunity. Let's do this!<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0002><lineend><color=0001>I'll save you, Sir!<pause><lineend>|
 131072|
 <CC03EA><color=0006><string=004C><lineend><color=0001>You did it!<lineend>Thanks a lot!<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Lucky for you I came by! Wouldn't you agree?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Lucky for you I<lineend>came by! Wouldn't you agree?<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=0184><lineend><color=0001>We could beat a Dragon with one hand tied behind our backs! Gya ha ha!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>We could beat a<lineend>Dragon with one hand tied behind our backs! Gya ha ha!<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I'm sure you'd love to give us a present to show your appreciation!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'm sure you'd love<lineend>to give us a present to show your appreciation!<pause><lineend>|
 131076|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Why not? Trouble is, I don't have much on me...<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Why not? Trouble<lineend>is, I don't have much on me...<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Aren't you a Mercenary from Dorangora?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aren't you a<lineend>Mercenary from Dorangora?<pause><lineend>|
 131078|
 <CC03EA><color=0006><string=004C><lineend><color=0001>That's right.<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Then how about giving us some Dragon Meat?<pause><lineend><CC03EA>Every Mercenary in Dorangora carries Dragon Meat with him, right?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Then how about<lineend>giving us some Dragon Meat?<pause><lineend><CC03EA>Every Mercenary in<lineend>Dorangora carries Dragon Meat with him, right?<pause><lineend>|
 131080|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, it's just...you see...these are real hard to come by, and...<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, it's<lineend>just...you see...these are real hard to come by, and...<pause><lineend>|
 131081|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Come ON! You can't be serious! After we saved your sorry hide and everything!<pause><lineend><CC03EA>We're asking you so very nicely, too. I'd say yes if I were you.<pause><lineend><CC03EA>So? What's it going to be?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Come ON! You can't<lineend>be serious! After we saved your sorry hide and everything!<pause><lineend><CC03EA>We're asking you so<lineend>very nicely, too. I'd say yes if I were you.<pause><lineend><CC03EA>So? What's it going<lineend>to be?<pause><lineend>|
 131082|
 <CC03EA><color=0006><string=004C><lineend><color=0001>OK, OK, I got it.<pause><lineend>|

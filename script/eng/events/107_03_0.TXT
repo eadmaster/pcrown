@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>They've even got Ghosts on their side.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>They've even got<lineend>Ghosts on their side.<pause><lineend>|
 65537|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Edward!<pause><lineend>|
 65538|
@@ -7,22 +7,22 @@
 65539|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Are you OK?<pause><lineend>|
 65540|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You take the one on the left!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You take the one on<lineend>the left!<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Got it!<pause><lineend>|
 65542|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry about me. Stay focused on the battle!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry about<lineend>me. Stay focused on the battle!<pause><lineend>|
 65543|
 <CC03EA><color=0004><string=017E><lineend><color=0001>I...I will.<pause><lineend>|
 65544|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...You're the Queen.<pause><lineend><CC03EA>I knew I had heard that name somewhere before.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...You're the<lineend>Queen.<pause><lineend><CC03EA>I knew I had heard<lineend>that name somewhere before.<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I'm so sorry. I had no intention of deceiving you.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'm so sorry. I had<lineend>no intention of deceiving you.<pause><lineend>|
 65546|
-<CC03EA><color=0003><string=0001><lineend><color=0001>We'll talk later.<lineend>Here comes another one.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>We'll talk later.<lineend>Here comes another<lineend>one.<pause><lineend>|
 65547|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Edward?<pause><lineend>|
 65548|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Get going! I'll be fine here.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Get going! I'll be<lineend>fine here.<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I hope we can talk soon.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I hope we can talk<lineend>soon.<pause><lineend>|
