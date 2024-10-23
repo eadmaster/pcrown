@@ -7,7 +7,8 @@ My attempt to restart the CyberWarriorX translation project.
 
 ## Current status
 
- - all story events and names patched using a fixed-width font (word wrapping still WIP)
+ - all story events and names patched using a fixed-width font
+   - lines longer than 20*3 chars needs to be retranslated (HELP NEEDED)
  - items translations missing (HELP NEEDED)
  - some symbols in the font needs replacement (WIP)
  - needs testing for crashes
