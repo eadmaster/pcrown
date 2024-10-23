@@ -1,57 +1,57 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the<pause><lineend><CC03EA>continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard,<lineend>and Merchant areas.<pause><lineend><CC03EA><pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is,<lineend>but we do have a<pause><lineend><CC03EA>problem with people<lineend>getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm<lineend>a little lost<pause><lineend><CC03EA>myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way back home...<lineend><CC03F1=0011><pause>|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way<pause><lineend><CC03EA>back home...<lineend><CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's a beautiful<lineend>lake to the west of town called <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>I wouldn't get too<lineend>close to it, though.<pause><lineend><CC03EA>A wicked mermaid<lineend>has turned up there. She controls monsters with magic to attack people.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's a beautiful<lineend>lake to the west of<pause><lineend><CC03EA>town called <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>I wouldn't get too<lineend>close to it,<lineend>though.<pause><lineend><CC03EA>A wicked mermaid<lineend>has turned up<lineend>there. She controls<pause><lineend><CC03EA>monsters with magic<lineend>to attack people.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in<lineend>there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat<lineend>reward for whoever captures the evil Siren living there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called<pause><lineend><CC03EA>the Silver Sword.<pause><lineend><CC03EA>They're probably in<lineend>there right now<lineend>deciding what to do<pause><lineend><CC03EA>about Lake Titania.<pause><lineend><CC03EA>There's a big fat<lineend>reward for whoever<lineend>captures the evil<pause><lineend><CC03EA>Siren living there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in<pause><lineend><CC03EA>the Merchants'<lineend>Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find<lineend>something really<pause><lineend><CC03EA>worth your while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002D><lineend><color=0001>What? What is it?<pause><lineend><CC03EA>You keep walking up<lineend>and glaring at people.<pause><lineend><CC03EA>What's the big<lineend>idea?<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>What? What is it?<pause><lineend><CC03EA>You keep walking up<lineend>and glaring at<lineend>people.<pause><lineend><CC03EA>What's the big<lineend>idea?<pause><lineend>|
 6|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
 7|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone<lineend>else...<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're<lineend>both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have<pause><lineend><CC03EA>been rivals for<lineend>ages.<pause><lineend><CC03EA>Right now, they're<lineend>both racing to be<lineend>the first to solve<pause><lineend><CC03EA>the problem at Lake<lineend>Titania.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of<pause><lineend><CC03EA>the city...Or at<lineend>least they should<lineend>be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights<lineend>with the Wizards<pause><lineend><CC03EA>and give everyone a<lineend>headache!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0029><lineend><color=0001>What are you<lineend>looking at!?<lineend>Do you have a<lineend>problem or something?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>What are you<lineend>looking at!?<lineend>Do you have a<lineend>problem or<pause><lineend><CC03EA>something?<pause><lineend>|
 11|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
 12|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone<lineend>else...<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in<lineend>the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors'<lineend>Leader.<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in<lineend>the armor standing<pause><lineend><CC03EA>by that statue over<lineend>there?<pause><lineend><CC03EA>He's the Warriors'<lineend>Leader.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0036><lineend><color=0001>It was amazing!<pause><lineend><CC03EA>I saw this lanky<lineend>old guy with a beard cover himself in smoke and transform!<pause><lineend><CC03EA>After that, he<lineend>wandered off toward the tavern.<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>It was amazing!<pause><lineend><CC03EA>I saw this lanky<lineend>old guy with a<lineend>beard cover himself<pause><lineend><CC03EA>in smoke and<lineend>transform!<pause><lineend><CC03EA>After that, he<lineend>wandered off toward<lineend>the tavern.<pause><lineend>|
 15|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Sir Edward told us<lineend>the mermaid in Lake Titania doesn't attack humans.<pause><lineend><CC03EA>I've started<lineend>telling that to people here, but what about the other areas?<pause><lineend><CC03EA>Somebody ought to<lineend>let the Merchants' Leader know.<pause><lineend><CC03EA>Not to mention that<lineend>insufferable leader of the Wizards...<pause><lineend><CC03EA>I don't mind the<lineend>Merchants' Leader, but the Wizards' Leader jumps to too many silly conclusions!<pause><lineend><CC03EA>Much like you did<lineend>when you unsheathed your sword at that mermaid, actually.<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Sir Edward told us<lineend>the mermaid in Lake<pause><lineend><CC03EA>Titania doesn't<lineend>attack humans.<pause><lineend><CC03EA>I've started<lineend>telling that to<lineend>people here, but<pause><lineend><CC03EA>what about the<lineend>other areas?<pause><lineend><CC03EA>Somebody ought to<lineend>let the Merchants'<lineend>Leader know.<pause><lineend><CC03EA>Not to mention that<lineend>insufferable leader<lineend>of the Wizards...<pause><lineend><CC03EA>I don't mind the<lineend>Merchants' Leader,<lineend>but the Wizards'<pause><lineend><CC03EA>Leader jumps to too<lineend>many silly<lineend>conclusions!<pause><lineend><CC03EA>Much like you did<lineend>when you unsheathed<lineend>your sword at that<pause><lineend><CC03EA>mermaid, actually.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most important duties.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most<pause><lineend><CC03EA>important duties.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an<pause><lineend><CC03EA>army of Demons, and<lineend>it seemed all would<lineend>be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired<lineend>Warrior and a<pause><lineend><CC03EA>silver-haired<lineend>Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything<lineend>to save Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each<lineend>area were made to<pause><lineend><CC03EA>commemorate them.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through the alleys that connect the different areas.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are<pause><lineend><CC03EA>a lot of<lineend>pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through<lineend>the alleys that<pause><lineend><CC03EA>connect the<lineend>different areas.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake<lineend>Titania casts spells on monsters to make them attack people!<pause><lineend><CC03EA>She's so dangerous,<lineend>some of the Warriors who went to investigate never even came back.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake<lineend>Titania casts<lineend>spells on monsters<pause><lineend><CC03EA>to make them attack<lineend>people!<pause><lineend><CC03EA>She's so dangerous,<lineend>some of the<lineend>Warriors who went<pause><lineend><CC03EA>to investigate<lineend>never even came<lineend>back.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind<pause><lineend><CC03EA>increases your<lineend>attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a<lineend>great item. It<pause><lineend><CC03EA>makes it easier to<lineend>score critical<lineend>hits.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in<pause><lineend><CC03EA>battle back when I<lineend>was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my<lineend>Shield! Naturally,<pause><lineend><CC03EA>it stopped working<lineend>that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it<lineend>does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of<lineend>rubber?<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from the Wizard's town by now.<pause><lineend><CC03EA>That cake I made is<lineend>going to get stale!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from<pause><lineend><CC03EA>the Wizard's town<lineend>by now.<pause><lineend><CC03EA>That cake I made is<lineend>going to get stale!<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE<lineend>TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE<lineend>TAVERN!! I GOTTA<lineend>EAT!! BRAAAWK!!<pause><lineend>|
 24|
-<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you<lineend>suppose he learned to say that?<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you<lineend>suppose he learned<pause><lineend><CC03EA>to say that?<pause><lineend>|
 25|
-<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the<lineend>gossip is about the monster attacks around the lake.<pause><lineend><CC03EA>I don't understand<lineend>why people can't just stay away from there.<pause><lineend><CC03EA>Then we could talk<lineend>about something else for a change!<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the<lineend>gossip is about the<pause><lineend><CC03EA>monster attacks<lineend>around the lake.<pause><lineend><CC03EA>I don't understand<lineend>why people can't<lineend>just stay away from<pause><lineend><CC03EA>there.<pause><lineend><CC03EA>Then we could talk<lineend>about something<lineend>else for a change!<pause><lineend>|
 26|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single<pause><lineend><CC03EA>day!<pause><lineend>|
 27|
 <CC03FA=002E000200000000000003FF000B003C0000><CC03FB=003C>|
 28|

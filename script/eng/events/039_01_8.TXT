@@ -1,8 +1,8 @@
 65536|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Back to the castle,<lineend>then?<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes...Everyone must<lineend>be worried about me.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes...Everyone must<lineend>be worried about<pause><lineend><CC03EA>me.<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I'd sure like to<lineend>come visit you in the castle one of these days...<pause><lineend><CC03EA>Is it too shady for<lineend>a Queen to be friends with a pirate?<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I'd sure like to<lineend>come visit you in<pause><lineend><CC03EA>the castle one of<lineend>these days...<pause><lineend><CC03EA>Is it too shady for<lineend>a Queen to be<lineend>friends with a<pause><lineend><CC03EA>pirate?<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Not at all. Please<lineend>come see me anytime you like.<pause><lineend><CC03EA>Thank you for<lineend>giving me a ride on your ship, Portgus.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Not at all. Please<lineend>come see me anytime<pause><lineend><CC03EA>you like.<pause><lineend><CC03EA>Thank you for<lineend>giving me a ride on<lineend>your ship, Portgus.<lineend><pause>|

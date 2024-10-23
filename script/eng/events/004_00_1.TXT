@@ -1,13 +1,13 @@
 0|
-<CC03EA><color=0006><string=0004><lineend><color=0001>It turns out it was<lineend>a young witch living in the north forest who kidnapped the kids.<pause><lineend><CC03EA>We were wrong to<lineend>blame the fairies. I wonder if we can make amends?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>It turns out it was<lineend>a young witch<pause><lineend><CC03EA>living in the north<lineend>forest who<lineend>kidnapped the kids.<pause><lineend><CC03EA>We were wrong to<lineend>blame the fairies.<lineend>I wonder if we can<pause><lineend><CC03EA>make amends?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I heard you saved<lineend>my son, Nilus. Thank you, young lady.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I heard you saved<lineend>my son, Nilus.<pause><lineend><CC03EA>Thank you, young<lineend>lady.<pause><lineend>|
 2|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>You looked really<lineend>cool when you were fighting!<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>You looked really<lineend>cool when you were<pause><lineend><CC03EA>fighting!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0012><lineend><color=0001>Now that my<lineend>daughter is home, I've reopened my shop.<pause><lineend><CC03EA>Anytime you're<lineend>hungry, please drop by. I've got a treat waiting with your name on it!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Now that my<lineend>daughter is home,<pause><lineend><CC03EA>I've reopened my<lineend>shop.<pause><lineend><CC03EA>Anytime you're<lineend>hungry, please drop<lineend>by. I've got a<pause><lineend><CC03EA>treat waiting with<lineend>your name on it!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Even the ducks are<lineend>happy to see the children back home.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Even the ducks are<lineend>happy to see the<pause><lineend><CC03EA>children back home.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=00CC><lineend><color=0001>Quack! Quack!<pause><lineend>|
 6|
@@ -19,35 +19,35 @@
 9|
 <CC03EA><color=0006><string=018B><lineend><color=0001>Cheep!!<pause><lineend>|
 10|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>I sure am glad to<lineend>be human again.<pause><lineend><CC03EA>Life's way easier<lineend>when you don't have to hop everywhere!<pause><lineend><CC03EA>Thanks a lot for<lineend>saving us, lady.<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>I sure am glad to<lineend>be human again.<pause><lineend><CC03EA>Life's way easier<lineend>when you don't have<lineend>to hop everywhere!<pause><lineend><CC03EA>Thanks a lot for<lineend>saving us, lady.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Tabitha told me<lineend>everything. I can't possibly thank you enough.<pause><lineend><CC03EA>It's not much, but<lineend>please take one of our famous Fruit Cakes as a present.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy, so it should be quite tasty.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Tabitha told me<lineend>everything. I can't<pause><lineend><CC03EA>possibly thank you<lineend>enough.<pause><lineend><CC03EA>It's not much, but<lineend>please take one of<lineend>our famous Fruit<pause><lineend><CC03EA>Cakes as a present.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy,<lineend>so it should be<pause><lineend><CC03EA>quite tasty.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>It looks like<lineend>you've got all you can carry. Well, feel free to come take it anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>It looks like<lineend>you've got all you<pause><lineend><CC03EA>can carry. Well,<lineend>feel free to come<lineend>take it anytime.<pause><lineend>|
 13|
 <CC03EA><color=0002>Got a Fruit Cake!<pause><lineend>|
 14|
-<CC03EA><CC03FC=0004><string=01AE><color=0001>That reminds me...<pause><lineend><CC03EA>There are Local<lineend>Delicacies in towns all over Valendia.<pause><lineend><CC03EA>If you eat them<lineend>all, something good is supposed to happen.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AE><color=0001>That reminds me...<pause><lineend><CC03EA>There are Local<lineend>Delicacies in towns<lineend>all over Valendia.<pause><lineend><CC03EA>If you eat them<lineend>all, something good<lineend>is supposed to<pause><lineend><CC03EA>happen.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>It's not much, but<lineend>please take one of our famous Fruit Cakes as a present.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy, so it should be quite tasty.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>It's not much, but<lineend>please take one of<pause><lineend><CC03EA>our famous Fruit<lineend>Cakes as a present.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy,<lineend>so it should be<pause><lineend><CC03EA>quite tasty.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the<lineend>Nutsbill Bakery. What can I get for you?<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the<lineend>Nutsbill Bakery.<pause><lineend><CC03EA>What can I get for<lineend>you?<pause><lineend>|
 17|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 18|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for<lineend>stopping by!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Our Local Delicacy<lineend>is Fruit Cake.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy, so it should be quite tasty.<pause><lineend><CC03EA>One is 16G.<lineend>How about it?<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Our Local Delicacy<lineend>is Fruit Cake.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy,<lineend>so it should be<pause><lineend><CC03EA>quite tasty.<pause><lineend><CC03EA>One is 16G.<lineend>How about it?<pause><lineend>|
 20|
 <CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 21|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't<lineend>quite have enough.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>You can't carry any<lineend>more, can you? Come see me when you can.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>You can't carry any<lineend>more, can you? Come<pause><lineend><CC03EA>see me when you<lineend>can.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Here you are!<pause><lineend>|
 24|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to<lineend>grill something for you. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to<lineend>grill something for<pause><lineend><CC03EA>you. Please select<lineend>a Food to use.<pause><lineend>|
 25|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't<lineend>cook that!<pause><lineend>|
 26|
@@ -57,48 +57,48 @@
 28|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't<lineend>quite have enough.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>The children told<lineend>me everything. It was a little witch behind it all along!<pause><lineend><CC03EA>Thanks to you,<lineend>Miss, we've learned an important lesson.<pause><lineend><CC03EA>We were all too<lineend>hasty to judge the fairies.<pause><lineend><CC03EA>The thing for us to<lineend>do now is make a proper apology.<pause><lineend><CC03EA>Oh, and don't let<lineend>me forget this. Take it with you, as a little token of thanks.<pause><lineend><CC03EA>It's a dangerous<lineend>world out there. This can help keep you safe.<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>The children told<lineend>me everything. It<pause><lineend><CC03EA>was a little witch<lineend>behind it all<lineend>along!<pause><lineend><CC03EA>Thanks to you,<lineend>Miss, we've learned<lineend>an important<pause><lineend><CC03EA>lesson.<pause><lineend><CC03EA>We were all too<lineend>hasty to judge the<lineend>fairies.<pause><lineend><CC03EA>The thing for us to<lineend>do now is make a<lineend>proper apology.<pause><lineend><CC03EA>Oh, and don't let<lineend>me forget this.<lineend>Take it with you,<pause><lineend><CC03EA>as a little token<lineend>of thanks.<pause><lineend><CC03EA>It's a dangerous<lineend>world out there.<lineend>This can help keep<pause><lineend><CC03EA>you safe.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>Hmm. It looks like<lineend>your bag is full.<pause><lineend><CC03EA>When you've freed<lineend>up some space, come see me again.<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>Hmm. It looks like<lineend>your bag is full.<pause><lineend><CC03EA>When you've freed<lineend>up some space, come<lineend>see me again.<pause><lineend>|
 31|
 <CC03EA><color=0002>Got a Vulcan Magic<lineend>Stone!<pause><lineend>|
 32|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>Also, just a bit of<lineend>advice.<pause><lineend><CC03EA><color=0001>There's a village<lineend>called <color=0002>Dorangora<color=0005> straight west from<lineend>Nutsbill's left exit.<pause><lineend><CC03EA>It's being overrun<lineend>with Dragons that are very fierce indeed.<pause><lineend><CC03EA>Continuing your<lineend>travels is one thing...<pause><lineend><CC03EA>...but if you care<lineend>about staying alive, you'll stay away from Dorangora.<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>Also, just a bit of<lineend>advice.<pause><lineend><CC03EA><color=0001>There's a village<lineend>called <color=0002>Dorangora<color=0005> straight west from<lineend>Nutsbill's left<lineend>exit.<pause><lineend><CC03EA>It's being overrun<lineend>with Dragons that<lineend>are very fierce<pause><lineend><CC03EA>indeed.<pause><lineend><CC03EA>Continuing your<lineend>travels is one<lineend>thing...<pause><lineend><CC03EA>...but if you care<lineend>about staying<lineend>alive, you'll stay<pause><lineend><CC03EA>away from<lineend>Dorangora.<pause><lineend>|
 33|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>Here. Take this<lineend>with you.<pause><lineend><CC03EA>It's a dangerous<lineend>world out there. This can help keep you safe.<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>Here. Take this<lineend>with you.<pause><lineend><CC03EA>It's a dangerous<lineend>world out there.<lineend>This can help keep<pause><lineend><CC03EA>you safe.<pause><lineend>|
 34|
-<CC03EA><color=0006><string=00E8><lineend><color=0001><color=0005>From the left side<lineend>of the village<color=0001> is a westward path<lineend>to the village of<color=0002> Dorangora.<color=0001><pause><lineend><CC03EA>Ferocious Dragons<lineend>are running quite the rampage there.<pause><lineend><CC03EA>Continuing your<lineend>travels is one thing...<pause><lineend><CC03EA>...but if you care<lineend>about staying alive, you better stay away from Dorangora.<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001><color=0005>From the left side<lineend>of the village<color=0001> is a westward path<lineend>to the village of<color=0002> Dorangora.<color=0001><pause><lineend><CC03EA>Ferocious Dragons<lineend>are running quite<lineend>the rampage there.<pause><lineend><CC03EA>Continuing your<lineend>travels is one<lineend>thing...<pause><lineend><CC03EA>...but if you care<lineend>about staying<lineend>alive, you better<pause><lineend><CC03EA>stay away from<lineend>Dorangora.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 36|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 37|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 38|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
 39|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 40|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
 41|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those,<lineend>I'm afraid.<pause><lineend>|
 42|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 43|
 <CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 44|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford it. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it. Come back<lineend>anytime.<pause><lineend>|
 45|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then.<lineend>Enjoy your stay.<pause><lineend>|
 46|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 47|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 48|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 49|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 50|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 51|
-<CC03EA><color=0002><string=0000><lineend><color=0001>We should go tell<lineend>the fairies that the children are back.<pause><lineend><CC03F0=000000880000000603FF00000000>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We should go tell<lineend>the fairies that<pause><lineend><CC03EA>the children are<lineend>back.<pause><lineend><CC03F0=000000880000000603FF00000000>|

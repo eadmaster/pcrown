@@ -1,13 +1,13 @@
 0|
-<CC03EA><color=0006><string=0077><lineend><color=0001>I've never been so<lineend>frightened in my entire life.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>I've never been so<lineend>frightened in my<pause><lineend><CC03EA>entire life.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0078><lineend><color=0001>That Wizard's<lineend>strength... It was simply extraordinary.<pause><lineend>|
+<CC03EA><color=0006><string=0078><lineend><color=0001>That Wizard's<lineend>strength... It was<pause><lineend><CC03EA>simply<lineend>extraordinary.<pause><lineend>|
 2|
-<CC03EA><CC03FC=0004><string=006B><color=0006>Friar<lineend><color=0001>Only those hiding<lineend>inside the castle survived.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=006B><color=0006>Friar<lineend><color=0001>Only those hiding<lineend>inside the castle<lineend>survived.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0079><lineend><color=0001>I heard about the<lineend>one who saved Volga...<pause><lineend><CC03EA>Would you believe<lineend>it was daughter of our own Prince Shelius?<pause><lineend><CC03EA>A mysterious twist<lineend>of fate, don't you think?<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>I heard about the<lineend>one who saved<pause><lineend><CC03EA>Volga...<pause><lineend><CC03EA>Would you believe<lineend>it was daughter of<lineend>our own Prince<pause><lineend><CC03EA>Shelius?<pause><lineend><CC03EA>A mysterious twist<lineend>of fate, don't you<lineend>think?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=007A><lineend><color=0001>Lord Shelius got<lineend>his swordsmanship from his Father, Lord Jadis.<pause><lineend><CC03EA>He must have passed<lineend>on his excellent skills to his daughter.<pause><lineend>|
+<CC03EA><color=0006><string=007A><lineend><color=0001>Lord Shelius got<lineend>his swordsmanship<pause><lineend><CC03EA>from his Father,<lineend>Lord Jadis.<pause><lineend><CC03EA>He must have passed<lineend>on his excellent<lineend>skills to his<pause><lineend><CC03EA>daughter.<pause><lineend>|
 5|
 <CC03FA=00F0000300000000000003FF000D003C0000><CC03FB=0046>|
 6|
@@ -15,28 +15,28 @@
 7|
 <CC03ED=0000008700010000><CC03F9=0000>|
 8|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>Oh,<lineend>Gradriel...Please do promise that you'll come see us again soon.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Oh,<lineend>Gradriel...Please<pause><lineend><CC03EA>do promise that<lineend>you'll come see us<lineend>again soon.<pause><lineend>|
 9|
 <CC03F0=000000880000000303FF00000000>|
 10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Pardon me, but who<lineend>are you?<pause><lineend>|
 11|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>I hope I didn't<lineend>alarm you. I serve as the ranking court lady here.<pause><lineend><CC03EA>Once upon a time, I<lineend>was your Father's wet-nurse.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I hope I didn't<lineend>alarm you. I serve<pause><lineend><CC03EA>as the ranking<lineend>court lady here.<pause><lineend><CC03EA>Once upon a time, I<lineend>was your Father's<lineend>wet-nurse.<pause><lineend>|
 12|
 <CC03FA=0000000200000000000003FF000A003C0000><CC03FB=0046>|
 13|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Is...that...so?<pause><lineend>|
 14|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>Yes. Lord Shelius<lineend>and I were always special to one another.<pause><lineend><CC03EA>He even wrote<lineend>letters to me about his daughters many years ago.<pause><lineend><CC03EA>I never thought I<lineend>would get the chance to meet one of you in person, though.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Yes. Lord Shelius<lineend>and I were always<pause><lineend><CC03EA>special to one<lineend>another.<pause><lineend><CC03EA>He even wrote<lineend>letters to me about<lineend>his daughters many<pause><lineend><CC03EA>years ago.<pause><lineend><CC03EA>I never thought I<lineend>would get the<lineend>chance to meet one<pause><lineend><CC03EA>of you in person,<lineend>though.<pause><lineend>|
 15|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>Looking at you<lineend>reminds me of him.<pause><lineend><CC03EA>Lord Shelius and<lineend>Lord Jadis had different ways of thinking. They argued often.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>Looking at you<lineend>reminds me of him.<pause><lineend><CC03EA>Lord Shelius and<lineend>Lord Jadis had<lineend>different ways of<pause><lineend><CC03EA>thinking. They<lineend>argued often.<pause><lineend>|
 16|
-<CC03ED=00F00048000103FF><CC03ED=00F00049000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>The sky and the<lineend>ocean are both blue, but they don't mix.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Shelius<lineend>finally fled this kingdom, and later found himself in Valendia.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Jadis never<lineend>forgave him after that.<lineend><CC03ED=00F00048000103FF><pause>|
+<CC03ED=00F00048000103FF><CC03ED=00F00049000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>The sky and the<lineend>ocean are both<pause><lineend><CC03EA>blue, but they<lineend>don't mix.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Shelius<lineend>finally fled this<lineend>kingdom, and later<pause><lineend><CC03EA>found himself in<lineend>Valendia.<lineend><CC03ED=00F00048000103FF><pause><CC03EA><CC03ED=00F00049000103FF>Lord Jadis never<lineend>forgave him after<lineend>that.<lineend><CC03ED=00F00048000103FF><pause>|
 17|
-<CC03ED=00F0004E00010000><CC03ED=00F0004F000103FF><CC03ED=00F00050000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>But...that's<lineend>something I think he regrets now...<lineend><CC03ED=00F0005100010000><pause>|
+<CC03ED=00F0004E00010000><CC03ED=00F0004F000103FF><CC03ED=00F00050000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>But...that's<lineend>something I think<pause><lineend><CC03EA>he regrets now...<lineend><CC03ED=00F0005100010000><pause>|
 18|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in<lineend>you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And<lineend>with your Majesty's help...<pause><lineend><CC03EA>...the two royal<lineend>families will begin to see each other again.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in<lineend>you, Queen<pause><lineend><CC03EA>Gradriel.<pause><lineend><CC03EA>Time heals all. And<lineend>with your Majesty's<lineend>help...<pause><lineend><CC03EA>...the two royal<lineend>families will begin<lineend>to see each other<pause><lineend><CC03EA>again.<pause><lineend>|
 19|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=000000A500010000>|
 20|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in<lineend>you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And<lineend>with your Majesty's help...<pause><lineend><CC03EA>...the two royal<lineend>families will begin to see each other again.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in<lineend>you, Queen<pause><lineend><CC03EA>Gradriel.<pause><lineend><CC03EA>Time heals all. And<lineend>with your Majesty's<lineend>help...<pause><lineend><CC03EA>...the two royal<lineend>families will begin<lineend>to see each other<pause><lineend><CC03EA>again.<pause><lineend>|

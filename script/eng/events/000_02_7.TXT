@@ -1,22 +1,22 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>I can't believe<lineend>someone your size took on a Demon!<pause><lineend><CC03EA>You've got courage,<lineend>that's for sure.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>I can't believe<lineend>someone your size<pause><lineend><CC03EA>took on a Demon!<pause><lineend><CC03EA>You've got courage,<lineend>that's for sure.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007C><lineend><color=0001>I better cook up<lineend>some soup for all our wounded Knights!<pause><lineend>|
+<CC03EA><color=0006><string=007C><lineend><color=0001>I better cook up<lineend>some soup for all<pause><lineend><CC03EA>our wounded<lineend>Knights!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>It's a true Knight<lineend>who keeps fighting for his Queen no matter how injured he becomes.<pause><lineend><CC03EA>I'd never stop<lineend>fighting for Queen Elfaran no matter what. Even if I couldn't stand.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>It's a true Knight<lineend>who keeps fighting<pause><lineend><CC03EA>for his Queen no<lineend>matter how injured<lineend>he becomes.<pause><lineend><CC03EA>I'd never stop<lineend>fighting for Queen<lineend>Elfaran no matter<pause><lineend><CC03EA>what. Even if I<lineend>couldn't stand.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>The Queen would<lineend>have been in a lot of trouble if it hadn't been for you.<pause><lineend><CC03EA>You were truly her<lineend>savior. Allow me to thank you from the bottom of my heart. <pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The Queen would<lineend>have been in a lot<pause><lineend><CC03EA>of trouble if it<lineend>hadn't been for<lineend>you.<pause><lineend><CC03EA>You were truly her<lineend>savior. Allow me to<lineend>thank you from the<pause><lineend><CC03EA>bottom of my heart.<lineend><pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>The magic we humans<lineend>can use doesn't compare to what the Demons have at their disposal.<pause><lineend><CC03EA>I heard that they<lineend>get all that power by actually eating Magic Stones.<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>The magic we humans<lineend>can use doesn't<pause><lineend><CC03EA>compare to what the<lineend>Demons have at<lineend>their disposal.<pause><lineend><CC03EA>I heard that they<lineend>get all that power<lineend>by actually eating<pause><lineend><CC03EA>Magic Stones.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0077><lineend><color=0001>Oh, it's the Hero!<lineend>Please, help yourself to anything you see here.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>Oh, it's the Hero!<lineend>Please, help<pause><lineend><CC03EA>yourself to<lineend>anything you see<lineend>here.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0078><lineend><color=0001>I wonder where the<lineend>Knight Captain has gone now that he's betrayed the Queen.<pause><lineend>|
+<CC03EA><color=0006><string=0078><lineend><color=0001>I wonder where the<lineend>Knight Captain has<pause><lineend><CC03EA>gone now that he's<lineend>betrayed the Queen.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0079><lineend><color=0001>He wasn't just one<lineend>of their flunkies, either. He was actually leading them!<pause><lineend><CC03EA>It's such a shame.<lineend>Golgotha was a wonderful Knight...<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>He wasn't just one<lineend>of their flunkies,<pause><lineend><CC03EA>either. He was<lineend>actually leading<lineend>them!<pause><lineend><CC03EA>It's such a shame.<lineend>Golgotha was a<lineend>wonderful Knight...<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0033><lineend><color=0001>It's a relief that<lineend>all the fighting is over. My wife's baby is due any day now!<pause><lineend><CC03EA>I want my child to<lineend>come into a peaceful world.<pause><lineend><CC03EA>Believe me, I'm<lineend>going to tell my baby everything, too.<pause><lineend><CC03EA>She'll learn all<lineend>about Queen Elfaran, and how she restored peace to our kingdom. <pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>It's a relief that<lineend>all the fighting is<pause><lineend><CC03EA>over. My wife's<lineend>baby is due any day<lineend>now!<pause><lineend><CC03EA>I want my child to<lineend>come into a<lineend>peaceful world.<pause><lineend><CC03EA>Believe me, I'm<lineend>going to tell my<lineend>baby everything,<pause><lineend><CC03EA>too.<pause><lineend><CC03EA>She'll learn all<lineend>about Queen<lineend>Elfaran, and how<pause><lineend><CC03EA>she restored peace<lineend>to our kingdom. <pause><lineend>|
 9|
-<CC03EA><color=0006><string=0053><lineend><color=0001>During the<lineend>fighting, I saw for myself what power those Demons have.<pause><lineend><CC03EA>Now, I'm scared to<lineend>even use magic.<pause><lineend><CC03EA>I feel as though<lineend>magic itself is something wicked...<pause><lineend>|
+<CC03EA><color=0006><string=0053><lineend><color=0001>During the<lineend>fighting, I saw for<pause><lineend><CC03EA>myself what power<lineend>those Demons have.<pause><lineend><CC03EA>Now, I'm scared to<lineend>even use magic.<pause><lineend><CC03EA>I feel as though<lineend>magic itself is<lineend>something wicked...<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0080><lineend><color=0001>The Knight Guard<lineend>became what it is today because of Golgotha.<pause><lineend><CC03EA>Yet it was this<lineend>very man who double-crossed us...<pause><lineend>`|
+<CC03EA><color=0006><string=0080><lineend><color=0001>The Knight Guard<lineend>became what it is<pause><lineend><CC03EA>today because of<lineend>Golgotha.<pause><lineend><CC03EA>Yet it was this<lineend>very man who<lineend>double-crossed<pause><lineend><CC03EA>us...<pause><lineend>`|

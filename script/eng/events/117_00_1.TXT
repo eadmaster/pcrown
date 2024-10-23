@@ -1,38 +1,38 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the<pause><lineend><CC03EA>continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard,<lineend>and Merchant areas.<pause><lineend><CC03EA><pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is,<lineend>but we do have a<pause><lineend><CC03EA>problem with people<lineend>getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm<lineend>a little lost<pause><lineend><CC03EA>myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way back home...<lineend><CC03F1=0011><pause>|
+<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way<pause><lineend><CC03EA>back home...<lineend><CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>I'm sure a warrior<lineend>like you has probably thought about joining the Guard, too.<pause><lineend><CC03EA>Being in her<lineend>Majesty's Knight Guard is greatest honor any warrior could hope for.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>I'm sure a warrior<lineend>like you has<pause><lineend><CC03EA>probably thought<lineend>about joining the<lineend>Guard, too.<pause><lineend><CC03EA>Being in her<lineend>Majesty's Knight<lineend>Guard is greatest<pause><lineend><CC03EA>honor any warrior<lineend>could hope for.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in<lineend>there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat<lineend>reward for whoever captures the evil Siren living there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called<pause><lineend><CC03EA>the Silver Sword.<pause><lineend><CC03EA>They're probably in<lineend>there right now<lineend>deciding what to do<pause><lineend><CC03EA>about Lake Titania.<pause><lineend><CC03EA>There's a big fat<lineend>reward for whoever<lineend>captures the evil<pause><lineend><CC03EA>Siren living there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in<pause><lineend><CC03EA>the Merchants'<lineend>Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find<lineend>something really<pause><lineend><CC03EA>worth your while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're<lineend>both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have<pause><lineend><CC03EA>been rivals for<lineend>ages.<pause><lineend><CC03EA>Right now, they're<lineend>both racing to be<lineend>the first to solve<pause><lineend><CC03EA>the problem at Lake<lineend>Titania.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of<pause><lineend><CC03EA>the city...Or at<lineend>least they should<lineend>be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights<lineend>with the Wizards<pause><lineend><CC03EA>and give everyone a<lineend>headache!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>There's got to be<lineend>someone who can get rid of the Siren at the lake...<pause><lineend><CC03EA>How much longer do<lineend>we have to wait to play there again?<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>There's got to be<lineend>someone who can get<pause><lineend><CC03EA>rid of the Siren at<lineend>the lake...<pause><lineend><CC03EA>How much longer do<lineend>we have to wait to<lineend>play there again?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most important duties.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most<pause><lineend><CC03EA>important duties.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an<pause><lineend><CC03EA>army of Demons, and<lineend>it seemed all would<lineend>be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired<lineend>Warrior and a<pause><lineend><CC03EA>silver-haired<lineend>Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything<lineend>to save Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each<lineend>area were made to<pause><lineend><CC03EA>commemorate them.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through the alleys that connect the different areas.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are<pause><lineend><CC03EA>a lot of<lineend>pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through<lineend>the alleys that<pause><lineend><CC03EA>connect the<lineend>different areas.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake<lineend>Titania casts spells on monsters to make them attack people!<pause><lineend><CC03EA>She's so dangerous,<lineend>some of the Warriors who went to investigate never even came back.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Have you heard?<pause><lineend><CC03EA>The mermaid in Lake<lineend>Titania casts<lineend>spells on monsters<pause><lineend><CC03EA>to make them attack<lineend>people!<pause><lineend><CC03EA>She's so dangerous,<lineend>some of the<lineend>Warriors who went<pause><lineend><CC03EA>to investigate<lineend>never even came<lineend>back.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Ah, Edward! Thanks<lineend>for all your help the other day.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Ah, Edward! Thanks<lineend>for all your help<pause><lineend><CC03EA>the other day.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0164><lineend><color=0001>It used to only<lineend>ever be Dragons, but this time we're dealing with a Siren.<pause><lineend><CC03EA>The town itself<lineend>seems to be getting more dangerous, too!<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>It used to only<lineend>ever be Dragons,<pause><lineend><CC03EA>but this time we're<lineend>dealing with a<lineend>Siren.<pause><lineend><CC03EA>The town itself<lineend>seems to be getting<lineend>more dangerous,<pause><lineend><CC03EA>too!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from the Wizard's town by now. I wonder if he got lost again?<pause><lineend><CC03EA>The tea I made is<lineend>getting cold!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from<pause><lineend><CC03EA>the Wizard's town<lineend>by now. I wonder if<lineend>he got lost again?<pause><lineend><CC03EA>The tea I made is<lineend>getting cold!<pause><lineend>|
 15|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot.<lineend>I just fed him, too!<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot.<lineend>I just fed him,<pause><lineend><CC03EA>too!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the<lineend>gossip is about the monster attacks around the lake.<pause><lineend><CC03EA>I don't understand<lineend>why people can't just stay away from there.<pause><lineend><CC03EA>Then we could talk<lineend>about something else for a change!<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>These days, all the<lineend>gossip is about the<pause><lineend><CC03EA>monster attacks<lineend>around the lake.<pause><lineend><CC03EA>I don't understand<lineend>why people can't<lineend>just stay away from<pause><lineend><CC03EA>there.<pause><lineend><CC03EA>Then we could talk<lineend>about something<lineend>else for a change!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single<pause><lineend><CC03EA>day!<pause><lineend>|

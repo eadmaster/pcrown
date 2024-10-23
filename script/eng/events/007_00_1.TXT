@@ -1,24 +1,24 @@
 65536|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>...That's right. It<lineend>was an incredible battle!<pause><lineend><CC03EA>And then, in the<lineend>end, when Queen Gradriel put on her crown...<pause><lineend><CC03EA>Whoosh! The evil<lineend>Larva was swept away in a bright flash of light!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>...That's right. It<lineend>was an incredible<pause><lineend><CC03EA>battle!<pause><lineend><CC03EA>And then, in the<lineend>end, when Queen<lineend>Gradriel put on her<pause><lineend><CC03EA>crown...<pause><lineend><CC03EA>Whoosh! The evil<lineend>Larva was swept<lineend>away in a bright<pause><lineend><CC03EA>flash of light!<pause><lineend>|
 65537|
 <CC03EA><color=0006><string=0166><lineend><color=0001>Oh, wow! The Queen<lineend>is so cool!!<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>I told you so! Was<lineend>Larva really huge, Aria?<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>I told you so! Was<lineend>Larva really huge,<pause><lineend><CC03EA>Aria?<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>He sure was! He<lineend>made a Dragon look like a pussy cat!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>He sure was! He<lineend>made a Dragon look<pause><lineend><CC03EA>like a pussy cat!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>I can't believe<lineend>that nice lady was the Queen all along...<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>I can't believe<lineend>that nice lady was<pause><lineend><CC03EA>the Queen all<lineend>along...<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>Come on, Tabitha!<lineend>Let's go tell everyone else!<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Come on, Tabitha!<lineend>Let's go tell<pause><lineend><CC03EA>everyone else!<pause><lineend>|
 65542|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Yeah!<pause><lineend>|
 65543|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Thanks for the<lineend>story, fairies!<pause><lineend><CC03EA>I'm never going to<lineend>forget this one!<pause><lineend>|
 65544|
-<CC03EA><color=0006><string=0167><lineend><color=0001>By the way...<pause><lineend><CC03EA>Are there any more<lineend>stories about the Queen?<pause><lineend>|
+<CC03EA><color=0006><string=0167><lineend><color=0001>By the way...<pause><lineend><CC03EA>Are there any more<lineend>stories about the<lineend>Queen?<pause><lineend>|
 65545|
 <CC03EA><color=0006><string=0167><lineend><color=0001>Come on, tell us!<pause><lineend>|
 65546|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>More stories?<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Hmm...This gets a<lineend>little tricky.<pause><lineend><CC03EA>Wait here for a<lineend>little while. I'll go and see what happens next...!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Hmm...This gets a<lineend>little tricky.<pause><lineend><CC03EA>Wait here for a<lineend>little while. I'll<lineend>go and see what<pause><lineend><CC03EA>happens next...!<pause><lineend>|

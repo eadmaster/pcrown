@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the<lineend>one making people see all those weird illusions!<pause><lineend><CC03EA>Once I take care of<lineend>you, I can go find that girl!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the<lineend>one making people<pause><lineend><CC03EA>see all those weird<lineend>illusions!<pause><lineend><CC03EA>Once I take care of<lineend>you, I can go find<lineend>that girl!<pause><lineend>|
 1|
 <CC03EA><color=0002><string=0002><lineend><color=0001>ñ¿éqÇøÇ·ÇÒÇÕ<lineend>Ç±ÇÃâúÇ©ÇµÇÁÇÀÅB<pause><lineend>|
 2|
@@ -11,15 +11,15 @@
 65538|
 <CC03EA><color=0002><string=0002><lineend><color=0001>You there! Goat<lineend>girl!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0002><lineend><color=0001>A monster was<lineend>tricking you with illusions, and I just sent him packing!<pause><lineend><CC03EA>You should be able<lineend>to leave the forest now.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>A monster was<lineend>tricking you with<pause><lineend><CC03EA>illusions, and I<lineend>just sent him<lineend>packing!<pause><lineend><CC03EA>You should be able<lineend>to leave the forest<lineend>now.<pause><lineend>|
 65540|
-<CC03EA><color=0006><string=0023><lineend><color=0001>You beat the<lineend>monster? Weren't you scared of him?<pause><lineend>|
+<CC03EA><color=0006><string=0023><lineend><color=0001>You beat the<lineend>monster? Weren't<pause><lineend><CC03EA>you scared of him?<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Don't make me<lineend>laugh...<pause><lineend><CC03EA>It takes more than<lineend>that to scare this witch!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Don't make me<lineend>laugh...<pause><lineend><CC03EA>It takes more than<lineend>that to scare this<lineend>witch!<pause><lineend>|
 65542|
 <CC03EA><color=0006><string=0023><lineend><color=0001>That's amazing!<pause><lineend>|
 65543|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Let's get going. I<lineend>need you and your goats back in your village!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Let's get going. I<lineend>need you and your<pause><lineend><CC03EA>goats back in your<lineend>village!<pause><lineend>|
 65544|
 <CC03EA><color=0006><string=0023><lineend><color=0001>We're on our way.<lineend>Thank you!<pause><lineend>|
 65545|

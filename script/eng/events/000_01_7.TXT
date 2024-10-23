@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>You have rescued<lineend>Valendia from a terrible fate indeed.<pause><lineend><CC03EA>Let me thank you<lineend>from the bottom of my heart.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>You have rescued<lineend>Valendia from a<pause><lineend><CC03EA>terrible fate<lineend>indeed.<pause><lineend><CC03EA>Let me thank you<lineend>from the bottom of<lineend>my heart.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Her Majesty is<lineend>distraught over what happened to Golgotha, the Knight Guard Captain.<pause><lineend><CC03EA>I wonder what I<lineend>might say to console her...<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Her Majesty is<lineend>distraught over<pause><lineend><CC03EA>what happened to<lineend>Golgotha, the<lineend>Knight Guard<pause><lineend><CC03EA>Captain.<pause><lineend><CC03EA>I wonder what I<lineend>might say to<lineend>console her...<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Those Demon<lineend>scum...killed most of my friends....<pause><lineend><CC03EA>I'll get revenge<lineend>for them, no matter how long it takes!<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Those Demon<lineend>scum...killed most<pause><lineend><CC03EA>of my friends....<pause><lineend><CC03EA>I'll get revenge<lineend>for them, no matter<lineend>how long it takes!<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is<lineend>through here.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0082><lineend><color=0001>My family, my town,<lineend>my country...<pause><lineend><CC03EA>There's barely<lineend>anything left for me to fight for.<pause><lineend><CC03EA>A Knight is someone<lineend>who puts these things before himself. <pause><lineend><CC03EA>Without them, is it<lineend>even possible to be a Knight?<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>My family, my town,<lineend>my country...<pause><lineend><CC03EA>There's barely<lineend>anything left for<lineend>me to fight for.<pause><lineend><CC03EA>A Knight is someone<lineend>who puts these<lineend>things before<pause><lineend><CC03EA>himself. <pause><lineend><CC03EA>Without them, is it<lineend>even possible to be<lineend>a Knight?<pause><lineend>|

@@ -1,33 +1,33 @@
 0|
 <CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find<lineend>peace in heaven...<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have<lineend>perished, but he upheld the spirit of a true Knight to the end.<pause><lineend><CC03EA>We Knights who<lineend>survived, as well as his son, will carry on this spirit in our hearts.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have<lineend>perished, but he<pause><lineend><CC03EA>upheld the spirit<lineend>of a true Knight to<lineend>the end.<pause><lineend><CC03EA>We Knights who<lineend>survived, as well<lineend>as his son, will<pause><lineend><CC03EA>carry on this<lineend>spirit in our<lineend>hearts.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world<lineend>do you think they took Sidrael?<pause><lineend><CC03EA>Her poor physical<lineend>condition is especially concerning.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world<lineend>do you think they<pause><lineend><CC03EA>took Sidrael?<pause><lineend><CC03EA>Her poor physical<lineend>condition is<lineend>especially<pause><lineend><CC03EA>concerning.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Sir Edward passed<lineend>through here just a moment ago.<pause><lineend><CC03EA>I wonder where he's<lineend>going so late at night?<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Sir Edward passed<lineend>through here just a<pause><lineend><CC03EA>moment ago.<pause><lineend><CC03EA>I wonder where he's<lineend>going so late at<lineend>night?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons<lineend>attack, they'll probably come through the tower in the Black Forest.<pause><lineend><CC03EA>The gate in that<lineend>tower is one of a few that connects our world and the Demon Realm.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons<lineend>attack, they'll<pause><lineend><CC03EA>probably come<lineend>through the tower<lineend>in the Black<pause><lineend><CC03EA>Forest.<pause><lineend><CC03EA>The gate in that<lineend>tower is one of a<lineend>few that connects<pause><lineend><CC03EA>our world and the<lineend>Demon Realm.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is<lineend>through here.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come,<lineend>they will never break us.<pause><lineend><CC03EA>Not as long as<lineend>Queen Gradriel is by our side!<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come,<lineend>they will never<pause><lineend><CC03EA>break us.<pause><lineend><CC03EA>Not as long as<lineend>Queen Gradriel is<lineend>by our side!<pause><lineend>|
 7|
 <CC03F2=00F800020000003703FF00000000>|
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Edward!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I want to thank you<lineend>for coming to help us.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I want to thank you<lineend>for coming to help<pause><lineend><CC03EA>us.<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=016D><lineend><color=0001>I'm glad I could<lineend>help.<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>It turns out that<lineend>for all those years, your Father was watching over the castle...<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It turns out that<lineend>for all those<pause><lineend><CC03EA>years, your Father<lineend>was watching over<lineend>the castle...<lineend><pause>|
 65540|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Honestly, I don't<lineend>think I know what to do with myself anymore.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Honestly, I don't<lineend>think I know what<pause><lineend><CC03EA>to do with myself<lineend>anymore.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Was my Mother<lineend>right? Was Golgotha an honorable Knight all along?<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Was my Mother<lineend>right? Was Golgotha<pause><lineend><CC03EA>an honorable Knight<lineend>all along?<pause><lineend>|
 65542|
-<CC03EA>< color=0002><string=0000><lineend><color=0001>What he did 25<lineend>years ago, he only did because of a magic spell.<pause><lineend><CC03EA>It had nothing to<lineend>do with what was in his heart.<pause><lineend>|
+<CC03EA>< color=0002><string=0000><lineend><color=0001>What he did 25<lineend>years ago, he only<pause><lineend><CC03EA>did because of a<lineend>magic spell.<pause><lineend><CC03EA>It had nothing to<lineend>do with what was in<lineend>his heart.<pause><lineend>|
 65543|
 <CC03EA><color=0004><string=016D><lineend><color=0001>Then how come he<lineend>never told me?<pause><lineend>|
 65544|
@@ -35,15 +35,15 @@
 65545|
 <CC03EA><color=0004><string=016D><lineend><color=0001>I'm leaving to go<lineend>see Heindel.<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The same Heindel<lineend>you talked about that night by the lake?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The same Heindel<lineend>you talked about<pause><lineend><CC03EA>that night by the<lineend>lake?<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Heindel is a<lineend>Dragon, and he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell<lineend>me what my Father was really thinking, it's him.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Heindel is a<lineend>Dragon, and he's<pause><lineend><CC03EA>supposed to be able<lineend>to tell people<lineend>anything they want<pause><lineend><CC03EA>to know.<pause><lineend><CC03EA>If anyone can tell<lineend>me what my Father<lineend>was really<pause><lineend><CC03EA>thinking, it's him.<pause><lineend>|
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I see.<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Your Highness...Let<lineend>me apologize for not addressing you properly before.<lineend><pause>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Your Highness...Let<lineend>me apologize for<pause><lineend><CC03EA>not addressing you<lineend>properly before.<lineend><pause>|
 65550|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You don't have to<lineend>say that, Edward. Besides, my journey isn't finished yet.<lineend><pause><CC03EA>I want you to think<lineend>of me only as a traveler named Gradriel...<lineend><pause><CC03EA>...and Gradriel is<lineend>the only thing I want you to call me.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You don't have to<lineend>say that, Edward.<pause><lineend><CC03EA>Besides, my journey<lineend>isn't finished yet.<lineend><pause><CC03EA>I want you to think<lineend>of me only as a<lineend>traveler named<pause><lineend><CC03EA>Gradriel...<lineend><pause><CC03EA>...and Gradriel is<lineend>the only thing I<lineend>want you to call<pause><lineend><CC03EA>me.<lineend><pause>|
 65551|
 <CC03EA><color=0004><string=016D><lineend><color=0001>As you wish,<lineend>Gradriel.<lineend>Farewell.<pause><lineend>|
 65552|

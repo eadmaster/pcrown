@@ -1,62 +1,62 @@
 0|
-<CC03EA><color=0006><string=017F><lineend><color=0001>Eriel studies<lineend>affairs of state so that she may be of help to the Queen.<pause><lineend><CC03EA>When she isn't busy<lineend>with that, she searches for a way to cure Sidrael's illness.<pause><lineend><CC03EA>Nobody is as<lineend>considerate of her sisters as she is.<pause><lineend>|
+<CC03EA><color=0006><string=017F><lineend><color=0001>Eriel studies<lineend>affairs of state so<pause><lineend><CC03EA>that she may be of<lineend>help to the Queen.<pause><lineend><CC03EA>When she isn't busy<lineend>with that, she<lineend>searches for a way<pause><lineend><CC03EA>to cure Sidrael's<lineend>illness.<pause><lineend><CC03EA>Nobody is as<lineend>considerate of her<lineend>sisters as she is.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Your older sister<lineend>Sidrael has been burdened with illness ever since she was a child.<pause><lineend><CC03EA>However, even on<lineend>her worst days, she never fails to keep a smile.<pause><lineend><CC03EA>She has all the<lineend>dignity of a beautiful white lily.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Your older sister<lineend>Sidrael has been<pause><lineend><CC03EA>burdened with<lineend>illness ever since<lineend>she was a child.<pause><lineend><CC03EA>However, even on<lineend>her worst days, she<lineend>never fails to keep<pause><lineend><CC03EA>a smile.<pause><lineend><CC03EA>She has all the<lineend>dignity of a<lineend>beautiful white<pause><lineend><CC03EA>lily.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Your Majesty, when<lineend>you wear that crown, you look just like your dear departed Mother.<pause><lineend><CC03EA>I'm so happy to see<lineend>that you've grown up to be such a fine young woman.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Your Majesty, when<lineend>you wear that<pause><lineend><CC03EA>crown, you look<lineend>just like your dear<lineend>departed Mother.<pause><lineend><CC03EA>I'm so happy to see<lineend>that you've grown<lineend>up to be such a<pause><lineend><CC03EA>fine young woman.<pause><lineend>|
 3|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Good evening,<lineend>Eriel.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0190><lineend><color=0001>Hello, Gradriel!<pause><lineend><CC03EA>It must be hard to<lineend>keep up with all your as the Queen, but do keep at it.<pause><lineend>|
+<CC03EA><color=0004><string=0190><lineend><color=0001>Hello, Gradriel!<pause><lineend><CC03EA>It must be hard to<lineend>keep up with all<lineend>your as the Queen,<pause><lineend><CC03EA>but do keep at it.<pause><lineend>|
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes, Eriel.<pause><lineend>|
 6|
-<CC03EA><color=0004><string=0190><lineend><color=0001>By the way, I heard<lineend>that you've been learning how to sword-fight.<pause><lineend><CC03EA>Even when you were<lineend>little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Just remember,<lineend>you're still a little girl. Don't let yourself get hurt, OK?<pause><lineend>|
+<CC03EA><color=0004><string=0190><lineend><color=0001>By the way, I heard<lineend>that you've been<pause><lineend><CC03EA>learning how to<lineend>sword-fight.<pause><lineend><CC03EA>Even when you were<lineend>little, you were<lineend>more interested in<pause><lineend><CC03EA>jousting matches<lineend>than poetry.<pause><lineend><CC03EA>Just remember,<lineend>you're still a<lineend>little girl. Don't<pause><lineend><CC03EA>let yourself get<lineend>hurt, OK?<pause><lineend>|
 7|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Eriel. I<lineend>understand.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=0190><lineend><color=0001>Gradriel? Are you<lineend>still awake?<pause><lineend><CC03EA>It's all right to<lineend>take a walk, but please do turn in soon.<pause><lineend>|
+<CC03EA><color=0004><string=0190><lineend><color=0001>Gradriel? Are you<lineend>still awake?<pause><lineend><CC03EA>It's all right to<lineend>take a walk, but<lineend>please do turn in<pause><lineend><CC03EA>soon.<pause><lineend>|
 9|
 <CC03EA><color=0004><string=0191><lineend><color=0001>Good evening,<lineend>Gradriel.<pause><lineend>|
 10|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I thought you would<lineend>be asleep, Sidrael. Are you OK?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I thought you would<lineend>be asleep, Sidrael.<pause><lineend><CC03EA>Are you OK?<pause><lineend>|
 11|
-<CC03EA><color=0004><string=0191><lineend><color=0001>Yes, I'm fine.<pause><lineend><CC03EA>In fact, I've been<lineend>feeling better and better since yesterday.<pause><lineend><CC03EA>That medicine Eriel<lineend>found for me is working wonders.<pause><lineend>|
+<CC03EA><color=0004><string=0191><lineend><color=0001>Yes, I'm fine.<pause><lineend><CC03EA>In fact, I've been<lineend>feeling better and<lineend>better since<pause><lineend><CC03EA>yesterday.<pause><lineend><CC03EA>That medicine Eriel<lineend>found for me is<lineend>working wonders.<pause><lineend>|
 12|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I really hope you<lineend>get better, Sidrael.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I really hope you<lineend>get better,<pause><lineend><CC03EA>Sidrael.<pause><lineend>|
 13|
-<CC03EA><color=0004><string=0191><lineend><color=0001>Thank you,<lineend>Gradriel.<pause><lineend><CC03EA>You're always such<lineend>a good girl. I have a gift for you.<pause><lineend><CC03EA>If you wear it, it<lineend>will protect you from danger.<pause><lineend>|
+<CC03EA><color=0004><string=0191><lineend><color=0001>Thank you,<lineend>Gradriel.<pause><lineend><CC03EA>You're always such<lineend>a good girl. I have<lineend>a gift for you.<pause><lineend><CC03EA>If you wear it, it<lineend>will protect you<lineend>from danger.<pause><lineend>|
 14|
 <CC03EA><color=0002>Got a Happiness<lineend>Pendant!<pause><lineend>|
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wow, thank you!<pause><lineend><CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 16|
-<CC03EA><color=0004><string=0191><lineend><color=0001>The moon is<lineend>especially beautiful tonight.<pause><lineend><CC03EA>You can get a good<lineend>view of it from the balcony over there.<pause><lineend>|
+<CC03EA><color=0004><string=0191><lineend><color=0001>The moon is<lineend>especially<pause><lineend><CC03EA>beautiful tonight.<pause><lineend><CC03EA>You can get a good<lineend>view of it from the<lineend>balcony over there.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, your<lineend>Highness.<pause><lineend><CC03EA>It's a lovely<lineend>night, and the town is sleeping in peace.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, your<lineend>Highness.<pause><lineend><CC03EA>It's a lovely<lineend>night, and the town<lineend>is sleeping in<pause><lineend><CC03EA>peace.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=007E><lineend><color=0001>My Father was also<lineend>in the Knight Guard.<pause><lineend><CC03EA>He served under<lineend>Queen Elfaran, but was killed by Golgotha the Traitor.<pause><lineend><CC03EA>That was 25 years<lineend>ago, during the war with the Demon Horde.<pause><lineend><CC03EA>It's my intention<lineend>to carry on my Father's duty as a Knight Guardsman.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>My Father was also<lineend>in the Knight<pause><lineend><CC03EA>Guard.<pause><lineend><CC03EA>He served under<lineend>Queen Elfaran, but<lineend>was killed by<pause><lineend><CC03EA>Golgotha the<lineend>Traitor.<pause><lineend><CC03EA>That was 25 years<lineend>ago, during the war<lineend>with the Demon<pause><lineend><CC03EA>Horde.<pause><lineend><CC03EA>It's my intention<lineend>to carry on my<lineend>Father's duty as a<pause><lineend><CC03EA>Knight Guardsman.<pause><lineend>|
 19|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Your Majesty! What<lineend>brings you to my humble quarters?<pause><lineend><CC03EA>These days, nothing<lineend>brings me more pleasure than sparring with my Queen.<pause><lineend><CC03EA>Let's practice<lineend>again tomorrow!<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Your Majesty! What<lineend>brings you to my<pause><lineend><CC03EA>humble quarters?<pause><lineend><CC03EA>These days, nothing<lineend>brings me more<lineend>pleasure than<pause><lineend><CC03EA>sparring with my<lineend>Queen.<pause><lineend><CC03EA>Let's practice<lineend>again tomorrow!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, Queen Gradriel!<pause><lineend><CC03EA>I thank the gods<lineend>that we have spent another day in peace.<pause><lineend><CC03EA>How about you?<lineend>Won't you join me in a prayer?<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, Queen Gradriel!<pause><lineend><CC03EA>I thank the gods<lineend>that we have spent<lineend>another day in<pause><lineend><CC03EA>peace.<pause><lineend><CC03EA>How about you?<lineend>Won't you join me<lineend>in a prayer?<pause><lineend>|
 21|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 22|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard<pause><lineend><CC03EA>your Majesty's<lineend>prayers.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps<lineend>another time.<pause><lineend>|
 24|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 25|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 26|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 27|
 <CC03FA=0000000200000000000003FF000A00460000><CC03FB=0050>|
 28|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Hold on...<pause><lineend><CC03EA><CC03F8=0001>This is Jestonai's<lineend>room...<pause><lineend><CC03F8=0001>If he finds me,<lineend>he'll stop me for sure.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Hold on...<pause><lineend><CC03EA><CC03F8=0001>This is Jestonai's<lineend>room...<pause><lineend><CC03F8=0001>If he finds me,<lineend>he'll stop me for<pause><lineend><CC03EA>sure.<pause><lineend>|
 29|
 <CC03FA=0000000300000000000003FF000A00460000><CC03FB=0050>|
 30|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Before I leave the<lineend>castle, I should go talk to my sisters one more time.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Before I leave the<lineend>castle, I should go<pause><lineend><CC03EA>talk to my sisters<lineend>one more time.<pause><lineend>|

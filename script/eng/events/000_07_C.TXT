@@ -5,53 +5,53 @@
 2|
 <CC03F0=000000880000000A03FF00000000>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...So that was it.<lineend>What a sad fate for Sir Leon.<pause><lineend><CC03EA><lineend><pause><CC03EA>Still, we were<lineend>fortunate to stop the Dark God from materializing.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...So that was it.<lineend>What a sad fate for<pause><lineend><CC03EA>Sir Leon.<pause><lineend><CC03EA><lineend><pause><CC03EA>Still, we were<lineend>fortunate to stop<lineend>the Dark God from<pause><lineend><CC03EA>materializing.<lineend><pause>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That wicked book<lineend>has disappeared from the world as well.<lineend><pause><CC03EA>And without their<lineend>king, the Demon Horde probably won't attack us ever again.<lineend><pause><CC03EA><CC03F8=0001>Maybe I'll keep it<lineend>a secret that I fought Larva. I'd just worry everybody...<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That wicked book<lineend>has disappeared<pause><lineend><CC03EA>from the world as<lineend>well.<lineend><pause><CC03EA>And without their<lineend>king, the Demon<lineend>Horde probably<pause><lineend><CC03EA>won't attack us<lineend>ever again.<lineend><pause><CC03EA><CC03F8=0001>Maybe I'll keep it<lineend>a secret that I<lineend>fought Larva. I'd<pause><lineend><CC03EA>just worry<lineend>everybody...<lineend><pause>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I appreciate your<lineend>help, King Volga.<lineend><pause>|
 65539|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Don't talk to me!<lineend>I'm utterly humiliated!<lineend><pause><CC03EA>As you may recall,<lineend>I'm supposed to be the Warrior King.<lineend><pause><CC03EA>Yet I could do<lineend>nothing but stand helpless while you did everything by yourself!<lineend><pause><CC03EA>So if you will<lineend>excuse me now, I'm going home! <lineend><pause>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Don't talk to me!<lineend>I'm utterly<pause><lineend><CC03EA>humiliated!<lineend><pause><CC03EA>As you may recall,<lineend>I'm supposed to be<lineend>the Warrior King.<lineend><pause><CC03EA>Yet I could do<lineend>nothing but stand<lineend>helpless while you<pause><lineend><CC03EA>did everything by<lineend>yourself!<lineend><pause><CC03EA>So if you will<lineend>excuse me now, I'm<lineend>going home! <lineend><pause>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>King Volga...<lineend><pause>|
 65541|
-<CC03EA><color=0004><string=0105><lineend><color=0001>You are a great<lineend>Queen, Gradriel. Your strength will clear a path to a bright future for your people.<lineend><pause><CC03EA>You deserve to have<lineend>faith in yourself.<lineend><pause><CC03EA>The next time you<lineend>visit, I want you and your sisters to show me some great-grandkids.<lineend><pause><CC03EA>...I'll be waiting!<lineend><pause>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>You are a great<lineend>Queen, Gradriel.<pause><lineend><CC03EA>Your strength will<lineend>clear a path to a<lineend>bright future for<pause><lineend><CC03EA>your people.<lineend><pause><CC03EA>You deserve to have<lineend>faith in yourself.<lineend><pause><CC03EA>The next time you<lineend>visit, I want you<lineend>and your sisters to<pause><lineend><CC03EA>show me some<lineend>great-grandkids.<lineend><pause><CC03EA>...I'll be waiting!<lineend><pause>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes, Grandpa!<lineend><pause>|
 65543|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>This may be the<lineend>start of a new friendship between our two kingdoms.<pause><lineend><CC03EA>Elfaran would be<lineend>pleased.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>This may be the<lineend>start of a new<pause><lineend><CC03EA>friendship between<lineend>our two kingdoms.<pause><lineend><CC03EA>Elfaran would be<lineend>pleased.<lineend><pause>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...Do you think she<lineend>would be proud of me? If she were here, I mean...<pause><lineend><CC03EA>I wonder if she'd<lineend>say I was a hero?<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Do you think she<lineend>would be proud of<pause><lineend><CC03EA>me? If she were<lineend>here, I mean...<pause><lineend><CC03EA>I wonder if she'd<lineend>say I was a hero?<lineend><pause>|
 65545|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Hero...<lineend><pause><CC03EA>You mean like a<lineend>certain young lady who visited us 25 years ago?<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hero...<lineend><pause><CC03EA>You mean like a<lineend>certain young lady<lineend>who visited us 25<pause><lineend><CC03EA>years ago?<lineend><pause>|
 65546|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Reporting in, your<lineend>Majesty.<pause><lineend><CC03EA>All members of the<lineend>Knight Guard have survived, though some suffered injuries.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Reporting in, your<lineend>Majesty.<pause><lineend><CC03EA>All members of the<lineend>Knight Guard have<lineend>survived, though<pause><lineend><CC03EA>some suffered<lineend>injuries.<lineend><pause>|
 65547|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, please go<lineend>see what you can do.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, please go<lineend>see what you can<pause><lineend><CC03EA>do.<lineend><pause>|
 65548|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, Queen<lineend>Gradriel.<lineend><pause>|
 131072|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What are you going<lineend>to do tomorrow, your Majesty?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What are you going<lineend>to do tomorrow,<pause><lineend><CC03EA>your Majesty?<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I've got to get<lineend>started on repairing all the towns that were attacked.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I've got to get<lineend>started on<pause><lineend><CC03EA>repairing all the<lineend>towns that were<lineend>attacked.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Really? I guess<lineend>you'll be pretty busy then, huh?.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Really? I guess<lineend>you'll be pretty<pause><lineend><CC03EA>busy then, huh?.<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think so, yes.<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>I'm sure you'll do<lineend>a great job, though.<pause><lineend><CC03EA>After all, you've<lineend>grown up to be just like Queen Elfaran.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>I'm sure you'll do<lineend>a great job,<pause><lineend><CC03EA>though.<pause><lineend><CC03EA>After all, you've<lineend>grown up to be just<lineend>like Queen Elfaran.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>...It got a little<lineend>scary sometimes, but we had a pretty fun adventure, didn't we?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>...It got a little<lineend>scary sometimes,<pause><lineend><CC03EA>but we had a pretty<lineend>fun adventure,<lineend>didn't we?<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Aria...?<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>You can come see me<lineend>in the Fairies' Forest anytime you want. I'll come see you, too.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You can come see me<lineend>in the Fairies'<pause><lineend><CC03EA>Forest anytime you<lineend>want. I'll come see<lineend>you, too.<pause><lineend>|
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you going home?<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't look so sad.<pause><lineend><CC03EA>You're not like the<lineend>stuffy old Queens who never left the castle, right?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't look so sad.<pause><lineend><CC03EA>You're not like the<lineend>stuffy old Queens<lineend>who never left the<pause><lineend><CC03EA>castle, right?<pause><lineend>|
 131082|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...You're right.<lineend>I'm not!<pause><lineend><CC03EA>I like to see<lineend>things for myself, no matter where it takes me...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...You're right.<lineend>I'm not!<pause><lineend><CC03EA>I like to see<lineend>things for myself,<lineend>no matter where it<pause><lineend><CC03EA>takes me...<pause><lineend>|
 131083|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Right. That's why<lineend>this isn't goodbye.<pause><lineend>|
 131084|
@@ -61,12 +61,12 @@
 131086|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>What!? Everyone's<lineend>here already!?<pause><lineend>|
 131087|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>I told them I had a<lineend>story to tell, and they all came to listen.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>I told them I had a<lineend>story to tell, and<pause><lineend><CC03EA>they all came to<lineend>listen.<pause><lineend>|
 131088|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>It's the story of a<lineend>Princess who accepted the crown to her kingdom...<pause><lineend><CC03EA>...then picked up<lineend>her sword and had all kinds of great adventures.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>It's the story of a<lineend>Princess who<pause><lineend><CC03EA>accepted the crown<lineend>to her kingdom...<pause><lineend><CC03EA>...then picked up<lineend>her sword and had<lineend>all kinds of great<pause><lineend><CC03EA>adventures.<pause><lineend>|
 131089|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Good night, Queen<lineend>Gradriel!<pause><lineend>|
 131090|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>She's right. I<lineend>think I'll start another adventure tomorrow.<pause><lineend><CC03EA>...Good night,<lineend>Aria.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>She's right. I<lineend>think I'll start<pause><lineend><CC03EA>another adventure<lineend>tomorrow.<pause><lineend><CC03EA>...Good night,<lineend>Aria.<pause><lineend>|
 131091|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>All right.<lineend>Where shall I begin<lineend>the story...<pause><lineend>|

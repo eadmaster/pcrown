@@ -1357,8 +1357,8 @@ char *FixLineWrap(char *text, int event_id)
 
 unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
-   else if ( c  == ',') return(1);  // TODO: replace
-   else if ( c  == '.') return(2);  // TODO: replace
+   else if ( c  == ',') return(0x3DA);
+   else if ( c  == '.') return(0x3DB);
    else if ( c  == '*') return(3);  // TODO: replace
    else if ( c  == '#') return(3);  // TODO: replace
    else if ( c  == '&') return(3);  // TODO: replace
@@ -1369,8 +1369,8 @@ unsigned short AsciiCharToTexttblIndex(char c) {
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
    else if ( c  == ')') return(11);
-   else if ( c  == '\'') return(12);  // TODO: replace
-   else if ( c  == '\"') return(12);  // TODO: replace
+   else if ( c  == '\"') return(0x3DC);
+   else if ( c  == '\'') return(0x3DD);
    else if ( c  == '%') return(16);
    else if ( c  == '0') return(0x11);
    else if ( c  == '1') return(0x12);
@@ -1626,6 +1626,8 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
             // 2FIX: ERROR_INSUFFICIENT_BUFFER with items.txt
             free(text_pointer_list);
             printf("%d>=%d\n", out_size[0], max_out_size);
+            if (ttentry[l].trans_text != NULL)
+               puts(ttentry[l].trans_text);
             return NULL;
          }
 

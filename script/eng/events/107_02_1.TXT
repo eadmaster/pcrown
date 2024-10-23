@@ -1,22 +1,22 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought<lineend>right past us...It was easy for them...<pause><lineend><CC03EA>Such failure is<lineend>inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought<lineend>right past us...It<pause><lineend><CC03EA>was easy for<lineend>them...<pause><lineend><CC03EA>Such failure is<lineend>inexcusable to the<lineend>Queen. We Knight<pause><lineend><CC03EA>Guardsmen must be<lineend>stronger than that.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007C><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>Where are you going<lineend>at this time of night?<pause><lineend>|
+<CC03EA><color=0006><string=007C><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>Where are you going<lineend>at this time of<lineend>night?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded<lineend>during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat,<lineend>the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can<lineend>fight on an empty stomach!<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded<lineend>during a fight,<pause><lineend><CC03EA>make sure you eat<lineend>something right<lineend>away.<pause><lineend><CC03EA>The more you eat,<lineend>the more your body<lineend>will recover.<pause><lineend><CC03EA>Besides, nobody can<lineend>fight on an empty<lineend>stomach!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>Queen Gradriel<lineend>inherited the crown.<pause><lineend><CC03EA>Princess Eriel<lineend>inherited beauty. Princess Sidrael, grace.<pause><lineend><CC03EA>Without any one of<lineend>them, our Kingdom is incomplete.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>Queen Gradriel<lineend>inherited the<pause><lineend><CC03EA>crown.<pause><lineend><CC03EA>Princess Eriel<lineend>inherited beauty.<lineend>Princess Sidrael,<pause><lineend><CC03EA>grace.<pause><lineend><CC03EA>Without any one of<lineend>them, our Kingdom<lineend>is incomplete.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a<lineend>spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most<lineend>people are unable to find within themselves.<pause><lineend><CC03EA>However, even those<lineend>without this power can use magic with the help of "Magic Stones."<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a<lineend>spell, we Magicians<pause><lineend><CC03EA>tap into a hidden<lineend>power...<pause><lineend><CC03EA>...one that most<lineend>people are unable<lineend>to find within<pause><lineend><CC03EA>themselves.<pause><lineend><CC03EA>However, even those<lineend>without this power<lineend>can use magic with<pause><lineend><CC03EA>the help of "Magic<lineend>Stones."<pause><lineend>|
 5|
-<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage<lineend>room for small goods.<pause><lineend>|
+<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage<lineend>room for small<pause><lineend><CC03EA>goods.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0077><lineend><color=0001>If you need<lineend>anything, you are welcome to take whatever you find.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>If you need<lineend>anything, you are<pause><lineend><CC03EA>welcome to take<lineend>whatever you find.<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0181><lineend><color=0001>I wonder if Sidrael<lineend>is unharmed?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of<lineend>Elfaran and Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep<lineend>her safe.<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of<lineend>Elfaran and Shelius<pause><lineend><CC03EA>runs in Princess<lineend>Sidrael.<pause><lineend><CC03EA>It will surely keep<lineend>her safe.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0051><lineend><color=0001>Are you Sir Edward<lineend>the Dragon slayer?<pause><lineend><CC03EA>You have that same<lineend>strong determination in your eyes that Sir Glowstar had.<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Are you Sir Edward<lineend>the Dragon slayer?<pause><lineend><CC03EA>You have that same<lineend>strong<lineend>determination in<pause><lineend><CC03EA>your eyes that Sir<lineend>Glowstar had.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0080><lineend><color=0001>A friend of mine<lineend>disappeared in the Black Forest.<pause><lineend><CC03EA>I'm very worried<lineend>whether he's all right.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>A friend of mine<lineend>disappeared in the<pause><lineend><CC03EA>Black Forest.<pause><lineend><CC03EA>I'm very worried<lineend>whether he's all<lineend>right.<pause><lineend>|

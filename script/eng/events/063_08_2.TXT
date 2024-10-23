@@ -1,18 +1,18 @@
 0|
-<CC03EA><color=0004><string=0104><lineend><color=0001>If you happen to<lineend>have a Vulcan Magic Stone to give me...<pause><lineend><CC03EA>...I'll use my<lineend>all-seeing eyes to find something that you'll need in your journey.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If you happen to<lineend>have a Vulcan Magic<pause><lineend><CC03EA>Stone to give me...<pause><lineend><CC03EA>...I'll use my<lineend>all-seeing eyes to<lineend>find something that<pause><lineend><CC03EA>you'll need in your<lineend>journey.<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The next time you<lineend>come here, bring a Vulcan Magic Stone.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The next time you<lineend>come here, bring a<pause><lineend><CC03EA>Vulcan Magic Stone.<pause><lineend>|
 2|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I see you brought<lineend>the Magic Stone.<pause><lineend>|
 3|
 <CC03EA><color=0001>Give Heindel the<lineend>Vulcan Magic Stone?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 4|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Well, do as you<lineend>please. It makes no difference to me.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Well, do as you<lineend>please. It makes no<pause><lineend><CC03EA>difference to me.<pause><lineend>|
 5|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Good. Now let me<lineend>tell you what you will need on your adventure.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Good. Now let me<lineend>tell you what you<pause><lineend><CC03EA>will need on your<lineend>adventure.<pause><lineend>|
 6|
-<CC03EA><color=0004><string=0104><lineend><color=0001>There is yet<lineend>another tower.<pause><lineend><CC03EA><color=0005>Between the Unicorn<lineend>Forest and Lowgrove is a path.<color=0001><pause><lineend><CC03EA>Climb to the top of<lineend>the <color=0003>tower deep in the<lineend>forest,<color=0001> and see what you<lineend>find there.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>There is yet<lineend>another tower.<pause><lineend><CC03EA><color=0005>Between the Unicorn<lineend>Forest and Lowgrove<lineend>is a path.<color=0001><pause><lineend><CC03EA>Climb to the top of<lineend>the <color=0003>tower deep in the<lineend>forest,<color=0001> and see what you<lineend>find there.<pause><lineend>|
 7|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Between the Unicorn<lineend>Forest and Lowgrove is a path that leads to another tower.<color=0001><pause><lineend><CC03EA>At the top of it is<lineend>something that can help you.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between the Unicorn<lineend>Forest and Lowgrove<pause><lineend><CC03EA>is a path that<lineend>leads to another<lineend>tower.<color=0001><pause><lineend><CC03EA>At the top of it is<lineend>something that can<lineend>help you.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Queen of Valendia,<lineend>I am no longer interested in answering any questions.<pause><lineend><CC03EA>I will sleep...<lineend>Please do not<lineend>disturb me.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Queen of Valendia,<lineend>I am no longer<pause><lineend><CC03EA>interested in<lineend>answering any<lineend>questions.<pause><lineend><CC03EA>I will sleep...<lineend>Please do not<lineend>disturb me.<pause><lineend>|

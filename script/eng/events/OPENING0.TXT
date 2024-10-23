@@ -1,28 +1,28 @@
 65536|
-<CC03EA><color=0001>"Once upon a time,<lineend>there was a kingdom called Valendia."<pause><lineend><CC03EA>"The people of the<lineend>kingdom lived in peace, watched over by their wise and powerful Queen."<pause><lineend><CC03EA>"But, one night, a<lineend>horde of Demons suddenly appeared and attacked the castle..."<pause><lineend>|
+<CC03EA><color=0001>"Once upon a time,<lineend>there was a kingdom<lineend>called Valendia."<pause><lineend><CC03EA>"The people of the<lineend>kingdom lived in<lineend>peace, watched over<pause><lineend><CC03EA>by their wise and<lineend>powerful Queen."<pause><lineend><CC03EA>"But, one night, a<lineend>horde of Demons<lineend>suddenly appeared<pause><lineend><CC03EA>and attacked the<lineend>castle..."<pause><lineend>|
 65537|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring out the<lineend>Queen!<pause><lineend><CC03EA>We require her<lineend>royal blood to revive our King.<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Where is she...<pause><lineend><CC03EA>Bring out the<lineend>Queen!<pause><lineend><CC03EA>We require her<lineend>royal blood to<lineend>revive our King.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=007D><color=0001>Wretched Demon!<pause><lineend><CC03EA>As long as a single<lineend>one of us stands, we won't let you take her.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Wretched Demon!<pause><lineend><CC03EA>As long as a single<lineend>one of us stands,<lineend>we won't let you<pause><lineend><CC03EA>take her.<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=007F>Jestonai! The other<lineend>monsters are making their way to this floor!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007F>Jestonai! The other<lineend>monsters are making<lineend>their way to this<pause><lineend><CC03EA>floor!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>I knew disaster was<lineend>near when the light of the stars began to fade...<pause><lineend><CC03EA>...but I never<lineend>imagined that it would come to this.<pause><lineend><CC03EA>That a Demon and<lineend>his horde would barge their way into the Royal Castle itself!<pause><lineend><CC03EA>However, they will<lineend>advance no further. I shall now vanquish them with my magic!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>I knew disaster was<lineend>near when the light<pause><lineend><CC03EA>of the stars began<lineend>to fade...<pause><lineend><CC03EA>...but I never<lineend>imagined that it<lineend>would come to this.<pause><lineend><CC03EA>That a Demon and<lineend>his horde would<lineend>barge their way<pause><lineend><CC03EA>into the Royal<lineend>Castle itself!<pause><lineend><CC03EA>However, they will<lineend>advance no further.<lineend>I shall now<pause><lineend><CC03EA>vanquish them with<lineend>my magic!<pause><lineend>|
 65541|
 <CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Was that the best<lineend>you could do?<pause><lineend>|
 65542|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=001>Not a single one of<lineend>you will survive. In the name of the Demon King, I will kill you all!<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=001>Not a single one of<lineend>you will survive.<pause><lineend><CC03EA>In the name of the<lineend>Demon King, I will<lineend>kill you all!<pause><lineend>|
 65543|
-<CC03EA><CC03FC=0004><string=007D><color=0001>All of you get<lineend>back! I will fight him alone!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>All of you get<lineend>back! I will fight<lineend>him alone!<pause><lineend>|
 65544|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Here I am, Demon!<pause><lineend>|
 65545|
 <CC03EA><CC03FC=0004><string=007F>Your Majesty!!<pause><lineend>|
 65546|
-<CC03EA> <color=0004><string=00FF><lineend><color=0001>Look at all these<lineend>wounded soldiers...You won't get away with this!<pause><lineend><CC03EA>Prepare to taste my<lineend>sword, Demon!<pause><lineend>|
+<CC03EA> <color=0004><string=00FF><lineend><color=0001>Look at all these<lineend>wounded<pause><lineend><CC03EA>soldiers...You<lineend>won't get away with<lineend>this!<pause><lineend><CC03EA>Prepare to taste my<lineend>sword, Demon!<pause><lineend>|
 65547|
-<CC03EA><CC03FC=0004><string=007D>Men! The time to<lineend>prove our bravery is now!<pause><lineend><CC03EA>Be the Queen's<lineend>shield! Go!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Men! The time to<lineend>prove our bravery<lineend>is now!<pause><lineend><CC03EA>Be the Queen's<lineend>shield! Go!<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>Your Highness, I'm<lineend>putting all of my magic power into your sword!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Your Highness, I'm<lineend>putting all of my<pause><lineend><CC03EA>magic power into<lineend>your sword!<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>We will never allow<lineend>your plan to revive the Demon King to succeed.<pause><lineend><CC03EA>No matter how many<lineend>generations pass, the sword of my family will never falter...<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>We will never allow<lineend>your plan to revive<pause><lineend><CC03EA>the Demon King to<lineend>succeed.<pause><lineend><CC03EA>No matter how many<lineend>generations pass,<lineend>the sword of my<pause><lineend><CC03EA>family will never<lineend>falter...<pause><lineend>|

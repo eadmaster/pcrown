@@ -1,13 +1,13 @@
 0|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I remember the<lineend>times I had when I was younger.<pause><lineend><CC03EA>I used to sneak out<lineend>of bed at night and go dance with the fairies in the forest.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I remember the<lineend>times I had when I<pause><lineend><CC03EA>was younger.<pause><lineend><CC03EA>I used to sneak out<lineend>of bed at night and<lineend>go dance with the<pause><lineend><CC03EA>fairies in the<lineend>forest.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>My son's probably<lineend>off playing with Tabitha, the baker's daughter.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>My son's probably<lineend>off playing with<pause><lineend><CC03EA>Tabitha, the<lineend>baker's daughter.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Tabitha and Nilus<lineend>are the best of friends.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Tabitha and Nilus<lineend>are the best of<pause><lineend><CC03EA>friends.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0012><lineend><color=0001>Spend enough time<lineend>in this village, and you might get to meet the fairies, too!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Spend enough time<lineend>in this village,<pause><lineend><CC03EA>and you might get<lineend>to meet the<lineend>fairies, too!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The children here<lineend>are friends with the fairies in the forest.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The children here<lineend>are friends with<pause><lineend><CC03EA>the fairies in the<lineend>forest.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=00CC><lineend><color=0001>Quack! Quack!<pause><lineend>|
 6|
@@ -19,41 +19,41 @@
 9|
 <CC03EA><color=0006><string=018B><lineend><color=0001>Cheep!!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh, hello. Are you<lineend>Tabitha's friend?<pause><lineend><CC03EA>If you're looking<lineend>for her, she just went off to play.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Oh, hello. Are you<lineend>Tabitha's friend?<pause><lineend><CC03EA>If you're looking<lineend>for her, she just<lineend>went off to play.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Did you meet up<lineend>with Tabitha?<pause><lineend>|
 12|
 <CC03EA><color=0006><string=00E8><lineend><color=0001>We're good friends<lineend>with the fairies.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 14|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 15|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
 19|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those,<lineend>I'm afraid.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 21|
 <CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 22|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford it. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it. Come back<lineend>anytime.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then.<lineend>Enjoy your stay.<pause><lineend>|
 24|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 26|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 27|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 28|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 29|
@@ -63,21 +63,21 @@
 31|
 <CC03F0=000200100000000303FF00000000>|
 32|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Don't you ever wish<lineend>you could fly like the fairies do?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Don't you ever wish<lineend>you could fly like<pause><lineend><CC03EA>the fairies do?<pause><lineend>|
 33|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Who are you?<pause><lineend>|
 34|
-<CC03EA><color=0002><string=0002><lineend><color=0001>My name is<lineend>Proserpina, and I know all the secrets behind the fairies' magic!<pause><lineend><CC03EA>('Cause I'm a<lineend>witch, that is.)<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>My name is<lineend>Proserpina, and I<pause><lineend><CC03EA>know all the<lineend>secrets behind the<lineend>fairies' magic!<pause><lineend><CC03EA>('Cause I'm a<lineend>witch, that is.)<pause><lineend>|
 35|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>You do?<lineend>That's amazing!<pause><lineend>|
 36|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Once I cast a<lineend>little magic on you, you'll each grow some beautiful wings and fly!<pause><lineend><CC03EA>Doesn't flying<lineend>alongside the fairies sound like fun?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Once I cast a<lineend>little magic on<pause><lineend><CC03EA>you, you'll each<lineend>grow some beautiful<lineend>wings and fly!<pause><lineend><CC03EA>Doesn't flying<lineend>alongside the<lineend>fairies sound like<pause><lineend><CC03EA>fun?<pause><lineend>|
 37|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Yeah! I've always<lineend>wanted to fly!<pause><lineend>|
 38|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Me, too!<pause><lineend>|
 39|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Well then...hee<lineend>hee!<pause><lineend><CC03EA>All you have to do<lineend>is come see me tonight in the forest north of here.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Well then...hee<lineend>hee!<pause><lineend><CC03EA>All you have to do<lineend>is come see me<lineend>tonight in the<pause><lineend><CC03EA>forest north of<lineend>here.<pause><lineend>|
 40|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Why at night?<pause><lineend>|
 41|
@@ -85,7 +85,7 @@
 42|
 <CC03FA=0002000800000000000003FF000A00780000>|
 43|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You see...Erm...<pause><lineend><CC03EA>...The spell that<lineend>makes you grow wings only works when the moon is overhead!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You see...Erm...<pause><lineend><CC03EA>...The spell that<lineend>makes you grow<lineend>wings only works<pause><lineend><CC03EA>when the moon is<lineend>overhead!<pause><lineend>|
 44|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Wow!<pause><lineend>|
 45|
@@ -107,14 +107,14 @@
 65539|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Success!!!<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00D0><lineend><color=0001>I want to go home.<lineend>Change us back, Proserpina!<pause><lineend>|
+<CC03EA><color=0004><string=00D0><lineend><color=0001>I want to go home.<lineend>Change us back,<pause><lineend><CC03EA>Proserpina!<pause><lineend>|
 131073|
-<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>No way!<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Do you know how<lineend>rare it is to have a chance to use a shapeshifting spell on someone?<lineend><CC03ED=00020061000103FF><pause>|
+<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>No way!<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Do you know how<lineend>rare it is to have<lineend>a chance to use a<pause><lineend><CC03EA>shapeshifting spell<lineend>on someone?<lineend><CC03ED=00020061000103FF><pause>|
 131074|
-<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>You two just relax.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Once I get a little<lineend>better at shapeshifting spells, I'll send you back to your village.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>We'll see whether I<lineend>decide to change you back first, though!<lineend><CC03ED=00020061000103FF><pause>|
+<CC03ED=00020062000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>You two just relax.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>Once I get a little<lineend>better at<lineend>shapeshifting<pause><lineend><CC03EA>spells, I'll send<lineend>you back to your<lineend>village.<lineend><CC03ED=00020061000103FF><pause><CC03EA><CC03ED=00020062000103FF>We'll see whether I<lineend>decide to change<lineend>you back first,<pause><lineend><CC03EA>though!<lineend><CC03ED=00020061000103FF><pause>|
 131075|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You know, I could<lineend>use something to drink.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You know, I could<lineend>use something to<pause><lineend><CC03EA>drink.<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=0184><lineend><color=0001>I'm feeling pretty<lineend>dry, too, Proserpina.<pause><lineend><CC03EA>I feel like having<lineend>some fresh Goblin Juice from the Goblin Market!<pause><lineend><CC03EA>Their stuff is the<lineend>best!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>I'm feeling pretty<lineend>dry, too,<pause><lineend><CC03EA>Proserpina.<pause><lineend><CC03EA>I feel like having<lineend>some fresh Goblin<lineend>Juice from the<pause><lineend><CC03EA>Goblin Market!<pause><lineend><CC03EA>Their stuff is the<lineend>best!<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Sounds good. I'll<lineend>give it a shot. You're buying, though.<pause><lineend><CC03EA><color=0002>The Goblin Market,<color=0001> right?<lineend>Let's go!<pause><lineend><CC03EA>You two, don't make<lineend>any noise until we get back!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Sounds good. I'll<lineend>give it a shot.<pause><lineend><CC03EA>You're buying,<lineend>though.<pause><lineend><CC03EA><color=0002>The Goblin Market,<color=0001> right?<lineend>Let's go!<pause><lineend><CC03EA>You two, don't make<lineend>any noise until we<lineend>get back!<pause><lineend>|

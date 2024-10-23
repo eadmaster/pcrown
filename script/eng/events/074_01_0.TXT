@@ -1,12 +1,12 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<lineend>It looks like we made it to Volga in one piece.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<lineend>It looks like we<pause><lineend><CC03EA>made it to Volga in<lineend>one piece.<lineend><pause>|
 1|
-<CC03EA><color=0004><string=0178><lineend><color=0001>No problem. By the<lineend>way, what exactly are we doing in this place?<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>No problem. By the<lineend>way, what exactly<pause><lineend><CC03EA>are we doing in<lineend>this place?<pause><lineend>|
 2|
-<CC03EA><color=0002><string=0000><lineend><color=0001>My Grandfather is<lineend>the King of Volga, and I'm here to see him.<pause><lineend><CC03EA>It's to let him<lineend>know that someone is after his crown.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>My Grandfather is<lineend>the King of Volga,<pause><lineend><CC03EA>and I'm here to see<lineend>him.<pause><lineend><CC03EA>It's to let him<lineend>know that someone<lineend>is after his crown.<pause><lineend>|
 3|
-<CC03EA><color=0004><string=0178><lineend><color=0001>No kidding. Well,<lineend>we'll wait here in town. Say hi to your Grandpa for me.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>No kidding. Well,<lineend>we'll wait here in<pause><lineend><CC03EA>town. Say hi to<lineend>your Grandpa for<lineend>me.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0178><lineend><color=0001>If you're tired,<lineend>you can rest at the inn. That's where the men and I will stay.<pause><lineend><CC03EA>In fact, we're<lineend>renting the whole place, so you might as well sleep there, too.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>If you're tired,<lineend>you can rest at the<pause><lineend><CC03EA>inn. That's where<lineend>the men and I will<lineend>stay.<pause><lineend><CC03EA>In fact, we're<lineend>renting the whole<lineend>place, so you might<pause><lineend><CC03EA>as well sleep<lineend>there, too.<pause><lineend>|
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<pause><lineend>|

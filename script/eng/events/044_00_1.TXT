@@ -1,7 +1,7 @@
 0|
-<CC03ED=0011000B000103FF><CC03ED=0011000C000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>Ready, son? The<lineend>next stop for us is Lake Titania!<lineend><CC03ED=0011000B000103FF><pause><CC03EA><CC03ED=0011000C000103FF>There's a huge<lineend>bounty for whoever catches the monster living there!<lineend><CC03ED=0011000B000103FF><pause>|
+<CC03ED=0011000B000103FF><CC03ED=0011000C000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>Ready, son? The<lineend>next stop for us is<pause><lineend><CC03EA>Lake Titania!<lineend><CC03ED=0011000B000103FF><pause><CC03EA><CC03ED=0011000C000103FF>There's a huge<lineend>bounty for whoever<lineend>catches the monster<pause><lineend><CC03EA>living there!<lineend><CC03ED=0011000B000103FF><pause>|
 1|
-<CC03EA><color=0006><string=0005><lineend><color=0001>If we pull this<lineend>off, we'll be rich! Right, Dad?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>If we pull this<lineend>off, we'll be rich!<pause><lineend><CC03EA>Right, Dad?<pause><lineend>|
 2|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Um, excuse me...<lineend><CC03ED=0011000D000103FF><pause>|
 3|
@@ -9,9 +9,9 @@
 4|
 <CC03EA><color=0006><string=0011><lineend><color=0001>What is it, Miss?<pause><lineend>|
 5|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Could you tell me<lineend>where exactly you heard there was a bounty?<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Could you tell me<lineend>where exactly you<pause><lineend><CC03EA>heard there was a<lineend>bounty?<lineend><pause>|
 6|
-<CC03EA><color=0006><string=0011><lineend><color=0001>You mean on the<lineend>Lake Titania monster?<pause><lineend><CC03EA>It was a lanky guy<lineend>in the alley. Him and his fat partner.<pause><lineend><CC03EA>They were between<lineend>the Merchants' Area and the Warriors' Area.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>You mean on the<lineend>Lake Titania<pause><lineend><CC03EA>monster?<pause><lineend><CC03EA>It was a lanky guy<lineend>in the alley. Him<lineend>and his fat<pause><lineend><CC03EA>partner.<pause><lineend><CC03EA>They were between<lineend>the Merchants' Area<lineend>and the Warriors'<pause><lineend><CC03EA>Area.<pause><lineend>|
 7|
 <CC03EA><color=0002><string=0000><lineend><color=0001>One lanky, one<lineend>fat...<pause><lineend><CC03EA>I see.<lineend>Thank you very<lineend>much!<pause><lineend>|
 8|
@@ -29,7 +29,7 @@
 14|
 <CC03FA=0011000800010000000003FF000A005A0000><CC03FA=0005000800010000000003FF000C005A0000><CC03FB=005A>|
 15|
-<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>You're joking!? You<lineend>mean somebody already caught it!?<lineend><CC03ED=00110008000103FF><pause><CC03EA><CC03ED=00110009000103FF>But I promised to<lineend>take the family on a tour to eat every Local Delicacy in the kingdom!<lineend><CC03ED=00110008000103FF><pause>|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>You're joking!? You<lineend>mean somebody<pause><lineend><CC03EA>already caught it!?<lineend><CC03ED=00110008000103FF><pause><CC03EA><CC03ED=00110009000103FF>But I promised to<lineend>take the family on<lineend>a tour to eat every<pause><lineend><CC03EA>Local Delicacy in<lineend>the kingdom!<lineend><CC03ED=00110008000103FF><pause>|
 16|
 <CC03EA><color=0006><string=0005><lineend><color=0001>I guess you blew<lineend>it, huh Dad?<pause><lineend>|
 17|
@@ -37,9 +37,9 @@
 18|
 <CC03F0=001100050000001E03FF000003FF><CC03F0=000500160000001E03FF00000000>|
 19|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Can you believe<lineend>that guy?<pause><lineend><CC03EA>He really bought<lineend>everything they told him. What a rube!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Can you believe<lineend>that guy?<pause><lineend><CC03EA>He really bought<lineend>everything they<lineend>told him. What a<pause><lineend><CC03EA>rube!<pause><lineend>|
 20|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I guess that's one<lineend>way you could put it.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I guess that's one<lineend>way you could put<pause><lineend><CC03EA>it.<pause><lineend>|
 21|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 22|

@@ -9,28 +9,28 @@
 65540|
 <CC03EA><color=0004><string=017D><lineend><color=0001>The tower! It's<lineend>shaking!<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0001><lineend><color=0001>We've rescued<lineend>Princess Sidrael. It's time to get out of here!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>We've rescued<lineend>Princess Sidrael.<pause><lineend><CC03EA>It's time to get<lineend>out of here!<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=017D><lineend><color=0001>Right. We need to<lineend>get Sidrael to a safe place quickly.<pause><lineend>|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Right. We need to<lineend>get Sidrael to a<pause><lineend><CC03EA>safe place quickly.<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0121><lineend><color=0001>I won't let you<lineend>leave the Demon Realm!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>I won't let you<lineend>leave the Demon<pause><lineend><CC03EA>Realm!<pause><lineend>|
 131073|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Skulg...<lineend><CC03ED=00010003000103FF><pause>|
 131074|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Gradriel, get<lineend>Princess Sidrael back to the ship. Hurry!<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Gradriel, get<lineend>Princess Sidrael<pause><lineend><CC03EA>back to the ship.<lineend>Hurry!<lineend><CC03ED=00010003000103FF><pause>|
 131075|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward!<pause><lineend>|
 131076|
-<CC03EA><color=0003><string=0001><lineend><color=0001>This is my fight.<lineend>Nobody, not even you, is going to get in my way.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>This is my fight.<lineend>Nobody, not even<pause><lineend><CC03EA>you, is going to<lineend>get in my way.<pause><lineend>|
 131077|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Good luck,<lineend>Edward...<pause><lineend>|
 131078|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>You're the one who<lineend>isn't going anywhere.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I hope you're ready<lineend>to see what it means to be the son of Golgotha!<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>You're the one who<lineend>isn't going<pause><lineend><CC03EA>anywhere.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I hope you're ready<lineend>to see what it<lineend>means to be the son<pause><lineend><CC03EA>of Golgotha!<lineend><CC03ED=00010003000103FF><pause>|
 131079|
-<CC03EA><color=0005><string=0121><lineend><color=0001>If following in<lineend>your Father's footsteps is what you want, then allow me to oblige!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>If following in<lineend>your Father's<pause><lineend><CC03EA>footsteps is what<lineend>you want, then<lineend>allow me to oblige!<pause><lineend>|
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Father...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>You were a true<lineend>Knight after all.<lineend><CC03ED=00010007000103FF><pause>|
 196609|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>I may not be as<lineend>strong as you were...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>But when the day<lineend>comes that I am...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>...I'll do as you<lineend>did and join the Knight Guard.<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>I may not be as<lineend>strong as you<pause><lineend><CC03EA>were...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>But when the day<lineend>comes that I am...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>...I'll do as you<lineend>did and join the<lineend>Knight Guard.<lineend><CC03ED=00010007000103FF><pause>|
 196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Come on, Ignis.<lineend>Let's go.<pause><lineend>|

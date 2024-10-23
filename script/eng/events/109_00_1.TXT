@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time<lineend>for detours.<pause><lineend><CC03EA>We need to go see<lineend>what's happening at Valendine Castle, and quick!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time<lineend>for detours.<pause><lineend><CC03EA>We need to go see<lineend>what's happening at<lineend>Valendine Castle,<pause><lineend><CC03EA>and quick!<pause><lineend>|
 1|
 <CC03F0=0001000D0001001403FF00000000>|
 2|
@@ -11,9 +11,9 @@
 5|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Why does the town<lineend>looks like this?<lineend><pause>|
 6|
-<CC03EA><CC03FC=0004><string=01D8><color=0001>The Demons...<lineend>The Demons attacked<lineend>us!<lineend><pause><CC03EA>They found the<lineend>place where I was hiding, and they wounded me.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>The Demons...<lineend>The Demons attacked<lineend>us!<lineend><pause><CC03EA>They found the<lineend>place where I was<lineend>hiding, and they<pause><lineend><CC03EA>wounded me.<lineend><pause>|
 7|
-<CC03EA><CC03FC=0004><string=01D8><color=0001>Oh!<lineend><pause><CC03EA>You brought some<lineend>Dragon Soup! May I have it?<lineend><pause><CC03EA>If I drink that,<lineend>I'll heal up in an instant!<lineend><pause>|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>Oh!<lineend><pause><CC03EA>You brought some<lineend>Dragon Soup! May I<lineend>have it?<lineend><pause><CC03EA>If I drink that,<lineend>I'll heal up in an<lineend>instant!<lineend><pause>|
 8|
 <CC03EA><choose>Give it to him<lineend>Don't give it to<lineend>him<lineend><endchoose>|
 9|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0002>Got the Unit Drop!<lineend><pause>|
 12|
-<CC03EA><CC03FC=0004><string=01D8><color=0001>There may still be<lineend>some of them around here. Be careful!<lineend><pause>|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>There may still be<lineend>some of them around<lineend>here. Be careful!<lineend><pause>|
 13|
 <CC03EA><CC03FC=0004><string=01D8><color=0001>...I can't go any<lineend>further like I am.<lineend><pause>|
 14|
@@ -37,7 +37,7 @@
 65536|
 <CC03EA><color=0006><string=002D><lineend><color=0001>Somebody! Somebody,<lineend>help me!<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=012E><lineend><color=0001>You worthless<lineend>humans will all give your lives for our King!<pause><lineend>|
+<CC03EA><color=0005><string=012E><lineend><color=0001>You worthless<lineend>humans will all<pause><lineend><CC03EA>give your lives for<lineend>our King!<pause><lineend>|
 65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>A Demon!<pause><lineend>|
 65539|

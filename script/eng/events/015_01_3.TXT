@@ -1,29 +1,29 @@
 0|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>I heard the Demon<lineend>Horde tried to invade again.<pause><lineend><CC03EA>Do you think<lineend>Valendine Castle was all right?<pause><lineend>|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>I heard the Demon<lineend>Horde tried to<lineend>invade again.<pause><lineend><CC03EA>Do you think<lineend>Valendine Castle<lineend>was all right?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon<lineend>that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard<lineend>that fairy-tale, too...<pause><lineend><CC03EA>How did it go<lineend>again?<pause><lineend>|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon<lineend>that swallowed a<pause><lineend><CC03EA>music score?<pause><lineend><CC03EA>Hold it, I've heard<lineend>that fairy-tale,<lineend>too...<pause><lineend><CC03EA>How did it go<lineend>again?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=004F><lineend><color=0001>Did you hear?<pause><lineend><CC03EA>Rumor has it<lineend>Golgotha actually came to help Queen Gradriel.<pause><lineend><CC03EA>You mean to tell me<lineend>he wasn't actually some kind of Demon himself?<pause><lineend>|
+<CC03EA><color=0006><string=004F><lineend><color=0001>Did you hear?<pause><lineend><CC03EA>Rumor has it<lineend>Golgotha actually<lineend>came to help Queen<pause><lineend><CC03EA>Gradriel.<pause><lineend><CC03EA>You mean to tell me<lineend>he wasn't actually<lineend>some kind of Demon<pause><lineend><CC03EA>himself?<pause><lineend>|
 3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Take it easy!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>If you're going to<lineend>be fighting Dragons, you better get your strength up first!<pause><lineend><CC03EA>Now, what'll it be?<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>If you're going to<lineend>be fighting<pause><lineend><CC03EA>Dragons, you better<lineend>get your strength<lineend>up first!<pause><lineend><CC03EA>Now, what'll it be?<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=01AA><color=0001>Our Local Delicacy<lineend>is oven-made Grilled Steak.<pause><lineend><CC03EA>The outside has a<lineend>well-done savoriness, but the inside is nice and juicy.<pause><lineend><CC03EA>The garlic gives it<lineend>a nice touch, too.<pause><lineend><CC03EA>A couple bites of<lineend>it, and those Dragons won't be scary at all!<pause><lineend><CC03EA>It costs 52G.<lineend>Want one?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AA><color=0001>Our Local Delicacy<lineend>is oven-made<lineend>Grilled Steak.<pause><lineend><CC03EA>The outside has a<lineend>well-done<lineend>savoriness, but the<pause><lineend><CC03EA>inside is nice and<lineend>juicy.<pause><lineend><CC03EA>The garlic gives it<lineend>a nice touch, too.<pause><lineend><CC03EA>A couple bites of<lineend>it, and those<lineend>Dragons won't be<pause><lineend><CC03EA>scary at all!<pause><lineend><CC03EA>It costs 52G.<lineend>Want one?<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You<lineend>don't have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You<lineend>don't have enough<pause><lineend><CC03EA>money.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more, can you? Come see me when you can.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more, can you? Come<pause><lineend><CC03EA>see me when you<lineend>can.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up<lineend>something good! Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up<lineend>something good!<pause><lineend><CC03EA>Please select a<lineend>Food to use.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't<lineend>grill that.<pause><lineend>|
 14|
@@ -31,22 +31,22 @@
 15|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 16|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You<lineend>don't have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You<lineend>don't have enough<pause><lineend><CC03EA>money.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 18|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 19|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite<lineend>have enough money. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
 20|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 24|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

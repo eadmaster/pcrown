@@ -1,2 +1,2 @@
 65536|
-<CC03EA><CC03FC=0004><string=017A><color=0001><CC03EA>The Demon King is<lineend>waiting, Princess Sidrael. Ha ha ha ha!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=017A><color=0001><CC03EA>The Demon King is<lineend>waiting, Princess<lineend>Sidrael. Ha ha ha<pause><lineend><CC03EA>ha!!<pause><lineend>|

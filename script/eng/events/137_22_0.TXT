@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome<lineend>to the Goblin Shop!<pause><lineend><CC03EA>For 92G, you can<lineend>have a pot of my Beef Soup!<pause><lineend><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome<lineend>to the Goblin Shop!<pause><lineend><CC03EA>For 92G, you can<lineend>have a pot of my<lineend>Beef Soup!<pause><lineend><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=012B><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
 2|

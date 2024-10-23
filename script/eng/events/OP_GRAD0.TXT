@@ -1,25 +1,25 @@
 65536|
-<CC03EA><CC03FC=0004><string=006F><color=0001>Princess Gradriel,<lineend>if you would please come forward.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=006F><color=0001>Princess Gradriel,<lineend>if you would please<lineend>come forward.<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>The blood of<lineend>Valendia's Royal Family goes back many generations, yet it is forever new.<pause><lineend><CC03EA>Gradriel D.<lineend>Valendia, rightful bearer of your family's crown...<pause><lineend><CC03EA>...I shall bestow<lineend>your Queenship upon you now.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The blood of<lineend>Valendia's Royal<pause><lineend><CC03EA>Family goes back<lineend>many generations,<lineend>yet it is forever<pause><lineend><CC03EA>new.<pause><lineend><CC03EA>Gradriel D.<lineend>Valendia, rightful<lineend>bearer of your<pause><lineend><CC03EA>family's crown...<pause><lineend><CC03EA>...I shall bestow<lineend>your Queenship upon<lineend>you now.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=00FD><color=0001>May you become a<lineend>beacon of righteous light to the people of Valendia...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00FD><color=0001>May you become a<lineend>beacon of righteous<lineend>light to the people<pause><lineend><CC03EA>of Valendia...<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>With this crown, I<lineend>hereby promise to continue our kingdom's long and prosperous peace.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>With this crown, I<lineend>hereby promise to<pause><lineend><CC03EA>continue our<lineend>kingdom's long and<lineend>prosperous peace.<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Those who will have<lineend>audience with the Queen may now come forward.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Those who will have<lineend>audience with the<pause><lineend><CC03EA>Queen may now come<lineend>forward.<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=006F><color=0001>Your Highness, I<lineend>bring news from the port town Leeland.<pause><lineend><CC03EA>A pirate called<lineend>Portgus has attacked many ships and left the town in a most dire situation.<pause><lineend><CC03EA>Our authorities<lineend>would seek to capture this pirate, but only if your Highness approves.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=006F><color=0001>Your Highness, I<lineend>bring news from the<lineend>port town Leeland.<pause><lineend><CC03EA>A pirate called<lineend>Portgus has<lineend>attacked many ships<pause><lineend><CC03EA>and left the town<lineend>in a most dire<lineend>situation.<pause><lineend><CC03EA>Our authorities<lineend>would seek to<lineend>capture this<pause><lineend><CC03EA>pirate, but only if<lineend>your Highness<lineend>approves.<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full<lineend>permission to settle this matter as requested.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full<lineend>permission to<lineend>settle this matter<pause><lineend><CC03EA>as requested.<pause><lineend>|
 131075|
-<CC03EA><CC03FC=0004><string=006F><color=0001>I will return your<lineend>messenge to Leeland at once!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=006F><color=0001>I will return your<lineend>messenge to Leeland<lineend>at once!<pause><lineend>|
 131076|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>では、次の者。<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=0073><color=0001>Your Majesty, we<lineend>are having a crisis in the village of Nutsbill.<pause><lineend><CC03EA>Two of our children<lineend>have disappeared...<pause><lineend><CC03EA>It looks like the<lineend>fairies took them captive in the forest as part of some terrible prank.<pause><lineend><CC03EA>We humbly request<lineend>that your Majesty send soldiers to search the forest for them.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0073><color=0001>Your Majesty, we<lineend>are having a crisis<lineend>in the village of<pause><lineend><CC03EA>Nutsbill.<pause><lineend><CC03EA>Two of our children<lineend>have disappeared...<pause><lineend><CC03EA>It looks like the<lineend>fairies took them<lineend>captive in the<pause><lineend><CC03EA>forest as part of<lineend>some terrible<lineend>prank.<pause><lineend><CC03EA>We humbly request<lineend>that your Majesty<lineend>send soldiers to<pause><lineend><CC03EA>search the forest<lineend>for them.<pause><lineend>|
 131078|
-<CC03EA><color=0002><string=0000><lineend><color=0001>It's not like the<lineend>fairies to play pranks...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It's not like the<lineend>fairies to play<pause><lineend><CC03EA>pranks...<pause><lineend>|
 131079|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>女王、返答を・・・<pause><lineend>|
 131080|
@@ -29,28 +29,28 @@
 131082|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>The last person may<lineend>now step forward.<pause><lineend>|
 131083|
-<CC03EA><CC03FC=0004><string=0014><color=0001>My Queen, it is an<lineend>honor to meet you for the first time on such an auspicious day as this.<pause><lineend><CC03EA>I am the mayor of<lineend>the village of Dorangora to the west.<pause><lineend><CC03EA>Dragons are coming<lineend>down from the mountains to attack us in ever greater numbers.<pause><lineend><CC03EA>Our warriors are no<lineend>longer able to fend them off.<pause><lineend><CC03EA>I beg of you, your<lineend>Majesty. Save our village from those terrible Dragons!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0014><color=0001>My Queen, it is an<lineend>honor to meet you<lineend>for the first time<pause><lineend><CC03EA>on such an<lineend>auspicious day as<lineend>this.<pause><lineend><CC03EA>I am the mayor of<lineend>the village of<lineend>Dorangora to the<pause><lineend><CC03EA>west.<pause><lineend><CC03EA>Dragons are coming<lineend>down from the<lineend>mountains to attack<pause><lineend><CC03EA>us in ever greater<lineend>numbers.<pause><lineend><CC03EA>Our warriors are no<lineend>longer able to fend<lineend>them off.<pause><lineend><CC03EA>I beg of you, your<lineend>Majesty. Save our<lineend>village from those<pause><lineend><CC03EA>terrible Dragons!<pause><lineend>|
 131084|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Dragons...<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>I believe it would<lineend>be best to dispatch the Knight Guard to deal with them.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>I believe it would<lineend>be best to dispatch<lineend>the Knight Guard to<pause><lineend><CC03EA>deal with them.<pause><lineend>|
 131086|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full<lineend>permission to settle this matter as requested.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full<lineend>permission to<lineend>settle this matter<pause><lineend><CC03EA>as requested.<pause><lineend>|
 131087|
-<CC03EA><CC03FC=0004><string=0014><color=0001>I am grateful for<lineend>your help, your Majesty.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0014><color=0001>I am grateful for<lineend>your help, your<lineend>Majesty.<pause><lineend>|
 131088|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>That appears to be<lineend>all for today, Queen Gradriel.<pause><lineend><CC03EA>Now it is time to<lineend>begin your swordplay lessons.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That appears to be<lineend>all for today,<pause><lineend><CC03EA>Queen Gradriel.<pause><lineend><CC03EA>Now it is time to<lineend>begin your<lineend>swordplay lessons.<pause><lineend>|
 131089|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...<pause><lineend><CC03EA>Perhaps I could go<lineend>along to save Dorangora from those Dragons?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...<pause><lineend><CC03EA>Perhaps I could go<lineend>along to save<lineend>Dorangora from<pause><lineend><CC03EA>those Dragons?<pause><lineend>|
 131090|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Q, Queen Gradriel!<lineend>I can hardly believe my ears.<pause><lineend><CC03EA>We couldn't<lineend>possibly allow you to go to such a dangerous place!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Q, Queen Gradriel!<lineend>I can hardly<pause><lineend><CC03EA>believe my ears.<pause><lineend><CC03EA>We couldn't<lineend>possibly allow you<lineend>to go to such a<pause><lineend><CC03EA>dangerous place!<pause><lineend>|
 131091|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I've been thinking<lineend>about my Mother.<pause><lineend><CC03EA>When she was Queen,<lineend>she would leave the castle, and take her sword with her, too.<pause><lineend><CC03EA>"You cannot judge<lineend>correctly what you have not seen with your own eyes."<pause><lineend><CC03EA>Isn't that<lineend>something she used to say?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I've been thinking<lineend>about my Mother.<pause><lineend><CC03EA>When she was Queen,<lineend>she would leave the<lineend>castle, and take<pause><lineend><CC03EA>her sword with her,<lineend>too.<pause><lineend><CC03EA>"You cannot judge<lineend>correctly what you<lineend>have not seen with<pause><lineend><CC03EA>your own eyes."<pause><lineend><CC03EA>Isn't that<lineend>something she used<lineend>to say?<pause><lineend>|
 131092|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>But for you to go<lineend>to Dorangora simply won't do.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>But for you to go<lineend>to Dorangora simply<pause><lineend><CC03EA>won't do.<pause><lineend>|
 131093|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I want to be a<lineend>brave Queen just like my Mother.<pause><lineend><CC03EA>I need to see<lineend>Valendia for myself if I'm going to lead its people correctly.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I want to be a<lineend>brave Queen just<pause><lineend><CC03EA>like my Mother.<pause><lineend><CC03EA>I need to see<lineend>Valendia for myself<lineend>if I'm going to<pause><lineend><CC03EA>lead its people<lineend>correctly.<pause><lineend>|
 131094|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how<lineend>you feel, but the time for that will come later.<pause><lineend><CC03EA>You're still so<lineend>young, Gradriel.<pause><lineend><CC03EA>If you want to be a<lineend>good Queen, you have things to learn here at the castle first.<pause><lineend><CC03EA>Come, let's proceed<lineend>to the courtyard. Kwein, the Knight Guard Captain, is waiting for you there.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how<lineend>you feel, but the<pause><lineend><CC03EA>time for that will<lineend>come later.<pause><lineend><CC03EA>You're still so<lineend>young, Gradriel.<pause><lineend><CC03EA>If you want to be a<lineend>good Queen, you<lineend>have things to<pause><lineend><CC03EA>learn here at the<lineend>castle first.<pause><lineend><CC03EA>Come, let's proceed<lineend>to the courtyard.<lineend>Kwein, the Knight<pause><lineend><CC03EA>Guard Captain, is<lineend>waiting for you<lineend>there.<pause><lineend>|
 131095|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...All right...<pause><lineend>|

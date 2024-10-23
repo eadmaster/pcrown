@@ -1,29 +1,29 @@
 0|
-<CC03EA><color=0006><string=0045><lineend><color=0001>I hear pirates are<lineend>stirring things up over in Leeland.<pause><lineend>|
+<CC03EA><color=0006><string=0045><lineend><color=0001>I hear pirates are<lineend>stirring things up<pause><lineend><CC03EA>over in Leeland.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0046><lineend><color=0001>You must be new<lineend>here.<pause><lineend><CC03EA>Well, if you came<lineend>here to be a Knight, you're more than welcome.<pause><lineend>|
+<CC03EA><color=0006><string=0046><lineend><color=0001>You must be new<lineend>here.<pause><lineend><CC03EA>Well, if you came<lineend>here to be a<lineend>Knight, you're more<pause><lineend><CC03EA>than welcome.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0047><lineend><color=0001>A Knight must<lineend>always be brave and alert!<pause><lineend><CC03EA>I work toward these<lineend>things every day of my life.<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>A Knight must<lineend>always be brave and<pause><lineend><CC03EA>alert!<pause><lineend><CC03EA>I work toward these<lineend>things every day of<lineend>my life.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to<lineend>come to Cadho Badho and not try something at The Silver Sword!<pause><lineend><CC03EA>Now, what can I get<lineend>you?<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to<lineend>come to Cadho Badho<pause><lineend><CC03EA>and not try<lineend>something at The<lineend>Silver Sword!<pause><lineend><CC03EA>Now, what can I get<lineend>you?<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us<lineend>anytime!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword<lineend>Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg<lineend>until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy<lineend>homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G.<lineend>Would you be interested?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword<lineend>Special is Toast To<lineend>Go made with fresh<pause><lineend><CC03EA>Dodo Eggs.<pause><lineend><CC03EA>We cook the egg<lineend>until it's easy to<lineend>eat. The cornbread<pause><lineend><CC03EA>we use is light and<lineend>crispy, too.<pause><lineend><CC03EA>Then there's creamy<lineend>homemade butter in<lineend>between. It's<pause><lineend><CC03EA>exquisite!<pause><lineend><CC03EA>One costs 40G.<lineend>Would you be<lineend>interested?<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have<lineend>enough.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't<lineend>fit! Can you empty something out of your bag?<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't<lineend>fit! Can you empty<pause><lineend><CC03EA>something out of<lineend>your bag?<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very<lineend>much!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill<lineend>something for you then. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill<lineend>something for you<pause><lineend><CC03EA>then. Please select<lineend>a Food to use.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we<lineend>can't cook that.<pause><lineend>|
 14|
@@ -33,20 +33,20 @@
 16|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have<lineend>enough.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from<pause><lineend><CC03EA>your travels here<lineend>at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 18|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 19|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
 20|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 24|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

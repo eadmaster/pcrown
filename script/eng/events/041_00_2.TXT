@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the<pause><lineend><CC03EA>continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard,<lineend>and Merchant areas.<pause><lineend><CC03EA><pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is,<lineend>but we do have a<pause><lineend><CC03EA>problem with people<lineend>getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm<lineend>a little lost<pause><lineend><CC03EA>myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way back home...<CC03F1=0011><pause>|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way<pause><lineend><CC03EA>back home...<CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>I heard those<lineend>suspicious men prowling around the alleyways were captured.<pause><lineend><CC03EA>Everyone in town<lineend>knows the monsters were a hoax they cooked up to catch the mermaid themselves.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>I heard those<lineend>suspicious men<pause><lineend><CC03EA>prowling around the<lineend>alleyways were<lineend>captured.<pause><lineend><CC03EA>Everyone in town<lineend>knows the monsters<lineend>were a hoax they<pause><lineend><CC03EA>cooked up to catch<lineend>the mermaid<lineend>themselves.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called the Silver Sword.<pause><lineend><CC03EA>If you want to know<lineend>what they're up to, you should go there yourself.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always<lineend>eat at a pub called<pause><lineend><CC03EA>the Silver Sword.<pause><lineend><CC03EA>If you want to know<lineend>what they're up to,<lineend>you should go there<pause><lineend><CC03EA>yourself.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in<pause><lineend><CC03EA>the Merchants'<lineend>Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find<lineend>something really<pause><lineend><CC03EA>worth your while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have been rivals for ages.<pause><lineend><CC03EA>This time, they<lineend>were racing to be the first to solve the problem at Lake Titania.<pause><lineend><CC03EA>Meanwhile, a young<lineend>woman captured the real criminals in an alleyway.<pause><lineend><CC03EA>They'll probably<lineend>call that a draw!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and<lineend>the Wizards have<pause><lineend><CC03EA>been rivals for<lineend>ages.<pause><lineend><CC03EA>This time, they<lineend>were racing to be<lineend>the first to solve<pause><lineend><CC03EA>the problem at Lake<lineend>Titania.<pause><lineend><CC03EA>Meanwhile, a young<lineend>woman captured the<lineend>real criminals in<pause><lineend><CC03EA>an alleyway.<pause><lineend><CC03EA>They'll probably<lineend>call that a draw!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of<pause><lineend><CC03EA>the city...Or at<lineend>least they should<lineend>be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights<lineend>with the Wizards<pause><lineend><CC03EA>and give everyone a<lineend>headache!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>Our leader is a<lineend>really nice man!<pause><lineend><CC03EA>OK, so he is pretty<lineend>stubborn. Nobody's perfect!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>Our leader is a<lineend>really nice man!<pause><lineend><CC03EA>OK, so he is pretty<lineend>stubborn. Nobody's<lineend>perfect!<pause><lineend>|
 8|
-<CC03EA><color=0004><string=015C><lineend><color=0001>The whole incident<lineend>has been resolved.<pause><lineend><CC03EA>Having said that...<lineend>I'm positively exhausted of speaking to the leader of the Wizards.<pause><lineend><CC03EA>Who does he think I<lineend>am? A student at one of his lectures?<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>The whole incident<lineend>has been resolved.<pause><lineend><CC03EA>Having said that...<lineend>I'm positively<lineend>exhausted of<pause><lineend><CC03EA>speaking to the<lineend>leader of the<lineend>Wizards.<pause><lineend><CC03EA>Who does he think I<lineend>am? A student at<lineend>one of his<pause><lineend><CC03EA>lectures?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most important duties.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most<pause><lineend><CC03EA>important duties.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an<pause><lineend><CC03EA>army of Demons, and<lineend>it seemed all would<lineend>be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired<lineend>Warrior and a<pause><lineend><CC03EA>silver-haired<lineend>Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything<lineend>to save Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each<lineend>area were made to<pause><lineend><CC03EA>commemorate them.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through the alleys that connect the different areas.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are<pause><lineend><CC03EA>a lot of<lineend>pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through<lineend>the alleys that<pause><lineend><CC03EA>connect the<lineend>different areas.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I'm sure the Golden<lineend>Warrior guided the ones who solved the problem at the lake.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I'm sure the Golden<lineend>Warrior guided the<pause><lineend><CC03EA>ones who solved the<lineend>problem at the<lineend>lake.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind<pause><lineend><CC03EA>increases your<lineend>attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a<lineend>great item. It<pause><lineend><CC03EA>makes it easier to<lineend>score critical<lineend>hits.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in<pause><lineend><CC03EA>battle back when I<lineend>was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my<lineend>Shield! Naturally,<pause><lineend><CC03EA>it stopped working<lineend>that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it<lineend>does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of<lineend>rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should<lineend>have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the<lineend>Elikshil Fruits I set out are going bad!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should<lineend>have been here<pause><lineend><CC03EA>hours ago. He must<lineend>be lost.<pause><lineend><CC03EA>Meanwhile, the<lineend>Elikshil Fruits I<lineend>set out are going<pause><lineend><CC03EA>bad!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE<lineend>TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE<lineend>TAVERN!! I GOTTA<lineend>EAT!! BRAAAWK!!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you<lineend>suppose he learned to say that?<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you<lineend>suppose he learned<pause><lineend><CC03EA>to say that?<pause><lineend>|
 18|
-<CC03EA><color=0006><string=000B><lineend><color=0001>Phew! It looks like<lineend>all this nonsense about lake monsters is coming to a close.<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>Phew! It looks like<lineend>all this nonsense<pause><lineend><CC03EA>about lake monsters<lineend>is coming to a<lineend>close.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single<pause><lineend><CC03EA>day!<pause><lineend>|

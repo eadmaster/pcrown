@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Go capture the<lineend>children in Nutsbill and turn them into animals.<pause><lineend><CC03EA>When you feel like<lineend>you've done everything possible, come see me again.<pause><lineend><CC03EA>Oh, and one more<lineend>thing. Quit being so mean to Gabriel!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Go capture the<lineend>children in<pause><lineend><CC03EA>Nutsbill and turn<lineend>them into animals.<pause><lineend><CC03EA>When you feel like<lineend>you've done<lineend>everything<pause><lineend><CC03EA>possible, come see<lineend>me again.<pause><lineend><CC03EA>Oh, and one more<lineend>thing. Quit being<lineend>so mean to Gabriel!<pause><lineend>|

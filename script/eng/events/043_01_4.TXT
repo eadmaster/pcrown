@@ -1,35 +1,35 @@
 0|
-<CC03EA><CC03FC=0004><string=0059><color=0004>Merchants' Leader<lineend><color=0001>I heard about how<lineend>you went to the Dwarf Kingdom for my daughter.<pause><lineend><CC03EA>Allow me to return<lineend>the favor. Make yourself at home and buy anything you like.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0059><color=0004>Merchants' Leader<lineend><color=0001>I heard about how<lineend>you went to the<lineend>Dwarf Kingdom for<pause><lineend><CC03EA>my daughter.<pause><lineend><CC03EA>Allow me to return<lineend>the favor. Make<lineend>yourself at home<pause><lineend><CC03EA>and buy anything<lineend>you like.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>Merchants<lineend>throughout the kingdom would give their right hand to have a stall here.<pause><lineend><CC03EA>After all, if<lineend>you're selling here, you can say your one of the top Merchants in the land.<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>Merchants<lineend>throughout the<pause><lineend><CC03EA>kingdom would give<lineend>their right hand to<lineend>have a stall here.<pause><lineend><CC03EA>After all, if<lineend>you're selling<lineend>here, you can say<pause><lineend><CC03EA>your one of the top<lineend>Merchants in the<lineend>land.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=004B><lineend><color=0001>Whoa! So this is<lineend>the Secret Market!<pause><lineend><CC03EA>I think I'll start<lineend>by seeing what each person is selling...<pause><lineend>|
+<CC03EA><color=0006><string=004B><lineend><color=0001>Whoa! So this is<lineend>the Secret Market!<pause><lineend><CC03EA>I think I'll start<lineend>by seeing what each<lineend>person is<pause><lineend><CC03EA>selling...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=005E><lineend><color=0001>Did you know that<lineend>when you drink Soup, you recover both your HP and your Power?<pause><lineend><CC03EA>Or better yet, that<lineend>you can raise your HP a little anytime you eat Grilled Foods at full health?<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Did you know that<lineend>when you drink<pause><lineend><CC03EA>Soup, you recover<lineend>both your HP and<lineend>your Power?<pause><lineend><CC03EA>Or better yet, that<lineend>you can raise your<lineend>HP a little anytime<pause><lineend><CC03EA>you eat Grilled<lineend>Foods at full<lineend>health?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=005B><lineend><color=0001>For those trying<lineend>all the Local Delicacies...<pause><lineend><CC03EA>There's a place out<lineend>there called <color=0003>The Last Tavern.<color=0001><pause><lineend><CC03EA>A young traveler<lineend>told me that it's in a kingdom far to the north.<pause><lineend>|
+<CC03EA><color=0006><string=005B><lineend><color=0001>For those trying<lineend>all the Local<pause><lineend><CC03EA>Delicacies...<pause><lineend><CC03EA>There's a place out<lineend>there called <color=0003>The Last Tavern.<color=0001><pause><lineend><CC03EA>A young traveler<lineend>told me that it's<lineend>in a kingdom far to<pause><lineend><CC03EA>the north.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 6|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 7|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those,<lineend>I'm afraid.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01C8><lineend><color=0001>Welcome! How about<lineend>some Potion to take on your travels?<pause><lineend><CC03EA>We'll make whatever<lineend>medicine you want with any ingredients you have.<pause><lineend>|
+<CC03EA><color=0006><string=01C8><lineend><color=0001>Welcome! How about<lineend>some Potion to take<pause><lineend><CC03EA>on your travels?<pause><lineend><CC03EA>We'll make whatever<lineend>medicine you want<lineend>with any<pause><lineend><CC03EA>ingredients you<lineend>have.<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01C8><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
 14|
-<CC03EA><color=0006><string=01C8><lineend><color=0001>All right, then,<lineend>please come back soon!<pause><lineend>|
+<CC03EA><color=0006><string=01C8><lineend><color=0001>All right, then,<lineend>please come back<pause><lineend><CC03EA>soon!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01C8><lineend><color=0001>Come again once<lineend>you've found the right ingredients.<pause><lineend>|
+<CC03EA><color=0006><string=01C8><lineend><color=0001>Come again once<lineend>you've found the<pause><lineend><CC03EA>right ingredients.<pause><lineend>|
 16|
 <CC03EA><color=0006><string=01C8><lineend><color=0001>Mixing costs 20G.<lineend>Is that all right?<pause><lineend>|
 17|
@@ -39,12 +39,12 @@
 19|
 <CC03EA><color=0006><string=01C8><lineend><color=0001>Here you are!<pause><lineend>|
 20|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and Sharp-Leaf Grass to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and<lineend>Sharp-Leaf Grass to<pause><lineend><CC03EA>make that Potion.<pause><lineend>|
 21|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and Jagged-Leaf Grass to make to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and<lineend>Jagged-Leaf Grass<pause><lineend><CC03EA>to make to make<lineend>that Potion.<pause><lineend>|
 22|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need<lineend>Round-Leaf Grass to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need<lineend>Round-Leaf Grass to<lineend>make that Potion.<pause><lineend>|
 23|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need<lineend>Jagged-Leaf Grass to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need<lineend>Jagged-Leaf Grass<lineend>to make that<pause><lineend><CC03EA>Potion.<pause><lineend>|
 24|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and Round-Leaf Grass to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect<lineend>Powder and<lineend>Round-Leaf Grass to<pause><lineend><CC03EA>make that Potion.<pause><lineend>|

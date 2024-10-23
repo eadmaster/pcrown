@@ -1,23 +1,23 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>エドワード様！<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=0115><lineend><color=0001>Ha ha ha...<lineend>You thought you had<lineend>me, didn't you?<pause><lineend><CC03EA>I must say,<lineend>piercing your heart with my own claws was the most fun I've had in ages.<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>Ha ha ha...<lineend>You thought you had<lineend>me, didn't you?<pause><lineend><CC03EA>I must say,<lineend>piercing your heart<lineend>with my own claws<pause><lineend><CC03EA>was the most fun<lineend>I've had in ages.<pause><lineend>|
 65538|
-<CC03EA><color=0005><string=0115><lineend><color=0001>...You must be with<lineend>Golgotha's son here. Ha ha! You're too late!<pause><lineend><CC03EA>Go ahead. Try and<lineend>speak to him! He's nothing but a corpse now.<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>...You must be with<lineend>Golgotha's son<pause><lineend><CC03EA>here. Ha ha! You're<lineend>too late!<pause><lineend><CC03EA>Go ahead. Try and<lineend>speak to him! He's<lineend>nothing but a<pause><lineend><CC03EA>corpse now.<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=0115><lineend><color=0001>I've swallowed<lineend>dozens of Magic Stones to protect myself.<pause><lineend><CC03EA>Your human-made<lineend>sword won't work on me.<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I've swallowed<lineend>dozens of Magic<pause><lineend><CC03EA>Stones to protect<lineend>myself.<pause><lineend><CC03EA>Your human-made<lineend>sword won't work on<lineend>me.<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You killed<lineend>Edward!!!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your<lineend>sword sword wouldn't work.<pause><lineend><CC03EA>Now once I finish<lineend>you off, I can be on my way...<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your<lineend>sword sword<pause><lineend><CC03EA>wouldn't work.<pause><lineend><CC03EA>Now once I finish<lineend>you off, I can be<lineend>on my way...<pause><lineend>|
 65542|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Somebody! Help!<lineend>He's going to kill<lineend>the Queen!<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0116><lineend><color=0001>Demon! Don't you<lineend>lay a single dirty finger on that girl!<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>Demon! Don't you<lineend>lay a single dirty<pause><lineend><CC03EA>finger on that<lineend>girl!<pause><lineend>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A Unicorn!?<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=0116><lineend><color=0001>It's all right now.<lineend>The Demon will never follow us here.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>It's all right now.<lineend>The Demon will<pause><lineend><CC03EA>never follow us<lineend>here.<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Where's Edward!?<pause><lineend>|
 131074|
@@ -29,6 +29,6 @@
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Unicorn, please!<lineend>Go back and save<lineend>Edward!<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=0116><lineend><color=0001>I'm so sorry...<lineend>That's simply not<lineend>within my power.<pause><lineend><CC03EA>But...If you can<lineend>find a Dragon called Heindel, he may be able to tell you a way to save him.<pause><lineend><CC03EA>His wisdom<lineend>transcends the ages, and he can answer any question he is asked.<pause><lineend><CC03EA><color=0005>The entrance to the<lineend>underground ruins where he lives<color=0001> is near the <color=0002>left exit of Knelt.<color=0001><pause><lineend><CC03EA>It's worth a try.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I'm so sorry...<lineend>That's simply not<lineend>within my power.<pause><lineend><CC03EA>But...If you can<lineend>find a Dragon<lineend>called Heindel, he<pause><lineend><CC03EA>may be able to tell<lineend>you a way to save<lineend>him.<pause><lineend><CC03EA>His wisdom<lineend>transcends the<lineend>ages, and he can<pause><lineend><CC03EA>answer any question<lineend>he is asked.<pause><lineend><CC03EA><color=0005>The entrance to the<lineend>underground ruins<lineend>where he lives<color=0001> is near the <color=0002>left exit of Knelt.<color=0001><pause><lineend><CC03EA>It's worth a try.<pause><lineend>|
 131079|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>A Dragon called<lineend>Heindel...<pause><lineend>|

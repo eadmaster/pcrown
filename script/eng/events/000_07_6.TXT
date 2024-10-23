@@ -7,7 +7,7 @@
 65539|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Elfaran!<pause><lineend>|
 65540|
-<CC03EA><color=0005><string=0120><lineend><color=0001>Refuse, and the<lineend>townspeople are as good as dead.<pause><lineend><CC03EA> Elfaran D.<lineend>Valendia...You're coming with me to the Demon Realm!<pause><lineend>|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Refuse, and the<lineend>townspeople are as<pause><lineend><CC03EA>good as dead.<pause><lineend><CC03EA> Elfaran D.<lineend>Valendia...You're<lineend>coming with me to<pause><lineend><CC03EA>the Demon Realm!<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>...That's not going<lineend>to happen.<pause><lineend>|
 65542|
@@ -15,21 +15,21 @@
 65543|
 <CC03EA><color=0005><string=0120><lineend><color=0001>Fine. We'll do this<lineend>the hard way!<pause><lineend>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Stop<CC03ED=0120002E000103FF> right there,<lineend>wicked book! I won't let you have your way any further!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Stop<CC03ED=0120002E000103FF> right there,<lineend>wicked book! I<pause><lineend><CC03EA>won't let you have<lineend>your way any<lineend>further!<pause><lineend>|
 65545|
 <CC03EA><color=0005><string=0120><lineend><color=0001>Who is this?<pause><lineend>|
 65546|
 <CC03EA><color=0005><string=0120><lineend><color=0001>How does she know<lineend>who I am?<pause><lineend><CC03EA>...She must be<lineend>silenced!<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>You're quite fierce<lineend>with a sword, if I do say so myself.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>You're quite fierce<lineend>with a sword, if I<pause><lineend><CC03EA>do say so myself.<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right,<lineend>Moth...I mean, your Highness?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right,<lineend>Moth...I mean, your<pause><lineend><CC03EA>Highness?<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>Me? I'll be fine.<pause><lineend><CC03EA>I don't know who<lineend>you are, but I'm grateful for your help.<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Me? I'll be fine.<pause><lineend><CC03EA>I don't know who<lineend>you are, but I'm<lineend>grateful for your<pause><lineend><CC03EA>help.<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm happy to hear<lineend>that.<lineend><pause>|
 131076|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>You took some heavy<lineend>blows in that fight. Please, let me heal you.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>You took some heavy<lineend>blows in that<pause><lineend><CC03EA>fight. Please, let<lineend>me heal you.<pause><lineend>|
 131077|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Y, Your Majesty...<pause><lineend>|
 131078|
@@ -37,33 +37,33 @@
 131079|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>I see you're back<lineend>to your old self.<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=0103><lineend><color=0001>The things I have<lineend>done can never be undone...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>The things I have<lineend>done can never be<pause><lineend><CC03EA>undone...<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>Golgotha? Tell me,<lineend>how did all this happen?<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Golgotha? Tell me,<lineend>how did all this<pause><lineend><CC03EA>happen?<pause><lineend>|
 131082|
-<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was...a book. A<lineend>possessed book. I remember that it lunged at me.<pause><lineend><CC03EA>Everything after<lineend>that is a blur.<pause><lineend>|
+<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was...a book. A<lineend>possessed book. I<pause><lineend><CC03EA>remember that it<lineend>lunged at me.<pause><lineend><CC03EA>Everything after<lineend>that is a blur.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>It appears that it<lineend>took control of your body and used it to attack the kingdom!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>It appears that it<lineend>took control of<pause><lineend><CC03EA>your body and used<lineend>it to attack the<lineend>kingdom!<pause><lineend>|
 131084|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Where did those<lineend>Demons come from?<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=0103><lineend><color=0001><CC03ED=01030004000103FF>There's a door to<lineend>the Demon Realm in a cave on a faraway island.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's where they<lineend>came through. I should know, for I was the one who opened the it.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's not all. I<lineend>killed many people. I even attacked you, my Queen!<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>After the shameful<lineend>things I've done, I am no longer fit to be anyone's Captain.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>Your Highness,<lineend>please bestow a fitting punishment upon me.<lineend><CC03ED=01030003000103FF><pause>|
+<CC03EA><color=0004><string=0103><lineend><color=0001><CC03ED=01030004000103FF>There's a door to<lineend>the Demon Realm in<pause><lineend><CC03EA>a cave on a faraway<lineend>island.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's where they<lineend>came through. I<lineend>should know, for I<pause><lineend><CC03EA>was the one who<lineend>opened the it.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's not all. I<lineend>killed many people.<lineend>I even attacked<pause><lineend><CC03EA>you, my Queen!<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>After the shameful<lineend>things I've done, I<lineend>am no longer fit to<pause><lineend><CC03EA>be anyone's<lineend>Captain.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>Your Highness,<lineend>please bestow a<lineend>fitting punishment<pause><lineend><CC03EA>upon me.<lineend><CC03ED=01030003000103FF><pause>|
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sir Glowstar...<pause><lineend>|
 131087|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>I won't allow you<lineend>to step down.<pause><lineend><CC03EA>If you want some<lineend>kind of punishment, then force yourself to fight at my side.<pause><lineend><CC03EA>I need your<lineend>strength, Sir Glowstar.<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>I won't allow you<lineend>to step down.<pause><lineend><CC03EA>If you want some<lineend>kind of punishment,<lineend>then force yourself<pause><lineend><CC03EA>to fight at my<lineend>side.<pause><lineend><CC03EA>I need your<lineend>strength, Sir<lineend>Glowstar.<pause><lineend>|
 131088|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Your Majesty...<pause><lineend>|
 131089|
 <CC03EA><color=0004><string=0103><lineend><color=0001>A Demon!<pause><lineend>|
 131090|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Look at what you've<lineend>done! Reverting back to your old self...<pause><lineend><CC03EA>You're useless,<lineend>Golgotha!<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Look at what you've<lineend>done! Reverting<pause><lineend><CC03EA>back to your old<lineend>self...<pause><lineend><CC03EA>You're useless,<lineend>Golgotha!<pause><lineend>|
 131091|
-<CC03EA><color=0005><string=0114><lineend><color=0001>This keeps getting<lineend>better and better.<pause><lineend><CC03EA>So a weak little<lineend>human girl thinks she can take on the mighty Bloody?<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>This keeps getting<lineend>better and better.<pause><lineend><CC03EA>So a weak little<lineend>human girl thinks<lineend>she can take on the<pause><lineend><CC03EA>mighty Bloody?<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>...That's...The<lineend>Time Stone! Quickly! Raise it up toward the Demon!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>...That's...The<lineend>Time Stone!<pause><lineend><CC03EA>Quickly! Raise it<lineend>up toward the<lineend>Demon!<pause><lineend>|
 196609|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your<lineend>human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a<lineend>thousand magic stones!<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your<lineend>human sword can't<pause><lineend><CC03EA>possibly kill me!<lineend><pause><CC03EA>I've swallowed a<lineend>thousand magic<lineend>stones!<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=0103><lineend><color=0001>ï√â∫Ç†Ç‘Ç»Ç¢Ç¡ÅI<pause><lineend>|
 196611|
@@ -71,7 +71,7 @@
 196612|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>He is alive, then?<pause><lineend><CC03EA>Thank goodness for<lineend>that, at least.<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no<lineend>longer have anyone leading them.<lineend><pause><CC03EA>Tell the Knight<lineend>Guard to chase off any of them remaining in the castle or the town below.<lineend><pause>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no<lineend>longer have anyone<pause><lineend><CC03EA>leading them.<lineend><pause><CC03EA>Tell the Knight<lineend>Guard to chase off<lineend>any of them<pause><lineend><CC03EA>remaining in the<lineend>castle or the town<lineend>below.<lineend><pause>|
 196614|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your<lineend>Highness.<pause><lineend>|
 196615|
@@ -79,32 +79,32 @@
 196616|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There<lineend>was no time...<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power<lineend>of the Time Stone, your Highness.<lineend><pause><CC03EA>I had read before<lineend>that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir<lineend>Glowstar and the Demon have been sent somewhere in else in time.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power<lineend>of the Time Stone,<pause><lineend><CC03EA>your Highness.<lineend><pause><CC03EA>I had read before<lineend>that the Time Stone<lineend>allows a person to<pause><lineend><CC03EA>control time and<lineend>space at will.<pause><lineend><CC03EA>I'm afraid Sir<lineend>Glowstar and the<lineend>Demon have been<pause><lineend><CC03EA>sent somewhere in<lineend>else in time.<pause><lineend>|
 196618|
-<CC03EA><color=0005><string=0114><lineend><color=0001>This fight is over.<lineend>The Queen is coming with me!<lineend><pause>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>This fight is over.<lineend>The Queen is coming<pause><lineend><CC03EA>with me!<lineend><pause>|
 262144|
-<CC03EA><color=0004><string=0101><lineend><color=0001>Thank you. You've<lineend>helped us more than once now.<pause><lineend><CC03EA>...I don't suppose<lineend>you might tell me who you are?<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Thank you. You've<lineend>helped us more than<pause><lineend><CC03EA>once now.<pause><lineend><CC03EA>...I don't suppose<lineend>you might tell me<lineend>who you are?<pause><lineend>|
 262145|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Please forgive me,<lineend>but I simply can't tell you that right now.<pause><lineend><CC03EA>All I can say is<lineend>that I'm a traveler.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please forgive me,<lineend>but I simply can't<pause><lineend><CC03EA>tell you that right<lineend>now.<pause><lineend><CC03EA>All I can say is<lineend>that I'm a<lineend>traveler.<pause><lineend>|
 262146|
-<CC03EA><color=0004><string=0101><lineend><color=0001>If you say you<lineend>can't tell me, then I won't ask anything further.<pause><lineend><CC03EA>Whoever you are,<lineend>you saved us all. There's no questioning that!<pause><lineend><CC03EA>As a token of our<lineend>gratitude, I bestow the title of "Hero" upon you.<pause><lineend><CC03EA>You are free to go<lineend>wherever you like in my kingdom.<pause><lineend><CC03EA>Please accept this<lineend>as our thanks.<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>If you say you<lineend>can't tell me, then<pause><lineend><CC03EA>I won't ask<lineend>anything further.<pause><lineend><CC03EA>Whoever you are,<lineend>you saved us all.<lineend>There's no<pause><lineend><CC03EA>questioning that!<pause><lineend><CC03EA>As a token of our<lineend>gratitude, I bestow<lineend>the title of "Hero"<pause><lineend><CC03EA>upon you.<pause><lineend><CC03EA>You are free to go<lineend>wherever you like<lineend>in my kingdom.<pause><lineend><CC03EA>Please accept this<lineend>as our thanks.<pause><lineend>|
 262147|
-<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I<lineend>have sealed away the wicked book that was controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution,<lineend>its location is secret to all except myself and a few other Wizards.<pause><lineend><CC03EA>With that settled,<lineend>allow me to ask...Is this an acquaintance of yours, your Majesty?<pause><lineend><CC03EA>She has a certain<lineend>air about her...<pause><lineend><CC03EA>It's as if she's a<lineend>Princess from a Kingdom not so far away...<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I<lineend>have sealed away<pause><lineend><CC03EA>the wicked book<lineend>that was<lineend>controlling Sir<pause><lineend><CC03EA>Glowstar.<pause><lineend><CC03EA>As a precaution,<lineend>its location is<lineend>secret to all<pause><lineend><CC03EA>except myself and a<lineend>few other Wizards.<pause><lineend><CC03EA>With that settled,<lineend>allow me to<lineend>ask...Is this an<pause><lineend><CC03EA>acquaintance of<lineend>yours, your<lineend>Majesty?<pause><lineend><CC03EA>She has a certain<lineend>air about her...<pause><lineend><CC03EA>It's as if she's a<lineend>Princess from a<lineend>Kingdom not so far<pause><lineend><CC03EA>away...<pause><lineend>|
 262148|
-<CC03EA><color=0004><string=0101><lineend><color=0001>I've never met her<lineend>before, but you're right, there is something special about her.<pause><lineend><CC03EA>Let's not be nosy,<lineend>though.<pause><lineend><CC03EA>I've given her a<lineend>title! Hereafter, she'll be known as the hero who saved our land.<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>I've never met her<lineend>before, but you're<pause><lineend><CC03EA>right, there is<lineend>something special<lineend>about her.<pause><lineend><CC03EA>Let's not be nosy,<lineend>though.<pause><lineend><CC03EA>I've given her a<lineend>title! Hereafter,<lineend>she'll be known as<pause><lineend><CC03EA>the hero who saved<lineend>our land.<pause><lineend>|
 262149|
-<CC03EA><color=0004><string=0100><lineend><color=0001>She's definitely a<lineend>courageous young woman. It's probably best to let her be.<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>She's definitely a<lineend>courageous young<pause><lineend><CC03EA>woman. It's<lineend>probably best to<lineend>let her be.<pause><lineend>|
 262150|
-<CC03EA><color=0004><string=0101><lineend><color=0001>Good. Make sure<lineend>everyone understands that.<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Good. Make sure<lineend>everyone<pause><lineend><CC03EA>understands that.<pause><lineend>|
 262151|
-<CC03EA><color=0004><string=0100><lineend><color=0001>There is one more<lineend>thing I want to ask.<pause><lineend><CC03EA>Brave young lady?<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>There is one more<lineend>thing I want to<pause><lineend><CC03EA>ask.<pause><lineend><CC03EA>Brave young lady?<pause><lineend>|
 262152|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Y, Yes?<pause><lineend>|
 262153|
-<CC03EA><color=0004><string=0100><lineend><color=0001>If you'll allow it,<lineend>I would like to have a closer look at the Time Stone.<pause><lineend><CC03EA>If you will, please<lineend>come to my room later.<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>If you'll allow it,<lineend>I would like to<pause><lineend><CC03EA>have a closer look<lineend>at the Time Stone.<pause><lineend><CC03EA>If you will, please<lineend>come to my room<lineend>later.<pause><lineend>|
 262154|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Certainly.<pause><lineend>|
 262155|
-<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I<lineend>know we just met, but somehow I feel like I've always known you.<pause><lineend><CC03EA>You're welcome to<lineend>rest here at the castle all you like before you resume your travels.<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I<lineend>know we just met,<pause><lineend><CC03EA>but somehow I feel<lineend>like I've always<lineend>known you.<pause><lineend><CC03EA>You're welcome to<lineend>rest here at the<lineend>castle all you like<pause><lineend><CC03EA>before you resume<lineend>your travels.<pause><lineend>|
 262156|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Mother...I'm so<lineend>glad I was able to meet you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Mother...I'm so<lineend>glad I was able to<pause><lineend><CC03EA>meet you.<pause><lineend>|

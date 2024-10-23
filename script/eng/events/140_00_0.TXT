@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the<pause><lineend><CC03EA>continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard,<lineend>and Merchant areas.<pause><lineend><CC03EA><pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is,<lineend>but we do have a<pause><lineend><CC03EA>problem with people<lineend>getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm<lineend>a little lost<pause><lineend><CC03EA>myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way back home...<CC03F1=0011><pause>|
+<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way<pause><lineend><CC03EA>back home...<CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a<lineend>Knight and work at the castle protecting the Queen.<pause><lineend><CC03EA>Being in her<lineend>Majesty's Knight Guard is greatest honor any warrior could hope for.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a<lineend>Knight and work at<pause><lineend><CC03EA>the castle<lineend>protecting the<lineend>Queen.<pause><lineend><CC03EA>Being in her<lineend>Majesty's Knight<lineend>Guard is greatest<pause><lineend><CC03EA>honor any warrior<lineend>could hope for.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Our town is full of<lineend>Warriors, and they keep everyone safe.<pause><lineend><CC03EA>Only the best of<lineend>the best can be a Warrior in Cadho Badho!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Our town is full of<lineend>Warriors, and they<pause><lineend><CC03EA>keep everyone safe.<pause><lineend><CC03EA>Only the best of<lineend>the best can be a<lineend>Warrior in Cadho<pause><lineend><CC03EA>Badho!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in<pause><lineend><CC03EA>the Merchants'<lineend>Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find<lineend>something really<pause><lineend><CC03EA>worth your while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors<lineend>haven't gotten along with the Wizards for years.<pause><lineend><CC03EA>Anytime they come<lineend>together, it ends in useless bickering.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors<lineend>haven't gotten<pause><lineend><CC03EA>along with the<lineend>Wizards for years.<pause><lineend><CC03EA>Anytime they come<lineend>together, it ends<lineend>in useless<pause><lineend><CC03EA>bickering.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are<lineend>the protectors of<pause><lineend><CC03EA>the city...Or at<lineend>least they should<lineend>be.<pause><lineend><CC03EA>Instead, all they<lineend>do is pick fights<lineend>with the Wizards<pause><lineend><CC03EA>and give everyone a<lineend>headache!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in<lineend>the armor standing by that statue over there?<pause><lineend><CC03EA>He's the Warriors'<lineend>Leader.<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in<lineend>the armor standing<pause><lineend><CC03EA>by that statue over<lineend>there?<pause><lineend><CC03EA>He's the Warriors'<lineend>Leader.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Greetings,<lineend>traveler. I'm the leader of the Warriors of Cadho Badho.<pause><lineend><CC03EA>We Warriors are<lineend>prepared to lay our lives down at any time for the safety of this town.<pause><lineend><CC03EA>What a pity that<lineend>the Wizards can't comprehend such a noble attitude!<pause><lineend><CC03EA>They're great at<lineend>running their mouths, and not much else.<pause><lineend><CC03EA>Our job would be<lineend>much easier without them!<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Greetings,<lineend>traveler. I'm the<pause><lineend><CC03EA>leader of the<lineend>Warriors of Cadho<lineend>Badho.<pause><lineend><CC03EA>We Warriors are<lineend>prepared to lay our<lineend>lives down at any<pause><lineend><CC03EA>time for the safety<lineend>of this town.<pause><lineend><CC03EA>What a pity that<lineend>the Wizards can't<lineend>comprehend such a<pause><lineend><CC03EA>noble attitude!<pause><lineend><CC03EA>They're great at<lineend>running their<lineend>mouths, and not<pause><lineend><CC03EA>much else.<pause><lineend><CC03EA>Our job would be<lineend>much easier without<lineend>them!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most important duties.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town<lineend>is among our most<pause><lineend><CC03EA>important duties.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an<pause><lineend><CC03EA>army of Demons, and<lineend>it seemed all would<lineend>be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired<lineend>Warrior and a<pause><lineend><CC03EA>silver-haired<lineend>Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything<lineend>to save Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each<lineend>area were made to<pause><lineend><CC03EA>commemorate them.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through the alleys that connect the different areas.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a<lineend>big city, there are<pause><lineend><CC03EA>a lot of<lineend>pickpockets.<pause><lineend><CC03EA>Keep an eye out<lineend>when you go through<lineend>the alleys that<pause><lineend><CC03EA>connect the<lineend>different areas.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=000A><lineend><color=0001>This town has had<lineend>its fair share of problems.<pause><lineend><CC03EA>These days, though,<lineend>it's a peaceful place to live.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>This town has had<lineend>its fair share of<pause><lineend><CC03EA>problems.<pause><lineend><CC03EA>These days, though,<lineend>it's a peaceful<lineend>place to live.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind<pause><lineend><CC03EA>increases your<lineend>attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a<lineend>great item. It<pause><lineend><CC03EA>makes it easier to<lineend>score critical<lineend>hits.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in<pause><lineend><CC03EA>battle back when I<lineend>was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my<lineend>Shield! Naturally,<pause><lineend><CC03EA>it stopped working<lineend>that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it<lineend>does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of<lineend>rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from the Wizard's town by now. I wonder if he got lost again?<pause><lineend><CC03EA>The tea I made is<lineend>getting cold!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really<lineend>should be here from<pause><lineend><CC03EA>the Wizard's town<lineend>by now. I wonder if<lineend>he got lost again?<pause><lineend><CC03EA>The tea I made is<lineend>getting cold!<pause><lineend>|
 16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot.<lineend>I just fed him, too!<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot.<lineend>I just fed him,<pause><lineend><CC03EA>too!<pause><lineend>|
 18|
 <CC03EA><color=0006><string=000B><lineend><color=0001>A quiet life really<lineend>is the best.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single<pause><lineend><CC03EA>day!<pause><lineend>|

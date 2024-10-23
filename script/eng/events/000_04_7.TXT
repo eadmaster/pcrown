@@ -1,36 +1,36 @@
 0|
-<CC03EA><color=0006><string=017F><lineend><color=0001>The Queen has<lineend>decreed that you may enter any room that you wish.<pause><lineend><CC03EA>You are also<lineend>welcome to make use of a guest room.<pause><lineend>|
+<CC03EA><color=0006><string=017F><lineend><color=0001>The Queen has<lineend>decreed that you<pause><lineend><CC03EA>may enter any room<lineend>that you wish.<pause><lineend><CC03EA>You are also<lineend>welcome to make use<lineend>of a guest room.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Queen Elfaran's<lineend>room is right through here.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Queen Elfaran's<lineend>room is right<pause><lineend><CC03EA>through here.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The town was<lineend>attacked as well.<pause><lineend><CC03EA>Both the castle and<lineend>the town went from pristine to ruined in the blink of an eye.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The town was<lineend>attacked as well.<pause><lineend><CC03EA>Both the castle and<lineend>the town went from<lineend>pristine to ruined<pause><lineend><CC03EA>in the blink of an<lineend>eye.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I can't believe<lineend>they died at the hands of someone we trusted...<pause><lineend><CC03EA>I won't forget<lineend>this, Golgotha... Those people you killed were my friends!<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I can't believe<lineend>they died at the<pause><lineend><CC03EA>hands of someone we<lineend>trusted...<pause><lineend><CC03EA>I won't forget<lineend>this, Golgotha...<lineend>Those people you<pause><lineend><CC03EA>killed were my<lineend>friends!<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Glowstar, I'll<lineend>put my own life on the line to protect this country. You'll see...<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Glowstar, I'll<lineend>put my own life on<pause><lineend><CC03EA>the line to protect<lineend>this country.<lineend>You'll see...<pause><lineend>|
 5|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been waiting<lineend>for you.<pause><lineend><CC03EA>The Time Stone has<lineend>the power to overcome time and space.<pause><lineend><CC03EA>Of course, if it<lineend>fell into the wrong hands, it would be a disaster...<pause><lineend><CC03EA>Just thinking that<lineend>a Demon had been in possession of it gives me chills.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been waiting<lineend>for you.<pause><lineend><CC03EA>The Time Stone has<lineend>the power to<lineend>overcome time and<pause><lineend><CC03EA>space.<pause><lineend><CC03EA>Of course, if it<lineend>fell into the wrong<lineend>hands, it would be<pause><lineend><CC03EA>a disaster...<pause><lineend><CC03EA>Just thinking that<lineend>a Demon had been in<lineend>possession of it<pause><lineend><CC03EA>gives me chills.<pause><lineend>|
 6|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...er...My<lineend>Lord, I have a request.<pause><lineend><CC03EA>I would like to<lineend>borrow that Time Stone. It's for reasons that I sadly can't explain.<pause><lineend><CC03EA>The only thing I<lineend>can say is that I need it to help a dear friend of mine.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...er...My<lineend>Lord, I have a<pause><lineend><CC03EA>request.<pause><lineend><CC03EA>I would like to<lineend>borrow that Time<lineend>Stone. It's for<pause><lineend><CC03EA>reasons that I<lineend>sadly can't<lineend>explain.<pause><lineend><CC03EA>The only thing I<lineend>can say is that I<lineend>need it to help a<pause><lineend><CC03EA>dear friend of<lineend>mine.<pause><lineend>|
 7|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Hmm...<pause><lineend><CC03EA>...So be it. You<lineend>seem trustworthy.<pause><lineend><CC03EA>Here, take it. It<lineend>belongs to you now.<pause><lineend><CC03EA>All you have to do<lineend>is hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take<lineend>you the time and place you desire.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hmm...<pause><lineend><CC03EA>...So be it. You<lineend>seem trustworthy.<pause><lineend><CC03EA>Here, take it. It<lineend>belongs to you now.<pause><lineend><CC03EA>All you have to do<lineend>is hold the Time<lineend>Stone above your<pause><lineend><CC03EA>head and wish...<pause><lineend><CC03EA>...and it will take<lineend>you the time and<lineend>place you desire.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Hold the Time Stone<lineend>above your head and wish...<pause><lineend><CC03EA>...and it will take<lineend>you wherever you want to go.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hold the Time Stone<lineend>above your head and<pause><lineend><CC03EA>wish...<pause><lineend><CC03EA>...and it will take<lineend>you wherever you<lineend>want to go.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, if it isn't our<lineend>savior!<pause><lineend><CC03EA>I will now offer a<lineend>prayer of thanks for the peace that has fallen upon us.<pause><lineend><CC03EA>How about yourself?<lineend>Would you care to join me?<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Ah, if it isn't our<lineend>savior!<pause><lineend><CC03EA>I will now offer a<lineend>prayer of thanks<lineend>for the peace that<pause><lineend><CC03EA>has fallen upon us.<pause><lineend><CC03EA>How about yourself?<lineend>Would you care to<lineend>join me?<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 11|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard your prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard<pause><lineend><CC03EA>your prayers.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps<lineend>another time.<pause><lineend>|
 13|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 14|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 15|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Time Stone, I<lineend>beseech you!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Take me to the<lineend>future!<pause><lineend><CC03EA>Take me to just<lineend>before Edward loses his life!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Take me to the<lineend>future!<pause><lineend><CC03EA>Take me to just<lineend>before Edward loses<lineend>his life!<pause><lineend>|

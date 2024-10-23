@@ -1,5 +1,5 @@
 65536|
-<CC03EA><CC03FC=0004><string=007D><color=0001>Queen Gradriel!<lineend>You're safe!<pause><lineend><CC03EA>We're under attack<lineend>from monsters right now. It's dangerous inside the castle!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Queen Gradriel!<lineend>You're safe!<pause><lineend><CC03EA>We're under attack<lineend>from monsters right<lineend>now. It's dangerous<pause><lineend><CC03EA>inside the castle!<pause><lineend>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What in the world<lineend>is...!!<pause><lineend>|
 65538|
@@ -7,10 +7,10 @@
 65539|
 <CC03EA><CC03FC=0004><string=0103>Queen Gradriel, are<lineend>you hurt?<pause><lineend>|
 65540|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You...aren't one of<lineend>our Knights, are you?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You...aren't one of<lineend>our Knights, are<pause><lineend><CC03EA>you?<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0103><lineend><color=0001>I used to belong to<lineend>the Knight Guard. My name is Golgotha.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>I used to belong to<lineend>the Knight Guard.<pause><lineend><CC03EA>My name is<lineend>Golgotha.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0103><lineend><color=0001>I came the moment I<lineend>heard of the attack on the castle.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>I came the moment I<lineend>heard of the attack<pause><lineend><CC03EA>on the castle.<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Allow me to take<lineend>care of these Demons myself!<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Allow me to take<lineend>care of these<pause><lineend><CC03EA>Demons myself!<pause><lineend>|

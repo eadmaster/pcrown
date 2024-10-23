@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Where are you<lineend>going, your Majesty?<pause><lineend><CC03EA>We have to do<lineend>something, quick!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Where are you<lineend>going, your<pause><lineend><CC03EA>Majesty?<pause><lineend><CC03EA>We have to do<lineend>something, quick!<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You're right. We're<lineend>the only ones left...<pause><lineend><CC03EA>There's no choice.<lineend>I have to go confront Larva.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're right. We're<lineend>the only ones<pause><lineend><CC03EA>left...<pause><lineend><CC03EA>There's no choice.<lineend>I have to go<lineend>confront Larva.<lineend><pause>|
 2|
 <CC03F0=000000880000000A03FF00000000>|
 65536|
@@ -9,13 +9,13 @@
 65537|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>The Dark God Larva<lineend>is nearly upon us.<pause><lineend>|
 65538|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>There is nobody<lineend>left to protect you.<lineend><pause><CC03EA>It's only you and<lineend>me now.<lineend><pause><CC03EA>If you listen to<lineend>what I say and hand over that crown...<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>There is nobody<lineend>left to protect<pause><lineend><CC03EA>you.<lineend><pause><CC03EA>It's only you and<lineend>me now.<lineend><pause><CC03EA>If you listen to<lineend>what I say and hand<lineend>over that crown...<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>...I'll let you<lineend>live as Samantha's replacement.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>...I'll let you<lineend>live as Samantha's<pause><lineend><CC03EA>replacement.<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm not handing you<lineend>anything.<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Then you'll die<lineend>just like the others!<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Then you'll die<lineend>just like the<pause><lineend><CC03EA>others!<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Why, you...!<pause><lineend>|
 65543|
@@ -31,7 +31,7 @@
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>What have I done...<pause><lineend><CC03EA>I lost control...I<lineend>couldn't do anything...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>What have I done...<pause><lineend><CC03EA>I lost control...I<lineend>couldn't do<lineend>anything...<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon, no...<pause><lineend>|
 131076|
@@ -39,9 +39,9 @@
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Don't speak, Leon.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Queen<lineend>Gradriel...leave me...<pause><lineend><CC03EA>Larva is...all that<lineend>matters...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Queen<lineend>Gradriel...leave<pause><lineend><CC03EA>me...<pause><lineend><CC03EA>Larva is...all that<lineend>matters...<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>He is not at full<lineend>strength yet...<lineend><pause><CC03EA>You must do<lineend>something before he...comes into this world.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>He is not at full<lineend>strength yet...<lineend><pause><CC03EA>You must do<lineend>something before<lineend>he...comes into<pause><lineend><CC03EA>this world.<pause><lineend>|
 131080|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>...Queen<lineend>Gradriel...<pause><lineend>|
 196608|

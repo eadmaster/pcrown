@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty? What<lineend>are you doing up at such an hour?<pause><lineend><CC03EA>Monsters? I'll wake<lineend>up the others!<lineend><pause>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty? What<lineend>are you doing up at<pause><lineend><CC03EA>such an hour?<pause><lineend><CC03EA>Monsters? I'll wake<lineend>up the others!<lineend><pause>|

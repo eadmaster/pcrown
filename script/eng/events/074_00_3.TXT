@@ -1,23 +1,23 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0005>Go left out of town<lineend>and head north<color=0001> to reach the<color=0002> Sword Mines.<pause><lineend><CC03EA><color=0001>Once you pass<lineend>through there, you can reach Castle Volga.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0005>Go left out of town<lineend>and head north<color=0001> to reach the<color=0002> Sword Mines.<pause><lineend><CC03EA><color=0001>Once you pass<lineend>through there, you<lineend>can reach Castle<pause><lineend><CC03EA>Volga.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0028><lineend><color=0001>That was soooo<lineend>scary!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=005E><lineend><color=0001>I refuse to die<lineend>before I become a world-renowned merchant!<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>I refuse to die<lineend>before I become a<pause><lineend><CC03EA>world-renowned<lineend>merchant!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>That giant<lineend>eyeball-thing is called a Chaotic Eye? That's pretty fitting.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>That giant<lineend>eyeball-thing is<pause><lineend><CC03EA>called a Chaotic<lineend>Eye? That's pretty<lineend>fitting.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0025><lineend><color=0001>Umm...Are you a<lineend>hero that the Goddess sent to save us?<pause><lineend>|
+<CC03EA><color=0006><string=0025><lineend><color=0001>Umm...Are you a<lineend>hero that the<pause><lineend><CC03EA>Goddess sent to<lineend>save us?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0014><lineend><color=0001>You're very strong.<pause><lineend><CC03EA>Strong people get a<lineend>lot of respect here in Volga.<pause><lineend><CC03EA>After all, strength<lineend>comes by faith in the Goddess, and the study of her ways.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>You're very strong.<pause><lineend><CC03EA>Strong people get a<lineend>lot of respect here<lineend>in Volga.<pause><lineend><CC03EA>After all, strength<lineend>comes by faith in<lineend>the Goddess, and<pause><lineend><CC03EA>the study of her<lineend>ways.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I think what just<lineend>happened took a few years off my life.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I think what just<lineend>happened took a few<pause><lineend><CC03EA>years off my life.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Sword Mines are<lineend>north of town. They've long been abandoned, though.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Sword Mines are<lineend>north of town.<pause><lineend><CC03EA>They've long been<lineend>abandoned, though.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=000B><lineend><color=0001>That was<lineend>terrifying!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's<lineend>Magic Shop. What can I do for you today?<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's<lineend>Magic Shop. What<lineend>can I do for you<pause><lineend><CC03EA>today?<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 11|
@@ -27,6 +27,6 @@
 13|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag<lineend>is full...<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any<lineend>items!<pause><lineend><CC03EA>It's not nice to<lineend>tease your elders, you know.<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any<lineend>items!<pause><lineend><CC03EA>It's not nice to<lineend>tease your elders,<lineend>you know.<pause><lineend>|
 15|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>I don't buy those.<pause><lineend>|

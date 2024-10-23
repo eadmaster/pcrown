@@ -1,9 +1,9 @@
 0|
-<CC03EA><color=0005><string=019B><lineend><color=0001>If you're looking<lineend>for a Power Plant Seed, Halloween's got some.<pause><lineend>|
+<CC03EA><color=0005><string=019B><lineend><color=0001>If you're looking<lineend>for a Power Plant<pause><lineend><CC03EA>Seed, Halloween's<lineend>got some.<pause><lineend>|
 1|
-<CC03EA><color=0005><string=019C><lineend><color=0001>If you ask him, I'm<lineend>sure he'll sell you a few.<pause><lineend>|
+<CC03EA><color=0005><string=019C><lineend><color=0001>If you ask him, I'm<lineend>sure he'll sell you<pause><lineend><CC03EA>a few.<pause><lineend>|
 2|
-<CC03EA><color=0005><string=019D><lineend><color=0001>Halloween actually<lineend>went out earlier. In fact, he should have been back a while ago.<pause><lineend><CC03EA>Maybe the Death<lineend>King that appears deep in the cemetery got him?<pause><lineend>|
+<CC03EA><color=0005><string=019D><lineend><color=0001>Halloween actually<lineend>went out earlier.<pause><lineend><CC03EA>In fact, he should<lineend>have been back a<lineend>while ago.<pause><lineend><CC03EA>Maybe the Death<lineend>King that appears<lineend>deep in the<pause><lineend><CC03EA>cemetery got him?<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=00A7><color=0001>コンチハ・・・<lineend>コンチハ・・・・<lineend>コンチハ・・・・・<pause><lineend>|
 4|

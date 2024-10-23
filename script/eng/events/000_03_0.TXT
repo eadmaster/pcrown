@@ -1,4 +1,4 @@
 0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Everything is in<lineend>order!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>We're keeping a<lineend>careful watch on things. Please get some rest, your Majesty.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>We're keeping a<lineend>careful watch on<pause><lineend><CC03EA>things. Please get<lineend>some rest, your<lineend>Majesty.<pause><lineend>|

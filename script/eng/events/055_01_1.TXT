@@ -1,15 +1,15 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>Don't go any<lineend>further or the Spider will get you!<pause><lineend><CC03EA>Please, turn<lineend>around!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Don't go any<lineend>further or the<pause><lineend><CC03EA>Spider will get<lineend>you!<pause><lineend><CC03EA>Please, turn<lineend>around!<pause><lineend>|
 1|
 <CC03ED=0000006200010000><CC03FB=0010><CC03F2=000000880000000A03FF00000000>|
 2|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That takes care of<lineend>that. Now to go tell the Dwarf King.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That takes care of<lineend>that. Now to go<pause><lineend><CC03EA>tell the Dwarf<lineend>King.<pause><lineend>|
 65536|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Oh! I've been<lineend>waiting for you!<pause><lineend><CC03EA>You have defeated<lineend>the monster in the mine!<pause><lineend><CC03EA>At last, the souls<lineend>of so many other Kings whose lives it took can rest in peace.<lineend><pause>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Oh! I've been<lineend>waiting for you!<pause><lineend><CC03EA>You have defeated<lineend>the monster in the<lineend>mine!<pause><lineend><CC03EA>At last, the souls<lineend>of so many other<lineend>Kings whose lives<pause><lineend><CC03EA>it took can rest in<lineend>peace.<lineend><pause>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I wish I could tell<lineend>you how much I sympathize, your Majesty.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I wish I could tell<lineend>you how much I<pause><lineend><CC03EA>sympathize, your<lineend>Majesty.<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>If only there was<lineend>something I could do to repay you.<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>If only there was<lineend>something I could<pause><lineend><CC03EA>do to repay you.<pause><lineend>|
 65539|
 <CC03EA><color=0006><string=0091><lineend><color=0001>Your Highness!!<pause><lineend>|
 65540|
@@ -19,16 +19,16 @@
 65542|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Why, that's...!<pause><lineend><CC03EA>Excuse me a moment.<pause><lineend>|
 65543|
-<CC03EA><color=0006><string=0091><lineend><color=0001>We found this at<lineend>the bottom of the mine.<pause><lineend><CC03EA>I've never seen<lineend>such a Gem before!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>We found this at<lineend>the bottom of the<pause><lineend><CC03EA>mine.<pause><lineend><CC03EA>I've never seen<lineend>such a Gem before!<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>It's bloody heavy!<pause><lineend><CC03EA>And it's just the<lineend>thing. Please accept this in return for your help.<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>It's bloody heavy!<pause><lineend><CC03EA>And it's just the<lineend>thing. Please<lineend>accept this in<pause><lineend><CC03EA>return for your<lineend>help.<pause><lineend>|
 65545|
 <CC03EA><color=0002>Got the Land Stone!<pause><lineend>|
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Dwarf<lineend>King!<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>That really is a<lineend>beautiful Gem you have there. I hope you like it.<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>That really is a<lineend>beautiful Gem you<pause><lineend><CC03EA>have there. I hope<lineend>you like it.<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>I declare you a<lineend>lifelong friend of the Dwarves. Come visit us whenever you like!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>I declare you a<lineend>lifelong friend of<pause><lineend><CC03EA>the Dwarves. Come<lineend>visit us whenever<lineend>you like!<pause><lineend>|
 65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'll do that. Thank<lineend>you, your Majesty.<pause><lineend>|

@@ -1,25 +1,25 @@
 0|
-<CC03EA><color=0006><string=000E><lineend><color=0001>I just hid under a<lineend>chair, and I was fine!<pause><lineend><CC03EA>Thank Gaia!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>I just hid under a<lineend>chair, and I was<pause><lineend><CC03EA>fine!<pause><lineend><CC03EA>Thank Gaia!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>I watched your<lineend>battle, and you've inspired me to write a song about you!<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>I watched your<lineend>battle, and you've<pause><lineend><CC03EA>inspired me to<lineend>write a song about<lineend>you!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the<lineend>Whale in the Sky Tavern! I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the<lineend>Whale in the Sky<pause><lineend><CC03EA>Tavern! I'll take<lineend>your order.<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 4|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back<lineend>again soon!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Our Local Delicacy<lineend>is Grilled Fish.<pause><lineend><CC03EA>We lightly salt<lineend>fresh fish and cook it quickly in a hot fire. The soft texture is amazing.<pause><lineend><CC03EA>Squeeze a little<lineend>lemon on it before you eat it!<pause><lineend><CC03EA>One is 48G. Will<lineend>you be buying one?<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Our Local Delicacy<lineend>is Grilled Fish.<pause><lineend><CC03EA>We lightly salt<lineend>fresh fish and cook<lineend>it quickly in a hot<pause><lineend><CC03EA>fire. The soft<lineend>texture is amazing.<pause><lineend><CC03EA>Squeeze a little<lineend>lemon on it before<lineend>you eat it!<pause><lineend><CC03EA>One is 48G. Will<lineend>you be buying one?<pause><lineend>|
 6|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 7|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have<lineend>enough.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more. Empty your bag a little bit first.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more. Empty your<pause><lineend><CC03EA>bag a little bit<lineend>first.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>There! It's<lineend>finished!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's<lineend>grill something. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's<lineend>grill something.<pause><lineend><CC03EA>Please select a<lineend>Food to use.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>We can't grill<lineend>that. Sorry.<pause><lineend>|
 12|
@@ -29,20 +29,20 @@
 14|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have<lineend>enough.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 16|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 17|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite<lineend>have enough money. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
 18|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 21|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 22|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 23|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

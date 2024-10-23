@@ -11,15 +11,15 @@
 131075|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Sidrael...<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I'm positively<lineend>delighted to see you all back safe and sound.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'm positively<lineend>delighted to see<pause><lineend><CC03EA>you all back safe<lineend>and sound.<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry,<lineend>Jestonai.<lineend>The three of us<lineend>must worry you an awful lot.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry,<lineend>Jestonai.<lineend>The three of us<lineend>must worry you an<pause><lineend><CC03EA>awful lot.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I do grow faint<lineend>when I imagine the Queen traveling alone into the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I do grow faint<lineend>when I imagine the<pause><lineend><CC03EA>Queen traveling<lineend>alone into the<lineend>Demon Realm.<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>But, it's now clear<lineend>how strong our Queen has become.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>But, it's now clear<lineend>how strong our<pause><lineend><CC03EA>Queen has become.<pause><lineend>|
 131080|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Maybe it was for<lineend>the best that I left the castle after all?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Maybe it was for<lineend>the best that I<pause><lineend><CC03EA>left the castle<lineend>after all?<pause><lineend>|
 131081|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Well...<lineend>Regardless, I'm<lineend>glad you're safe.<pause><lineend>|
 196608|
@@ -27,7 +27,7 @@
 196609|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty! Your<lineend>Majesty!<pause><lineend>|
 196610|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Aria? What in the<lineend>world could be happening at this hour?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Aria? What in the<lineend>world could be<pause><lineend><CC03EA>happening at this<lineend>hour?<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>A monster, that's<lineend>what!<lineend>It's trying to<lineend>break in!<pause><lineend>|
 196612|

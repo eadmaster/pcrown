@@ -1,27 +1,27 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Sir Glowstar was a<lineend>true Knight to the end.<pause><lineend><CC03EA>I believe he is<lineend>resting peacefully in heaven right now.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Sir Glowstar was a<lineend>true Knight to the<pause><lineend><CC03EA>end.<pause><lineend><CC03EA>I believe he is<lineend>resting peacefully<lineend>in heaven right<pause><lineend><CC03EA>now.<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0102><lineend><color=0001>There you are,<lineend>Edward.<pause><lineend><CC03EA>I'm still looking<lineend>forward to the day that you decide to join the Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>There you are,<lineend>Edward.<pause><lineend><CC03EA>I'm still looking<lineend>forward to the day<lineend>that you decide to<pause><lineend><CC03EA>join the Guard.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>I wonder what<lineend>Sidrael could be going through right now?<pause><lineend><CC03EA>She's always had<lineend>trouble with her health, which makes me all the more worried.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>I wonder what<lineend>Sidrael could be<pause><lineend><CC03EA>going through right<lineend>now?<pause><lineend><CC03EA>She's always had<lineend>trouble with her<lineend>health, which makes<pause><lineend><CC03EA>me all the more<lineend>worried.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Welcome, Edward.<pause><lineend><CC03EA>Your help during<lineend>all of this is truly appreciated.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Welcome, Edward.<pause><lineend><CC03EA>Your help during<lineend>all of this is<lineend>truly appreciated.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is<lineend>through here.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come,<lineend>they will never break us.<pause><lineend><CC03EA>We fight for the<lineend>Queen, not for ourselves!<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come,<lineend>they will never<pause><lineend><CC03EA>break us.<pause><lineend><CC03EA>We fight for the<lineend>Queen, not for<lineend>ourselves!<pause><lineend>|
 65536|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Edward!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=017E><lineend><color=0001>Thank you for<lineend>coming to help us.<pause><lineend><CC03EA>It turns out that<lineend>for all those years, your Father was watching over the castle...<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Thank you for<lineend>coming to help us.<pause><lineend><CC03EA>It turns out that<lineend>for all those<lineend>years, your Father<pause><lineend><CC03EA>was watching over<lineend>the castle...<pause><lineend>|
 65538|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Honestly, I don't<lineend>think I know what to do with myself anymore.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Honestly, I don't<lineend>think I know what<pause><lineend><CC03EA>to do with myself<lineend>anymore.<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Was my Mother was<lineend>right? Was Golgotha an honorable Knight all along?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Was my Mother was<lineend>right? Was Golgotha<pause><lineend><CC03EA>an honorable Knight<lineend>all along?<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=017E><lineend><color=0001>What he did 25<lineend>years ago, he only did because of a magic spell.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>What he did 25<lineend>years ago, he only<pause><lineend><CC03EA>did because of a<lineend>magic spell.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=017E><lineend><color=0001>It had nothing to<lineend>do with what was in his heart.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>It had nothing to<lineend>do with what was in<pause><lineend><CC03EA>his heart.<pause><lineend>|
 65542|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Then how come he<lineend>never told me?<pause><lineend>|
 65543|
@@ -31,16 +31,16 @@
 65545|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Heindel?<pause><lineend>|
 65546|
-<CC03EA><color=0003><string=0001><lineend><color=0001>He's a Dragon, and<lineend>he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell<lineend>me what my Father was really thinking, it's him.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>He's a Dragon, and<lineend>he's supposed to be<pause><lineend><CC03EA>able to tell people<lineend>anything they want<lineend>to know.<pause><lineend><CC03EA>If anyone can tell<lineend>me what my Father<lineend>was really<pause><lineend><CC03EA>thinking, it's him.<pause><lineend>|
 65547|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's a good idea.<pause><lineend>|
 65548|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Your Highness...Let<lineend>me apologize for not addressing you properly before.<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your Highness...Let<lineend>me apologize for<pause><lineend><CC03EA>not addressing you<lineend>properly before.<lineend><pause>|
 65549|
-<CC03EA><color=0004><string=017E><lineend><color=0001>You don't have to<lineend>say that, Edward. Besides, my journey isn't finished yet.<lineend><pause><CC03EA>I want you to think<lineend>of me only as a traveler named Gradriel...<lineend><pause><CC03EA>...and Gradriel is<lineend>the only thing I want you to call me.<lineend><pause>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>You don't have to<lineend>say that, Edward.<pause><lineend><CC03EA>Besides, my journey<lineend>isn't finished yet.<lineend><pause><CC03EA>I want you to think<lineend>of me only as a<lineend>traveler named<pause><lineend><CC03EA>Gradriel...<lineend><pause><CC03EA>...and Gradriel is<lineend>the only thing I<lineend>want you to call<pause><lineend><CC03EA>me.<lineend><pause>|
 65550|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Gradriel.<pause><lineend>|
 65551|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Take care, Edward.<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I'll be waiting for<lineend>the day that you come back as a member of the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'll be waiting for<lineend>the day that you<pause><lineend><CC03EA>come back as a<lineend>member of the<lineend>Knight Guard.<pause><lineend>|

@@ -1,20 +1,20 @@
 0|
 <CC03EA><color=0006><string=0035><lineend><color=0001>I wonder if Leon is<lineend>doing all right.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Maybe it's my age,<lineend>but the heat these days is too much to bear.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Maybe it's my age,<lineend>but the heat these<pause><lineend><CC03EA>days is too much to<lineend>bear.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if Leon<lineend>will ever come back...<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if Leon<lineend>will ever come<pause><lineend><CC03EA>back...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine<lineend>just went to the Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a<lineend>really fun game called <color=0003>Truck Chase<color=0001> that you can play<lineend>there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine<lineend>just went to the<pause><lineend><CC03EA>Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a<lineend>really fun game<lineend>called <color=0003>Truck Chase<color=0001> that you can play<lineend>there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=001F><lineend><color=0001>When we had that<lineend>earthquake, I thought it meant the Basilisk would come back!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>When we had that<lineend>earthquake, I<pause><lineend><CC03EA>thought it meant<lineend>the Basilisk would<lineend>come back!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=000B><lineend><color=0001>I was doing some<lineend>shopping in Cadho Badho when that big earthquake hit...<pause><lineend><CC03EA>Cities and I just<lineend>don't get along.<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>I was doing some<lineend>shopping in Cadho<pause><lineend><CC03EA>Badho when that big<lineend>earthquake hit...<pause><lineend><CC03EA>Cities and I just<lineend>don't get along.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Aaah...Aaah....Aaah-Choo!<pause><lineend><CC03EA>I can't stop<lineend>sneezing!<pause><lineend><CC03EA>Maybe it's really a<lineend>cold after all. Aaah...Aaah...Aaah-Choo!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Aaah...Aaah....Aaah-Choo!<pause><lineend><CC03EA>I can't stop<lineend>sneezing!<pause><lineend><CC03EA>Maybe it's really a<lineend>cold after all.<lineend>Aaah...Aaah...Aaah-Choo!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=003B><lineend><color=0001>The wind from the<lineend>desert has gotten stronger.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>The wind from the<lineend>desert has gotten<pause><lineend><CC03EA>stronger.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you<lineend>something nobody else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy<lineend>Woods,<color=0001> you can find the a<lineend>great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as<lineend>you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you<lineend>something nobody<pause><lineend><CC03EA>else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy<lineend>Woods,<color=0001> you can find the a<lineend>great big tree<lineend>known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as<lineend>you carry a<lineend>Yggdrasill Fruit,<pause><lineend><CC03EA>practically nothing<lineend>can beat you.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the<lineend>Fairy Woods.<color=0001><pause><lineend>|

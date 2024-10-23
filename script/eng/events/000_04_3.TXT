@@ -1,73 +1,73 @@
 0|
 <CC03EA><color=0006><string=017F><lineend><color=0001>Poor Sidrael...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept<lineend>us in good cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how<lineend>the Queen and the Knight Guard would save us.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept<lineend>us in good cheer,<pause><lineend><CC03EA>right up to the<lineend>end.<pause><lineend><CC03EA>She kept saying how<lineend>the Queen and the<lineend>Knight Guard would<pause><lineend><CC03EA>save us.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Princess Eriel is<lineend>in her room now.<pause><lineend><CC03EA>I think it would be<lineend>good for you to say something to your sister before you leave.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Princess Eriel is<lineend>in her room now.<pause><lineend><CC03EA>I think it would be<lineend>good for you to say<lineend>something to your<pause><lineend><CC03EA>sister before you<lineend>leave.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>I think you've made<lineend>Princess Eriel feel a little bit better.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>I think you've made<lineend>Princess Eriel feel<pause><lineend><CC03EA>a little bit<lineend>better.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=00F0><lineend><color=0001>Please take care,<lineend>Gradriel.<pause><lineend>|
 5|
-<CC03EA><color=0004><string=0129><lineend><color=0001>It's no good being<lineend>sad all the time.<pause><lineend><CC03EA>I have to collect<lineend>myself. I can't let you down now.<pause><lineend><CC03EA>I want to be a<lineend>sister that you can be proud of.<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>It's no good being<lineend>sad all the time.<pause><lineend><CC03EA>I have to collect<lineend>myself. I can't let<lineend>you down now.<pause><lineend><CC03EA>I want to be a<lineend>sister that you can<lineend>be proud of.<pause><lineend>|
 6|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Eriel...<pause><lineend><CC03EA>I'm bringing our<lineend>sister back home. I promise.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Eriel...<pause><lineend><CC03EA>I'm bringing our<lineend>sister back home. I<lineend>promise.<pause><lineend>|
 7|
-<CC03EA><color=0004><string=0129><lineend><color=0001>That means you're<lineend>going off again, doesn't it?<pause><lineend><CC03EA>All right,<lineend>Gradriel. I'll take care of things here at the castle.<pause><lineend><CC03EA>Just promise that<lineend>you'll come home safe!<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>That means you're<lineend>going off again,<pause><lineend><CC03EA>doesn't it?<pause><lineend><CC03EA>All right,<lineend>Gradriel. I'll take<lineend>care of things here<pause><lineend><CC03EA>at the castle.<pause><lineend><CC03EA>Just promise that<lineend>you'll come home<lineend>safe!<pause><lineend>|
 8|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Promise everyone<lineend>you'll come home safe!<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Promise everyone<lineend>you'll come home<pause><lineend><CC03EA>safe!<pause><lineend>|
 9|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>Oh, Sidrael...<lineend><CC03ED=000000A200010000><pause>|
 10|
 <CC03F0=000000880001000A03FF00000000>|
 11|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Buildings all over<lineend>town have been destroyed, but somehow, our people are doing just fine.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Buildings all over<lineend>town have been<pause><lineend><CC03EA>destroyed, but<lineend>somehow, our people<lineend>are doing just<pause><lineend><CC03EA>fine.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I'm so sorry that I<lineend>couldn't protect Sidrael...<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I'm so sorry that I<lineend>couldn't protect<pause><lineend><CC03EA>Sidrael...<pause><lineend>|
 13|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thanks for all your<lineend>hard work, Kwein.<pause><lineend><CC03EA>The Demons would<lineend>have wreaked a lot more havoc if you hadn't been here.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thanks for all your<lineend>hard work, Kwein.<pause><lineend><CC03EA>The Demons would<lineend>have wreaked a lot<lineend>more havoc if you<pause><lineend><CC03EA>hadn't been here.<pause><lineend>|
 14|
-<CC03EA><color=0004><string=0102><lineend><color=0001>You're too kind,<lineend>your Majesty.<pause><lineend><CC03EA>Sir Glowstar is the<lineend>one who really deserves our gratitude.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>You're too kind,<lineend>your Majesty.<pause><lineend><CC03EA>Sir Glowstar is the<lineend>one who really<lineend>deserves our<pause><lineend><CC03EA>gratitude.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000>|
 15|
-<CC03EA><color=0002><string=0000><lineend><color=0001>He was a brave<lineend>Knight...<pause><lineend><CC03EA>I don't understand.<lineend>How did such a great man come to be hated like he was?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>He was a brave<lineend>Knight...<pause><lineend><CC03EA>I don't understand.<lineend>How did such a<lineend>great man come to<pause><lineend><CC03EA>be hated like he<lineend>was?<pause><lineend>|
 16|
-<CC03EA><color=0004><string=0102><lineend><color=0001>What everyone saw<lineend>was nothing more than an imposter who had stolen his body.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>What everyone saw<lineend>was nothing more<pause><lineend><CC03EA>than an imposter<lineend>who had stolen his<lineend>body.<pause><lineend>|
 17|
 <CC03FA=0000000000000000000003FF000A003C0000><CC03FB=003C>|
 18|
 <CC03FA=0000000100000000000003FF000A003C0000><CC03FB=003C>|
 19|
-<CC03EA><color=0004><string=0102><lineend><color=0001>25 years ago, Sir<lineend>Glowstar succumbed to the evil book because he was protecting me.<pause><lineend><CC03EA>If it weren't for<lineend>him, I'd have been the one people blamed for the war...<pause><lineend><CC03EA>The villagers and<lineend>townsfolk still don't know any better.<pause><lineend><CC03EA>All they saw was<lineend>Golgotha betraying the Queen and leading Demons against the castle.<pause><lineend><CC03EA>Just remember<lineend>tonight, your Majesty. That was the real Golgotha.<pause><lineend><CC03EA>Sir Glowstar was<lineend>the proudest Knight in all of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>25 years ago, Sir<lineend>Glowstar succumbed<pause><lineend><CC03EA>to the evil book<lineend>because he was<lineend>protecting me.<pause><lineend><CC03EA>If it weren't for<lineend>him, I'd have been<lineend>the one people<pause><lineend><CC03EA>blamed for the<lineend>war...<pause><lineend><CC03EA>The villagers and<lineend>townsfolk still<lineend>don't know any<pause><lineend><CC03EA>better.<pause><lineend><CC03EA>All they saw was<lineend>Golgotha betraying<lineend>the Queen and<pause><lineend><CC03EA>leading Demons<lineend>against the castle.<pause><lineend><CC03EA>Just remember<lineend>tonight, your<lineend>Majesty. That was<pause><lineend><CC03EA>the real Golgotha.<pause><lineend><CC03EA>Sir Glowstar was<lineend>the proudest Knight<lineend>in all of Valendia.<pause><lineend>|
 20|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>That book makes<lineend>whoever picks it up to work toward reviving the Demon King.<pause><lineend><CC03EA>That's how Golgotha<lineend>wound up fighting alongside the Demon King's Army 25 years ago.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>That book makes<lineend>whoever picks it up<pause><lineend><CC03EA>to work toward<lineend>reviving the Demon<lineend>King.<pause><lineend><CC03EA>That's how Golgotha<lineend>wound up fighting<lineend>alongside the Demon<pause><lineend><CC03EA>King's Army 25<lineend>years ago.<pause><lineend>|
 21|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Please take care of<lineend>yourself...<pause><lineend>|
 22|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am so shaken by<lineend>what's happened to Sidrael that all I can do is pray.<pause><lineend><CC03EA>Queen Gradriel,<lineend>please do pray for her safety.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am so shaken by<lineend>what's happened to<pause><lineend><CC03EA>Sidrael that all I<lineend>can do is pray.<pause><lineend><CC03EA>Queen Gradriel,<lineend>please do pray for<lineend>her safety.<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 24|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard<pause><lineend><CC03EA>your Majesty's<lineend>prayers.<pause><lineend>|
 25|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 26|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 27|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 28|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 65536|
-<CC03ED=01290010000103FF><CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=01290011000103FF>Gradriel...How<lineend>could this have happened?<pause><lineend><CC03EA><CC03ED=01290011000103FF>The town and the<lineend>castle, attacked...So many Knights, dead...<pause><lineend>|
+<CC03ED=01290010000103FF><CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=01290011000103FF>Gradriel...How<lineend>could this have<pause><lineend><CC03EA>happened?<pause><lineend><CC03EA><CC03ED=01290011000103FF>The town and the<lineend>castle,<lineend>attacked...So many<pause><lineend><CC03EA>Knights, dead...<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Please don't lose<lineend>heart, Eriel. Both of us need to be strong.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please don't lose<lineend>heart, Eriel. Both<pause><lineend><CC03EA>of us need to be<lineend>strong.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael has been<lineend>taken away by the Demons. That much is true.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael has been<lineend>taken away by the<pause><lineend><CC03EA>Demons. That much<lineend>is true.<lineend><pause>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But I'm going to<lineend>get her back.<lineend><pause>|
 65540|
-<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=01290011000103FF>I'm sure she was<lineend>taken to the Demon Realm through the gate in the Black Forest.<lineend><CC03ED=01290010000103FF><pause><CC03EA><CC03ED=01290011000103FF>If only I had never<lineend>found that book...<lineend><CC03ED=01290010000103FF><pause>|
+<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=01290011000103FF>I'm sure she was<lineend>taken to the Demon<pause><lineend><CC03EA>Realm through the<lineend>gate in the Black<lineend>Forest.<lineend><CC03ED=01290010000103FF><pause><CC03EA><CC03ED=01290011000103FF>If only I had never<lineend>found that book...<lineend><CC03ED=01290010000103FF><pause>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That's at least one<lineend>little nightmare that's over now.<lineend><pause><CC03EA>I know I can count<lineend>on you to help me, just like I always have.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's at least one<lineend>little nightmare<pause><lineend><CC03EA>that's over now.<lineend><pause><CC03EA>I know I can count<lineend>on you to help me,<lineend>just like I always<pause><lineend><CC03EA>have.<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0129><lineend><color=0001>Gradriel...<pause><lineend>|
 65543|
@@ -77,22 +77,22 @@
 131073|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>What is it, your<lineend>Highness?<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm going back to<lineend>that tower in the forest.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm going back to<lineend>that tower in the<pause><lineend><CC03EA>forest.<pause><lineend>|
 131075|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>You're going to go<lineend>where!?<pause><lineend>|
 131076|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I think the Demon<lineend>that kidnapped Sidrael went back to the Demon Realm through that tower.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think the Demon<lineend>that kidnapped<pause><lineend><CC03EA>Sidrael went back<lineend>to the Demon Realm<lineend>through that tower.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, I<lineend>beg of you! Don't go!<pause><lineend><CC03EA>Leave these<lineend>dangerous tasks to the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, I<lineend>beg of you! Don't<pause><lineend><CC03EA>go!<pause><lineend><CC03EA>Leave these<lineend>dangerous tasks to<lineend>the Knight Guard.<pause><lineend>|
 131078|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The Demon King may<lineend>revive and attack us anytime.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The Demon King may<lineend>revive and attack<pause><lineend><CC03EA>us anytime.<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>We need the Guard<lineend>here, watching over the town and the castle.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We need the Guard<lineend>here, watching over<pause><lineend><CC03EA>the town and the<lineend>castle.<lineend><pause>|
 131080|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>It would appear<lineend>that there is no changing your mind.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>It would appear<lineend>that there is no<pause><lineend><CC03EA>changing your mind.<pause><lineend>|
 131081|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I need to see if<lineend>it's possible to get to the Demon Realm through that tower.<pause><lineend><CC03EA>Jestonai, I'll be<lineend>leaving you in charge again. I'm counting on you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I need to see if<lineend>it's possible to<pause><lineend><CC03EA>get to the Demon<lineend>Realm through that<lineend>tower.<pause><lineend><CC03EA>Jestonai, I'll be<lineend>leaving you in<lineend>charge again. I'm<pause><lineend><CC03EA>counting on you.<pause><lineend>|
 131082|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...Very well, my<lineend>Queen. I shall do as you command.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...Very well, my<lineend>Queen. I shall do<pause><lineend><CC03EA>as you command.<pause><lineend>|
 131083|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>やはり騎士団を連れて行かれたほうが・・・<lineend>・・・いえ、なんでもございません。<pause><lineend>|

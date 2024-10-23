@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Do be careful out<lineend>there, Queen Gradriel!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Do be careful out<lineend>there, Queen<pause><lineend><CC03EA>Gradriel!<pause><lineend>|
 65536|
 <CC03EA>Ç±ÇÍÇÕÉ_É~Å[Ç≈Ç∑<lineend><pause>|

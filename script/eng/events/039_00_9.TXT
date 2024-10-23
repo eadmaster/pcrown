@@ -1,46 +1,46 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>I'm sure those<lineend>newlyweds are doing just fine.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I'm sure those<lineend>newlyweds are doing<pause><lineend><CC03EA>just fine.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0059><lineend><color=0001>I wish I could live<lineend>the same relaxed, carefree life the Froggers in that village do!<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I wish I could live<lineend>the same relaxed,<pause><lineend><CC03EA>carefree life the<lineend>Froggers in that<lineend>village do!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho<lineend>Badho.<pause><lineend><CC03EA>That town is in a<lineend>lot of trouble right now because of a group of bandits called The Donfans.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho<lineend>Badho.<pause><lineend><CC03EA>That town is in a<lineend>lot of trouble<lineend>right now because<pause><lineend><CC03EA>of a group of<lineend>bandits called The<lineend>Donfans.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I heard about the<lineend>monsters in the north seas.<pause><lineend><CC03EA>They say they're<lineend>actually quite beautiful, but also really tough!<pause><lineend><CC03EA>Only the strongest<lineend>fighters stand a chance against them.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I heard about the<lineend>monsters in the<pause><lineend><CC03EA>north seas.<pause><lineend><CC03EA>They say they're<lineend>actually quite<lineend>beautiful, but also<pause><lineend><CC03EA>really tough!<pause><lineend><CC03EA>Only the strongest<lineend>fighters stand a<lineend>chance against<pause><lineend><CC03EA>them.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0024><lineend><color=0001>The monsters of the<lineend>north seas were mermaids?<pause><lineend><CC03EA>Wow. They must be<lineend>nothing like that nice mermaid in lake Titania...Ondine, right?<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>The monsters of the<lineend>north seas were<pause><lineend><CC03EA>mermaids?<pause><lineend><CC03EA>Wow. They must be<lineend>nothing like that<lineend>nice mermaid in<pause><lineend><CC03EA>lake<lineend>Titania...Ondine,<lineend>right?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0067><lineend><color=0001>We all just heard<lineend>that the Island of Illusion is connected to the Demon Realm.<pause><lineend><CC03EA>I always<lineend>half-believed that there was a path to paradise there...<pause><lineend><CC03EA>Now I know it's<lineend>really something much scarier.<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>We all just heard<lineend>that the Island of<pause><lineend><CC03EA>Illusion is<lineend>connected to the<lineend>Demon Realm.<pause><lineend><CC03EA>I always<lineend>half-believed that<lineend>there was a path to<pause><lineend><CC03EA>paradise there...<pause><lineend><CC03EA>Now I know it's<lineend>really something<lineend>much scarier.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0063><lineend><color=0001>You want to go to<lineend>the Northern Kingdom?<pause><lineend><CC03EA>Look, I don't want<lineend>to upset you,  but you're better off forgetting about it.<pause><lineend><CC03EA>Why do you think we<lineend>haven't had trade with the Northern Kingdom for the last 20 years?<pause><lineend><CC03EA>It's because there<lineend>are a bunch of dreadful Sirens living between us.<pause><lineend><CC03EA>They sink any ship<lineend>that dare tries passing by with their cursed songs.<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>You want to go to<lineend>the Northern<pause><lineend><CC03EA>Kingdom?<pause><lineend><CC03EA>Look, I don't want<lineend>to upset you,  but<lineend>you're better off<pause><lineend><CC03EA>forgetting about<lineend>it.<pause><lineend><CC03EA>Why do you think we<lineend>haven't had trade<lineend>with the Northern<pause><lineend><CC03EA>Kingdom for the<lineend>last 20 years?<pause><lineend><CC03EA>It's because there<lineend>are a bunch of<lineend>dreadful Sirens<pause><lineend><CC03EA>living between us.<pause><lineend><CC03EA>They sink any ship<lineend>that dare tries<lineend>passing by with<pause><lineend><CC03EA>their cursed songs.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Hooray! We'll<lineend>finally be able to see the emerald seas of the Northern Kingdom again!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Hooray! We'll<lineend>finally be able to<pause><lineend><CC03EA>see the emerald<lineend>seas of the<lineend>Northern Kingdom<pause><lineend><CC03EA>again!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=003C><lineend><color=0001>I wonder if I'll<lineend>ever see him again...<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>I wonder if I'll<lineend>ever see him<pause><lineend><CC03EA>again...<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001C><lineend><color=0001>I'll tell you one<lineend>thing about the monsters of the north seas...<pause><lineend><CC03EA>...they feed off<lineend>the souls of sailors!<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>I'll tell you one<lineend>thing about the<pause><lineend><CC03EA>monsters of the<lineend>north seas...<pause><lineend><CC03EA>...they feed off<lineend>the souls of<lineend>sailors!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Well, how about<lineend>that? The monsters in the north seas are gone now.<pause><lineend><CC03EA>The sailors they<lineend>killed must be smiling in the afterlife.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Well, how about<lineend>that? The monsters<pause><lineend><CC03EA>in the north seas<lineend>are gone now.<pause><lineend><CC03EA>The sailors they<lineend>killed must be<lineend>smiling in the<pause><lineend><CC03EA>afterlife.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=000F><lineend><color=0001>Maybe the<lineend>earthquake happened because Gaia is sad about something?<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>Maybe the<lineend>earthquake happened<pause><lineend><CC03EA>because Gaia is sad<lineend>about something?<pause><lineend>|
 12|
-<CC03EA><color=0006><string=003D><lineend><color=0001>Even Volga's navy<lineend>was overwhelmed when it tried to fight the monsters of the north seas.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Even Volga's navy<lineend>was overwhelmed<pause><lineend><CC03EA>when it tried to<lineend>fight the monsters<lineend>of the north seas.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=003D><lineend><color=0001>I heard Portgus<lineend>played a role in putting down the Sirens!<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>I heard Portgus<lineend>played a role in<pause><lineend><CC03EA>putting down the<lineend>Sirens!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=001D><lineend><color=0001>The Sirens in the<lineend>north seas use their beautiful voices to sink ships!<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The Sirens in the<lineend>north seas use<pause><lineend><CC03EA>their beautiful<lineend>voices to sink<lineend>ships!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=001D><lineend><color=0001>They say Portgus<lineend>was born in the kingdom to the north.<pause><lineend><CC03EA>It makes sense.<lineend>Chrisford is a pretty common name over there.<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>They say Portgus<lineend>was born in the<pause><lineend><CC03EA>kingdom to the<lineend>north.<pause><lineend><CC03EA>It makes sense.<lineend>Chrisford is a<lineend>pretty common name<pause><lineend><CC03EA>over there.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 17|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 18|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
 22|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|

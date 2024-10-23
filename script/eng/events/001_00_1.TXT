@@ -1,59 +1,59 @@
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty!<lineend>You've come back!<pause><lineend><CC03EA>Did you meet with<lineend>King Volga? And what of his crown?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty!<lineend>You've come back!<pause><lineend><CC03EA>Did you meet with<lineend>King Volga? And<lineend>what of his crown?<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Grandfather's crown<lineend>was stolen.<pause><lineend><CC03EA>Leon is probably<lineend>going to come after my crown next.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Grandfather's crown<lineend>was stolen.<pause><lineend><CC03EA>Leon is probably<lineend>going to come after<lineend>my crown next.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Whatever happens,<lineend>we must stop him from summoning the Dark God Larva.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Whatever happens,<lineend>we must stop him<pause><lineend><CC03EA>from summoning the<lineend>Dark God Larva.<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel,<lineend>please allow me to take care of this!<pause><lineend><CC03EA>I won't let you<lineend>come in harm's way again. I swear it!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel,<lineend>please allow me to<pause><lineend><CC03EA>take care of this!<pause><lineend><CC03EA>I won't let you<lineend>come in harm's way<lineend>again. I swear it!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0102><lineend><color=0001>The guards have the<lineend>castle locked up tight. Even a kitten couldn't sneak its way in!<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>The guards have the<lineend>castle locked up<pause><lineend><CC03EA>tight. Even a<lineend>kitten couldn't<lineend>sneak its way in!<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...All right.<lineend>I'll be counting on<lineend>you both.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Hey! I've come to<lineend>help, too! Just give me something to do, and I'll do it.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Hey! I've come to<lineend>help, too! Just<pause><lineend><CC03EA>give me something<lineend>to do, and I'll do<lineend>it.<pause><lineend>|
 65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Portgus! What are<lineend>you doing here?<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=0178><lineend><color=0001>I wanted to see if<lineend>I could catch the infamous crown-thief.<pause><lineend><CC03EA>We're friends,<lineend>aren't we? Come on, let me give you a hand.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>I wanted to see if<lineend>I could catch the<pause><lineend><CC03EA>infamous<lineend>crown-thief.<pause><lineend><CC03EA>We're friends,<lineend>aren't we? Come on,<lineend>let me give you a<pause><lineend><CC03EA>hand.<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I can hardly turn<lineend>away a friend of the Queen. Come inside, Portgus.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I can hardly turn<lineend>away a friend of<pause><lineend><CC03EA>the Queen. Come<lineend>inside, Portgus.<lineend><pause>|
 131072|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Do I have to stay<lineend>here the whole time?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Do I have to stay<lineend>here the whole<pause><lineend><CC03EA>time?<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>We're going to<lineend>protect you, your Majesty. Please just relax and wait here.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>We're going to<lineend>protect you, your<pause><lineend><CC03EA>Majesty. Please<lineend>just relax and wait<lineend>here.<lineend><pause>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid he's<lineend>going to use powerful magic against all of you.<pause><lineend><CC03EA>Please be ready for<lineend>anything.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid he's<lineend>going to use<pause><lineend><CC03EA>powerful magic<lineend>against all of you.<pause><lineend><CC03EA>Please be ready for<lineend>anything.<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=016C><lineend><color=0001>There's no turning<lineend>back now, is there, Gradriel?<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>There's no turning<lineend>back now, is there,<pause><lineend><CC03EA>Gradriel?<pause><lineend>|
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Edward!<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thank goodness! I'm<lineend>so happy you're all right.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank goodness! I'm<lineend>so happy you're all<pause><lineend><CC03EA>right.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=016C><lineend><color=0001>I had no intention<lineend>of dying in a place like that.<lineend><pause>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>I had no intention<lineend>of dying in a place<pause><lineend><CC03EA>like that.<lineend><pause>|
 131079|
-<CC03EA><color=0004><string=016C><lineend><color=0001>By the way, some<lineend>fussy old man from Volga wanted to talk to you, so I brought him with me.<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>By the way, some<lineend>fussy old man from<pause><lineend><CC03EA>Volga wanted to<lineend>talk to you, so I<lineend>brought him with<pause><lineend><CC03EA>me.<pause><lineend>|
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>King Volga!<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Queen of Valendia,<lineend>if I may say so...<pause><lineend><CC03EA>...this Knight of<lineend>yours leaves much to be desired.<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Queen of Valendia,<lineend>if I may say so...<pause><lineend><CC03EA>...this Knight of<lineend>yours leaves much<lineend>to be desired.<pause><lineend>|
 131082|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>King Volga, what<lineend>brings you here so suddenly?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>King Volga, what<lineend>brings you here so<pause><lineend><CC03EA>suddenly?<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Make no mistake.<pause><lineend><CC03EA>I'm only here to<lineend>take back my stolen crown.<pause><lineend><CC03EA>It has nothing to<lineend>do with my lovely granddaughter changing my mind!<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Make no mistake.<pause><lineend><CC03EA>I'm only here to<lineend>take back my stolen<lineend>crown.<pause><lineend><CC03EA>It has nothing to<lineend>do with my lovely<lineend>granddaughter<pause><lineend><CC03EA>changing my mind!<pause><lineend>|
 131084|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Grandfather...<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Don't trouble<lineend>yourself over me. I'll simply be doing as I see fit.<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Don't trouble<lineend>yourself over me.<pause><lineend><CC03EA>I'll simply be<lineend>doing as I see fit.<pause><lineend>|
 131086|
-<CC03EA><CC03FC=0004><string=007D><color=0001>Your Majesty!<lineend>Jestonai!<pause><lineend><CC03EA>A Wizard calling<lineend>himself Leon is attacking at the castle gate!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>Your Majesty!<lineend>Jestonai!<pause><lineend><CC03EA>A Wizard calling<lineend>himself Leon is<lineend>attacking at the<pause><lineend><CC03EA>castle gate!<pause><lineend>|
 131087|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>So he's finally<lineend>come...<pause><lineend>|
 131088|
-<CC03EA><CC03FC=0004><string=007D><color=0001>The Knights are<lineend>having difficulty against his magic.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>The Knights are<lineend>having difficulty<lineend>against his magic.<pause><lineend>|
 131089|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Tell the Captain<lineend>that I'll be there immediately to join them!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Tell the Captain<lineend>that I'll be there<pause><lineend><CC03EA>immediately to join<lineend>them!<pause><lineend>|
 131090|
 <CC03EA><CC03FC=0004><string=007D><color=0001>Yes, Sir!<pause><lineend>|
 131091|
@@ -61,11 +61,11 @@
 131092|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Be careful,<lineend>Jestonai.<pause><lineend>|
 131093|
-<CC03EA><color=0004><string=0178><lineend><color=0001>I guess it's time<lineend>for me to get out there with the rest of them!<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>I guess it's time<lineend>for me to get out<pause><lineend><CC03EA>there with the rest<lineend>of them!<pause><lineend>|
 131094|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm going to fight,<lineend>too!<pause><lineend>|
 131095|
-<CC03EA><color=0004><string=0178><lineend><color=0001>The old guy already<lineend>told you, didn't he?<pause><lineend><CC03EA>Your job is the<lineend>stay here.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>The old guy already<lineend>told you, didn't<pause><lineend><CC03EA>he?<pause><lineend><CC03EA>Your job is the<lineend>stay here.<pause><lineend>|
 131096|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But...<pause><lineend>|
 131097|
@@ -73,13 +73,13 @@
 131098|
 <CC03EA><color=0002><string=0000><lineend><color=0001>・・・すみませんわたしのために。<pause><lineend>|
 131099|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Fine. Just be<lineend>careful. Both of you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Fine. Just be<lineend>careful. Both of<pause><lineend><CC03EA>you.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>I've come for the<lineend>crown of the Queen of Valendia.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>I've come for the<lineend>crown of the Queen<pause><lineend><CC03EA>of Valendia.<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0102><lineend><color=0001>As long as the<lineend>Knight Guard stands, you won't lay a finger on the Queen!<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>As long as the<lineend>Knight Guard<pause><lineend><CC03EA>stands, you won't<lineend>lay a finger on the<lineend>Queen!<pause><lineend>|
 196610|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>That's a rather<lineend>presumptuous greeting, don't you think?<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>That's a rather<lineend>presumptuous<pause><lineend><CC03EA>greeting, don't you<lineend>think?<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Go! Take him out!<pause><lineend>|
 196612|
@@ -89,17 +89,17 @@
 196614|
 <CC03EA><color=0004><string=0102><lineend><color=0001>We've already lost<lineend>many of our men.<pause><lineend>|
 196615|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>You're not going to<lineend>win. It doesn't matter how many of you die!<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>You're not going to<lineend>win. It doesn't<pause><lineend><CC03EA>matter how many of<lineend>you die!<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=0102><lineend><color=0001>You...!<pause><lineend>|
 196617|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>I've had enough of<lineend>this absurdity.<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>What incredible<lineend>magic power...<pause><lineend><CC03EA>...but I still<lineend>can't allow him to pass!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>What incredible<lineend>magic power...<pause><lineend><CC03EA>...but I still<lineend>can't allow him to<lineend>pass!<pause><lineend>|
 262144|
 <CC03EA><color=0004><string=0105><lineend><color=0001>We were hoping<lineend>you'd arrive.<pause><lineend>|
 262145|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Go! The time has<lineend>come to show the true strength of the Holy Knights of Volga!<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Go! The time has<lineend>come to show the<pause><lineend><CC03EA>true strength of<lineend>the Holy Knights of<lineend>Volga!<pause><lineend>|
 262146|
 <CC03EA><color=0006><string=0084><lineend><color=0001>Yaaah!<pause><lineend>|
 262147|
@@ -107,24 +107,24 @@
 262148|
 <CC03EA><color=0004><string=0105><lineend><color=0001>I want my crown<lineend>back.<pause><lineend>|
 262149|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Keep it up all you<lineend>want. The result will be the same every time.<pause><lineend><CC03EA>This is no place<lineend>for doddering old men.<pause><lineend><CC03EA>King Volga, why<lineend>don't you go back to where you came from?<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Keep it up all you<lineend>want. The result<pause><lineend><CC03EA>will be the same<lineend>every time.<pause><lineend><CC03EA>This is no place<lineend>for doddering old<lineend>men.<pause><lineend><CC03EA>King Volga, why<lineend>don't you go back<lineend>to where you came<pause><lineend><CC03EA>from?<pause><lineend>|
 262150|
 <CC03EA><color=0004><string=0105><lineend><color=0001>Don't underestimate<lineend>me!<pause><lineend>|
 327680|
 <CC03EA><color=0004><string=0179><lineend><color=0001>The Crown Thief has<lineend>arrived, eh?<pause><lineend>|
 327681|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>How unusual. Who<lineend>let a dog into the castle?<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>How unusual. Who<lineend>let a dog into the<pause><lineend><CC03EA>castle?<pause><lineend>|
 327682|
-<CC03EA><color=0004><string=0179><lineend><color=0001>You jerk, that was<lineend>my line.<pause><lineend><CC03EA>Oh well. What do<lineend>you say we skip the small talk?<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>You jerk, that was<lineend>my line.<pause><lineend><CC03EA>Oh well. What do<lineend>you say we skip the<lineend>small talk?<pause><lineend>|
 327683|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>That will be fine.<pause><lineend>|
 327684|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Of course, for me<lineend>it only means stepping around another boulder.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Of course, for me<lineend>it only means<pause><lineend><CC03EA>stepping around<lineend>another boulder.<pause><lineend>|
 393216|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>So the Queen is in<lineend>the audience hall...<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>So the Queen is in<lineend>the audience<pause><lineend><CC03EA>hall...<pause><lineend>|
 393217|
-<CC03EA><color=0004><string=016E><lineend><color=0001>You must be the one<lineend>who's after Gradriel's crown.<pause><lineend><CC03EA>If you return King<lineend>Volga's crown right now, I might let you leave with your life.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You must be the one<lineend>who's after<pause><lineend><CC03EA>Gradriel's crown.<pause><lineend><CC03EA>If you return King<lineend>Volga's crown right<lineend>now, I might let<pause><lineend><CC03EA>you leave with your<lineend>life.<pause><lineend>|
 393218|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Give me any lip,<lineend>and I'll kill you where you stand.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Give me any lip,<lineend>and I'll kill you<pause><lineend><CC03EA>where you stand.<pause><lineend>|
 393219|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>You've got yourself<lineend>a fine sword there...<pause><lineend><CC03EA>The only problem is<lineend>actually hitting me with it!<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>You've got yourself<lineend>a fine sword<pause><lineend><CC03EA>there...<pause><lineend><CC03EA>The only problem is<lineend>actually hitting me<lineend>with it!<pause><lineend>|

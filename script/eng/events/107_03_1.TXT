@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>We won't let them<lineend>get the best of us next time!<pause><lineend><CC03EA>Knight Guardsmen<lineend>pride themselves on never letting the enemy use the same attack twice.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>We won't let them<lineend>get the best of us<pause><lineend><CC03EA>next time!<pause><lineend><CC03EA>Knight Guardsmen<lineend>pride themselves on<lineend>never letting the<pause><lineend><CC03EA>enemy use the same<lineend>attack twice.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I risk my life<lineend>gladly, as long as it's to protect the Queen.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I risk my life<lineend>gladly, as long as<pause><lineend><CC03EA>it's to protect the<lineend>Queen.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Sir Edward?<lineend><pause><CC03EA>During the Royal<lineend>Audience, only those who have permission from the Queen may enter.<lineend><pause>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Sir Edward?<lineend><pause><CC03EA>During the Royal<lineend>Audience, only<lineend>those who have<pause><lineend><CC03EA>permission from the<lineend>Queen may enter.<lineend><pause>|

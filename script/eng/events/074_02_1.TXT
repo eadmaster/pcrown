@@ -1,25 +1,25 @@
 0|
-<CC03EA><color=0006><string=000E><lineend><color=0001>They say the<lineend>southern kingdom is full of beautiful women since it's ruled by a Queen.<pause><lineend><CC03EA>You think it's<lineend>true? If it is, maybe I could convince one of them to marry me!<pause><lineend><CC03EA>"I the name of Gaia<lineend>herself, I promise to love you forever. Now marry me!"<pause><lineend><CC03EA>Gya ha ha ha!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>They say the<lineend>southern kingdom is<pause><lineend><CC03EA>full of beautiful<lineend>women since it's<lineend>ruled by a Queen.<pause><lineend><CC03EA>You think it's<lineend>true? If it is,<lineend>maybe I could<pause><lineend><CC03EA>convince one of<lineend>them to marry me!<pause><lineend><CC03EA>"I the name of Gaia<lineend>herself, I promise<lineend>to love you<pause><lineend><CC03EA>forever. Now marry<lineend>me!"<pause><lineend><CC03EA>Gya ha ha ha!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>I hear there's even<lineend>a Dwarf Kingdom in Valendia.<pause><lineend><CC03EA>They probably dig<lineend>up some incredible Gems there.<pause><lineend><CC03EA>Speaking of<lineend>Dwarves, did you know there is a very skilled Dwarf craftsman in Volga city?<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>I hear there's even<lineend>a Dwarf Kingdom in<pause><lineend><CC03EA>Valendia.<pause><lineend><CC03EA>They probably dig<lineend>up some incredible<lineend>Gems there.<pause><lineend><CC03EA>Speaking of<lineend>Dwarves, did you<lineend>know there is a<pause><lineend><CC03EA>very skilled Dwarf<lineend>craftsman in Volga<lineend>city?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the<lineend>Whale in the Sky Tavern! I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the<lineend>Whale in the Sky<pause><lineend><CC03EA>Tavern! I'll take<lineend>your order.<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 4|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Please come back<lineend>again soon!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>Our Local Delicacy<lineend>is Grilled Fish.<pause><lineend><CC03EA>We lightly salt<lineend>fresh fish and cook it quickly in a hot fire. The soft texture is amazing.<pause><lineend><CC03EA>Squeeze a little<lineend>lemon on it before you eat it!<pause><lineend><CC03EA>One is 48G. Will<lineend>you be buying one?<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Our Local Delicacy<lineend>is Grilled Fish.<pause><lineend><CC03EA>We lightly salt<lineend>fresh fish and cook<lineend>it quickly in a hot<pause><lineend><CC03EA>fire. The soft<lineend>texture is amazing.<pause><lineend><CC03EA>Squeeze a little<lineend>lemon on it before<lineend>you eat it!<pause><lineend><CC03EA>One is 48G. Will<lineend>you be buying one?<pause><lineend>|
 6|
 <CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 7|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have<lineend>enough.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more. Empty your bag a little bit first.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any<lineend>more. Empty your<pause><lineend><CC03EA>bag a little bit<lineend>first.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>There! It's<lineend>finished!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's<lineend>grill something. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>All right, let's<lineend>grill something.<pause><lineend><CC03EA>Please select a<lineend>Food to use.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>We can't grill<lineend>that. Sorry.<pause><lineend>|
 12|
@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Umm...<lineend>You don't have<lineend>enough.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>Ah, you must be<lineend>Gradriel. You're here from the kingdom to the south, right?<pause><lineend><CC03EA>It's all been taken<lineend>care of. Will you be spending the night?<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>Ah, you must be<lineend>Gradriel. You're<lineend>here from the<pause><lineend><CC03EA>kingdom to the<lineend>south, right?<pause><lineend><CC03EA>It's all been taken<lineend>care of. Will you<lineend>be spending the<pause><lineend><CC03EA>night?<pause><lineend>|
 16|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 17|
@@ -37,12 +37,12 @@
 18|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 21|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 22|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 23|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

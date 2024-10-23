@@ -1,13 +1,13 @@
 0|
-<CC03EA><color=0006><string=0004><lineend><color=0001>We apologized to<lineend>the fairies, and now we're getting along just like before.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>We apologized to<lineend>the fairies, and<pause><lineend><CC03EA>now we're getting<lineend>along just like<lineend>before.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>What kids want most<lineend>is to be able to play.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>What kids want most<lineend>is to be able to<pause><lineend><CC03EA>play.<pause><lineend>|
 2|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>Tabitha and I are<lineend>best friends. We play together all the time!<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Tabitha and I are<lineend>best friends. We<pause><lineend><CC03EA>play together all<lineend>the time!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0012><lineend><color=0001>It's really nice to<lineend>be surrounded by my family.<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>It's really nice to<lineend>be surrounded by my<pause><lineend><CC03EA>family.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The earthquake<lineend>really scared the ducks.<pause><lineend><CC03EA>Now they're only<lineend>eating half as much as they usually do.<pause><lineend><CC03EA>Come on, guys!<lineend>What's wrong?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The earthquake<lineend>really scared the<pause><lineend><CC03EA>ducks.<pause><lineend><CC03EA>Now they're only<lineend>eating half as much<lineend>as they usually do.<pause><lineend><CC03EA>Come on, guys!<lineend>What's wrong?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=00CC><lineend><color=0001>Quack...<pause><lineend>|
 6|
@@ -19,27 +19,27 @@
 9|
 <CC03EA><color=0006><string=018B><lineend><color=0001>Cheep?<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0166><lineend><color=0001>Hey Aria!<pause><lineend><CC03EA>That was one heck<lineend>of an earthquake, wasn't it?<pause><lineend><CC03EA>The animals in the<lineend>forest are pretty frightened.<pause><lineend>|
+<CC03EA><color=0006><string=0166><lineend><color=0001>Hey Aria!<pause><lineend><CC03EA>That was one heck<lineend>of an earthquake,<lineend>wasn't it?<pause><lineend><CC03EA>The animals in the<lineend>forest are pretty<lineend>frightened.<pause><lineend>|
 11|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>You know what's<lineend>really great? When fairies tell us their fairy-tales.<pause><lineend><CC03EA>They're so much fun<lineend>to listen to!<pause><lineend><CC03EA>I get all nervous<lineend>and excited every time I hear one. Fairy-tales are the best!<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>You know what's<lineend>really great? When<pause><lineend><CC03EA>fairies tell us<lineend>their fairy-tales.<pause><lineend><CC03EA>They're so much fun<lineend>to listen to!<pause><lineend><CC03EA>I get all nervous<lineend>and excited every<lineend>time I hear one.<pause><lineend><CC03EA>Fairy-tales are the<lineend>best!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the<lineend>Nutsbill Bakery. What can I get for you?<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the<lineend>Nutsbill Bakery.<pause><lineend><CC03EA>What can I get for<lineend>you?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 14|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Thanks again for<lineend>stopping by!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Our Local Delicacy<lineend>is Fruit Cake.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy, so it should be quite tasty.<pause><lineend><CC03EA>One is 16G.<lineend>How about it?<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Our Local Delicacy<lineend>is Fruit Cake.<pause><lineend><CC03EA>The fruit's been<lineend>steeped in brandy,<lineend>so it should be<pause><lineend><CC03EA>quite tasty.<pause><lineend><CC03EA>One is 16G.<lineend>How about it?<pause><lineend>|
 16|
 <CC03EA><CC03FC=0004><string=01AE><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 17|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't<lineend>quite have enough.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>You can't carry any<lineend>more, can you? Come see me when you can.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>You can't carry any<lineend>more, can you? Come<pause><lineend><CC03EA>see me when you<lineend>can.<pause><lineend>|
 19|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Here you are!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to<lineend>grill something for you. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to<lineend>grill something for<pause><lineend><CC03EA>you. Please select<lineend>a Food to use.<pause><lineend>|
 21|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't<lineend>cook that!<pause><lineend>|
 22|
@@ -49,38 +49,38 @@
 24|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. You don't<lineend>quite have enough.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>We'll work with the<lineend>fairies and protect the village!<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>We'll work with the<lineend>fairies and protect<pause><lineend><CC03EA>the village!<pause><lineend>|
 26|
-<CC03EA><color=0006><string=0167><lineend><color=0001>I've been talking<lineend>with the mayor about keeping the village safe from monsters.<pause><lineend><CC03EA>There sure are a<lineend>lot of them these days...<pause><lineend>|
+<CC03EA><color=0006><string=0167><lineend><color=0001>I've been talking<lineend>with the mayor<pause><lineend><CC03EA>about keeping the<lineend>village safe from<lineend>monsters.<pause><lineend><CC03EA>There sure are a<lineend>lot of them these<lineend>days...<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that will be useful in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 28|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 29|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
 31|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 32|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
 33|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those,<lineend>I'm afraid.<pause><lineend>|
 34|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
 35|
 <CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 36|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford it. Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it. Come back<lineend>anytime.<pause><lineend>|
 37|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then.<lineend>Enjoy your stay.<pause><lineend>|
 38|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
 39|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get some rest every now and then. And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
 40|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 41|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
 42|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

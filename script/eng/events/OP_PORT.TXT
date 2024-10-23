@@ -1,64 +1,64 @@
 65536|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Great Witch<lineend>Iraisha, I beg you.<pause><lineend><CC03EA>Tell me the<lineend>location of that Demon!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Great Witch<lineend>Iraisha, I beg you.<pause><lineend><CC03EA>Tell me the<lineend>location of that<lineend>Demon!<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Forget it, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There are some<lineend>things even I don't know!<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Forget it, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There are some<lineend>things even I don't<lineend>know!<lineend><CC03ED=008D0007000103FF><pause>|
 65538|
-<CC03EA><color=0003><string=0003><lineend><color=0001>How can that be?<pause><lineend><CC03EA>You're supposed to<lineend>be the witch that sees with a thousand eyes.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>How can that be?<pause><lineend><CC03EA>You're supposed to<lineend>be the witch that<lineend>sees with a<pause><lineend><CC03EA>thousand eyes.<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>You have to<lineend>understand, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>It's against the<lineend>Code of Witches to reveal anything about anyone from the Demon Realm.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You and I are<lineend>friends, but this is one request I simply can't fulfill.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>You have to<lineend>understand,<lineend>Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>It's against the<lineend>Code of Witches to<lineend>reveal anything<pause><lineend><CC03EA>about anyone from<lineend>the Demon Realm.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You and I are<lineend>friends, but this<lineend>is one request I<pause><lineend><CC03EA>simply can't<lineend>fulfill.<lineend><CC03ED=008D0007000103FF><pause>|
 65540|
 <CC03EA><color=0003><string=0003><lineend><color=0001>So that's how it's<lineend>going to be?<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Fine.<pause><lineend><CC03EA>I'll find that<lineend>Demon all by myself.<pause><lineend><CC03EA>And when I do...<lineend>I'll finally get<lineend>revenge for Faris!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Fine.<pause><lineend><CC03EA>I'll find that<lineend>Demon all by<lineend>myself.<pause><lineend><CC03EA>And when I do...<lineend>I'll finally get<lineend>revenge for Faris!<pause><lineend>|
 65542|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Portgus...<lineend>Wait.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you're really<lineend>serious about finding him, then go to the village of Knelt.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Portgus...<lineend>Wait.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you're really<lineend>serious about<lineend>finding him, then<pause><lineend><CC03EA>go to the village<lineend>of Knelt.<lineend><CC03ED=008D0007000103FF><pause>|
 65543|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What for?<pause><lineend>|
 65544|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>To the left of the<lineend>village, you'll find an underground ruin.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There's a Dragon<lineend>inside it called Heindel. He knows everything there is to know.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you ask him, he<lineend>should be able to tell you where your Demon is.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>To the left of the<lineend>village, you'll<lineend>find an underground<pause><lineend><CC03EA>ruin.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There's a Dragon<lineend>inside it called<lineend>Heindel. He knows<pause><lineend><CC03EA>everything there is<lineend>to know.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you ask him, he<lineend>should be able to<lineend>tell you where your<pause><lineend><CC03EA>Demon is.<lineend><CC03ED=008D0007000103FF><pause>|
 65545|
-<CC03EA><color=0003><string=0003><lineend><color=0001>A Dragon called<lineend>Heindel who knows everything...<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>A Dragon called<lineend>Heindel who knows<pause><lineend><CC03EA>everything...<pause><lineend>|
 65546|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Be warned. Heindel<lineend>only gives answers in trade for very special Gems.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Without one of<lineend>those Gems, he won't answer a thing.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Be warned. Heindel<lineend>only gives answers<lineend>in trade for very<pause><lineend><CC03EA>special Gems.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Without one of<lineend>those Gems, he<lineend>won't answer a<pause><lineend><CC03EA>thing.<lineend><CC03ED=008D0007000103FF><pause>|
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What are these<lineend>Gems?<pause><lineend>|
 65548|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>They're called the<lineend>Sun, Moon, Earth, and Ocean Stones. I've heard they're all he'll take.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Each of these<lineend>magical Gems is scarcely heard of outside of fairy tales and legends.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>To tell the truth,<lineend>I'm not completely sure they even exist.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>They're called the<lineend>Sun, Moon, Earth,<lineend>and Ocean Stones.<pause><lineend><CC03EA>I've heard they're<lineend>all he'll take.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Each of these<lineend>magical Gems is<lineend>scarcely heard of<pause><lineend><CC03EA>outside of fairy<lineend>tales and legends.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>To tell the truth,<lineend>I'm not completely<lineend>sure they even<pause><lineend><CC03EA>exist.<lineend><CC03ED=008D0007000103FF><pause>|
 65549|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Well, I know for<lineend>certain that one of them is real.<pause><lineend><CC03EA>It's in the legend<lineend>of the Great Pirate Drake.<pause><lineend><CC03EA>He was said to have<lineend>carried a Gem with him that gave off a radiant blue light.<pause><lineend><CC03EA>He called it the<lineend>Ocean Stone.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Well, I know for<lineend>certain that one of<pause><lineend><CC03EA>them is real.<pause><lineend><CC03EA>It's in the legend<lineend>of the Great Pirate<lineend>Drake.<pause><lineend><CC03EA>He was said to have<lineend>carried a Gem with<lineend>him that gave off a<pause><lineend><CC03EA>radiant blue light.<pause><lineend><CC03EA>He called it the<lineend>Ocean Stone.<pause><lineend>|
 65550|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>I think you get the<lineend>picture.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you can find<lineend>Drake's treasure, you should find the Ocean Stone there with it.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>I think you get the<lineend>picture.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you can find<lineend>Drake's treasure,<lineend>you should find the<pause><lineend><CC03EA>Ocean Stone there<lineend>with it.<lineend><CC03ED=008D0007000103FF><pause>|
 65551|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Go to Leeland.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Once you're there,<lineend>the way to the great pirate's treasure will reveal itself.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Go to Leeland.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Once you're there,<lineend>the way to the<lineend>great pirate's<pause><lineend><CC03EA>treasure will<lineend>reveal itself.<lineend><CC03ED=008D0007000103FF><pause>|
 65552|
 <CC03EA><color=0003><string=0003><lineend><color=0001>You really think<lineend>so?<pause><lineend>|
 65553|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Take it from the<lineend>witch that sees with a thousand eyes. You'll find it.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You will meet a<lineend>person in that town who will lead you to the right place.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You must be<lineend>careful, though, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>While he will lead<lineend>you to the island with the treasure, he will also cause you trouble.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Take it from the<lineend>witch that sees<lineend>with a thousand<pause><lineend><CC03EA>eyes. You'll find<lineend>it.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You will meet a<lineend>person in that town<lineend>who will lead you<pause><lineend><CC03EA>to the right place.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You must be<lineend>careful, though,<lineend>Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>While he will lead<lineend>you to the island<lineend>with the treasure,<pause><lineend><CC03EA>he will also cause<lineend>you trouble.<lineend><CC03ED=008D0007000103FF><pause>|
 65554|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Trouble, you say?<pause><lineend><CC03EA>I think I can<lineend>handle it.<lineend>Thanks, Iraisha.<pause><lineend>|
 131072|
 <CC03EA><CC03FC=0004><string=00E7><color=0001>Why can't I find<lineend>any good sailors?<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=00E7><color=0001>If only I could, we<lineend>could all go and get Drake's treasure together!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>If only I could, we<lineend>could all go and<lineend>get Drake's<pause><lineend><CC03EA>treasure together!<pause><lineend>|
 131074|
-<CC03EA><CC03FC=0004><string=000F><color=0001>You're crazy, old<lineend>man. There isn't a single person in town who believes you.<pause><lineend><CC03EA>You'll definitely<lineend>never find anyone who will take you on their ship.<pause><lineend><CC03EA>Now get lost,<lineend>Gramps. You're bad for business.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=000F><color=0001>You're crazy, old<lineend>man. There isn't a<lineend>single person in<pause><lineend><CC03EA>town who believes<lineend>you.<pause><lineend><CC03EA>You'll definitely<lineend>never find anyone<lineend>who will take you<pause><lineend><CC03EA>on their ship.<pause><lineend><CC03EA>Now get lost,<lineend>Gramps. You're bad<lineend>for business.<pause><lineend>|
 131075|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Sir! Is what you<lineend>said a moment ago all true?<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Sir! Is what you<lineend>said a moment ago<pause><lineend><CC03EA>all true?<pause><lineend>|
 131076|
 <CC03EA><color=0003><string=0003><lineend><color=0001>About Drake's<lineend>treasure, I mean.<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=00E7><color=0001>It most certainly<lineend>is!<pause><lineend><CC03EA>I have a map that<lineend>shows the way to the island where he hid his bounty.<pause><lineend><CC03EA>What I don't have<lineend>is a ship or sailors to take me through the rough seas along the way.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>It most certainly<lineend>is!<pause><lineend><CC03EA>I have a map that<lineend>shows the way to<lineend>the island where he<pause><lineend><CC03EA>hid his bounty.<pause><lineend><CC03EA>What I don't have<lineend>is a ship or<lineend>sailors to take me<pause><lineend><CC03EA>through the rough<lineend>seas along the way.<pause><lineend>|
 131078|
 <CC03EA><CC03FC=0004><string=00E7><color=0001>You look like a<lineend>sailor, young man.<pause><lineend><CC03EA>Are you any good,<lineend>by chance?<pause><lineend>|
 131079|
-<CC03EA><color=0003><string=0003><lineend><color=0001>The sea is<lineend>practically my home.<pause><lineend><CC03EA>Whether it's the<lineend>dreaded Sea of Demons or even the Ship Graveyard, there's no place I can't handle.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>The sea is<lineend>practically my<pause><lineend><CC03EA>home.<pause><lineend><CC03EA>Whether it's the<lineend>dreaded Sea of<lineend>Demons or even the<pause><lineend><CC03EA>Ship Graveyard,<lineend>there's no place I<lineend>can't handle.<pause><lineend>|
 131080|
-<CC03EA><CC03FC=0004><string=00E7>That's excellent!<lineend>You'll do<lineend>perfectly!<pause><lineend><CC03EA>How about it, young<lineend>man? Would you care to go find Drake's treasure with me?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E7>That's excellent!<lineend>You'll do<lineend>perfectly!<pause><lineend><CC03EA>How about it, young<lineend>man? Would you care<lineend>to go find Drake's<pause><lineend><CC03EA>treasure with me?<pause><lineend>|
 131081|
 <CC03EA><color=0003><string=0003><lineend><color=0001>The Pirate King's<lineend>treasure...<pause><lineend>|
 131082|
-<CC03EA><CC03FC=0004><string=00E7>That's right.<pause><lineend><CC03EA>If you're<lineend>interested, I'll be waiting down at the harbor.<pause><lineend><CC03EA>I'll tell you the<lineend>details there.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E7>That's right.<pause><lineend><CC03EA>If you're<lineend>interested, I'll be<lineend>waiting down at the<pause><lineend><CC03EA>harbor.<pause><lineend><CC03EA>I'll tell you the<lineend>details there.<pause><lineend>|
 131083|
-<CC03EA><CC03FC=0004><string=0011>Are you sure you<lineend>know what you're doing?<pause><lineend><CC03EA>That ragged old map<lineend>he has is as phony as they come.<pause><lineend><CC03EA>Save yourself the<lineend>trouble!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0011>Are you sure you<lineend>know what you're<lineend>doing?<pause><lineend><CC03EA>That ragged old map<lineend>he has is as phony<lineend>as they come.<pause><lineend><CC03EA>Save yourself the<lineend>trouble!<pause><lineend>|
 131084|
-<CC03EA><color=0003><string=0003><lineend><color=0001>The hidden treasure<lineend>of the Pirate King...<pause><lineend><CC03EA>It sounds good to<lineend>me.<lineend>Perfect, actually.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>The hidden treasure<lineend>of the Pirate<pause><lineend><CC03EA>King...<pause><lineend><CC03EA>It sounds good to<lineend>me.<lineend>Perfect, actually.<pause><lineend>|

@@ -1,37 +1,37 @@
 0|
-<CC03EA><color=0006><string=004B><lineend><color=0001>A black Dragon?<pause><lineend><CC03EA>There are lots of<lineend>Dragons up on the mountain. Who knows? Maybe one of 'em is black.<pause><lineend>|
+<CC03EA><color=0006><string=004B><lineend><color=0001>A black Dragon?<pause><lineend><CC03EA>There are lots of<lineend>Dragons up on the<lineend>mountain. Who<pause><lineend><CC03EA>knows? Maybe one of<lineend>'em is black.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Dragons have been<lineend>attacking this area for ages.<pause><lineend><CC03EA>Long ago, people<lineend>used to offer young women as sacrifices to appease them.<pause><lineend><CC03EA>But then came Queen<lineend>Elfaran. She killed Dragons herself using nothing other than a sword!<pause><lineend><CC03EA>She taught us to<lineend>stand up and fight for ourselves, and it's been peaceful ever since.<pause><lineend><CC03EA>Or so it was, until<lineend>the Dragons started attacking the village again.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Dragons have been<lineend>attacking this area<pause><lineend><CC03EA>for ages.<pause><lineend><CC03EA>Long ago, people<lineend>used to offer young<lineend>women as sacrifices<pause><lineend><CC03EA>to appease them.<pause><lineend><CC03EA>But then came Queen<lineend>Elfaran. She killed<lineend>Dragons herself<pause><lineend><CC03EA>using nothing other<lineend>than a sword!<pause><lineend><CC03EA>She taught us to<lineend>stand up and fight<lineend>for ourselves, and<pause><lineend><CC03EA>it's been peaceful<lineend>ever since.<pause><lineend><CC03EA>Or so it was, until<lineend>the Dragons started<lineend>attacking the<pause><lineend><CC03EA>village again.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0004><lineend><color=0005>The path from the<lineend>left of the village<color=0001> will take you to <color=0002>the mountain where<lineend>the Dragons live.<color=0001><pause><lineend><CC03EA>A girl just went by<lineend>herself toward the mountain. I wonder if she's OK?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0005>The path from the<lineend>left of the village<color=0001> will take you to <color=0002>the mountain where<lineend>the Dragons live.<color=0001><pause><lineend><CC03EA>A girl just went by<lineend>herself toward the<lineend>mountain. I wonder<pause><lineend><CC03EA>if she's OK?<pause><lineend>|
 3|
-<CC03EA><color=0006><string=000A><lineend><color=0001>The Knight Guard is<lineend>supposed to be coming to fight off the Dragons.<pause><lineend><CC03EA>The new Queen may<lineend>be young, but I hear she's as good with a sword as any of her Knights.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>The Knight Guard is<lineend>supposed to be<pause><lineend><CC03EA>coming to fight off<lineend>the Dragons.<pause><lineend><CC03EA>The new Queen may<lineend>be young, but I<lineend>hear she's as good<pause><lineend><CC03EA>with a sword as any<lineend>of her Knights.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0028><lineend><color=0001>A merchant told me<lineend>something once.<pause><lineend><CC03EA>He said that<lineend>Golgotha the Traitor had a son.<lineend><pause><CC03EA>He said he's a<lineend>young man with a big sword, blonde hair, and his Father's strength.<lineend><pause>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>A merchant told me<lineend>something once.<pause><lineend><CC03EA>He said that<lineend>Golgotha the<lineend>Traitor had a son.<lineend><pause><CC03EA>He said he's a<lineend>young man with a<lineend>big sword, blonde<pause><lineend><CC03EA>hair, and his<lineend>Father's strength.<lineend><pause>|
 5|
 <CC03FA=0028000200000000000003FF000A00280000><CC03FB=0028>|
 6|
-<CC03EA><color=0006><string=0028><lineend><color=0001>...I can't help but<lineend>notice the big sword you're carrying.<pause><lineend><CC03EA>You're not...you're<lineend>not the son of the Traitor, are you?<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>...I can't help but<lineend>notice the big<pause><lineend><CC03EA>sword you're<lineend>carrying.<pause><lineend><CC03EA>You're not...you're<lineend>not the son of the<lineend>Traitor, are you?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0035><lineend><color=0001>I saw a black<lineend>Dragon once!<pause><lineend><CC03EA>I snuck out to go<lineend>play on the mountain, and I saw huge black Dragon!<lineend><pause><CC03EA>My Mom didn't<lineend>believe me when I told her. But I swear it's true!<lineend><pause>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>I saw a black<lineend>Dragon once!<pause><lineend><CC03EA>I snuck out to go<lineend>play on the<lineend>mountain, and I saw<pause><lineend><CC03EA>huge black Dragon!<lineend><pause><CC03EA>My Mom didn't<lineend>believe me when I<lineend>told her. But I<pause><lineend><CC03EA>swear it's true!<lineend><pause>|
 8|
-<CC03EA><color=0006><string=004C><lineend><color=0001>You're Edward the<lineend>Dragon Slayer, right?<pause><lineend><CC03EA>Now that you're<lineend>here, maybe we stand a chance of getting out of this.<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>You're Edward the<lineend>Dragon Slayer,<pause><lineend><CC03EA>right?<pause><lineend><CC03EA>Now that you're<lineend>here, maybe we<lineend>stand a chance of<pause><lineend><CC03EA>getting out of<lineend>this.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=004D><lineend><color=0001>I'm going to slay a<lineend>Dragon if it's the last thing I do.<pause><lineend><CC03EA>Then you won't be<lineend>the only one people call the Dragon Slayer!<pause><lineend>|
+<CC03EA><color=0006><string=004D><lineend><color=0001>I'm going to slay a<lineend>Dragon if it's the<pause><lineend><CC03EA>last thing I do.<pause><lineend><CC03EA>Then you won't be<lineend>the only one people<lineend>call the Dragon<pause><lineend><CC03EA>Slayer!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0029><lineend><color=0001>When there are no<lineend>Dragons around, Dorangora is a great little village!<pause><lineend><CC03EA>I'm going to keep<lineend>up the fight against the Dragons until we have peace again.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>When there are no<lineend>Dragons around,<pause><lineend><CC03EA>Dorangora is a<lineend>great little<lineend>village!<pause><lineend><CC03EA>I'm going to keep<lineend>up the fight<lineend>against the Dragons<pause><lineend><CC03EA>until we have peace<lineend>again.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0050><lineend><color=0001>There are books<lineend>here about Dragons.<pause><lineend><CC03EA>They say that the<lineend>fiercest among them is the Black Dragon, who has special dark powers.<lineend><pause><CC03EA>To tell you the<lineend>truth, a single dragon with so much strength scares the heck out of me.<lineend><pause>|
+<CC03EA><color=0006><string=0050><lineend><color=0001>There are books<lineend>here about Dragons.<pause><lineend><CC03EA>They say that the<lineend>fiercest among them<lineend>is the Black<pause><lineend><CC03EA>Dragon, who has<lineend>special dark<lineend>powers.<lineend><pause><CC03EA>To tell you the<lineend>truth, a single<lineend>dragon with so much<pause><lineend><CC03EA>strength scares the<lineend>heck out of me.<lineend><pause>|
 12|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have<lineend>many items that will help you in your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will help you in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 14|
 <CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you<lineend>don't have enough money, Sir.<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you<lineend>don't have enough<pause><lineend><CC03EA>money, Sir.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A5><lineend><color=0001>Sir, it looks like<lineend>you don't have space to carry anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Sir, it looks like<lineend>you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=01A5><lineend><color=0001>Sir, you don't have<lineend>anything to sell!<pause><lineend>|
 18|
