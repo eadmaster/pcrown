@@ -8,10 +8,11 @@ My attempt to restart the CyberWarriorX translation project.
 ## Current status
 
  - all story events and names translated using a fixed-width font
-   - make some lines shorter to reduce pauses
+   - make some lines shorter to reduce pauses: https://github.com/eadmaster/pcrown/issues/1
+   - use a bigger monospaced font: https://github.com/eadmaster/pcrown/issues/3
  - items translations missing (HELP NEEDED): https://github.com/eadmaster/pcrown/issues/2
  - some symbols in the font to be replaced (WIP)
- - needs testing for crashes
+ - needs testing for bugs
 
 ## Preview
 
