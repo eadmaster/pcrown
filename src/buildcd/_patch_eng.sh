@@ -1,7 +1,10 @@
 
+#PRE: apt install iat xdelta3
 
-iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01) (jap).iso"
+# LATEST_PATCH_DOWNLOAD_URL=$(curl -s https://api.github.com/repos/eadmaster/pcrown/releases/latest | grep "browser_download_url.*xdelta" | cut -d : -f 2,3 | tr -d \")
 
-xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01) (jap).iso"  "Princess Crown (Japan) (1M) (Track 01).xdelta"  "Princess Crown (Japan) (1M) (Track 01).iso" 
+iat -i "Princess Crown (Japan) (1M) (Track 01).bin" -o "Princess Crown (Japan) (1M) (Track 01).iso"  --iso
 
-exit 0
+xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
+
+rm "Princess Crown (Japan) (1M) (Track 01).iso"
