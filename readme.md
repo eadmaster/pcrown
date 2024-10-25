@@ -24,7 +24,7 @@ My attempt to restart the CyberWarriorX translation project.
 2. get the [redump.org game image](http://redump.org/disc/4901/), and extract it
 3. download and install [iat](http://sourceforge.net/projects/iat.berlios/) and xdelta3
 4. convert track 1 to iso with
-`iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01) (jap).iso"`  (you may use another iso conversion tool)
+`iat -i "Princess Crown (Japan) (1M) (Track 01).bin" -o "Princess Crown (Japan) (1M) (Track 01) (jap).iso" --iso`  (you may use another iso conversion tool)
 5. apply xdelta patch with
 `xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01) (jap).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01).iso"`
 6. use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M).cue) to play with the patched iso.
