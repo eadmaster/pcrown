@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0001>I hear a voice coming from<lineend>somewhere...but where?<pause><lineend><color=0006><CC03EA>Welcome, Gradriel.<pause><lineend><CC03EA>This is the world inside your<lineend>heart.<pause><lineend>|
+<CC03EA><color=0001>I hear a voice coming from somewhere...but where?<pause><lineend><color=0006><CC03EA>Welcome, Gradriel.<pause><lineend><CC03EA>This is the world inside your heart.<pause><lineend>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...inside my heart?<pause><lineend>|
 65538|
@@ -9,43 +9,43 @@
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Who are you?<pause><lineend>|
 131074|
-<CC03EA><color=0005><string=010B><lineend><color=0001>I am you.<pause><lineend><CC03EA>From now on, Gradriel, you and I<lineend>are going to trade places.<pause><lineend>|
+<CC03EA><color=0005><string=010B><lineend><color=0001>I am you.<pause><lineend><CC03EA>From now on, Gradriel, you and I are going to trade places.<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What are you talking about?<pause><lineend>|
 131076|
 <CC03EA><color=0005><string=010B><lineend><color=0001>Still putting up the act, I see...<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=010B>So many soldiers have given their<lineend>lives for us in the battle against<lineend>the Demons...<pause><lineend><CC03EA>Haven't you felt something?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010B>So many soldiers have given their lives for us in the battle against the Demons...<pause><lineend><CC03EA>Haven't you felt something?<pause><lineend>|
 131078|
-<CC03EA><CC03FC=0004><string=010B>Even Golgotha died. He'd be alive<lineend>today if he hadn't been forced to<lineend>protect us.<pause><lineend><CC03EA>How long can we live with<lineend>ourselves while we force all these<lineend>people to sacrifice for us?<lineend><pause>|
+<CC03EA><CC03FC=0004><string=010B>Even Golgotha died. He'd be alive today if he hadn't been forced to protect us.<pause><lineend><CC03EA>How long can we live with ourselves while we force all these people to sacrifice for us?<lineend><pause>|
 131079|
-<CC03EA><CC03FC=0004><string=010B>Even Mother died when she gave<lineend>birth to us.<pause><lineend><CC03EA>Queen Elfaran would be alive, too,<lineend>if only we had never existed!<pause><lineend><CC03EA>I wonder if the trade was worth<lineend>it? Something tells me you wonder,<lineend>too...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010B>Even Mother died when she gave birth to us.<pause><lineend><CC03EA>Queen Elfaran would be alive, too, if only we had never existed!<pause><lineend><CC03EA>I wonder if the trade was worth it? Something tells me you wonder, too...<pause><lineend>|
 131080|
-<CC03EA><CC03FC=0004><string=010B>If the outpour of evil magic<lineend>continues, the world will soon be<lineend>covered in darkness.<pause><lineend><CC03EA>And you can't stop it...<lineend><pause>|
+<CC03EA><CC03FC=0004><string=010B>If the outpour of evil magic continues, the world will soon be covered in darkness.<pause><lineend><CC03EA>And you can't stop it...<lineend><pause>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>No...No!<pause><lineend>|
 131082|
-<CC03EA><color=0005><string=010B><lineend><color=0001>I'm afraid you alone aren't<lineend>qualified to be Queen Gradriel.<pause><lineend><CC03EA>From now on, just stand back and<lineend>leave everything to me.<pause><lineend>|
+<CC03EA><color=0005><string=010B><lineend><color=0001>I'm afraid you alone aren't qualified to be Queen Gradriel.<pause><lineend><CC03EA>From now on, just stand back and leave everything to me.<pause><lineend>|
 131083|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I...<pause><lineend>|
 131084|
-<CC03EA><CC03FC=0004><string=00FF>No, Gradriel...<lineend>Whatever hatred you may feel, you<lineend>must not give in to it.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00FF>No, Gradriel...<lineend>Whatever hatred you may feel, you must not give in to it.<pause><lineend>|
 131085|
-<CC03EA><CC03FC=0004><string=00FF>It's one of the Royal prayer.<pause><lineend><CC03EA>"I speak the prayer of all who<lineend>seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the<lineend>darkness..."<pause><lineend><CC03EA>If you don't seek the path, you<lineend>will never find it.<pause><lineend><CC03EA>The path to returning light to the<lineend>world, and to saving everybody in<lineend>it, lies in you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00FF>It's one of the Royal prayer.<pause><lineend><CC03EA>"I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness..."<pause><lineend><CC03EA>If you don't seek the path, you will never find it.<pause><lineend><CC03EA>The path to returning light to the world, and to saving everybody in it, lies in you.<pause><lineend>|
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Mother?<pause><lineend>|
 131087|
-<CC03EA><CC03FC=0004><string=00FF>I am the light which resides in<lineend>the crown.<pause><lineend><CC03EA>Gradriel, you must be strong of<lineend>heart.<pause><lineend><CC03EA>Believe in yourself. Believe in<lineend>the kindness and the strength<lineend>inside of you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00FF>I am the light which resides in the crown.<pause><lineend><CC03EA>Gradriel, you must be strong of heart.<pause><lineend><CC03EA>Believe in yourself. Believe in the kindness and the strength inside of you.<pause><lineend>|
 131088|
 <CC03EA><color=0002><string=0000><lineend><color=0001>My kindness and strength...<pause><lineend>|
 131089|
-<CC03EA><color=0005><string=010B><lineend><color=0001>Hmph! I was so close to making you<lineend>disappear forever!<lineend><pause>|
+<CC03EA><color=0005><string=010B><lineend><color=0001>Hmph! I was so close to making you disappear forever!<lineend><pause>|
 196608|
-<CC03EA><color=0002><string=010B><lineend><color=0001>That's ridiculous...Why would I<lineend>ever want to disappear?<pause><lineend><CC03EA>I am Gradriel, too!<pause><lineend>|
+<CC03EA><color=0002><string=010B><lineend><color=0001>That's ridiculous...Why would I ever want to disappear?<pause><lineend><CC03EA>I am Gradriel, too!<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>In the hearts of all people lie<lineend>both darkness and light.<pause><lineend><CC03EA>"May light rain down upon the<lineend>darkness. May the restraints of<lineend>suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in<lineend>our hearts be set free."<pause><lineend><CC03EA>So that's what the prayer was<lineend>saying...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>In the hearts of all people lie both darkness and light.<pause><lineend><CC03EA>"May light rain down upon the darkness. May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>So that's what the prayer was saying...<pause><lineend>|
 196610|
-<CC03EA><color=0002>Gradriel can now use the power of<lineend>the crown to change into her dark<lineend>form.<pause><lineend><CC03EA>During battle, when the power<lineend>gauge is full, press L and R at<lineend>the same time to transform.<pause><lineend><CC03EA>Use the C button while in this<lineend>form to cast magic. Each casting<lineend>consumes HP.<pause><lineend><CC03EA>The change will revert when your<lineend>power gauge is empty.<pause><lineend><CC03EA>However, you can also cancel it<lineend>with the B button.<lineend><pause>|
+<CC03EA><color=0002>Gradriel can now use the power of the crown to change into her dark form.<pause><lineend><CC03EA>During battle, when the power gauge is full, press L and R at the same time to transform.<pause><lineend><CC03EA>Use the C button while in this form to cast magic. Each casting consumes HP.<pause><lineend><CC03EA>The change will revert when your power gauge is empty.<pause><lineend><CC03EA>However, you can also cancel it with the B button.<lineend><pause>|
 262144|
 <CC03EA><color=0002><string=0000><lineend><color=0001>W, where am I?<pause><lineend>|
 262145|
@@ -55,12 +55,12 @@
 262147|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Grandfather?<pause><lineend>|
 262148|
-<CC03EA><color=0004><string=0105><lineend><color=0001>I have cut all ties with Shelius.<lineend>He is not my son.<pause><lineend><CC03EA>Therefore it is not your place to<lineend>call me Grandfather.<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>I have cut all ties with Shelius. He is not my son.<pause><lineend><CC03EA>Therefore it is not your place to call me Grandfather.<pause><lineend>|
 262149|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<pause><lineend>|
 262150|
-<CC03EA><color=0004><string=0105><lineend><color=0001>However, I do owe you my gratitude<lineend>for saving my life.<pause><lineend><CC03EA>Thank you...<lineend>...Queen of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>However, I do owe you my gratitude for saving my life.<pause><lineend><CC03EA>Thank you...<lineend>...Queen of Valendia.<pause><lineend>|
 262151|
-<CC03EA><color=0004><string=0105><lineend><color=0001>My own crown has been stolen.<lineend>They're coming for your crown<pause><lineend><CC03EA>next.<pause><lineend><CC03EA>You had better leave this place<lineend>before that Wizard comes back.<pause><lineend>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>My own crown has been stolen. They're coming for your crown next.<pause><lineend><CC03EA>You had better leave this place before that Wizard comes back.<pause><lineend>|
 262152|
 <CC03EA><color=0002><string=0000><lineend><color=0001>All right, King Volga.<pause><lineend>|

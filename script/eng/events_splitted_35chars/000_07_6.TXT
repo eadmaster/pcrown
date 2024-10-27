@@ -1,0 +1,110 @@
+65536|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Isn't that...Sir Glowstar?<pause><lineend>|
+65537|
+<CC03EA><color=0004><string=00FF><lineend><color=0001><CC03ED=00FF0016000103FF>Sir Glowstar! Why are you doing<lineend>this?<lineend><CC03ED=00FF0015000103FF><pause>|
+65538|
+<CC03EA><color=0005><string=0120><lineend><color=0001>There is something I need you to<lineend>do.<pause><lineend>|
+65539|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Elfaran!<pause><lineend>|
+65540|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Refuse, and the townspeople are as<lineend>good as dead.<pause><lineend><CC03EA> Elfaran D. Valendia...You're<lineend>coming with me to the Demon Realm!<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>...That's not going to happen.<pause><lineend>|
+65542|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Is that so?<pause><lineend>|
+65543|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Fine. We'll do this the hard way!<pause><lineend>|
+65544|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Stop<CC03ED=0120002E000103FF> right there, wicked book! I won't<lineend>let you have your way any further!<pause><lineend>|
+65545|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Who is this?<pause><lineend>|
+65546|
+<CC03EA><color=0005><string=0120><lineend><color=0001>How does she know who I am?<pause><lineend><CC03EA>...She must be silenced!<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>You're quite fierce with a sword,<lineend>if I do say so myself.<pause><lineend>|
+131073|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right, Moth...I mean,<lineend>your Highness?<pause><lineend>|
+131074|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Me? I'll be fine.<pause><lineend><CC03EA>I don't know who you are, but I'm<lineend>grateful for your help.<pause><lineend>|
+131075|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm happy to hear that.<lineend><pause>|
+131076|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>You took some heavy blows in that<lineend>fight. Please, let me heal you.<pause><lineend>|
+131077|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Y, Your Majesty...<pause><lineend>|
+131078|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Ah, Sir Glowstar.<pause><lineend>|
+131079|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>I see you're back to your old<lineend>self.<pause><lineend>|
+131080|
+<CC03EA><color=0004><string=0103><lineend><color=0001>The things I have done can never<lineend>be undone...<pause><lineend>|
+131081|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Golgotha? Tell me, how did all<lineend>this happen?<pause><lineend>|
+131082|
+<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was...a book. A possessed book.<lineend>I remember that it lunged at me.<pause><lineend><CC03EA>Everything after that is a blur.<pause><lineend>|
+131083|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>It appears that it took control of<lineend>your body and used it to attack<pause><lineend><CC03EA>the kingdom!<pause><lineend>|
+131084|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>Where did those Demons come from?<pause><lineend>|
+131085|
+<CC03EA><color=0004><string=0103><lineend><color=0001><CC03ED=01030004000103FF>There's a door to the Demon Realm<lineend>in a cave on a faraway island.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's where they came through. I<lineend>should know, for I was the one who<lineend>opened the it.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's not all. I killed many<lineend>people. I even attacked you, my<lineend>Queen!<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>After the shameful things I've<lineend>done, I am no longer fit to be<lineend>anyone's Captain.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>Your Highness, please bestow a<lineend>fitting punishment upon me.<lineend><CC03ED=01030003000103FF><pause>|
+131086|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sir Glowstar...<pause><lineend>|
+131087|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>I won't allow you to step down.<pause><lineend><CC03EA>If you want some kind of<lineend>punishment, then force yourself to<lineend>fight at my side.<pause><lineend><CC03EA>I need your strength, Sir<lineend>Glowstar.<pause><lineend>|
+131088|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Your Majesty...<pause><lineend>|
+131089|
+<CC03EA><color=0004><string=0103><lineend><color=0001>A Demon!<pause><lineend>|
+131090|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Look at what you've done!<lineend>Reverting back to your old self...<pause><lineend><CC03EA>You're useless, Golgotha!<pause><lineend>|
+131091|
+<CC03EA><color=0005><string=0114><lineend><color=0001>This keeps getting better and<lineend>better.<pause><lineend><CC03EA>So a weak little human girl thinks<lineend>she can take on the mighty Bloody?<pause><lineend>|
+196608|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>...That's...The Time Stone!<lineend>Quickly! Raise it up toward the<pause><lineend><CC03EA>Demon!<pause><lineend>|
+196609|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't<lineend>possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic<lineend>stones!<pause><lineend>|
+196610|
+<CC03EA><color=0004><string=0103><lineend><color=0001>陛下あぶないっ！<pause><lineend>|
+196611|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>He's gone!! What happened!?<pause><lineend>|
+196612|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>He is alive, then?<pause><lineend><CC03EA>Thank goodness for that, at least.<pause><lineend>|
+196613|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no longer have anyone<lineend>leading them.<lineend><pause><CC03EA>Tell the Knight Guard to chase off<lineend>any of them remaining in the<lineend>castle or the town below.<lineend><pause>|
+196614|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your Highness.<pause><lineend>|
+196615|
+<CC03EA><color=0002><string=0000><lineend><color=0001>時空の魔法石よ。<lineend>あのデーモンをつれ去って！<pause><lineend>|
+196616|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There was no time...<pause><lineend>|
+196617|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time<lineend>Stone, your Highness.<lineend><pause><CC03EA>I had read before that the Time<lineend>Stone allows a person to control<lineend>time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the<lineend>Demon have been sent somewhere in<lineend>else in time.<pause><lineend>|
+196618|
+<CC03EA><color=0005><string=0114><lineend><color=0001>This fight is over. The Queen is<lineend>coming with me!<lineend><pause>|
+262144|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Thank you. You've helped us more<lineend>than once now.<pause><lineend><CC03EA>...I don't suppose you might tell<lineend>me who you are?<pause><lineend>|
+262145|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please forgive me, but I simply<lineend>can't tell you that right now.<pause><lineend><CC03EA>All I can say is that I'm a<lineend>traveler.<pause><lineend>|
+262146|
+<CC03EA><color=0004><string=0101><lineend><color=0001>If you say you can't tell me, then<lineend>I won't ask anything further.<pause><lineend><CC03EA>Whoever you are, you saved us all.<lineend>There's no questioning that!<pause><lineend><CC03EA>As a token of our gratitude, I<lineend>bestow the title of "Hero" upon<lineend>you.<pause><lineend><CC03EA>You are free to go wherever you<lineend>like in my kingdom.<pause><lineend><CC03EA>Please accept this as our thanks.<pause><lineend>|
+262147|
+<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I have sealed away<lineend>the wicked book that was<pause><lineend><CC03EA>controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution, its location is<lineend>secret to all except myself and a<lineend>few other Wizards.<pause><lineend><CC03EA>With that settled, allow me to<lineend>ask...Is this an acquaintance of<lineend>yours, your Majesty?<pause><lineend><CC03EA>She has a certain air about her...<pause><lineend><CC03EA>It's as if she's a Princess from a<lineend>Kingdom not so far away...<pause><lineend>|
+262148|
+<CC03EA><color=0004><string=0101><lineend><color=0001>I've never met her before, but<lineend>you're right, there is something<pause><lineend><CC03EA>special about her.<pause><lineend><CC03EA>Let's not be nosy, though.<pause><lineend><CC03EA>I've given her a title! Hereafter,<lineend>she'll be known as the hero who<lineend>saved our land.<pause><lineend>|
+262149|
+<CC03EA><color=0004><string=0100><lineend><color=0001>She's definitely a courageous<lineend>young woman. It's probably best to<pause><lineend><CC03EA>let her be.<pause><lineend>|
+262150|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Good. Make sure everyone<lineend>understands that.<pause><lineend>|
+262151|
+<CC03EA><color=0004><string=0100><lineend><color=0001>There is one more thing I want to<lineend>ask.<pause><lineend><CC03EA>Brave young lady?<pause><lineend>|
+262152|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Y, Yes?<pause><lineend>|
+262153|
+<CC03EA><color=0004><string=0100><lineend><color=0001>If you'll allow it, I would like<lineend>to have a closer look at the Time<pause><lineend><CC03EA>Stone.<pause><lineend><CC03EA>If you will, please come to my<lineend>room later.<pause><lineend>|
+262154|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Certainly.<pause><lineend>|
+262155|
+<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I know we just<lineend>met, but somehow I feel like I've<pause><lineend><CC03EA>always known you.<pause><lineend><CC03EA>You're welcome to rest here at the<lineend>castle all you like before you<lineend>resume your travels.<pause><lineend>|
+262156|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Mother...I'm so glad I was able to<lineend>meet you.<pause><lineend>|

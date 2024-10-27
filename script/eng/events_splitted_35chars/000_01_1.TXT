@@ -1,0 +1,12 @@
+0|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May our first Princess, Eriel,<lineend>have the Goddess's protection.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Oh, your Majesty! You've returned!<pause><lineend><CC03EA>If only Eriel were here as well...<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0080><lineend><color=0001>All Knights are ordered to wear<lineend>Warrior Bracelets.<pause><lineend><CC03EA>With one of those equipped, even<lineend>the greenest of Knights can guard<lineend>himself effectively.<pause><lineend><CC03EA>You see, Warrior Bracelets provide<lineend>automatic protection from danger.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Just be careful about depending<lineend>too much on a Warrior Bracelet.<pause><lineend><CC03EA>You'll notice that some enemies<lineend>attack with a series of blows. <pause><lineend><CC03EA>When that happens, it will block<lineend>the first hit, but then it's up to<lineend>you to guard yourself.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Away and back without a scratch!<lineend>We've got ourselves one mighty<pause><lineend><CC03EA>little Queen!<pause><lineend>|

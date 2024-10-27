@@ -1,27 +1,27 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>It turns out a monster was framing<lineend>those sailors for stealing money.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>It turns out a monster was framing those sailors for stealing money.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Can you believe a thing like that<lineend>slipped its way into our town?<pause><lineend><CC03EA>It's a dangerous world we live in!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Can you believe a thing like that slipped its way into our town?<pause><lineend><CC03EA>It's a dangerous world we live in!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Tronto Tavern!<lineend>Shall I take your order?<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Tronto Tavern! Shall I take your order?<pause><lineend>|
 4|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 5|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always<lineend>hot!<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Come again! Our grill is always hot!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Our Local Delicacy is Grilled<lineend>Fish.<pause><lineend><CC03EA>We take fresh, locally caught fish<lineend>and grill them up nice and slowly.<pause><lineend><CC03EA>The strong spices we use really<lineend>whet your appetite. Try squeezing<lineend>a little lime on it!<pause><lineend><CC03EA>One costs 48G. Would you like to<lineend>try it?<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Our Local Delicacy is Grilled Fish.<pause><lineend><CC03EA>We take fresh, locally caught fish and grill them up nice and slowly.<pause><lineend><CC03EA>The strong spices we use really whet your appetite. Try squeezing a little lime on it!<pause><lineend><CC03EA>One costs 48G. Would you like to try it?<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 8|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have<lineend>enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have enough money.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any more.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>I hope you like it.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you then.<lineend>Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>We can't cook that. Sorry.<pause><lineend>|
 13|
@@ -29,22 +29,22 @@
 14|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 15|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have<lineend>enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you don't quite have enough money.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
 17|
 <CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 18|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
 19|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your<lineend>journeies be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeies be safe.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
 22|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 23|
-<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
 24|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

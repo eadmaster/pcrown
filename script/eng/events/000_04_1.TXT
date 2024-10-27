@@ -1,28 +1,28 @@
 0|
-<CC03EA><color=0006><string=017F><lineend><color=0001>I would be devastated if anything<lineend>happened to Princess Eriel.<pause><lineend>|
+<CC03EA><color=0006><string=017F><lineend><color=0001>I would be devastated if anything happened to Princess Eriel.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Princess Sidrael is deeply<lineend>saddened.<pause><lineend><CC03EA>She has never been away from her<lineend>twin sister in her life. Not even<lineend>once.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Princess Sidrael is deeply saddened.<pause><lineend><CC03EA>She has never been away from her twin sister in her life. Not even once.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Sidrael would be glad to know that<lineend>you are safe, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Sidrael would be glad to know that you are safe, your Highness.<pause><lineend>|
 3|
-<CC03EA><color=0004><string=00FC><lineend><color=0001>Please help our sister, Gradriel.<pause><lineend><CC03EA>I will pray to our Mother and<lineend>Father that you will both be OK.<pause><lineend>|
+<CC03EA><color=0004><string=00FC><lineend><color=0001>Please help our sister, Gradriel.<pause><lineend><CC03EA>I will pray to our Mother and Father that you will both be OK.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=00FC><lineend><color=0001>Please help our sister, Gradriel.<pause><lineend><CC03EA>I will pray to our Mother and<lineend>Father that you will both be OK.<pause><lineend>|
+<CC03EA><color=0004><string=00FC><lineend><color=0001>Please help our sister, Gradriel.<pause><lineend><CC03EA>I will pray to our Mother and Father that you will both be OK.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The kingdom is so large...<pause><lineend><CC03EA>Where do you think Princess Eriel<lineend>could be?<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The kingdom is so large...<pause><lineend><CC03EA>Where do you think Princess Eriel could be?<pause><lineend>|
 6|
-<CC03EA><color=0006><string=007E><lineend><color=0001>Everyone in the castle is worried<lineend>about Princess Eriel.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>Everyone in the castle is worried about Princess Eriel.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=008B><lineend><color=0001>All I can do is pray that Princess<lineend>Eriel may come home even a single<pause><lineend><CC03EA>day earlier.<pause><lineend><CC03EA>Queen Gradriel, please pray with<lineend>me for her safety.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>All I can do is pray that Princess Eriel may come home even a single day earlier.<pause><lineend><CC03EA>Queen Gradriel, please pray with me for her safety.<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 9|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have<lineend>heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 11|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 12|
-<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<pause><lineend>|
 13|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

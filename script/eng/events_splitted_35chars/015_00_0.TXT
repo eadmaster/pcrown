@@ -1,0 +1,38 @@
+0|
+<CC03EA><color=0006><string=004B><lineend><color=0001>All the people you see gathering<lineend>here are warriors who've come to<pause><lineend><CC03EA>kill Dragons.<pause><lineend><CC03EA>Those of us living in Dorangora<lineend>can't keep the Dragons under<lineend>control by ourselves anymore.<pause><lineend><CC03EA>Unless you have some business<lineend>here, Miss, you'd best move along.<lineend>It's too dangerous.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Dragons have been attacking this<lineend>area for ages.<pause><lineend><CC03EA>Long ago, people used to offer<lineend>young women as sacrifices to<lineend>appease them.<pause><lineend><CC03EA>But then came Queen Elfaran. She<lineend>killed Dragons herself using<lineend>nothing other than a sword!<pause><lineend><CC03EA>She taught us to stand up and<lineend>fight for ourselves, and it's been<lineend>peaceful ever since.<pause><lineend><CC03EA>Or so it was, until the Dragons<lineend>started attacking the village<lineend>again.<pause><lineend><CC03EA>...Say, Miss...Did you know you<lineend>look quite a bit like the new<lineend>Queen?<pause><lineend><CC03EA>How lucky for you!<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0004><lineend><color=0005>The path from the left of the<lineend>village<color=0001> will take you to <color=0002>the mountain where the Dragons<lineend>live.<color=0001><pause><lineend><CC03EA>Just think about how many Dragons<lineend>must live up there...<pause><lineend><CC03EA>It gives me the shakes!<pause><lineend>|
+3|
+<CC03EA><color=0006><string=000A><lineend><color=0001>The Knight Guard is supposed to be<lineend>coming to fight off the Dragons.<pause><lineend><CC03EA>The new Queen may be young, but I<lineend>hear she's as good with a sword as<lineend>any of her Knights.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0028><lineend><color=0001>A Knight carrying a huge sword has<lineend>shown up in our village recently.<pause><lineend><CC03EA>He looks an awful lot like how the<lineend>son of Golgotha is supposed to<lineend>look...<pause><lineend><CC03EA>You don't think...<lineend>Nah...<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0028><lineend><color=0001>I knew it! That Knight I saw<lineend>before was the son of the traitor<pause><lineend><CC03EA>Golgotha!<pause><lineend><CC03EA>The mercenaries told me how they<lineend>saw him take down Dragons one<lineend>after another.<pause><lineend><CC03EA>I guess even Dragons don't stand a<lineend>chance against the kind of dark<lineend>powers he must have.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0028><lineend><color=0001>That Edward guy scares me. The<lineend>look in his eyes is so cold!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0035><lineend><color=0001>Dragons are so scary. You should<lineend>see their huge fangs and claws!<pause><lineend>|
+8|
+<CC03EA><color=0006><string=004C><lineend><color=0001>A Wizard once told me that fire<lineend>magic doesn't work on Dragons.<pause><lineend><CC03EA>It's hard to burn something that<lineend>breathes fire anyway, right?<pause><lineend>|
+9|
+<CC03EA><color=0006><string=004D><lineend><color=0001>Want me to teach you a good trick?<pause><lineend><CC03EA>When an enemy knocks you down,<lineend>sometimes it's not easy to get up<lineend>and fight back.<pause><lineend><CC03EA>Instead, you keep getting knocked<lineend>down again and again. It's like<lineend>you're trapped.<pause><lineend><CC03EA>When you're on the ground, <color=0005>press Up and C,<color=0001> and you'll do a <color=0002>rising counter-attack.<color=0001><pause><lineend><CC03EA>Just make sure your opponent is<lineend>close enough. If you can time it<lineend>right, you'll come out on top!<pause><lineend>|
+10|
+<CC03EA><color=0006><string=0029><lineend><color=0001>When there are no Dragons around,<lineend>Dorangora is a great little<pause><lineend><CC03EA>village!<pause><lineend><CC03EA>We're going to keep up the fight<lineend>against the Dragons until we have<lineend>peace again.<pause><lineend>|
+11|
+<CC03EA><color=0006><string=0050><lineend><color=0001>We all know you've got to equip an<lineend>Equipment Item or it won't work.<pause><lineend><CC03EA>Just remember that when you get<lineend>knocked down, the thing you've got<lineend>equipped can break.<pause><lineend><CC03EA>I wonder if one of these books<lineend>tells how to keep that from<lineend>happening...<pause><lineend>|
+12|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that<lineend>will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+13|
+<CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+14|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+15|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
+17|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+18|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

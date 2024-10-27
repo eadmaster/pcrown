@@ -1,16 +1,16 @@
 0|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you so much for everything,<lineend>Sir Edward.<pause><lineend><CC03EA>If there's ever anything I can do<lineend>for you, please tell me. I'll do<lineend>anything.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you so much for everything, Sir Edward.<pause><lineend><CC03EA>If there's ever anything I can do for you, please tell me. I'll do anything.<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>I know it's a lot of trouble, but<lineend>I'm counting on you.<lineend><pause>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>I know it's a lot of trouble, but I'm counting on you.<lineend><pause>|
 65536|
 <CC03EA><CC03FC=0004><string=0107>Sir Edward?<pause><lineend><CC03EA>Is something the matter?<pause><lineend>|
 65537|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Actually, Ondine...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I was hoping I could convince you<lineend>to take me to Arsontula.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Actually, Ondine...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I was hoping I could convince you to take me to Arsontula.<lineend><CC03ED=00010003000103FF><pause>|
 65538|
 <CC03EA><color=0004><string=0107><lineend><color=0001>Arsontula? Are you sure?<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>One way or another, I have to get<lineend>to that island.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>Please. Help me, Ondine.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>One way or another, I have to get to that island.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>Please. Help me, Ondine.<lineend><CC03ED=00010003000103FF><pause>|
 65540|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Arsontula has become a very<lineend>dangerous place these days.<pause><lineend><CC03EA>If you set foot there, you may not<lineend>ever come back alive.<pause><lineend><CC03EA>Do you still want to go?<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Arsontula has become a very dangerous place these days.<pause><lineend><CC03EA>If you set foot there, you may not ever come back alive.<pause><lineend><CC03EA>Do you still want to go?<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=0107><lineend><color=0001>All right.<pause><lineend><CC03EA>I'll take you there now.<pause><lineend>|

@@ -1,0 +1,22 @@
+0|
+<CC03EA><color=0006><string=0125><lineend><color=0001>Come sail with us again soon,<lineend>Boss.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0126><lineend><color=0001>ƒIƒŒ‚½‚¿A‚¸‚Á‚Æ‚±‚±‚Å<lineend>‘Ò‚Á‚Ä‚Ü‚·‚©‚çB<pause><lineend>|
+65536|
+<CC03EA><CC03FC=0004><string=00E7>I knew you'd come.<pause><lineend><CC03EA>We may have just met, but I think<lineend>I'll go ahead and show you.<pause><lineend>|
+65537|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Is that what I think it is?<pause><lineend>|
+65538|
+<CC03EA><CC03FC=0004><string=00E7>It is.<pause><lineend><CC03EA>Behold, a map to the treasure of<lineend>the legendary pirate, Captain<lineend>Drake!<pause><lineend>|
+65539|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>A map to Drake's treasure...<lineend><CC03ED=00030009000103FF><pause>|
+65540|
+<CC03EA><CC03FC=0004><string=00E7>It's the real thing.<pause><lineend><CC03EA>All we do is find the island on<lineend>the map, and mountains of treasure<lineend>will be ours!<pause><lineend>|
+65541|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Mountains of treasure, eh?<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>Sorry, but I don't have much<lineend>interest in the treasure.<lineend><CC03ED=00030009000103FF><pause>|
+65542|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>What intrigues me is the legendary<lineend>Gem that Drake carried with him.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>The "Ocean Stone."<lineend>That's the only thing I'm<lineend>interested in.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>Let's just say it's connected to<lineend>something in my past that needs to<lineend>be settled...<lineend><CC03ED=00030009000103FF><pause>|
+65543|
+<CC03EA><CC03FC=0004><string=00E7>I see you have your reasons.<pause><lineend><CC03EA>Very well then. Let's make a deal.<lineend>You get me to that treasure in one<lineend>piece...<pause><lineend><CC03EA>...and I'll give you the Ocean<lineend>Stone you desire. You must simply<lineend>let me have the rest.<pause><lineend><CC03EA>However, the map shows that the<lineend>island lies in the middle of the<lineend>Ship Graveyard.<pause><lineend><CC03EA>It's a place that has claimed many<lineend>ships, and the lives of those<lineend>sailing them.<pause><lineend><CC03EA>It will take a great sailor to<lineend>reach the island without getting<lineend>killed.<pause><lineend>|
+65544|
+<CC03EA><color=0003><string=0003><lineend><color=0001>The Ship Graveyard...<pause><lineend><CC03EA>You can leave that part to me.<pause><lineend><CC03EA>Now come on. Let's get moving.<pause><lineend>|

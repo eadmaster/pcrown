@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=0084><lineend><color=0001>I must make sure that no danger<lineend>comes near Lord Jadis again.<pause><lineend>|
+<CC03EA><color=0006><string=0084><lineend><color=0001>I must make sure that no danger comes near Lord Jadis again.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0085><lineend><color=0001>Many Holy Knights lost their lives<lineend>in this battle...<pause><lineend><CC03EA>For their sake, we must fight all<lineend>the harder so that our country<lineend>prevails.<pause><lineend>|
+<CC03EA><color=0006><string=0085><lineend><color=0001>Many Holy Knights lost their lives in this battle...<pause><lineend><CC03EA>For their sake, we must fight all the harder so that our country prevails.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0086><lineend><color=0001>Lord Jadis comes here when he has<lineend>audience with his subjects.<pause><lineend>|
+<CC03EA><color=0006><string=0086><lineend><color=0001>Lord Jadis comes here when he has audience with his subjects.<pause><lineend>|

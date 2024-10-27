@@ -1,0 +1,2 @@
+0|
+<CC03EA><color=0006><string=007D><lineend><color=0001>I think I just heard a monster!<pause><lineend><CC03EA>Is a monster on the first floor?<lineend>We better do something quick!<lineend><pause>|

@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Kingdom, and<lineend>you'll quickly find where the Land<pause><lineend><CC03EA>Stone is.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Kingdom, and you'll quickly find where the Land Stone is.<pause><lineend>|

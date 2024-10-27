@@ -1,0 +1,18 @@
+65536|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, look! There are<lineend>pirates standing guard in front of<pause><lineend><CC03EA>that room.<pause><lineend><CC03EA>Somebody could be inside it!<pause><lineend>|
+65537|
+<CC03EA><CC03FC=0004><string=0192><color=0005>Pirate<lineend><color=0001>Get a load of this. Where'd you<lineend>come from, sweetheart?<pause><lineend>|
+65538|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You're keeping somebody prisoner<lineend>in there, aren't you?<pause><lineend>|
+65539|
+<CC03EA><CC03FC=0004><string=0192><color=0005>Pirate<lineend><color=0001>That's none of your business!<pause><lineend>|
+65540|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm here to save them.<pause><lineend>|
+65541|
+<CC03EA><CC03FC=0004><string=0192><color=0005>Pirate<lineend><color=0001>This girl cracks me up.<pause><lineend><CC03EA>Let's see how funny she is once we<lineend>hogtie her!<pause><lineend>|
+131072|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend>|
+131073|
+<CC03EA><color=0006><string=0031><lineend><color=0001>We're fine, but they took the<lineend>crewmen down below.<pause><lineend>|
+131074|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'll go look for them. Please<lineend>escape now, while you can!<pause><lineend>|

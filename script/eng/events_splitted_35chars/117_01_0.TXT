@@ -1,0 +1,52 @@
+0|
+<CC03EA><color=0006><string=0045><lineend><color=0001>You slew the Dragon! I guess<lineend>that's why they call you the<pause><lineend><CC03EA>Dragon Slayer, eh?<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0046><lineend><color=0001>The Knights of Cadho Badho will<lineend>simply have to try harder.<pause><lineend>|
+2|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Edward! It's good to see you<lineend>again.<pause><lineend><CC03EA>Did you ever kill that Black<lineend>Dragon?<pause><lineend>|
+3|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
+4|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho<lineend>Badho and not try something at The<pause><lineend><CC03EA>Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
+5|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+6|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
+7|
+<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast<lineend>To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to<lineend>eat. The cornbread we use is light<lineend>and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade<lineend>butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be<lineend>interested?<pause><lineend>|
+8|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend>|
+9|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty<lineend>something out of your bag?<pause><lineend>|
+11|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
+12|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then.<lineend>Please select a Food to use.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
+15|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend>|
+16|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+17|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from<lineend>your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+18|
+<CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+19|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
+20|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
+22|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+23|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+24|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+25|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

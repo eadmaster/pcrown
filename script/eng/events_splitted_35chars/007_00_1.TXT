@@ -1,0 +1,24 @@
+65536|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>...That's right. It was an<lineend>incredible battle!<pause><lineend><CC03EA>And then, in the end, when Queen<lineend>Gradriel put on her crown...<pause><lineend><CC03EA>Whoosh! The evil Larva was swept<lineend>away in a bright flash of light!<pause><lineend>|
+65537|
+<CC03EA><color=0006><string=0166><lineend><color=0001>Oh, wow! The Queen is so cool!!<pause><lineend>|
+65538|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>I told you so! Was Larva really<lineend>huge, Aria?<pause><lineend>|
+65539|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>He sure was! He made a Dragon look<lineend>like a pussy cat!<pause><lineend>|
+65540|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>I can't believe that nice lady was<lineend>the Queen all along...<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Come on, Tabitha! Let's go tell<lineend>everyone else!<pause><lineend>|
+65542|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Yeah!<pause><lineend>|
+65543|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Thanks for the story, fairies!<pause><lineend><CC03EA>I'm never going to forget this<lineend>one!<pause><lineend>|
+65544|
+<CC03EA><color=0006><string=0167><lineend><color=0001>By the way...<pause><lineend><CC03EA>Are there any more stories about<lineend>the Queen?<pause><lineend>|
+65545|
+<CC03EA><color=0006><string=0167><lineend><color=0001>Come on, tell us!<pause><lineend>|
+65546|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>More stories?<pause><lineend>|
+65547|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Hmm...This gets a little tricky.<pause><lineend><CC03EA>Wait here for a little while. I'll<lineend>go and see what happens next...!<pause><lineend>|

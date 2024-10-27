@@ -1,0 +1,26 @@
+0|
+<CC03EA><color=0006><string=019B><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
+1|
+<CC03EA><CC03FC=0004><string=019B><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+2|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the<lineend>powers of magic watch over you...<pause><lineend>|
+4|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>When you've found a place like<lineend>this one in your travels, come see<lineend>me again.<pause><lineend>|
+6|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>I keep special holy items in stock<lineend>here.<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
+7|
+<CC03EA><CC03FC=0004><string=01B6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+8|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Please come again soon! Blessings<lineend>be upon you in your travels...<pause><lineend>|
+9|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Hmm. That's not quite enough<lineend>money.<pause><lineend>|
+10|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It looks like you don't have<lineend>enough space.<pause><lineend>|
+11|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>It appears you aren't carrying<lineend>anything.<pause><lineend>|
+12|
+<CC03EA><color=0004><string=01B6><lineend><color=0001>Eh, I'm afraid I can't buy that.<pause><lineend>|

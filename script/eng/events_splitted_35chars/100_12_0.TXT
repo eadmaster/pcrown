@@ -1,0 +1,6 @@
+0|
+<CC03EA><color=0001>I can hear Jestonai's voice coming<lineend>from somewhere...<pause><lineend><CC03EA><color=0004>Jestonai<lineend><color=0001>You who yearns for Knighthood.<lineend>Defeat this monster, and prove<lineend>your strength!<pause><lineend>|
+1|
+<CC03ED=000000AE00010000><CC03F9=0000>|
+65536|
+<CC03EA><color=0002>Got the Trust Drop!<pause><lineend>|

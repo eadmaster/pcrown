@@ -1,12 +1,12 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus. It looks like<lineend>we made it to Volga in one piece.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus. It looks like we made it to Volga in one piece.<lineend><pause>|
 1|
-<CC03EA><color=0004><string=0178><lineend><color=0001>No problem. By the way, what<lineend>exactly are we doing in this<pause><lineend><CC03EA>place?<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>No problem. By the way, what exactly are we doing in this place?<pause><lineend>|
 2|
-<CC03EA><color=0002><string=0000><lineend><color=0001>My Grandfather is the King of<lineend>Volga, and I'm here to see him.<pause><lineend><CC03EA>It's to let him know that someone<lineend>is after his crown.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>My Grandfather is the King of Volga, and I'm here to see him.<pause><lineend><CC03EA>It's to let him know that someone is after his crown.<pause><lineend>|
 3|
-<CC03EA><color=0004><string=0178><lineend><color=0001>No kidding. Well, we'll wait here<lineend>in town. Say hi to your Grandpa<pause><lineend><CC03EA>for me.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>No kidding. Well, we'll wait here in town. Say hi to your Grandpa for me.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0178><lineend><color=0001>If you're tired, you can rest at<lineend>the inn. That's where the men and<pause><lineend><CC03EA>I will stay.<pause><lineend><CC03EA>In fact, we're renting the whole<lineend>place, so you might as well sleep<lineend>there, too.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>If you're tired, you can rest at the inn. That's where the men and I will stay.<pause><lineend><CC03EA>In fact, we're renting the whole place, so you might as well sleep there, too.<pause><lineend>|
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Portgus.<pause><lineend>|

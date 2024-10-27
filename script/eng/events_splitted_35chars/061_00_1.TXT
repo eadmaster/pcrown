@@ -1,0 +1,166 @@
+0|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Welcome to Knelt. You've certainly<lineend>come a long way to get here!<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Donfan? Never heard of 'em.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Have a safe trip!<lineend><pause>|
+3|
+<CC03EA><color=0006><string=000B><lineend><color=0001>Beyond Knelt, there's hardly<lineend>anything to speak of.<pause><lineend><CC03EA>Only craggy mountains as far as<lineend>the eye can see.<pause><lineend><CC03EA>That's why we say our village is<lineend>on the very edge of Valendia.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0020><lineend><color=0001>My Mom is way too protective.<pause><lineend><CC03EA>8 years old is practically grown<lineend>up! But she still says I can't<lineend>explore outside the village.<pause><lineend><CC03EA>It just isn't fair.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0020><lineend><color=0001>I was playing on the edge of town<lineend>when a man I'd never seen before<pause><lineend><CC03EA>chased me off.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=000A><lineend><color=0001>The monsters in this area are<lineend>exceptionally strong.<pause><lineend><CC03EA>The thought of my son wandering<lineend>off by himself terrifies me.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=002D><lineend><color=0001>The Dwarves are kind and reliable<lineend>neighbors.<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0012><lineend><color=0001>It looks like the newlyweds are<lineend>back from their honeymoon.<pause><lineend>|
+9|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad is walking from place to<lineend>place all over the kingdom trying<pause><lineend><CC03EA>Local Delicacies.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=0033><lineend><color=0001>The honeymoon was fabulous, but<lineend>there's nothing like being back<pause><lineend><CC03EA>home.<pause><lineend><CC03EA>I feel so relaxed!<pause><lineend>|
+11|
+<CC03EA><color=0006><string=0031><lineend><color=0001>I've got to do my best to be a<lineend>good wife.<pause><lineend><CC03EA>I'm going to make his favorite<lineend>meals every day! I'm quite the<lineend>cook, you know.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=0052><lineend><color=0001>I'm experimenting with magic<lineend>potions and medicines.<pause><lineend><CC03EA>It's my dream to invent entirely<lineend>new potions all by myself.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to<lineend>make an Invincible Potion, but I<lineend>think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to<lineend>want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged<lineend>Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I<lineend>going to be a Frogger forever!?<lineend>...*RIBBIT*<pause><lineend>|
+15|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you<lineend>back?<pause><lineend>|
+16|
+<CC03EA><color=0006><string=0165><lineend><color=0005>ネルトとドワーフ王国をつなぐ<lineend>とちゅうのわき道<color=0001>を行った所に<pause><lineend><CC03EA>変身の魔法の効果を解く<lineend><color=0003>「とがった草」がたくさん生えている所<color=0001>が<lineend>あるんだけれど・・・<pause><lineend><CC03EA>モンスターがこわくて<lineend>取りに行けないケロ～！<pause><lineend><CC03EA>おおぉ、神は我を<lineend>見捨ててしまったケロ～・・・<pause><lineend>|
+17|
+<CC03EA><color=0006><string=0165><lineend><color=0005>ネルトとドワーフ王国をつなぐ<lineend>とちゅうのわき道<color=0001>を行った所に<pause><lineend><CC03EA>変身の魔法の効果を解く<lineend><color=0003>「とがった草」がたくさん生えている所<color=0001>が<lineend>あるんだけれど・・・<pause><lineend><CC03EA>モンスターがこわくて<lineend>取りに行けないケロ～！<pause><lineend><CC03EA>おおぉ、神は我を<lineend>見捨ててしまったケロ～・・・<pause><lineend>|
+18|
+<CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the<lineend>only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
+19|
+<CC03EA><color=0002>Got Music Score number 3!<pause><lineend>|
+20|
+<CC03EA><color=0006><string=0052><lineend><color=0001>This next experiment is going to<lineend>be big. It's time to focus!<pause><lineend><CC03EA>Feel free to drop by again later.<lineend>I just might have hit on a new<lineend>Potion by then.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+22|
+<CC03EA><CC03FC=0004><string=01A8><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+23|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+24|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
+25|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have space to<lineend>carry anything.<pause><lineend>|
+26|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+27|
+<CC03EA><color=0006><string=01A8><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+28|
+<CC03EA><color=0006><string=0053><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
+29|
+<CC03EA><CC03FC=0004><string=0053><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+30|
+<CC03EA><color=0006><string=0053><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
+31|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We hope to see you again soon! And<lineend>may the powers of magic watch over<pause><lineend><CC03EA>you...<pause><lineend>|
+32|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+33|
+<CC03EA><color=0006><string=0053><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>When you've found a place like<lineend>this one in your travels, come see<lineend>me again.<pause><lineend>|
+34|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Welcome!<pause><lineend><CC03EA>We'll make whatever medicine you<lineend>want with any ingredients you<lineend>have.<pause><lineend>|
+35|
+<CC03EA><CC03FC=0004><string=01B9><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
+36|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>All right, then, please come back<lineend>soon!<pause><lineend>|
+37|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>You don't have enough ingredients.<pause><lineend>|
+38|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Mixing costs 20G. Is that all<lineend>right?<pause><lineend>|
+39|
+<CC03EA><CC03FC=0004><string=01B9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+40|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Looks like you can't quite afford<lineend>it.<pause><lineend>|
+41|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Here you are!<pause><lineend>|
+42|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and<lineend>Sharp-Leaf Grass to make that<lineend>Potion.<pause><lineend>|
+43|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and<lineend>Jagged-Leaf Grass to make that<lineend>Potion.<pause><lineend>|
+44|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Round-Leaf Grass to make<lineend>that Potion.<pause><lineend>|
+45|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Jagged-Leaf Grass to<lineend>make that Potion.<pause><lineend>|
+46|
+<CC03EA><color=0006><CC03FC=0004><string=01B9><color=0001>I'll need Insect Powder and<lineend>Round-Leaf Grass to make that<lineend>Potion.<pause><lineend>|
+65536|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
+65537|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Whew! Thank heavens!<lineend>And thank you, too!<pause><lineend><CC03EA>I really am an idiot sometimes...<pause><lineend><CC03EA>Here, I have something for you!<pause><lineend>|
+65538|
+<CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the<lineend>only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
+65539|
+<CC03EA><color=0002>Got Music Score number 3!<pause><lineend>|
+65540|
+<CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to<lineend>make an Invincible Potion, but I<lineend>think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to<lineend>want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
+65541|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged<lineend>Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I<lineend>going to be a Frogger forever!?<lineend>...*RIBBIT*<pause><lineend>|
+65542|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you<lineend>back?<pause><lineend>|
+65543|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf<lineend>Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path<lineend>where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could<lineend>make an antidote.<pause><lineend><CC03EA>I can't go there now, though,<lineend>because the monsters would squish<lineend>me for sure!<pause><lineend><CC03EA>If you ever get your hands on any<lineend>Sharp-Leaf Grass, please bring it<lineend>to me!<pause><lineend>|
+65544|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf<lineend>Grass!<lineend><pause>|
+65545|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf<lineend>Grass just yet.<lineend><pause>|
+65546|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve<lineend>this?<pause><lineend><CC03EA>Please! I beg of you! Go find some<lineend>Sharp-Leaf Grass and bring it to<lineend>me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along<lineend>the path that splits off between<lineend>Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+65547|
+<CC03EA><color=0006><string=0165><lineend><color=0005>よろしくお願いするケロよ！！<lineend><pause>|
+131072|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
+131073|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Whew! Thank heavens!<lineend>And thank you, too!<pause><lineend><CC03EA>I really am an idiot sometimes...<pause><lineend><CC03EA>Here, I have something for you!<pause><lineend>|
+131074|
+<CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the<lineend>only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
+131075|
+<CC03EA><color=0002>Got Music Score number 3!<pause><lineend>|
+131076|
+<CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to<lineend>make an Invincible Potion, but I<lineend>think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to<lineend>want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
+131077|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged<lineend>Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I<lineend>going to be a Frogger forever!?<lineend>...*RIBBIT*<pause><lineend>|
+131078|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you<lineend>back?<pause><lineend>|
+131079|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf<lineend>Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path<lineend>where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could<lineend>make an antidote.<pause><lineend><CC03EA>I can't go there now, though,<lineend>because the monsters would squish<lineend>me for sure!<pause><lineend><CC03EA>If you ever get your hands on any<lineend>Sharp-Leaf Grass, please bring it<lineend>to me!<pause><lineend>|
+131080|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf<lineend>Grass!<lineend><pause>|
+131081|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf<lineend>Grass just yet.<lineend><pause>|
+131082|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve<lineend>this?<pause><lineend><CC03EA>Please! I beg of you! Go find some<lineend>Sharp-Leaf Grass and bring it to<lineend>me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along<lineend>the path that splits off between<lineend>Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+131083|
+<CC03EA><color=0006><string=0165><lineend><color=0005>よろしくお願いするケロよ！！<lineend><pause>|
+196608|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
+196609|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Whew! Thank heavens!<lineend>And thank you, too!<pause><lineend><CC03EA>I really am an idiot sometimes...<pause><lineend><CC03EA>Here, I have something for you!<pause><lineend>|
+196610|
+<CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the<lineend>only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
+196611|
+<CC03EA><color=0002>Got Music Score number 3!<pause><lineend>|
+196612|
+<CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to<lineend>make an Invincible Potion, but I<lineend>think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to<lineend>want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
+196613|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged<lineend>Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I<lineend>going to be a Frogger forever!?<lineend>...*RIBBIT*<pause><lineend>|
+196614|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you<lineend>back?<pause><lineend>|
+196615|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf<lineend>Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path<lineend>where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could<lineend>make an antidote.<pause><lineend><CC03EA>I can't go there now, though,<lineend>because the monsters would squish<lineend>me for sure!<pause><lineend><CC03EA>If you ever get your hands on any<lineend>Sharp-Leaf Grass, please bring it<lineend>to me!<pause><lineend>|
+196616|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf<lineend>Grass!<lineend><pause>|
+196617|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf<lineend>Grass just yet.<lineend><pause>|
+196618|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve<lineend>this?<pause><lineend><CC03EA>Please! I beg of you! Go find some<lineend>Sharp-Leaf Grass and bring it to<lineend>me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along<lineend>the path that splits off between<lineend>Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+196619|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Have a safe trip!<lineend><pause>|

@@ -5,13 +5,13 @@
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Please tell me how to help Edward!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0104><lineend><color=0001>East of the Dwarf Kingdom is a<lineend>magic forest. Perhaps you know of<pause><lineend><CC03EA>it.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>East of the Dwarf Kingdom is a magic forest. Perhaps you know of it.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit from the<lineend>Dwarves' town,<color=0001> and you'll find it quickly<lineend>enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a Demon lurks.<color=0001> His name is Shadow.<pause><lineend><CC03EA>Shadow has a Gem called the Time<lineend>Stone. As its name suggests, it<lineend>controls the flow of time.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit from the Dwarves' town,<color=0001> and you'll find it quickly enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a Demon lurks.<color=0001> His name is Shadow.<pause><lineend><CC03EA>Shadow has a Gem called the Time Stone. As its name suggests, it controls the flow of time.<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The flow of time?<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0104><lineend><color=0001>You can use that Gem to go back to<lineend>before Edward was killed.<pause><lineend><CC03EA>Of course, that's assuming you can<lineend>get it back from Shadow first.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You can use that Gem to go back to before Edward was killed.<pause><lineend><CC03EA>Of course, that's assuming you can get it back from Shadow first.<pause><lineend>|
 65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The Time Stone...Shadow...<pause><lineend>|
 65544|

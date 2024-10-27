@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome to the Goblin<lineend>Shop!<pause><lineend><CC03EA>I'll let you have my Elikshil Seed<lineend>for 10G!<pause><lineend><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome to the Goblin Shop!<pause><lineend><CC03EA>I'll let you have my Elikshil Seed for 10G!<pause><lineend><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=012B><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
 2|

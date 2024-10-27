@@ -1,0 +1,72 @@
+0|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Knights who are trained to<lineend>fight Dragons will depart for<pause><lineend><CC03EA>Dorangora tomorrow.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=007E><lineend><color=0001>In her Majesty's name, we will<lineend>protect the people of the village,<pause><lineend><CC03EA>and do so at all costs.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May our brave Knights have the<lineend>Goddess's protection.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Jestonai may say harsh things from<lineend>time to time...<pause><lineend><CC03EA>...but it's only because he cares<lineend>so deeply about you.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0080><lineend><color=0001>All Knights are ordered to wear<lineend>Warrior Bracelets.<pause><lineend><CC03EA>With one of those equipped, even<lineend>the greenest of Knights can guard<lineend>himself effectively.<pause><lineend><CC03EA>You see, Warrior Bracelets provide<lineend>automatic protection from danger.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Just be careful about depending<lineend>too much on a Warrior Bracelet.<pause><lineend><CC03EA>You'll notice that some enemies<lineend>attack with a series of blows. <pause><lineend><CC03EA>When that happens, it will block<lineend>the first hit, but then it's up to<lineend>you to guard yourself.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0082><lineend><color=0001>They tell me that you've become<lineend>quite good with a sword!<pause><lineend><CC03EA>As a matter of fact, it's just<lineend>about all the Knight Captain talks<lineend>about any more.<pause><lineend>|
+65536|
+<CC03EA><color=0001>Queen Gradriel! Queen Gradriel!<pause><lineend>|
+65537|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Who's there?<pause><lineend>|
+65538|
+<CC03EA><color=0001>Don't be afraid. I'm not here to<lineend>make trouble.<pause><lineend>|
+65539|
+<CC03EA><color=0002><string=0000><lineend><color=0001>A fairy...?<pause><lineend>|
+65540|
+<CC03EA><CC03FC=0004><string=00F8><color=0001><CC03ED=00F8000A000103FF>My name is Aria. How do you do,<lineend>your Highness?<lineend><CC03ED=00F80009000103FF><pause><CC03EA>I'm sorry to barge in like this,<lineend>but there's something I really<lineend>need to talk to you about.<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You heard about the kids in<lineend>Nutsbill going missing, didn't<pause><lineend><CC03EA>you?<pause><lineend><CC03EA>The people in the village think it<lineend>was us fairies who did it.<pause><lineend><CC03EA>It's true that we invite kids out<lineend>to the forest at night to dance<lineend>and sing...<pause><lineend><CC03EA>...but we always make sure that<lineend>they're home by morning, I swear!<pause><lineend>|
+65542|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's not what the man from<lineend>Nutsbill told me today.<pause><lineend><CC03EA>He said that you fairies were<lineend>playing some kind of awful prank.<pause><lineend>|
+65543|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>He's got it all wrong! We can<lineend>prove it to you!<pause><lineend><CC03EA>Please, your Majesty! Come and see<lineend>the truth for yourself!<pause><lineend>|
+65544|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...You know, I think you're right.<pause><lineend><CC03EA>The best thing is for me to go and<lineend>see everything for myself!<pause><lineend>|
+65545|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh, thank you so much!<pause><lineend>|
+65546|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But how are we going to get<lineend>outside?<pause><lineend><CC03EA>The guard at the gate will see us.<pause><lineend>|
+65547|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You can leave that part to me,<lineend>your Majesty.<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Help! Somebody!<pause><lineend>|
+131073|
+<CC03EA><CC03FC=0004><string=007D>What's a fairy doing in a place<lineend>like this?<pause><lineend>|
+131074|
+<CC03EA><CC03FC=0004><string=007D>...?<pause><lineend>|
+131075|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank goodness you're here! You<lineend>have to do something, Mr. Knight!<pause><lineend><CC03EA>A bunch of Goblins are ganging up<lineend>on me!<pause><lineend>|
+131076|
+<CC03EA><CC03FC=0004><string=007D>Goblins? Near the castle!?<pause><lineend>|
+131077|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Yes, that's right...They'll be<lineend>coming this way any minute!<pause><lineend>|
+131078|
+<CC03EA><CC03FC=0004><string=007D>I thought they knew better. Pesky<lineend>little Goblins!<pause><lineend>|
+131079|
+<CC03EA><CC03FC=0004><string=007D>You wait right here. I'll go and<lineend>teach them a lesson.<pause><lineend>|
+131080|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you!!<pause><lineend>|
+131081|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Well, your Highness?<pause><lineend><CC03EA>Why don't we hurry, before the<lineend>nice Knight comes back?<pause><lineend>|
+131082|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think that's a good idea.<pause><lineend>|
+131083|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Sidrael, Eriel, Jestonai...<lineend>Please don't be upset...<pause><lineend>|
+196608|
+<CC03EA><CC03FC=0004><string=0077>I'm coming in, your Majesty.<pause><lineend>|
+196609|
+<CC03EA><CC03FC=0004><string=0077>It's morning, your Majesty.<pause><lineend>|
+196610|
+<CC03EA><CC03FC=0004><string=0077>...Your Majesty!?<pause><lineend>|
+196611|
+<CC03EA><CC03FC=0004><string=0077>Lord Jestonai!<pause><lineend><CC03EA>Her Majesty...<lineend>Gradriel...<lineend>She's gone!!<pause><lineend>|

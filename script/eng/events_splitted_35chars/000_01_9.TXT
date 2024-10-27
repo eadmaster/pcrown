@@ -1,0 +1,14 @@
+0|
+<CC03EA><color=0006><string=008B><lineend><color=0001>To think that you made it all the<lineend>way to the Demon Realm and back...<pause><lineend><CC03EA>What a Queen we have!<pause><lineend><CC03EA>Our Motherly Goddess must be<lineend>giving you her greatest<lineend>protection.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=007D><lineend><color=0001>There's a strange murmur in the<lineend>air these days.<pause><lineend><CC03EA>I can hear it when I close my<lineend>eyes.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The monster from last night seems<lineend>to have been an ordinary Griffon.<pause><lineend><CC03EA>It doesn't make sense. A Griffon<lineend>has no reason to come where there<lineend>are so many humans.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007F><lineend><color=0001>We have seen how your<lineend>swordsmanship has improved, your<pause><lineend><CC03EA>Highness.<pause><lineend><CC03EA>I would be surprised if a single<lineend>one of us could win a match<lineend>against you.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0080><lineend><color=0001>May our Queen be prosperous!<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0082><lineend><color=0001>It gives me strength to know that<lineend>my Queen is at our side with her<pause><lineend><CC03EA>sword in her hand.<pause><lineend>|

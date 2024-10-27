@@ -1,56 +1,56 @@
 0|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves<lineend>called the Donfan Bandits making<pause><lineend><CC03EA>trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than<lineend>a direct challenge to the Warriors<lineend>of Cadho Badho.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Donfan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the<lineend>Donfan Bandits!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Donfan Bandits!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the<lineend>Warriors, they're probably in the<pause><lineend><CC03EA>tavern.<pause><lineend><CC03EA>Maybe they're working out a plan<lineend>to get those bandits?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the Warriors, they're probably in the tavern.<pause><lineend><CC03EA>Maybe they're working out a plan to get those bandits?<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, we<lineend>only have to worry about monsters<pause><lineend><CC03EA>and earthquakes.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, we only have to worry about monsters and earthquakes.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>That earthquake scared me half to<lineend>death!<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>That earthquake scared me half to death!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002D><lineend><color=0001>The Warrior and Wizard Leaders<lineend>have been getting along recently.<pause><lineend><CC03EA>What's gotten into them?<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>The Warrior and Wizard Leaders have been getting along recently.<pause><lineend><CC03EA>What's gotten into them?<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get<lineend>away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them<lineend>fiercely, but they disappear north<lineend>over the Dwarf Kingdom.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Kingdom.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in<lineend>Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't<lineend>find them. They were too far away!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't find them. They were too far away!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0029><lineend><color=0001>We heard about the Demon Horde<lineend>storming the castle.<pause><lineend><CC03EA>People here were just about to<lineend>evacuate when the bandits<lineend>appeared.<pause><lineend><CC03EA>It's just one thing after another!<lineend>Our new Queen must have her hands<lineend>full.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>We heard about the Demon Horde storming the castle.<pause><lineend><CC03EA>People here were just about to evacuate when the bandits appeared.<pause><lineend><CC03EA>It's just one thing after another! Our new Queen must have her hands full.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Monsters and Demons may be scary,<lineend>but I've had enough standing<pause><lineend><CC03EA>around town all day.<pause><lineend><CC03EA>I'm thinking of taking a journey<lineend>around the kingdom.<pause><lineend><CC03EA>There's got to be something<lineend>interesting out there, right?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Monsters and Demons may be scary, but I've had enough standing around town all day.<pause><lineend><CC03EA>I'm thinking of taking a journey around the kingdom.<pause><lineend><CC03EA>There's got to be something interesting out there, right?<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0036><lineend><color=0001>Oh no! Oh no!<pause><lineend><CC03EA>My dolly! They stole my dolly!<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0036><lineend><color=0001>Tee hee!<pause><lineend><CC03EA>My dolly wasn't stolen!<pause><lineend><CC03EA>It was under my bed the whole<lineend>time!<pause><lineend><CC03EA>I'll never let him out of my sight<lineend>again.<lineend>We're staying together forever!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>Tee hee!<pause><lineend><CC03EA>My dolly wasn't stolen!<pause><lineend><CC03EA>It was under my bed the whole time!<pause><lineend><CC03EA>I'll never let him out of my sight again.<lineend>We're staying together forever!<pause><lineend>|
 12|
-<CC03EA><color=0004><string=015C><lineend><color=0001>We're going to work with the<lineend>Wizard's Leader to keep Cadho<pause><lineend><CC03EA>Badho safe.<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>We're going to work with the Wizard's Leader to keep Cadho Badho safe.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=015E><lineend><color=0001>With new bandits appearing in<lineend>town, we must be extra vigilant.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>With new bandits appearing in town, we must be extra vigilant.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for<lineend>now, we must be vigilant during<pause><lineend><CC03EA>our patrols.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for now, we must be vigilant during our patrols.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked<lineend>by an army of Demons, and it<pause><lineend><CC03EA>seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired<lineend>Warrior and a silver-haired Wizard<lineend>appeared.<pause><lineend><CC03EA>The two of them risked everything<lineend>to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each<lineend>area were made to commemorate<lineend>them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0013><lineend><color=0001>I'm sure the Golden Warrior would<lineend>be pleased to see our Leaders<pause><lineend><CC03EA>working together.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>I'm sure the Golden Warrior would be pleased to see our Leaders working together.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Can you believe there was a<lineend>dungeon under the statue in the<pause><lineend><CC03EA>middle of town?<pause><lineend><CC03EA>The Leader went down there by<lineend>himself. I hope he's OK!<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Can you believe there was a dungeon under the statue in the middle of town?<pause><lineend><CC03EA>The Leader went down there by himself. I hope he's OK!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=0162><lineend><color=0001>Our Leader came back unharmed.<lineend>That much is a relief!<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Our Leader came back unharmed. That much is a relief!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Whatever it takes, please stop the<lineend>next earthquake!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Whatever it takes, please stop the next earthquake!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind<lineend>increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular<lineend>is a great item. It makes it<lineend>easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in<lineend>battle back when I was a new<pause><lineend><CC03EA>recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my<lineend>Shield! Naturally, it stopped<lineend>working that very instant.<pause><lineend><CC03EA>Of course, when you think about<lineend>it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of<lineend>rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0012><lineend><color=0001>I'm about fed up with waiting for<lineend>him...<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>I'm about fed up with waiting for him...<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA<lineend>EAT!! BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
 24|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>OUCH, OUCH! WHAT ARE YOU DOING,<lineend>STUPID PARROT!<pause><lineend><CC03EA>STOP MAKING SO MUCH NOISE!<lineend>BRAAAWK!!<pause><lineend><CC03EA>PEOPLE COMING PEOPLE COMING!!<lineend>BREAK IT UP!! BRAAAWK!!<lineend>MEET BACK IN KNELT!!<pause><lineend><CC03EA>BACK TO KNELT!! BACK TO KNELT!!<lineend>YOU'RE ALL IDIOTS!!<lineend> *tweet*<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>OUCH, OUCH! WHAT ARE YOU DOING, STUPID PARROT!<pause><lineend><CC03EA>STOP MAKING SO MUCH NOISE! BRAAAWK!!<pause><lineend><CC03EA>PEOPLE COMING PEOPLE COMING!!<lineend>BREAK IT UP!! BRAAAWK!!<lineend>MEET BACK IN KNELT!!<pause><lineend><CC03EA>BACK TO KNELT!! BACK TO KNELT!!<lineend>YOU'RE ALL IDIOTS!!<lineend> *tweet*<pause><lineend>|
 25|
-<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to<lineend>say that?<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to say that?<pause><lineend>|
 26|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Earthquakes!?<pause><lineend><CC03EA>What's next? A volcano?<lineend>It wouldn't surprise me!<pause><lineend>|
 27|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every<lineend>single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|

@@ -3,42 +3,42 @@
 65537|
 <CC03EA><color=0005><string=012E><lineend><color=0001>Ha ha ha...Like flies to a web.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the one who guards the<lineend>entrance.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the one who guards the entrance.<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=012E><lineend><color=0001>Precisely. Want to get by? Then<lineend>come at me, if you dare!<pause><lineend>|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Precisely. Want to get by? Then come at me, if you dare!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=012E><lineend><color=0001>Skulg was supposed to have taken<lineend>care of you...<pause><lineend><CC03EA>Human scum! You'll never get<lineend>through!<pause><lineend>|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Skulg was supposed to have taken care of you...<pause><lineend><CC03EA>Human scum! You'll never get through!<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no!<lineend>Your Majesty! The floor is<lineend>crumbling away!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no!<lineend>Your Majesty! The floor is crumbling away!<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What do we do? The gate...<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>If we don't get out of here quick,<lineend>we're gonna get squished!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>If we don't get out of here quick, we're gonna get squished!<pause><lineend>|
 196608|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Well, now what? The gate to the<lineend>Demon Realm is closed off.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Well, now what? The gate to the Demon Realm is closed off.<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Why don't we go back to the castle<lineend>for now, your Majesty?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Why don't we go back to the castle for now, your Majesty?<pause><lineend>|
 262144|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Jestonai.<pause><lineend>|
 262145|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel, you've returned!<lineend>What did you find?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen Gradriel, you've returned! What did you find?<pause><lineend>|
 262146|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The gate at the top of the tower<lineend>is ruined.<pause><lineend><CC03EA>Is there any other way to get to<lineend>the Demon Realm?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The gate at the top of the tower is ruined.<pause><lineend><CC03EA>Is there any other way to get to the Demon Realm?<pause><lineend>|
 262147|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Another way?<pause><lineend>|
 262148|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Was the only path through that<lineend>tower?<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Was the only path through that tower?<lineend><pause>|
 262149|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...When the Demon Horde attacked<lineend>25 years ago, they came over the<pause><lineend><CC03EA>sea.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...When the Demon Horde attacked 25 years ago, they came over the sea.<pause><lineend>|
 262150|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The sea?<pause><lineend>|
 262151|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been told that they appeared<lineend>on an island called Arsontula.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I've been told that they appeared on an island called Arsontula.<pause><lineend>|
 262152|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Then that's exactly where I'm<lineend>going next.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Then that's exactly where I'm going next.<pause><lineend>|
 262153|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>There's no certainty that that's<lineend>where they came from, your<pause><lineend><CC03EA>Highness.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>There's no certainty that that's where they came from, your Highness.<pause><lineend>|
 262154|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Well, I intend to find out either<lineend>way.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Well, I intend to find out either way.<pause><lineend>|
 262155|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The port town Leeland <color=0001>is full of sailors who may be able<lineend>to tell you more.<pause><lineend><CC03EA>Your Majesty, the Knight Guard and<lineend>I will be ready at any moment you<lineend>might need us.<pause><lineend><CC03EA>Please keep this in mind if you<lineend>encounter any danger.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The port town Leeland <color=0001>is full of sailors who may be able to tell you more.<pause><lineend><CC03EA>Your Majesty, the Knight Guard and I will be ready at any moment you might need us.<pause><lineend><CC03EA>Please keep this in mind if you encounter any danger.<pause><lineend>|

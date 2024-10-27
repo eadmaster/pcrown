@@ -1,0 +1,12 @@
+0|
+<CC03EA><color=0006><string=019B><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
+1|
+<CC03EA><CC03FC=0004><string=019B><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+2|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=019B><lineend><color=0001>Very well. Come again! And may the<lineend>powers of magic watch over you...<pause><lineend>|
+4|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=019B><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>When you've found a place like<lineend>this one in your travels, come see<lineend>me again.<pause><lineend>|

@@ -1,0 +1,10 @@
+65536|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I'll go this way, your Highness.<lineend><CC03ED=00F70006000103FF><pause>|
+65537|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>...All right.<lineend><CC03ED=0000001C000103FF><pause>|
+65538|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I sense monsters lurking all over<lineend>this place. Please be careful.<lineend><CC03ED=00F70006000103FF><pause>|
+65539|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>You too, Leon.<lineend><CC03ED=0000001C000103FF><pause>|
+65540|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>See you at the top!<lineend><CC03ED=00F70006000103FF><pause>|

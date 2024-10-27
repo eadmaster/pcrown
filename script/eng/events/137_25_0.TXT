@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Hee hee hee! Welcome, human! Have<lineend>yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you<lineend>gonna do?<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Hee hee hee! Welcome, human! Have yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you gonna do?<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=009B><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>|
 2|
@@ -13,6 +13,6 @@
 6|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 7|
-<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<lineend><pause>|
+<CC03EA><color=0001>Are you sure you want to save on this bookmark?<lineend><pause>|
 8|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend>|

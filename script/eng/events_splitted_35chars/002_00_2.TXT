@@ -1,0 +1,138 @@
+0|
+<CC03EA><color=0006><string=0014><lineend><color=0001>How dreadful...<pause><lineend><CC03EA>I never imagined I'd see those<lineend>wicked Demons for a second time in<lineend>my life.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=001C><lineend><color=0001>I wonder if the Queen is all<lineend>right?<pause><lineend><CC03EA>She must have been terrified to be<lineend>caught up in that mess.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=002E><lineend><color=0001>I heard Princess Sidrael was<lineend>kidnapped! Do you think it's true?<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0005><lineend><color=0001>How could the Demon Horde show up<lineend>here in the first place?<pause><lineend><CC03EA>My Grandma always told me that<lineend>Queen Elfaran locked them up in<lineend>the Demon Realm.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=002F><lineend><color=0001>A Demon scared me so bad I<lineend>couldn't move...<pause><lineend><CC03EA>...but a blonde-haired Warrior<lineend>swooped in and saved me.<pause><lineend><CC03EA>He was very strong, and handsome,<lineend>too!<pause><lineend>|
+5|
+<CC03EA><color=0006><string=002F><lineend><color=0001>I saw a Knight headed for the<lineend>castle, but it didn't look like<pause><lineend><CC03EA>one of the Knight Guards.<pause><lineend><CC03EA>His armor was completely different<lineend>from theirs.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0020><lineend><color=0001>I didn't cry at all when I saw the<lineend>monsters.<pause><lineend><CC03EA>It takes more than that to make a<lineend>boy cry! Or at least it should!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Those Demons were so scary, I<lineend>start shivering whenever I think<pause><lineend><CC03EA>about them!<pause><lineend><CC03EA>They looked so evil...Oh...I think<lineend>I'm going to faint...<pause><lineend>|
+8|
+<CC03EA><color=0006><string=002D><lineend><color=0001>We were just attacked by Demons,<lineend>and still my boyfriend is drinking<pause><lineend><CC03EA>in the tavern!<pause><lineend>|
+9|
+<CC03EA><color=0006><string=0008><lineend><color=0001>It's inconceivable!<pause><lineend><CC03EA>How could those Demons have<lineend>stormed in here like that? This is<lineend>a castle town!<pause><lineend>|
+10|
+<CC03EA><color=0006><string=000C><lineend><color=0001>You can only think about bad<lineend>things when you're hungry.<pause><lineend><CC03EA>You've got to eat up so you can<lineend>set all that aside!<pause><lineend>|
+11|
+<CC03EA><color=0006><string=0009><lineend><color=0001>Frying Pans and Cooking Pots will<lineend>break after you use them too many<pause><lineend><CC03EA>times.<pause><lineend><CC03EA>When that happens, you can't cook<lineend>with them anymore.<pause><lineend><CC03EA>You can still throw them, though!<lineend>That goes for Empty Bottles, too.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin<lineend>your health!<pause><lineend><CC03EA>My Mom told me so.<pause><lineend>|
+13|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
+14|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering poet.<pause><lineend><CC03EA>From the north to the south...From<lineend>the east to the west...<pause><lineend><CC03EA>I've traveled like the wind<lineend>through this kingdom of Valendia.<pause><lineend>|
+15|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Sweet amethyst-eyed lady, please<lineend>let me sing you a song.<pause><lineend>|
+16|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Sorrowful prisoner of the harp...<lineend><pause><CC03EA>Are the songs of the Goddess that<lineend>you seek only legends?<lineend><pause><CC03EA>Oh Goddess of music, up high in<lineend>the heavens...<lineend><pause><CC03EA>You ripped apart your scores and<lineend>hid them across the land...<lineend><pause><CC03EA>Now the prisoner dreams of these<lineend>songs...<lineend><pause><CC03EA>Oh, how he wants to play the songs<lineend>of heaven...<lineend><pause><CC03EA>Oh, how he wishes he could find<lineend>your songs...<lineend><CC03ED=00F1001100010000><pause>|
+17|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That was very pretty.<pause><lineend><CC03EA>I hope it's not rude to ask, but<lineend>are you the "prisoner of the<lineend>harp?"<pause><lineend>|
+18|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for<lineend>the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every<lineend>corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the<lineend>divine songs sealed away in those<lineend>scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than<lineend>done...<pause><lineend><CC03EA>I've searched for two years, but<lineend>I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way<lineend>into someone else's hands.<pause><lineend><CC03EA>For now, I've decided take a rest<lineend>from my search and spend some time<lineend>in this town.<pause><lineend>|
+19|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided to take a rest from<lineend>searching for the scores and spend<pause><lineend><CC03EA>some time in this town.<pause><lineend>|
+20|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Young lady, is that a Goddess<lineend>Score you have there?<pause><lineend><CC03EA>Please allow me to have it. I beg<lineend>of you.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000A>|
+21|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Thank you, lavender-haired lady.<pause><lineend><CC03EA>In return, let me sing an ancient<lineend>song for you.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
+22|
+<CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I<lineend>sing...<pause><lineend>|
+23|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>The town, now so prosperous, was<lineend>once shrouded in darkness.<pause><lineend><CC03EA>This is the story of Cadho<lineend>Badho...<pause><lineend><CC03EA>From the edge of darkness emerged<lineend>the Demon Horde, wielding enormous<lineend>power.<pause><lineend><CC03EA>The wings of Darkness spread,<lineend>while its claws beckoned bloodshed<lineend>and death.<pause><lineend><CC03EA>Homes burned. People of the land<lineend>parted with their lives.<pause><lineend><CC03EA>Who will raise his sword to defeat<lineend>the Demons?<pause><lineend><CC03EA>Who can vanquish them with her<lineend>magic?<pause><lineend><CC03EA>Who will save Cadho Badho?<lineend><CC03ED=00F1001100010000><pause>|
+24|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Young lady, is that a Goddess<lineend>Score you have there?<pause><lineend><CC03EA>Please allow me to have it. I beg<lineend>of you.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000A>|
+25|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Thank you, dear violet-haired<lineend>girl.<pause><lineend><CC03EA>In return, let me sing an ancient<lineend>song for you.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
+26|
+<CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I<lineend>sing...<pause><lineend>|
+27|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>The town, now so prosperous, was<lineend>once shrouded in darkness.<pause><lineend><CC03EA>This is the story of Cadho<lineend>Badho...<pause><lineend><CC03EA>The Gods had not forsaken the<lineend>city.<pause><lineend><CC03EA>They sent a young golden-haired<lineend>Warrior and a beautiful<lineend>silver-haired Sorceress.<pause><lineend><CC03EA>The Warrior with his shining<lineend>sword, and the Sorceress with her<lineend>powers of magic, rose to fight.<pause><lineend><CC03EA>Together, they felled the Demons<lineend>one after another.<pause><lineend><CC03EA>Only the Demon's leader could<lineend>stand in their way.<pause><lineend><CC03EA>For three days and three nights,<lineend>the battle between them went on.<pause><lineend><CC03EA>The sun and moon both looked on in<lineend>dread...<lineend><CC03ED=00F1001100010000><pause>|
+28|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Young lady, is that a Goddess<lineend>Score you have there?<pause><lineend><CC03EA>Please allow me to have it. I beg<lineend>of you.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000A>|
+29|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Thank you, dearest of all girls.<pause><lineend><CC03EA>In return, let me sing an ancient<lineend>song for you.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
+30|
+<CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I<lineend>sing...<pause><lineend>|
+31|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>The town, now so prosperous, was<lineend>once shrouded in darkness.<pause><lineend><CC03EA>This is the story of Cadho<lineend>Badho...<pause><lineend><CC03EA>All watched as the decisive moment<lineend>came.<pause><lineend><CC03EA>At the end of 100th clash, the<lineend>Sorceress uttered a spell at last<lineend>to freeze the Demon as he stood.<pause><lineend><CC03EA>The chance had arrived. The<lineend>Warrior plunged his sword into the<lineend>Demon's heart.<pause><lineend><CC03EA>Suddenly, he and his minions<lineend>turned to dust...<pause><lineend><CC03EA>So it was that a lasting peace<lineend>fell over Cadho Badho...<pause><lineend><CC03EA>...all thanks to the young Warrior<lineend>and the Sorceress.<lineend><pause><CC03EA>Oh, Cadho Badho, your prosperity<lineend>was won with tears.<lineend><pause><CC03EA>Let us send another prayer of<lineend>thanks to the Golden Warrior and<lineend>the Silver Sorceress...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000F>|
+32|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Thanks to you, my dear, I now have<lineend>all the scores.<pause><lineend><CC03EA>Thank you so much! In return, let<lineend>me give this to you.<pause><lineend>|
+33|
+<CC03EA><color=0002>Got the Cure Drop!<pause><lineend>|
+34|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I came upon it by accident while I<lineend>was searching for the scores.<pause><lineend><CC03EA>I'm sure it will help you in your<lineend>travels.<pause><lineend>|
+35|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Which song would you like to hear?<lineend><choose>The first<lineend>The second<lineend>Quit<lineend><endchoose>|
+36|
+<CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I<lineend>sing...<pause><lineend>|
+37|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>The town, now so prosperous, was<lineend>once shrouded in darkness.<pause><lineend><CC03EA>This is the story of Cadho<lineend>Badho...<pause><lineend><CC03EA>From the edge of darkness emerged<lineend>the Demon Horde, wielding enormous<lineend>power.<pause><lineend><CC03EA>The wings of Darkness spread,<lineend>while its claws beckoned bloodshed<lineend>and death.<pause><lineend><CC03EA>Homes burned. People of the land<lineend>parted with their lives.<pause><lineend><CC03EA>Who will raise his sword to defeat<lineend>the Demons?<pause><lineend><CC03EA>Who can vanquish them with her<lineend>magic?<pause><lineend><CC03EA>Who will save Cadho Badho?<pause><lineend><CC03EA>The Gods had not forsaken the<lineend>city.<pause><lineend><CC03EA>They sent a young golden-haired<lineend>Warrior and a beautiful<lineend>silver-haired Sorceress.<pause><lineend><CC03EA>The Warrior with his shining<lineend>sword, and the Sorceress with her<lineend>powers of magic, rose to fight.<pause><lineend><CC03EA>Together, they felled the Demons<lineend>one after another.<pause><lineend><CC03EA>Only the Demon's leader could<lineend>stand in their way.<pause><lineend><CC03EA>For three days and three nights,<lineend>the battle between them went on.<pause><lineend><CC03EA>The sun and moon both looked on in<lineend>dread...<pause><lineend><CC03EA>All watched as the decisive moment<lineend>came.<pause><lineend><CC03EA>At the end of 100th clash, the<lineend>Sorceress uttered a spell at last<lineend>to freeze the Demon as he stood.<pause><lineend><CC03EA>The chance had arrived. The<lineend>Warrior plunged his sword into the<lineend>Demon's heart.<pause><lineend><CC03EA>Suddenly, he and his minions<lineend>turned to dust...<pause><lineend><CC03EA>So it was that a lasting peace<lineend>fell over Cadho Badho...<pause><lineend><CC03EA>...all thanks to the young Warrior<lineend>and the Sorceress.<lineend><pause><CC03EA>Let us send another prayer of<lineend>thanks to the Golden Warrior and<lineend>the Silver Sorceress...<lineend><CC03ED=00F1001100010000><pause>|
+38|
+<CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I<lineend>sing...<pause><lineend>|
+39|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Rest...Rest, tired souls. Your<lineend>hard work is through.<lineend><pause><CC03EA>Your pain...<lineend>Your sadness...<lineend><pause><CC03EA>Sleep the memory of these<lineend>away...in the arms of the<lineend>Goddess...<lineend><pause><CC03EA>We won't forget what you lived<lineend>for...<lineend><pause><CC03EA>Flowing waters...dancing winds...<lineend>Lead them away...<lineend><pause><CC03EA>Lead them to the mercy and the<lineend>purity of the tranquil Goddess...<lineend><pause><CC03EA>Whispers of the earth...murmurs of<lineend>the ocean...light of the<lineend>sun...teach them the way...<lineend><pause><CC03EA>Rest...Rest, tired souls. Your<lineend>hard work is through.<lineend><pause><CC03EA>May you see dreams of hope in the<lineend>next world...<lineend><pause><CC03EA>We won't forget what you lived<lineend>for...<lineend>We won't forget...Farewell...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000A>|
+40|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>Anytime you'd care to hear a song,<lineend>just let me know.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
+41|
+<CC03EA><color=0006><string=0015><lineend><color=0001>Oh, your Majesty!<pause><lineend><CC03EA>Now you've seen it<lineend>yourself...What's happened to this<lineend>town...<pause><lineend><CC03EA>But nobody is giving up! Just wait<lineend>and see. We'll make Valendine as<lineend>beautiful as it ever was.<pause><lineend>|
+42|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The town was like this 25 years<lineend>ago, too.<pause><lineend><CC03EA>But little by little, we made it<lineend>right again.<pause><lineend><CC03EA>That's why there's no need to be<lineend>sad. The Castle Town of Valendine<lineend>will be back!<pause><lineend>|
+43|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+44|
+<CC03EA><CC03FC=0004><string=01A3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+45|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+46|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid you don't have enough<lineend>money, Ma'am.<pause><lineend>|
+47|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
+48|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+49|
+<CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+50|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
+51|
+<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+52|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
+53|
+<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May<lineend>the powers of magic watch over<pause><lineend><CC03EA>you...<pause><lineend>|
+54|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
+55|
+<CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>You must find places like this one<lineend>in your travels. Only then can I<lineend>send you to them.<pause><lineend>|
+56|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome...<lineend>How about some Potions for your<lineend>journey?<pause><lineend><CC03EA>I'll mix up anything you want with<lineend>the ingredients you have.<pause><lineend>|
+57|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
+58|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
+59|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You'll have to fetch me the right<lineend>ingredients first!<pause><lineend>|
+60|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Mixing costs 20G. Is that all<lineend>right?<pause><lineend>|
+61|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+62|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>What's this? You don't have enough<lineend>money.<pause><lineend>|
+63|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>There! It's done!<pause><lineend>|
+64|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Sharp-Leaf Grass for that.<pause><lineend>|
+65|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Jagged-Leaf Grass for that.<pause><lineend>|
+66|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Round-Leaf Grass for<lineend>that.<pause><lineend>|
+67|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Jagged-Leaf Grass for<lineend>that.<pause><lineend>|
+68|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Round-Leaf Grass for that.<pause><lineend>|

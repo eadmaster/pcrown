@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Holy Magic Stone x<CC03EC>?<pause><lineend>|
 14|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho! Looks like you've gathered<lineend>everything for the potion!<pause><lineend><CC03EA>You sit tight, and I'll get to<lineend>work making it.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho! Looks like you've gathered everything for the potion!<pause><lineend><CC03EA>You sit tight, and I'll get to work making it.<pause><lineend>|
 15|
 <CC03EA>You've brought enough<lineend>Insect Powder.<pause><lineend>|
 16|
@@ -55,51 +55,51 @@
 27|
 <CC03EA>You've brought enough<lineend>Holy Magic Stones.<pause><lineend>|
 65536|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Auntie! Teach me what you do when<lineend>you want to get revenge!<pause><lineend><CC03EA>There's a certain girl in a freaky<lineend>metal outfit who's really got it<lineend>coming to her!!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Auntie! Teach me what you do when you want to get revenge!<pause><lineend><CC03EA>There's a certain girl in a freaky metal outfit who's really got it coming to her!!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Oh ho ho! Is that so? First, tell<lineend>me what happened.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Oh ho ho! Is that so? First, tell me what happened.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0002><lineend><color=0001>It was some girl with purple hair.<pause><lineend><CC03EA>She completely wrecked my plan to<lineend>practice my magic on those<lineend>Nutsbill children!<pause><lineend><CC03EA>She's also completely stuck-up and<lineend>preachy. I can't stand her!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>It was some girl with purple hair.<pause><lineend><CC03EA>She completely wrecked my plan to practice my magic on those Nutsbill children!<pause><lineend><CC03EA>She's also completely stuck-up and preachy. I can't stand her!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>So that's it...<pause><lineend><CC03EA>She's got some nerve to be<lineend>tangling with a witch!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>So that's it...<pause><lineend><CC03EA>She's got some nerve to be tangling with a witch!<pause><lineend>|
 65540|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I knew you'd think so!<pause><lineend><CC03EA>Please, tell me how to get back at<lineend>her!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I knew you'd think so!<pause><lineend><CC03EA>Please, tell me how to get back at her!<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Well, in that case...<pause><lineend><CC03EA>...hold on, I'm thinking...<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>You could always...<pause><lineend><CC03EA>Hmm...I suppose it's not<lineend>impossible...<pause><lineend><CC03EA>Hmm!<lineend>Hee hee hee hee!!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>You could always...<pause><lineend><CC03EA>Hmm...I suppose it's not impossible...<pause><lineend><CC03EA>Hmm!<lineend>Hee hee hee hee!!<pause><lineend>|
 65543|
 <CC03EA><color=0002><string=0002><lineend><color=0001>What? What is it, Auntie?<lineend>Hurry up already!<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>How about this...<pause><lineend><CC03EA>I'll give you a potion that will<lineend>turn you into an adult.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>How about this...<pause><lineend><CC03EA>I'll give you a potion that will turn you into an adult.<pause><lineend>|
 65545|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Aww, you mean I have to drink one<lineend>of your nasty potions?<pause><lineend><CC03EA>Besides, I don't get it. What's<lineend>the big deal about being an adult?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aww, you mean I have to drink one of your nasty potions?<pause><lineend><CC03EA>Besides, I don't get it. What's the big deal about being an adult?<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Just imagine it, Proserpina.<pause><lineend><CC03EA>Once you're an adult, you'll be<lineend>able to use all kinds of magic you<lineend>couldn't before!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Just imagine it, Proserpina.<pause><lineend><CC03EA>Once you're an adult, you'll be able to use all kinds of magic you couldn't before!<pause><lineend>|
 65547|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Seriously? That sounds fantastic!<pause><lineend>|
 65548|
-<CC03EA><color=0002><string=0002><lineend><color=0001>In other words, if I become an<lineend>adult...<pause><lineend><CC03EA>...I can turn everybody in the<lineend>whole kingdom into frogs?<pause><lineend><CC03EA>Ooh hoo hoo...I'd turn that girl<lineend>into the ugliest frog of them all!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>In other words, if I become an adult...<pause><lineend><CC03EA>...I can turn everybody in the whole kingdom into frogs?<pause><lineend><CC03EA>Ooh hoo hoo...I'd turn that girl into the ugliest frog of them all!<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Slendid, my dear! Splendid!<pause><lineend><CC03EA> All right then, Proserpina, your<lineend>job will be to gather the<lineend>ingredients.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Slendid, my dear! Splendid!<pause><lineend><CC03EA> All right then, Proserpina, your job will be to gather the ingredients.<pause><lineend>|
 65550|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend>|
 65551|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>There's no "huh" about it. We need<lineend>ingredients to make the potion.<pause><lineend><CC03EA>8 Insect Powders<lineend>5 Round-Leaf Grasses<lineend>8 Goblin Juices<pause><lineend><CC03EA>5 Fresh Milks<lineend>1 Power Plant Seed<lineend>5 Drop of Manas<pause><lineend><CC03EA>3 Dragon Meats<lineend>And one of every Magic Stone<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>There's no "huh" about it. We need ingredients to make the potion.<pause><lineend><CC03EA>8 Insect Powders<lineend>5 Round-Leaf Grasses<lineend>8 Goblin Juices<pause><lineend><CC03EA>5 Fresh Milks<lineend>1 Power Plant Seed<lineend>5 Drop of Manas<pause><lineend><CC03EA>3 Dragon Meats<lineend>And one of every Magic Stone<pause><lineend>|
 65552|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Whaaat!? That's a ton of stuff!<pause><lineend>|
 65553|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Correct.<pause><lineend><CC03EA>And don't forget, if you take a<lineend>bite or a drink of any of them,<lineend>they won't work.<pause><lineend><CC03EA>Now get to it, and don't forget to<lineend>keep practicing your magic along<lineend>the way!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Correct.<pause><lineend><CC03EA>And don't forget, if you take a bite or a drink of any of them, they won't work.<pause><lineend><CC03EA>Now get to it, and don't forget to keep practicing your magic along the way!<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Here it is!! With this potion, you<lineend>will change into an adult.<pause><lineend><CC03EA>I added a little sugar to make it<lineend>go down easier. Now drink up!<pause><lineend><CC03EA>Hee hee hee!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Here it is!! With this potion, you will change into an adult.<pause><lineend><CC03EA>I added a little sugar to make it go down easier. Now drink up!<pause><lineend><CC03EA>Hee hee hee!<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=01BE><lineend><color=0001>Wow! This is awesome!!<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=01BE><lineend><color=0001>Look at me! I'm completely<lineend>gorgeous!<pause><lineend>|
+<CC03EA><color=0002><string=01BE><lineend><color=0001>Look at me! I'm completely gorgeous!<pause><lineend>|
 131075|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho, I've done it again!<pause><lineend>|
 131076|
-<CC03EA><color=0002><string=01BE><lineend><color=0001>You're not so bad after all,<lineend>Auntie.<pause><lineend><CC03EA>As for Gradriel, she doesn't stand<lineend>a chance against me now!<pause><lineend><CC03EA>I'm changing her into the ugliest<lineend>frog in the world!<pause><lineend>|
+<CC03EA><color=0002><string=01BE><lineend><color=0001>You're not so bad after all, Auntie.<pause><lineend><CC03EA>As for Gradriel, she doesn't stand a chance against me now!<pause><lineend><CC03EA>I'm changing her into the ugliest frog in the world!<pause><lineend>|
 131077|
 <CC03EA><color=0002><string=01BE><lineend><color=0001>Bye bye, Auntie.<pause><lineend><CC03EA>I'm off to look for Gradriel!<pause><lineend>|
 131078|
@@ -109,34 +109,34 @@
 196609|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Wha...Proserpina!?<pause><lineend><CC03EA>What happened to you?<pause><lineend>|
 196610|
-<CC03EA><color=0002><string=01BE><lineend><color=0001>Ha ha ha!!<lineend>Surprised, Gradriel?<pause><lineend><CC03EA>I succeeded at turning myself into<lineend>an adult. And now I'm turning you<lineend>into a frog!<pause><lineend>|
+<CC03EA><color=0002><string=01BE><lineend><color=0001>Ha ha ha!!<lineend>Surprised, Gradriel?<pause><lineend><CC03EA>I succeeded at turning myself into an adult. And now I'm turning you into a frog!<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=017D><lineend><color=0001>What!?<pause><lineend>|
 196612|
-<CC03EA><color=0002><string=01BE><lineend><color=0001>You'll never tangle with a witch<lineend>again, I promise you that!<pause><lineend>|
+<CC03EA><color=0002><string=01BE><lineend><color=0001>You'll never tangle with a witch again, I promise you that!<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=017D><lineend><color=0001>Is this because you're holding a<lineend>grudge over what happened in<pause><lineend><CC03EA>Nutsbill?<pause><lineend>|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Is this because you're holding a grudge over what happened in Nutsbill?<pause><lineend>|
 196614|
-<CC03EA><color=0002><string=01BE><lineend><color=0001>Don't even try to apologize. It<lineend>won't work. I'll never forgive<pause><lineend><CC03EA>you!<pause><lineend><CC03EA>All right, Gradriel.<lineend>Prepare yourself!<pause><lineend>|
+<CC03EA><color=0002><string=01BE><lineend><color=0001>Don't even try to apologize. It won't work. I'll never forgive you!<pause><lineend><CC03EA>All right, Gradriel.<lineend>Prepare yourself!<pause><lineend>|
 196615|
 <CC03EA><color=0004><string=0184><lineend><color=0001>...Proserpina!<pause><lineend><CC03EA>The potion wore off!<pause><lineend>|
 196616|
 <CC03EA><color=0002><string=0002><lineend><color=0001>What!? No way!!<pause><lineend>|
 196617|
-<CC03EA><color=0002><string=0002><lineend><color=0001>After all that work I did getting<lineend>the ingredients!?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>After all that work I did getting the ingredients!?<pause><lineend>|
 196618|
 <CC03ED=00020006000103FF><CC03ED=00020007000103FF><CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Phooey!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>Gabriel, this is all YOUR fault!!<lineend><CC03ED=00020007000103FF><pause>|
 196619|
 <CC03EA><color=0004><string=0184><lineend><color=0001>My fault!?<pause><lineend>|
 196620|
-<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Yes! It's your fault!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>You just hold still. I think<lineend>you're going to enjoy life as a<lineend>duck.<lineend><CC03ED=00020007000103FF><pause>|
+<CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Yes! It's your fault!<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020008000103FF>You just hold still. I think you're going to enjoy life as a duck.<lineend><CC03ED=00020007000103FF><pause>|
 196621|
-<CC03EA><color=0004><string=0184><lineend><color=0001>How cruel!<pause><lineend><CC03EA>That's it! I'm going back to the<lineend>Goblin Market!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>How cruel!<pause><lineend><CC03EA>That's it! I'm going back to the Goblin Market!<pause><lineend>|
 196622|
 <CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Hey, wait! Stop!<lineend><CC03ED=00020007000103FF><pause>|
 196623|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Gradriel, we'll pick up where we<lineend>left off later.<pause><lineend><CC03EA>Don't you go losing any fights to<lineend>anyone else in the meantime.<pause><lineend><CC03EA>If anyone kicks your butt, it's<lineend>going to be me!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Gradriel, we'll pick up where we left off later.<pause><lineend><CC03EA>Don't you go losing any fights to anyone else in the meantime.<pause><lineend><CC03EA>If anyone kicks your butt, it's going to be me!<pause><lineend>|
 196624|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Gabriel! Wait!!<pause><lineend>|
 196625|
-<CC03EA><color=0004><string=017D><lineend><color=0001>Good grief. Of all the rivals in<lineend>the world...<pause><lineend>|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Good grief. Of all the rivals in the world...<pause><lineend>|

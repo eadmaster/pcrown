@@ -1,0 +1,60 @@
+0|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Hey you...*HIC*...Wanna know<lineend>something?<pause><lineend><CC03EA>*HIC*...The Queen of<lineend>Valendia...Elfaran...She's<lineend>amazing!<pause><lineend><CC03EA>...*HIC*...They don't come any<lineend>more clever than her.<pause><lineend>|
+1|
+<CC03FA=0029000300000000000003FF000A00460000><CC03FB=0046>|
+2|
+<CC03EA><color=0006><string=0029><lineend><color=0001>There he goes again. Every time he<lineend>gets drunk, he says the same<pause><lineend><CC03EA>thing.<pause><lineend><CC03EA>If you love the Queen so much,<lineend>maybe you should have proposed to<lineend>her instead!<pause><lineend>|
+3|
+<CC03FA=000A000200000000000003FF000A00460000><CC03FB=0046>|
+4|
+<CC03FA=0000000600000000000003FF000A00500000><CC03FB=0050>|
+5|
+<CC03FA=0000000700000000000003FF000A00500000><CC03FB=0050>|
+6|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Every time he opens his mouth,<lineend>it's Elfaran, Elfaran, Elfaran!<pause><lineend><CC03EA>How come he never talks about me?<lineend>I'm his fiance!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Ahh, this tastes great!<pause><lineend><CC03EA>It won't matter if we have peace<lineend>or if the Demon King's army<lineend>attacks.<pause><lineend><CC03EA>Beer will always taste good.<pause><lineend>|
+8|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Cokanu Restaurant,<lineend>at the foot of Valendine Castle<pause><lineend><CC03EA>and the Queen herself!<pause><lineend><CC03EA>If you're ready, I'll take your<lineend>order.<pause><lineend>|
+9|
+<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+10|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
+11|
+<CC03EA><CC03FC=0004><string=01A9><color=0001>Our Local Delicacy is Toast To Go<lineend>made with fresh Dodo eggs.<pause><lineend><CC03EA>The bread has an out-of-the-oven<lineend>crispiness.<pause><lineend><CC03EA>The over-easy egg on top makes it<lineend>even tastier. Satisfaction is<lineend>guaranteed!<pause><lineend><CC03EA>The price is 40G. Would you like<lineend>one?<pause><lineend>|
+12|
+<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+13|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford<lineend>it.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any more than<lineend>that.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very much.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you,<lineend>then. What Food would you like to<pause><lineend><CC03EA>use?<pause><lineend>|
+17|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
+18|
+<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all<lineend>right?<pause><lineend>|
+19|
+<CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+20|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford<lineend>it.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+22|
+<CC03EA><CC03FC=0004><string=01B4><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+23|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Looks like you can't quite afford<lineend>it. Come back anytime.<pause><lineend>|
+24|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Very well, my lady.<lineend>Enjoy your stay.<pause><lineend>|
+25|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
+26|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+27|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+28|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+29|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

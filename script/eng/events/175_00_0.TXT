@@ -1,31 +1,31 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What is this place?<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=0104><lineend><color=0001>This used to be called the Temple<lineend>of the Goddess.<pause><lineend><CC03EA>Nobody will bother us here.<pause><lineend><CC03EA>We can take all the time we need<lineend>to talk.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>This used to be called the Temple of the Goddess.<pause><lineend><CC03EA>Nobody will bother us here.<pause><lineend><CC03EA>We can take all the time we need to talk.<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Talk? About what?<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0104><lineend><color=0001>As the one who defeated the God of<lineend>Darkness, you've inherited a<pause><lineend><CC03EA>certain duty.<pause><lineend><CC03EA>Let me tell you a story about the<lineend>fate of the Gods...<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>As the one who defeated the God of Darkness, you've inherited a certain duty.<pause><lineend><CC03EA>Let me tell you a story about the fate of the Gods...<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0104><lineend><color=0001>I'm sure you've heard it before.<lineend>The story goes back 1000 years...<pause><lineend><CC03EA>Your world was once protected by a<lineend>Goddess called Gaia.<pause><lineend><CC03EA>The God of Darkness, Larva, spread<lineend>hatred and evil magic to try and<lineend>make the world his own.<pause><lineend><CC03EA>Yet he was forced to rely on a<lineend>human to be the leader of his dark<lineend>army...<pause><lineend><CC03EA>...for Gods are only able to have<lineend>a hand in the human world through<lineend>others.<pause><lineend><CC03EA>The human he chose was Volgrod,<lineend>the one you've been calling the<lineend>Demon King.<pause><lineend><CC03EA>The onslaught of the Demon Army<lineend>caused love and faith to weaken...<pause><lineend><CC03EA>...which, in turn, caused Gaia to<lineend>lose strength.<pause><lineend><CC03EA>In the end, Gaia used the last of<lineend>her power to seal away the Demon<lineend>King in his realm.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I'm sure you've heard it before. The story goes back 1000 years...<pause><lineend><CC03EA>Your world was once protected by a Goddess called Gaia.<pause><lineend><CC03EA>The God of Darkness, Larva, spread hatred and evil magic to try and make the world his own.<pause><lineend><CC03EA>Yet he was forced to rely on a human to be the leader of his dark army...<pause><lineend><CC03EA>...for Gods are only able to have a hand in the human world through others.<pause><lineend><CC03EA>The human he chose was Volgrod, the one you've been calling the Demon King.<pause><lineend><CC03EA>The onslaught of the Demon Army caused love and faith to weaken...<pause><lineend><CC03EA>...which, in turn, caused Gaia to lose strength.<pause><lineend><CC03EA>In the end, Gaia used the last of her power to seal away the Demon King in his realm.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0104><lineend><color=0001>...It was actually an enormous<lineend>gamble...<pause><lineend><CC03EA>Before Gaia disappeared, she<lineend>sealed her spirit into four Gems.<pause><lineend><CC03EA>This was so that she could<lineend>eventually return.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>...It was actually an enormous gamble...<pause><lineend><CC03EA>Before Gaia disappeared, she sealed her spirit into four Gems.<pause><lineend><CC03EA>This was so that she could eventually return.<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Is that what these Gems are?<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gaia gave life to each of the four<lineend>Gems, turning them into four<lineend>Dragons.<pause><lineend><CC03EA>We were supposed to protect the<lineend>world from evil...<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gaia gave life to each of the four Gems, turning them into four Dragons.<pause><lineend><CC03EA>We were supposed to protect the world from evil...<lineend><pause>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Heindel!<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The Dragons of the Land Stone and<lineend>the Ocean Stone both passed away<pause><lineend><CC03EA>long ago.<pause><lineend><CC03EA>Evil corrupted the Dragon of the<lineend>Sun Stone, but Edward has defeated<lineend>him.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Dragons of the Land Stone and the Ocean Stone both passed away long ago.<pause><lineend><CC03EA>Evil corrupted the Dragon of the Sun Stone, but Edward has defeated him.<pause><lineend>|
 65546|
 <CC03EA><color=0004><string=0104><lineend><color=0001>The final Gem exists inside of me.<pause><lineend>|
 65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Heindel...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to<lineend>disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown<lineend>more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You've will receive the only<lineend>chance that any human will ever<lineend>have.<pause><lineend><CC03EA>If you can defeat me, then I will<lineend>die, and Gaia will return. But if<lineend>you lose...<pause><lineend><CC03EA>...I will seal away the three<lineend>other Gems, and the Goddess of<lineend>Light will never return.<pause><lineend><CC03EA>Take your sword in your hands.<lineend>There is no refusing. There is no<lineend>turning away.<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You've will receive the only chance that any human will ever have.<pause><lineend><CC03EA>If you can defeat me, then I will die, and Gaia will return. But if you lose...<pause><lineend><CC03EA>...I will seal away the three other Gems, and the Goddess of Light will never return.<pause><lineend><CC03EA>Take your sword in your hands. There is no refusing. There is no turning away.<lineend><pause>|
 65549|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Then the only choice I have is to<lineend>fight!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Then the only choice I have is to fight!<pause><lineend>|
 131072|
 <CC03EA><CC03FC=0004><string=019E><color=0001>...Gradriel...<pause><lineend><CC03EA>Gradriel, can you hear me?<pause><lineend>|
 131073|
@@ -35,27 +35,27 @@
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You're...the Goddess?<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=019E><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gradriel, with your help, I have<lineend>been able to regain my divine<lineend>powers.<pause><lineend><CC03EA>I swear to you that forevermore, I<lineend>will watch over the land and<lineend>people of your world.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gradriel, with your help, I have been able to regain my divine powers.<pause><lineend><CC03EA>I swear to you that forevermore, I will watch over the land and people of your world.<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>But what about Heindel?<pause><lineend><CC03EA>What have I done to poor<lineend>Heindel...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But what about Heindel?<pause><lineend><CC03EA>What have I done to poor Heindel...<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=019E><lineend><color=0001>Heindel did not die.<pause><lineend><CC03EA>He has merely fulfilled his duty<lineend>and returned to his original form.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>Heindel did not die.<pause><lineend><CC03EA>He has merely fulfilled his duty and returned to his original form.<pause><lineend>|
 131079|
 <CC03EA><color=0002><string=0000><lineend><color=0001>His original form?<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=019E><lineend><color=0001>My spirit was divided into those<lineend>four Gems you saw before.<pause><lineend><CC03EA>Heindel was the embodiment of my<lineend>Wisdom, which exists for the sake<lineend>of protecting humans.<pause><lineend><CC03EA>In other words, he is me.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>My spirit was divided into those four Gems you saw before.<pause><lineend><CC03EA>Heindel was the embodiment of my Wisdom, which exists for the sake of protecting humans.<pause><lineend><CC03EA>In other words, he is me.<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Really?<pause><lineend>|
 131082|
-<CC03EA><color=0004><string=019E><lineend><color=0001>Please do not be sad, Gradriel.<pause><lineend><CC03EA>I have watched the actions of<lineend>humans through Heindel and the<lineend>three other Dragons.<pause><lineend><CC03EA>I have seen the return of trust<lineend>and love to the hearts of<lineend>humankind.<pause><lineend><CC03EA>It is because of this that I am<lineend>once again able to guard over you<lineend>all.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>Please do not be sad, Gradriel.<pause><lineend><CC03EA>I have watched the actions of humans through Heindel and the three other Dragons.<pause><lineend><CC03EA>I have seen the return of trust and love to the hearts of humankind.<pause><lineend><CC03EA>It is because of this that I am once again able to guard over you all.<pause><lineend>|
 131083|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Goddess...<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=019E><lineend><color=0001>Light and dark are forever bound<lineend>to one another.<pause><lineend><CC03EA>The Dark God Larva has not<lineend>disappeared altogether.<lineend><pause><CC03EA>Whether love vanishes and darkness<lineend>spreads again...<lineend><pause><CC03EA>Or love remains and the world<lineend>becomes a paradise... <lineend><pause><CC03EA>All will be decided by the path<lineend>which you and all humans choose to<lineend>take.<pause><lineend><CC03EA>I believe in you all. Just as I<lineend>believe in the peaceful world<lineend>which you will create.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>Light and dark are forever bound to one another.<pause><lineend><CC03EA>The Dark God Larva has not disappeared altogether.<lineend><pause><CC03EA>Whether love vanishes and darkness spreads again...<lineend><pause><CC03EA>Or love remains and the world becomes a paradise... <lineend><pause><CC03EA>All will be decided by the path which you and all humans choose to take.<pause><lineend><CC03EA>I believe in you all. Just as I believe in the peaceful world which you will create.<pause><lineend>|
 131085|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Goddess...<pause><lineend><CC03EA>I am merely a child, and I don't<lineend>know if I can live up to your<lineend>expectations.<pause><lineend><CC03EA>However, my sisters...and<lineend>Jestonai, Edward, Portgus...even<lineend>my Grandfather Jadis...<pause><lineend><CC03EA>We will work together to create a<lineend>world of happiness for all to live<lineend>in.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Goddess...<pause><lineend><CC03EA>I am merely a child, and I don't know if I can live up to your expectations.<pause><lineend><CC03EA>However, my sisters...and Jestonai, Edward, Portgus...even my Grandfather Jadis...<pause><lineend><CC03EA>We will work together to create a world of happiness for all to live in.<pause><lineend>|
 131086|
-<CC03EA><color=0004><string=019E><lineend><color=0001>Good.<pause><lineend><CC03EA>The most important thing is to<lineend>keep trying, without ever losing<lineend>hope.<pause><lineend><CC03EA>I will always watch over you and<lineend>your friends.<pause><lineend><CC03EA>The Light will be with you<lineend>forever...<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>Good.<pause><lineend><CC03EA>The most important thing is to keep trying, without ever losing hope.<pause><lineend><CC03EA>I will always watch over you and your friends.<pause><lineend><CC03EA>The Light will be with you forever...<pause><lineend>|
 131087|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's a good idea.<pause><lineend>|
 131088|

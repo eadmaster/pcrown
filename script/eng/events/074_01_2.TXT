@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=0067><lineend><color=0001>We wouldn't have made it through<lineend>that last attack if it weren't for<pause><lineend><CC03EA>him.<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>We wouldn't have made it through that last attack if it weren't for him.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Wow! That guy is really strong!<pause><lineend>|
 2|
-<CC03EA><color=0004><string=0178><lineend><color=0001>I'll wait here until you're back,<lineend>Gradriel.<pause><lineend><CC03EA>Don't worry about this town. If<lineend>any bad guys come along, I'll fend<lineend>them off myself.<pause><lineend><CC03EA>We'll see each other again soon!<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>I'll wait here until you're back, Gradriel.<pause><lineend><CC03EA>Don't worry about this town. If any bad guys come along, I'll fend them off myself.<pause><lineend><CC03EA>We'll see each other again soon!<pause><lineend>|

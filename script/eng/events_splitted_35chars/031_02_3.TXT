@@ -1,0 +1,48 @@
+0|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Where do you suppose Leon is right<lineend>now?<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0015><lineend><color=0001>Leon? Ha! You worry too much. I'm<lineend>sure he's fine.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Welcome to the Moment's Rest Cafe!<lineend>Please tell me your order.<pause><lineend>|
+3|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+4|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Come again soon!<lineend>We'll be here!<pause><lineend>|
+5|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Our Local Delicacy is well-done<lineend>Grilled Corn.<pause><lineend><CC03EA>We use sweet, fresh-picked corn,<lineend>dipped in our special sauce and<lineend>grilled to perfection.<pause><lineend><CC03EA>It's so delicious, you'll swear<lineend>you could eat them by the dozen!<pause><lineend><CC03EA>One costs 44G. Would you like to<lineend>try it?<pause><lineend>|
+6|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+7|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+8|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You can't carry any more than you<lineend>are now.<pause><lineend>|
+9|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>Here you are!<pause><lineend>|
+10|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>I'll grill something for you then.<lineend>Please select a Food to use.<pause><lineend>|
+11|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=01AB><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That will be 30G. Is that all<lineend>right?<pause><lineend>|
+13|
+<CC03EA><CC03FC=0004><string=01AB><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+14|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>You don't quite have enough money.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+16|
+<CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
+17|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
+18|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+19|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your<lineend>journeies be safe.<pause><lineend>|
+20|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+21|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+22|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+23|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

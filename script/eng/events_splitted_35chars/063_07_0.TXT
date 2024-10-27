@@ -1,0 +1,38 @@
+65536|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Welcome, little friend.<pause><lineend>|
+65537|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You must be...Heindel?<pause><lineend>|
+65538|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Yes, Heindel will do fine.<pause><lineend><CC03EA>People who come to me all seek<lineend>answers. I see you are no<lineend>different.<pause><lineend>|
+65539|
+<CC03EA><color=0002><string=0000><lineend><color=0001>My name is Gradriel. I have indeed<lineend>come to ask you something.<pause><lineend>|
+65540|
+<CC03EA><color=0004><string=0104><lineend><color=0001>I would be eager to hear why a<lineend>Queen is so interested in one<pause><lineend><CC03EA>particular man.<pause><lineend>|
+65541|
+<CC03EA><color=0002><string=0000><lineend><color=0001>So it's true. You do know<lineend>everything.<pause><lineend>|
+65542|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Edward was unable to change his<lineend>own fate.<pause><lineend><CC03EA>What could you possibly want to do<lineend>about that now?<pause><lineend>|
+65543|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I want you to tell me how to bring<lineend>Edward back to life!<pause><lineend>|
+65544|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The fire of life can never be<lineend>rekindled.<pause><lineend><CC03EA>Unless you're a god, you have no<lineend>choice but to accept this.<pause><lineend>|
+65545|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I can't just give up. There must<lineend>be some way.<pause><lineend>|
+65546|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You cannot bring him back to life,<lineend>but it may be possible to return<pause><lineend><CC03EA>to before he died.<pause><lineend>|
+65547|
+<CC03EA><color=0002><string=0000><lineend><color=0001>How is that?<pause><lineend>|
+65548|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Of course, it may not work. It's<lineend>also terribly dangerous.<pause><lineend><CC03EA>But if you absolutely must know,<lineend>then you and I must make a deal,<lineend>Queen of Valendia.<pause><lineend><CC03EA>There's something I want you to<lineend>bring me before I tell you.<pause><lineend>|
+65549|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What would that be?<pause><lineend>|
+65550|
+<CC03EA><color=0004><string=0104><lineend><color=0001>A very special Gem. It's called<lineend>the Land Stone.<pause><lineend>|
+65551|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Where can I find it?<pause><lineend>|
+65552|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Kingdom, and you<lineend>shall find out quickly enough.<pause><lineend>|
+65553|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...I understand. I'll bring you<lineend>the Land Stone.<pause><lineend><CC03EA>But once I do...<pause><lineend>|
+65554|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Ha ha! Don't worry.<lineend>I keep my promises.<pause><lineend>|

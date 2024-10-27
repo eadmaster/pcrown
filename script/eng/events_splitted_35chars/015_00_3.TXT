@@ -1,0 +1,34 @@
+0|
+<CC03EA><color=0006><string=004B><lineend><color=0001>Unless you have some business<lineend>here, Miss, you'd best move along.<pause><lineend><CC03EA>This is a dangerous place.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Knight Guard went back to<lineend>Valendine Castle.<pause><lineend><CC03EA>It can't be helped. The kingdom<lineend>needs them. We'll just have to<lineend>persevere.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0004><lineend><color=0001>If you go south of this village,<lineend>you'll find the crypt town<pause><lineend><CC03EA>Cemeteryth.<pause><lineend><CC03EA>Beyond that is the village of <color=0002>Lowgrove,<color=0001> which lay in the middle of a big<lineend>forest. <pause><lineend><CC03EA>The goatsmilk they have there is<lineend>the best. Make sure you try some.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=000A><lineend><color=0001>My grandma told me something when<lineend>I was little.<pause><lineend><CC03EA>Long ago, there was a Dragon that<lineend>swallowed a musical score, or<lineend>something like that.<pause><lineend><CC03EA>Whatever it was, the Dragon became<lineend>so happy after he swallowed it...<pause><lineend><CC03EA>...he decided to retire to <color=0003>an old Dragon's nest in a cave<lineend>south of here.<color=0001><pause><lineend>|
+4|
+<CC03EA><color=0006><string=0028><lineend><color=0001>I can't believe what happened...<pause><lineend><CC03EA>Have I been wrong about Edward all<lineend>along?<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0035><lineend><color=0001>Hey lady, do you think Demons are<lineend>stronger than Dragons?<pause><lineend><CC03EA>I bet you could beat either one of<lineend>them!<pause><lineend>|
+6|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Anybody who's good at fighting is<lineend>also good at using items.<pause><lineend><CC03EA>After all, being stingy with items<lineend>just makes battles take longer.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=004D><lineend><color=0001>I'm working on a new special<lineend>technique right now.<pause><lineend><CC03EA>Once I've got it down, I'll teach<lineend>it to you!<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Dragons are a little quieter<lineend>now, thanks to the Knight Guard.<pause><lineend>|
+9|
+<CC03EA><color=0006><string=0050><lineend><color=0001>I found a book that explains how<lineend>to heal yourself without being<pause><lineend><CC03EA>hurt in battle.<pause><lineend><CC03EA>If you drink an Invincible Potion,<lineend>you can eat without the food<lineend>getting knocked away.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that<lineend>will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+11|
+<CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+12|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

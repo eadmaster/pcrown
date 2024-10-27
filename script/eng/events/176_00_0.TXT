@@ -11,8 +11,8 @@
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Part of Larva's body...<lineend>It's...<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=0101><lineend><color=0001>Gradriel...The Goddess is at your<lineend>side!<pause><lineend><CC03EA>Unleash the power of your crown!<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Gradriel...The Goddess is at your side!<pause><lineend><CC03EA>Unleash the power of your crown!<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Mother!?<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Goddess of Light, I beseech you!<lineend>Vanquish the darkness!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Goddess of Light, I beseech you! Vanquish the darkness!<pause><lineend>|

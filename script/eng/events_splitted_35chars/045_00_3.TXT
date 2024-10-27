@@ -1,0 +1,116 @@
+0|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My Jestonai autograph didn't get<lineend>stolen!<pause><lineend>|
+1|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Now nobody will ever try to steal<lineend>my Jestonai autograph.<pause><lineend><CC03EA>What a relief!<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0052><lineend><color=0001>We Wizards tried with all our<lineend>might to find the Donfan Bandits.<pause><lineend><CC03EA>Unfortunately, we never found any<lineend>clues that lead anywhere.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0052><lineend><color=0001>I'm sensing a large flow of magic.<lineend>It's enough that it's making the<lineend>very ground tremble...<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0053><lineend><color=0001>People in Volga, the kingdom to<lineend>the north, believe in the Goddess<pause><lineend><CC03EA>Gaia.<pause><lineend><CC03EA>They have "Holy Warriors" guarding<lineend>their Kingdom.<pause><lineend><CC03EA>That reminds me, Queen Gradriel's<lineend>Father was from Volga, wasn't he?<pause><lineend>|
+5|
+<CC03EA><color=0006><string=001C><lineend><color=0001>The Wizards are trying so hard to<lineend>catch the bandits, but it's not<pause><lineend><CC03EA>going well for them.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Crime never pays.<pause><lineend><CC03EA>I'd say those bandits figured that<lineend>out the hard way!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0029><lineend><color=0001>My Father never even found my<lineend>uncle.<pause><lineend><CC03EA>Poor uncle...I hope he isn't still<lineend>waiting!<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Phew! I finally made it home!<pause><lineend><CC03EA>I do feel sorry for my cousin,<lineend>though.<pause><lineend><CC03EA>Oh well. I can make it up to him<lineend>next time. When I do, I'll<lineend>remember to take a map!<pause><lineend><CC03ED=00130012000103FF><CC03FB=0050><CC03F1=0013>|
+9|
+<CC03EA><color=0006><string=0011><lineend><color=0004>"Sweet wonderful maaaagic!"<pause><lineend><CC03EA><color=0001>No! I refuse to sing it!<lineend>Refuse, I say!<pause><lineend><CC03EA><color=0004>"Oh, I'll turn them into<lineend>froooogs!"<lineend><color=0001>...Damn it!<pause><lineend>|
+10|
+<CC03EA><color=0006><string=0028><lineend><color=0004>"Maaaagic!"<lineend>"Sweet wonderful maaaagic!"<pause><lineend><CC03EA><color=0001>It's kinda catchy! I should teach<lineend>it to my friends!!<pause><lineend>|
+11|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Good afternoon!<pause><lineend>|
+12|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>If the Warriors' Leader and I can<lineend>only see eye to eye...<pause><lineend><CC03EA>...the Warriors and Wizards might<lineend>start getting along.<pause><lineend><CC03EA>Maybe I should be the one to begin<lineend>the exchange?<pause><lineend>|
+13|
+<CC03EA><color=0006><string=000E><lineend><color=0001>I'm all right now. But please, no<lineend>more earthquakes!!<pause><lineend>|
+14|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I think I'll just forget about her<lineend>and try to make friends with<pause><lineend><CC03EA>Ondine.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=0057><lineend><color=0001>I want to be as good a Wizard as<lineend>the Leader someday.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=0057><lineend><color=0001>There's a dungeon in the middle of<lineend>town beneath the statue!<pause><lineend><CC03EA>The Leader went inside. I wonder<lineend>if he's OK?<pause><lineend>|
+17|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Do you think the Demon King<lineend>started that big earthquake?<pause><lineend>|
+18|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Those dirty, rotten, no-good<lineend>Donfan Bandits stole my cane!<pause><lineend>|
+19|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Now all we need is for the Demon<lineend>Horde to disappear.<pause><lineend>|
+20|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Some people say that earthquakes<lineend>happen when giants faraway get in<pause><lineend><CC03EA>a fight.<pause><lineend><CC03EA>Others say that they happen when<lineend>the gods get angry at us. What do<lineend>you think?<pause><lineend>|
+21|
+<CC03EA><color=0006><string=001D><lineend><color=0001>My grandson went and turned<lineend>himself into a Frogger, did he?<pause><lineend><CC03EA>Must've been that potion he was<lineend>working on.<pause><lineend>|
+22|
+<CC03EA><color=0006><string=0054><lineend><color=0001>I'll need to polish up my skills<lineend>if I want to help protect my city.<pause><lineend>|
+23|
+<CC03EA><color=0006><string=000F><lineend><color=0001>Holy Magic Stones are basically<lineend>for healing your body.<pause><lineend><CC03EA>But use them around undead<lineend>monsters like Ghouls and Ghosts,<lineend>and they can also do damage.<pause><lineend><CC03EA>Our magic teacher taught us about<lineend>this the other day.<pause><lineend>|
+24|
+<CC03EA><color=0006><string=0055><lineend><color=0001>I did it!<lineend>I finally did it!!<pause><lineend><CC03EA>I finally passed my test!!<pause><lineend>|
+25|
+<CC03EA><color=0006><string=0056><lineend><color=0001>今日もマジメに勉強、勉強！<lineend>人間マジメが一番さ。<pause><lineend>|
+26|
+<CC03EA><color=0006><string=0056><lineend><color=0001>The Donfan Bandits stole my magic<lineend>ring!<pause><lineend><CC03EA>It was a memento of my<lineend>Grandfather, too.<pause><lineend><CC03EA>I'm dying to get it back, but<lineend>there's so much studying to do<lineend>here. I'm just too busy!<pause><lineend><CC03EA>It's really tragic!<pause><lineend>|
+27|
+<CC03EA><color=0006><string=0056><lineend><color=0001>I wonder if anyone will ever get<lineend>my ring back...<pause><lineend>|
+28|
+<CC03EA><color=0006><string=0056><lineend><color=0001>Hey, that's...My ring! My<lineend>Grandfather's ring!!<pause><lineend><CC03EA>You got it back for me! Thank you!<pause><lineend><CC03EA>This is the one memento of him I<lineend>have left.<pause><lineend>|
+29|
+<CC03EA><color=0002>Returned the Memento Ring to its<lineend>owner.<pause><lineend>|
+30|
+<CC03EA><color=0006><string=0056><lineend><color=0001>I'd like you to have this, as a<lineend>token of my gratitude.<pause><lineend>|
+31|
+<CC03EA><color=0002>Got the Attack Drop!<pause><lineend>|
+32|
+<CC03EA><color=0006><string=0056><lineend><color=0001>All I know is that it was made<lineend>with magic, so it's got to be<pause><lineend><CC03EA>useful somehow!<pause><lineend>|
+33|
+<CC03EA><color=0006><string=0056><lineend><color=0001>Thank you so much. It's wonderful<lineend>to have my ring back!<pause><lineend>|
+34|
+<CC03EA><color=0006><string=01CB><lineend><color=0001>I teach magic to young people<lineend>here.<pause><lineend><CC03EA>Seeing my students graduate and go<lineend>out into the world is the best<lineend>part of my life.<pause><lineend>|
+35|
+<CC03EA><color=0006><string=01CB><lineend><color=0001>The Donfan Bandits are good at<lineend>what they do, but they make<pause><lineend><CC03EA>mistakes, too.<pause><lineend><CC03EA>They let a silly little parrot<lineend>spook them away from a house in<lineend>the Warriors' Area.<pause><lineend><CC03EA>They're lucky they didn't get<lineend>caught.<pause><lineend>|
+36|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop.<lineend>What can I do for you today?<pause><lineend>|
+37|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+38|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<lineend>Come again soon!<pause><lineend>|
+39|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You don't have enough money.<pause><lineend><CC03EA>Don't tease your elders like that!<pause><lineend>|
+40|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag is full...<pause><lineend>|
+41|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any items!<pause><lineend><CC03EA>It's not nice to tease your<lineend>elders, you know.<pause><lineend>|
+42|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>I don't buy those.<pause><lineend>|
+43|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+44|
+<CC03EA><CC03FC=0004><string=01B4><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+45|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Looks like you can't quite afford<lineend>it. Come back anytime.<pause><lineend>|
+46|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Very well, my lady.<lineend>Enjoy your stay.<pause><lineend>|
+47|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
+48|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+49|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+50|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+51|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+52|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
+53|
+<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+54|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
+55|
+<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May<lineend>the powers of magic watch over<pause><lineend><CC03EA>you...<pause><lineend>|
+56|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
+57|
+<CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>You must find places like this one<lineend>in your travels. Only then can I<lineend>send you to them.<pause><lineend>|

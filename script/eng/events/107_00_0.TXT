@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time to turn back<lineend>now!<pause><lineend><CC03EA>I've got to chase those Demons out<lineend>of the castle!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time to turn back now!<pause><lineend><CC03EA>I've got to chase those Demons out of the castle!<lineend><pause>|
 1|
 <CC03F0=0001000D0000000A03FF00000000>|
 65536|

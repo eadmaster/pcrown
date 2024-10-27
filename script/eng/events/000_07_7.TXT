@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I know we just<lineend>met, but somehow I feel like I've<pause><lineend><CC03EA>always known you.<pause><lineend><CC03EA>You're welcome to rest here at the<lineend>castle all you like before you<lineend>resume your travels.<pause><lineend><CC03F0=000000880001000F03FF00000000>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I know we just met, but somehow I feel like I've always known you.<pause><lineend><CC03EA>You're welcome to rest here at the castle all you like before you resume your travels.<pause><lineend><CC03F0=000000880001000F03FF00000000>|

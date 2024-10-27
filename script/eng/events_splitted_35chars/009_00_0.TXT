@@ -1,0 +1,92 @@
+0|
+<CC03EA><color=0002><string=0000><lineend><color=0001>わたしの勝ちですね。<pause><lineend>|
+1|
+<CC03ED=0187003300010000>|
+2|
+<CC03ED=01870007000103FF>|
+3|
+<CC03EA><color=0002><string=0000><lineend><color=0001>さぁ、子供達を元に戻して下さい。<pause><lineend>|
+4|
+<CC03F2=018700100000004103FF000003FF><CC03FB=0014><CC03F2=000000880000003C03FF000003FF><CC03F2=00F800010000003703FF00000000>|
+5|
+<CC03EA><color=0004><string=0187><lineend><color=0001>All right! All right! I'll do it!<lineend>Sheesh!<pause><lineend>|
+6|
+<CC03ED=0187000600010000>|
+7|
+<CC03ED=0187000900010000>|
+8|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>あぁ、よかった！<lineend>みんな元通りだね！！<pause><lineend>|
+9|
+<CC03EA><color=0004><string=0187><lineend><color=0001>You've won this time, lady.<pause><lineend><CC03EA>But this isn't over yet, and don't<lineend>you forget it!<pause><lineend>|
+10|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>わーい、元にもどった！！<lineend><CC03ED=00EE000500010000><pause><CC03EA>タバサ、これでおうちに帰れるよ！！<lineend><pause>|
+11|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>うん、ニルス！<lineend><pause>|
+12|
+<CC03ED=00EE000500010000><CC03EA><color=0004><string=00EE><lineend><color=0001>お姉ちゃん、ありがとう！！<pause><lineend>|
+13|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>ありがとう！<lineend><pause>|
+14|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ううん、いいのよ。<lineend><pause><CC03EA>村でお母さんが待っているわ。<lineend>気をつけてお帰りなさい。<lineend><pause>|
+15|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>ハイ！<pause><lineend><CC03EA>じゃ、タバサ行こう！<pause><lineend>|
+16|
+<CC03F2=00EE00070000002303FF000003FF><CC03FB=0014><CC03F2=00ED00510000002303FF000003FF>|
+17|
+<CC03F9=00ED>|
+18|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>ありがとう、女王様。<pause><lineend><CC03EA>これで、きっと元のように<lineend>村の人達と仲良く<lineend>やっていけるようになるわ！！<pause><lineend>|
+19|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=0000009800010000>|
+65536|
+<CC03EA><color=0004><string=00D0><lineend><color=0001>Help us!<pause><lineend><CC03EA>Hey lady! Fairy! Help us!<pause><lineend><CC03EA>My name is Nilus.<pause><lineend><CC03EA>There's a witch named Proserpina<lineend>who lives here, and she turned me<lineend>into a duck!<pause><lineend>|
+65537|
+<CC03EA><color=0004><string=00E3><lineend><color=0001>I...<lineend>...*RIBBIT*...I'm Tabitha.<pause><lineend><CC03EA>She said she'd show us a spell to<lineend>make us fly like the fairies, so<lineend>we followed her.<pause><lineend><CC03EA>But Proserpina broke her promise,<lineend>and then she trapped us!<pause><lineend><CC03EA>...I want my Mom!!<pause><lineend>|
+65538|
+<CC03EA><CC03FC=0004><string=0187><color=0004>I'm telling you, magic is the<lineend>best! I'm going to change everyone<lineend>into frogs!!<pause><lineend>|
+65539|
+<CC03EA><color=0004><string=00E3><lineend><color=0001>Oh no! She's back!<pause><lineend>|
+65540|
+<CC03EA><color=0004><string=00D0><lineend><color=0001>She'll cast another spell on us!<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=0187><lineend><color=0001>What the...!<pause><lineend>|
+65542|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Wait just a darn minute!<pause><lineend><CC03EA>What are you doing in MY house?<lineend>Nobody said YOU could come in<lineend>here.<pause><lineend>|
+65543|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You're the one who changed these<lineend>children into animals, aren't you?<pause><lineend><CC03EA>Change them back this instant!<lineend>Everyone is worried sick about<lineend>them!<pause><lineend>|
+65544|
+<CC03EA><color=0004><string=0187><lineend><color=0001>No way, Jose.<pause><lineend>|
+65545|
+<CC03EA><color=0004><string=0187><lineend><color=0001>This is part of my training to<lineend>become a great and powerful witch!<pause><lineend><CC03EA>Besides, who's really going to get<lineend>mad that I turned a couple dumb<lineend>kids into animals?<pause><lineend>|
+65546|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The villagers are all mad the<lineend>fairies. They think this is some<pause><lineend><CC03EA>kind of a prank they're pulling.<pause><lineend>|
+65547|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Ha! That's great!<pause><lineend><CC03EA>I was going to blame it all on the<lineend>fairies anyway!<pause><lineend>|
+65548|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Enough is enough.<pause><lineend><CC03EA>I'm putting a stop to your<lineend>foolishness right now.<pause><lineend><CC03EA>I want you to break the spell on<lineend>those children at once!<pause><lineend>|
+65549|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Ugh. Put a cork in it, lady!<lineend><pause><CC03EA>I hate people who act all high and<lineend>mighty! I hate them!<lineend><pause><CC03EA>Say one more word, and I'll change<lineend>you into something nasty, too!<lineend><pause>|
+131072|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Have you come to your senses?<pause><lineend>|
+131073|
+<CC03EA><color=0002><string=0000><lineend><color=0001>If you don't change them back, I<lineend>might just have to...<pause><lineend>|
+131074|
+<CC03EA><color=0004><string=0187><lineend><color=0001>All right! All right! I'll do it!<lineend>Sheesh!<pause><lineend>|
+131075|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>There! Everyone's back to normal!<pause><lineend>|
+131076|
+<CC03EA><color=0004><string=0187><lineend><color=0001>You've won this time, lady.<pause><lineend><CC03EA>But this isn't over yet, and don't<lineend>you forget it!<pause><lineend>|
+131077|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Ya-hoo!<pause><lineend><CC03EA>We can finally go home, Tabitha!<pause><lineend>|
+131078|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Yeah! Let's go!<pause><lineend>|
+131079|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Thank you, Ma'am!<pause><lineend>|
+131080|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Thank you !<pause><lineend>|
+131081|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Your parents are waiting for you<lineend>in the village. Be careful on the<pause><lineend><CC03EA>way back.<pause><lineend>|
+131082|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>We will!<pause><lineend><CC03EA>Let's go, Tabitha!<pause><lineend>|
+131083|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Now the fairies can be friends<lineend>with the villagers like before!<pause><lineend><CC03EA>Thank you, your Majesty!<pause><lineend><CC03EA>You know, I really like being with<lineend>you.<pause><lineend><CC03EA>I just might have to tag along for<lineend>the rest of your trip. I hope<lineend>that's all right!<pause><lineend>|

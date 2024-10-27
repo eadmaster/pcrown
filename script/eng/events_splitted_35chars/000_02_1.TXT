@@ -1,0 +1,34 @@
+0|
+<CC03EA><color=0006><string=007D><lineend><color=0001>I don't suppose Princess Eriel has<lineend>turned up yet?<pause><lineend>|
+1|
+<CC03EA><color=0006><string=007C><lineend><color=0001>It's such a relief that you are<lineend>with us again, Queen Gradriel.<pause><lineend><CC03EA>I just hope Princess Eriel is safe<lineend>and sound, wherever she may be.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a<lineend>fight, make sure you eat something<pause><lineend><CC03EA>right away.<pause><lineend><CC03EA>The more you eat, the more your<lineend>body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an<lineend>empty stomach!<pause><lineend>|
+3|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our<lineend>kingdom's greatest treasure.<pause><lineend><CC03EA>The Knight Guard will find<lineend>Princess Eriel at all costs!<pause><lineend><CC03EA>Please put your mind at ease, your<lineend>Highness.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Queen Gradriel, have you started<lineend>carrying any Magic Stones yet?<pause><lineend><CC03EA>I think you'll find that battles<lineend>can be won much more easily with<lineend>their help.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small<lineend>goods.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in<lineend>this room, your Highness.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in<lineend>this room, your Highness.<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0078><lineend><color=0001>Who would have imagined such a<lineend>dreadful thing could happen?<pause><lineend>|
+9|
+<CC03EA><color=0006><string=0079><lineend><color=0001>Your Majesty, I'm very worried<lineend>about Princess Eriel.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>I knew your Mother Elfaran and<lineend>your Father Shelius.<pause><lineend><CC03EA>They both loved their three<lineend>children dearly.<pause><lineend><CC03EA>I'm certain that their spirits are<lineend>protecting Princess Eriel right<lineend>now.<pause><lineend><CC03EA>Queen Gradriel, I just know your<lineend>sister is safe!<pause><lineend>|
+11|
+<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been<lineend>passed down through the Royal<pause><lineend><CC03EA>Family.<pause><lineend><CC03EA>Do you remember it, Queen<lineend>Gradriel?<pause><lineend>|
+12|
+<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+13|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your<lineend>Highness.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest<lineend>lands.<pause><lineend><CC03EA>I speak the prayer of all who seek<lineend>the righteous path.<pause><lineend><CC03EA>May light rain down upon the<lineend>darkness...<pause><lineend><CC03EA>May the restraints of suffering<lineend>vanish...<pause><lineend><CC03EA>...And may that which is locked in<lineend>our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means,<lineend>but the words do convey the<lineend>kindness of our Royal Family.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=0080><lineend><color=0001>That we made it out of the Black<lineend>Forest in one piece is all thanks<pause><lineend><CC03EA>to Captain Kwein.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=0080><lineend><color=0001>That we made it out of the Black<lineend>Forest in one piece is all thanks<pause><lineend><CC03EA>to Captain Kwein.<pause><lineend>|

@@ -1,0 +1,14 @@
+0|
+<CC03EA><color=0005><string=019B><lineend><color=0001>If you're looking for a Power<lineend>Plant Seed, Halloween's got some.<pause><lineend>|
+1|
+<CC03EA><color=0005><string=019C><lineend><color=0001>If you ask him, I'm sure he'll<lineend>sell you a few.<pause><lineend>|
+2|
+<CC03EA><color=0005><string=019D><lineend><color=0001>Halloween actually went out<lineend>earlier. In fact, he should have<pause><lineend><CC03EA>been back a while ago.<pause><lineend><CC03EA>Maybe the Death King that appears<lineend>deep in the cemetery got him?<pause><lineend>|
+3|
+<CC03EA><CC03FC=0004><string=00A7><color=0001>コンチハ・・・<lineend>コンチハ・・・・<lineend>コンチハ・・・・・<pause><lineend>|
+4|
+<CC03EA><color=0002><string=0002><lineend><color=0001>ひょぇっ！？<pause><lineend>|
+5|
+<CC03FA=0002000800010000000003FF000A00780000><CC03FB=0078>|
+6|
+<CC03FA=0002000800000000000003FF000A00780000><CC03FB=0078>|

@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=0067><lineend><color=0001>It's been 23 years since the<lineend>Sirens last left us alone.<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>It's been 23 years since the Sirens last left us alone.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Well? How does the wind of another<lineend>country feel? Kind of thrilling,<pause><lineend><CC03EA>isn't it?<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Well? How does the wind of another country feel? Kind of thrilling, isn't it?<pause><lineend>|
 2|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Aren't you tired? You ought to<lineend>rest for today.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Aren't you tired? You ought to rest for today.<pause><lineend>|

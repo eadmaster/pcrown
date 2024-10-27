@@ -1,0 +1,50 @@
+0|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>Ah, you must be Edward!<pause><lineend><CC03EA>Sorry, but you might as well turn<lineend>around.<pause><lineend><CC03EA>I've got more than enough strength<lineend>to kill every Dragon myself.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=004F><lineend><color=0001>I've heard about you.<pause><lineend><CC03EA>Rumor has it that you killed the<lineend>Ice Dragon in Cadho Badho.<pause><lineend><CC03EA>While you're here, by all means,<lineend>help yourself to a few more of<lineend>those awful beasts!<pause><lineend>|
+2|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Take it easy!<pause><lineend>|
+3|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>If you're going to be fighting<lineend>Dragons, you better get your<pause><lineend><CC03EA>strength up first!<pause><lineend><CC03EA>Now, what'll it be?<pause><lineend>|
+4|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
+5|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Come again!<pause><lineend>|
+6|
+<CC03EA><CC03FC=0004><string=01AA><color=0001>Our Local Delicacy is oven-made<lineend>Grilled Steak.<pause><lineend><CC03EA>The outside has a well-done<lineend>savoriness, but the inside is nice<lineend>and juicy.<pause><lineend><CC03EA>The garlic gives it a nice touch,<lineend>too.<pause><lineend><CC03EA>A couple bites of it, and those<lineend>Dragons won't be scary at all!<pause><lineend><CC03EA>It costs 52G.<lineend>Want one?<pause><lineend>|
+7|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+8|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough<lineend>money.<pause><lineend>|
+9|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>You can't carry any more, can you?<lineend>Come see me when you can.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
+11|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good!<lineend>Please select a Food to use.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01AA><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>It's 30G. Is that all right?<pause><lineend>|
+14|
+<CC03EA><CC03FC=0004><string=01AA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+15|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>What the...? You don't have enough<lineend>money.<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
+17|
+<CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+18|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
+19|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
+20|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
+21|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
+22|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+23|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
+24|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

@@ -1,0 +1,20 @@
+0|
+<CC03EA><color=0006><string=0035><lineend><color=0001>I wonder if Leon is doing all<lineend>right.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Maybe it's my age, but the heat<lineend>these days is too much to bear.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if Leon will ever come<lineend>back...<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the<lineend>Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a really fun<lineend>game called <color=0003>Truck Chase<color=0001> that you can play there.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=001F><lineend><color=0001>When we had that earthquake, I<lineend>thought it meant the Basilisk<pause><lineend><CC03EA>would come back!<pause><lineend>|
+5|
+<CC03EA><color=0006><string=000B><lineend><color=0001>I was doing some shopping in Cadho<lineend>Badho when that big earthquake<pause><lineend><CC03EA>hit...<pause><lineend><CC03EA>Cities and I just don't get along.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Aaah...Aaah....Aaah-Choo!<pause><lineend><CC03EA>I can't stop sneezing!<pause><lineend><CC03EA>Maybe it's really a cold after<lineend>all. Aaah...Aaah...Aaah-Choo!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=003B><lineend><color=0001>The wind from the desert has<lineend>gotten stronger.<pause><lineend>|
+8|
+<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you something nobody<lineend>else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find the a great big tree<lineend>known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as you carry a<lineend>Yggdrasill Fruit, practically<lineend>nothing can beat you.<pause><lineend>|
+9|
+<CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the Fairy Woods.<color=0001><pause><lineend>|

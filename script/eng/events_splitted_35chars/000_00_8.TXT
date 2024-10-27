@@ -1,0 +1,124 @@
+65536|
+<CC03EA><CC03FC=0004><string=007D>The nerve of these monsters!<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Are you all right, Queen Gradriel?<pause><lineend>|
+131073|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I've never heard of a monster<lineend>coming all this way alone.<pause><lineend><CC03EA>What could it possibly mean?<pause><lineend>|
+131074|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The forces of evil magic have been<lineend>on the rise for some time now.<pause><lineend><CC03EA>It seems to be affecting the<lineend>monsters, making them more<lineend>aggressive.<pause><lineend>|
+131075|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon said the same thing at the<lineend>tower in the Black Forest.<pause><lineend><CC03EA>But the evil magic should have<lineend>dried up when the magic square<lineend>broke apart, right?<pause><lineend><CC03EA>Could it be coming from Arsontula,<lineend>where the door to the Demon Realm<lineend>is?<lineend><pause>|
+131076|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, but I'm afraid there is more<lineend>to it than that.<pause><lineend><CC03EA>Something must be afoot within the<lineend>Demon Realm itself.<pause><lineend>|
+131077|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It probably has something to do<lineend>with the Demon King's seal being<pause><lineend><CC03EA>broken.<pause><lineend>|
+196608|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>In other words, the Demon King has<lineend>escaped?<lineend><pause>|
+196609|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wherever he is, I'm sure we're not<lineend>finished with him yet.<pause><lineend>|
+196610|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>さよう、きろくによれば<lineend>魔王は不死身に近いとあります。<pause><lineend><CC03EA>一時的に姿を隠したのかもしれません。<lineend><pause>|
+196611|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael?<pause><lineend>|
+196612|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Gradriel...your Majesty... Please<lineend>hear my request.<pause><lineend><CC03EA>If you can find it in your heart<lineend>to do so, please try to help the<lineend>Demon King.<pause><lineend>|
+196613|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What are you talking about,<lineend>Sidrael?<pause><lineend>|
+196614|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>You want us to help the Demon<lineend>King?<pause><lineend>|
+196615|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I know it's hard to believe, but<lineend>he isn't really evil.<pause><lineend>|
+196616|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you ready to tell us<lineend>everything that happened in the<pause><lineend><CC03EA>tower?<pause><lineend>|
+196617|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Yes...<pause><lineend>|
+262144|
+<CC03EA><color=0004><string=012A><lineend><color=0001>You've been calling me to your<lineend>side again and again for days.<pause><lineend><CC03EA>Will you please tell me what it is<lineend>you want from me?<pause><lineend>|
+262145|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Something has changed since you<lineend>arrived. I want you to explain it<pause><lineend><CC03EA>to me.<pause><lineend><CC03EA>...What is this pain that I'm in?<pause><lineend><CC03EA>It hurts more deeply than any pain<lineend>these chains have ever caused me.<pause><lineend>|
+262146|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I'm so confused...I've never had<lineend>this sensation before.<pause><lineend><CC03EA>...Come closer to me, Sidrael...<pause><lineend>|
+262147|
+<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A000B000103FF>When you're like this with me...<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>...I just can't understand why<lineend>everyone says you're so evil.<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>You have a heart that can feel for<lineend>others.<lineend><CC03ED=012A000A000103FF><pause>|
+262148|
+<CC03EA><color=0005><string=0110><lineend><color=0001>A heart that can feel for others?<pause><lineend>|
+262149|
+<CC03EA><CC03FC=0004><string=0110><color=0001>Not so evil!?<pause><lineend>|
+262150|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I think you're forgetting who<lineend>you're talking to!<pause><lineend><CC03EA>I'm King of the Demons! I have no<lineend>need for that nonsense!!<pause><lineend>|
+262151|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Volgrod...<pause><lineend>|
+262152|
+<CC03EA><color=0005><string=0110><lineend><color=0001>I could set you free right now, if<lineend>I wished.<pause><lineend>|
+262153|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I could also tear you limb from<lineend>limb with my bare hands...<pause><lineend>|
+262154|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I've taken the lives of<lineend>many...even eaten the flesh from<lineend>their bodies.<pause><lineend><CC03EA>My soul is stained in darkness.<pause><lineend>|
+262155|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I thirst for the blood of<lineend>humans...<pause><lineend>|
+262156|
+<CC03EA><color=0005><string=0110><lineend><color=0001>...and yet, you aren't afraid of<lineend>me?<pause><lineend>|
+262157|
+<CC03EA><CC03FC=0004><string=0110><color=0001>How can that be?<lineend><pause>|
+262158|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I'm so weak and frail, it would be<lineend>easy for you to kill me with those<pause><lineend><CC03EA>giant claws of yours. <pause><lineend><CC03EA>But you can't. You have a heart<lineend>just as all humans do, and that<lineend>heart is feeling for me.<lineend><pause>|
+262159|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Perhaps I could be rid of that<lineend>heart if I killed you...<pause><lineend>|
+262160|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Tell me, Sidrael...Would you ever<lineend>be able to love someone who looks<pause><lineend><CC03EA>the way I do?<lineend><pause>|
+262161|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I was very scared of you at<lineend>first...<lineend><pause>|
+262162|
+<CC03EA><CC03FC=0004><string=012A><color=0001>But things have changed, Volgrod.<pause><lineend><CC03EA>Right now, I feel enchanted by the<lineend>love you have in your heart for<lineend>me. <pause><lineend>|
+262163|
+<CC03EA><color=0005><string=0110><lineend><color=0001>...I was once a human myself. The<lineend>Book of Larva gave me my strength.<pause><lineend>|
+262164|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I should have lost everything in<lineend>exchange for it...my memories...my<lineend>so-called heart...<pause><lineend>|
+262165|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I think your heart has come back<lineend>to you, Volgrod.<pause><lineend>|
+262166|
+<CC03EA><color=0005><string=0110><lineend><color=0001>The Goddess Gaia...She put me in<lineend>these chains.<pause><lineend><CC03EA>It could be that after so many<lineend>centuries, they've cleansed me<lineend>somehow.<pause><lineend>|
+262167|
+<CC03EA><CC03FC=0004><string=0110><color=0001>Will you do something for me?<pause><lineend>|
+262168|
+<CC03EA><color=0004><string=012A><lineend><color=0001>If there's anything I can do...<pause><lineend>|
+262169|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Just take this pain away from me.<pause><lineend><CC03EA>Sidrael...<lineend>Please...<pause><lineend>|
+327680|
+<CC03EA><color=0004><string=012A><lineend><color=0001>...and when he promised he<lineend>wouldn't hurt anyone else, I set<pause><lineend><CC03EA>him free.<pause><lineend>|
+327681|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I didn't quite understand that the<lineend>chains were restoring his human<pause><lineend><CC03EA>heart.<pause><lineend><CC03EA>Although he started acting like a<lineend>beast the moment I removed them...<pause><lineend><CC03EA>...I'm sure that his heart is<lineend>still alive inside him.<pause><lineend>|
+327682|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>If that book changed him into the<lineend>Demon King...<pause><lineend><CC03EA>...then what happened to him is no<lineend>different from what happened to<lineend>Golgotha, or to Eriel.<pause><lineend><CC03EA>Though one question remains: For<lineend>all he has changed and for all the<lineend>power he has...<pause><lineend><CC03EA>...could the Demon King ever truly<lineend>change back into a human?<pause><lineend>|
+327683|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael, if it comes to a battle<lineend>between our Kingdom and the Demon<pause><lineend><CC03EA>King...<pause><lineend><CC03EA>...I'll have to fight him to<lineend>protect our people.<pause><lineend>|
+327684|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Will you still want to help the<lineend>Demon King if that happens?<pause><lineend>|
+327685|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Merely closing the door to the<lineend>Demon Realm won't stop the flow of<pause><lineend><CC03EA>evil magic power.<lineend><pause><CC03EA>If the Demon King is alive and<lineend>free, then that much is for<lineend>certain.<pause><lineend>|
+327686|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But where could the Demon King be<lineend>right now?<pause><lineend>|
+327687|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I don't know. The only clues we<lineend>might find would be in the Demon<pause><lineend><CC03EA>King's tower...<pause><lineend>|
+327688|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Goodness, that was quite an<lineend>earthquake!<pause><lineend>|
+327689|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We've never had such an earthquake<lineend>in Valendia before.<pause><lineend>|
+327690|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Do you suppose the evil magic<lineend>power from the Demon Realm caused<pause><lineend><CC03EA>it?<pause><lineend>|
+327691|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I dread to even mention it...<pause><lineend><CC03EA>...but if our world grows too full<lineend>of evil magic, it will change into<lineend>a world of Demons.<pause><lineend><CC03EA>If that happens, not a single<lineend>human will survive.<pause><lineend>|
+327692|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I will go to the Demon Realm one<lineend>more time to investigate the Demon<pause><lineend><CC03EA>King's tower.<pause><lineend>|
+327693|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness!<pause><lineend>|
+327694|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward and I are the only ones who<lineend>know the way.<pause><lineend><CC03EA>I'll go see what I can find.<lineend><pause>|
+327695|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, the Demon King<lineend>could attack us at any moment!<pause><lineend>|
+327696|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I understand that.<pause><lineend>|
+327697|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Perhaps there is no changing your<lineend>mind.<pause><lineend><CC03EA>Last time, you said you were only<lineend>going to look for Arsontula...<pause><lineend><CC03EA>...but before long, you wound up<lineend>in the Demon Realm itself.<pause><lineend>|
+327698|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Whatever happens, please don't get<lineend>carried away this time!<pause><lineend>|

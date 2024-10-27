@@ -1,0 +1,76 @@
+0|
+<CC03EA><color=0005><string=009A><lineend><color=0001>Bones and empty jars can get in<lineend>the way, but at least you can<pause><lineend><CC03EA>throw 'em!<pause><lineend>|
+1|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Tra la di...<lineend>Tra la da...<pause><lineend><CC03EA>Another fine day to snatch some<lineend>items!<pause><lineend><CC03EA>Let an item sit on the ground too<lineend>long, and we'll be right along to<lineend>take it!<pause><lineend>|
+2|
+<CC03EA><color=0005><string=009C><lineend><color=0001>You're a cute little witch. I'll<lineend>sell you an extra bag!<pause><lineend>|
+3|
+<CC03EA><color=0005><string=009C><lineend><color=0001>Hey, wait a second. I think you've<lineend>got enough already. Sheesh!<pause><lineend>|
+4|
+<CC03EA><color=0005><string=009C><lineend><color=0001>You can have it for 700G.<pause><lineend>|
+5|
+<CC03EA><color=0005><string=009C><lineend><color=0001>You can have it for 500G!<pause><lineend>|
+6|
+<CC03EA><color=0005><string=009C><lineend><color=0001>You can have it for 300G!<pause><lineend>|
+7|
+<CC03EA><CC03FC=0004><string=009C><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
+8|
+<CC03EA><color=0005><string=009C><lineend><color=0001>Great! Let's do business again<lineend>sometime!<pause><lineend>|
+9|
+<CC03EA><color=0005><string=009C><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+10|
+<CC03EA><color=0005><string=009C><lineend><color=0001>Wonderful! Here you are. One bag!<pause><lineend>|
+11|
+<CC03EA><color=0002>Got one more bag! Now you can<lineend>carry more items!<pause><lineend>|
+12|
+<CC03EA><color=0005><string=009D><lineend><color=0001>Hee hee hee...<lineend>You there. Little girl.<pause><lineend><CC03EA>Have some Goblin Juice. It's good<lineend>stuff! It'll put some meat on<lineend>those bones of yours, too.<pause><lineend>|
+13|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! We Goblins just love<lineend>the glitter of Gold!<pause><lineend>|
+14|
+<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and<lineend>we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you<lineend>can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it<lineend>more than once per battle, it will<lineend>break.<pause><lineend><CC03EA>If that happens, you won't be able<lineend>to see us anymore. How tragic that<lineend>would be!<pause><lineend>|
+15|
+<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to<lineend>show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being<lineend>for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
+16|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the<lineend>Goblin Market!<pause><lineend><CC03EA>What can I get you, little witch?<pause><lineend>|
+17|
+<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+18|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Come again soon! Uwee hee hee!!<pause><lineend>|
+19|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+20|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+21|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have<lineend>anything!<pause><lineend>|
+22|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that<lineend>piece of junk!<pause><lineend>|
+23|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and<lineend>Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves<lineend>some deliciously disgusting Goblin<lineend>Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to<lineend>it.<pause><lineend><CC03EA>Try a swallow sometime. You'll be<lineend>in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
+24|
+<CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
+25|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!! Come again!!<pause><lineend>|
+26|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+27|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+28|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are...Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
+29|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Hee hee hee! Welcome!! Have<lineend>yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you<lineend>gonna do?<pause><lineend>|
+30|
+<CC03EA><CC03FC=0004><string=01BC><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>|
+31|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
+32|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at home!<pause><lineend>|
+33|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
+34|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
+35|
+<CC03EA><color=0001>Will you save?<lineend><pause>|
+36|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<lineend><pause>|
+37|
+<CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

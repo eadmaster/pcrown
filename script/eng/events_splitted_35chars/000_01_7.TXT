@@ -1,0 +1,10 @@
+0|
+<CC03EA><color=0006><string=008B><lineend><color=0001>You have rescued Valendia from a<lineend>terrible fate indeed.<pause><lineend><CC03EA>Let me thank you from the bottom<lineend>of my heart.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Her Majesty is distraught over<lineend>what happened to Golgotha, the<pause><lineend><CC03EA>Knight Guard Captain.<pause><lineend><CC03EA>I wonder what I might say to<lineend>console her...<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Those Demon scum...killed most of<lineend>my friends....<pause><lineend><CC03EA>I'll get revenge for them, no<lineend>matter how long it takes!<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=0082><lineend><color=0001>My family, my town, my country...<pause><lineend><CC03EA>There's barely anything left for<lineend>me to fight for.<pause><lineend><CC03EA>A Knight is someone who puts these<lineend>things before himself. <pause><lineend><CC03EA>Without them, is it even possible<lineend>to be a Knight?<pause><lineend>|

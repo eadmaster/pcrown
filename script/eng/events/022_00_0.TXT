@@ -1,9 +1,9 @@
 0|
-<CC03EA><color=0005><string=019B><lineend><color=0001>Watch what you do with your Holy<lineend>Scrolls, lady Those things sting<pause><lineend><CC03EA>like crazy!<pause><lineend>|
+<CC03EA><color=0005><string=019B><lineend><color=0001>Watch what you do with your Holy Scrolls, lady Those things sting like crazy!<pause><lineend>|
 1|
-<CC03EA><color=0005><string=019C><lineend><color=0001>It isn't fair. They don't do<lineend>anything to Goblins or Myconids!<pause><lineend>|
+<CC03EA><color=0005><string=019C><lineend><color=0001>It isn't fair. They don't do anything to Goblins or Myconids!<pause><lineend>|
 2|
-<CC03EA><color=0005><string=019D><lineend><color=0001>When you equip a cursed item,<lineend>you're in for a lot of pain.<pause><lineend><CC03EA>In fact, if you don't break the<lineend>curse fast enough, you'll wind up<lineend>looking like us!<pause><lineend>|
+<CC03EA><color=0005><string=019D><lineend><color=0001>When you equip a cursed item, you're in for a lot of pain.<pause><lineend><CC03EA>In fact, if you don't break the curse fast enough, you'll wind up looking like us!<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=00A7><color=0001>Grrrr!!!<lineend>Grrrah!!!<lineend>Grrrrrrr!!!!<pause><lineend>|
 4|
@@ -13,30 +13,30 @@
 6|
 <CC03FA=0000000800000000000003FF000A00780000><CC03FB=0082>|
 7|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Ha ha ha...He's not quite like the<lineend>other Ghouls.<pause><lineend><CC03EA>Don't be scared! He's actually<lineend>welcoming you. A little hard to<lineend>believe, I know.<pause><lineend><CC03EA>Heeee hee hee hee!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Ha ha ha...He's not quite like the other Ghouls.<pause><lineend><CC03EA>Don't be scared! He's actually welcoming you. A little hard to believe, I know.<pause><lineend><CC03EA>Heeee hee hee hee!<pause><lineend>|
 8|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Welcome to the Pumpkin House! Can<lineend>I get you something?<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Welcome to the Pumpkin House! Can I get you something?<pause><lineend>|
 9|
 <CC03EA><CC03FC=0004><string=00EC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 10|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>Come again! Hee hee hee!!<pause><lineend>|
 11|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Our Local Delicacy?<pause><lineend><CC03EA>It's Grilled Corn, made flaming<lineend>hot with our secret BBQ sauce.<pause><lineend><CC03EA>The sauce goes so well with the<lineend>corn, your taste buds won't know<lineend>what hit them!<pause><lineend><CC03EA>The price is 44G. Would you like<lineend>one?<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Our Local Delicacy?<pause><lineend><CC03EA>It's Grilled Corn, made flaming hot with our secret BBQ sauce.<pause><lineend><CC03EA>The sauce goes so well with the corn, your taste buds won't know what hit them!<pause><lineend><CC03EA>The price is 44G. Would you like one?<pause><lineend>|
 12|
 <CC03EA><CC03FC=0004><string=00EC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 13|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha...You don't have enough<lineend>money!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha...You don't have enough money!<pause><lineend>|
 14|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have enough space to<lineend>carry it! Better get rid of<pause><lineend><CC03EA>something!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have enough space to carry it! Better get rid of something!<pause><lineend>|
 15|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>Hee hee hee! Here you are!<pause><lineend>|
 16|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Sure I can grill you something.<lineend>What Food would you like to use?<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Sure I can grill you something. What Food would you like to use?<pause><lineend>|
 17|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>I can't cook for you if you don't<lineend>have any Foods.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>I can't cook for you if you don't have any Foods.<pause><lineend>|
 18|
 <CC03EA><color=0005><string=00EC><lineend><color=0001><CC03F7>, eh?<pause><lineend><CC03EA>That'll be 30G. Have ya got it?<pause><lineend>|
 19|
 <CC03EA><CC03FC=0004><string=00EC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 20|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha...You don't have enough<lineend>money!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha...You don't have enough money!<pause><lineend>|

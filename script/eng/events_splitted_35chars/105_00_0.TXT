@@ -1,0 +1,4 @@
+0|
+<CC03EA><color=0004><string=0116><lineend><color=0001>Hello there! It's good to see you<lineend>dropping by our forest.<pause><lineend>|
+1|
+<CC03EA><color=0004><string=0117><lineend><color=0001>Thank you, Gradriel!<pause><lineend>|

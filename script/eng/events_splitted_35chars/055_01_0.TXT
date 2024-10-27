@@ -1,0 +1,8 @@
+0|
+<CC03EA><color=0006><string=0091><lineend><color=0001>This is our mine.<lineend>Impressed?<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0092><lineend><color=0001>We take the Gems we mine here back<lineend>to our shops and craft them into<pause><lineend><CC03EA>items to sell.<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0093><lineend><color=0001>The young folks these days are a<lineend>disgrace!<pause><lineend><CC03EA>They built a<lineend>Truck-something-or-other in one of<lineend>the old mineshafts.<pause><lineend><CC03EA>Now they do nothing but play! They<lineend>never even touch their pick-axes!<lineend>It's an outrage!<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0094><lineend><color=0001>Oh dear. You'll never be a good<lineend>miner with skinny little arms like<pause><lineend><CC03EA>those!<pause><lineend>|

@@ -1,64 +1,64 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on<lineend>the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard,<lineend>and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it<lineend>is, but we do have a problem with<lineend>people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a<lineend>little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way<lineend>back home...<lineend><CC03F1=0011><pause>|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<lineend><CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>We've heard Valendine Castle was<lineend>attacked by the Demon King's<pause><lineend><CC03EA>Horde...<pause><lineend><CC03EA>However, they didn't try coming<lineend>down this way.<pause><lineend><CC03EA>It must be because they're afraid<lineend>of the Warriors of Cadho Badho!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>We've heard Valendine Castle was attacked by the Demon King's Horde...<pause><lineend><CC03EA>However, they didn't try coming down this way.<pause><lineend><CC03EA>It must be because they're afraid of the Warriors of Cadho Badho!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves<lineend>called the Donfan Bandits making<pause><lineend><CC03EA>trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than<lineend>a direct challenge to the Warriors<lineend>of Cadho Badho.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Donfan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the<lineend>Donfan Bandits!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Donfan Bandits!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle<lineend>has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in<lineend>the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so<lineend>young.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so young.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the<lineend>Warriors, they're probably in the<pause><lineend><CC03EA>tavern.<pause><lineend><CC03EA>Maybe they're working out a plan<lineend>to get those bandits?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the Warriors, they're probably in the tavern.<pause><lineend><CC03EA>Maybe they're working out a plan to get those bandits?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, the<lineend>only thing left to worry about is<pause><lineend><CC03EA>the Demon Horde.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, the only thing left to worry about is the Demon Horde.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for<lineend>sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might<lineend>find something really worth your<lineend>while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Demons don't just appear out of<lineend>nowhere, do they?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Demons don't just appear out of nowhere, do they?<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get<lineend>away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them<lineend>fiercely, but they disappear north<lineend>over the Dwarf Kingdom.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Kingdom.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in<lineend>Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't<lineend>find them. They were too far away!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't find them. They were too far away!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Hey lady? Is it true that the<lineend>Demon King is reviving?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Hey lady? Is it true that the Demon King is reviving?<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0029><lineend><color=0001>We heard about the Demon Horde<lineend>storming the castle.<pause><lineend><CC03EA>People here were just about to<lineend>evacuate when the bandits<lineend>appeared.<pause><lineend><CC03EA>It's just one thing after another!<lineend>Our new Queen must have her hands<lineend>full.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>We heard about the Demon Horde storming the castle.<pause><lineend><CC03EA>People here were just about to evacuate when the bandits appeared.<pause><lineend><CC03EA>It's just one thing after another! Our new Queen must have her hands full.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0036><lineend><color=0001>I'm not scared of the Demon King!<pause><lineend><CC03EA>As long as I have my Myconid<lineend>dolly, I'm OK!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>I'm not scared of the Demon King!<pause><lineend><CC03EA>As long as I have my Myconid dolly, I'm OK!<pause><lineend>|
 15|
 <CC03EA><color=0006><string=0036><lineend><color=0001>Oh no! Oh no!<pause><lineend><CC03EA>My dolly! They stole my dolly!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0036><lineend><color=0001>Tee hee!<pause><lineend><CC03EA>My dolly wasn't stolen!<pause><lineend><CC03EA>It was under my bed the whole<lineend>time!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>Tee hee!<pause><lineend><CC03EA>My dolly wasn't stolen!<pause><lineend><CC03EA>It was under my bed the whole time!<pause><lineend>|
 17|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's<lineend>in honor of my ancestor, the<pause><lineend><CC03EA>Golden Warrior.<pause><lineend><CC03EA> He saved this town from the Demon<lineend>Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendent of<lineend>the one who killed the Demons'<lineend>leader.<pause><lineend><CC03EA>The Silver Sorceress may have<lineend>given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's<lineend>strength that saved the day in the<lineend>end.<pause><lineend><CC03EA>And that is precisely why the<lineend>Warriors are superior to the<lineend>Wizards. Ha ha!!<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Golden Warrior.<pause><lineend><CC03EA> He saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendent of the one who killed the Demons' leader.<pause><lineend><CC03EA>The Silver Sorceress may have given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's strength that saved the day in the end.<pause><lineend><CC03EA>And that is precisely why the Warriors are superior to the Wizards. Ha ha!!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=015E><lineend><color=0001>To protect from the Demon Horde,<lineend>we've decided to go on extra<pause><lineend><CC03EA>patrols.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>To protect from the Demon Horde, we've decided to go on extra patrols.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=015E><lineend><color=0001>With new bandits appearing in<lineend>town, we must be extra vigilant.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>With new bandits appearing in town, we must be extra vigilant.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for<lineend>now, we must be vigilant during<pause><lineend><CC03EA>our patrols.<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for now, we must be vigilant during our patrols.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked<lineend>by an army of Demons, and it<pause><lineend><CC03EA>seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired<lineend>Warrior and a silver-haired Wizard<lineend>appeared.<pause><lineend><CC03EA>The two of them risked everything<lineend>to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each<lineend>area were made to commemorate<lineend>them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0162><lineend><color=0001>It's hard the believe that the<lineend>Knight Guard couldn't keep the<pause><lineend><CC03EA>Demons at bay.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>It's hard the believe that the Knight Guard couldn't keep the Demons at bay.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Please keep Cadho Badho safe!<pause><lineend>|
 24|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind<lineend>increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular<lineend>is a great item. It makes it<lineend>easier to score critical hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular is a great item. It makes it easier to score critical hits.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in<lineend>battle back when I was a new<pause><lineend><CC03EA>recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my<lineend>Shield! Naturally, it stopped<lineend>working that very instant.<pause><lineend><CC03EA>Of course, when you think about<lineend>it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of<lineend>rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
 26|
-<CC03EA><color=0006><string=0012><lineend><color=0001>Forget it. He's made me wait long<lineend>enough already!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Forget it. He's made me wait long enough already!<pause><lineend>|
 27|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA<lineend>EAT!! BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
 28|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>OUCH, OUCH! WHAT ARE YOU DOING,<lineend>STUPID PARROT!<pause><lineend><CC03EA>STOP MAKING SO MUCH NOISE!<lineend>BRAAAWK!!<pause><lineend><CC03EA>PEOPLE COMING PEOPLE COMING!!<lineend>BREAK IT UP!! BRAAAWK!!<lineend>MEET BACK IN KNELT!!<pause><lineend><CC03EA>BACK TO KNELT!! BACK TO KNELT!!<lineend>YOU'RE ALL IDIOTS!!<lineend> *tweet*<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>OUCH, OUCH! WHAT ARE YOU DOING, STUPID PARROT!<pause><lineend><CC03EA>STOP MAKING SO MUCH NOISE! BRAAAWK!!<pause><lineend><CC03EA>PEOPLE COMING PEOPLE COMING!!<lineend>BREAK IT UP!! BRAAAWK!!<lineend>MEET BACK IN KNELT!!<pause><lineend><CC03EA>BACK TO KNELT!! BACK TO KNELT!!<lineend>YOU'RE ALL IDIOTS!!<lineend> *tweet*<pause><lineend>|
 29|
-<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to<lineend>say that?<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>Where do you suppose he learned to say that?<pause><lineend>|
 30|
-<CC03EA><color=0006><string=000B><lineend><color=0001>It's hard to ignore the latest<lineend>rumor this time.<pause><lineend><CC03EA>Everyone is saying the Demon King<lineend>is coming back!<pause><lineend><CC03EA>I know people talking about<lineend>something doesn't make it true,<lineend>but still...<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>It's hard to ignore the latest rumor this time.<pause><lineend><CC03EA>Everyone is saying the Demon King is coming back!<pause><lineend><CC03EA>I know people talking about something doesn't make it true, but still...<pause><lineend>|
 31|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every<lineend>single day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every single day!<pause><lineend>|

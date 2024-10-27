@@ -1,0 +1,54 @@
+65536|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I brought the Sun Stone, as<lineend>promised.<pause><lineend>|
+65537|
+<CC03EA><color=0004><string=0104><lineend><color=0001>That didn't take long, did it?<pause><lineend><CC03EA>Ah yes, that glimmer... This is<lineend>definitely the Sun Stone.<pause><lineend>|
+65538|
+<CC03EA><color=0003><string=0001><lineend><color=0001>My Father is dead.<pause><lineend><CC03EA>I want you to answer a different<lineend>question for me now.<pause><lineend>|
+65539|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You wish to know the location of<lineend>the sword Golgotha spoke of?<pause><lineend>|
+65540|
+<CC03EA><color=0003><string=0001><lineend><color=0001>If you know, then tell me.<pause><lineend><CC03EA>Where is the sword my Father left<lineend>for me?<pause><lineend>|
+65541|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Very well. I shall tell you.<pause><lineend>|
+65542|
+<CC03EA><color=0004><string=0104><lineend><color=0001>It is on a cursed island known as<lineend>Arsontula.<pause><lineend><CC03EA> Deep within that island is a door<lineend>that connects this world with the<lineend>Demon Realm.<pause><lineend><CC03EA>The sword you seek was plunged<lineend>into that door, where it also<lineend>serves to pin down a Demon.<pause><lineend><CC03EA>By placing it there, your Father<lineend>sealed off the path to the Demon<lineend>Realm.<pause><lineend>|
+65543|
+<CC03EA><color=0003><string=0001><lineend><color=0001>He actually pinned a Demon to the<lineend>door?<pause><lineend>|
+65544|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>25 years ago, when the Demon Horde<lineend>attacked Valendine Castle...<pause><lineend>|
+131072|
+<CC03EA><color=0004><string=0103><lineend><color=0001>This must be it...<pause><lineend><CC03EA>The door to the Demon Realm.<pause><lineend>|
+131073|
+<CC03EA><color=0005><CC03FC=0004><string=0114><color=0001>Golgotha! Did they banish you here<lineend>with the rest of us?<pause><lineend>|
+131074|
+<CC03EA><color=0005><string=0114><lineend><color=0001>So close, and yet so far...<pause><lineend>|
+131075|
+<CC03EA><color=0004><string=0103><lineend><color=0001>At least if you're here, then the<lineend>Queen must be safe!<pause><lineend>|
+131076|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Not for long. All I have to do is<lineend>kill you, then storm the castle<pause><lineend><CC03EA>one more time.<pause><lineend>|
+131077|
+<CC03EA><color=0004><string=0103><lineend><CC03F8=0001><color=0001>...I've got to find a way to seal<lineend>that door and cut off the Demon<pause><lineend><CC03EA>Realm...<pause><lineend>|
+131078|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Demon! You're forgetting<lineend>something!<pause><lineend><CC03EA>Namely the magic sword that your<lineend>evil book gave me!<pause><lineend>|
+196608|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Father...<pause><lineend>|
+196609|
+<CC03EA><color=0004><string=0104><lineend><color=0001>While Golgotha was under Larva's<lineend>control, Larva gave him a sword to<pause><lineend><CC03EA>use.<pause><lineend><CC03EA>It's a legendary Demonic sword,<lineend>called the Kleipnir.<pause><lineend>|
+196610|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The Kleipnir...<pause><lineend>|
+196611|
+<CC03EA><color=0004><string=0104><lineend><color=0001>With that sword, Golgotha was able<lineend>to cement the Demon to the door.<pause><lineend><CC03EA>With that, the door itself would<lineend>never be able to open again.<pause><lineend><CC03EA>In other words, removing that<lineend>sword opens the door to the Demon<lineend>Realm.<pause><lineend>|
+196612|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Golgotha expected you to surpass<lineend>him. He placed all of his hopes on<pause><lineend><CC03EA>you.<pause><lineend><CC03EA>...Along with the duties he was<lineend>unable to fulfill as a Knight.<pause><lineend><CC03EA>The only way to save Sidrael is to<lineend>go into the Demon Realm.<lineend><pause><CC03EA>Will you take that sword even if<lineend>death is waiting right behind it?<pause><lineend>|
+196613|
+<CC03EA><color=0003><string=0001><lineend><color=0001>There is no other path for me to<lineend>take.<pause><lineend><CC03EA>If I die there, at least I can die<lineend>as the son my Father believed in.<pause><lineend>|
+196614|
+<CC03EA><color=0004><string=0104><lineend><color=0001>If that's how you feel, then I<lineend>will tell you what to do.<pause><lineend><CC03EA><color=0001>Go to <color=0002>Lake Titania<color=0001> and find Ondine.<pause><lineend><CC03EA>She has the power to take you<lineend>where your feet cannot.<pause><lineend><CC03EA>She will lead you to Arsontula.<lineend><pause>|
+196615|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Ondine...<lineend><CC03ED=00010007000103FF><pause>|
+196616|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Thank you for your help.<pause><lineend>|
+196617|
+<CC03EA><color=0004><string=0104><lineend><CC03F8=0001><color=0001>Can he change his own fate?<lineend>...Time will tell...<pause><lineend>|
+196618|
+<CC03EA><color=0004><string=0104><lineend><color=0002>ティタニア湖<color=0001>にいって<lineend>オンディーヌと会うがいい。<pause><lineend><CC03EA>彼女は水のあるところなら<lineend>どこへでも通ずることができる。<lineend>お前をアーソントゥラへと導くだろう。<lineend><pause>|

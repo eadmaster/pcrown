@@ -1,25 +1,25 @@
 0|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the one making<lineend>people see all those weird<pause><lineend><CC03EA>illusions!<pause><lineend><CC03EA>Once I take care of you, I can go<lineend>find that girl!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the one making people see all those weird illusions!<pause><lineend><CC03EA>Once I take care of you, I can go find that girl!<pause><lineend>|
 1|
 <CC03EA><color=0002><string=0002><lineend><color=0001>迷子ちゃんは<lineend>この奥かしらね。<pause><lineend>|
 2|
 <CC03ED=00020016000103FF><CC03F2=000200170000005A03FF00000000><CC03ED=0002001A00010000>|
 65536|
-<CC03EA><color=0006><string=0023><lineend><color=0001>I feel like I'm going in<lineend>circles...<pause><lineend><CC03EA>Will I ever find my way home<lineend>again?<pause><lineend>|
+<CC03EA><color=0006><string=0023><lineend><color=0001>I feel like I'm going in circles...<pause><lineend><CC03EA>Will I ever find my way home again?<pause><lineend>|
 65537|
 <CC03EA><color=0006><string=00BB><lineend><color=0001>メェェ！<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0002><lineend><color=0001>You there! Goat girl!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0002><lineend><color=0001>A monster was tricking you with<lineend>illusions, and I just sent him<pause><lineend><CC03EA>packing!<pause><lineend><CC03EA>You should be able to leave the<lineend>forest now.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>A monster was tricking you with illusions, and I just sent him packing!<pause><lineend><CC03EA>You should be able to leave the forest now.<pause><lineend>|
 65540|
-<CC03EA><color=0006><string=0023><lineend><color=0001>You beat the monster? Weren't you<lineend>scared of him?<pause><lineend>|
+<CC03EA><color=0006><string=0023><lineend><color=0001>You beat the monster? Weren't you scared of him?<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Don't make me laugh...<pause><lineend><CC03EA>It takes more than that to scare<lineend>this witch!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Don't make me laugh...<pause><lineend><CC03EA>It takes more than that to scare this witch!<pause><lineend>|
 65542|
 <CC03EA><color=0006><string=0023><lineend><color=0001>That's amazing!<pause><lineend>|
 65543|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Let's get going. I need you and<lineend>your goats back in your village!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Let's get going. I need you and your goats back in your village!<pause><lineend>|
 65544|
 <CC03EA><color=0006><string=0023><lineend><color=0001>We're on our way.<lineend>Thank you!<pause><lineend>|
 65545|

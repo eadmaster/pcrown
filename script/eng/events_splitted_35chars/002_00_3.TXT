@@ -1,0 +1,110 @@
+0|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Oh, hello Miss. Is this your first<lineend>time in town?<pause><lineend><CC03EA>Valendine is the closest place to<lineend>the castle, where Queen Elfaran<lineend>lives.<pause><lineend>|
+1|
+<CC03EA><color=0006><string=000A><lineend><color=0001>As long as Queen Elfaran is with<lineend>us, those Demons aren't the least<pause><lineend><CC03EA>bit scary!<pause><lineend>|
+2|
+<CC03FA=0000000000000000000003FF000A003C0000><CC03FB=003C>|
+3|
+<CC03FA=0000000100000000000003FF000A003C0000><CC03FB=003C>|
+4|
+<CC03EA><color=0006><string=001C><lineend><color=0001>I guess she's been busy with the<lineend>war...<pause><lineend><CC03EA>We never see Queen Elfaran out on<lineend>her balcony these days. Everybody<lineend>misses her.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Nobody knows where the Knight<lineend>Captain Golgotha went.<pause><lineend><CC03EA>I personally think the Demon King<lineend>did him in.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Long purple hair and eyes shining<lineend>with wisdom...<pause><lineend><CC03EA>Our Queen truly is very beautiful!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I used to want to be just like Sir<lineend>Glowstar...<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0036><lineend><color=0001>I wanna play outside the town<lineend>walls!<pause><lineend>|
+9|
+<CC03EA><color=0006><string=000B><lineend><color=0001>My husband is always off drinking<lineend>in the tavern.<pause><lineend><CC03EA>If he takes after his Father, my<lineend>little boy will be a heavy drinker<lineend>one day, too.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=0015><lineend><color=0001>This country is beautiful, don't<lineend>you think?<pause><lineend><CC03EA>We'll never hand such precious<lineend>lands over to the Demons.<pause><lineend><CC03EA>Queen Elfaran and everyone else is<lineend>going to fight for them!<pause><lineend>|
+11|
+<CC03FA=0000000600000000000003FF000A003C0000><CC03FB=003C>|
+12|
+<CC03FA=0000000700000000000003FF000A003C0000><CC03FB=003C>|
+13|
+<CC03EA><color=0006><string=004B><lineend><color=0001>You shouldn't go beyond here. The<lineend>Demons may attack again anytime.<pause><lineend>|
+14|
+<CC03ED=0000008700010000><CC03FB=000A><CC03F0=000000880000000F03FF00000000>|
+15|
+<CC03EA><color=0006><string=004D><lineend><color=0001>It's too dangerous to let a girl<lineend>like you leave the area.<pause><lineend>|
+16|
+<CC03ED=0000008700010000><CC03FB=000A><CC03F0=000000880001000F03FF00000000>|
+17|
+<CC03F0=0006000F0000001403FF00000000>|
+18|
+<CC03ED=0006000800010000><CC03ED=00060009000103FF><CC03ED=0006000A000103FF><CC03EA><color=0006><string=0006><lineend><color=0001>*huff* ...*puff*<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>Everybody!<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>A huge army of monsters is<lineend>attacking the castle!!<lineend><CC03ED=00060009000103FF><pause>|
+19|
+<CC03FA=0000000300000000000003FF000A003C0000><CC03FB=0046>|
+20|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The castle!?<pause><lineend><CC03EA>Mother is in danger!<pause><lineend>|
+21|
+<CC03EA><color=0006><string=0012><lineend><color=0001>We all have a lot of faith vested<lineend>in Queen Elfaran.<pause><lineend>|
+22|
+<CC03EA><color=0006><string=000C><lineend><color=0001>I just hope the day that we can<lineend>relax and go on with our lives<pause><lineend><CC03EA>comes soon.<pause><lineend>|
+23|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+24|
+<CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+25|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+26|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>I'm afraid you don't have enough<lineend>money, Ma'am.<pause><lineend>|
+27|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
+28|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+29|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
+30|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>What's this? How strange...<pause><lineend><CC03EA>You don't seem to belong to this<lineend>time period.<pause><lineend><CC03EA>Have you become lost in time, my<lineend>dear? You poor thing...<pause><lineend>|
+31|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome...<lineend>How about some Potions for your<lineend>journey?<pause><lineend><CC03EA>I'll mix up anything you want with<lineend>the ingredients you have.<pause><lineend>|
+32|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
+33|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Come again!<lineend>I'll be right here.<pause><lineend>|
+34|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You'll have to fetch me the right<lineend>ingredients first!<pause><lineend>|
+35|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Mixing costs 20G. Is that all<lineend>right?<pause><lineend>|
+36|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+37|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>What's this? You don't have enough<lineend>money.<pause><lineend>|
+38|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>There! It's done!<pause><lineend>|
+39|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Sharp-Leaf Grass for that.<pause><lineend>|
+40|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Jagged-Leaf Grass for that.<pause><lineend>|
+41|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Round-Leaf Grass for<lineend>that.<pause><lineend>|
+42|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Jagged-Leaf Grass for<lineend>that.<pause><lineend>|
+43|
+<CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and<lineend>Round-Leaf Grass for that.<pause><lineend>|
+44|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Where is this...<pause><lineend>|
+45|
+<CC03FB=000F><CC03F0=000000880000000603FF00000000>|
+46|
+<CC03F0=000000880001000C03FF00000000><CC03FB=000A>|
+47|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Where is this...<pause><lineend>|
+48|
+<CC03FB=000F><CC03F0=000000880001000603FF00000000>|
+49|
+<CC03F0=000000880000000C03FF00000000><CC03FB=000A>|
+50|
+<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Is this Valendine before I was<lineend>born?<lineend><CC03ED=000000A0000103FF><pause>|
+51|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Shadow must have sent me back with<lineend>the Time Stone...<pause><lineend><CC03EA><CC03F8=0001>This is what everyone said<lineend>Valendia looked like back when<lineend>Mother fought the Demons.<pause><lineend>|
+52|
+<CC03F0=000000880000000603FF00000000>|
+65536|
+<CC03EA><color=0002><string=0000><lineend><color=0001>How awful...<pause><lineend>|
+65537|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Mother...?<pause><lineend>|

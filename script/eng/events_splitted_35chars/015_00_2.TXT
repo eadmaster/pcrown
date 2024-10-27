@@ -1,0 +1,34 @@
+0|
+<CC03EA><color=0006><string=004B><lineend><color=0001>The Knight Guard managed to chase<lineend>off the Dragons.<pause><lineend><CC03EA>They're out patrolling the hills<lineend>at the moment. In fact, I think<lineend>they're also looking for<pause><lineend><CC03EA>someone...<pause><lineend>|
+1|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Knights of the Guard are going<lineend>to stay and watch over the village<pause><lineend><CC03EA>for a while.<pause><lineend><CC03EA>We're awfully grateful for it,<lineend>too! <pause><lineend><CC03EA>Several of them went off to <color=0002>the desert village<color=0001> to help the Wizard there...<pause><lineend><CC03EA>...but they should have been back<lineend>by now. I wonder what's happened<lineend>to them?<pause><lineend>|
+2|
+<CC03EA><color=0006><string=0004><lineend><color=0005>Go south from the right exit of<lineend>Dorangora,<color=0001> and you'll reach the <color=0003>crypt town Cemeteryth.<color=0001><pause><lineend><CC03EA><color=0001>Rumor has it that it's filled with<lineend>g, g, ghosts...<pause><lineend><CC03EA>Not that they scare me or<lineend>anything!<pause><lineend><CC03EA>Beyond Cemeteryth is the village<lineend>of <color=0002>Logrob,<color=0001> which lay in the middle of a big<lineend>forest.<pause><lineend><CC03EA>The desert village is just a<lineend>little further. That's also where<lineend>the great Wizard Leon lives.<pause><lineend><CC03EA>Say...You don't suppose he could<lineend>fight off all these Dragons with<lineend>his magic, do you?<pause><lineend>|
+3|
+<CC03EA><color=0006><string=000A><lineend><color=0001>My grandma told me something when<lineend>I was little.<pause><lineend><CC03EA>Long ago, there was a Dragon that<lineend>swallowed a musical score, or<lineend>something like that.<pause><lineend><CC03EA>Whatever it was, the Dragon became<lineend>so happy after he swallowed it...<pause><lineend><CC03EA>...he decided to retire to <color=0003>an old Dragon's nest in a cave<lineend>south of here.<color=0001><pause><lineend>|
+4|
+<CC03EA><color=0006><string=0028><lineend><color=0001>Edward saved the village.<pause><lineend><CC03EA>Could it be that I was wrong about<lineend>him?<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0035><lineend><color=0001>That Dragon sure was scary!<pause><lineend>|
+6|
+<CC03EA><color=0006><string=004C><lineend><color=0001>The Dragons really did a number on<lineend>the village this time.<pause><lineend><CC03EA>Lucky thing all the villagers got<lineend>out beforehand.<pause><lineend>|
+7|
+<CC03EA><color=0006><string=004D><lineend><color=0001>That Dragon I used my special<lineend>attack on ran away!<pause><lineend><CC03EA>I almost had him, too...Dang was I<lineend>close!<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful<lineend>for a while.<pause><lineend><CC03EA>We should be grateful to the Queen<lineend>for sending her Knight Guard to<lineend>save us!<pause><lineend>|
+9|
+<CC03EA><color=0006><string=0050><lineend><color=0001>I figured out how to keep your<lineend>equipment from breaking!<pause><lineend><CC03EA>If you use a Rubber Scroll,<lineend>anything you've got equipped will<lineend>become like rubber.<pause><lineend><CC03EA>That makes it able to withstand<lineend>any blow!<pause><lineend><CC03EA>It won't break for the entire<lineend>battle, too. What a relief!<pause><lineend>|
+10|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that<lineend>will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
+11|
+<CC03EA><CC03FC=0004><string=01A5><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
+12|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
+13|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
+15|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
+16|
+<CC03EA><color=0006><string=01A5><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

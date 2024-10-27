@@ -1,27 +1,27 @@
 0|
-<CC03EA><color=0006><string=0063><lineend><color=0001>We're terribly sorry, my lady, but<lineend>there's no way our ship can cross<pause><lineend><CC03EA>that sea.<pause><lineend><CC03EA>I think only the best sailor in<lineend>the world would even stand a<lineend>chance...<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>We're terribly sorry, my lady, but there's no way our ship can cross that sea.<pause><lineend><CC03EA>I think only the best sailor in the world would even stand a chance...<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Hello there, Gradriel. Why the<lineend>long face?<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Hello there, Gradriel. Why the long face?<pause><lineend>|
 2|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF>|
 3|
-<CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>It's a long story...<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>One way or another, I've got to<lineend>reach the Kingdom of Volga up<lineend>north.<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>The problem is, there are Sirens<lineend>blocking the way.<lineend><CC03ED=000000A0000103FF><pause>|
+<CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>It's a long story...<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>One way or another, I've got to reach the Kingdom of Volga up north.<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>The problem is, there are Sirens blocking the way.<lineend><CC03ED=000000A0000103FF><pause>|
 4|
-<CC03EA><color=0004><string=0178><lineend><color=0001>You know, I've heard a thing or<lineend>two about those warbling<pause><lineend><CC03EA>ship-sinkers.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>You know, I've heard a thing or two about those warbling ship-sinkers.<pause><lineend>|
 5|
-<CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>The Friedfin couldn't quite make<lineend>it past them.<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>What do you think I should do?<lineend><CC03ED=000000A0000103FF><pause>|
+<CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>The Friedfin couldn't quite make it past them.<lineend><CC03ED=000000A0000103FF><pause><CC03EA><CC03ED=000000A1000103FF>What do you think I should do?<lineend><CC03ED=000000A0000103FF><pause>|
 6|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Don't tell me you forgot!<pause><lineend><CC03EA>You've got yourself a great sailor<lineend>right here, in this very harbor!<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Don't tell me you forgot!<pause><lineend><CC03EA>You've got yourself a great sailor right here, in this very harbor!<pause><lineend>|
 7|
 <CC03ED=000000A200010000><CC03F9=0000>|
 8|
 <CC03FA=0000000300000000000003FF000A003C0000><CC03FB=003C>|
 9|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Come on! I'll take you aboard my<lineend>pirate ship.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Come on! I'll take you aboard my pirate ship.<pause><lineend>|
 10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Can we really take your ship?<pause><lineend>|
 11|
-<CC03EA><color=0004><string=0178><lineend><color=0001>It's ready to go whenever you are.<pause><lineend><CC03EA>Go take care of any unfinished<lineend>business, then let's go.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>It's ready to go whenever you are.<pause><lineend><CC03EA>Go take care of any unfinished business, then let's go.<pause><lineend>|
 12|
 <CC03EA><color=0002><string=0000><lineend><color=0001>OK!<pause><lineend>|
 13|
@@ -31,31 +31,31 @@
 15|
 <CC03EA><color=0004><string=0178><lineend><color=0001>Good. Let's get going!<pause><lineend>|
 16|
-<CC03EA><color=0004><string=0178><lineend><color=0001>Get to it, then! I'm ready to<lineend>slash some sea monsters!<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>Get to it, then! I'm ready to slash some sea monsters!<pause><lineend>|
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>May I talk with you for a moment,<lineend>Portgus?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>May I talk with you for a moment, Portgus?<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid I've been keeping a<lineend>secret from you.<pause><lineend><CC03EA>The truth is, I'm actually...You<lineend>see...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid I've been keeping a secret from you.<pause><lineend><CC03EA>The truth is, I'm actually...You see...<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Ha ha!I can't say I'm used to<lineend>people being this apologetic<pause><lineend><CC03EA>toward me.<pause><lineend><CC03EA>Least of all a Queen!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Ha ha!I can't say I'm used to people being this apologetic toward me.<pause><lineend><CC03EA>Least of all a Queen!<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You mean you've known all along?<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0179><lineend><color=0001>In my line of work, it's important<lineend>to keep up to speed on these<pause><lineend><CC03EA>things.<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>In my line of work, it's important to keep up to speed on these things.<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I never had any intention of<lineend>deceiving you. It's just...<pause><lineend><CC03EA>It's just that since I was<lineend>traveling, I wanted to try being a<lineend>normal girl for a while.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I never had any intention of deceiving you. It's just...<pause><lineend><CC03EA>It's just that since I was traveling, I wanted to try being a normal girl for a while.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Sheesh! Don't be so serious! It<lineend>doesn't make any difference to me.<pause><lineend><CC03EA><pause><lineend><CC03EA>I don't care if you're a Queen or<lineend>whoever else.<pause><lineend><CC03EA>When we're out on the sea, you're<lineend>either a friend or an enemy.<pause><lineend><CC03EA>I did always think you'd make a<lineend>heck of a pirate...<pause><lineend><CC03EA>But I suppose that would be bad<lineend>for the country's image, eh?<lineend><pause>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Sheesh! Don't be so serious! It doesn't make any difference to me. <pause><lineend><CC03EA>I don't care if you're a Queen or whoever else.<pause><lineend><CC03EA>When we're out on the sea, you're either a friend or an enemy.<pause><lineend><CC03EA>I did always think you'd make a heck of a pirate...<pause><lineend><CC03EA>But I suppose that would be bad for the country's image, eh?<lineend><pause>|
 65543|
 <CC03EA><CC03FC=0004><string=0125><color=0001>Thar she blows!!<pause><lineend>|
 65544|
-<CC03EA><CC03FC=0004><string=0125><color=0001>We've spotted something dead<lineend>ahead, Captain. It looks like its<lineend>them!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0125><color=0001>We've spotted something dead ahead, Captain. It looks like its them!<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=0179><lineend><color=0001>It's about time those Sirens<lineend>showed up.<pause><lineend><CC03EA>Brace yourselves, men! Don't let<lineend>your guard down for a second!<lineend><pause>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>It's about time those Sirens showed up.<pause><lineend><CC03EA>Brace yourselves, men! Don't let your guard down for a second!<lineend><pause>|
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm going to fight, too!<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=0179><lineend><color=0001>The seas are our domain. You just<lineend>leave this to us!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>The seas are our domain. You just leave this to us!<pause><lineend>|
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Oh, Portgus.<pause><lineend>|
 65549|
@@ -63,10 +63,10 @@
 65550|
 <CC03EA><color=0002><string=0000><lineend><color=0001>One of them is coming this way!<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I see you bagged yourself a Siren,<lineend>too. Nice work!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I see you bagged yourself a Siren, too. Nice work!<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thanks, Portgus. I think we'll<lineend>make it to the Volga Kingdom now.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thanks, Portgus. I think we'll make it to the Volga Kingdom now.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Now that the route has opened up,<lineend>the two countries can start<pause><lineend><CC03EA>trading again.<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Now that the route has opened up, the two countries can start trading again.<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=0179><lineend><color=0001>We're going to miss having you<lineend>around, Gradriel.<pause><lineend><CC03EA>Anytime you feel like being a<lineend>pirate for a while, you'll be<lineend>welcome aboard my ship!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>We're going to miss having you around, Gradriel.<pause><lineend><CC03EA>Anytime you feel like being a pirate for a while, you'll be welcome aboard my ship!<pause><lineend>|

@@ -1,0 +1,46 @@
+0|
+<CC03ED=0011000B000103FF><CC03ED=0011000C000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>Ready, son? The next stop for us<lineend>is Lake Titania!<lineend><CC03ED=0011000B000103FF><pause><CC03EA><CC03ED=0011000C000103FF>There's a huge bounty for whoever<lineend>catches the monster living there!<lineend><CC03ED=0011000B000103FF><pause>|
+1|
+<CC03EA><color=0006><string=0005><lineend><color=0001>If we pull this off, we'll be<lineend>rich! Right, Dad?<pause><lineend>|
+2|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Um, excuse me...<lineend><CC03ED=0011000D000103FF><pause>|
+3|
+<CC03FA=0011000200000000000003FF000A003C0000><CC03FA=0005000300000000000003FF000C003C0000><CC03FB=003C>|
+4|
+<CC03EA><color=0006><string=0011><lineend><color=0001>What is it, Miss?<pause><lineend>|
+5|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Could you tell me where exactly<lineend>you heard there was a bounty?<lineend><pause>|
+6|
+<CC03EA><color=0006><string=0011><lineend><color=0001>You mean on the Lake Titania<lineend>monster?<pause><lineend><CC03EA>It was a lanky guy in the alley.<lineend>Him and his fat partner.<pause><lineend><CC03EA>They were between the Merchants'<lineend>Area and the Warriors' Area.<pause><lineend>|
+7|
+<CC03EA><color=0002><string=0000><lineend><color=0001>One lanky, one fat...<pause><lineend><CC03EA>I see.<lineend>Thank you very much!<pause><lineend>|
+8|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Not at all.<lineend>Come along, son!<pause><lineend>|
+9|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Wait!<pause><lineend>|
+10|
+<CC03FA=0011000000000000000003FF000A003C0000><CC03FA=0005000000000000000003FF000C003C0000><CC03FB=003C>|
+11|
+<CC03FA=0011000100000000000003FF000A003C0000><CC03FA=0005000100000000000003FF000C003C0000><CC03FB=003C>|
+12|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please go back to your home.<lineend>There is no monster in Lake<lineend>Titania.<pause><lineend>|
+13|
+<CC03FA=0011000800000000000003FF000A005A0000><CC03FA=0005000800000000000003FF000C005A0000><CC03FB=005A>|
+14|
+<CC03FA=0011000800010000000003FF000A005A0000><CC03FA=0005000800010000000003FF000C005A0000><CC03FB=005A>|
+15|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>You're joking!? You mean somebody<lineend>already caught it!?<lineend><CC03ED=00110008000103FF><pause><CC03EA><CC03ED=00110009000103FF>But I promised to take the family<lineend>on a tour to eat every Local<lineend>Delicacy in the kingdom!<lineend><CC03ED=00110008000103FF><pause>|
+16|
+<CC03EA><color=0006><string=0005><lineend><color=0001>I guess you blew it, huh Dad?<pause><lineend>|
+17|
+<CC03F0=001100050001001E03FF000003FF><CC03F0=000500160001001E03FF00000000>|
+18|
+<CC03F0=001100050000001E03FF000003FF><CC03F0=000500160000001E03FF00000000>|
+19|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Can you believe that guy?<pause><lineend><CC03EA>He really bought everything they<lineend>told him. What a rube!<pause><lineend>|
+20|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I guess that's one way you could<lineend>put it.<pause><lineend>|
+21|
+<CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
+22|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Come on, we better get going!<pause><lineend>|

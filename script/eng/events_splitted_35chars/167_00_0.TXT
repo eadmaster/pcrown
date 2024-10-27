@@ -1,0 +1,40 @@
+0|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on<lineend>the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard,<lineend>and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it<lineend>is, but we do have a problem with<lineend>people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a<lineend>little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+1|
+<CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way<lineend>back home...<CC03F1=0011><pause>|
+2|
+<CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a Knight and work<lineend>at the castle protecting the<pause><lineend><CC03EA>Queen.<pause><lineend><CC03EA>Being in her Majesty's Knight<lineend>Guard is greatest honor any<lineend>warrior could hope for.<pause><lineend>|
+3|
+<CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub<lineend>called the Silver Sword.<pause><lineend>|
+4|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for<lineend>sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might<lineend>find something really worth your<lineend>while.<pause><lineend>|
+5|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have<lineend>been rivals for ages.<pause><lineend>|
+6|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of<lineend>the city...Or at least they should<pause><lineend><CC03EA>be.<pause><lineend><CC03EA>Instead, all they do is pick<lineend>fights with the Wizards and give<lineend>everyone a headache!<pause><lineend>|
+7|
+<CC03EA><color=0006><string=0036><lineend><color=0001>See the old man in the armor<lineend>standing by that statue over<pause><lineend><CC03EA>there?<pause><lineend><CC03EA>He's the Warriors' Leader.<pause><lineend>|
+8|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Greetings, traveler. I'm the<lineend>leader of the Warriors of Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>We Warriors are prepared to lay<lineend>our lives on the line for our<lineend>city's safety.<pause><lineend><CC03EA>What a pity that the Wizards can't<lineend>comprehend such a noble attitude!<pause><lineend><CC03EA>They're great at running their<lineend>mouths, and not much else.<pause><lineend><CC03EA>Our job would be much easier<lineend>without them!<pause><lineend>|
+9|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our<lineend>most important duties.<pause><lineend>|
+10|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked<lineend>by an army of Demons, and it<pause><lineend><CC03EA>seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired<lineend>Warrior and a silver-haired Wizard<lineend>appeared.<pause><lineend><CC03EA>The two of them risked everything<lineend>to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each<lineend>area were made to commemorate<lineend>them.<pause><lineend>|
+11|
+<CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there<lineend>are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go<lineend>through the alleys that connect<lineend>the different areas.<pause><lineend>|
+12|
+<CC03EA><color=0006><string=000A><lineend><color=0001>What should I have for dinner<lineend>tonight?<pause><lineend>|
+13|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind<lineend>increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular<lineend>is a great item. It makes it<lineend>easier to score critical hits.<pause><lineend>|
+14|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in<lineend>battle back when I was a new<pause><lineend><CC03EA>recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my<lineend>Shield! Naturally, it stopped<lineend>working that very instant.<pause><lineend><CC03EA>Of course, when you think about<lineend>it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of<lineend>rubber?<pause><lineend>|
+15|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin is coming to visit, so<lineend>I've laid out some tea and snacks.<pause><lineend><CC03EA>But where is he?<pause><lineend>|
+16|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
+17|
+<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot. I just fed<lineend>him, too!<pause><lineend>|
+18|
+<CC03EA><color=0006><string=000B><lineend><color=0001>There are all kinds of rumors<lineend>going around town.<pause><lineend><CC03EA>One is that the Queen left on some<lineend>kind of adventure.<pause><lineend><CC03EA>Another is that someone called the<lineend>Dragon Slayer killed the Ice<lineend>Dragon in the southwestern caves.<pause><lineend>|
+19|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every<lineend>single day!<pause><lineend>|
