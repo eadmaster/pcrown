@@ -3,40 +3,40 @@
 1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
-<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>‚¨‚©‚ ‚³‚ñI<lineend><CC03ED=00350002000103FF><pause>|
+<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Motherï¼<lineend><CC03ED=00350002000103FF><pause>|
 3|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>‚ ‚ŸAƒ}ƒŠ[<lineend>‚æ‚­–³–‚ÅEEE<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>Aah, Mary<lineend>Safe and well...<lineend><CC03ED=000A0017000103FF><pause>|
 4|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>‚¤‚ñB<lineend>‚ ‚Ì‚¨o‚¿‚á‚ñ‚É•‚¯‚Ä‚à‚ç‚Á‚½‚ñ‚¾B<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yeah.<lineend>She rescued me.<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
 5|
-<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>‚¨‚¶‚å‚¤‚³‚ñB<lineend><pause><CC03EA>–º‚ğ•‚¯‚Ä‰º‚³‚Á‚Ä<lineend>‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B<lineend><pause>|
+<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>Great Princess.<lineend><pause><CC03EA>Thank you so much<lineend>for saving my daughter.<lineend><pause>|
 6|
 <CC03ED=0000009500010000><CC03ED=0000009800010000>|
 7|
-<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>ƒGƒhƒ[ƒh—l‚àEEE<lineend><pause><CC03EA>‚±‚±‚Ü‚Å‚Â‚¢‚Ä‚«‚Ä‰º‚³‚Á‚Ä<lineend>‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B<lineend><pause>|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>And Sir Edward...<lineend><pause><CC03EA>Thank you so much<lineend>for coming along.<lineend><pause>|
 8|
-<CC03EA><color=0004><string=016C><lineend><color=0001>EEE‚ ‚ñ‚Ü‚è‚Ì‚ñ‚Ñ‚è‚µ‚Ä‚¢‚é‚Æ<lineend>•Ê‚Ìƒhƒ‰ƒSƒ“‚ª—ˆ‚é‚¼B<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>If you continue being so carefree, <lineend>another dragon will arrive forthwith.<pause><lineend>|
 9|
-<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>‚³‚ A‚¿‚á‚ñ‚Æ‚Â‚¢‚Ä‚¢‚ç‚Á‚µ‚á‚¢B<lineend><pause>|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>Come on now, follow me.<lineend><pause>|
 10|
-<CC03ED=0035000500010000><CC03ED=00350003000103FF><CC03EA><CC03FC=0004><string=0035>‚¨o‚¿‚á‚ñA‚ ‚è‚ª‚Æ[I<lineend><CC03ED=0035000400010000><CC03ED=000000B200010000><pause>|
+<CC03ED=0035000500010000><CC03ED=00350003000103FF><CC03EA><CC03FC=0004><string=0035>My Lady, thank you!<lineend><CC03ED=0035000400010000><CC03ED=000000B200010000><pause>|
 11|
-<CC03EA><color=0004><string=016C><lineend><color=0001>‚¸‚¢‚Ô‚ñ‚Æ–³’ƒ‚ğ‚·‚é‚ÈEEE<lineend><pause>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Do not be excessively unaccommodating...<lineend><pause>|
 12|
-<CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>‚·‚İ‚Ü‚¹‚ñB<lineend><pause>|
+<CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 13|
-<CC03EA><color=0004><string=016C><lineend><color=0001>EEE‚¾‚ªAŒ©’¼‚µ‚½‚¼B<lineend>‚»‚ÌŒ•‚Åƒhƒ‰ƒSƒ“‚ğˆê•C‚µ‚Æ‚ß‚é‚Æ‚ÍB<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>...However, let's reconsider that.<lineend>This sword could subdue one dragon.<pause><lineend>|
 14|
-<CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>‚Ü‚¾–¼‘O‚ğ•·‚¢‚Ä‚¢‚È‚©‚Á‚½‚ÈB<lineend><pause>|
+<CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>I have not had the pleasure of hearing your name, my Lady.<lineend><pause>|
 15|
-<CC03EA><color=0002><string=0000><lineend><color=0001>EEEƒOƒ‰ƒhƒŠƒGƒ‹‚Æ‚¢‚¢‚Ü‚·B<pause><lineend><CC03EA>‚ ‚È‚½‚ªƒOƒ[ƒXƒ^[‰Æ‚Ì<lineend>ƒGƒhƒ[ƒh—l‚Å‚·‚ËEEE<pause><lineend><CC03EA>æ‚Ù‚Ç‚Í‚ ‚è‚ª‚Æ‚¤<lineend>‚²‚´‚¢‚Ü‚µ‚½B<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...I am known as Gradriel.<pause><lineend><CC03EA>Perhaps you are Sir Edward<lineend>of the Glowstar Residence...<pause><lineend><CC03EA>Thank you<lineend>for earlier.<pause><lineend>|
 16|
-<CC03EA><color=0004><string=016C><lineend><color=0001>‚Ó‚ñEEE–‚lƒSƒ‹ƒSƒ_‚Ì‘§q‚Í<lineend>‚Ç‚±‚Ös‚Á‚Ä‚à—L–¼l‚¾‚ÈEEE<pause><lineend><CC03EA>‹Rm’c‚ª—ˆ‚½‚©‚ç‚ÆŒ¾‚Á‚Ä<lineend>‚±‚Ì‘º‚ªŠëŒ¯‚È–‚É‚©‚í‚è‚Í‚È‚¢<pause><lineend><CC03EA>ƒOƒ‰ƒhƒŠƒGƒ‹A‚¨‘O‚à<lineend>‚Í‚â‚­‘º‚©‚ç”ğ“ï‚µ‚½•û‚ª‚¢‚¢B<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Hmmmâ€¦ Golgotha, it seems like that demon's son is famous<lineend>no matter where he goes...<pause><lineend><CC03EA>Since a knight squad came and said<lineend>this town won't be involved in any dangerous incidents, Gradriel.<pause><lineend><CC03EA>You should also consider<lineend>evacuating from the village soon.<pause><lineend>|
 17|
-<CC03EA><color=0001>ˆê•û‚»‚Ì Aƒ”ƒ@ƒŒƒiƒfƒBƒ“é‚Å‚ÍEEE<pause><lineend>|
+<CC03EA><color=0001>Meanwhile, at Valenadine Castle...<pause><lineend>|
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What the...<pause><lineend>|
-65537|
+65537|You should also consider
 <CC03EA><color=0004><string=00F8><lineend><color=0001>A Dragon attack!<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I hear crying...<lineend>Someone's there!<pause><lineend>|
@@ -67,7 +67,7 @@
 196613|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I'll gladly do anything I can.<pause><lineend>|
 196614|
-<CC03EA><CC03FC=0004><string=007D>Pardon the intrusion, Lord Jestonai.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Pardon the intrusion, Lord Jestonai.<pause><lineend>|Come on now, follow me.
 196615|
 <CC03EA><CC03FC=0004><string=007D>It's time. Please follow me into the hallway.<pause><lineend>|
 196616|
@@ -115,32 +115,32 @@
 262159|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Come...<pause><lineend>|
 327680|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>‚¨‚©‚ ‚³‚ñI<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Mother!<lineend><CC03ED=00350002000103FF><pause>|
 327681|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>‚ ‚ŸAƒ}ƒŠ[<lineend>‚æ‚­–³–‚ÅEEE<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Aah, Mary<lineend>afe and well...<lineend><CC03ED=000A0017000103FF><pause>|
 327682|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>‚¤‚ñB<lineend>‚ ‚Ì‚¨o‚¿‚á‚ñ‚É•‚¯‚Ä‚à‚ç‚Á‚½‚ñ‚¾B<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yeah.<lineend>She rescued me.<lineend><CC03ED=00350002000103FF><pause>|
 327683|
-<CC03EA><CC03FC=0004><string=000A>‚¨‚¶‚å‚¤‚³‚ñB<lineend><pause><CC03EA>–º‚ğ•‚¯‚Ä‰º‚³‚Á‚Ä<lineend>‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B<lineend><pause>|
+<CC03EA><CC03FC=0004><string=000A>My Lady.<lineend><pause><CC03EA>Thank you so much<lineend>for saving my daughter.<lineend><pause>|
 327684|
-<CC03EA><CC03FC=0004><string=000A>ƒGƒhƒ[ƒh—l‚àEEE<lineend><pause><CC03EA>‚±‚±‚Ü‚Å‚Â‚¢‚Ä‚«‚Ä‰º‚³‚Á‚Ä<lineend>‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B<pause><lineend>|
+<CC03EA><CC03FC=0004><string=000A>And Sir Edward...<lineend><pause><CC03EA>thank you so much<lineend>for coming along.<pause><lineend>|
 327685|
-<CC03EA><color=0004><string=016E><lineend><color=0001>EEE‚ ‚ñ‚Ü‚è‚Ì‚ñ‚Ñ‚è‚µ‚Ä‚¢‚é‚Æ<lineend>•Ê‚Ìƒhƒ‰ƒSƒ“‚ª—ˆ‚é‚¼B<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>If you continue being so carefree, <lineend>another dragon will arrive forthwith.<pause><lineend>|
 327686|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>‚³‚ A‚¿‚á‚ñ‚Æ‚Â‚¢‚Ä‚¢‚ç‚Á‚µ‚á‚¢B<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Come on now, follow me.<lineend><CC03ED=000A0017000103FF><pause>|
 327687|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>‚¨o‚¿‚á‚ñA‚ ‚è‚ª‚Æ[I<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>My Lady, thank you!<lineend><CC03ED=00350002000103FF><pause>|
 327688|
-<CC03EA><color=0004><string=016E><lineend><color=0001>‚¸‚¢‚Ô‚ñ‚Æ–³’ƒ‚ğ‚·‚é‚ÈEEE<lineend><pause>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Do not be excessively unaccommodating...<lineend><pause>|
 327689|
-<CC03EA><color=0002><string=0000><lineend><color=0001>‚·‚İ‚Ü‚¹‚ñB<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 327690|
-<CC03EA><color=0004><string=016E><lineend><color=0001>EEE‚¾‚ªAŒ©’¼‚µ‚½‚¼B<lineend>‚»‚ÌŒ•‚Åƒhƒ‰ƒSƒ“‚ğˆê•C‚µ‚Æ‚ß‚é‚Æ‚ÍB<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>...However, let's reconsider that.<lineend>This sword could subdue one dragon.<pause><lineend>|
 327691|
-<CC03EA><color=0004><string=016E><lineend><color=0001>‚Ü‚¾–¼‘O‚ğ•·‚¢‚Ä‚¢‚È‚©‚Á‚½‚ÈB<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I have not had the pleasure of hearing your name, my Lady.<pause><lineend>|
 327692|
-<CC03EA><color=0002><string=0000><lineend><color=0001>EEEƒOƒ‰ƒhƒŠƒGƒ‹‚Æ‚¢‚¢‚Ü‚·B<pause><lineend><CC03EA>‚ ‚È‚½‚ªƒOƒ[ƒXƒ^[‰Æ‚Ì<lineend>ƒGƒhƒ[ƒh—l‚Å‚·‚ËEEE<pause><lineend><CC03EA>æ‚Ù‚Ç‚Í‚ ‚è‚ª‚Æ‚¤<lineend>‚²‚´‚¢‚Ü‚µ‚½B<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...I am known as Gradriel.<pause><lineend><CC03EA>Perhaps you are Sir Edward<lineend>of the Glowstar Residence...<pause><lineend><CC03EA>Thank you<lineend>for earlier.<pause><lineend>|
 327693|
-<CC03EA><color=0004><string=016E><lineend><color=0001>‚Ó‚ñEEE–‚lƒSƒ‹ƒSƒ_‚Ì‘§q‚Í<lineend>‚Ç‚±‚Ös‚Á‚Ä‚à—L–¼l‚¾‚ÈEEE<pause><lineend><CC03EA>‹Rm’c‚ª—ˆ‚½‚©‚ç‚ÆŒ¾‚Á‚Ä<lineend>‚±‚Ì‘º‚ªŠëŒ¯‚È–‚É‚©‚í‚è‚Í‚È‚¢<pause><lineend><CC03EA>ƒOƒ‰ƒhƒŠƒGƒ‹A‚¨‘O‚à<lineend>‚Í‚â‚­‘º‚©‚ç”ğ“ï‚µ‚½•û‚ª‚¢‚¢B<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Hmmmâ€¦ Golgotha, it seems like that demon's son is famous<lineend>no matter where he goes...<pause><lineend><CC03EA>Since a knight squad came and said<lineend>this town won't be involved in any dangerous incidents, Gradriel.<pause><lineend><CC03EA>You should also consider<lineend>evacuating from the village soon.<pause><lineend>|
 327694|
-<CC03EA><color=0001>ˆê•û‚»‚Ì Aƒ”ƒ@ƒŒƒiƒfƒBƒ“é‚Å‚ÍEEE<pause><lineend>|
+<CC03EA><color=0001>Meanwhile, at Valenadine Castle...<pause><lineend>|
