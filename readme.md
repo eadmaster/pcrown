@@ -12,19 +12,45 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 ## Current status
 
  - all story events and names translated using a fixed-width font
-   - [use a bigger monospaced font](https://github.com/eadmaster/pcrown/issues/3)
  - [missing items translations](https://github.com/eadmaster/pcrown/issues/2)
  - [missing translation for location signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
+
+
+## FAQs
+
+### use a VWF (Variable Width Font)?
+
+That would require a lot of code changes, not top priority atm.
+
+### PSP port?
+
+not top priority atm.
+
+### Found a bug?
+
+Please report game-breaking bugs (like soft-locks) while providing a savegame and instructions to reproduce.
+
+Most bugs related to text dialogs were already reported and are known.
+
 
 ## Preview
 
 ![welcome](https://github.com/user-attachments/assets/c86585d6-106a-409b-951b-5bbd072533f6)  ![npc](https://github.com/user-attachments/assets/65079e18-e319-48a9-9838-e569729a7951)
 
 
-## Manual Patch instructions
+## Semi-automated patch instructions
 
-1. get a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
+1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
+2. download and execute one of these easy patching scripts in the extraction dir:
+ 
+  - [for Windows](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.bat)
+  - [for Linux](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.sh)
+
+
+## Manual patch instructions
+
+1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
 2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases).
 3. download and install `iat` and `xdelta3`
 4. convert track 1 to iso with
@@ -34,20 +60,11 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 6. use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play with the patched iso.
 
 
-# Semi-automated Patch instructions
-
-1. get a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
-2. download and execute one of these easy patching scripts in the extraction dir:
- 
-  - [for Windows](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.bat)
-  - [for Linux](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.sh)
-
-
 ## Contributions
  
 Issues and PRs are currently restricted to contributors to avoid spamming, trolling, etc.
 
-Contact me via discord or forums if you can contribute:
+Contact me via discord or forums if you can contribute or have issues to report:
 
  - https://discord.com/channels/348545631985467394/797608417857372161
  - https://segaxtreme.net/members/eadmaster.30323/
@@ -56,8 +73,9 @@ Contact me via discord or forums if you can contribute:
 
 # New contributors
 
+Not already listed in the [old readme](readme.txt.old):
+
  - [paul-met](https://github.com/paul-met) and derek ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
  - Spike and MLagaffe (bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts](https://github.com/eadmaster/pcrown/issues/4))
- 
-(sorry if i missed somebody, just contact me and you will be added in the list)
+
