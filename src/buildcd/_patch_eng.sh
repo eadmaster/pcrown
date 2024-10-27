@@ -1,10 +1,22 @@
+#!/bin/bash
 
-#PRE: apt install iat xdelta3
+#PRE: install req. patching tools
+#sudo apt install iat xdelta3
 
-# LATEST_PATCH_DOWNLOAD_URL=$(curl -s https://api.github.com/repos/eadmaster/pcrown/releases/latest | grep "browser_download_url.*xdelta" | cut -d : -f 2,3 | tr -d \")
+echo "extract \"Princess Crown (Japan) (1M).zip\" in this path: $(pwd)"
+echo -n "Press any key to continue... "
+read -s -n 1
 
-iat -i "Princess Crown (Japan) (1M) (Track 01).bin" -o "Princess Crown (Japan) (1M) (Track 01).iso"  --iso
+# download the latest patch
+curl -kLO https://github.com/eadmaster/pcrown/releases/latest/download/Princess.Crown.Japan.1M.Track.01.iso.xdelta
+
+iat "Princess Crown (Japan) (1M) (Track 01).bin"  "Princess Crown (Japan) (1M) (Track 01).iso" 
 
 xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
 
 rm "Princess Crown (Japan) (1M) (Track 01).iso"
+
+# download the latest cue sheet
+curl -kL 'https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue' -o "Princess Crown (Japan) (1M) (English).cue"
+
+echo "use this cue sheet to play the game: \"Princess Crown (Japan) (1M) (English).cue\""
