@@ -1,9 +1,13 @@
 
-# Princess Crown Translation Redux
+# Princess Crown Translation (Unofficial) Redux
 
 [old readme here](readme.txt.old)
 
-My attempt to restart the CyberWarriorX translation project.
+My attempt to continue on the CyberWarriorX translation project.
+
+**P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
+Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
+
 
 ## Current status
 
