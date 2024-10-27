@@ -63,4 +63,4 @@
 65563|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of<lineend>Valendine and the<pause><lineend><CC03EA>port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take<lineend>care.<pause><lineend>|
 65564|
-<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>Within the middle of the Black Forest to the North break on the path<color=0001>があり<lineend>ahead is<color=0002>魔女の塔<color=0001>a shortcut.<pause><lineend><CC03EA>Knights of the Forest await nearby.<lineend>Always arrive prepared.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>Within the middle of the Black Forest to the North break on the path<color=0001>exists<lineend>ahead is<color=0002>the Sorceress's Tower<color=0001>shortcut.<pause><lineend><CC03EA>Knights of the Forest await nearby.<lineend>Always arrive prepared.<lineend><pause>|
