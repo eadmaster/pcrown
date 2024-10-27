@@ -1,31 +1,31 @@
 0|
 <CC03FB=000A>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting<lineend>in the throne room.<lineend>Please see him at<pause><lineend><CC03EA>once!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>G, Great Princess!<lineend>You are safe and well!<pause><lineend><CC03EA>Hurry, Jestonai is waiting<lineend>in the audience hall.<lineend>Please see him at<pause><lineend><CC03EA>once!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007D><lineend><color=0001>‚Ç‚¤‚©‰yŒ©‚ÌŠÔ‚É‚¨‹}‚¬‰º‚³‚¢B<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please hurry to the audience hall.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care.<lineend>May all your<pause><lineend><CC03EA>battles be<lineend>victorious!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please be careful.<lineend>I pray<pause><lineend><CC03EA>for<lineend>fortuns of war.<pause><lineend>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>You've made it back<lineend>safely!<pause><lineend><CC03EA>We were all so<lineend>worried about you.<pause><lineend><CC03EA>I hope you realize<lineend>the weight of what<lineend>you've done...<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, Great Princess!<lineend>You have made returned<lineend>safely!<pause><lineend><CC03EA>We were all so<lineend>worried about you.<pause><lineend><CC03EA>Really,<lineend>doing something<lineend>like that...<lineend><pause>|
 65537|
-<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize for<lineend>leaving without<pause><lineend><CC03EA>telling anybody.<lineend><CC03ED=000000A0000103FF><pause>|
+<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I was regretful<lineend>going out on my own<pause><lineend><CC03EA>like that.<lineend><CC03ED=000000A0000103FF><pause>|
 65538|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>There are urgent<lineend>matters to deal<pause><lineend><CC03EA>with, but they can<lineend>wait until<lineend>tomorrow.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>There are reasons for urgent<lineend>problems to deal<pause><lineend><CC03EA>with, but those incidents can<lineend>wait again until<lineend>another time, let us talk.<pause><lineend>|
 65539|
-<CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Is something wrong?<pause><lineend>|
+<CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Did something happen?<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Eriel has vanished<lineend>from the castle. No<pause><lineend><CC03EA>one has the<lineend>faintest idea where<lineend>she is.<pause><lineend><CC03EA>A few townspeople<lineend>said they saw<lineend>someone who looked<pause><lineend><CC03EA>like Eriel in the<lineend>Black Forest.<pause><lineend><CC03EA>Sir Kwein took a<lineend>few Knights to<lineend>search the area,<pause><lineend><CC03EA>but there is still<lineend>no word from him.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Great Eriel has vanished<lineend>from the castle and<pause><lineend><CC03EA>her whereabouts<lineend>are<lineend>unkonwn.<pause><lineend><CC03EA>There are reports from <lineend>people of the castle town<lineend>whom are said to<pause><lineend><CC03EA>have seen what looks like Great Eriel<lineend>by the Black Forest.<pause><lineend><CC03EA>Sir Kwein was accompanied by<lineend>several Knights headed to<lineend>search it,<pause><lineend><CC03EA>but there is still<lineend>no notification from him.<pause><lineend>|
 65541|
-<CC03EA><CC03FC=0004><string=007F><color=0001>Lord Jestonai! Sir<lineend>Kwein has<lineend>returned!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007F><color=0001>Master Jestonai! Sir<lineend>Kwein, head of the Knights, has<lineend>returned!!<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh? Send him in at<lineend>once!<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Ohh! Tell him to come at<lineend>once!<pause><lineend>|
 65543|
 <CC03EA><CC03FC=0004><string=007F><color=0001>Yes Sir!<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Queen Gradriel...<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Princess Gradriel...<pause><lineend>|
 65545|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Sir Kwein! Did you<lineend>see any sign of my<pause><lineend><CC03EA>sister Eriel?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Head of the Knights! Was<lineend>Elder Sister Eriel<pause><lineend><CC03EA>there?<pause><lineend>|
 65546|
 <CC03EA><color=0004><string=0102><lineend><color=0001>We were searching<lineend>deep in the Black<pause><lineend><CC03EA>Forest when we<lineend>found a tower.<pause><lineend><CC03EA>None of us could<lineend>remember seeing it<lineend>before. Yet in one<pause><lineend><CC03EA>of its windows, we<lineend>saw Eriel.<pause><lineend>|
 65547|
@@ -63,4 +63,4 @@
 65563|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of<lineend>Valendine and the<pause><lineend><CC03EA>port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take<lineend>care.<pause><lineend>|
 65564|
-<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>•‚ÌX‚Ì‚Ü‚ñ‚È‚©‚É–k‚É‚Ì‚Ñ‚é‚Ê‚¯“¹<color=0001>‚ª‚ ‚è<lineend>‚»‚Ìæ‚É<color=0002>–‚—‚Ì“ƒ<color=0001>‚ª‚ ‚è‚Ü‚·B<pause><lineend><CC03EA>•t‹ß‚ÌX‚É‹Rm‚ğ‘Ò‹@‚³‚¹B<lineend>‚¢‚Â‚Å‚àæ‚è‚ß‚é‚æ‚¤‚Éè”z‚¢‚½‚µ‚Ü‚·B<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>é»’ã®æ£®ã®ã¾ã‚“ãªã‹ã«åŒ—ã«ã®ã³ã‚‹ã¬ã‘é“<color=0001>ãŒã‚ã‚Š<lineend>ãã®å…ˆã«<color=0002>é­”å¥³ã®å¡”<color=0001>ãŒã‚ã‚Šã¾ã™ã€‚<pause><lineend><CC03EA>ä»˜è¿‘ã®æ£®ã«é¨å£«ã‚’å¾…æ©Ÿã•ã›ã€‚<lineend>ã„ã¤ã§ã‚‚ä¹—ã‚Šè¾¼ã‚ã‚‹ã‚ˆã†ã«æ‰‹é…ã„ãŸã—ã¾ã™ã€‚<lineend><pause>|
