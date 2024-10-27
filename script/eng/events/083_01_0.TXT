@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>The booze they<lineend>serve here is<pause><lineend><CC03EA>something else.<pause><lineend><CC03EA>It's only fitting.<lineend>After all, this is<lineend>where every gourmet<pause><lineend><CC03EA>dreams of coming.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>The booze they serve here is<lineend>something else.<pause><lineend><CC03EA>It's only fitting. After all, this<lineend>is where every gourmet dreams of<lineend>coming.<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0185><lineend><color=0001>If it isn't<lineend>Gradriel! What took<pause><lineend><CC03EA>you so long?<pause><lineend><CC03EA>It looks like I<lineend>beat you here...<pause><lineend><CC03EA>...I guess that<lineend>means I win the<lineend>battle of the Local<pause><lineend><CC03EA>Delicacies!!<pause><lineend><CC03ED=0002001400010000>|
+<CC03EA><color=0004><string=0185><lineend><color=0001>If it isn't Gradriel! What took<lineend>you so long?<pause><lineend><CC03EA>It looks like I beat you here...<pause><lineend><CC03EA>...I guess that means I win the<lineend>battle of the Local Delicacies!!<pause><lineend><CC03ED=0002001400010000>|
 2|
-<CC03EA><color=0006><string=0008><lineend><color=0001>Woo hoo!!<lineend>Finally! After all<lineend>this time!<pause><lineend><CC03EA>Now go on and try<lineend>the house<lineend>specialty. It's<pause><lineend><CC03EA>great!<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Woo hoo!!<lineend>Finally! After all this time!<pause><lineend><CC03EA>Now go on and try the house<lineend>specialty. It's great!<pause><lineend>|
 3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Enjoy your meal!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Looks like you made<lineend>it. Welcome...to<pause><lineend><CC03EA>The Last Tavern!<pause><lineend><CC03EA>Now, what can I get<lineend>you?<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Looks like you made it.<lineend>Welcome...to The Last Tavern!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01C9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Come again! Anytime<lineend>you feel like<pause><lineend><CC03EA>dropping by, we'll<lineend>be here.<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Come again! Anytime you feel like<lineend>dropping by, we'll be here.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Our Local Delicacy<lineend>is Dragon Steak.<pause><lineend><CC03EA>One bite, and<lineend>you'll have more<lineend>power than a<pause><lineend><CC03EA>Dragon. That's no<lineend>lie!<pause><lineend><CC03EA>One costs 56G.<lineend>How about it?<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Our Local Delicacy is Dragon<lineend>Steak.<pause><lineend><CC03EA>One bite, and you'll have more<lineend>power than a Dragon. That's no<lineend>lie!<pause><lineend><CC03EA>One costs 56G.<lineend>How about it?<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=01C9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Oh dear. You don't<lineend>have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Your bag's a little<lineend>full, isn't it?<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Your bag's a little full, isn't<lineend>it?<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01C9><lineend><color=0001>Here you go!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Yes, I can grill<lineend>something for you.<pause><lineend><CC03EA>Please select a<lineend>Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Yes, I can grill something for<lineend>you. Please select a Food to use.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>We can't cook that.<lineend>Sorry.<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>We can't cook that. Sorry.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01C9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G.<lineend>Have ya got it?<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>That'll be 30G. Have ya got it?<pause><lineend>|
 15|
 <CC03EA><CC03FC=0004><string=01C9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 16|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Oh dear. You don't<lineend>have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01C9><lineend><color=0001>Look at that.<pause><lineend><CC03EA>You bought every<lineend>last Local Delicacy<lineend>out there.<pause><lineend><CC03EA>We have a present<lineend>here for such good<lineend>customers!<pause><lineend>|
+<CC03EA><color=0006><string=01C9><lineend><color=0001>Look at that.<pause><lineend><CC03EA>You bought every last Local<lineend>Delicacy out there.<pause><lineend><CC03EA>We have a present here for such<lineend>good customers!<pause><lineend>|
 18|
-<CC03EA><color=0002>Got the Remove<lineend>Drop!<pause><lineend>|
+<CC03EA><color=0002>Got the Remove Drop!<pause><lineend>|
 19|
 <CC03EA><color=0006><string=01C9><lineend><color=0001>Come again!<pause><lineend>|

@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty?<lineend>Where are you<lineend>going?<pause><lineend><CC03EA>Your sister is the<lineend>other way!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty?<lineend>Where are you going?<pause><lineend><CC03EA>Your sister is the other way!<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Right.<pause><lineend><CC03EA>We better hurry and<lineend>help her!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Right.<pause><lineend><CC03EA>We better hurry and help her!<pause><lineend>|
 2|
 <CC03F2=000000880000002803FF00000000>|

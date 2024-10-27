@@ -1,30 +1,30 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>We've kept the<lineend>castle safe!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>We've kept the castle safe!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007C><lineend><color=0001>It gives me peace<lineend>of mind to know<pause><lineend><CC03EA>that all three of<lineend>you are in the<lineend>castle.<pause><lineend>|
+<CC03EA><color=0006><string=007C><lineend><color=0001>It gives me peace of mind to know<lineend>that all three of you are in the<pause><lineend><CC03EA>castle.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded<lineend>during a fight,<pause><lineend><CC03EA>make sure you eat<lineend>something right<lineend>away.<pause><lineend><CC03EA>The more you eat,<lineend>the more your body<lineend>will recover.<pause><lineend><CC03EA>Besides, nobody can<lineend>fight on an empty<lineend>stomach!<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a<lineend>fight, make sure you eat something<pause><lineend><CC03EA>right away.<pause><lineend><CC03EA>The more you eat, the more your<lineend>body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an<lineend>empty stomach!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>The three<lineend>Princesses are our<pause><lineend><CC03EA>kingdom's greatest<lineend>treasure.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our<lineend>kingdom's greatest treasure.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>Surely you've<lineend>started using Magic<pause><lineend><CC03EA>Stones by now, your<lineend>Highness?<pause><lineend><CC03EA>Have you tried<lineend>taking out a<lineend>monster without<pause><lineend><CC03EA>even using your<lineend>sword?<pause><lineend><CC03EA>If you can do that,<lineend>I'd say you're as<lineend>good a magic user<pause><lineend><CC03EA>as anyone else.<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Surely you've started using Magic<lineend>Stones by now, your Highness?<pause><lineend><CC03EA>Have you tried taking out a<lineend>monster without even using your<lineend>sword?<pause><lineend><CC03EA>If you can do that, I'd say you're<lineend>as good a magic user as anyone<lineend>else.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage<lineend>room for small<pause><lineend><CC03EA>goods.<pause><lineend>|
+<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small<lineend>goods.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to<lineend>take anything in<pause><lineend><CC03EA>this room, your<lineend>Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in<lineend>this room, your Highness.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0078><lineend><color=0001>Earthquakes are so<lineend>frightening, your<pause><lineend><CC03EA>Majesty. I was<lineend>afraid I was done<lineend>for!<pause><lineend>|
+<CC03EA><color=0006><string=0078><lineend><color=0001>Earthquakes are so frightening,<lineend>your Majesty. I was afraid I was<pause><lineend><CC03EA>done for!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0079><lineend><color=0001>I'm thankful we<lineend>live in a sturdy<pause><lineend><CC03EA>castle.<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>I'm thankful we live in a sturdy<lineend>castle.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>Your appearance is<lineend>really starting to<pause><lineend><CC03EA>resemble your<lineend>Mother's, Queen<lineend>Gradriel.<pause><lineend><CC03EA>The similarities<lineend>are quite striking.<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>Your appearance is really starting<lineend>to resemble your Mother's, Queen<pause><lineend><CC03EA>Gradriel.<pause><lineend><CC03EA>The similarities are quite<lineend>striking.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer<lineend>that's been passed<pause><lineend><CC03EA>down through the<lineend>Royal Family.<pause><lineend><CC03EA>Do you remember it,<lineend>Queen Gradriel?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been<lineend>passed down through the Royal<pause><lineend><CC03EA>Family.<pause><lineend><CC03EA>Do you remember it, Queen<lineend>Gradriel?<pause><lineend>|
 11|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 12|
-<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you<lineend>do, your Highness.<pause><lineend><CC03EA>Who would have ever<lineend>thought that these<lineend>words were the key<pause><lineend><CC03EA>to releasing the<lineend>Demon King?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your<lineend>Highness.<pause><lineend><CC03EA>Who would have ever thought that<lineend>these words were the key to<lineend>releasing the Demon King?<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine,<lineend>reach the farthest<pause><lineend><CC03EA>lands.<pause><lineend><CC03EA>I speak the prayer<lineend>of all who seek the<lineend>righteous path.<pause><lineend><CC03EA>May light rain down<lineend>upon the<lineend>darkness...<pause><lineend><CC03EA>May the restraints<lineend>of suffering<lineend>vanish...<pause><lineend><CC03EA>...And may that<lineend>which is locked in<lineend>our hearts be set<pause><lineend><CC03EA>free."<pause><lineend><CC03EA>Who would have<lineend>thought such gentle<lineend>words would be the<pause><lineend><CC03EA>key to releasing<lineend>the Demon King?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest<lineend>lands.<pause><lineend><CC03EA>I speak the prayer of all who seek<lineend>the righteous path.<pause><lineend><CC03EA>May light rain down upon the<lineend>darkness...<pause><lineend><CC03EA>May the restraints of suffering<lineend>vanish...<pause><lineend><CC03EA>...And may that which is locked in<lineend>our hearts be set free."<pause><lineend><CC03EA>Who would have thought such gentle<lineend>words would be the key to<lineend>releasing the Demon King?<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0080><lineend><color=0001>It's been a long<lineend>time since so many<pause><lineend><CC03EA>gathered in the<lineend>same place. <pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>It's been a long time since so<lineend>many gathered in the same place. <pause><lineend>|

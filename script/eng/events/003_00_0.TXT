@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, wait!<pause><lineend><CC03EA>Nutsbill Village is<lineend>just up ahead.<pause><lineend><CC03EA>If anyone spots me,<lineend>there will be a big<lineend>fuss for sure.<pause><lineend><CC03EA>As long as we're<lineend>here, I'll have to<lineend>make myself<pause><lineend><CC03EA>invisible.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, wait!<pause><lineend><CC03EA>Nutsbill Village is just up ahead.<pause><lineend><CC03EA>If anyone spots me, there will be<lineend>a big fuss for sure.<pause><lineend><CC03EA>As long as we're here, I'll have<lineend>to make myself invisible.<pause><lineend>|

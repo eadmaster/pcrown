@@ -1,39 +1,39 @@
 65536|
-<CC03EA><color=0004><string=0116><lineend><color=0001>Thank you for your<lineend>help.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>Thank you for your help.<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=0116><lineend><color=0001>I see you are good<lineend>with your sword,<pause><lineend><CC03EA>young lady.<pause><lineend><CC03EA>I have a request<lineend>for you.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I see you are good with your<lineend>sword, young lady.<pause><lineend><CC03EA>I have a request for you.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'd be happy to<lineend>help however I can.<pause><lineend><CC03EA>What's the matter?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'd be happy to help however I<lineend>can. What's the matter?<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0116><lineend><color=0001>My little boy has<lineend>been kidnapped by<pause><lineend><CC03EA>some kind of witch.<pause><lineend><CC03EA>She's holding him<lineend>captive just up<lineend>ahead.<pause><lineend><CC03EA>I would save him<lineend>myself, but she<lineend>cast a spell on me<pause><lineend><CC03EA>that's made me<lineend>defenseless.<pause><lineend><CC03EA>Please, I beg of<lineend>you. Go and save my<lineend>son from that<pause><lineend><CC03EA>witch!<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>My little boy has been kidnapped<lineend>by some kind of witch.<pause><lineend><CC03EA>She's holding him captive just up<lineend>ahead.<pause><lineend><CC03EA>I would save him myself, but she<lineend>cast a spell on me that's made me<lineend>defenseless.<pause><lineend><CC03EA>Please, I beg of you. Go and save<lineend>my son from that witch!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0116><lineend><color=0001>You'll do it?<pause><lineend><CC03EA>Thank you. My son's<lineend>life is in your<lineend>hands!<pause><lineend><CC03EA>Please be careful.<lineend>The witch can use<lineend>very strong magic.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>You'll do it?<pause><lineend><CC03EA>Thank you. My son's life is in<lineend>your hands!<pause><lineend><CC03EA>Please be careful. The witch can<lineend>use very strong magic.<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=011A>So this is the<lineend>so-called Unicorn's<lineend>Horn. What<pause><lineend><CC03EA>incredible magic<lineend>power it has!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>So this is the so-called Unicorn's<lineend>Horn. What incredible magic power<lineend>it has!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=011A>It's the perfect<lineend>thing for making a<lineend>gate to the Demon<pause><lineend><CC03EA>Realm.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>It's the perfect thing for making<lineend>a gate to the Demon Realm.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=0117><lineend><color=0001>What are you going<lineend>to do to me?<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>What are you going to do to me?<pause><lineend>|
 131075|
-<CC03EA><CC03FC=0004><string=011A>Only whatever it<lineend>takes to get that<lineend>horn off your head.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>Only whatever it takes to get that<lineend>horn off your head.<pause><lineend>|
 131076|
 <CC03EA><color=0004><string=0117><lineend><color=0001>Mom! Help!<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=011A>There'll be no<lineend>escape for you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>There'll be no escape for you.<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Stop it right now!<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You let him go! I'm<lineend>warning you!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You let him go! I'm warning you!<pause><lineend>|
 131080|
-<CC03EA><CC03FC=0004><string=011A>You're wouldn't<lineend>dare threaten me,<lineend>would you?<pause><lineend><CC03EA>I think my friend<lineend>here is a better<lineend>match for the likes<pause><lineend><CC03EA>of you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>You're wouldn't dare threaten me,<lineend>would you?<pause><lineend><CC03EA>I think my friend here is a better<lineend>match for the likes of you.<pause><lineend>|
 196608|
-<CC03EA><CC03FC=0004><string=011A>You're certainly no<lineend>pushover...<pause><lineend><CC03EA>...are you, your<lineend>Highness!?<pause><lineend><CC03EA>We'll just see how<lineend>well it goes for<lineend>you next time. Ta<pause><lineend><CC03EA>ta!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>You're certainly no pushover...<pause><lineend><CC03EA>...are you, your Highness!?<pause><lineend><CC03EA>We'll just see how well it goes<lineend>for you next time. Ta ta!<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>Your Mother is<lineend>waiting just over<lineend>that way.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>Your Mother is waiting just over<lineend>that way.<lineend><pause>|
 196610|
 <CC03EA><color=0004><string=0117><lineend><color=0001>Who are you?<pause><lineend>|
 196611|
-<CC03EA><color=0002><string=0000><lineend><color=0001>My name is<lineend>Gradriel. Your<pause><lineend><CC03EA>Mother asked me to<lineend>come rescue you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>My name is Gradriel. Your Mother<lineend>asked me to come rescue you.<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=0116><lineend><color=0001>My son...My son!<pause><lineend>|
 196613|
@@ -41,18 +41,18 @@
 196614|
 <CC03EA><color=0004><string=0117><lineend><color=0001>Here I am, Mom!<pause><lineend>|
 196615|
-<CC03EA><color=0004><string=0116><lineend><color=0001>What dreadful<lineend>things did she do<pause><lineend><CC03EA>to you, my son?<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>What dreadful things did she do to<lineend>you, my son?<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=0117><lineend><color=0001>It's all right,<lineend>Mom. Gradriel came<pause><lineend><CC03EA>and saved me!<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>It's all right, Mom. Gradriel came<lineend>and saved me!<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=0116><lineend><color=0001>I don't know what<lineend>we would have done<pause><lineend><CC03EA>without you.<pause><lineend><CC03EA>Thank you so very<lineend>much.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I don't know what we would have<lineend>done without you.<pause><lineend><CC03EA>Thank you so very much.<pause><lineend>|
 196618|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm glad that he's<lineend>safe.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm glad that he's safe.<pause><lineend>|
 196619|
-<CC03EA><color=0004><string=0116><lineend><color=0001>I'll never forget<lineend>what you've done<pause><lineend><CC03EA>for us.<pause><lineend><CC03EA>If you're ever in<lineend>trouble, I promise,<lineend>I'll be there to<pause><lineend><CC03EA>help you.<pause><lineend><CC03EA>You have my word.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I'll never forget what you've done<lineend>for us.<pause><lineend><CC03EA>If you're ever in trouble, I<lineend>promise, I'll be there to help<lineend>you.<pause><lineend><CC03EA>You have my word.<pause><lineend>|
 196620|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm grateful to<lineend>hear that.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm grateful to hear that.<pause><lineend>|
 196621|
-<CC03EA><color=0004><string=0116><lineend><color=0001>May we all meet<lineend>again someday!<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>May we all meet again someday!<pause><lineend>|
 196622|
-<CC03EA><color=0004><string=0117><lineend><color=0001>Thank you,<lineend>Gradriel!<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>Thank you, Gradriel!<pause><lineend>|

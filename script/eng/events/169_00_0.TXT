@@ -1,39 +1,39 @@
 0|
-<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the<lineend>perfect place for<pause><lineend><CC03EA>doing business.<pause><lineend><CC03EA>There are goods<lineend>coming in from all<lineend>over the kingdom,<pause><lineend><CC03EA>and people who want<lineend>to buy them, too.<pause><lineend><CC03EA>Get 'em while they<lineend>last! Round-Leaf<lineend>Grass! One for only<pause><lineend><CC03EA>6G!!<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place<lineend>for doing business.<pause><lineend><CC03EA>There are goods coming in from all<lineend>over the kingdom, and people who<lineend>want to buy them, too.<pause><lineend><CC03EA>Get 'em while they last!<lineend>Round-Leaf Grass! One for only<lineend>6G!!<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=005E><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
 2|
 <CC03EA><color=0006><string=005E><lineend><color=0001>Come again!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=005E><lineend><color=0001>You don't have<lineend>enough!<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>You don't have enough!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=005E><lineend><color=0001>It looks like you<lineend>don't have enough<pause><lineend><CC03EA>space.<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>It looks like you don't have<lineend>enough space.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=005E><lineend><color=0001>One Round-Leaf<lineend>Grass!<lineend>Thank you!<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>One Round-Leaf Grass!<lineend>Thank you!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=000A><lineend><color=0001>All kinds of things<lineend>are for sale here.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>All kinds of things are for sale<lineend>here.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Welcome to the<lineend>Merchants' Area.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Welcome to the Merchants' Area.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0020><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>I get to go on a<lineend>picnic to the lake!<pause><lineend>|
+<CC03EA><color=0006><string=0020><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>I get to go on a picnic to the<lineend>lake!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you<lineend>something about<pause><lineend><CC03EA>this area...<pause><lineend><CC03EA>Somewhere, it's got<lineend>a hidden<lineend>marketplace that's<pause><lineend><CC03EA>just for merchants.<pause><lineend><CC03EA>Only the merchants<lineend>themselves even<lineend>know where it is.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about<lineend>this area...<pause><lineend><CC03EA>Somewhere, it's got a hidden<lineend>marketplace that's just for<lineend>merchants.<pause><lineend><CC03EA>Only the merchants themselves even<lineend>know where it is.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and<lineend>Spirit Grass make<pause><lineend><CC03EA>the prettiest<lineend>flowers, don't<lineend>they?<pause><lineend><CC03EA>When you stand in<lineend>front of them, it's<lineend>like your body<pause><lineend><CC03EA>magically feels<lineend>better.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Spirit Grass<lineend>make the prettiest flowers, don't<pause><lineend><CC03EA>they?<pause><lineend><CC03EA>When you stand in front of them,<lineend>it's like your body magically<lineend>feels better.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=005A><lineend><color=0001>I just picked up<lineend>some Magic Swords.<pause><lineend><CC03EA>I'll sell one to<lineend>you for 16G.<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>I just picked up some Magic<lineend>Swords. I'll sell one to you for<pause><lineend><CC03EA>16G.<pause><lineend>|
 12|
 <CC03EA><CC03FC=0004><string=005A><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
 13|
 <CC03EA><color=0006><string=005A><lineend><color=0001>Come again!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=005A><lineend><color=0001>You don't have<lineend>enough!<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>You don't have enough!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=005A><lineend><color=0001>It looks like you<lineend>don't have enough<pause><lineend><CC03EA>space.<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>It looks like you don't have<lineend>enough space.<pause><lineend>|
 16|
 <CC03EA><color=0006><string=005A><lineend><color=0001>One Magic Sword!<lineend>Thank you!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way<lineend>from Lowgrove to<pause><lineend><CC03EA>sell this goat...<pause><lineend><CC03EA>Now the stupid<lineend>thing refuses to<lineend>budge!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove<lineend>to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to<lineend>budge!<pause><lineend>|
 18|
 <CC03ED=0004000200010000><CC03FB=0050>|
 19|
@@ -41,56 +41,56 @@
 20|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
 21|
-<CC03EA><color=0006><string=0008><lineend><color=0001>I made it at last!<lineend>Time for some<pause><lineend><CC03EA>shopping!<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>I made it at last! Time for some<lineend>shopping!<pause><lineend>|
 22|
-<CC03EA><color=0006><string=005F><lineend><color=0001>Care for some Power<lineend>Plant Seeds? You<pause><lineend><CC03EA>can have one. For<lineend>2000G, that is.<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>Care for some Power Plant Seeds?<lineend>You can have one. For 2000G, that<pause><lineend><CC03EA>is.<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=005F><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
 24|
 <CC03EA><color=0006><string=005F><lineend><color=0001>Come again!<pause><lineend>|
 25|
-<CC03EA><color=0006><string=005F><lineend><color=0001>You don't have<lineend>enough!<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>You don't have enough!<pause><lineend>|
 26|
-<CC03EA><color=0006><string=005F><lineend><color=0001>It looks like you<lineend>don't have enough<pause><lineend><CC03EA>space.<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>It looks like you don't have<lineend>enough space.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=005F><lineend><color=0001>Here you go, big<lineend>spender! One Power<pause><lineend><CC03EA>Plant Seed!<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>Here you go, big spender! One<lineend>Power Plant Seed!<pause><lineend>|
 28|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an<lineend>enemy while wearing<pause><lineend><CC03EA>a Goldsmith's Ring,<lineend>he'll drop some<lineend>gold coins.<pause><lineend><CC03EA>My uncle actually<lineend>made himself rich<lineend>with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while<lineend>wearing a Goldsmith's Ring, he'll<pause><lineend><CC03EA>drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself<lineend>rich with one of those.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=001F><lineend><color=0001>My Dad's a really<lineend>good salesman!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My Dad's a really good salesman!<pause><lineend>|
 30|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 31|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody<lineend>gets to meet the<pause><lineend><CC03EA>Merchants' Leader,<lineend>you know.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody gets to meet the<lineend>Merchants' Leader, you know.<pause><lineend>|
 32|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 33|
 <CC03EA><CC03FC=0004><string=01A6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 34|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
 36|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
 37|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
 38|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 39|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from<pause><lineend><CC03EA>your travels here<lineend>at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from<lineend>your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 40|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 41|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
 42|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 43|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 44|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 45|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 46|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 47|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

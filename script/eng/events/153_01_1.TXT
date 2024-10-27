@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0004><string=00D0><lineend><color=0001>I want to go home.<lineend>Change us back,<pause><lineend><CC03EA>Proserpina!<pause><lineend>|
+<CC03EA><color=0004><string=00D0><lineend><color=0001>I want to go home. Change us back,<lineend>Proserpina!<pause><lineend>|
 1|
 <CC03EA><color=0004><string=00E3><lineend><color=0001>*sob*<pause><lineend>|

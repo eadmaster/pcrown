@@ -3,10 +3,10 @@
 65537|
 <CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel...<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=016D><lineend><color=0001>...You're the<lineend>Queen.<pause><lineend><CC03EA>I knew I had heard<lineend>that name somewhere<lineend>before.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>...You're the Queen.<pause><lineend><CC03EA>I knew I had heard that name<lineend>somewhere before.<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm so sorry. I had<lineend>no intention of<pause><lineend><CC03EA>deceiving you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm so sorry. I had no intention<lineend>of deceiving you.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=016D><lineend><color=0001>We'll talk later.<pause><lineend><CC03EA>Get going! I'll be<lineend>fine here.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>We'll talk later.<pause><lineend><CC03EA>Get going! I'll be fine here.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=016D><lineend><color=0001>I told you, you<lineend>don't have to worry<pause><lineend><CC03EA>about me!<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>I told you, you don't have to<lineend>worry about me!<pause><lineend>|

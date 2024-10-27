@@ -1,7 +1,7 @@
 0|
 <CC03FA=0000000300000000000003FF000A003C0000><CC03FB=003C>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Oh no!<lineend>The Knight Guard!<pause><lineend><CC03EA>If they find me<lineend>here, they'll take<lineend>me back to the<pause><lineend><CC03EA>castle...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Oh no!<lineend>The Knight Guard!<pause><lineend><CC03EA>If they find me here, they'll take<lineend>me back to the castle...<pause><lineend>|
 2|
 <CC03FA=0000000800010000000003FF000A003C0000><CC03FB=003C>|
 3|
@@ -15,28 +15,28 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A Dragon!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...He's so huge!<pause><lineend><CC03EA>If he got me with<lineend>those fangs, I'd<lineend>be...I'd be...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...He's so huge!<pause><lineend><CC03EA>If he got me with those fangs, I'd<lineend>be...I'd be...<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Now I'm so scared I<lineend>can't even move!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Now I'm so scared I can't even<lineend>move!<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>くっ！<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=016E>I don't know who<lineend>you are or what<lineend>you're doing here.<pause><lineend><CC03EA>But this mountain<lineend>is swarming with<lineend>Dragons. If I were<pause><lineend><CC03EA>you, I'd run for<lineend>it.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E>I don't know who you are or what<lineend>you're doing here.<pause><lineend><CC03EA>But this mountain is swarming with<lineend>Dragons. If I were you, I'd run<lineend>for it.<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you so much!<pause><lineend>|
 65542|
 <CC03EA><CC03FC=0004><string=016E>Get out of here!<pause><lineend>|
 65543|
-<CC03EA><CC03FC=0004><string=016E><color=0001>I can't keep an eye<lineend>on you and fight<lineend>Dragons at the same<pause><lineend><CC03EA>time!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E><color=0001>I can't keep an eye on you and<lineend>fight Dragons at the same time!<pause><lineend>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>た、立とうと思っているのですが<lineend>足に力が入らなくて・・・<pause><lineend>|
 65545|
 <CC03EA><CC03FC=0004><string=016E><color=0001>世話のやける。<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...OK.<pause><lineend><CC03EA>But Sir, what about<lineend>you?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...OK.<pause><lineend><CC03EA>But Sir, what about you?<pause><lineend>|
 65547|
-<CC03EA><CC03FC=0004><string=016E><color=0001>If you're worried<lineend>about me, don't be.<pause><lineend><CC03EA>You might say<lineend>killing Dragons is<lineend>my job.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E><color=0001>If you're worried about me, don't<lineend>be.<pause><lineend><CC03EA>You might say killing Dragons is<lineend>my job.<pause><lineend>|
 65548|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I was so scared, I<lineend>couldn't budge...<pause><lineend><CC03EA>I'll never be able<lineend>to be a Queen like<lineend>my Mother...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I was so scared, I couldn't<lineend>budge...<pause><lineend><CC03EA>I'll never be able to be a Queen<lineend>like my Mother...<pause><lineend>|
 65549|
-<CC03EA><CC03FC=0004><string=016E><color=0001>Now please, get<lineend>going. Have a<lineend>doctor look at you<pause><lineend><CC03EA>if you're hurt.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E><color=0001>Now please, get going. Have a<lineend>doctor look at you if you're hurt.<pause><lineend>|

@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Where are you<lineend>going?<lineend>Please retire to<lineend>your room.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Where are you going?<lineend>Please retire to your room.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Where are you<lineend>going?<lineend>Please retire to<lineend>your room.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Where are you going?<lineend>Please retire to your room.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|

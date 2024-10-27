@@ -1,2 +1,2 @@
 65536|
-<CC03EA><color=0002>Got the Broken<lineend>Sword!<pause><lineend>|
+<CC03EA><color=0002>Got the Broken Sword!<pause><lineend>|

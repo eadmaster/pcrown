@@ -19,3 +19,13 @@ src/prog/0.til
 src/prog/0.bin
 src/font.xml
 src/fontgen/font.xml
+_OLD
+_Release
+_WIP
+events_old
+*.EVN
+*.EVN.eng
+KANJI*.BIN
+*.bin
+*.BIN
+*.iso

@@ -1,48 +1,48 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your<lineend>Majesty?<pause><lineend><CC03EA>We need to hurry<lineend>and help the<lineend>others!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your Majesty?<pause><lineend><CC03EA>We need to hurry and help the<lineend>others!<pause><lineend>|
 1|
 <CC03ED=0000008700010000>|
 2|
 <CC03F2=000000880000002803FF00000000>|
 65536|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty,<lineend>what's wrong? We<pause><lineend><CC03EA>need to get out of<lineend>here!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, what's wrong? We<lineend>need to get out of here!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, but...there's<lineend>still no sign of<pause><lineend><CC03EA>Portgus yet.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, but...there's still no sign<lineend>of Portgus yet.<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Maybe he's on the<lineend>ship already.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Maybe he's on the ship already.<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=0134><color=0005>Pirate<lineend><color=0001>It was her! She's<lineend>the one who ran off<lineend>with the hostages!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0134><color=0005>Pirate<lineend><color=0001>It was her! She's the one who ran<lineend>off with the hostages!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=011E><color=0001>Ha ha ha...She's<lineend>awake!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>Ha ha ha...She's awake!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=011E><color=0001>You there. Little<lineend>girl. You're<lineend>friends with<pause><lineend><CC03EA>Portgus, aren't<lineend>you?<pause><lineend><CC03EA>That scurvy dog<lineend>climbed onto my<lineend>ship and beat up<pause><lineend><CC03EA>nearly every man I<lineend>had!<pause><lineend><CC03EA>You might say I'm<lineend>now going to return<lineend>the favor.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>You there. Little girl. You're<lineend>friends with Portgus, aren't you?<pause><lineend><CC03EA>That scurvy dog climbed onto my<lineend>ship and beat up nearly every man<lineend>I had!<pause><lineend><CC03EA>You might say I'm now going to<lineend>return the favor.<lineend><pause>|
 131074|
-<CC03EA><CC03FC=0004><color=0005><string=0134><color=0001>The seas in this<lineend>area are full of<lineend>man-eating sharks.<pause><lineend><CC03EA>Fall in, and you're<lineend>as good as<lineend>lunchmeat.<pause><lineend>|
+<CC03EA><CC03FC=0004><color=0005><string=0134><color=0001>The seas in this area are full of<lineend>man-eating sharks.<pause><lineend><CC03EA>Fall in, and you're as good as<lineend>lunchmeat.<pause><lineend>|
 131075|
-<CC03EA><CC03FC=0004><string=011E><color=0001>If you don't want<lineend>to die, then tell<lineend>me where Portgus's<pause><lineend><CC03EA>hideout is!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>If you don't want to die, then<lineend>tell me where Portgus's hideout<lineend>is!<pause><lineend>|
 131076|
-<CC03EA><CC03FC=0004><string=011E><color=0001>You!! Where did you<lineend>come from!?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>You!! Where did you come from!?<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I've been here the<lineend>whole time. Only an<pause><lineend><CC03EA>idiot would have<lineend>missed me.<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I've been here the whole time.<lineend>Only an idiot would have missed<pause><lineend><CC03EA>me.<pause><lineend>|
 131078|
 <CC03EA><CC03FC=0004><string=011E><color=0001>Why, you...!!<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Portgus! Are you<lineend>here to help me?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Portgus! Are you here to help me?<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I'd have come in on<lineend>a white horse, but<pause><lineend><CC03EA>since we're at<lineend>sea...<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I'd have come in on a white horse,<lineend>but since we're at sea...<pause><lineend>|
 131081|
-<CC03EA><CC03FC=0004><string=011E><color=0001>Enough!!!<pause><lineend><CC03EA>Listen up, men!! I<lineend>want you to cut<lineend>them to pieces and<pause><lineend><CC03EA>feed them to the<lineend>sharks!!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>Enough!!!<pause><lineend><CC03EA>Listen up, men!! I want you to cut<lineend>them to pieces and feed them to<lineend>the sharks!!!<pause><lineend>|
 131082|
-<CC03EA><CC03FC=0004><string=011E><color=0001>Hello again, little<lineend>girl. You're<lineend>getting a new<pause><lineend><CC03EA>playmate today.<pause><lineend><CC03EA>The Pirate Captain<lineend>Bighook!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>Hello again, little girl. You're<lineend>getting a new playmate today.<pause><lineend><CC03EA>The Pirate Captain Bighook!<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Gradriel! Are you<lineend>all right?<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Gradriel! Are you all right?<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes, I'm OK.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0179><lineend><color=0001>The whole lot of<lineend>them took off.<pause><lineend><CC03EA>They've abandoned<lineend>their own ship!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>The whole lot of them took off.<lineend>They've abandoned their own ship!<pause><lineend>|
 196611|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What about the<lineend>others they had<pause><lineend><CC03EA>taken prisoner?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What about the others they had<lineend>taken prisoner?<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the<lineend>Friedfin and sent<pause><lineend><CC03EA>them home.<pause><lineend><CC03EA>They should headed<lineend>straight for<lineend>Leeland as we<pause><lineend><CC03EA>speak. On that<lineend>note, let's do the<lineend>same.<pause><lineend><CC03EA>While we're at it,<lineend>please, make<lineend>yourself at home in<pause><lineend><CC03EA>this great new ship<lineend>they gave us!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the Friedfin and<lineend>sent them home.<pause><lineend><CC03EA>They should headed straight for<lineend>Leeland as we speak. On that note,<lineend>let's do the same.<pause><lineend><CC03EA>While we're at it, please, make<lineend>yourself at home in this great new<lineend>ship they gave us!<pause><lineend>|
 196613|
-<CC03EA><color=0002><string=0000><lineend><color=0001>If you say so,<lineend>Captain!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>If you say so, Captain!<pause><lineend>|

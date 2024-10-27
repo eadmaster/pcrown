@@ -1,36 +1,36 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Leeland is a port<lineend>town.<pause><lineend><CC03EA>It has that<lineend>unmistakeable<lineend>atmosphere of mixed<pause><lineend><CC03EA>cultures.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Leeland is a port town.<pause><lineend><CC03EA>It has that unmistakeable<lineend>atmosphere of mixed cultures.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>We came here on a<lineend>honeymoon vacation,<pause><lineend><CC03EA>but the pirates are<lineend>ruining everything.<pause><lineend><CC03EA>I bring her all the<lineend>way to Leeland to<lineend>enjoy the ocean,<pause><lineend><CC03EA>and then look what<lineend>happens...<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>We came here on a honeymoon<lineend>vacation, but the pirates are<pause><lineend><CC03EA>ruining everything.<pause><lineend><CC03EA>I bring her all the way to Leeland<lineend>to enjoy the ocean, and then look<lineend>what happens...<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Even if there are<lineend>pirates around, I'm<pause><lineend><CC03EA>happy just to be<lineend>with my new<lineend>husband.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Even if there are pirates around,<lineend>I'm happy just to be with my new<pause><lineend><CC03EA>husband.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0067><lineend><color=0001>Thanks to those<lineend>rotten pirates, we<pause><lineend><CC03EA>have no customers<lineend>for our sightseeing<lineend>cruise.<pause><lineend><CC03EA>I'm telling you,<lineend>it's safe! It<lineend>doesn't go out far<pause><lineend><CC03EA>enough for the<lineend>pirates to attack<lineend>it!<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>Thanks to those rotten pirates, we<lineend>have no customers for our<pause><lineend><CC03EA>sightseeing cruise.<pause><lineend><CC03EA>I'm telling you, it's safe! It<lineend>doesn't go out far enough for the<lineend>pirates to attack it!<pause><lineend>|
 4|
-<CC03EA><CC03FC=0004><string=0177><color=0001>Portgus?<pause><lineend><CC03EA>That lousy pirate's<lineend>nothing but<lineend>trouble! Don't you<pause><lineend><CC03EA>think so, too?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0177><color=0001>Portgus?<pause><lineend><CC03EA>That lousy pirate's nothing but<lineend>trouble! Don't you think so, too?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Portgus even<lineend>attacked the cargo<pause><lineend><CC03EA>ship that left the<lineend>port the other day.<pause><lineend><CC03EA>What gives? He<lineend>never went after<lineend>ordinary cargo<pause><lineend><CC03EA>ships in the past.<pause><lineend><CC03EA>Portgus...He used<lineend>to only rob crooked<lineend>officials and<pause><lineend><CC03EA>merchants. He was a<lineend>heck of a guy!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Portgus even attacked the cargo<lineend>ship that left the port the other<pause><lineend><CC03EA>day.<pause><lineend><CC03EA>What gives? He never went after<lineend>ordinary cargo ships in the past.<pause><lineend><CC03EA>Portgus...He used to only rob<lineend>crooked officials and merchants.<lineend>He was a heck of a guy!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>My Father was on<lineend>one of the ships<pause><lineend><CC03EA>that the pirates<lineend>attacked.<pause><lineend><CC03EA>He made it back in<lineend>one piece, but he<lineend>was covered in<pause><lineend><CC03EA>terrible burns.<pause><lineend><CC03EA>I just hope they<lineend>catch those rotten<lineend>pirates!<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>My Father was on one of the ships<lineend>that the pirates attacked.<pause><lineend><CC03EA>He made it back in one piece, but<lineend>he was covered in terrible burns.<pause><lineend><CC03EA>I just hope they catch those<lineend>rotten pirates!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in<lineend>the middle of town<pause><lineend><CC03EA>that nobody's lived<lineend>in for 20 years.<pause><lineend><CC03EA>Apparently the<lineend>place is overrun<lineend>with ghosts, and<pause><lineend><CC03EA>nobody goes in for<lineend>fear of losing<lineend>their lives.<pause><lineend><CC03EA>It's actually a<lineend>historic mansion,<lineend>though. It must be<pause><lineend><CC03EA>worth a fortune!<pause><lineend><CC03EA>There's just nobody<lineend>who wants to buy<lineend>it.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of<lineend>town that nobody's lived in for 20<pause><lineend><CC03EA>years.<pause><lineend><CC03EA>Apparently the place is overrun<lineend>with ghosts, and nobody goes in<lineend>for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion,<lineend>though. It must be worth a<lineend>fortune!<pause><lineend><CC03EA>There's just nobody who wants to<lineend>buy it.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000F><lineend><color=0001>I heard Portgus has<lineend>a big hook on his<pause><lineend><CC03EA>left hand that he<lineend>attacks with!<pause><lineend><CC03EA>Quite a few sailors<lineend>have lost their<lineend>lives to that hook.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>I heard Portgus has a big hook on<lineend>his left hand that he attacks<pause><lineend><CC03EA>with!<pause><lineend><CC03EA>Quite a few sailors have lost<lineend>their lives to that hook.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=003D><lineend><color=0001>People are so<lineend>scared of the<pause><lineend><CC03EA>pirates that hardly<lineend>anybody comes to<lineend>Leeland anymore.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>People are so scared of the<lineend>pirates that hardly anybody comes<pause><lineend><CC03EA>to Leeland anymore.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=001D><lineend><color=0001>I heard something<lineend>interesting from<pause><lineend><CC03EA>the sailors who<lineend>used to know<lineend>Portgus.<pause><lineend><CC03EA>They said he wasn't<lineend>the type to do<lineend>anything cowardly,<pause><lineend><CC03EA>ever.<pause><lineend><CC03EA>He was a "rob the<lineend>rich, give to the<lineend>poor" kind of<pause><lineend><CC03EA>pirate.<pause><lineend><CC03EA>What's gotten into<lineend>him lately? I was<lineend>actually rooting<pause><lineend><CC03EA>for him...You know,<lineend>just a little.<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>I heard something interesting from<lineend>the sailors who used to know<pause><lineend><CC03EA>Portgus.<pause><lineend><CC03EA>They said he wasn't the type to do<lineend>anything cowardly, ever.<pause><lineend><CC03EA>He was a "rob the rich, give to<lineend>the poor" kind of pirate.<pause><lineend><CC03EA>What's gotten into him lately? I<lineend>was actually rooting for him...You<lineend>know, just a little.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Oh, I'm sorry<lineend>Ma'am.<pause><lineend><CC03EA>We haven't gotten<lineend>any worthwhile<lineend>goods in ever since<pause><lineend><CC03EA>the pirates started<lineend>coming around.<pause><lineend><CC03EA>If you're still<lineend>interested, you're<lineend>welcome to see what<pause><lineend><CC03EA>we have.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Oh, I'm sorry Ma'am.<pause><lineend><CC03EA>We haven't gotten any worthwhile<lineend>goods in ever since the pirates<lineend>started coming around.<pause><lineend><CC03EA>If you're still interested, you're<lineend>welcome to see what we have.<pause><lineend>|
 12|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 13|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

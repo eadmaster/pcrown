@@ -1,10 +1,10 @@
 65536|
 <CC03EA><color=0002><string=00FF><lineend><color=0001>（未使用）<pause><lineend><CC03EA>（未使用）<pause><lineend>|
 65537|
-<CC03EA><CC03FC=0004><string=007D><color=0001>My lady! A man who<lineend>appears to be<lineend>Knight Captain<pause><lineend><CC03EA>Glowstar is up on<lineend>the third floor.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>My lady! A man who appears to be<lineend>Knight Captain Glowstar is up on<lineend>the third floor.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=007D><color=0001>He's leading the<lineend>monsters in an<lineend>attack on the<pause><lineend><CC03EA>Knight Guard!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>He's leading the monsters in an<lineend>attack on the Knight Guard!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>The Knight Captain?<lineend>After being gone<pause><lineend><CC03EA>for so long?<pause><lineend><CC03EA>Jestonai, I'm going<lineend>to go see for<lineend>myself.<pause><lineend>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The Knight Captain? After being<lineend>gone for so long?<pause><lineend><CC03EA>Jestonai, I'm going to go see for<lineend>myself.<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>（未使用）<pause><lineend>|

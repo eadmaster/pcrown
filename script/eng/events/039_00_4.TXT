@@ -1,38 +1,38 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Everyone's glad<lineend>that those sailors<pause><lineend><CC03EA>were innocent.<pause><lineend><CC03EA>Hearing that the<lineend>neighbors you<lineend>trusted are<pause><lineend><CC03EA>criminals will put<lineend>anyone in a bad<lineend>mood.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Everyone's glad that those sailors<lineend>were innocent.<pause><lineend><CC03EA>Hearing that the neighbors you<lineend>trusted are criminals will put<lineend>anyone in a bad mood.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0059><lineend><color=0001>I've traveled to<lineend>every corner of<pause><lineend><CC03EA>Valendia, but one<lineend>place was<lineend>absolutely the<pause><lineend><CC03EA>strangest of them<lineend>all...<pause><lineend><CC03EA>East of Cadho<lineend>Badho...<lineend><color=0003>The Frogger<lineend>Village!<pause><lineend><CC03EA><color=0001>I don't imagine too<lineend>many people have<lineend>been guest to a<pause><lineend><CC03EA>bunch of Froggers<lineend>before.<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I've traveled to every corner of<lineend>Valendia, but one place was<pause><lineend><CC03EA>absolutely the strangest of them<lineend>all...<pause><lineend><CC03EA>East of Cadho Badho...<lineend><color=0003>The Frogger Village!<pause><lineend><CC03EA><color=0001>I don't imagine too many people<lineend>have been guest to a bunch of<lineend>Froggers before.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho<lineend>Badho.<pause><lineend><CC03EA>That town is in a<lineend>lot of trouble<lineend>right now because<pause><lineend><CC03EA>of a group of<lineend>bandits called The<lineend>Donfans.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble<lineend>right now because of a group of<lineend>bandits called The Donfans.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I guess all the<lineend>bandits are gone<pause><lineend><CC03EA>from Cadho Badho...<pause><lineend><CC03EA>...but I'm having<lineend>too much fun here<lineend>to go home just<pause><lineend><CC03EA>yet!<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I guess all the bandits are gone<lineend>from Cadho Badho...<pause><lineend><CC03EA>...but I'm having too much fun<lineend>here to go home just yet!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place<lineend>north of the<pause><lineend><CC03EA>pirates hideout...<pause><lineend><CC03EA>It's as far north<lineend>as anyone has ever<lineend>dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's<lineend>a path into<lineend>paradise beyond its<pause><lineend><CC03EA>shores.<pause><lineend><CC03EA>But legend has it<lineend>that any ship which<lineend>gets too close to<pause><lineend><CC03EA>the island falls<lineend>under a curse.<pause><lineend><CC03EA>It's been years<lineend>since anyone has<lineend>even tried going<pause><lineend><CC03EA>there.<pause><lineend><CC03EA>After all, who<lineend>wants to die<lineend>halfway to<pause><lineend><CC03EA>paradise?<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the<lineend>pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has<lineend>ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into<lineend>paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship<lineend>which gets too close to the island<lineend>falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has<lineend>even tried going there.<pause><lineend><CC03EA>After all, who wants to die<lineend>halfway to paradise?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>The artist who<lineend>moved into the<pause><lineend><CC03EA>haunted mansion was<lineend>a monster!?<pause><lineend><CC03EA>To think, if I had<lineend>asked him for a<lineend>painting...<pause><lineend><CC03EA>...people would<lineend>have wound up<lineend>believing I was a<pause><lineend><CC03EA>criminal, too!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>The artist who moved into the<lineend>haunted mansion was a monster!?<pause><lineend><CC03EA>To think, if I had asked him for a<lineend>painting...<pause><lineend><CC03EA>...people would have wound up<lineend>believing I was a criminal, too!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>The one-legged<lineend>fellow who was in<pause><lineend><CC03EA>front of the item<lineend>shop disappeared.<pause><lineend><CC03EA>Part of me wishes I<lineend>had gone with him!<lineend>I mean, he was so<pause><lineend><CC03EA>good looking...<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The one-legged fellow who was in<lineend>front of the item shop<pause><lineend><CC03EA>disappeared.<pause><lineend><CC03EA>Part of me wishes I had gone with<lineend>him! I mean, he was so good<lineend>looking...<pause><lineend>|
 7|
-<CC03EA><color=0006><string=001C><lineend><color=0001>So the artist was a<lineend>monster all along?<pause><lineend><CC03EA>Well, I was<lineend>suspicious of him<lineend>ever since he<pause><lineend><CC03EA>bought the haunted<lineend>mansion.<pause><lineend><CC03EA>But I never once<lineend>thought he was<lineend>something other<pause><lineend><CC03EA>than a human!<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>So the artist was a monster all<lineend>along?<pause><lineend><CC03EA>Well, I was suspicious of him ever<lineend>since he bought the haunted<lineend>mansion.<pause><lineend><CC03EA>But I never once thought he was<lineend>something other than a human!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000F><lineend><color=0001>The other sailors<lineend>were awfully glad<pause><lineend><CC03EA>to hear that their<lineend>friends were<lineend>innocent.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>The other sailors were awfully<lineend>glad to hear that their friends<pause><lineend><CC03EA>were innocent.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=003D><lineend><color=0001>Oh hey, there were<lineend>some sailors<pause><lineend><CC03EA>looking for you.<pause><lineend><CC03EA>They told me to<lineend>tell you to go down<lineend>to the harbor if I<pause><lineend><CC03EA>saw you.<pause><lineend><CC03EA>I'd hurry if I were<lineend>you!<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Oh hey, there were some sailors<lineend>looking for you.<pause><lineend><CC03EA>They told me to tell you to go<lineend>down to the harbor if I saw you.<pause><lineend><CC03EA>I'd hurry if I were you!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=003D><lineend><color=0001>Ah! The ocean<lineend>breeze feels<pause><lineend><CC03EA>fantastic.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Ah! The ocean breeze feels<lineend>fantastic.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=001D><lineend><color=0001>The artist wasn't<lineend>even a human! It's<pause><lineend><CC03EA>incredible!<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The artist wasn't even a human!<lineend>It's incredible!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 14|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

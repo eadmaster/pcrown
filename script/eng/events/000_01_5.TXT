@@ -1,14 +1,14 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find<lineend>peace in heaven...<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find peace in<lineend>heaven...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>We came as soon as<lineend>we could.<pause><lineend><CC03EA>The situation in<lineend>Dorangora is under<lineend>control for now.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>We came as soon as we could.<pause><lineend><CC03EA>The situation in Dorangora is<lineend>under control for now.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007E><lineend><color=0001>Now that we're<lineend>back, those Demons<pause><lineend><CC03EA>are in for a rude<lineend>awakening!<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>Now that we're back, those Demons<lineend>are in for a rude awakening!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world<lineend>do you think they<pause><lineend><CC03EA>took Sidrael?<pause><lineend><CC03EA>Her poor physical<lineend>condition is<lineend>especially<pause><lineend><CC03EA>concerning.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world do you think<lineend>they took Sidrael?<pause><lineend><CC03EA>Her poor physical condition is<lineend>especially concerning.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0080><lineend><color=0001>I always keep my<lineend>items stocked, just<pause><lineend><CC03EA>in case the need<lineend>should arise.<pause><lineend><CC03EA>I'd hate to be<lineend>caught bare handed<lineend>in a fight with a<pause><lineend><CC03EA>huge monster.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>I always keep my items stocked,<lineend>just in case the need should<pause><lineend><CC03EA>arise.<pause><lineend><CC03EA>I'd hate to be caught bare handed<lineend>in a fight with a huge monster.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is<lineend>through here.<pause><lineend>|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0082><lineend><color=0001>It means a lot to<lineend>me to be in your<pause><lineend><CC03EA>Majesty's service.<lineend>I will work hard<lineend>every day!<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>It means a lot to me to be in your<lineend>Majesty's service. I will work<pause><lineend><CC03EA>hard every day!<pause><lineend>|

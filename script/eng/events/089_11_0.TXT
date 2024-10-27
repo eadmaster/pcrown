@@ -1,12 +1,12 @@
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I thought for sure<lineend>he'd be in this<pause><lineend><CC03EA>cave...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I thought for sure he'd be in this<lineend>cave...<pause><lineend>|
 65537|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>The Black Dragon!?<lineend><CC03ED=00010003000103FF><pause>|
 65538|
-<CC03EA><color=0003><string=0001><lineend><color=0001>At last, I've found<lineend>you.<pause><lineend><CC03EA>This is it, Black<lineend>Dragon. I'm not<lineend>leaving without the<pause><lineend><CC03EA>Sun Stone!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>At last, I've found you.<pause><lineend><CC03EA>This is it, Black Dragon. I'm not<lineend>leaving without the Sun Stone!<pause><lineend>|
 131072|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...This must be the<lineend>Sun Stone...<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...This must be the Sun Stone...<lineend><CC03ED=00010007000103FF><pause>|
 131073|
 <CC03EA><color=0002>Got the Sun Stone.<pause><lineend>|
 131074|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Let's head back,<lineend>Ignis.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Let's head back, Ignis.<pause><lineend>|

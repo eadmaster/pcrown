@@ -1,104 +1,104 @@
 0|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee!<lineend>Dinnertime!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Dinnertime!<pause><lineend>|
 1|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Augh! He got me!<lineend>I'm a goner!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Augh! He got me! I'm a goner!<pause><lineend>|
 2|
 <CC03FA=0002000000000000000003FF000A003C0000><CC03FB=0046>|
 3|
-<CC03EA><color=0002><string=0002><lineend><color=0001>What the heck are<lineend>you two doing?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>What the heck are you two doing?<pause><lineend>|
 4|
 <CC03FA=0149000200000000000003FF0014003C0000><CC03FA=00EC000300000000000003FF000A003C0000><CC03FB=003C>|
 5|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Ooh! A tasty<lineend>looking girl for<pause><lineend><CC03EA>desert!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Ooh! A tasty looking girl for<lineend>desert!<pause><lineend>|
 6|
-<CC03ED=0002000600010000><CC03ED=00020007000103FF><CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Would you get out<lineend>of the way already?<pause><lineend><CC03EA>I'm here on<lineend>business.<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020007000103FF><CC03ED=00020008000103FF>I'm looking for<lineend>someone named<lineend>Halloween, not you.<lineend><CC03ED=0002000900010000><pause>|
+<CC03ED=0002000600010000><CC03ED=00020007000103FF><CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Would you get out of the way<lineend>already? I'm here on business.<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020007000103FF><CC03ED=00020008000103FF>I'm looking for someone named<lineend>Halloween, not you.<lineend><CC03ED=0002000900010000><pause>|
 7|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Too<lineend>bad for you!<pause><lineend><CC03EA>Because I'm going<lineend>to eat you both of<lineend>you up right now!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Too bad for you!<pause><lineend><CC03EA>Because I'm going to eat you both<lineend>of you up right now!<pause><lineend>|
 8|
-<CC03EA><color=0002><string=0002><lineend><color=0001>What!?<pause><lineend><CC03EA>Give me a break. If<lineend>you're going to eat<lineend>someone, eat<pause><lineend><CC03EA>Gabriel!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>What!?<pause><lineend><CC03EA>Give me a break. If you're going<lineend>to eat someone, eat Gabriel!<pause><lineend>|
 9|
-<CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina! How<lineend>could you?!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina! How could you?!<pause><lineend>|
 10|
-<CC03EA><color=0005><string=0149><lineend><color=0001>How about I just<lineend>eat all of you?<pause><lineend><CC03EA>Gya ha ha!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>How about I just eat all of you?<pause><lineend><CC03EA>Gya ha ha!<pause><lineend>|
 11|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Forget it. Now out<lineend>of my way!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Forget it. Now out of my way!<pause><lineend>|
 12|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Nope. No-can-do.<lineend>I'm hungry, you<lineend>see.<pause><lineend><CC03EA>Nobody gets by<lineend>until I get a<lineend>snack. Why don't<pause><lineend><CC03EA>you bring me<lineend>something to eat!<pause><lineend><CC03EA>Hee hee hee!!<pause><lineend><CC03ED=01490002000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Nope. No-can-do.<lineend>I'm hungry, you see.<pause><lineend><CC03EA>Nobody gets by until I get a<lineend>snack. Why don't you bring me<lineend>something to eat!<pause><lineend><CC03EA>Hee hee hee!!<pause><lineend><CC03ED=01490002000103FF><CC03FB=0046><CC03F1=0149>|
 13|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You're one selfish<lineend>Poltergeist.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You're one selfish Poltergeist.<pause><lineend>|
 14|
-<CC03EA><color=0005><string=0149><lineend><color=0001>If you don't like<lineend>it, then I'll get<pause><lineend><CC03EA>started on this<lineend>juicy bit of<lineend>pumpkin here.<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>If you don't like it, then I'll<lineend>get started on this juicy bit of<pause><lineend><CC03EA>pumpkin here.<pause><lineend>|
 15|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, I told you, if<lineend>you're going to eat<pause><lineend><CC03EA>someone, eat<lineend>Gabriel!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, I told you, if you're going<lineend>to eat someone, eat Gabriel!<pause><lineend>|
 16|
 <CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina!<pause><lineend>|
 17|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Look, I'm kidding,<lineend>OK?<lineend>Lighten up.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Look, I'm kidding, OK?<lineend>Lighten up.<pause><lineend>|
 18|
-<CC03EA><color=0002><string=0002><lineend><color=0001>OK, so what should<lineend>I bring you?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>OK, so what should I bring you?<pause><lineend>|
 19|
-<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go,<lineend>Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish<lineend>and Grilled Meat!<pause><lineend><CC03EA>And an Elikshil<lineend>Fruit for desert,<lineend>too!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled<lineend>Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled<lineend>Meat!<pause><lineend><CC03EA>And an Elikshil Fruit for desert,<lineend>too!<pause><lineend>|
 20|
-<CC03EA><color=0002><string=0002><lineend><color=0001>That much!? I think<lineend>I know why you're<pause><lineend><CC03EA>so fat, Poulty.<pause><lineend><CC03EA>All right, fine.<lineend>I'll bring all the<lineend>stuff. Just don't<pause><lineend><CC03EA>go eating<lineend>Halloween!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>That much!? I think I know why<lineend>you're so fat, Poulty.<pause><lineend><CC03EA>All right, fine. I'll bring all<lineend>the stuff. Just don't go eating<lineend>Halloween!<pause><lineend>|
 21|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Uwee hee hee! Did<lineend>you bring<pause><lineend><CC03EA>everything?<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Uwee hee hee! Did you bring<lineend>everything?<pause><lineend>|
 22|
-<CC03EA><color=0002><string=0002><lineend><color=0001>That should do it.<lineend>Now give me back<pause><lineend><CC03EA>Halloween!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>That should do it. Now give me<lineend>back Halloween!<pause><lineend>|
 23|
-<CC03EA><color=0005><string=0149><lineend><color=0001>I don't know...A<lineend>pumpkin and a girl<pause><lineend><CC03EA>would make a great<lineend>breakfast...<pause><lineend><CC03EA>But a deal is a<lineend>deal.<pause><lineend><CC03EA>Catch you later!<lineend>Hee hee hee!!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I don't know...A pumpkin and a<lineend>girl would make a great<pause><lineend><CC03EA>breakfast...<pause><lineend><CC03EA>But a deal is a deal.<pause><lineend><CC03EA>Catch you later!<lineend>Hee hee hee!!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 24|
 <CC03F0=014900000001001E03FF00000000>|
 25|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Phew! I was<lineend>starting to get<pause><lineend><CC03EA>worried, you know.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Phew! I was starting to get<lineend>worried, you know.<pause><lineend>|
 26|
 <CC03F0=000200100000000503FF00000000>|
 27|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Lucky for us, he<lineend>didn't eat you!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Lucky for us, he didn't eat you!<pause><lineend>|
 28|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Thanks for getting<lineend>me out of there.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Thanks for getting me out of<lineend>there.<pause><lineend>|
 29|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Which reminds me...<pause><lineend><CC03EA>There's actually a<lineend>reason why I came<lineend>to see you.<pause><lineend><CC03EA>I'd like you to<lineend>sell me one of the<lineend>Power Plant Seeds<pause><lineend><CC03EA>from your shop.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Which reminds me...<pause><lineend><CC03EA>There's actually a reason why I<lineend>came to see you.<pause><lineend><CC03EA>I'd like you to sell me one of the<lineend>Power Plant Seeds from your shop.<pause><lineend>|
 30|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Tell you what, I'll<lineend>just give you one.<pause><lineend><CC03EA>This way, we're<lineend>even.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Tell you what, I'll just give you<lineend>one. This way, we're even.<pause><lineend>|
 31|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Really? That would<lineend>be great!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Really? That would be great!<pause><lineend>|
 32|
-<CC03EA><color=0002>Got a Power Plant<lineend>Seed!<pause><lineend>|
+<CC03EA><color=0002>Got a Power Plant Seed!<pause><lineend>|
 33|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You may not look<lineend>it, but I know that<pause><lineend><CC03EA>deep down, you're a<lineend>good ghost.<pause><lineend><CC03EA>Anyway, I think<lineend>we're done here.<lineend>See you later! And<pause><lineend><CC03EA>watch out for fat<lineend>hungry ghosts next<lineend>time!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You may not look it, but I know<lineend>that deep down, you're a good<pause><lineend><CC03EA>ghost.<pause><lineend><CC03EA>Anyway, I think we're done here.<lineend>See you later! And watch out for<lineend>fat hungry ghosts next time!<pause><lineend>|
 34|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room<lineend>for it!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
 35|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Here you go, a<lineend>Power Plant Seed.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Here you go, a Power Plant Seed.<pause><lineend>|
 36|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I'm going, I'm<lineend>going. Jeez.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'm going, I'm going. Jeez.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 37|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee, I<lineend>smell something<pause><lineend><CC03EA>good!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee, I smell something<lineend>good!<pause><lineend>|
 38|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Hurry up and bring<lineend>the Toast To Go!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hurry up and bring the Toast To<lineend>Go!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 39|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled<lineend>Corn this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Corn this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 40|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled<lineend>Fish this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Fish this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 41|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled<lineend>Meat this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Meat this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 42|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Elikshil<lineend>Fruit this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Elikshil Fruit this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 43|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>You lost your Power<lineend>Plant Seed?<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You lost your Power Plant Seed?<pause><lineend>|
 44|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Here we are!<lineend>Another Power Plant<pause><lineend><CC03EA>Seed!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Here we are! Another Power Plant<lineend>Seed!<pause><lineend>|
 45|
-<CC03EA><color=0002>Got a Power Plant<lineend>Seed!<pause><lineend>|
+<CC03EA><color=0002>Got a Power Plant Seed!<pause><lineend>|
 46|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>No kidding. Well,<lineend>don't worry, I've<pause><lineend><CC03EA>got some more.<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>No kidding. Well, don't worry,<lineend>I've got some more.<pause><lineend>|
 47|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Woo hoo! Thanks!<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 48|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I'll always have an<lineend>extra if you need<pause><lineend><CC03EA>it.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll always have an extra if you<lineend>need it.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 49|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room<lineend>for it!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
 50|
-<CC03EA><color=0002><string=0002><lineend><color=0001>See me after you've<lineend>gotten rid of<pause><lineend><CC03EA>something.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>See me after you've gotten rid of<lineend>something.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 51|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Go get me the food<lineend>you promised! And<pause><lineend><CC03EA>hurry it up!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Go get me the food you promised!<lineend>And hurry it up!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|

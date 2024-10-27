@@ -1,82 +1,82 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>There's a terrible<lineend>monster in the<pause><lineend><CC03EA>mines!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>There's a terrible monster in the<lineend>mines!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0092><lineend><color=0001>At this rate, our<lineend>days of mining Gems<pause><lineend><CC03EA>are over!<pause><lineend>|
+<CC03EA><color=0006><string=0092><lineend><color=0001>At this rate, our days of mining<lineend>Gems are over!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0093><lineend><color=0001>It's hard not to be<lineend>upset about this.<pause><lineend><CC03EA>But I know what'll<lineend>cheer me up:<lineend>digging!<pause><lineend>|
+<CC03EA><color=0006><string=0093><lineend><color=0001>It's hard not to be upset about<lineend>this. But I know what'll cheer me<pause><lineend><CC03EA>up: digging!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0094><lineend><color=0001>I wonder if it's<lineend>going to eat us<pause><lineend><CC03EA>all?<pause><lineend>|
+<CC03EA><color=0006><string=0094><lineend><color=0001>I wonder if it's going to eat us<lineend>all?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0095><lineend><color=0001>Leave it to Sleepy<lineend>to not let a crisis<pause><lineend><CC03EA>interfere with a<lineend>nap.<pause><lineend>|
+<CC03EA><color=0006><string=0095><lineend><color=0001>Leave it to Sleepy to not let a<lineend>crisis interfere with a nap.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is<lineend>on hold until that<pause><lineend><CC03EA>monster goes away.<pause><lineend><CC03EA>As the saying goes,<lineend>it's safety first.<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is on hold until<lineend>that monster goes away.<pause><lineend><CC03EA>As the saying goes, it's safety<lineend>first.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a<lineend>surprise!<pause><lineend><CC03EA>It's not every day<lineend>we see a cute<lineend>little human girl<pause><lineend><CC03EA>in a place like<lineend>this.<pause><lineend><CC03EA>I'd normally say to<lineend>stop by the<lineend>Truck-Chase and the<pause><lineend><CC03EA>Dwarf mine...<pause><lineend><CC03EA>...but you better<lineend>stay away for now,<lineend>or that terrible<pause><lineend><CC03EA>Spider will eat you<lineend>right up!<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute<lineend>little human girl in a place like<lineend>this.<pause><lineend><CC03EA>I'd normally say to stop by the<lineend>Truck-Chase and the Dwarf mine...<pause><lineend><CC03EA>...but you better stay away for<lineend>now, or that terrible Spider will<lineend>eat you right up!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0098><lineend><color=0001>The king says he'll<lineend>slay the spider<pause><lineend><CC03EA>himself.<pause><lineend><CC03EA>We're not about to<lineend>let him try<lineend>something so<pause><lineend><CC03EA>dangerous, though.<pause><lineend>|
+<CC03EA><color=0006><string=0098><lineend><color=0001>The king says he'll slay the<lineend>spider himself.<pause><lineend><CC03EA>We're not about to let him try<lineend>something so dangerous, though.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0099><lineend><color=0001>Nobody our size<lineend>even has a chance<pause><lineend><CC03EA>against something<lineend>that big.<pause><lineend>|
+<CC03EA><color=0006><string=0099><lineend><color=0001>Nobody our size even has a chance<lineend>against something that big.<pause><lineend>|
 9|
-<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing<lineend>in a place like<lineend>this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place<lineend>like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
 10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
 11|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, that's right.<lineend>How did you know my<pause><lineend><CC03EA>name?<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, that's right. How did you<lineend>know my name?<pause><lineend>|
 12|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Your mistress back<lineend>in Cadho Badho<pause><lineend><CC03EA>mentioned you.<pause><lineend><CC03EA>She asked me to<lineend>tell you to come<lineend>home right away if<pause><lineend><CC03EA>I ever ran across<lineend>you in my travels.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Your mistress back in Cadho Badho<lineend>mentioned you.<pause><lineend><CC03EA>She asked me to tell you to come<lineend>home right away if I ever ran<lineend>across you in my travels.<pause><lineend>|
 13|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>She did? Oh! Well,<lineend>thank you for<pause><lineend><CC03EA>telling me.<pause><lineend><CC03EA>I can't believe<lineend>she'd ask someone<lineend>she doesn't even<pause><lineend><CC03EA>know to do such a<lineend>thing, though.<pause><lineend><CC03EA>She really is as<lineend>naive as they say.<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>She did? Oh! Well, thank you for<lineend>telling me.<pause><lineend><CC03EA>I can't believe she'd ask someone<lineend>she doesn't even know to do such a<lineend>thing, though.<pause><lineend><CC03EA>She really is as naive as they<lineend>say.<pause><lineend>|
 14|
-<CC03EA><color=0002><string=0000><lineend><color=0001>At least now you<lineend>have the message.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>At least now you have the message.<pause><lineend>|
 15|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, of course.<lineend>I'll hurry back.<pause><lineend><CC03EA>Please drop by<lineend>Cadho Badho again<lineend>sometime. I'm sure<pause><lineend><CC03EA>my mistress will<lineend>want to thank you.<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Yes, of course.<lineend>I'll hurry back.<pause><lineend><CC03EA>Please drop by Cadho Badho again<lineend>sometime. I'm sure my mistress<lineend>will want to thank you.<pause><lineend>|
 16|
 <CC03F0=01C5000B0001001E03FF00000000>|
 17|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
 18|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Hmm...<pause><lineend><CC03EA>Digging is what we<lineend>were born to do.<lineend>Without it, we<pause><lineend><CC03EA>Dwarves have no<lineend>purpose in life.<pause><lineend><CC03EA>If only my people<lineend>wouldn't stop me,<lineend>I'd go slay that<pause><lineend><CC03EA>awful creature<lineend>right now!<pause><lineend><CC03EA>Is this how it's<lineend>all going to end?<lineend>There must be<pause><lineend><CC03EA>another way...<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Hmm...<pause><lineend><CC03EA>Digging is what we were born to<lineend>do. Without it, we Dwarves have no<lineend>purpose in life.<pause><lineend><CC03EA>If only my people wouldn't stop<lineend>me, I'd go slay that awful<lineend>creature right now!<pause><lineend><CC03EA>Is this how it's all going to end?<lineend>There must be another way...<pause><lineend>|
 19|
-<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>At times like this,<lineend>it's best make like<pause><lineend><CC03EA>a rock and just be<lineend>still.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>At times like this, it's best make<lineend>like a rock and just be still.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's<lineend>Shop.<pause><lineend><CC03EA>What can<lineend>I...ZZZ...do for<lineend>you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 21|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 22|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your<lineend>Gems into Magic<pause><lineend><CC03EA>Stones.<pause><lineend><CC03EA>*Yawn*...Please<lineend>select which Gem<lineend>you'd like changed.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic<lineend>Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem<lineend>you'd like changed.<pause><lineend>|
 24|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*...That won't<lineend>turn into a Magic<pause><lineend><CC03EA>Stone.<pause><lineend><CC03EA>Come see me after<lineend>you've found some<lineend>Gems...ZZZ......ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*...That won't turn into a<lineend>Magic Stone.<pause><lineend><CC03EA>Come see me after you've found<lineend>some Gems...ZZZ......ZZZ...<pause><lineend>|
 25|
-<CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't<lineend>it?<lineend>*Yawn*<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't it?<lineend>*Yawn*<pause><lineend>|
 26|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 27|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh! Oh, you<lineend>don't have money,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh! Oh, you don't have<lineend>money, Ma'am.<pause><lineend>|
 28|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh!<lineend>Ah. Here you are!<pause><lineend>|
 29|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>That's not enough,<lineend>Miss.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>That's not enough, Miss.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is<lineend>already full.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Ma'am, your bag is already full.<pause><lineend>|
 31|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Hey! There aren't<lineend>any items in your<lineend>bag!<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<pause><lineend><CC03EA>Hey! There aren't any items in<lineend>your bag!<pause><lineend>|
 32|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 33|
 <CC03EA><CC03FC=0004><string=0195><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 34|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Oh! You're a bit<lineend>short the price.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Oh! You're a bit short the price.<lineend>Come back anytime.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 36|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 37|
-<CC03EA><color=0006><string=0195><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=0195><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 38|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 39|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 40|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

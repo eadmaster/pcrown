@@ -1,12 +1,12 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find<lineend>peace in heaven...<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May his soul find peace in<lineend>heaven...<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have<lineend>perished, but he<pause><lineend><CC03EA>upheld the spirit<lineend>of a true Knight to<lineend>the end.<pause><lineend><CC03EA>We Knights who<lineend>survived, as well<lineend>as his son, will<pause><lineend><CC03EA>carry on this<lineend>spirit in our<lineend>hearts.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have perished, but he<lineend>upheld the spirit of a true Knight<pause><lineend><CC03EA>to the end.<pause><lineend><CC03EA>We Knights who survived, as well<lineend>as his son, will carry on this<lineend>spirit in our hearts.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world<lineend>do you think they<pause><lineend><CC03EA>took Sidrael?<pause><lineend><CC03EA>Her poor physical<lineend>condition is<lineend>especially<pause><lineend><CC03EA>concerning.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>Where in the world do you think<lineend>they took Sidrael?<pause><lineend><CC03EA>Her poor physical condition is<lineend>especially concerning.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons<lineend>attack, they'll<pause><lineend><CC03EA>probably come<lineend>through the tower<lineend>in the Black<pause><lineend><CC03EA>Forest.<pause><lineend><CC03EA>The gate in that<lineend>tower is one of a<lineend>few that connects<pause><lineend><CC03EA>our world and the<lineend>Demon Realm.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>If the Demons attack, they'll<lineend>probably come through the tower in<pause><lineend><CC03EA>the Black Forest.<pause><lineend><CC03EA>The gate in that tower is one of a<lineend>few that connects our world and<lineend>the Demon Realm.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is<lineend>through here.<pause><lineend>|
+<CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come,<lineend>they will never<pause><lineend><CC03EA>break us.<pause><lineend><CC03EA>Not as long as<lineend>Queen Gradriel is<lineend>by our side!<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>Whatever may come, they will never<lineend>break us.<pause><lineend><CC03EA>Not as long as Queen Gradriel is<lineend>by our side!<pause><lineend>|

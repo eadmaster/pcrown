@@ -1,48 +1,48 @@
 65536|
 <CC03EA><color=0004><string=0107><lineend><color=0001><CC03ED=0107001F000103FF>Edward!!<lineend><CC03ED=0107001E000103FF><pause>|
 65537|
-<CC03EA><CC03FC=0004><string=0157>Ha ha ha! It's no<lineend>use!<pause><lineend><CC03EA>He's busy running<lineend>around with the<lineend>doppelganger now!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>Ha ha ha! It's no use!<pause><lineend><CC03EA>He's busy running around with the<lineend>doppelganger now!<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=0157>You...You're<lineend>alive!?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>You...You're alive!?<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Did you think I'd<lineend>go down that<pause><lineend><CC03EA>easily?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Did you think I'd go down that<lineend>easily?<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=0157>I guess it's up to<lineend>me to finish you<lineend>off, then!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>I guess it's up to me to finish<lineend>you off, then!!<pause><lineend>|
 131072|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry, this<lineend>won't take long.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry, this won't take long.<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=0157>No!! Don't hurt<lineend>me!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>No!! Don't hurt me!!<pause><lineend>|
 131074|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Maybe you'll stay<lineend>away this time?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Maybe you'll stay away this time?<pause><lineend>|
 131075|
 <CC03EA><CC03FC=0004><string=0157>I will! I will!<lineend>Please, let me go!<pause><lineend>|
 131076|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Get lost.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Edward, are you<lineend>hurt?<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Edward, are you hurt?<pause><lineend>|
 131078|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I'm fine.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I owe you an<lineend>apology, though. I<lineend>told you I would<pause><lineend><CC03EA>protect you, but I<lineend>left you alone.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I'm fine.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I owe you an apology, though. I<lineend>told you I would protect you, but<lineend>I left you alone.<lineend><CC03ED=00010003000103FF><pause>|
 131079|
-<CC03EA><color=0004><string=0107><lineend><color=0001>You didn't let me<lineend>down, though,<pause><lineend><CC03EA>Edward.<pause><lineend><CC03EA>You protected me<lineend>exactly as you said<lineend>you would.<pause><lineend><CC03EA>Believe me, you<lineend>have nothing to<lineend>blame yourself for.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>You didn't let me down, though,<lineend>Edward.<pause><lineend><CC03EA>You protected me exactly as you<lineend>said you would.<pause><lineend><CC03EA>Believe me, you have nothing to<lineend>blame yourself for.<pause><lineend>|
 131080|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Thank you.<lineend><CC03ED=00010003000103FF><pause>|
 131081|
-<CC03EA><color=0004><string=017C><lineend><color=0001>Is everyone all<lineend>right?<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>Is everyone all right?<pause><lineend>|
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=017C><lineend><color=0001>The people behind<lineend>the awful rumors<pause><lineend><CC03EA>are gone now.<pause><lineend><CC03EA>Everything is<lineend>turning out fine.<lineend>The people in the<pause><lineend><CC03EA>city are learning<lineend>the truth as we<lineend>speak.<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>The people behind the awful rumors<lineend>are gone now.<pause><lineend><CC03EA>Everything is turning out fine.<lineend>The people in the city are<lineend>learning the truth as we speak.<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=0107><lineend><color=0001>I'm sorry we put<lineend>you through so much<pause><lineend><CC03EA>trouble, Gradriel.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I'm sorry we put you through so<lineend>much trouble, Gradriel.<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=017C><lineend><color=0001>From now on, I'm<lineend>sure you can get<pause><lineend><CC03EA>along with the<lineend>townspeople.<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>From now on, I'm sure you can get<lineend>along with the townspeople.<pause><lineend>|
 131086|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you for<lineend>everything.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you for everything.<pause><lineend>|
 131087|
-<CC03EA><color=0004><string=0107><lineend><color=0001>I wish you the best<lineend>of luck in your<pause><lineend><CC03EA>travels.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>I wish you the best of luck in<lineend>your travels.<pause><lineend>|
 131088|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Well, Gradriel,<lineend>this is goodbye.<pause><lineend><CC03EA>I'm going to resume<lineend>my search for the<lineend>Black Dragon.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Well, Gradriel, this is goodbye.<lineend>I'm going to resume my search for<pause><lineend><CC03EA>the Black Dragon.<pause><lineend>|
 131089|
-<CC03EA><color=0004><string=017C><lineend><color=0001>Will I ever see you<lineend>again, Edward?<pause><lineend>|
+<CC03EA><color=0004><string=017C><lineend><color=0001>Will I ever see you again, Edward?<pause><lineend>|
 131090|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Let's go, Ignis.<pause><lineend>|

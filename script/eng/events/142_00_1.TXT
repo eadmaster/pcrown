@@ -1,35 +1,35 @@
 0|
-<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the<lineend>perfect place for<pause><lineend><CC03EA>doing business.<pause><lineend><CC03EA>Goods come in from<lineend>all over the<lineend>kingdom, along with<pause><lineend><CC03EA>people who want to<lineend>buy them.<pause><lineend><CC03EA>...These days,<lineend>though, we're<lineend>getting fewer and<pause><lineend><CC03EA>fewer customers.<pause><lineend><CC03EA>The Demons must be<lineend>scaring everybody<lineend>off.<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place<lineend>for doing business.<pause><lineend><CC03EA>Goods come in from all over the<lineend>kingdom, along with people who<lineend>want to buy them.<pause><lineend><CC03EA>...These days, though, we're<lineend>getting fewer and fewer customers.<pause><lineend><CC03EA>The Demons must be scaring<lineend>everybody off.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>It's still safe<lineend>here.<pause><lineend><CC03EA>Nobody knows when<lineend>the Demon Horde<lineend>might attack,<pause><lineend><CC03EA>though.<pause><lineend><CC03EA>Our job is to be<lineend>prepared at all<lineend>times.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>It's still safe here.<pause><lineend><CC03EA>Nobody knows when the Demon Horde<lineend>might attack, though.<pause><lineend><CC03EA>Our job is to be prepared at all<lineend>times.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0031><lineend><color=0001>I'd give anything<lineend>to travel outside<pause><lineend><CC03EA>this town even just<lineend>once.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>I'd give anything to travel<lineend>outside this town even just once.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0020><lineend><color=0001>If you go north of<lineend>Cadho Badho, you'll<pause><lineend><CC03EA>find the village of<lineend>Knelt.<pause><lineend><CC03EA>Monsters sometimes<lineend>attack people on<lineend>the path, though,<pause><lineend><CC03EA>so it isn't the<lineend>safest way to go.<pause><lineend>|
+<CC03EA><color=0006><string=0020><lineend><color=0001>If you go north of Cadho Badho,<lineend>you'll find the village of Knelt.<pause><lineend><CC03EA>Monsters sometimes attack people<lineend>on the path, though, so it isn't<lineend>the safest way to go.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0059><lineend><color=0001>Excuse me, good<lineend>Sir!<lineend>Might I interest<lineend>you in a fine<pause><lineend><CC03EA>quality bag?<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Excuse me, good Sir!<lineend>Might I interest you in a fine<lineend>quality bag?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0059><lineend><color=0001>I'm all out of<lineend>bags, I tell you!<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'm all out of bags, I tell you!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0059><lineend><color=0001>I'll give you one<lineend>for only 1000G!<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I'll give you one for only 1000G!<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=0059><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
 8|
-<CC03EA><color=0006><string=0059><lineend><color=0001>Anything you say.<lineend>Just let me know if<pause><lineend><CC03EA>you change your<lineend>mind?<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>Anything you say. Just let me know<lineend>if you change your mind?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0059><lineend><color=0001>You don't have<lineend>enough, Sir.<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>You don't have enough, Sir.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0059><lineend><color=0001>Thank you kindly!<pause><lineend>|
 11|
-<CC03EA><color=0002>Got one more bag!<lineend>Now you can carry<lineend>more items!<pause><lineend>|
+<CC03EA><color=0002>Got one more bag! Now you can<lineend>carry more items!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0024><lineend><color=0001>Yes Sir, quite a<lineend>lot of merchants<pause><lineend><CC03EA>come to do business<lineend>in this town.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>Yes Sir, quite a lot of merchants<lineend>come to do business in this town.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and<lineend>Spirit Grass make<pause><lineend><CC03EA>the prettiest<lineend>flowers, don't<lineend>they?<pause><lineend><CC03EA>When you stand in<lineend>front of them, it's<lineend>like your body<pause><lineend><CC03EA>magically feels<lineend>better.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Spirit Grass<lineend>make the prettiest flowers, don't<pause><lineend><CC03EA>they?<pause><lineend><CC03EA>When you stand in front of them,<lineend>it's like your body magically<lineend>feels better.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in<lineend>the pretty clothes<pause><lineend><CC03EA>in front of the<lineend>item shop, right?<pause><lineend><CC03EA>She's the daughter<lineend>of the Merchants'<lineend>Leader.<pause><lineend><CC03EA>She's been spoiled<lineend>all her life, so<lineend>she's pretty naive.<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty<lineend>clothes in front of the item shop,<pause><lineend><CC03EA>right?<pause><lineend><CC03EA>She's the daughter of the<lineend>Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life,<lineend>so she's pretty naive.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way<lineend>from Lowgrove to<pause><lineend><CC03EA>sell this goat...<pause><lineend><CC03EA>Now the stupid<lineend>thing refuses to<lineend>budge!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove<lineend>to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to<lineend>budge!<pause><lineend>|
 16|
 <CC03ED=0004000200010000><CC03FB=0050>|
 17|
@@ -37,46 +37,46 @@
 18|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Come on already!!<pause><lineend><CC03FA=0004000800010000000003FF000D00820000>|
 19|
-<CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full<lineend>of mysteries...<pause><lineend><CC03EA>For example, I<lineend>heard there's a<lineend>shop here that<pause><lineend><CC03EA>sells really rare<lineend>things.<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full of<lineend>mysteries...<pause><lineend><CC03EA>For example, I heard there's a<lineend>shop here that sells really rare<lineend>things.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this<lineend>building!<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an<lineend>enemy while wearing<pause><lineend><CC03EA>a Goldsmith's Ring,<lineend>he'll drop some<lineend>gold coins.<pause><lineend><CC03EA>My uncle actually<lineend>made himself rich<lineend>with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while<lineend>wearing a Goldsmith's Ring, he'll<pause><lineend><CC03EA>drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself<lineend>rich with one of those.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at<lineend>the secret<pause><lineend><CC03EA>marketplace!<pause><lineend><CC03EA>That's a secret,<lineend>though.<lineend>Don't tell anybody!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret<lineend>marketplace!<pause><lineend><CC03EA>That's a secret, though.<lineend>Don't tell anybody!<pause><lineend>|
 23|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 24|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody<lineend>gets to meet the<pause><lineend><CC03EA>Merchants' Leader,<lineend>you know.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Not just anybody gets to meet the<lineend>Merchants' Leader, you know.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 26|
 <CC03EA><CC03FC=0004><string=01A6><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 27|
 <CC03EA><color=0006><string=01A6><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 28|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you<lineend>don't have enough<pause><lineend><CC03EA>money, Sir.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid you don't have enough<lineend>money, Sir.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, it looks like<lineend>you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, it looks like you don't have<lineend>space to carry anything.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, you don't have<lineend>anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>Sir, you don't have anything to<lineend>sell!<pause><lineend>|
 31|
-<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A6><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 32|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from<pause><lineend><CC03EA>your travels here<lineend>at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from<lineend>your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 33|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 34|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 36|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 37|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 38|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 39|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 40|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

@@ -1,88 +1,88 @@
 0|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Welcome to<lineend>Lowgrove!<pause><lineend><CC03EA>Feel free to say<lineend>hello to any cute<lineend>little goats you<pause><lineend><CC03EA>see wandering<lineend>around.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Welcome to Lowgrove!<pause><lineend><CC03EA>Feel free to say hello to any cute<lineend>little goats you see wandering<lineend>around.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh<lineend>Milk?<pause><lineend><CC03EA>Just head out to<lineend>the barn. They'll<lineend>sell you some<pause><lineend><CC03EA>there.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh Milk?<pause><lineend><CC03EA>Just head out to the barn. They'll<lineend>sell you some there.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>My little sister is<lineend>the one who sells<pause><lineend><CC03EA>the milk.<pause><lineend><CC03EA>I saw her heading<lineend>out of the village<lineend>a minute ago. I<pause><lineend><CC03EA>wonder if she's all<lineend>right?<pause><lineend><CC03EA>She was going<lineend>toward the <color=0002>Forest of<lineend>Bewilderment,<color=0001> but I can't<lineend>imagine she'd have<lineend>gone inside...<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>My little sister is the one who<lineend>sells the milk.<pause><lineend><CC03EA>I saw her heading out of the<lineend>village a minute ago. I wonder if<lineend>she's all right?<pause><lineend><CC03EA>She was going toward the <color=0002>Forest of Bewilderment,<color=0001> but I can't imagine she'd have<lineend>gone inside...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Would you care to<lineend>buy some Fresh<pause><lineend><CC03EA>Milk?<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Would you care to buy some Fresh<lineend>Milk?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that<lineend>Witch Canes are<pause><lineend><CC03EA>surprisingly<lineend>useful.<pause><lineend><CC03EA>Apparently, you can<lineend>use them to change<lineend>weaker monsters<pause><lineend><CC03EA>into little<lineend>animals.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Canes are<lineend>surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to<lineend>change weaker monsters into little<lineend>animals.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Oh look! A little<lineend>witch!<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Oh look! A little witch!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=001C><lineend><color=0001>One big problem is<lineend>that the goats love<pause><lineend><CC03EA>the grass that<lineend>grows in the Forest<lineend>of Bewilderment.<pause><lineend><CC03EA>We have to be extra<lineend>careful to keep<lineend>them away from<pause><lineend><CC03EA>there.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>One big problem is that the goats<lineend>love the grass that grows in the<pause><lineend><CC03EA>Forest of Bewilderment.<pause><lineend><CC03EA>We have to be extra careful to<lineend>keep them away from there.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Best of luck in<lineend>your travels,<pause><lineend><CC03EA>dearie!<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Best of luck in your travels,<lineend>dearie!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The milk in<lineend>Lowgrove is the<pause><lineend><CC03EA>best.<pause><lineend><CC03EA>That goes for the<lineend>butter and cheese,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The milk in Lowgrove is the best.<pause><lineend><CC03EA>That goes for the butter and<lineend>cheese, too!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0028><lineend><color=0005>The forest outside<lineend>the village<color=0001> is called the <color=0002>Forest of<lineend>Bewilderment.<color=0001><pause><lineend><CC03EA>There's a monster<lineend>deep within it that<lineend>uses illusions to<pause><lineend><CC03EA>make people lose<lineend>their way.<pause><lineend><CC03EA>Once I went into it<lineend>by accident, and I<lineend>barely made it back<pause><lineend><CC03EA>out.<pause><lineend><CC03EA>Of course, the<lineend>Unicorn's forest to<lineend>the east is<pause><lineend><CC03EA>completely<lineend>different.<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0005>The forest outside the village<color=0001> is called the <color=0002>Forest of Bewilderment.<color=0001><pause><lineend><CC03EA>There's a monster deep within it<lineend>that uses illusions to make people<lineend>lose their way.<pause><lineend><CC03EA>Once I went into it by accident,<lineend>and I barely made it back out.<pause><lineend><CC03EA>Of course, the Unicorn's forest to<lineend>the east is completely different.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0028><lineend><color=0001>If the monster is<lineend>gone, maybe we can<pause><lineend><CC03EA>start going into<lineend>that forest?<pause><lineend><CC03EA>There's nothing<lineend>"bewildering" about<lineend>it anymore, after<pause><lineend><CC03EA>all.<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>If the monster is gone, maybe we<lineend>can start going into that forest?<pause><lineend><CC03EA>There's nothing "bewildering"<lineend>about it anymore, after all.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Aren't they just<lineend>great?<lineend>They're mine, too!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Aren't they just great?<lineend>They're mine, too!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0023><lineend><color=0001>Thanks for your<lineend>help!<pause><lineend><CC03EA>My big sister wants<lineend>to thank you, too.<lineend>She said to come by<pause><lineend><CC03EA>the barn.<pause><lineend>|
+<CC03EA><color=0006><string=0023><lineend><color=0001>Thanks for your help!<pause><lineend><CC03EA>My big sister wants to thank you,<lineend>too. She said to come by the barn.<pause><lineend>|
 13|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hi! I'll take some<lineend>fresh goat's milk,<pause><lineend><CC03EA>please.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hi! I'll take some fresh goat's<lineend>milk, please.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0027><lineend><color=0001>I'm sorry, but I<lineend>can't right now.<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>I'm sorry, but I can't right now.<pause><lineend>|
 15|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend><CC03EA>Why not? Oh, I get<lineend>it. It's because<lineend>I'm a witch, isn't<pause><lineend><CC03EA>it?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend><CC03EA>Why not? Oh, I get it. It's<lineend>because I'm a witch, isn't it?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0027><lineend><color=0001>No no!<pause><lineend><CC03EA>It's because my<lineend>little sister took<lineend>the goats out on a<pause><lineend><CC03EA>walk and hasn't<lineend>come back.<pause><lineend><CC03EA>She should be back<lineend>any minute now...<pause><lineend><CC03EA>Listen, just stick<lineend>around, and I'll<lineend>sell you you some<pause><lineend><CC03EA>cheap the moment<lineend>they get back.<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>No no!<pause><lineend><CC03EA>It's because my little sister took<lineend>the goats out on a walk and hasn't<lineend>come back.<pause><lineend><CC03EA>She should be back any minute<lineend>now...<pause><lineend><CC03EA>Listen, just stick around, and<lineend>I'll sell you you some cheap the<lineend>moment they get back.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=0027><lineend><color=0001>It's getting late.<lineend>Where is she?<pause><lineend>|
 18|
-<CC03EA><color=0006><string=0027><lineend><color=0001>You're the one who<lineend>saved my little<pause><lineend><CC03EA>sister, right?<lineend>Thank you!<pause><lineend><CC03EA>It's not much, but<lineend>please take this<lineend>Fresh Milk with<pause><lineend><CC03EA>you.<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>You're the one who saved my little<lineend>sister, right? Thank you!<pause><lineend><CC03EA>It's not much, but please take<lineend>this Fresh Milk with you.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0027><lineend><color=0001>Have a fresh one.<lineend>The taste is<pause><lineend><CC03EA>amazing!<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>Have a fresh one. The taste is<lineend>amazing!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=0027><lineend><color=0001>I don't think you<lineend>can fit any more in<pause><lineend><CC03EA>your bag. Tell me<lineend>when you've got<lineend>some space.<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>I don't think you can fit any more<lineend>in your bag. Tell me when you've<pause><lineend><CC03EA>got some space.<pause><lineend>|
 21|
 <CC03EA><color=0006><string=0027><lineend><color=0001>お礼に好きなだけ<lineend>ヤギのミルクをさしあげるわ！<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 24|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 26|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 28|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 29|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 30|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 31|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Fresh bread! Come<lineend>on and get it while<pause><lineend><CC03EA>it's hot! You<lineend>there, what can I<lineend>get you?<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Fresh bread! Come on and get it<lineend>while it's hot! You there, what<pause><lineend><CC03EA>can I get you?<pause><lineend>|
 32|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 33|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to<lineend>visit us anytime<pause><lineend><CC03EA>you're passing<lineend>through!<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Don't forget to visit us anytime<lineend>you're passing through!<pause><lineend>|
 34|
-<CC03EA><CC03FC=0004><string=01AF><color=0001>Our Local Delicacy<lineend>is Toast To Go made<lineend>with freshly laid<pause><lineend><CC03EA>Dodo Eggs.<pause><lineend><CC03EA>We use nutritious<lineend>bread with a rich<lineend>herbal fragrance.<pause><lineend><CC03EA>Take one bite, and<lineend>you'll be sighing<lineend>with pleasure!<pause><lineend><CC03EA>We add a dash of<lineend>salt and pepper<lineend>that goes perfectly<pause><lineend><CC03EA>with the<lineend>soft-boiled egg.<pause><lineend><CC03EA>The price is 40G.<lineend>Will you be taking<lineend>one?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AF><color=0001>Our Local Delicacy is Toast To Go<lineend>made with freshly laid Dodo Eggs.<pause><lineend><CC03EA>We use nutritious bread with a<lineend>rich herbal fragrance.<pause><lineend><CC03EA>Take one bite, and you'll be<lineend>sighing with pleasure!<pause><lineend><CC03EA>We add a dash of salt and pepper<lineend>that goes perfectly with the<lineend>soft-boiled egg.<pause><lineend><CC03EA>The price is 40G. Will you be<lineend>taking one?<pause><lineend>|
 35|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 36|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't<lineend>have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
 37|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>You can't carry<lineend>anymore. Please<pause><lineend><CC03EA>free up some space.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>You can't carry anymore. Please<lineend>free up some space.<pause><lineend>|
 38|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while<lineend>it's hot!<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while it's hot!<pause><lineend>|
 39|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill<lineend>something for you.<pause><lineend><CC03EA>Please select a<lineend>Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for<lineend>you. Please select a Food to use.<pause><lineend>|
 40|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't<lineend>cook for you if you<pause><lineend><CC03EA>don't have any<lineend>Foods.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if<lineend>you don't have any Foods.<pause><lineend>|
 41|
-<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G.<lineend>Will that be all<lineend>right?<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all<lineend>right?<pause><lineend>|
 42|
 <CC03EA><CC03FC=0004><string=01AF><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 43|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't<lineend>have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|

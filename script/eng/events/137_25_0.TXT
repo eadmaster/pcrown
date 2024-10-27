@@ -1,18 +1,18 @@
 0|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Hee hee hee!<lineend>Welcome, human!<pause><lineend><CC03EA>Have yourself a<lineend>rest at the Goblin<lineend>Inn!<pause><lineend><CC03EA>One night's 30G.<lineend>What are you gonna<lineend>do?<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Hee hee hee! Welcome, human! Have<lineend>yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you<lineend>gonna do?<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=009B><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>|
 2|
-<CC03EA><color=0005><string=009B><lineend><color=0001>You don't have<lineend>enough.<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>You don't have enough.<pause><lineend>|
 3|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Make yourself at<lineend>home!<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Make yourself at home!<pause><lineend>|
 4|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Mornin'! Time to<lineend>rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye<lineend>bye!<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
 5|
-<CC03EA><color=0005><string=009B><lineend><color=0001>Suit yourself.<lineend>Maybe next time.<pause><lineend>|
+<CC03EA><color=0005><string=009B><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
 6|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 7|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<lineend><pause>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<lineend><pause>|
 8|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend>|

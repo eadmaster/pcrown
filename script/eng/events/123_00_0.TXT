@@ -1,16 +1,16 @@
 65536|
-<CC03EA><color=0005><string=0157><lineend><color=0001>This is it! Today<lineend>I'm not going home<pause><lineend><CC03EA>without a Mermaid's<lineend>Tear!<lineend><pause><CC03EA>All I need is that<lineend>tear, and I'll get<lineend>my reward from the<pause><lineend><CC03EA>witch!<lineend><pause>|
+<CC03EA><color=0005><string=0157><lineend><color=0001>This is it! Today I'm not going<lineend>home without a Mermaid's Tear!<lineend><pause><CC03EA>All I need is that tear, and I'll<lineend>get my reward from the witch!<lineend><pause>|
 65537|
-<CC03EA><color=0005><string=0157><lineend><color=0001>But first things<lineend>first. I need to do<pause><lineend><CC03EA>something about<lineend>Edward.<lineend><pause><CC03EA>If I use this Magic<lineend>Item that the witch<lineend>gave me...<lineend><pause>|
+<CC03EA><color=0005><string=0157><lineend><color=0001>But first things first. I need to<lineend>do something about Edward.<lineend><pause><CC03EA>If I use this Magic Item that the<lineend>witch gave me...<lineend><pause>|
 65538|
 <CC03EA><CC03FC=0004><string=014F><color=0001>You called, Sir?<lineend><pause>|
 65539|
-<CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha! It worked!<lineend><pause><CC03EA>You're one of those<lineend>monsters who can<lineend>change himself to<pause><lineend><CC03EA>look like anybody<lineend>he wants, right?<lineend><pause>|
+<CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha! It worked!<lineend><pause><CC03EA>You're one of those monsters who<lineend>can change himself to look like<lineend>anybody he wants, right?<lineend><pause>|
 65540|
 <CC03EA><CC03FC=0004><string=014F><color=0001>That is correct.<lineend><pause>|
 65541|
-<CC03EA><color=0005><string=0157><lineend><color=0001>Excellent.<lineend><pause><CC03EA>I want you to make<lineend>yourself look like<lineend>that friend of<pause><lineend><CC03EA>Edward's.<lineend><pause><CC03EA>You lead him away<lineend>somewhere, and I'll<lineend>use the chance to<pause><lineend><CC03EA>nab the mermaid.<lineend><pause>|
+<CC03EA><color=0005><string=0157><lineend><color=0001>Excellent.<lineend><pause><CC03EA>I want you to make yourself look<lineend>like that friend of Edward's.<lineend><pause><CC03EA>You lead him away somewhere, and<lineend>I'll use the chance to nab the<lineend>mermaid.<lineend><pause>|
 65542|
-<CC03EA><CC03FC=0004><string=014F><color=0001>How do you like it?<lineend><pause><CC03EA>I'll keep Edward<lineend>distracted. If he<lineend>gives me any<pause><lineend><CC03EA>trouble...I'll just<lineend>take care of it.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=014F><color=0001>How do you like it?<lineend><pause><CC03EA>I'll keep Edward distracted. If he<lineend>gives me any trouble...I'll just<lineend>take care of it.<lineend><pause>|
 65543|
-<CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha ha! That<lineend>mermaid is as good<pause><lineend><CC03EA>as mine now!<lineend><pause>|
+<CC03EA><color=0005><string=0157><lineend><color=0001>Ha ha ha! That mermaid is as good<lineend>as mine now!<lineend><pause>|

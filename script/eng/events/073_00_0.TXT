@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>There's no time to<lineend>go back.<lineend><pause><CC03EA>I have to go help<lineend>Sidrael.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>There's no time to go back.<lineend><pause><CC03EA>I have to go help Sidrael.<lineend><pause>|
 1|
 <CC03F0=000000880000000A03FF00000000>|

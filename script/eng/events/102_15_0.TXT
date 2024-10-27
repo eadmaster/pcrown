@@ -1,50 +1,50 @@
 65536|
 <CC03EA><color=0004><string=00E4><lineend><color=0001>He's paralyzed me!<lineend>I'm finished!!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Hey monster! Try<lineend>and get me first!!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hey monster! Try and get me<lineend>first!!<pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>...Yes. Thank you<lineend>for your help.<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>...Yes. Thank you for your help.<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you by<lineend>yourself? Where is<pause><lineend><CC03EA>the Wizard's<lineend>Leader?<pause><lineend><CC03EA>I could swear I<lineend>heard a voice<lineend>telling you to work<pause><lineend><CC03EA>together when I<lineend>came down here...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you by yourself? Where is the<lineend>Wizard's Leader?<pause><lineend><CC03EA>I could swear I heard a voice<lineend>telling you to work together when<lineend>I came down here...<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=00E4><lineend><CC03F8=0001><color=0001>She heard that,<lineend>too!?<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><CC03F8=0001><color=0001>She heard that, too!?<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>I can handle this<lineend>trial alone!<pause><lineend><CC03EA>No matter what<lineend>anybody says, I'm<lineend>the descendant of<pause><lineend><CC03EA>the Golden Warrior!<pause><lineend><CC03EA>The one who cut<lineend>down the Demon<lineend>General!<pause><lineend><CC03EA>The last thing I<lineend>need is help from<lineend>another unreliable<pause><lineend><CC03EA>Wizard!<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>I can handle this trial alone!<pause><lineend><CC03EA>No matter what anybody says, I'm<lineend>the descendant of the Golden<lineend>Warrior!<pause><lineend><CC03EA>The one who cut down the Demon<lineend>General!<pause><lineend><CC03EA>The last thing I need is help from<lineend>another unreliable Wizard!<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>How can you still<lineend>say that? If I<pause><lineend><CC03EA>hadn't arrived just<lineend>a moment ago...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>How can you still say that? If I<lineend>hadn't arrived just a moment<pause><lineend><CC03EA>ago...<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=00E4><lineend><CC03F8=0001><color=0001>She has you<lineend>there...<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><CC03F8=0001><color=0001>She has you there...<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>Regardless, I found<lineend>the letter. See for<pause><lineend><CC03EA>yourself!<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>Regardless, I found the letter.<lineend>See for yourself!<pause><lineend>|
 131080|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That's from your<lineend>ancestor?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That's from your ancestor?<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>It is. I shall read<lineend>it aloud.<pause><lineend><CC03EA>"To my heir: This<lineend>trial began because<lineend>the ties between<pause><lineend><CC03EA>the Warriors and<lineend>Wizards have<lineend>frayed.<pause><lineend><CC03EA>If you worked<lineend>together to reach<lineend>this point...<pause><lineend><CC03EA>...then I am sure<lineend>that you will<lineend>always understand<pause><lineend><CC03EA>the importance of<lineend>cooperation.<pause><lineend><CC03EA>Your eyes have been<lineend>clouded.<lineend>It's time for you<lineend>to see clearly.<pause><lineend><CC03EA>It was only for the<lineend>help of the Silver<lineend>Sorceress that I<pause><lineend><CC03EA>was able to defeat<lineend>my enemy.<pause><lineend><CC03EA>For as long as you<lineend>live, remember<lineend>this: The Wizards<pause><lineend><CC03EA>are friends to rely<lineend>upon."<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>It is. I shall read it aloud.<pause><lineend><CC03EA>"To my heir: This trial began<lineend>because the ties between the<lineend>Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach<lineend>this point...<pause><lineend><CC03EA>...then I am sure that you will<lineend>always understand the importance<lineend>of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded.<lineend>It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the<lineend>Silver Sorceress that I was able<lineend>to defeat my enemy.<pause><lineend><CC03EA>For as long as you live, remember<lineend>this: The Wizards are friends to<lineend>rely upon."<pause><lineend>|
 131082|
-<CC03EA><color=0002><string=0000><lineend><color=0001>It's just as it<lineend>says in the letter.<pause><lineend><CC03EA>Your ancestors<lineend>wanted you and the<lineend>Wizards to get<pause><lineend><CC03EA>along.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>It's just as it says in the<lineend>letter.<pause><lineend><CC03EA>Your ancestors wanted you and the<lineend>Wizards to get along.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>Silence! I know<lineend>what you're going<pause><lineend><CC03EA>to say!<pause><lineend><CC03EA>The Warriors and<lineend>the Wizards have<lineend>quarreled for<pause><lineend><CC03EA>generations.<pause><lineend><CC03EA>How could one<lineend>letter from my<lineend>ancestor suddenly<pause><lineend><CC03EA>make things<lineend>different?<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>Silence! I know what you're going<lineend>to say!<pause><lineend><CC03EA>The Warriors and the Wizards have<lineend>quarreled for generations.<pause><lineend><CC03EA>How could one letter from my<lineend>ancestor suddenly make things<lineend>different?<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>A Warrior doesn't<lineend>let his opinions<pause><lineend><CC03EA>waver in such a<lineend>manner!<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>A Warrior doesn't let his opinions<lineend>waver in such a manner!<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>It sounds to me<lineend>like you're being<pause><lineend><CC03EA>cowardly!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>It sounds to me like you're being<lineend>cowardly!<pause><lineend>|
 131086|
 <CC03EA><color=0004><string=00E4><lineend><color=0001>Cowardly?<pause><lineend>|
 131087|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>You're only scared<lineend>to say you've<pause><lineend><CC03EA>changed your mind.<pause><lineend><CC03EA>That's the test of<lineend>courage, and you've<lineend>failed it.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You're only scared to say you've<lineend>changed your mind.<pause><lineend><CC03EA>That's the test of courage, and<lineend>you've failed it.<pause><lineend>|
 131088|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>What are you<lineend>saying?<pause><lineend><CC03EA>I've consistently<lineend>followed through on<lineend>my convictions.<pause><lineend><CC03EA>What greater test<lineend>of courage is<lineend>there?<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>What are you saying?<pause><lineend><CC03EA>I've consistently followed through<lineend>on my convictions.<pause><lineend><CC03EA>What greater test of courage is<lineend>there?<pause><lineend>|
 131089|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>But it doesn't make<lineend>sense. The letter<pause><lineend><CC03EA>says your<lineend>conviction itself<lineend>is wrong.<pause><lineend><CC03EA>When you've made a<lineend>mistake, you've got<lineend>to fix it!<pause><lineend><CC03EA>Being able to say<lineend>that you were wrong<lineend>shows that you have<pause><lineend><CC03EA>true courage.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>But it doesn't make sense. The<lineend>letter says your conviction itself<pause><lineend><CC03EA>is wrong.<pause><lineend><CC03EA>When you've made a mistake, you've<lineend>got to fix it!<pause><lineend><CC03EA>Being able to say that you were<lineend>wrong shows that you have true<lineend>courage.<pause><lineend>|
 131090|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Aria...<pause><lineend>|
 131091|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>I'm just saying...<pause><lineend>|
 131092|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Honestly, I agree<lineend>with what she's<pause><lineend><CC03EA>saying.<pause><lineend><CC03EA>You're the<lineend>Warriors' Leader.<lineend>All you have to do<pause><lineend><CC03EA>is show courage,<lineend>and the path will<lineend>open.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Honestly, I agree with what she's<lineend>saying.<pause><lineend><CC03EA>You're the Warriors' Leader. All<lineend>you have to do is show courage,<lineend>and the path will open.<pause><lineend>|
 131093|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>Hmm...<pause><lineend><CC03EA>If you're so sure,<lineend>then would you be<lineend>willing to check<pause><lineend><CC03EA>with the Wizards'<lineend>Leader?<pause><lineend><CC03EA>If he will listen<lineend>to what I have to<lineend>say, then we can<pause><lineend><CC03EA>take it from<lineend>there...<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>Hmm...<pause><lineend><CC03EA>If you're so sure, then would you<lineend>be willing to check with the<lineend>Wizards' Leader?<pause><lineend><CC03EA>If he will listen to what I have<lineend>to say, then we can take it from<lineend>there...<pause><lineend>|
 131094|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Good. Let me see<lineend>what I can do.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Good. Let me see what I can do.<pause><lineend>|

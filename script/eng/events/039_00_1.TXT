@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>I heard something<lineend>happened at<pause><lineend><CC03EA>Valendine Castle.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I heard something happened at<lineend>Valendine Castle.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>It turns out those<lineend>pirates weren't so<pause><lineend><CC03EA>tough after all!<pause><lineend><CC03EA>Heh heh!<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>It turns out those pirates weren't<lineend>so tough after all!<pause><lineend><CC03EA>Heh heh!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a<lineend>pirate attack...I<pause><lineend><CC03EA>feel like a<lineend>princess in a<lineend>fairy-tale!<pause><lineend><CC03EA>What a great<lineend>honeymoon this has<lineend>been!<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a pirate attack...I<lineend>feel like a princess in a<pause><lineend><CC03EA>fairy-tale!<pause><lineend><CC03EA>What a great honeymoon this has<lineend>been!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place<lineend>north of the<pause><lineend><CC03EA>pirates hideout...<pause><lineend><CC03EA>It's as far north<lineend>as anyone has ever<lineend>dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's<lineend>a path into<lineend>paradise beyond its<pause><lineend><CC03EA>shores.<pause><lineend><CC03EA>But legend has it<lineend>that any ship which<lineend>gets too close to<pause><lineend><CC03EA>the island falls<lineend>under a curse.<pause><lineend><CC03EA>It's been years<lineend>since anyone has<lineend>even tried going<pause><lineend><CC03EA>there.<pause><lineend><CC03EA>After all, who<lineend>wants to die<lineend>halfway to<pause><lineend><CC03EA>paradise?<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the<lineend>pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has<lineend>ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into<lineend>paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship<lineend>which gets too close to the island<lineend>falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has<lineend>even tried going there.<pause><lineend><CC03EA>After all, who wants to die<lineend>halfway to paradise?<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0177><lineend><color=0001>Hey Gradriel!<pause><lineend><CC03EA>Just say the word,<lineend>and I'll take you<lineend>out on my ship. The<pause><lineend><CC03EA>best pirate ship in<lineend>the world, that is!<pause><lineend><CC03ED=0177001200010000>|
+<CC03EA><color=0004><string=0177><lineend><color=0001>Hey Gradriel!<pause><lineend><CC03EA>Just say the word, and I'll take<lineend>you out on my ship. The best<lineend>pirate ship in the world, that is!<pause><lineend><CC03ED=0177001200010000>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>We won't have to<lineend>worry about a<pause><lineend><CC03EA>thing. Ha ha!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>We won't have to worry about a<lineend>thing. Ha ha!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates<lineend>are all gone.<pause><lineend><CC03EA>Now my Father can<lineend>rest and heal up.<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates are all gone.<pause><lineend><CC03EA>Now my Father can rest and heal<lineend>up.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in<lineend>the middle of town<pause><lineend><CC03EA>that nobody's lived<lineend>in for 20 years.<pause><lineend><CC03EA>Apparently the<lineend>place is overrun<lineend>with ghosts, and<pause><lineend><CC03EA>nobody goes in for<lineend>fear of losing<lineend>their lives.<pause><lineend><CC03EA>It's actually a<lineend>historic mansion,<lineend>though. It must be<pause><lineend><CC03EA>worth a fortune!<pause><lineend><CC03EA>There's just nobody<lineend>who wants to buy<lineend>it.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of<lineend>town that nobody's lived in for 20<pause><lineend><CC03EA>years.<pause><lineend><CC03EA>Apparently the place is overrun<lineend>with ghosts, and nobody goes in<lineend>for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion,<lineend>though. It must be worth a<lineend>fortune!<pause><lineend><CC03EA>There's just nobody who wants to<lineend>buy it.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000F><lineend><color=0001>People are worried<lineend>that something<pause><lineend><CC03EA>terrible has<lineend>happened at <color=0002>Valendine Castle.<color=0001><pause><lineend><CC03EA>I just went to<lineend>Valendine on<lineend>business myself...<pause><lineend><CC03EA>You wouldn't<lineend>believe what people<lineend>were saying<pause><lineend><CC03EA>happened to the<lineend>Princesses.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>People are worried that something<lineend>terrible has happened at <color=0002>Valendine Castle.<color=0001><pause><lineend><CC03EA>I just went to Valendine on<lineend>business myself...<pause><lineend><CC03EA>You wouldn't believe what people<lineend>were saying happened to the<lineend>Princesses.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=003D><lineend><color=0002>Valendine<color=0001> is <color=0005>straight to the<lineend>west from the left<pause><lineend><CC03EA>side of town.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0002>Valendine<color=0001> is <color=0005>straight to the west from the left<lineend>side of town.<color=0001><pause><lineend>|
 10|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken<lineend>care of everything<pause><lineend><CC03EA>I heard at my first<lineend>audience.<pause><lineend><CC03EA>I guess that means<lineend>it's time to stop<lineend>in at the castle.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken care of<lineend>everything I heard at my first<pause><lineend><CC03EA>audience.<pause><lineend><CC03EA>I guess that means it's time to<lineend>stop in at the castle.<pause><lineend>|
 11|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, your<lineend>Highness. I'll come<pause><lineend><CC03EA>with you!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, your Highness. I'll<lineend>come with you!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around<lineend>is that the real<pause><lineend><CC03EA>Portgus beat up the<lineend>fake one.<pause><lineend><CC03EA>What a relief! I<lineend>always knew Portgus<lineend>never would have<pause><lineend><CC03EA>attacked those<lineend>cargo ships.<pause><lineend><CC03EA>Oh Portgus...You're<lineend>my hero...<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real<lineend>Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew<lineend>Portgus never would have attacked<lineend>those cargo ships.<pause><lineend><CC03EA>Oh Portgus...You're my hero...<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Sorry for the<lineend>holdup! We've<pause><lineend><CC03EA>finally got new<lineend>goods coming in!<pause><lineend><CC03EA>Welcome, welcome.<lineend>We have many items<lineend>that will help you<pause><lineend><CC03EA>in your travels.<pause><lineend><CC03EA>What can I get for<lineend>you?<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sorry for the holdup! We've<lineend>finally got new goods coming in!<pause><lineend><CC03EA>Welcome, welcome. We have many<lineend>items that will help you in your<lineend>travels.<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
 14|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 15|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

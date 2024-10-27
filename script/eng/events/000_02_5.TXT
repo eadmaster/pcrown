@@ -1,32 +1,32 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>It's a bad sign<lineend>indeed that those<pause><lineend><CC03EA>monsters could<lineend>storm in so easily.<pause><lineend><CC03EA>I fear we've been<lineend>making terrible<lineend>oversights...<pause><lineend><CC03EA>Queen Gradriel,<lineend>please accept my<lineend>apologies.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>It's a bad sign indeed that those<lineend>monsters could storm in so easily.<pause><lineend><CC03EA>I fear we've been making terrible<lineend>oversights...<pause><lineend><CC03EA>Queen Gradriel, please accept my<lineend>apologies.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007C><lineend><color=0001>It's important that<lineend>we make the castle<pause><lineend><CC03EA>just as beautiful<lineend>as before.<pause><lineend><CC03EA>Let's get to work!<pause><lineend>|
+<CC03EA><color=0006><string=007C><lineend><color=0001>It's important that we make the<lineend>castle just as beautiful as<pause><lineend><CC03EA>before.<pause><lineend><CC03EA>Let's get to work!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded<lineend>during a fight,<pause><lineend><CC03EA>make sure you eat<lineend>something right<lineend>away.<pause><lineend><CC03EA>The more you eat,<lineend>the more your body<lineend>will recover.<pause><lineend><CC03EA>Besides, nobody can<lineend>fight on an empty<lineend>stomach!<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a<lineend>fight, make sure you eat something<pause><lineend><CC03EA>right away.<pause><lineend><CC03EA>The more you eat, the more your<lineend>body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an<lineend>empty stomach!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>The three<lineend>Princesses are our<pause><lineend><CC03EA>kingdom's greatest<lineend>treasure.<pause><lineend><CC03EA>But how will we<lineend>ever bring Princess<lineend>Sidrael back from<pause><lineend><CC03EA>the Demon Realm?<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our<lineend>kingdom's greatest treasure.<pause><lineend><CC03EA>But how will we ever bring<lineend>Princess Sidrael back from the<lineend>Demon Realm?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>A Drop of Mana does<lineend>more than just<pause><lineend><CC03EA>restore Magic<lineend>Stones.<pause><lineend><CC03EA>You can use it to<lineend>turn a normal gem<lineend>into a Magic Stone,<pause><lineend><CC03EA>too.<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>A Drop of Mana does more than just<lineend>restore Magic Stones.<pause><lineend><CC03EA>You can use it to turn a normal<lineend>gem into a Magic Stone, too.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage<lineend>room for small<pause><lineend><CC03EA>goods.<pause><lineend>|
+<CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small<lineend>goods.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to<lineend>take anything in<pause><lineend><CC03EA>this room, your<lineend>Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in<lineend>this room, your Highness.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0078><lineend><color=0001>I heard that Sir<lineend>Glowstar protected<pause><lineend><CC03EA>you, your Highness.<pause><lineend><CC03EA>We've been mistaken<lineend>about him all this<lineend>time, haven't we?<pause><lineend>|
+<CC03EA><color=0006><string=0078><lineend><color=0001>I heard that Sir Glowstar<lineend>protected you, your Highness.<pause><lineend><CC03EA>We've been mistaken about him all<lineend>this time, haven't we?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was<lineend>quite shocked at<pause><lineend><CC03EA>the death of his<lineend>Father, Sir<lineend>Glowstar.<pause><lineend><CC03EA>I wonder where it<lineend>is he's gone to?<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at<lineend>the death of his Father, Sir<pause><lineend><CC03EA>Glowstar.<pause><lineend><CC03EA>I wonder where it is he's gone to?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of<lineend>Elfaran and Shelius<pause><lineend><CC03EA>runs in Princess<lineend>Sidrael.<pause><lineend><CC03EA>It will surely keep<lineend>her safe.<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of Elfaran and<lineend>Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep her safe.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer<lineend>that's been passed<pause><lineend><CC03EA>down through the<lineend>Royal Family.<pause><lineend><CC03EA>Do you remember it,<lineend>Queen Gradriel?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been<lineend>passed down through the Royal<pause><lineend><CC03EA>Family.<pause><lineend><CC03EA>Do you remember it, Queen<lineend>Gradriel?<pause><lineend>|
 11|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 12|
-<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you<lineend>do, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your<lineend>Highness.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine,<lineend>reach the farthest<pause><lineend><CC03EA>lands.<pause><lineend><CC03EA>I speak the prayer<lineend>of all who seek the<lineend>righteous path.<pause><lineend><CC03EA>May light rain down<lineend>upon the<lineend>darkness...<pause><lineend><CC03EA>May the restraints<lineend>of suffering<lineend>vanish...<pause><lineend><CC03EA>...And may that<lineend>which is locked in<lineend>our hearts be set<pause><lineend><CC03EA>free."<pause><lineend><CC03EA>Nobody knows just<lineend>what it means, but<lineend>the words do convey<pause><lineend><CC03EA>the kindness of our<lineend>Royal Family.<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest<lineend>lands.<pause><lineend><CC03EA>I speak the prayer of all who seek<lineend>the righteous path.<pause><lineend><CC03EA>May light rain down upon the<lineend>darkness...<pause><lineend><CC03EA>May the restraints of suffering<lineend>vanish...<pause><lineend><CC03EA>...And may that which is locked in<lineend>our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means,<lineend>but the words do convey the<lineend>kindness of our Royal Family.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0080><lineend><color=0001>It appears that<lineend>only our castle and<pause><lineend><CC03EA>town were attacked.<lineend>Other towns nearby<lineend>haven't reported<pause><lineend><CC03EA>any damage.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>It appears that only our castle<lineend>and town were attacked. Other<pause><lineend><CC03EA>towns nearby haven't reported any<lineend>damage.<pause><lineend>|
 15|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear<lineend>Mother...Please<pause><lineend><CC03EA>look after<lineend>Sidrael...<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother...Please look after<lineend>Sidrael...<pause><lineend><CC03ED=0000005D00010000>|

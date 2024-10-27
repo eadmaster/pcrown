@@ -1,52 +1,52 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*...That's our<lineend>Queen Gradriel!<pause><lineend><CC03EA>Who else could make<lineend>it to the Demon<lineend>Realm and back in<pause><lineend><CC03EA>one piece?<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*...That's our Queen Gradriel!<pause><lineend><CC03EA>Who else could make it to the<lineend>Demon Realm and back in one piece?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>It turns out he's<lineend>actually right<pause><lineend><CC03EA>sometimes!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>It turns out he's actually right<lineend>sometimes!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0007><lineend><color=0001>Today, I'm drinking<lineend>myself under the<pause><lineend><CC03EA>table.<pause><lineend><CC03EA>It's a celebration!<lineend>Princess Sidrael is<lineend>home!<pause><lineend><CC03ED=0007003400010000>|
+<CC03EA><color=0006><string=0007><lineend><color=0001>Today, I'm drinking myself under<lineend>the table.<pause><lineend><CC03EA>It's a celebration! Princess<lineend>Sidrael is home!<pause><lineend><CC03ED=0007003400010000>|
 3|
 <CC03EA><color=0006><string=0007><lineend><color=0001>*Burp!*<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the<lineend>Cokanu Restaurant,<pause><lineend><CC03EA>at the foot of<lineend>Valendine Castle<lineend>and the Queen<pause><lineend><CC03EA>herself!<pause><lineend><CC03EA>If you're ready,<lineend>I'll take your<lineend>order.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Cokanu Restaurant,<lineend>at the foot of Valendine Castle<pause><lineend><CC03EA>and the Queen herself!<pause><lineend><CC03EA>If you're ready, I'll take your<lineend>order.<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for<lineend>stopping by!<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Thanks again for stopping by!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=01A9><color=0001>Our Local Delicacy<lineend>is Toast To Go made<lineend>with fresh Dodo<pause><lineend><CC03EA>eggs.<pause><lineend><CC03EA>The bread has an<lineend>out-of-the-oven<lineend>crispiness.<pause><lineend><CC03EA>The over-easy egg<lineend>on top makes it<lineend>even tastier.<pause><lineend><CC03EA>Satisfaction is<lineend>guaranteed!<pause><lineend><CC03EA>The price is 40G.<lineend>Would you like one?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01A9><color=0001>Our Local Delicacy is Toast To Go<lineend>made with fresh Dodo eggs.<pause><lineend><CC03EA>The bread has an out-of-the-oven<lineend>crispiness.<pause><lineend><CC03EA>The over-easy egg on top makes it<lineend>even tastier. Satisfaction is<lineend>guaranteed!<pause><lineend><CC03EA>The price is 40G. Would you like<lineend>one?<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford<lineend>it.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any<lineend>more than that.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>You can't carry any more than<lineend>that.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very<lineend>much.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very much.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill<lineend>something for you,<pause><lineend><CC03EA>then. What Food<lineend>would you like to<lineend>use?<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you,<lineend>then. What Food would you like to<pause><lineend><CC03EA>use?<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't<lineend>cook that.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G.<lineend>Will that be all<lineend>right?<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all<lineend>right?<pause><lineend>|
 15|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 16|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Looks like you can't quite afford<lineend>it.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Welcome! You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 18|
 <CC03EA><CC03FC=0004><string=01B0><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 19|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May<lineend>the rest of your<pause><lineend><CC03EA>journeies be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your<lineend>journeies be safe.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 23|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 24|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 25|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

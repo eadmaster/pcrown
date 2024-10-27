@@ -1,7 +1,7 @@
 0|
-<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat up<lineend>that Dragon!<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat up that Dragon!<lineend><CC03ED=00350002000103FF><pause>|
 1|
-<CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from<lineend>this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
+<CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
 <CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Ç®Ç©Ç†Ç≥ÇÒÅI<lineend><CC03ED=00350002000103FF><pause>|
 3|
@@ -41,77 +41,77 @@
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I hear crying...<lineend>Someone's there!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>It's coming from<lineend>over that way.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>It's coming from over that way.<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=0035>Mommy! I want my<lineend>Mommy!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0035>Mommy! I want my Mommy!<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>It's dangerous<lineend>here! Let's go find<lineend>where it's safe,<pause><lineend><CC03EA>OK?<pause><lineend><CC03EA>It will be all<lineend>right. I'm sure<lineend>your Mother is<pause><lineend><CC03EA>close by.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>It's dangerous here! Let's go find<lineend>where it's safe, OK?<pause><lineend><CC03EA>It will be all right. I'm sure<lineend>your Mother is close by.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>This one's been<lineend>wounded! Looks like<pause><lineend><CC03EA>he's pretty mad,<lineend>too!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>This one's been wounded! Looks<lineend>like he's pretty mad, too!<pause><lineend>|
 65543|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Run away! It's too<lineend>dangerous!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Run away! It's too dangerous!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=007D>We took too long to<lineend>get here...<pause><lineend><CC03EA>There may still be<lineend>Dragons in the<lineend>area. Move out and<pause><lineend><CC03EA>protect the<lineend>village!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>We took too long to get here...<pause><lineend><CC03EA>There may still be Dragons in the<lineend>area. Move out and protect the<lineend>village!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=007D>Playtime is over<lineend>for those Dragons<lineend>now that we're<pause><lineend><CC03EA>here!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Playtime is over for those Dragons<lineend>now that we're here!<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her<lineend>Majesty is safe...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her Majesty is safe...<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a<lineend>note saying she was<pause><lineend><CC03EA>going to "see the<lineend>kingdom."<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she<lineend>was going to "see the kingdom."<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, and I'm afraid<lineend>she may have headed<pause><lineend><CC03EA>toward Dorangora.<pause><lineend><CC03EA>The Dragon<lineend>Suppression Squad<lineend>has special orders<pause><lineend><CC03EA>to search for her<lineend>there.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, and I'm afraid she may have<lineend>headed toward Dorangora.<pause><lineend><CC03EA>The Dragon Suppression Squad has<lineend>special orders to search for her<lineend>there.<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Thank you,<lineend>Jestonai. I'm sorry<pause><lineend><CC03EA>for all the trouble<lineend>we put you through.<pause><lineend><CC03EA>Sidrael and I are<lineend>unable to succeed<lineend>the throne...<pause><lineend><CC03EA>...because the law<lineend>says that twins<lineend>will divide the<pause><lineend><CC03EA>kingdom.<pause><lineend><CC03EA>Instead the crown<lineend>fell to our little<lineend>sister, who is only<pause><lineend><CC03EA>thirteen.<pause><lineend><CC03EA>Please look after<lineend>her, Jestonai.<pause><lineend><CC03EA>She'll need your<lineend>help until she can<lineend>be a good Queen...<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Thank you, Jestonai. I'm sorry for<lineend>all the trouble we put you<pause><lineend><CC03EA>through.<pause><lineend><CC03EA>Sidrael and I are unable to<lineend>succeed the throne...<pause><lineend><CC03EA>...because the law says that twins<lineend>will divide the kingdom.<pause><lineend><CC03EA>Instead the crown fell to our<lineend>little sister, who is only<lineend>thirteen.<pause><lineend><CC03EA>Please look after her, Jestonai.<pause><lineend><CC03EA>She'll need your help until she<lineend>can be a good Queen...<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=0129><lineend><color=0001>I'll do my best to<lineend>tend to her<pause><lineend><CC03EA>responsibilities<lineend>while she is gone.<pause><lineend><CC03EA>I know what a<lineend>burden it is, but<lineend>I'll ask you to<pause><lineend><CC03EA>continue overseeing<lineend>her civic duties.<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>I'll do my best to tend to her<lineend>responsibilities while she is<pause><lineend><CC03EA>gone.<pause><lineend><CC03EA>I know what a burden it is, but<lineend>I'll ask you to continue<lineend>overseeing her civic duties.<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll gladly do<lineend>anything I can.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll gladly do anything I can.<pause><lineend>|
 196614|
-<CC03EA><CC03FC=0004><string=007D>Pardon the<lineend>intrusion, Lord<lineend>Jestonai.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Pardon the intrusion, Lord<lineend>Jestonai.<pause><lineend>|
 196615|
-<CC03EA><CC03FC=0004><string=007D>It's time. Please<lineend>follow me into the<lineend>hallway.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>It's time. Please follow me into<lineend>the hallway.<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going,<lineend>then.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going, then.<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Princess Eriel, do<lineend>remember to rest<pause><lineend><CC03EA>from time to time.<pause><lineend><CC03EA>Remember, all<lineend>things in<lineend>moderation.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Princess Eriel, do remember to<lineend>rest from time to time.<pause><lineend><CC03EA>Remember, all things in<lineend>moderation.<pause><lineend>|
 196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Thank you.<pause><lineend>|
 196619|
-<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=0129000B000103FF>...Oh, Gradriel...<lineend><CC03ED=0129000A000103FF><pause><CC03EA><CC03ED=0129000B000103FF>If only I were<lineend>Queen...I would<lineend>never put anyone<pause><lineend><CC03EA>through any of<lineend>this.<lineend><CC03ED=0129000A000103FF><pause>|
+<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=0129000B000103FF>...Oh, Gradriel...<lineend><CC03ED=0129000A000103FF><pause><CC03EA><CC03ED=0129000B000103FF>If only I were Queen...I would<lineend>never put anyone through any of<lineend>this.<lineend><CC03ED=0129000A000103FF><pause>|
 196620|
 <CC03EA><color=0004><string=0129><lineend><color=0001>What was that?<pause><lineend>|
 196621|
-<CC03EA><color=0004><string=0129><lineend><color=0001>A hidden room?<lineend>What's this doing<pause><lineend><CC03EA>here?<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>A hidden room? What's this doing<lineend>here?<pause><lineend>|
 262144|
-<CC03EA><CC03FC=0004><string=010D>What a nice<lineend>surprise!<pause><lineend><CC03EA>It's been so long<lineend>since I had<lineend>company...<pause><lineend><CC03EA>...and for it to be<lineend>none other than a<lineend>princess!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D>What a nice surprise!<pause><lineend><CC03EA>It's been so long since I had<lineend>company...<pause><lineend><CC03EA>...and for it to be none other<lineend>than a princess!<pause><lineend>|
 262145|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Did you just talk<lineend>to me!?<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Did you just talk to me!?<pause><lineend>|
 262146|
 <CC03EA><CC03FC=0004><string=010D>Please excuse me.<pause><lineend>|
 262147|
-<CC03EA><CC03FC=0004><string=010D><color=0001>My name is Larva. I<lineend>am a holy book,<lineend>created to keep the<pause><lineend><CC03EA>world safe.<pause><lineend><CC03EA>I know of a magic<lineend>power hidden far<lineend>from the Demon<pause><lineend><CC03EA>King.<pause><lineend><CC03EA>I know of worlds<lineend>kept secret from<lineend>humans.<pause><lineend><CC03EA>This kingdom's past<lineend>and its<lineend>future...the fate<pause><lineend><CC03EA>of the stars...<pause><lineend><CC03EA>I once tried to<lineend>pass on my<lineend>knowledge for the<pause><lineend><CC03EA>good of mankind...<pause><lineend><CC03EA>...but a foolish<lineend>Wizard has trapped<lineend>me and left me as<pause><lineend><CC03EA>you see me now.<pause><lineend><CC03EA>Take me into your<lineend>hands and release<lineend>me.<pause><lineend><CC03EA>Do this, sweet<lineend>princess, and I<lineend>shall entrust you<pause><lineend><CC03EA>with all that I<lineend>know.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D><color=0001>My name is Larva. I am a holy<lineend>book, created to keep the world<lineend>safe.<pause><lineend><CC03EA>I know of a magic power hidden far<lineend>from the Demon King.<pause><lineend><CC03EA>I know of worlds kept secret from<lineend>humans.<pause><lineend><CC03EA>This kingdom's past and its<lineend>future...the fate of the stars...<pause><lineend><CC03EA>I once tried to pass on my<lineend>knowledge for the good of<lineend>mankind...<pause><lineend><CC03EA>...but a foolish Wizard has<lineend>trapped me and left me as you see<lineend>me now.<pause><lineend><CC03EA>Take me into your hands and<lineend>release me.<pause><lineend><CC03EA>Do this, sweet princess, and I<lineend>shall entrust you with all that I<lineend>know.<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No...I can't...<pause><lineend>|
 262149|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Just imagine it,<lineend>Princess...<pause><lineend><CC03EA>You'll be stronger<lineend>than any Wizard and<lineend>wiser than any<pause><lineend><CC03EA>sage.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Just imagine it, Princess...<pause><lineend><CC03EA>You'll be stronger than any Wizard<lineend>and wiser than any sage.<pause><lineend>|
 262150|
 <CC03EA><color=0004><string=0129><lineend><color=0001>I can't...<pause><lineend>|
 262151|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Something tells me<lineend>your real desire is<pause><lineend><CC03EA>to hurt our<lineend>kingdom, not help<lineend>it.<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Something tells me your real<lineend>desire is to hurt our kingdom, not<pause><lineend><CC03EA>help it.<pause><lineend>|
 262152|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Knowledge only<lineend>appears sinister to<pause><lineend><CC03EA>those who lack it.<pause><lineend><CC03EA>Whether harm really<lineend>comes from my<lineend>knowledge will<pause><lineend><CC03EA>depend on none<lineend>other than you,<lineend>Princess.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Knowledge only appears sinister to<lineend>those who lack it.<pause><lineend><CC03EA>Whether harm really comes from my<lineend>knowledge will depend on none<lineend>other than you, Princess.<pause><lineend>|
 262153|
 <CC03EA><color=0004><string=0129><lineend><color=0001>But...But...<pause><lineend>|
 262154|
-<CC03EA><color=0005><string=010D><lineend><color=0001>My knowledge can<lineend>bring an end to the<pause><lineend><CC03EA>suffering of all<lineend>people.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>My knowledge can bring an end to<lineend>the suffering of all people.<pause><lineend>|
 262155|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Can it cure<lineend>Sidrael's illness?<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Can it cure Sidrael's illness?<pause><lineend>|
 262156|
-<CC03EA><color=0005><string=010D><lineend><color=0001>...Of course it<lineend>can.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>...Of course it can.<pause><lineend>|
 262157|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Now take me in your<lineend>hands...For your<pause><lineend><CC03EA>dear sister's<lineend>sake...<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Now take me in your hands...For<lineend>your dear sister's sake...<pause><lineend>|
 262158|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Everything shall<lineend>begin with a turn<pause><lineend><CC03EA>of my page...<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Everything shall begin with a turn<lineend>of my page...<pause><lineend>|
 262159|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Come...<pause><lineend>|
 327680|

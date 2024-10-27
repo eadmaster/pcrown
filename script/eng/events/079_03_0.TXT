@@ -1,9 +1,9 @@
 65536|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>It appears Samantha<lineend>was useless after<pause><lineend><CC03EA>all.<pause><lineend><CC03EA>But no matter. You<lineend>are too late. Lord<lineend>Jadis is turned to<pause><lineend><CC03EA>stone, and his<lineend>crown is mine.<pause><lineend><CC03EA>That leaves only<lineend>you, Queen of<lineend>Valendia...<pause><lineend><CC03EA>Once I take your<lineend>crown, I shall at<lineend>last set Larva<pause><lineend><CC03EA>free.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>It appears Samantha was useless<lineend>after all.<pause><lineend><CC03EA>But no matter. You are too late.<lineend>Lord Jadis is turned to stone, and<lineend>his crown is mine.<pause><lineend><CC03EA>That leaves only you, Queen of<lineend>Valendia...<pause><lineend><CC03EA>Once I take your crown, I shall at<lineend>last set Larva free.<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What have you done<lineend>to the King!?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What have you done to the King!?<pause><lineend>|
 65538|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Would you care to<lineend>be the first whom I<pause><lineend><CC03EA>sacrifice to the<lineend>God of Darkness?<pause><lineend><CC03EA>Or would you prefer<lineend>it be one of your<lineend>sisters?<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Would you care to be the first<lineend>whom I sacrifice to the God of<pause><lineend><CC03EA>Darkness?<pause><lineend><CC03EA>Or would you prefer it be one of<lineend>your sisters?<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>!!<pause><lineend>|
 65540|
@@ -13,9 +13,9 @@
 65542|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>Ç»ÇÒÇæÇ∆ÅEÅEÅI<pause><lineend>|
 65543|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible<lineend>magic power!<pause><lineend><CC03EA>That's the power<lineend>of...darkness!<pause><lineend><CC03EA>Such a shame. I'll<lineend>have to withdraw<lineend>for now.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible magic power!<pause><lineend><CC03EA>That's the power of...darkness!<pause><lineend><CC03EA>Such a shame. I'll have to<lineend>withdraw for now.<pause><lineend>|
 65544|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>But that crown of<lineend>yours will be mine!<pause><lineend><CC03EA>And very soon!<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>But that crown of yours will be<lineend>mine! And very soon!<pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Ugh...Where am I?<pause><lineend>|
 131073|

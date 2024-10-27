@@ -1,40 +1,40 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the<lineend>biggest city on the<pause><lineend><CC03EA>continent.<pause><lineend><CC03EA>It's divided into<lineend>Warrior, Wizard,<lineend>and Merchant areas.<pause><lineend><CC03EA><pause><lineend><CC03EA>We're proud of how<lineend>cosmopolitan it is,<lineend>but we do have a<pause><lineend><CC03EA>problem with people<lineend>getting lost!<pause><lineend><CC03EA>Speaking of<lineend>which...I think I'm<lineend>a little lost<pause><lineend><CC03EA>myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on<lineend>the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard,<lineend>and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it<lineend>is, but we do have a problem with<lineend>people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a<lineend>little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
-<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll<lineend>ever find my way<pause><lineend><CC03EA>back home...<CC03F1=0011><pause>|
+<CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way<lineend>back home...<CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>The Demon Horde<lineend>attacked the<pause><lineend><CC03EA>castle, but the<lineend>Queen fought them<lineend>off.<pause><lineend><CC03EA>I wish I could have<lineend>been at her side!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>The Demon Horde attacked the<lineend>castle, but the Queen fought them<pause><lineend><CC03EA>off.<pause><lineend><CC03EA>I wish I could have been at her<lineend>side!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that<lineend>the Royal Castle<pause><lineend><CC03EA>has been attacked?<pause><lineend><CC03EA>Why, even Queen<lineend>Gradriel joined in<lineend>the fighting!<pause><lineend><CC03EA>She's awfully brave<lineend>for someone so<lineend>young.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle<lineend>has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in<lineend>the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so<lineend>young.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare<lineend>things for sale in<pause><lineend><CC03EA>the Merchants'<lineend>Area.<pause><lineend><CC03EA>If you look around,<lineend>you just might find<lineend>something really<pause><lineend><CC03EA>worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for<lineend>sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might<lineend>find something really worth your<lineend>while.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The monsters these<lineend>days are really<pause><lineend><CC03EA>strong!<pause><lineend><CC03EA>One little Dodo<lineend>turned me all black<lineend>and blue the other<pause><lineend><CC03EA>day. It still<lineend>hurts!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The monsters these days are really<lineend>strong!<pause><lineend><CC03EA>One little Dodo turned me all<lineend>black and blue the other day. It<lineend>still hurts!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Isn't there any big<lineend>strong man out<pause><lineend><CC03EA>there who can<lineend>protect me?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Isn't there any big strong man out<lineend>there who can protect me?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>I'm not scared of<lineend>anything! Not as<pause><lineend><CC03EA>long as I have my<lineend>Myconid dolly!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>I'm not scared of anything! Not as<lineend>long as I have my Myconid dolly!<pause><lineend>|
 8|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this<lineend>statue. It's in<pause><lineend><CC03EA>honor of my<lineend>ancestor, the<lineend>Golden Warrior.<pause><lineend><CC03EA> He saved this town<lineend>from the Demon<lineend>Horde over 100<pause><lineend><CC03EA>years ago.<pause><lineend><CC03EA>I'm proud to be the<lineend>descendent of the<lineend>one who killed the<pause><lineend><CC03EA>Demons' leader.<pause><lineend><CC03EA>The Silver<lineend>Sorceress may have<lineend>given him a hand...<pause><lineend><CC03EA>...but it was the<lineend>Warrior's strength<lineend>that saved the day<pause><lineend><CC03EA>in the end.<pause><lineend><CC03EA>And that is<lineend>precisely why the<lineend>Warriors are<pause><lineend><CC03EA>superior to the<lineend>Wizards. Ha ha!!<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's<lineend>in honor of my ancestor, the<pause><lineend><CC03EA>Golden Warrior.<pause><lineend><CC03EA> He saved this town from the Demon<lineend>Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendent of<lineend>the one who killed the Demons'<lineend>leader.<pause><lineend><CC03EA>The Silver Sorceress may have<lineend>given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's<lineend>strength that saved the day in the<lineend>end.<pause><lineend><CC03EA>And that is precisely why the<lineend>Warriors are superior to the<lineend>Wizards. Ha ha!!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the Demon<lineend>King does attack,<pause><lineend><CC03EA>our patrolmen will<lineend>see them coming<lineend>from a mile away!<pause><lineend>|
+<CC03EA><color=0006><string=015E><lineend><color=0001>Even if the Demon King does<lineend>attack, our patrolmen will see<pause><lineend><CC03EA>them coming from a mile away!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city<lineend>was attacked by an<pause><lineend><CC03EA>army of Demons, and<lineend>it seemed all would<lineend>be lost.<pause><lineend><CC03EA>That was when a<lineend>golden-haired<lineend>Warrior and a<pause><lineend><CC03EA>silver-haired<lineend>Wizard appeared.<pause><lineend><CC03EA>The two of them<lineend>risked everything<lineend>to save Cadho<pause><lineend><CC03EA>Badho.<pause><lineend><CC03EA>The sword and cane<lineend>statues in each<lineend>area were made to<pause><lineend><CC03EA>commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked<lineend>by an army of Demons, and it<pause><lineend><CC03EA>seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired<lineend>Warrior and a silver-haired Wizard<lineend>appeared.<pause><lineend><CC03EA>The two of them risked everything<lineend>to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each<lineend>area were made to commemorate<lineend>them.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0162><lineend><color=0001>We'll keep this<lineend>town safe!<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>We'll keep this town safe!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden<lineend>Warrior...<pause><lineend><CC03EA>Please keep Cadho<lineend>Badho safe!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Please keep Cadho Badho safe!<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove<lineend>of any kind<pause><lineend><CC03EA>increases your<lineend>attack power.<pause><lineend><CC03EA>The Golden Gauntlet<lineend>in particular is a<lineend>great item. It<pause><lineend><CC03EA>makes it easier to<lineend>score critical<lineend>hits.<pause><lineend>|
+<CC03EA><color=0006><string=0163><lineend><color=0001>Equipping a Glove of any kind<lineend>increases your attack power.<pause><lineend><CC03EA>The Golden Gauntlet in particular<lineend>is a great item. It makes it<lineend>easier to score critical hits.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really<lineend>silly thing in<pause><lineend><CC03EA>battle back when I<lineend>was a new recruit.<pause><lineend><CC03EA>I used a Rubber<lineend>Scroll on my<lineend>Shield! Naturally,<pause><lineend><CC03EA>it stopped working<lineend>that very instant.<pause><lineend><CC03EA>Of course, when you<lineend>think about it, it<lineend>does make sense.<pause><lineend><CC03EA>What good is a<lineend>shield made of<lineend>rubber?<pause><lineend>|
+<CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in<lineend>battle back when I was a new<pause><lineend><CC03EA>recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my<lineend>Shield! Naturally, it stopped<lineend>working that very instant.<pause><lineend><CC03EA>Of course, when you think about<lineend>it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of<lineend>rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>Forget it. He's<lineend>made me wait long<pause><lineend><CC03EA>enough already!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Forget it. He's made me wait long<lineend>enough already!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY!<lineend>BRAAAWK!!<pause><lineend>|
+<CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot.<lineend>I just fed him,<pause><lineend><CC03EA>too!<pause><lineend>|
+<CC03EA><color=0006><string=0194><lineend><color=0001>He sure eats a lot. I just fed<lineend>him, too!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=000B><lineend><color=0001>This town is pretty<lineend>rough! Maybe I<pause><lineend><CC03EA>ought to move to<lineend>the countryside...<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>This town is pretty rough! Maybe I<lineend>ought to move to the<pause><lineend><CC03EA>countryside...<pause><lineend>|
 19|
-<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the<lineend>city every single<pause><lineend><CC03EA>day!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>My Papa patrols the city every<lineend>single day!<pause><lineend>|

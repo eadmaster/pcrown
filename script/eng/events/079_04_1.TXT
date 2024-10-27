@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0105><lineend><color=0001>You would do well<lineend>to leave before<pause><lineend><CC03EA>that Wizard comes<lineend>back.<pause><lineend><CC03F0=000000880001000F03FF00000000>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>You would do well to leave before<lineend>that Wizard comes back.<pause><lineend><CC03F0=000000880001000F03FF00000000>|

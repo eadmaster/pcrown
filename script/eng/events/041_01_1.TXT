@@ -1,68 +1,68 @@
 0|
-<CC03EA><color=0006><string=0045><lineend><color=0001>Sir Edward hasn't<lineend>been back since he<pause><lineend><CC03EA>left for <color=0002>Lake Titania.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=0045><lineend><color=0001>Sir Edward hasn't been back since<lineend>he left for <color=0002>Lake Titania.<color=0001><pause><lineend>|
 1|
-<CC03EA><color=0006><string=0046><lineend><color=0001>Ah, don't worry<lineend>about it. A strong<pause><lineend><CC03EA>guy like him?<pause><lineend><CC03EA>He'll sort<lineend>everything out, and<lineend>probably come home<pause><lineend><CC03EA>without a scratch,<lineend>too.<pause><lineend>|
+<CC03EA><color=0006><string=0046><lineend><color=0001>Ah, don't worry about it. A strong<lineend>guy like him?<pause><lineend><CC03EA>He'll sort everything out, and<lineend>probably come home without a<lineend>scratch, too.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0047><lineend><color=0001>Do you know what we<lineend>Warriors pride<pause><lineend><CC03EA>ourselves on?<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>Do you know what we Warriors pride<lineend>ourselves on?<pause><lineend>|
 3|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Um...That you'll<lineend>never run from an<pause><lineend><CC03EA>enemy, no matter<lineend>how strong?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Um...That you'll never run from an<lineend>enemy, no matter how strong?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0047><lineend><color=0001>Ha ha! Well, there<lineend>certainly is that.<pause><lineend><CC03EA>But there's<lineend>something that<lineend>we're even more<pause><lineend><CC03EA>proud of.<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>Ha ha! Well, there certainly is<lineend>that.<pause><lineend><CC03EA>But there's something that we're<lineend>even more proud of.<pause><lineend>|
 5|
 <CC03FA=0000000000000000000003FF000A00460000><CC03FB=0050>|
 6|
-<CC03EA><color=0006><string=0047><lineend><color=0001>It's that we<lineend>protect the weak<pause><lineend><CC03EA>from all forms of<lineend>evil.<pause><lineend><CC03EA>Our swords and<lineend>shields are signs<lineend>of our willingness<pause><lineend><CC03EA>to sacrifice for<lineend>others.<pause><lineend><CC03EA>That is what we are<lineend>proud of most.<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>It's that we protect the weak from<lineend>all forms of evil.<pause><lineend><CC03EA>Our swords and shields are signs<lineend>of our willingness to sacrifice<lineend>for others.<pause><lineend><CC03EA>That is what we are proud of most.<pause><lineend>|
 7|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Amazing...<lineend>You're exactly<lineend>right!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Amazing...<lineend>You're exactly right!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0047><lineend><color=0001>You think so, too?<pause><lineend><CC03EA>Then you'll go far<lineend>in life indeed.<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>You think so, too?<pause><lineend><CC03EA>Then you'll go far in life indeed.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0047><lineend><color=0001>Meeting people like<lineend>you who share our<pause><lineend><CC03EA>values keeps me<lineend>optimistic about<lineend>the future.<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>Meeting people like you who share<lineend>our values keeps me optimistic<pause><lineend><CC03EA>about the future.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0047><lineend><color=0001>A girl who just<lineend>passed by was<pause><lineend><CC03EA>saying something<lineend>about the monsters<lineend>at the lake...<pause><lineend><CC03EA>The funny thing is,<lineend>she had a voice<lineend>just like a man's.<pause><lineend><CC03EA>It's too bad. She<lineend>was cute!<pause><lineend>|
+<CC03EA><color=0006><string=0047><lineend><color=0001>A girl who just passed by was<lineend>saying something about the<pause><lineend><CC03EA>monsters at the lake...<pause><lineend><CC03EA>The funny thing is, she had a<lineend>voice just like a man's.<pause><lineend><CC03EA>It's too bad. She was cute!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to<lineend>come to Cadho Badho<pause><lineend><CC03EA>and not try<lineend>something at The<lineend>Silver Sword!<pause><lineend><CC03EA>Now, what can I get<lineend>you?<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>It'd be a shame to come to Cadho<lineend>Badho and not try something at The<pause><lineend><CC03EA>Silver Sword!<pause><lineend><CC03EA>Now, what can I get you?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 14|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us<lineend>anytime!<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Come visit us anytime!<pause><lineend>|
 15|
-<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword<lineend>Special is Toast To<lineend>Go made with fresh<pause><lineend><CC03EA>Dodo Eggs.<pause><lineend><CC03EA>We cook the egg<lineend>until it's easy to<lineend>eat. The cornbread<pause><lineend><CC03EA>we use is light and<lineend>crispy, too.<pause><lineend><CC03EA>Then there's creamy<lineend>homemade butter in<lineend>between. It's<pause><lineend><CC03EA>exquisite!<pause><lineend><CC03EA>One costs 40G.<lineend>Would you be<lineend>interested?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast<lineend>To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to<lineend>eat. The cornbread we use is light<lineend>and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade<lineend>butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be<lineend>interested?<pause><lineend>|
 16|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 17|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have<lineend>enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't<lineend>fit! Can you empty<pause><lineend><CC03EA>something out of<lineend>your bag?<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty<lineend>something out of your bag?<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very<lineend>much!<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill<lineend>something for you<pause><lineend><CC03EA>then. Please select<lineend>a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then.<lineend>Please select a Food to use.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we<lineend>can't cook that.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from<lineend>you?<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 24|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have<lineend>enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
 25|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You<lineend>can recover from<pause><lineend><CC03EA>your travels here<lineend>at our inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from<lineend>your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 26|
 <CC03EA><CC03FC=0004><string=01B3><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 27|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite<lineend>have enough money.<pause><lineend><CC03EA>Come back anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>You don't quite have enough money.<lineend>Come back anytime.<pause><lineend>|
 28|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant<lineend>sleep.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B3><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 31|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 32|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 33|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

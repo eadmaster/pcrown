@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Shall we go back to<lineend>Leeland?<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Shall we go back to Leeland?<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=0063><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 2|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Hurry along, then.<lineend>We're about to set<lineend>sail!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Hurry along, then.<lineend>We're about to set sail!<pause><lineend>|
 3|
 <CC03FB=000A><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000F><CC03F2=000000880001000F03FF000003FF><CC03F2=00F800010001000F03FF00000000>|
 4|
-<CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll<lineend>be waiting for you.<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>No problem. We'll be waiting for<lineend>you.<pause><lineend>|

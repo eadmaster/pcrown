@@ -1,34 +1,34 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>I saw flames rising<lineend>from Valendine<pause><lineend><CC03EA>Castle!<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I saw flames rising from Valendine<lineend>Castle!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>We came to Leeland<lineend>on our honeymoon.<pause><lineend><CC03EA>Would you believe<lineend>we were attacked by<lineend>pirates?<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>We came to Leeland on our<lineend>honeymoon.<pause><lineend><CC03EA>Would you believe we were attacked<lineend>by pirates?<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a<lineend>pirate attack...I<pause><lineend><CC03EA>feel like a<lineend>princess in a<lineend>fairy-tale!<pause><lineend><CC03EA>What a great<lineend>honeymoon this has<lineend>been!<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a pirate attack...I<lineend>feel like a princess in a<pause><lineend><CC03EA>fairy-tale!<pause><lineend><CC03EA>What a great honeymoon this has<lineend>been!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place<lineend>north of the<pause><lineend><CC03EA>pirates hideout...<pause><lineend><CC03EA>It's as far north<lineend>as anyone has ever<lineend>dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's<lineend>a path into<lineend>paradise beyond its<pause><lineend><CC03EA>shores.<pause><lineend><CC03EA>But legend has it<lineend>that any ship which<lineend>gets too close to<pause><lineend><CC03EA>the island falls<lineend>under a curse.<pause><lineend><CC03EA>It's been years<lineend>since anyone has<lineend>even tried going<pause><lineend><CC03EA>there.<pause><lineend><CC03EA>After all, who<lineend>wants to die<lineend>halfway to<pause><lineend><CC03EA>paradise?<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the<lineend>pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has<lineend>ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into<lineend>paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship<lineend>which gets too close to the island<lineend>falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has<lineend>even tried going there.<pause><lineend><CC03EA>After all, who wants to die<lineend>halfway to paradise?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0063><lineend><color=0001>I wonder if we'll<lineend>have another war<pause><lineend><CC03EA>with the Demon<lineend>Horde.<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>I wonder if we'll have another war<lineend>with the Demon Horde.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=003C><lineend><color=0001>There may be<lineend>trouble in the air,<pause><lineend><CC03EA>but that's no<lineend>reason to sit<lineend>around worrying all<pause><lineend><CC03EA>day.<pause><lineend><CC03EA>It's times like<lineend>these that you<lineend>really have to show<pause><lineend><CC03EA>good cheer.<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>There may be trouble in the air,<lineend>but that's no reason to sit around<pause><lineend><CC03EA>worrying all day.<pause><lineend><CC03EA>It's times like these that you<lineend>really have to show good cheer.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=001C><lineend><color=0001>25 years ago, the<lineend>Demons appeared<pause><lineend><CC03EA>from over the north<lineend>seas.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>25 years ago, the Demons appeared<lineend>from over the north seas.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000F><lineend><color=0001>Pirates are scary,<lineend>but Demons are<pause><lineend><CC03EA>scarier!<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>Pirates are scary, but Demons are<lineend>scarier!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=003D><lineend><color=0001>It sounds crazy,<lineend>but even the color<pause><lineend><CC03EA>of the ocean isn't<lineend>quite right these<lineend>days.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>It sounds crazy, but even the<lineend>color of the ocean isn't quite<pause><lineend><CC03EA>right these days.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001D><lineend><color=0001>The Demons attacked<lineend>like they did 25<pause><lineend><CC03EA>years ago.<pause><lineend><CC03EA>Do you think we<lineend>stand a chance<lineend>against the Demon<pause><lineend><CC03EA>King without Queen<lineend>Elfaran?<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The Demons attacked like they did<lineend>25 years ago.<pause><lineend><CC03EA>Do you think we stand a chance<lineend>against the Demon King without<lineend>Queen Elfaran?<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 11|
 <CC03EA><CC03FC=0004><string=01A7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 12|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 13|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you<lineend>don't have enough<pause><lineend><CC03EA>money, Sir.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid you don't have enough<lineend>money, Sir.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, it looks like<lineend>you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, it looks like you don't have<lineend>space to carry anything.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, you don't have<lineend>anything to sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>Sir, you don't have anything to<lineend>sell!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't<lineend>buy those.<pause><lineend>|
+<CC03EA><color=0006><string=01A7><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|

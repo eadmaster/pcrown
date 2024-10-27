@@ -1,62 +1,62 @@
 0|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Welcome, my dear.<pause><lineend><CC03EA>Which story shall<lineend>we read tonight?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Welcome, my dear.<pause><lineend><CC03EA>Which story shall we read tonight?<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Go and pick a book<lineend>for me to read you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Go and pick a book for me to read<lineend>you.<pause><lineend>|
 2|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Books can be heavy!<lineend>Bend down to pick<lineend>them up.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Books can be heavy! Bend down to<lineend>pick them up.<pause><lineend>|
 3|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called<lineend>"Princess Crown."<pause><lineend><CC03EA>Will this be all<lineend>right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "Princess<lineend>Crown."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 4|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called<lineend>"The Demon Sword."<pause><lineend><CC03EA>Will this be all<lineend>right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Demon<lineend>Sword."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 5|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called<lineend>"The Lost<lineend>Treasure."<pause><lineend><CC03EA>Will this be all<lineend>right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Lost<lineend>Treasure."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 6|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called<lineend>"The Magic Potion."<pause><lineend><CC03EA>Will this be all<lineend>right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Magic<lineend>Potion."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is the<lineend>very last one.<pause><lineend><CC03EA>Will this be all<lineend>right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is the very last one.<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 8|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>‚Í‚¶‚ß‚©‚ç<lineend>‚Â‚Ã‚«‚©‚ç<lineend><endchoose>|
 10|
-<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then<lineend>let's read a<lineend>different one.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a<lineend>different one.<pause><lineend>|
 11|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Let's change the<lineend>game settings.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Let's change the game settings.<pause><lineend>|
 12|
-<CC03EA><CC03FC=0004><string=0172><color=0001>It's getting late.<lineend>Make sure you keep<lineend>the volume down!<lineend><choose>Stereo<lineend>Mono<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>It's getting late. Make sure you<lineend>keep the volume down!<lineend><choose>Stereo<lineend>Mono<lineend><endchoose>|
 13|
-<CC03EA><CC03FC=0004><string=0172><color=0001>How fast should I<lineend>read?<lineend><choose>Fast<lineend>Normal<lineend>Slow<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>How fast should I read?<lineend><choose>Fast<lineend>Normal<lineend>Slow<lineend><endchoose>|
 14|
-<CC03EA><CC03FC=0004><string=0172><color=0001>The story begins<lineend>long before the<lineend>Princess was<pause><lineend><CC03EA>born...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>The story begins long before the<lineend>Princess was born...<pause><lineend>|
 15|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Which one did you<lineend>get? Ah, this one<lineend>is a bit of a boy's<pause><lineend><CC03EA>story...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Which one did you get? Ah, this<lineend>one is a bit of a boy's story...<pause><lineend>|
 16|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This is a story<lineend>about a pirate!<pause><lineend><CC03EA>But he's not a bad<lineend>pirate. Just<lineend>listen, and you'll<pause><lineend><CC03EA>see...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This is a story about a pirate!<pause><lineend><CC03EA>But he's not a bad pirate. Just<lineend>listen, and you'll see...<pause><lineend>|
 17|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This one is about a<lineend>tomboy witch...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This one is about a tomboy<lineend>witch...<pause><lineend>|
 18|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This one is called<lineend>"The Last Story."<pause><lineend><CC03EA>Let's begin...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This one is called "The Last<lineend>Story."<pause><lineend><CC03EA>Let's begin...<pause><lineend>|
 19|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Ah yes, here is<lineend>where we left<lineend>off...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Ah yes, here is where we left<lineend>off...<pause><lineend>|
 20|
 <CC03ED=01720000000103FF>|
 21|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This is the only<lineend>book we have at the<lineend>moment.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This is the only book we have at<lineend>the moment.<pause><lineend>|
 22|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so,<lineend>Gradriel's<lineend>adventures live on<pause><lineend><CC03EA>today in the<lineend>stories that the<lineend>fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like<lineend>it?<lineend><pause><CC03EA>Hmm? Did Gradriel<lineend>become a good<lineend>Queen?<pause><lineend><CC03EA>Why yes, she went<lineend>on to become an<lineend>even greater Queen<pause><lineend><CC03EA>than her Mother,<lineend>Elfaran.<pause><lineend><CC03EA>She was loved by<lineend>all, and never<lineend>backed down in the<pause><lineend><CC03EA>face of evil.<pause><lineend><CC03EA>Not only that, but<lineend>she was both fair<lineend>and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long<lineend>one, wasn't it?<pause><lineend><CC03EA>Is there another<lineend>book you would like<lineend>to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures<lineend>live on today in the stories that<lineend>the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good<lineend>Queen?<pause><lineend><CC03EA>Why yes, she went on to become an<lineend>even greater Queen than her<lineend>Mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never<lineend>backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both<lineend>fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would<lineend>like to read?<pause><lineend>|
 23|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward<lineend>set out to become a<lineend>Knight worthy of<pause><lineend><CC03EA>his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edwards travels<lineend>didn't end there,<lineend>but for this book,<pause><lineend><CC03EA>that's all.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to<lineend>become a Knight worthy of his<lineend>Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edwards travels didn't end there,<lineend>but for this book, that's all.<pause><lineend>|
 24|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you<lineend>like it?<lineend><pause><CC03EA>Hmm? Was Edward<lineend>able to become a<lineend>member of the<pause><lineend><CC03EA>Guard?<pause><lineend><CC03EA>I'm afraid you'll<lineend>have to wait until<lineend>next time to find<pause><lineend><CC03EA>out! Ha ha!<pause><lineend><CC03EA>Is there another<lineend>book you would like<lineend>to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a<lineend>member of the Guard?<pause><lineend><CC03EA>I'm afraid you'll have to wait<lineend>until next time to find out! Ha<lineend>ha!<pause><lineend><CC03EA>Is there another book you would<lineend>like to read?<pause><lineend>|
 25|
-<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina<lineend>kept searching for<lineend>a way to grow up...<pause><lineend><CC03EA>...and in the<lineend>process of doing<lineend>so, finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like<lineend>it? Was it a fun<lineend>story?<pause><lineend><CC03EA>Proserpina went on<lineend>to cause Queen<lineend>Gradriel all kinds<pause><lineend><CC03EA>of trouble in the<lineend>years to come.<pause><lineend><CC03EA>In the end, though,<lineend>she became a<lineend>wonderful witch<pause><lineend><CC03EA>indeed. Ha ha!<pause><lineend><CC03EA>Is there another<lineend>book you would like<lineend>to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching<lineend>for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so,<lineend>finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun<lineend>story?<pause><lineend><CC03EA>Proserpina went on to cause Queen<lineend>Gradriel all kinds of trouble in<lineend>the years to come.<pause><lineend><CC03EA>In the end, though, she became a<lineend>wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would<lineend>like to read?<pause><lineend>|
 26|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Portgus<lineend>kept the treasure<lineend>with him for the<pause><lineend><CC03EA>rest of his life.<pause><lineend><CC03EA>...The End.<lineend>How did you like<lineend>this one?<pause><lineend><CC03EA>What's that?<lineend>It made you a<lineend>little sad?<pause><lineend><CC03EA>Don't worry, my<lineend>dear. Portgus<lineend>returned to the<pause><lineend><CC03EA>seas, where he<lineend>lived a happy life.<pause><lineend><CC03EA>Together with<lineend>Faris's jewel, that<lineend>is.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Portgus kept the<lineend>treasure with him for the rest of<lineend>his life.<pause><lineend><CC03EA>...The End.<lineend>How did you like this one?<pause><lineend><CC03EA>What's that?<lineend>It made you a little sad?<pause><lineend><CC03EA>Don't worry, my dear. Portgus<lineend>returned to the seas, where he<lineend>lived a happy life.<pause><lineend><CC03EA>Together with Faris's jewel, that<lineend>is.<pause><lineend>|
 27|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Well then, are<lineend>there any other<lineend>books you would<pause><lineend><CC03EA>like me to read<lineend>you?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Well then, are there any other<lineend>books you would like me to read<lineend>you?<pause><lineend>|
 28|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so,<lineend>ever-lasting peace<lineend>fell over the whole<pause><lineend><CC03EA>kingdom.<pause><lineend><CC03EA>...and now, we've<lineend>finished all the<lineend>stories.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, ever-lasting peace fell<lineend>over the whole kingdom.<pause><lineend><CC03EA>...and now, we've finished all the<lineend>stories.<pause><lineend>|
 29|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy<lineend>reading these<lineend>books?<pause><lineend><CC03EA>When I was your<lineend>size, your<lineend>great-grandMother<pause><lineend><CC03EA>would read these to<lineend>me again and again.<lineend><pause><lineend><CC03EA>Your<lineend>great-grandMother<lineend>was the one who<pause><lineend><CC03EA>wrote them, after<lineend>all.<pause><lineend><CC03EA>She said she heard<lineend>each story from the<lineend>fairies themselves.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your<lineend>great-grandMother would read these<lineend>to me again and again. <pause><lineend><CC03EA>Your great-grandMother was the one<lineend>who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from<lineend>the fairies themselves.<pause><lineend>|
 30|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was<lineend>Tabitha.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was Tabitha.<pause><lineend>|

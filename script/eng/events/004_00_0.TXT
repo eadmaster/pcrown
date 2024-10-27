@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0006><string=0004><lineend><color=0001>It's just terrible!<lineend>Those fairies took<pause><lineend><CC03EA>away our children!<pause><lineend><CC03EA>I can't believe<lineend>fairies would do<lineend>such a thing...<pause><lineend><CC03EA>And here I never<lineend>thought they were<lineend>real in the first<pause><lineend><CC03EA>place!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>It's just terrible! Those fairies<lineend>took away our children!<pause><lineend><CC03EA>I can't believe fairies would do<lineend>such a thing...<pause><lineend><CC03EA>And here I never thought they were<lineend>real in the first place!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Miss, have you seen<lineend>my son Nilus<pause><lineend><CC03EA>anywhere?<pause><lineend><CC03EA>The last time I saw<lineend>him, he was playing<lineend>in the town square.<pause><lineend><CC03EA>Now he hasn't been<lineend>home for three<lineend>days!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Miss, have you seen my son Nilus<lineend>anywhere?<pause><lineend><CC03EA>The last time I saw him, he was<lineend>playing in the town square.<pause><lineend><CC03EA>Now he hasn't been home for three<lineend>days!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Nilus!<lineend>Nilus!!<pause><lineend>|
 3|
@@ -11,11 +11,11 @@
 5|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Where are you??<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0012><lineend><color=0001>I'm sorry, Miss. I<lineend>know you've come<pause><lineend><CC03EA>all this way, but<lineend>my bakery is closed<lineend>right now.<pause><lineend><CC03EA>My sweet little<lineend>daughter is<lineend>missing, and this<pause><lineend><CC03EA>is no time to be<lineend>baking.<pause><lineend><CC03EA>You be careful of<lineend>those fairies, too,<lineend>Miss.<lineend><color=0005>Make sure you don't<lineend>get too close to<lineend>the <color=0002>forest to the<lineend>south.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>I'm sorry, Miss. I know you've<lineend>come all this way, but my bakery<pause><lineend><CC03EA>is closed right now.<pause><lineend><CC03EA>My sweet little daughter is<lineend>missing, and this is no time to be<lineend>baking.<pause><lineend><CC03EA>You be careful of those fairies,<lineend>too, Miss.<lineend><color=0005>Make sure you don't get too close<lineend>to the <color=0002>forest to the south.<color=0001><pause><lineend>|
 7|
-<CC03EA><color=0006><string=0012><lineend><color=0001>Watch out for those<lineend>fairies!<pause><lineend><CC03EA><color=0005>From the right side<lineend>of the village,<lineend>there's a path to a<pause><lineend><CC03EA><color=0002>forest south of<lineend>here.<color=0001><pause><lineend><CC03EA>That's where all of<lineend>them live.<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>Watch out for those fairies!<pause><lineend><CC03EA><color=0005>From the right side of the<lineend>village, there's a path to a <color=0002>forest south of here.<color=0001><pause><lineend><CC03EA>That's where all of them live.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Even the ducks are<lineend>sad without the<pause><lineend><CC03EA>children around to<lineend>take care of them.<pause><lineend><CC03EA>I hope someone<lineend>finds Tabitha and<lineend>Nilus soon...<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Even the ducks are sad without the<lineend>children around to take care of<pause><lineend><CC03EA>them.<pause><lineend><CC03EA>I hope someone finds Tabitha and<lineend>Nilus soon...<pause><lineend>|
 9|
 <CC03EA><color=0006><string=00CC><lineend><color=0001>Quack! Quack!<pause><lineend>|
 10|
@@ -25,40 +25,40 @@
 12|
 <CC03EA><color=0006><string=018A><lineend><color=0001>Cheep cheep!<pause><lineend>|
 13|
-<CC03EA><color=0006><string=018B><lineend><color=0001>Cheep cheep<lineend>cheep...<pause><lineend>|
+<CC03EA><color=0006><string=018B><lineend><color=0001>Cheep cheep cheep...<pause><lineend>|
 14|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>Sigh...<pause><lineend><CC03EA>I just know those<lineend>fairies ran off<lineend>with my daughter<pause><lineend><CC03EA>Tabitha!<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>Sigh...<pause><lineend><CC03EA>I just know those fairies ran off<lineend>with my daughter Tabitha!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>Should you come<lineend>across either of<pause><lineend><CC03EA>those children in<lineend>your travels,<lineend>please let us know.<pause><lineend><CC03EA>You'll be rewarded!<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>Should you come across either of<lineend>those children in your travels,<pause><lineend><CC03EA>please let us know.<pause><lineend><CC03EA>You'll be rewarded!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have<lineend>many items that<pause><lineend><CC03EA>will be useful in<lineend>your travels.<pause><lineend><CC03EA>What are you<lineend>looking for?<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have many items that<lineend>will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 17|
 <CC03EA><CC03FC=0004><string=01A4><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 18|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you<lineend>don't have enough,<pause><lineend><CC03EA>Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>I'm afraid you don't have enough,<lineend>Ma'am.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks<lineend>like you don't have<pause><lineend><CC03EA>space to carry<lineend>anything.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, it looks like you don't<lineend>have space to carry anything.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't<lineend>have anything to<pause><lineend><CC03EA>sell!<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>Ma'am, you don't have anything to<lineend>sell!<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those,<lineend>I'm afraid.<pause><lineend>|
+<CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those, I'm afraid.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
 25|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it. Come back<lineend>anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you can't quite afford<lineend>it. Come back anytime.<pause><lineend>|
 26|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then.<lineend>Enjoy your stay.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Very well, then. Enjoy your stay.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 28|
-<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B1><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 29|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 30|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 31|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

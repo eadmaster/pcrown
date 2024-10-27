@@ -1,32 +1,32 @@
 0|
 <CC03EA><color=0006><string=017F><lineend><color=0001>Poor Sidrael...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept<lineend>us in good cheer,<pause><lineend><CC03EA>right up to the<lineend>end.<pause><lineend><CC03EA>She kept saying how<lineend>the Queen and the<lineend>Knight Guard would<pause><lineend><CC03EA>save us.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept us in good<lineend>cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how the Queen and<lineend>the Knight Guard would save us.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Please take care,<lineend>Gradriel.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Please take care, Gradriel.<pause><lineend>|
 3|
-<CC03EA><color=0004><string=0129><lineend><color=0001>You can leave<lineend>everything here at<pause><lineend><CC03EA>the castle up to<lineend>me.<pause><lineend><CC03EA>I have faith that<lineend>you'll come home<lineend>together with<pause><lineend><CC03EA>Sidrael.<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>You can leave everything here at<lineend>the castle up to me.<pause><lineend><CC03EA>I have faith that you'll come home<lineend>together with Sidrael.<pause><lineend>|
 4|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael...<lineend><CC03ED=000000A200010000><pause>|
 5|
 <CC03F0=000000880001000A03FF00000000>|
 6|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Somehow, the people<lineend>in town have gone<pause><lineend><CC03EA>back to living<lineend>their ordinary<lineend>lives.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Somehow, the people in town have<lineend>gone back to living their ordinary<pause><lineend><CC03EA>lives.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=007E><lineend><color=0001>I'm so sorry that I<lineend>couldn't protect<pause><lineend><CC03EA>Sidrael...<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>I'm so sorry that I couldn't<lineend>protect Sidrael...<pause><lineend>|
 8|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Please take care of<lineend>yourself...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Please take care of yourself...<pause><lineend>|
 9|
-<CC03EA><color=0006><string=008B><lineend><color=0001>Queen Gradriel,<lineend>please pray with me<pause><lineend><CC03EA>for Sidrael's<lineend>safety.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>Queen Gradriel, please pray with<lineend>me for Sidrael's safety.<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 11|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that<lineend>the gods have heard<pause><lineend><CC03EA>your Majesty's<lineend>prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have<lineend>heard your Majesty's prayers.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 13|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 14|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 15|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|

@@ -1,54 +1,54 @@
 65536|
-<CC03EA><color=0004><string=0187><lineend><color=0001>Dang, that's was<lineend>great!<lineend>I'm gonna go again!<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Dang, that's was great!<lineend>I'm gonna go again!<pause><lineend>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Proserpina?<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=0187><lineend><color=0001>...Gradriel!!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I thought I'd find<lineend>you here. You're<pause><lineend><CC03EA>not supposed to<lineend>keep the<lineend>Truck-Chase to<pause><lineend><CC03EA>yourself!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I thought I'd find you here.<lineend>You're not supposed to keep the<pause><lineend><CC03EA>Truck-Chase to yourself!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0187><lineend><color=0001>But it's so much<lineend>fun!!<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>But it's so much fun!!<pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Well, why can't you<lineend>share it with the<pause><lineend><CC03EA>others?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Well, why can't you share it with<lineend>the others?<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0187><lineend><color=0001>Nobody will race<lineend>me, that's why! I'm<pause><lineend><CC03EA>here all by myself.<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Nobody will race me, that's why!<lineend>I'm here all by myself.<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>That's probably<lineend>because you scared<pause><lineend><CC03EA>everyone away.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>That's probably because you scared<lineend>everyone away.<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=0187><lineend><color=0001>Don't be<lineend>ridiculous!!<pause><lineend><CC03EA>OK, so I got a<lineend>little mad when I<lineend>lost, and I used a<pause><lineend><CC03EA>little lightning<lineend>magic on someone.<pause><lineend><CC03EA>So what?<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>Don't be ridiculous!!<pause><lineend><CC03EA>OK, so I got a little mad when I<lineend>lost, and I used a little<lineend>lightning magic on someone.<pause><lineend><CC03EA>So what?<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>You know, sometimes<lineend>I think you have no<pause><lineend><CC03EA>idea how much of a<lineend>terror you're<lineend>being.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>You know, sometimes I think you<lineend>have no idea how much of a terror<pause><lineend><CC03EA>you're being.<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Proserpina, please<lineend>give the<pause><lineend><CC03EA>Truck-Chase back to<lineend>the Dwarves.<pause><lineend><CC03EA>They're all waiting<lineend>to use it.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Proserpina, please give the<lineend>Truck-Chase back to the Dwarves.<pause><lineend><CC03EA>They're all waiting to use it.<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=0187><lineend><color=0001>There you go again!<pause><lineend><CC03EA>Don't you have<lineend>anything better to<lineend>do than ruin my<pause><lineend><CC03EA>fun?<pause><lineend><CC03EA>Today, I'm going to<lineend>show you who's<lineend>Boss!<pause><lineend><CC03EA>You and me,<lineend>Gradriel! Let's go!<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>There you go again!<pause><lineend><CC03EA>Don't you have anything better to<lineend>do than ruin my fun?<pause><lineend><CC03EA>Today, I'm going to show you who's<lineend>Boss!<pause><lineend><CC03EA>You and me, Gradriel! Let's go!<pause><lineend>|
 131072|
 <CC03EA><color=0004><string=0187><lineend><color=0001>Dang it!!<lineend>I lost again!?<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I want you to play<lineend>nice with the<pause><lineend><CC03EA>Dwarves.<pause><lineend><CC03EA>Don't go casting<lineend>magic on them just<lineend>because you lost!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I want you to play nice with the<lineend>Dwarves.<pause><lineend><CC03EA>Don't go casting magic on them<lineend>just because you lost!<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=0187><lineend><color=0001>Fine. Fine.<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=0187><lineend><color=0001>I'll use it as<lineend>little as possible!<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>I'll use it as little as possible!<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>As little as<lineend>possible?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>As little as possible?<pause><lineend>|
 131077|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I think I know what<lineend>that means.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think I know what that means.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Something tells me<lineend>we haven't seen the<pause><lineend><CC03EA>last of her.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Something tells me we haven't seen<lineend>the last of her.<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Probably not.<pause><lineend><CC03EA>But that's OK.<lineend>Anytime she causes<lineend>trouble, we can put<pause><lineend><CC03EA>an end to it<lineend>ourselves.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Probably not.<pause><lineend><CC03EA>But that's OK. Anytime she causes<lineend>trouble, we can put an end to it<lineend>ourselves.<pause><lineend>|
 131080|
-<CC03EA><color=0002><string=0000><lineend><color=0001>For now, I should<lineend>go talk to the<pause><lineend><CC03EA>king.<pause><lineend><CC03EA>I need to tell him<lineend>that the Dwarves<lineend>have the<pause><lineend><CC03EA>Truck-Chase back.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>For now, I should go talk to the<lineend>king.<pause><lineend><CC03EA>I need to tell him that the<lineend>Dwarves have the Truck-Chase back.<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she<lineend>actually gave it<pause><lineend><CC03EA>back!?<pause><lineend><CC03EA>First that giant<lineend>Spider, and now<lineend>this...We can't<pause><lineend><CC03EA>thank you enough!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she actually gave it<lineend>back!?<pause><lineend><CC03EA>First that giant Spider, and now<lineend>this...We can't thank you enough!<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>My people and I can<lineend>have fun once<pause><lineend><CC03EA>again.<pause><lineend><CC03EA>As a show of<lineend>thanks, let me<lineend>upgrade your sword!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>My people and I can have fun once<lineend>again.<pause><lineend><CC03EA>As a show of thanks, let me<lineend>upgrade your sword!<pause><lineend>|
 262144|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>It's finished!<pause><lineend>|
 262145|
-<CC03EA><color=0002>Gradriel's sword is<lineend>now stronger!<pause><lineend>|
+<CC03EA><color=0002>Gradriel's sword is now stronger!<pause><lineend>|
 262146|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Dwarf<lineend>King!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Dwarf King!<pause><lineend>|
 262147|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>It's the least I<lineend>can do. Good luck!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>It's the least I can do. Good<lineend>luck!<pause><lineend>|

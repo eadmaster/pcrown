@@ -1,90 +1,90 @@
 0|
-<CC03EA><color=0006><string=001F><lineend><color=0001>When I grow up, I'm<lineend>going to be a<pause><lineend><CC03EA>Wizard!<pause><lineend><CC03EA>Wizards are so<lineend>cool.<lineend>Ala-ka-ZAM!!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>When I grow up, I'm going to be a<lineend>Wizard!<pause><lineend><CC03EA>Wizards are so cool.<lineend>Ala-ka-ZAM!!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0052><lineend><color=0001>Cadho Badho is rich<lineend>in history and full<pause><lineend><CC03EA>of interesting<lineend>stories.<pause><lineend><CC03EA>For anyone learning<lineend>magic, it's a<lineend>fascinating place<pause><lineend><CC03EA>to be.<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Cadho Badho is rich in history and<lineend>full of interesting stories.<pause><lineend><CC03EA>For anyone learning magic, it's a<lineend>fascinating place to be.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0053><lineend><color=0001>Our Leader may be<lineend>young, but he is a<pause><lineend><CC03EA>wonderful person.<pause><lineend><CC03EA>He built a school<lineend>for anyone who<lineend>wants to learn<pause><lineend><CC03EA>magic, and stocked<lineend>it with his own<lineend>books.<pause><lineend>|
+<CC03EA><color=0006><string=0053><lineend><color=0001>Our Leader may be young, but he is<lineend>a wonderful person.<pause><lineend><CC03EA>He built a school for anyone who<lineend>wants to learn magic, and stocked<lineend>it with his own books.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=001C><lineend><color=0001>My, aren't you a<lineend>cute little witch?<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>My, aren't you a cute little<lineend>witch?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0029><lineend><color=0001>My Dad gets lost<lineend>really easily.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>My Dad gets lost really easily.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0011><lineend><color=0001>It's a nice city,<lineend>isn't it? Enjoy<pause><lineend><CC03EA>your stay.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>It's a nice city, isn't it? Enjoy<lineend>your stay.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0028><lineend><color=0001>The man by the<lineend>statue is the<pause><lineend><CC03EA>Leader of the<lineend>Wizards.<pause><lineend><CC03EA>He's a very sharp<lineend>fellow!<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>The man by the statue is the<lineend>Leader of the Wizards.<pause><lineend><CC03EA>He's a very sharp fellow!<pause><lineend>|
 7|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>I'm the Leader of<lineend>the Wizards of<pause><lineend><CC03EA>Cadho Badho.<pause><lineend><CC03EA>It's my duty to<lineend>uphold order and<lineend>local culture.<pause><lineend><CC03EA>Unfortunately, the<lineend>Warriors don't<lineend>understand such<pause><lineend><CC03EA>noble intentions.<pause><lineend><CC03EA>They say they don't<lineend>trust anyone who<lineend>reads books!<pause><lineend><CC03EA>Or, for that<lineend>matter, anyone who<lineend>has powers they<pause><lineend><CC03EA>think are<lineend>suspicious.<pause><lineend><CC03EA>Sadly, not getting<lineend>along with the<lineend>Warriors causes us<pause><lineend><CC03EA>a great deal of<lineend>problems.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>I'm the Leader of the Wizards of<lineend>Cadho Badho.<pause><lineend><CC03EA>It's my duty to uphold order and<lineend>local culture.<pause><lineend><CC03EA>Unfortunately, the Warriors don't<lineend>understand such noble intentions.<pause><lineend><CC03EA>They say they don't trust anyone<lineend>who reads books!<pause><lineend><CC03EA>Or, for that matter, anyone who<lineend>has powers they think are<lineend>suspicious.<pause><lineend><CC03EA>Sadly, not getting along with the<lineend>Warriors causes us a great deal of<lineend>problems.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Boy, am I sleepy...<pause><lineend><CC03EA>I wish something<lineend>exciting would<lineend>happen around here!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Boy, am I sleepy...<pause><lineend><CC03EA>I wish something exciting would<lineend>happen around here!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I'm thinking of<lineend>inviting my<pause><lineend><CC03EA>sweetheart out on a<lineend>date.<pause><lineend><CC03EA>I wonder how it<lineend>will go? My heart's<lineend>pounding already!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I'm thinking of inviting my<lineend>sweetheart out on a date.<pause><lineend><CC03EA>I wonder how it will go? My<lineend>heart's pounding already!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0057><lineend><color=0001>The Leader's magic<lineend>stands above the<pause><lineend><CC03EA>rest.<pause><lineend>|
+<CC03EA><color=0006><string=0057><lineend><color=0001>The Leader's magic stands above<lineend>the rest.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Most everybody in<lineend>the Wizard's town<pause><lineend><CC03EA>can use magic.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Most everybody in the Wizard's<lineend>town can use magic.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0005><lineend><color=0001>You're so small,<lineend>yet you can use<pause><lineend><CC03EA>magic! Good for<lineend>you!<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>You're so small, yet you can use<lineend>magic! Good for you!<pause><lineend>|
 13|
-<CC03EA><color=0006><string=001D><lineend><color=0001>My grandson lives<lineend>out in the middle<pause><lineend><CC03EA>of nowhere.<pause><lineend><CC03EA>Day in, day out, he<lineend>does nothing but<lineend>his magic<pause><lineend><CC03EA>experiments.<pause><lineend><CC03EA>I'm not exactly<lineend>overjoyed when he<lineend>sends me Insect<pause><lineend><CC03EA>Powder for my<lineend>birthday.<pause><lineend><CC03EA>You're a witch,<lineend>aren't you? I'll<lineend>give you that<pause><lineend><CC03EA>Insect Powder if<lineend>you want it.<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>My grandson lives out in the<lineend>middle of nowhere.<pause><lineend><CC03EA>Day in, day out, he does nothing<lineend>but his magic experiments.<pause><lineend><CC03EA>I'm not exactly overjoyed when he<lineend>sends me Insect Powder for my<lineend>birthday.<pause><lineend><CC03EA>You're a witch, aren't you? I'll<lineend>give you that Insect Powder if you<lineend>want it.<pause><lineend>|
 14|
 <CC03EA><CC03FC=0004><string=001D><color=0001><choose>I do!<lineend>No thanks.<lineend><endchoose>|
 15|
 <CC03EA><color=0006><string=001D><lineend><color=0001>All right, then.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=001D><lineend><color=0001>It looks like you<lineend>don't have enough<pause><lineend><CC03EA>space.<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>It looks like you don't have<lineend>enough space.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=001D><lineend><color=0001>Good! Take it away!<pause><lineend>|
 18|
-<CC03EA><color=0006><string=0054><lineend><color=0001>I'll need to polish<lineend>up my skills if I<pause><lineend><CC03EA>want to help<lineend>protect my city.<pause><lineend>|
+<CC03EA><color=0006><string=0054><lineend><color=0001>I'll need to polish up my skills<lineend>if I want to help protect my city.<pause><lineend>|
 19|
-<CC03EA><color=0006><string=000F><lineend><color=0001>Holy Magic Stones<lineend>are basically for<pause><lineend><CC03EA>healing your body.<pause><lineend><CC03EA>But use them around<lineend>undead monsters<lineend>like Ghouls and<pause><lineend><CC03EA>Ghosts, and they<lineend>can also do damage.<pause><lineend><CC03EA>Our magic teacher<lineend>taught us about<lineend>this the other day.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>Holy Magic Stones are basically<lineend>for healing your body.<pause><lineend><CC03EA>But use them around undead<lineend>monsters like Ghouls and Ghosts,<lineend>and they can also do damage.<pause><lineend><CC03EA>Our magic teacher taught us about<lineend>this the other day.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=0055><lineend><color=0001>Am I a Wizard? Ha<lineend>ha, not exactly.<pause><lineend><CC03EA>I tried, but I kept<lineend>failing the<lineend>classes.<pause><lineend><CC03EA>Eventually, I just<lineend>gave up.<pause><lineend><CC03EA>Kept the clothes,<lineend>though!<pause><lineend>|
+<CC03EA><color=0006><string=0055><lineend><color=0001>Am I a Wizard? Ha ha, not exactly.<pause><lineend><CC03EA>I tried, but I kept failing the<lineend>classes. Eventually, I just gave<lineend>up.<pause><lineend><CC03EA>Kept the clothes, though!<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0056><lineend><color=0001>It's another good<lineend>day to study!<pause><lineend>|
+<CC03EA><color=0006><string=0056><lineend><color=0001>It's another good day to study!<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01CB><lineend><color=0001>I teach magic to<lineend>young people here.<pause><lineend><CC03EA>Seeing my students<lineend>graduate and go out<lineend>into the world is<pause><lineend><CC03EA>the best part of my<lineend>life.<pause><lineend>|
+<CC03EA><color=0006><string=01CB><lineend><color=0001>I teach magic to young people<lineend>here.<pause><lineend><CC03EA>Seeing my students graduate and go<lineend>out into the world is the best<lineend>part of my life.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's<lineend>Magic Shop. What<lineend>can I do for you<pause><lineend><CC03EA>today?<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop.<lineend>What can I do for you today?<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 25|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<lineend>Come again soon!<pause><lineend>|
 26|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>You don't have<lineend>enough money.<pause><lineend><CC03EA>Don't tease your<lineend>elders like that!<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You don't have enough money.<pause><lineend><CC03EA>Don't tease your elders like that!<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag<lineend>is full...<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>It appears your bag is full...<pause><lineend>|
 28|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any<lineend>items!<pause><lineend><CC03EA>It's not nice to<lineend>tease your elders,<lineend>you know.<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>You haven't got any items!<pause><lineend><CC03EA>It's not nice to tease your<lineend>elders, you know.<pause><lineend>|
 29|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>I don't buy those.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>Welcome. You can<lineend>recover from your<pause><lineend><CC03EA>travels here at our<lineend>inn.<pause><lineend><CC03EA>It costs 30G per<lineend>night. Care to<lineend>stay?<pause><lineend>|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Welcome. You can recover from your<lineend>travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to<lineend>stay?<pause><lineend>|
 31|
 <CC03EA><CC03FC=0004><string=01B4><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 32|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>Looks like you<lineend>can't quite afford<pause><lineend><CC03EA>it. Come back<lineend>anytime.<pause><lineend>|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Looks like you can't quite afford<lineend>it. Come back anytime.<pause><lineend>|
 33|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>Very well, my lady.<lineend>Enjoy your stay.<pause><lineend>|
 34|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>Good morning. May<lineend>the rest of your<pause><lineend><CC03EA>journey be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Good morning. May the rest of your<lineend>journey be safe.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>Suit yourself. Just<lineend>remember to get<pause><lineend><CC03EA>some rest every now<lineend>and then. And save,<lineend>too!<pause><lineend>|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Suit yourself. Just remember to<lineend>get some rest every now and then.<pause><lineend><CC03EA>And save, too!<pause><lineend>|
 36|
 <CC03EA><color=0001>Will you save?<lineend><pause>|
 37|
-<CC03EA><color=0001>Are you sure you<lineend>want to save on<lineend>this bookmark?<pause><lineend>|
+<CC03EA><color=0001>Are you sure you want to save on<lineend>this bookmark?<pause><lineend>|
 38|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 39|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points<lineend>shall become<pause><lineend><CC03EA>one...That which<lineend>is, shall be no<lineend>longer...<pause><lineend><CC03EA>In the blink of an<lineend>eye, this<lineend>mysterious magic<pause><lineend><CC03EA>square will send<lineend>you anywhere you<lineend>desire.<pause><lineend><CC03EA>It costs 15G. Care<lineend>to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become<lineend>one...That which is, shall be no<pause><lineend><CC03EA>longer...<pause><lineend><CC03EA>In the blink of an eye, this<lineend>mysterious magic square will send<lineend>you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a<lineend>try?<pause><lineend>|
 40|
 <CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
 41|
-<CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go?<lineend>Select your<pause><lineend><CC03EA>destination.<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your<lineend>destination.<pause><lineend>|
 42|
-<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next<lineend>time, then. May the<pause><lineend><CC03EA>powers of magic<lineend>watch over you...<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>I'll see you next time, then. May<lineend>the powers of magic watch over<pause><lineend><CC03EA>you...<pause><lineend>|
 43|
-<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't<lineend>have enough money.<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>Oh dear. You don't have enough<lineend>money.<pause><lineend>|
 44|
-<CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where<lineend>you've never been.<pause><lineend><CC03EA>You must find<lineend>places like this<lineend>one in your<pause><lineend><CC03EA>travels. Only then<lineend>can I send you to<lineend>them.<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never<lineend>been.<pause><lineend><CC03EA>You must find places like this one<lineend>in your travels. Only then can I<lineend>send you to them.<pause><lineend>|
