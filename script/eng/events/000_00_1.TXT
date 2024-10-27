@@ -15,7 +15,7 @@
 65539|
 <CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Did something happen?<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Great Eriel has vanished<lineend>from the castle and<pause><lineend><CC03EA>her whereabouts<lineend>are<lineend>unkonwn.<pause><lineend><CC03EA>There are reports from <lineend>people of the castle town<lineend>whom are said to<pause><lineend><CC03EA>have seen what looks like Great Eriel<lineend>by the Black Forest.<pause><lineend><CC03EA>Sir Kwein was accompanied by<lineend>several Knights headed to<lineend>search it,<pause><lineend><CC03EA>but there is still<lineend>no notification from him.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Great Eriel has disappeared<lineend>from the castle and<pause><lineend><CC03EA>her whereabouts<lineend>are<lineend>unknown.<pause><lineend><CC03EA>There are reports from <lineend>people of the castle town<lineend>whom are said to<pause><lineend><CC03EA>have seen what looks like Great Eriel<lineend>by the Black Forest.<pause><lineend><CC03EA>Sir Kwein was accompanied by<lineend>several Knights headed to<lineend>search it,<pause><lineend><CC03EA>but there is still<lineend>no notification from him.<pause><lineend>|
 65541|
 <CC03EA><CC03FC=0004><string=007F><color=0001>Master Jestonai! Sir<lineend>Kwein, head of the Knights, has<lineend>returned!!<pause><lineend>|
 65542|
