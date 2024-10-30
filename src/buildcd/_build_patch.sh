@@ -1,3 +1,5 @@
+#!/bin/bash
+
 
 # cleanup
 rm *.eng
@@ -11,13 +13,15 @@ cp "Princess Crown (Japan) (1M) (Track 01) (English).iso" "Princess Crown (Japan
 
 # update font
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN
-#xdelta3 -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply font patch
-#xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create font patch
+if [ "$1" == "new" ]; then
+    xdelta3 -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply font patch
+    #xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
+fi
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
-TRANSLATED_SCRIPT_PATH=$HOME/github/pcrown/script/eng
+TRANSLATED_SCRIPT_PATH=../../script/eng
 
-# update items names
+# update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
 wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI.BIN  0x2400
 # MEMO: modifies 0.BIN inplace, also alters KANJI.BIN?
@@ -50,7 +54,14 @@ ucon64 --nbak --poke=702BB:3A 0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 
 # update events
-# 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" *.EVN
+if [ "$1" == "new" ] || [ "$1" == "update_script" ]; then
+    7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" *.EVN
+    # enforce correct line splitting
+    for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
+        python _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
+    done
+fi
+
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
     if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then

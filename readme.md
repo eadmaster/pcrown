@@ -1,5 +1,5 @@
 
-# Princess Crown Translation (Unofficial) Redux
+# Princess Crown Translation GPL edition
 
 [old readme here](readme.txt.old)
 
@@ -11,27 +11,13 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 
 ## Current status
 
- - all story events and names translated using a fixed-width font
+ - all story events and names translated using a fixed-width font, with bugs in some dialogs
  - [missing items translations](https://github.com/eadmaster/pcrown/issues/2)
  - [missing translation for location signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
 
 
-## FAQs
-
-### use a VWF (Variable Width Font)?
-
-That would require a lot of code changes, not top priority atm.
-
-### PSP port?
-
-not top priority atm.
-
-### Found a bug?
-
-Please report game-breaking bugs (like soft-locks) while providing a savegame and instructions to reproduce.
-
-Most bugs related to text dialogs were already reported and are known.
+[FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
 
 
 ## Preview
@@ -60,6 +46,7 @@ Most bugs related to text dialogs were already reported and are known.
 6. use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play with the patched iso.
 
 
+
 ## Contributions
  
 Issues and PRs are currently restricted to contributors to avoid spamming, trolling, etc.
@@ -70,10 +57,10 @@ Contact me via discord or forums if you can contribute or have issues to report:
  - https://segaxtreme.net/members/eadmaster.30323/
  - https://gbatemp.net/members/eadmaster.52646/
 
+**P.N.: any bit contributed will be re-shared in this repo under the terms of GPL-2.0.**
 
-# New contributors
 
-Not already listed in the [old readme](readme.txt.old):
+# New contributors/Special thanks
 
  - [paul-met](https://github.com/paul-met) and derek ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
  - Spike and MLagaffe (bug reports)

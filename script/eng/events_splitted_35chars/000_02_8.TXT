@@ -1,4 +1,0 @@
-0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>We must summon Lord Jestonai and<lineend>Sir Kwein at once!<pause><lineend>|
-1|
-<CC03EA><color=0006><string=0052><lineend><color=0001>I'm sensing an incredible power.<lineend>Please be careful.<pause><lineend>|

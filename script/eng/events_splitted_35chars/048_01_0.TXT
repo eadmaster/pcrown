@@ -1,4 +1,0 @@
-0|
-<CC03EA><color=0004><string=0107><lineend><color=0001>By the way, Gradriel, there's<lineend>something I wanted to mention to<pause><lineend><CC03EA>you...<pause><lineend><CC03EA><color=0005>There's a cave in the woods off<lineend>the path between here and Cadho<lineend>Badho.<pause><lineend><CC03EA><color=0001>I sense something giving off a<lineend>faint magical energy there.<pause><lineend><CC03EA>If you can get your hands on<lineend>whatever it is, it could make your<lineend>journey a little easier.<pause><lineend><CC03EA>If you have the time, why not go<lineend>take a look?<pause><lineend>|
-1|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Thank you again, Gradriel.<pause><lineend>|

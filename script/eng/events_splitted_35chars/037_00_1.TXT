@@ -1,6 +1,0 @@
-65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>デーモンたちはこの塔の最上階から魔界へ<lineend>戻ったのだと思うのですが・・・<pause><lineend>|
-65537|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>魔界ってすごくこわいとこなんでしょ<lineend>本当に行くの？<pause><lineend>|
-65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>さあ、急ぎましょう。<pause><lineend>|
