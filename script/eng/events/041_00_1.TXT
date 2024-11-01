@@ -63,9 +63,9 @@
 31|
 <CC03F0=002E00320000001903FF00000000>|
 32|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>—‰¤—lAŠm‚©Ô‚¢”¯‚Ì–‚—‚ª‚¢‚é‚Ì‚Á‚Ä<pause><lineend><CC03EA><color=0005>‚±‚ÌŠX‚ÆƒAƒ“ƒo[ƒXƒeƒbƒv‚ÌŠÔ‚É‚ ‚é<lineend>‚í‚«‚İ‚¿‚ğs‚Á‚½æ<color=0001>‚Ì“´ŒA‚æ‚ËH<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>ï»¿Your Majesty, we're certain about it.<pause><lineend>A red-haired witch is in a cave on the<color=0005>southwest path to Amberstep.<color=0001><pause><lineend>|
 33|
-<CC03EA><color=0002><string=0000><lineend><color=0001>‚¦‚¦B<lineend>‚½‚µ‚©<color=0002>“ì¼‚É‚ ‚é“´ŒA<color=0001>‚¾‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚µ‚½B<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ï»¿This is certain.<lineend>The cavern was said to be in the<color=0002>southwest.<color=0001><pause><lineend>|
 34|
 <CC03F0=000000880001000A03FF00000000>|
 35|
