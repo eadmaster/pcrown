@@ -1,9 +1,9 @@
 0|
 <CC03FB=000A>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting<lineend>in the throne room.<lineend>Please see him at<pause><lineend><CC03EA>once!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting<lineend>in the Audience Hall.<lineend>Please see him at<pause><lineend><CC03EA>once!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Please hurry to the audience hall.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please hurry to the Audience Hall.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Please take care.<lineend>May all your<pause><lineend><CC03EA>battles be<lineend>victorious!<pause><lineend>|
 65536|
@@ -63,4 +63,4 @@
 65563|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of<lineend>Valendine and the<pause><lineend><CC03EA>port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take<lineend>care.<pause><lineend>|
 65564|
-<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>Within the middle of the Black Forest to the North break on the path<color=0001>があり<lineend>ahead is<color=0002>魔女の塔<color=0001>a shortcut.<pause><lineend><CC03EA>Knights of the Forest await nearby.<lineend>Always arrive prepared.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>﻿In the depths of the Black Forest, a <color=0001>exists<lineend>break in the road<color=0002>leads north to the <color=0001>Witch's Tower.<pause><lineend><CC03EA>Knights are on standby near the forest<lineend>and ready to assist whenever needed.<lineend><pause>|
