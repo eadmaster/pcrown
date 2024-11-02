@@ -65,13 +65,13 @@
 131094|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm going to fight, too!<pause><lineend>|
 131095|
-<CC03EA><color=0004><string=0178><lineend><color=0001>The old guy already told you, didn't he?<pause><lineend><CC03EA>Your job is the stay here.<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>The old guy already told you, didn't he?<pause><lineend><CC03EA>Your job is to stay here.<pause><lineend>|
 131096|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But...<pause><lineend>|
 131097|
 <CC03EA><color=0004><string=016C><lineend><color=0001>He's right, you know.<pause><lineend>|
 131098|
-<CC03EA><color=0002><string=0000><lineend><color=0001>・・・すみませんわたしのために。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry, it's for me.<pause><lineend>|
 131099|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Fine. Just be careful. Both of you.<pause><lineend>|
 196608|
@@ -103,7 +103,7 @@
 262146|
 <CC03EA><color=0006><string=0084><lineend><color=0001>Yaaah!<pause><lineend>|
 262147|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>やれやれ、せっかく<lineend>見逃してやったのに・・・<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Well, after all,<lineend>I managed to overlook it...<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0105><lineend><color=0001>I want my crown back.<pause><lineend>|
 262149|
