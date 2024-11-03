@@ -75,7 +75,7 @@
 196608|
 <CC03EA><CC03FC=0004><string=0125>Boss! We're in trouble!<pause><lineend><CC03EA>Look at that pirate ship!!<pause><lineend>|
 196609|
-<CC03EA><color=0003><string=0003><lineend><color=0001>–³–‚¾‚Á‚½‚©EEE<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Are you okay?<pause><lineend>|
 196610|
 <CC03EA><CC03FC=0004><string=0125>Boss! What in the world is happening!?<pause><lineend><CC03EA>The old man vanished, and then a little later, that ship appeared! I don't get it!<pause><lineend>|
 196611|
