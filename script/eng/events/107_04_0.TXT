@@ -31,11 +31,11 @@
 131072|
 <CC03EA><color=0005><string=0174><lineend><color=0001>You, however, I can kill right now!<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=0103><lineend><color=0001>ぬおおおっ！<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Nuoooo!<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=017C><lineend><color=0001>Sir Glowstar!<pause><lineend>|
 131075|
-<CC03EA><color=0003><string=0001><lineend><color=0001>ゴルゴダ！？<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Golgotha!?<pause><lineend>|
 131076|
 <CC03EA><color=0005><string=0174><lineend><color=0001>Reinforcements?<pause><lineend>|
 131077|
