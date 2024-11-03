@@ -11,7 +11,7 @@
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Aaahh!!!<pause><lineend>|
 65542|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Ç»ÇÒÇæÇ∆ÅEÅEÅI<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>What...!<pause><lineend>|
 65543|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible magic power!<pause><lineend><CC03EA>That's the power of...darkness!<pause><lineend><CC03EA>Such a shame. I'll have to withdraw for now.<pause><lineend>|
 65544|
