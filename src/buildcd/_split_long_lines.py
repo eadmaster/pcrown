@@ -41,11 +41,48 @@ def insert_lineend_every_x_chars(s, init_lines_counter=0):
         # Move the position after the space
         position = insert_pos + 1
     
-    
     return result
     
     
+def insert_lineend_in_colored_text(s, init_lines_counter, init_char_counter):
+    position = 0
+    result = ""
+    lines_counter = init_lines_counter
+    
+    # TODO: may need to loop for longer lines
+    
+    slice_max = s[position:position + MAX_CHARS_PER_LINE - (init_char_counter - len(s))]
 
+    last_space_pos = slice_max.rfind(' ')
+    #print(slice_max)
+    
+    insert_pos = position + last_space_pos
+    if last_space_pos == -1:
+        # just add a newline at the beginning
+        insert_pos = 0
+    
+    # Add part before the space and insert the <lineend> tag
+    lines_counter += 1
+    if(lines_counter<3):
+        result += s[position:insert_pos].rstrip() + "<lineend>" + s[insert_pos:].lstrip()
+    else:
+        result += s[position:insert_pos].rstrip() + "<pause><lineend><CC03EA>" + s[insert_pos:].lstrip()
+    return result, (len(s) - insert_pos)
+        
+        
+        
+        
+def length_after_last_tag(s):
+    lineend_tag_end = s.rfind('lineend>')
+    lineend_tag_end = s.rfind('CC03EA>')
+    
+    if tag_end == -1:
+        return 0  # No closing tag found, so return 0
+    return len(s) - tag_end - 1
+    
+    
+    
+    
 import sys
 
 
@@ -53,19 +90,44 @@ f = open(sys.argv[1], 'r', encoding='shift_jis')
 out = open(sys.argv[2], 'w', encoding='shift_jis') 
 
 init_lines_counter=0
+init_char_counter = 0
 
 for line in f.readlines():
     init_lines_counter = 0
+    init_char_counter = 0
     if(not line.endswith("|")):
         tags = line.split(">")
         for t in tags:
             if t.startswith("<lineend"):
                 init_lines_counter += 1
+                init_char_counter = 0
+                continue
             if t.startswith("<CC03EA"):
                 init_lines_counter = 0   # new dialog, reset to 0
+                init_char_counter = 0
+                continue
             if t.startswith("<"):
                 continue
             curr_line_text = t.split("<")[0]
+                
+            # handle color tags
+            if t.endswith(( "<color=0001",  "<color=0005", "<color=0002")):
+                init_char_counter += len(curr_line_text)
+                if(init_char_counter > MAX_CHARS_PER_LINE):
+                    new_line_text, init_char_counter = insert_lineend_in_colored_text(curr_line_text, init_lines_counter, init_char_counter)
+                    line = line.replace(curr_line_text, new_line_text)
+                    if "<CC03EA" in new_line_text:
+                        init_lines_counter = 0
+                    if "<lineend" in new_line_text:
+                        init_lines_counter += 1
+                        #print(t)
+                        #print(init_char_counter)
+                    #init_char_counter = length_after_last_tag(new_line_text)
+                    #print(init_char_counter)
+                continue
+            else:
+                init_char_counter = 0
+                
             if(len(curr_line_text)<MAX_CHARS_PER_LINE):
                 # nothing to change
                 continue
@@ -73,6 +135,7 @@ for line in f.readlines():
                 # add a "<lineend>" tag
                 new_line_text = insert_lineend_every_x_chars(curr_line_text, init_lines_counter)
                 line = line.replace(curr_line_text, new_line_text)
+        # end for tags
+    # end if
     out.write(line)
 
-    
