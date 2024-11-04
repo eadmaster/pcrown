@@ -16,7 +16,7 @@ xdelta3.exe -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown
 
 del /F /Q "Princess Crown (Japan) (1M) (Track 01).iso"
 
-curl.exe -kL "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue" -o "Princess Crown (Japan) (1M) (English).cue"
+curl.exe -kL "https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/Princess%%20Crown%%20(Japan)%%20(1M)%%20(English).cue" -o "Princess Crown (Japan) (1M) (English).cue"
 
 echo use this cue sheet to play the game: "Princess Crown (Japan) (1M) (English).cue"
 
