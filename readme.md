@@ -17,12 +17,12 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
  - needs play testing for bugs
 
 
-[FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
+## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
 
 
 ## Preview
 
-![welcome](https://github.com/user-attachments/assets/c86585d6-106a-409b-951b-5bbd072533f6)  ![npc](https://github.com/user-attachments/assets/65079e18-e319-48a9-9838-e569729a7951)
+![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)
 
 
 ## Semi-automated patch instructions
