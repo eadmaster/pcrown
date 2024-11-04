@@ -1,21 +1,21 @@
 0|
 <CC03FB=000A>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting<lineend>in the Audience Hall.<lineend>Please see him at once!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Y, Your Highness!<lineend>You're safe!<pause><lineend><CC03EA>Jestonai is waiting in the Audience Hall.<lineend>Please see him at once!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Please hurry to the Audience Hall.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care.<lineend>May all your<pause><lineend><CC03EA>battles be<lineend>victorious!<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Please take care.<lineend>May all your battles be victorious!<pause><lineend>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>You've made it back<lineend>safely!<pause><lineend><CC03EA>We were all so<lineend>worried about you.<pause><lineend><CC03EA>I hope you realize<lineend>the weight of what<lineend>you've done...<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>You've made it back safely!<pause><lineend><CC03EA>We were all so worried about you.<lineend>I hope you realize<lineend>the weight of what you've done...<lineend><pause>|
 65537|
-<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize for<lineend>leaving without<pause><lineend><CC03EA>telling anybody.<lineend><CC03ED=000000A0000103FF><pause>|
+<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize<lineend>for leaving without telling anybody.<lineend><CC03ED=000000A0000103FF><pause>|
 65538|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>There are urgent<lineend>matters to deal<pause><lineend><CC03EA>with, but they can<lineend>wait until<lineend>tomorrow.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>There are urgent matters to deal with,<lineend>but they can<lineend>wait until tomorrow.<pause><lineend>|
 65539|
 <CC03ED=000000A200010000><CC03EA><color=0002><string=0000><lineend><color=0001>Is something wrong?<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Eriel has vanished from the castle<lineend>and no one knows where she is.<pause><lineend><CC03EA>A few townspeople<lineend>said they saw<lineend>someone who looked<pause><lineend><CC03EA>like Eriel in the<lineend>Black Forest.<pause><lineend><CC03EA>Sir Kwein took a<lineend>few Knights to<lineend>search the area,<pause><lineend><CC03EA>but there is still<lineend>no word from him.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Eriel has vanished from the castle<lineend>and no one knows where she is.<pause><lineend><CC03EA>A few townspeople said they saw<lineend>someone who looked like Eriel<lineend>in the Black Forest.<pause><lineend><CC03EA>Sir Kwein took a few<lineend>Knights to search the area,<lineend>but there is still no word from him.<pause><lineend>|
 65541|
 <CC03EA><CC03FC=0004><string=007F><color=0001>Lord Jestonai!<lineend>Sir Kwein has<lineend>returned!!<pause><lineend>|
 65542|
@@ -63,4 +63,4 @@
 65563|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of<lineend>Valendine and the<pause><lineend><CC03EA>port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take<lineend>care.<pause><lineend>|
 65564|
-<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>﻿In the depths of the Black Forest, a <color=0001>exists<lineend>break in the road<color=0002>leads north to the <color=0001>Witch's Tower.<pause><lineend><CC03EA>We will be on standby near the forest<lineend>and ready to come after you any time.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>In the depths of the Black Forest, a <color=0001>exists<lineend>break in the road<color=0002>leads north to the <color=0001>Witch's Tower.<pause><lineend><CC03EA>We will be on standby near the forest<lineend>and ready to come after you any time.<lineend><pause>|
