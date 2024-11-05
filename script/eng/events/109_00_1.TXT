@@ -43,6 +43,6 @@
 65539|
 <CC03EA><color=0005><string=012E><lineend><color=0001>A vigilante?<lineend>How about I start with you!<pause><lineend>|
 65540|
-<CC03EA><color=0003><string=0001><lineend><color=0001>モンスターふぜいがよくほえる。<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Monsters often howl loudly.<pause><lineend>|
 65541|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Bring it on, loud-mouth!<pause><lineend>|
