@@ -3,13 +3,13 @@
 1|
 <CC03EA><color=0003><string=0001><lineend><color=0001>What are you doing here? Get yourself somewhere safe<pause><lineend>|
 2|
-<CC03EA><color=0006><string=000A><lineend><color=0001>それが・・・、逃げる途中で<lineend>子供とはぐれてしまって・・・<pause><lineend><CC03EA>まだこの街のどこかに<lineend>いるはずなんです。あの子をおいて<lineend>わたしだけ逃げるなんて・・・<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001><CC03ED=000A0018000103FF>I was, but my little girl is missing.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>She ought to be somewhere nearby.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>I'm not going anywhere without her.<lineend><CC03ED=000A0017000103FF><pause>|
 3|
-<CC03EA><color=0006><string=0035><lineend><color=0001>おかぁさ～んっ！！<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>Mommy!<pause><lineend>|
 4|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Marie!<lineend>Thank goodness you're safe!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0035><lineend><color=0001>うん。あのお姉ちゃんに<lineend>助けてもらったんだ。<pause><lineend><CC03EA>お姉ちゃんすごいんだよ。<lineend>ドラゴンを倒しちゃったんだから。<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350002000103FF>This nice lady saved me, Mommy.<lineend><CC03ED=00350001000103FF><pause><CC03EA><CC03ED=00350002000103FF>She's really strong!<lineend>She beat up a big Dragon!<lineend><CC03ED=00350001000103FF><pause>|
 6|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I thought I told you to stay out of trouble...<pause><lineend>|
 7|
@@ -25,9 +25,9 @@
 12|
 <CC03EA><color=0004><string=017C><lineend><color=0001>That's a good idea.<pause><lineend>|
 13|
-<CC03EA><color=0003><string=0001><lineend><color=0001>俺はまだしなければ<lineend>いけない事がある。<pause><lineend><CC03EA>この村のどこかに<lineend>まだヤツが・・・ブラックドラゴンが<lineend>いるはずだからな。<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I still have something<lineend>important to do.<pause><lineend><CC03EA>The Black Dragon...<lineend>may still be<lineend>in the village, you see.<pause><lineend>|
 14|
-　|
+縲|
 65536|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Marie!<lineend>Marie, where are you!?<pause><lineend>|
 65537|
@@ -67,7 +67,7 @@
 196620|
 <CC03EA><color=0004><string=017C><lineend><color=0001>That's a good idea.<pause><lineend>|
 196621|
-<CC03EA><color=0003><string=0001><lineend><color=0001>俺はまだしなければ<lineend>いけない事がある。<pause><lineend><CC03EA>この村のどこかに<lineend>まだヤツが・・・ブラックドラゴンが<lineend>いるはずだからな。<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I still have something<lineend>important to do.<pause><lineend><CC03EA>The Black Dragon...<lineend>may still be<lineend>in the village, you see.<pause><lineend>|
 196622|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>But where is he...Where did the Black Dragon go?<lineend><CC03ED=00010007000103FF><pause>|
 196623|
