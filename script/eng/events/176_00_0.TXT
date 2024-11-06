@@ -3,7 +3,7 @@
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'll absolutely stop it here!<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Ralva, you were the God of Darkness?<lineend>You deceived me this whole time!?<lineend><pause><CC03EA>I have reclaimed the heart of humans.<lineend>It won't turn out according to your desires anymore.<lineend><pause>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Ralva, you were the God of Darkness?<lineend>You deceived me this whole time!?<lineend><pause><CC03EA>I have regained my human heart.<lineend>You will no longer do as you wish.<lineend><pause>|
 65539|
 <CC03EA><color=0004><string=0110><lineend><color=0001>Even if you're a God...<pause><lineend><CC03EA>I won't let you harm Sidrael<lineend>in this World!<pause><lineend>|
 65540|
