@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0125><lineend><color=0001>Come sail with us again soon, Boss.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0126><lineend><color=0001>ƒIƒŒ‚½‚¿A‚¸‚Á‚Æ‚±‚±‚Å<lineend>‘Ò‚Á‚Ä‚Ü‚·‚©‚çB<pause><lineend>|
+<CC03EA><color=0006><string=0126><lineend><color=0001>We might be waiting here<lineend>for a while.<pause><lineend>|
 65536|
 <CC03EA><CC03FC=0004><string=00E7>I knew you'd come.<pause><lineend><CC03EA>We may have just met, but I think I'll go ahead and show you.<pause><lineend>|
 65537|
