@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=0005><lineend><color=0005>If you go straight east from the village's right exit...<pause><lineend><CC03EA><color=0001>...you'll come to the <color=0002>forest where they say the Unicorns live.<pause><lineend><CC03EA><color=0001>Not many people have ever seen a Unicorn.<pause><lineend><CC03EA>They say they only appear in front of girls with the purest of hearts.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0028><lineend><color=0001>‹ß AX‚Ì—lq‚ª‚¨‚©‚µ‚¢‚Ì‚æB<pause><lineend><CC03EA>ƒ‚ƒ“ƒXƒ^[‚ª‚Ó‚¦‚½‚İ‚½‚¢‚¾‚µ<lineend>‚¢‚â‚È‹C”z‚à‚½‚¾‚æ‚Á‚Ä‚­‚é‚ÌB<pause><lineend><CC03EA>X‚ğŒì‚Á‚Ä‚éƒ†ƒjƒR[ƒ“‚É<lineend>‰½‚©‚ ‚Á‚½‚Ì‚©‚µ‚çEEE<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>ï»¿ï»¿Recently, the forest looks strange.<pause><lineend><CC03EA>It looks like monsters have swarmed it as well.<lineend>Moreover, there's also an unsettling atmosphere that keeps coming.<pause><lineend><CC03EA>Maybe something happened<lineend>to the Unicorns protecting the forest...?<pause><lineend>|
 9|
 <CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
 10|
