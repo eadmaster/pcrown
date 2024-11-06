@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Thank you!<lineend><pause>|
 14|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yeah, it's okay.<lineend><pause><CC03EA>Your mother is witing in the village.<lineend>Be careful on your way back.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yeah, it's okay.<lineend><pause><CC03EA>Your mother is waiting in the village.<lineend>Be careful on your way back.<lineend><pause>|
 15|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Okay!<pause><lineend><CC03EA>Alright Tabitha, let's go!<pause><lineend>|
 16|
@@ -35,7 +35,7 @@
 17|
 <CC03F9=00ED>|
 18|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you, Your Majesty.<pause><lineend><CC03EA>I'm sure things will all return to<lineend>how it was before.<lineend>We can get along well with the villagers again!!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you, Your Majesty.<pause><lineend><CC03EA>I'm sure everyone in this Village<lineend>will get along with each-other<lineend>as before!!<pause><lineend>|
 19|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=0000009800010000>|
 65536|
