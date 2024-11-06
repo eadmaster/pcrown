@@ -1,13 +1,13 @@
 0|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Aha! So you're the one making people see all those weird illusions!<pause><lineend><CC03EA>Once I take care of you, I can go find that girl!<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0002><lineend><color=0001>迷子ちゃんは<lineend>この奥かしらね。<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>That lost girl<lineend>might be in here.<pause><lineend>|
 2|
 <CC03ED=00020016000103FF><CC03F2=000200170000005A03FF00000000><CC03ED=0002001A00010000>|
 65536|
 <CC03EA><color=0006><string=0023><lineend><color=0001>I feel like I'm going in circles...<pause><lineend><CC03EA>Will I ever find my way home again?<pause><lineend>|
 65537|
-<CC03EA><color=0006><string=00BB><lineend><color=0001>メェェ！<pause><lineend>|
+<CC03EA><color=0006><string=00BB><lineend><color=0001>Ba-ah!<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0002><lineend><color=0001>You there! Goat girl!<pause><lineend>|
 65539|
@@ -23,4 +23,4 @@
 65544|
 <CC03EA><color=0006><string=0023><lineend><color=0001>We're on our way.<lineend>Thank you!<pause><lineend>|
 65545|
-<CC03EA><color=0006><string=00BC><lineend><color=0001>メェェ～！<lineend>|
+<CC03EA><color=0006><string=00BC><lineend><color=0001>Ba-ah!<lineend>|
