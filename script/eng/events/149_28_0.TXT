@@ -53,13 +53,13 @@
 196625|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Who are you!?<pause><lineend>|
 196626|
-<CC03EA><color=0004><string=0108><lineend><color=0001>ポートガスッ！<pause><lineend>|
+<CC03EA><color=0004><string=0108><lineend><color=0001>Portgus!<pause><lineend>|
 196627|
-<CC03EA><color=0003><string=011C><lineend><color=0001>ファーラーーースッ！！<pause><lineend>|
+<CC03EA><color=0003><string=011C><lineend><color=0001>Faariiiis!!<pause><lineend>|
 196628|
 <CC03EA><CC03FC=0004><string=0122>She is just what I needed. There is no finer soul of a young woman in all the land.<pause><lineend>|
 196629|
-<CC03EA><color=0003><string=011C><lineend><color=0001>き、きさまー！<pause><lineend>|
+<CC03EA><color=0003><string=011C><lineend><color=0001>Y, You baaastard!<pause><lineend>|
 196630|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Aaaugh!!<pause><lineend>|
 196631|
@@ -89,7 +89,7 @@
 327687|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You saved my soul, Portgus!<lineend><pause><CC03EA>I can finally pass on in peace.<lineend><pause>|
 327688|
-<CC03EA><color=0003><string=0003><lineend><color=0001>・・・グラドリエルの事か？<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...Is it about Gradriel?<pause><lineend>|
 327689|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You've made me very happy.<pause><lineend><CC03EA>Talking with you one last time is how I always hoped it would end...<lineend><pause>|
 327690|
