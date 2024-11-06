@@ -19,7 +19,7 @@
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Now I'm so scared I can't even move!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>くっ！<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Ugh!<pause><lineend>|
 65540|
 <CC03EA><CC03FC=0004><string=016E>I don't know who you are or what you're doing here.<pause><lineend><CC03EA>But this mountain is swarming with Dragons. If I were you, I'd run for it.<pause><lineend>|
 65541|
@@ -29,9 +29,9 @@
 65543|
 <CC03EA><CC03FC=0004><string=016E><color=0001>I can't keep an eye on you and fight Dragons at the same time!<pause><lineend>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>た、立とうと思っているのですが<lineend>足に力が入らなくて・・・<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I, I was thinking of standing up but...<lineend>my legs won't support me...<pause><lineend>|
 65545|
-<CC03EA><CC03FC=0004><string=016E><color=0001>世話のやける。<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E><color=0001>How annoying.<pause><lineend>|
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...OK.<pause><lineend><CC03EA>But Sir, what about you?<pause><lineend>|
 65547|
