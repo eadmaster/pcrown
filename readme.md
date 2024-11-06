@@ -12,7 +12,7 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 ## Current status
 
  - all story events and names translated using a fixed-width font, with bugs in some dialogs
- - [missing items translations](https://github.com/eadmaster/pcrown/issues/2)
+ - [missing items translations](https://github.com/eadmaster/pcrown/issues/2) (coming in v0.5!)
  - [missing translation for location signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
 
@@ -62,7 +62,7 @@ Contact me via discord or forums if you can contribute or have issues to report:
 
 # New contributors/Special thanks
 
- - [paul-met](https://github.com/paul-met) and derek ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
+ - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
  - Spike and MLagaffe (bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts](https://github.com/eadmaster/pcrown/issues/4))
 
