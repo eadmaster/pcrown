@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0004><string=015C><lineend><color=0001>We know there is a suspicious man lurking around town.<pause><lineend><CC03EA>It seems he's been trying to convince people that the Siren is evil.<pause><lineend>|
 21|
-<CC03EA><color=0003><string=0001><lineend><color=0001>What kind of man are you?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What kind of man is he?<pause><lineend>|
 22|
 <CC03EA><color=0004><string=015C><lineend><color=0001>He apparently goes by the nickname "Monster Hunter."<pause><lineend><CC03EA>He's a large brute, and he's good at fighting with the giant axe he carries with him.<pause><lineend>|
 23|
