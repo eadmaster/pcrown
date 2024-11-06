@@ -83,7 +83,7 @@
 262152|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...Indeed.<pause><lineend>|
 262153|
-<CC03EA><color=0005><string=011E><lineend><color=0001>ƒkƒkƒkƒkƒkƒbI<pause><lineend><CC03EA>‚«‚åA¡“ú‚Í<lineend>‚±‚ê‚®‚ç‚¢‚Å‹–‚µ‚Ä‚¨‚¢‚Ä‚â‚é‚ºI<pause><lineend>|
+<CC03EA><color=0005><string=011E><lineend><color=0001>Nununununu!<pause><lineend><CC03EA>To, Today, I'll stop here<lineend>and let you off the hook!<pause><lineend>|
 262154|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It doesn't make any sense...<pause><lineend><CC03EA>How could I lose to a punk like you?<lineend><pause>|
 262155|
