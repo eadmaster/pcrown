@@ -11,7 +11,7 @@
 65541|
 <CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Was that the best you could do?<pause><lineend>|
 65542|
-<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=001>Not a single one of you will survive. In the name of the Demon King, I will kill you all!<pause><lineend>|
+<CC03F3=0003><CC03EA><color=0005><string=0109><lineend><color=0001>Not a single one of you will survive. In the name of the Demon King, I will kill you all!<pause><lineend>|
 65543|
 <CC03EA><CC03FC=0004><string=007D><color=0001>All of you get back! I will fight him alone!<pause><lineend>|
 65544|
