@@ -1543,7 +1543,11 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 				// Find Character and encode
 				for (j = 0; j < (sizeof(texttbl) / sizeof(unsigned short)); j++)
 				{
-					if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
+               if(j>0xEA0 && j<0x35EE) {
+                  // reserved for items translations storage
+                  continue;
+               }
+					else if ((((unsigned char)text[i] << 8) | (unsigned char)text[i+1]) == texttbl[j])
 					{
 						CompressAddWord(j, &outbuf, out_size, &magic_number, &enc_count);
                   // i+= 2;

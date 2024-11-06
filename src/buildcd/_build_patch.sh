@@ -17,14 +17,16 @@ if [ "$1" == "new" ]; then
     xdelta3 -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply font patch
     #xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
 fi
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
+#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
 TRANSLATED_SCRIPT_PATH=../../script/eng
 
 # update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
-wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI.BIN  0x2400
-# MEMO: modifies 0.BIN inplace, also alters KANJI.BIN?
+#wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0x2400
+wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0xEA0
+
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
 # make chars spacing smaller (thanks to paul_met and derek (ateam) for the tips) https://segaxtreme.net/threads/help-me-translate-princess-crown.18555/#post-186226
 #060729A8    E204
@@ -58,6 +60,7 @@ if [ "$1" == "new" ] || [ "$1" == "update_script" ]; then
     7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" *.EVN
     # enforce correct line splitting
     for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
+        echo "splitting text in $txt"
         python _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
     done
 fi

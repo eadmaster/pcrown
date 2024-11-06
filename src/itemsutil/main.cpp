@@ -149,7 +149,7 @@ int read_file(const char *filename, void **buffer, int *size)
 }
 
 
-// insert_data(&ti[i], filename = argv[2,3], out_filename = argv[4] = 0.bin, &out_size, FALSE);
+// insert_data(&ti[i], filename = argv[2,3] -> names.txt, items.txt, out_filename = argv[4] = 0.bin, &out_size, FALSE);
 
 int insert_data(text_info_struct *ti, const char *filename, const char *out_filename, int *out_size, int lzo_compress)
 {
@@ -164,7 +164,7 @@ int insert_data(text_info_struct *ti, const char *filename, const char *out_file
    if ((ret = read_file(out_filename, (void **)&buffer, &size)) != ERROR_SUCCESS)
       return ret;
 
-   if (ti->txt_filename)
+   if (ti->txt_filename)  // used for items.txt
    {
       if ((ret = read_file(ti->txt_filename, (void **)&txt_buffer, &txt_size)) != ERROR_SUCCESS)
          return ret;
@@ -174,9 +174,9 @@ int insert_data(text_info_struct *ti, const char *filename, const char *out_file
 
    unsigned short *tbl;
 
-   if (ti->txt_filename)
+   if (ti->txt_filename)  // used for items.txt
       tbl = CompressTextAlt(txt_buffer+ti->txt_offset, out_size, ti->txt_size, ttentry, tbl_size, lzo_compress);
-   else
+   else   // used for names.txt
       tbl = CompressTextAlt(buffer+ti->txt_offset, out_size, ti->txt_size, ttentry, tbl_size, lzo_compress);
 
    if (tbl == NULL)
@@ -212,7 +212,7 @@ int insert_data(text_info_struct *ti, const char *filename, const char *out_file
    fwrite((void *)buffer, 1, size, fp);
    fclose(fp);
 
-   if (ti->txt_filename)
+   if (ti->txt_filename)  // used for items.txt
    {
       if (fopen_s(&out_fp, ti->txt_filename, "wb") != 0)
       {
@@ -286,11 +286,13 @@ int main(int argc, char *argv[])
       int ret;
       text_info_struct ti[2] = 
       {
-           { 0xAF3F8, 0x108, 0xAD520, 0x1728 }, // table addr: 0x060B33F8, text addr: 0x060B2C4C
-           { 0xAF080, 0x378, 0xAD520, 0x2400 }, // table addr: 0x060B3080, text addr: 0x060B1524
+           // tbl_addr, tbl_size, txt_offset, txt_size
+           { 0xAF3F8, 0x108, 0xAD520, 0x1728 }, // names.txt: table addr: 0x060B33F8, text addr: 0x060B2C4C
+           { 0xAF080, 0x378, 0xAD520, 0x3180 }, // items.txt: table addr: 0x060B3080, text addr: 0x060B1524
       };
       int out_size;
 
+      // used for names.txt
       ti[0].prog_addr = ti[1].prog_addr = 0x06004000;
       ti[0].txt_filename = NULL;
       ti[0].txt_addr = 0x060B1520;
@@ -300,9 +302,10 @@ int main(int argc, char *argv[])
       ti[0].x_reft_off[1] = 4;
       ti[0].num_x_reft = 2;
 
-      ti[1].txt_filename = argv[5];  // KANJI.BIN?
-      ti[1].txt_addr = 0x05E6B800+strtol(argv[6], NULL, 0);
-      ti[1].txt_offset = strtol(argv[6], NULL, 0);  // 0x2400
+      // used for items.txt
+      ti[1].txt_filename = argv[5];  // KANJI.BIN
+      ti[1].txt_addr = 0x05E6B800+strtol(argv[6], NULL, 0);  // 0x2400
+      ti[1].txt_offset = strtol(argv[6], NULL, 0);  
       memset(ti[1].x_reft_off, 0, sizeof(ti[1].x_reft_off));
       ti[1].x_reft[0] = 0x0607204C; // pointer + 4
       ti[1].x_reft[1] = 0x06072214; // pointer + 4
