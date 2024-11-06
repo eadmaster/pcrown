@@ -1,11 +1,11 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>わたしの勝ちですね。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Didn't I win?<pause><lineend>|
 1|
 <CC03ED=0187003300010000>|
 2|
 <CC03ED=01870007000103FF>|
 3|
-<CC03EA><color=0002><string=0000><lineend><color=0001>さぁ、子供達を元に戻して下さい。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Now please return the children back to normal.<pause><lineend>|
 4|
 <CC03F2=018700100000004103FF000003FF><CC03FB=0014><CC03F2=000000880000003C03FF000003FF><CC03F2=00F800010000003703FF00000000>|
 5|
@@ -15,27 +15,27 @@
 7|
 <CC03ED=0187000900010000>|
 8|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>あぁ、よかった！<lineend>みんな元通りだね！！<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Ah, I did it!<lineend>Now they are back to normal!!<pause><lineend>|
 9|
 <CC03EA><color=0004><string=0187><lineend><color=0001>You've won this time, lady.<pause><lineend><CC03EA>But this isn't over yet, and don't you forget it!<pause><lineend>|
 10|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>わーい、元にもどった！！<lineend><CC03ED=00EE000500010000><pause><CC03EA>タバサ、これでおうちに帰れるよ！！<lineend><pause>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Wow, I'm back to normal!!!<lineend><CC03ED=00EE000500010000><pause><CC03EA>Tabitha, now we can go back home!!<lineend><pause>|
 11|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>うん、ニルス！<lineend><pause>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Yeah, Nils!<lineend><pause>|
 12|
-<CC03ED=00EE000500010000><CC03EA><color=0004><string=00EE><lineend><color=0001>お姉ちゃん、ありがとう！！<pause><lineend>|
+<CC03ED=00EE000500010000><CC03EA><color=0004><string=00EE><lineend><color=0001>Lady, thank you!!<pause><lineend>|
 13|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>ありがとう！<lineend><pause>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Thank you!<lineend><pause>|
 14|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ううん、いいのよ。<lineend><pause><CC03EA>村でお母さんが待っているわ。<lineend>気をつけてお帰りなさい。<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yeah, it's okay.<lineend><pause><CC03EA>Your mother is witing in the village.<lineend>Be careful on your way back.<lineend><pause>|
 15|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>ハイ！<pause><lineend><CC03EA>じゃ、タバサ行こう！<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Okay!<pause><lineend><CC03EA>Alright Tabitha, let's go!<pause><lineend>|
 16|
 <CC03F2=00EE00070000002303FF000003FF><CC03FB=0014><CC03F2=00ED00510000002303FF000003FF>|
 17|
 <CC03F9=00ED>|
 18|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>ありがとう、女王様。<pause><lineend><CC03EA>これで、きっと元のように<lineend>村の人達と仲良く<lineend>やっていけるようになるわ！！<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you, Your Majesty.<pause><lineend><CC03EA>I'm sure things will all return to<lineend>how it was before.<lineend>We can get along well with the villagers again!!<pause><lineend>|
 19|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=0000009800010000>|
 65536|
