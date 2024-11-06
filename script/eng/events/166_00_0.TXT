@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><string=0027><lineend><color=0001>I don't think you can fit any more in your bag. Tell me when you've got some space.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0027><lineend><color=0001>Just as a gesture of gratitude,<lineend>have as much Goat's Milk as you want!<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>As a gesture of gratitude,<lineend>have as much Goat's Milk as you want!<pause><lineend>|
 22|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Welcome. You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
 23|
