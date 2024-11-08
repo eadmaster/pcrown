@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0005><string=009D><lineend><color=0001>We're going to take every last goat they've got!<pause><lineend>|
 6|
-<CC03EA><color=0005><string=009F><lineend><color=0001>ƒ„ƒM‚ğ‚½‚­‚³‚ñ<lineend>è‚É“ü‚ê‚½‚È‚ç‚Ÿ`<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot<lineend>of Goats~<pause><lineend>|
 7|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>I'm going to eat goat-cheese until I explode!!<pause><lineend>|
 8|
@@ -51,7 +51,7 @@
 65538|
 <CC03EA><color=0005><string=009D><lineend><color=0001>We're going to take every last goat they've got!<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=009F><lineend><color=0001>ƒ„ƒM‚ğ‚½‚­‚³‚ñ<lineend>è‚É“ü‚ê‚½‚È‚ç‚Ÿ`<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot<lineend>of Goats~<pause><lineend>|
 65540|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>I'm going to eat goat-cheese until I explode!!<pause><lineend>|
 65541|
