@@ -3,13 +3,13 @@
 1|
 <CC03EA><color=0003><string=0001><lineend><color=0001>What are you doing here? Get yourself somewhere safe<pause><lineend>|
 2|
-<CC03EA><color=0006><string=000A><lineend><color=0001><CC03ED=000A0018000103FF>I was, but my little girl is missing.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>She must be somewhere nearby.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>I'm not going anywhere without her.<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I was, but my little girl is<lineend>missing.<pause><lineend><CC03EA>She must be somewhere nearby.<lineend>I'm not going anywhere<lineend>without her.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0035><lineend><color=0001>Mommy!<pause><lineend>|
 4|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Marie!<lineend>Thank goodness you're safe!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350002000103FF>This nice lady saved me, Mommy.<lineend><CC03ED=00350001000103FF><pause><CC03EA><CC03ED=00350002000103FF>She's really strong!<lineend>She beat up a big Dragon!<lineend><CC03ED=00350001000103FF><pause>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>This nice lady saved me, Mommy.<lineend>She's really strong!<pause><lineend><CC03EA>She beat up<lineend>a big Dragon!<pause><lineend>|
 6|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I thought I told you to stay out of trouble...<pause><lineend>|
 7|
@@ -45,7 +45,7 @@
 196609|
 <CC03EA><color=0003><string=0001><lineend><color=0001>What are you doing here? Get yourself somewhere safe<pause><lineend>|
 196610|
-<CC03EA><color=0006><string=000A><lineend><color=0001><CC03ED=000A0018000103FF>I was, but my little girl is missing.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>She must be somewhere nearby.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>I'm not going anywhere without her.<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><color=0006><string=000A><lineend><color=0001><CC03ED=000A0018000103FF>I was, but<lineend>my little girl is missing.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>She must be.<lineend>somewhere nearby.<lineend><CC03ED=000A0017000103FF><pause><CC03EA><CC03ED=000A0018000103FF>I'm not going anywhere<lineend>without her.<lineend><CC03ED=000A0017000103FF><pause>|
 196611|
 <CC03EA><color=0006><string=0035><lineend><color=0001>Mommy!<pause><lineend>|
 196612|
