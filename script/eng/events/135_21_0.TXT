@@ -17,11 +17,11 @@
 65544|
 <CC03EA><color=0001>The power of Kleipnir now inhabits your sword.<lineend><pause><CC03EA>From this point forward, for as long as you are worthy of it...<lineend><pause><CC03EA>...my power will aid you in striking down your enemies.<lineend><pause>|
 65545|
-<CC03EA><color=0003><string=0001><lineend><color=0001>やはり生きていたのか。<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>So you were alive after all.<pause><lineend>|
 65546|
 <CC03EA><color=0005><string=0114><lineend><color=0001>You must be the one...<pause><lineend><CC03EA>...who got rid that meddling sword...<pause><lineend>|
 65547|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Will you save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Well, you save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
 65548|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha...the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
@@ -45,9 +45,9 @@
 131073|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Kleipnir! Become the embodiment of my anger, and strike!!<pause><lineend>|
 131074|
-<CC03EA><color=0003><string=0001><lineend><color=0001>グラドリエル、下がれ！<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel, get down!<pause><lineend>|
 131075|
-<CC03EA><color=0005><string=0114><lineend><color=0001>ガハアァァァーッッッ！！！！<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Gahaaaaaaaaaaaa!!!!<pause><lineend>|
 131076|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...I'd say THIS sword works just fine.<lineend><pause>|
 131077|
@@ -83,7 +83,7 @@
 196614|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I'll catch up as soon as I'm done with this one here.<pause><lineend><CC03EA>...Now get going!<pause><lineend>|
 196615|
-<CC03EA><color=0004><string=017E><lineend><color=0001>はい！<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Okay!<pause><lineend>|
 196616|
 <CC03EA><color=0003><string=0001><lineend><color=0001>This is good. I didn't want to have to wait long to get revenge.<pause><lineend>|
 196617|
