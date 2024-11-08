@@ -1,13 +1,13 @@
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>これが闇の・・・神・・・<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>This is the...God of Darkness...<<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ぜったいここでくいとめてみせる！<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'll definitely stop it here!<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0110><lineend><color=0001>ラルヴァお前が闇の神だったとは<lineend>私をだましていたのだな！<lineend><pause><CC03EA>私は人間の心を取り戻した。<lineend>もうお前の思い通りにはならない。<lineend><pause>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Larva, you were the God of Darkness?<lineend>You deceived me this whole time!?<lineend><pause><CC03EA>I have regained my human heart.<lineend>You will no longer do as you wish.<lineend><pause>|
 65539|
-<CC03EA><color=0004><string=0110><lineend><color=0001>たとえ神であろうと・・・<pause><lineend><CC03EA>シドラエルのいるこの世界を<lineend>けがすことは許さん！！<pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Even if you're a God...<pause><lineend><CC03EA>I won't let you harm Sidrael<lineend>in this World!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0110><lineend><color=0001>グハッ・・・<pause><lineend><CC03EA>くそっ、力が抜けていく！<pause><lineend><CC03EA>・・・光の神よ。<lineend>この世界を・・・<lineend>シドラエルを救ってくれ・・・<pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Guh-hah...<pause><lineend><CC03EA>Damn, my strength is fading away!<pause><lineend><CC03EA>...O Goddess of Light.<lineend>Save this world...<lineend>Please save Sidrael...<pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Part of Larva's body...<lineend>It's...<pause><lineend>|
 131073|
