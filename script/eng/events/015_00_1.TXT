@@ -3,37 +3,37 @@
 1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
-<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>おかあさん！<lineend><CC03ED=00350002000103FF><pause>|
+<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Mommy!<lineend><CC03ED=00350002000103FF><pause>|
 3|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>あぁ、マリー<lineend>よく無事で・・・<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>Aah, Mary<lineend>You are safe...<lineend><CC03ED=000A0017000103FF><pause>|
 4|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>うん。<lineend>あのお姉ちゃんに助けてもらったんだ。<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep.<lineend>This lady saved me.<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
 5|
-<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>おじょうさん。<lineend><pause><CC03EA>娘を助けて下さって<lineend>ありがとうございました。<lineend><pause>|
+<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>My Lady.<lineend><pause><CC03EA>Thank you<lineend>for saving my daughter.<lineend><pause>|
 6|
 <CC03ED=0000009500010000><CC03ED=0000009800010000>|
 7|
-<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>エドワード様も・・・<lineend><pause><CC03EA>ここまでついてきて下さって<lineend>ありがとうございました。<lineend><pause>|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>And Sir Edward...<lineend><pause><CC03EA>Thank you<lineend>for coming.<lineend><pause>|
 8|
-<CC03EA><color=0004><string=016C><lineend><color=0001>・・・あんまりのんびりしていると<lineend>別のドラゴンが来るぞ。<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>...Be more cautious<lineend>or another dragon will come.<pause><lineend>|
 9|
-<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>さあ、ちゃんとついていらっしゃい。<lineend><pause>|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>Alright, follow closely now.<lineend><pause>|
 10|
-<CC03ED=0035000500010000><CC03ED=00350003000103FF><CC03EA><CC03FC=0004><string=0035>お姉ちゃん、ありがとー！<lineend><CC03ED=0035000400010000><CC03ED=000000B200010000><pause>|
+<CC03ED=0035000500010000><CC03ED=00350003000103FF><CC03EA><CC03FC=0004><string=0035>Thank you Lady!<lineend><CC03ED=0035000400010000><CC03ED=000000B200010000><pause>|
 11|
-<CC03EA><color=0004><string=016C><lineend><color=0001>ずいぶんと無茶をするな・・・<lineend><pause>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Don't do anything too absurd...<lineend><pause>|
 12|
-<CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>すみません。<lineend><pause>|
+<CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 13|
-<CC03EA><color=0004><string=016C><lineend><color=0001>・・・だが、見直したぞ。<lineend>その剣でドラゴンを一匹しとめるとは。<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>...However, I've reconsidered it.<lineend>This sword can subdue a Dragon.<pause><lineend>|
 14|
-<CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>まだ名前を聞いていなかったな。<lineend><pause>|
+<CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>I still don't know your name.<lineend><pause>|
 15|
-<CC03EA><color=0002><string=0000><lineend><color=0001>・・・グラドリエルといいます。<pause><lineend><CC03EA>あなたがグロースター家の<lineend>エドワード様ですね・・・<pause><lineend><CC03EA>先ほどはありがとう<lineend>ございました。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...I am Gradriel.<pause><lineend><CC03EA>You must be<lineend>Sir Edward Glowstar...<pause><lineend><CC03EA>Thank you<lineend>for earlier.<pause><lineend>|
 16|
-<CC03EA><color=0004><string=016C><lineend><color=0001>ふん・・・魔人ゴルゴダの息子は<lineend>どこへ行っても有名人だな・・・<pause><lineend><CC03EA>騎士団が来たからと言って<lineend>この村が危険な事にかわりはない<pause><lineend><CC03EA>グラドリエル、お前も<lineend>はやく村から避難した方がいい。<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Hmm...it seems the son of Sir Golgotha<lineend>is famous wherever he goes...<pause><lineend><CC03EA>Because the knights came<lineend>they say it doesn't put<pause><lineend><CC03EA>this village in any danger.<lineend>Gradriel, it's best you evacuate this village too.<pause><lineend>|
 17|
-<CC03EA><color=0001>一方その頃、ヴァレナディン城では・・・<pause><lineend>|
+<CC03EA><color=0001>Meanwhile, at Valenadin Castle...<pause><lineend>|
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What the...<pause><lineend>|
 65537|
@@ -57,7 +57,7 @@
 196608|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her Majesty is safe...<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she was going to "see the kingdom".<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she was going to "see the kingdom."<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, and I'm afraid she may have headed toward Dorangora.<pause><lineend><CC03EA>The Dragon Suppression Squad has special orders to search for her there.<pause><lineend>|
 196611|
@@ -115,32 +115,32 @@
 262159|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Come...<pause><lineend>|
 327680|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>おかあさん！<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Mommy!<lineend><CC03ED=00350002000103FF><pause>|
 327681|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>あぁ、マリー<lineend>よく無事で・・・<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Aah, Mary<lineend>You are safe...<lineend><CC03ED=000A0017000103FF><pause>|
 327682|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>うん。<lineend>あのお姉ちゃんに助けてもらったんだ。<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep.<lineend>This lady saved me.<lineend><CC03ED=00350002000103FF><pause>|
 327683|
-<CC03EA><CC03FC=0004><string=000A>おじょうさん。<lineend><pause><CC03EA>娘を助けて下さって<lineend>ありがとうございました。<lineend><pause>|
+<CC03EA><CC03FC=0004><string=000A>My Lady.<lineend><pause><CC03EA>Thank you<lineend>for saving my daughter.<lineend><pause>|
 327684|
-<CC03EA><CC03FC=0004><string=000A>エドワード様も・・・<lineend><pause><CC03EA>ここまでついてきて下さって<lineend>ありがとうございました。<pause><lineend>|
+<CC03EA><CC03FC=0004><string=000A>And Sir Edward...<lineend><pause><CC03EA>Thank you<lineend>for coming.<pause><lineend>|
 327685|
-<CC03EA><color=0004><string=016E><lineend><color=0001>・・・あんまりのんびりしていると<lineend>別のドラゴンが来るぞ。<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>...Be more cautious<lineend>or another dragon will come.<pause><lineend>|
 327686|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>さあ、ちゃんとついていらっしゃい。<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Alright, follow closely now.<lineend><CC03ED=000A0017000103FF><pause>|
 327687|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>お姉ちゃん、ありがとー！<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Thank you Lady!<lineend><CC03ED=00350002000103FF><pause>|
 327688|
-<CC03EA><color=0004><string=016E><lineend><color=0001>ずいぶんと無茶をするな・・・<lineend><pause>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Don't do anything too absurd...<lineend><pause>|
 327689|
-<CC03EA><color=0002><string=0000><lineend><color=0001>すみません。<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 327690|
-<CC03EA><color=0004><string=016E><lineend><color=0001>・・・だが、見直したぞ。<lineend>その剣でドラゴンを一匹しとめるとは。<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>...However, I've reconsidered it.<lineend>This sword can subdue a Dragon.<pause><lineend>|
 327691|
-<CC03EA><color=0004><string=016E><lineend><color=0001>まだ名前を聞いていなかったな。<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I still don't know your name.<pause><lineend>|
 327692|
-<CC03EA><color=0002><string=0000><lineend><color=0001>・・・グラドリエルといいます。<pause><lineend><CC03EA>あなたがグロースター家の<lineend>エドワード様ですね・・・<pause><lineend><CC03EA>先ほどはありがとう<lineend>ございました。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...I am Gradriel.<pause><lineend><CC03EA>You must be<lineend>Sir Edward Glowstar...<pause><lineend><CC03EA>Thank you<lineend>for earlier.<pause><lineend>|
 327693|
-<CC03EA><color=0004><string=016E><lineend><color=0001>ふん・・・魔人ゴルゴダの息子は<lineend>どこへ行っても有名人だな・・・<pause><lineend><CC03EA>騎士団が来たからと言って<lineend>この村が危険な事にかわりはない<pause><lineend><CC03EA>グラドリエル、お前も<lineend>はやく村から避難した方がいい。<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Hmm...it seems the son of Sir Golgotha<lineend>is famous wherever he goes...<pause><lineend><CC03EA>Because the knights came<lineend>they say it doesn't put<pause><lineend><CC03EA>this village in any danger.<lineend>Gradriel, it's best you evacuate this village too.<pause><lineend>|
 327694|
-<CC03EA><color=0001>一方その頃、ヴァレナディン城では・・・<pause><lineend>|
+<CC03EA><color=0001>Meanwhile, at Valenadin Castle...<pause><lineend>|
