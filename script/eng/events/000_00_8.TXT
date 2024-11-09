@@ -17,7 +17,7 @@
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wherever he is, I'm sure we're not finished with him yet.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>‚³‚æ‚¤A‚«‚ë‚­‚É‚æ‚ê‚Î<lineend>–‚‰¤‚Í•s€g‚É‹ß‚¢‚Æ‚ ‚è‚Ü‚·B<pause><lineend><CC03EA>ˆê“I‚Ép‚ğ‰B‚µ‚½‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñB<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>ï»¿Well, according to records, it is said that the Demon King is<lineend>close to being immortal.<pause><lineend><CC03EA>He may have temporarily hidden himself.<lineend><pause>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael?<pause><lineend>|
 196612|
