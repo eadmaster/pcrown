@@ -103,7 +103,7 @@
 262146|
 <CC03EA><color=0006><string=0084><lineend><color=0001>Yaaah!<pause><lineend>|
 262147|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>Well, after all,<lineend>I managed to overlook it...<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>Well, after all, I managed to overlook it...<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0105><lineend><color=0001>I want my crown back.<pause><lineend>|
 262149|

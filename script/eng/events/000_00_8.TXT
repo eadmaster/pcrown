@@ -17,11 +17,11 @@
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wherever he is, I'm sure we're not finished with him yet.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>﻿Well, according to records, it is said that the Demon King is<lineend>close to being immortal.<pause><lineend><CC03EA>He may have temporarily hidden himself.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>According to records, it is said that the Demon King is close to being immortal.<pause><lineend><CC03EA>He may have temporarily hidden himself.<lineend><pause>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael?<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=012A><lineend><color=0001>Gradriel...your Majesty... Please hear my request.<pause><lineend><CC03EA>If you can find it in your heart to do so, please try to help the Demon King.<pause><lineend>|
+<CC03EA><color=0004><string=012A><lineend><color=0001>Gradriel... Your Majesty... Please hear my request.<pause><lineend><CC03EA>If you can find it in your heart to do so, please try to help the Demon King.<pause><lineend>|
 196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What are you talking about, Sidrael?<pause><lineend>|
 196614|
@@ -37,7 +37,7 @@
 262145|
 <CC03EA><color=0005><string=0110><lineend><color=0001>Something has changed since you arrived. I want you to explain it to me.<pause><lineend><CC03EA>...What is this pain that I'm in?<pause><lineend><CC03EA>It hurts more deeply than any pain these chains have ever caused me.<pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=0110><color=0001>I'm so confused...I've never had this sensation before.<pause><lineend><CC03EA>...Come closer to me, Sidrael...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I'm so confused... I've never had this sensation before.<pause><lineend><CC03EA>...Come closer to me, Sidrael...<pause><lineend>|
 262147|
 <CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A000B000103FF>When you're like this with me...<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>...I just can't understand why everyone says you're so evil.<lineend><CC03ED=012A000A000103FF><pause><CC03EA><CC03ED=012A000B000103FF>You have a heart that can feel for others.<lineend><CC03ED=012A000A000103FF><pause>|
 262148|
@@ -53,7 +53,7 @@
 262153|
 <CC03EA><CC03FC=0004><string=0110><color=0001>I could also tear you limb from limb with my bare hands...<pause><lineend>|
 262154|
-<CC03EA><CC03FC=0004><string=0110><color=0001>I've taken the lives of many...even eaten the flesh from their bodies.<pause><lineend><CC03EA>My soul is stained in darkness.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I've taken the lives of many... even eaten the flesh from their bodies.<pause><lineend><CC03EA>My soul is stained in darkness.<pause><lineend>|
 262155|
 <CC03EA><CC03FC=0004><string=0110><color=0001>I thirst for the blood of humans...<pause><lineend>|
 262156|
@@ -65,7 +65,7 @@
 262159|
 <CC03EA><color=0005><string=0110><lineend><color=0001>Perhaps I could be rid of that heart if I killed you...<pause><lineend>|
 262160|
-<CC03EA><color=0005><string=0110><lineend><color=0001>Tell me, Sidrael...Would you ever be able to love someone who looks the way I do?<lineend><pause>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Tell me, Sidrael... Would you ever be able to love someone who looks the way I do?<lineend><pause>|
 262161|
 <CC03EA><color=0004><string=012A><lineend><color=0001>I was very scared of you at first...<lineend><pause>|
 262162|
@@ -73,11 +73,11 @@
 262163|
 <CC03EA><color=0005><string=0110><lineend><color=0001>...I was once a human myself. The Book of Larva gave me my strength.<pause><lineend>|
 262164|
-<CC03EA><CC03FC=0004><string=0110><color=0001>I should have lost everything in exchange for it...my memories...my so-called heart...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I should have lost everything in exchange for it... my memories... my so-called heart...<pause><lineend>|
 262165|
 <CC03EA><color=0004><string=012A><lineend><color=0001>I think your heart has come back to you, Volgrod.<pause><lineend>|
 262166|
-<CC03EA><color=0005><string=0110><lineend><color=0001>The Goddess Gaia...She put me in these chains.<pause><lineend><CC03EA>It could be that after so many centuries, they've cleansed me somehow.<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>The Goddess Gaia... She put me in these chains.<pause><lineend><CC03EA>It could be that after so many centuries, they've cleansed me somehow.<pause><lineend>|
 262167|
 <CC03EA><CC03FC=0004><string=0110><color=0001>Will you do something for me?<pause><lineend>|
 262168|
