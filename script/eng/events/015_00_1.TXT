@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...I am Gradriel.<pause><lineend><CC03EA>You must be<lineend>Sir Edward Glowstar...<pause><lineend><CC03EA>Thank you<lineend>for earlier.<pause><lineend>|
 16|
-<CC03EA><color=0004><string=016C><lineend><color=0001>Hmm...it seems the son of Sir Golgotha<lineend>is famous wherever he goes...<pause><lineend><CC03EA>Because the knights came<lineend>they say it doesn't put<pause><lineend><CC03EA>this village in any danger.<lineend>Gradriel, it's best you evacuate this village too.<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Hmm...it seems the son of the evil Golgotha<lineend>is famous wherever he goes...<pause><lineend><CC03EA>Because the knights came<lineend>they say it doesn't put<pause><lineend><CC03EA>this village in any danger.<lineend>Gradriel, it's best you evacuate this village too.<pause><lineend>|
 17|
 <CC03EA><color=0001>Meanwhile, at Valenadin Castle...<pause><lineend>|
 65536|
