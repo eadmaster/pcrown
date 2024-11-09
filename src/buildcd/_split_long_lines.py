@@ -1,6 +1,10 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Split long lines to avoid text overflowing due to space limitations.
+# Interts "lineend" and "pause" tags in the appropriate positions, while keeping the other tags intact.
+# Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
+
 # mass convert with: 
 #  for txt in *.txt ; do python _split_long_lines.py "$txt" ../events_splitted_35chars/$txt ; done
 
@@ -67,15 +71,18 @@ def insert_lineend_in_colored_text(s, init_lines_counter, init_char_counter):
         result += s[position:insert_pos].rstrip() + "<lineend>" + s[insert_pos:].lstrip()
     else:
         result += s[position:insert_pos].rstrip() + "<pause><lineend><CC03EA>" + s[insert_pos:].lstrip()
-    return result, (len(s) - insert_pos)
-        
+    
+    if(len(s[insert_pos:].lstrip()) > MAX_CHARS_PER_LINE):
+        post_str = insert_lineend_every_x_chars(s[insert_pos:].lstrip(), lines_counter)
+        result = result.replace(s[insert_pos:].lstrip(), post_str)
+        return result, length_after_last_tag(result)
+    else:
+        return result, ( len(s[insert_pos:].lstrip()) )
         
         
         
 def length_after_last_tag(s):
-    lineend_tag_end = s.rfind('lineend>')
-    lineend_tag_end = s.rfind('CC03EA>')
-    
+    tag_end = s.rfind('>')
     if tag_end == -1:
         return 0  # No closing tag found, so return 0
     return len(s) - tag_end - 1
@@ -118,8 +125,10 @@ for line in f.readlines():
                     line = line.replace(curr_line_text, new_line_text)
                     if "<CC03EA" in new_line_text:
                         init_lines_counter = 0
+                        #init_lines_counter = new_line_text.count("<lineend")
                     if "<lineend" in new_line_text:
                         init_lines_counter += 1
+                        #init_lines_counter += new_line_text.count("<lineend")
                         #print(t)
                         #print(init_char_counter)
                     #init_char_counter = length_after_last_tag(new_line_text)

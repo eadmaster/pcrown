@@ -6,6 +6,7 @@ rm *.eng
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso"
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso.xdelta"
+rm KANJI_ENG.BIN
 
 # convert data bin track to iso
 iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
@@ -13,18 +14,14 @@ cp "Princess Crown (Japan) (1M) (Track 01) (English).iso" "Princess Crown (Japan
 
 # update font
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN
-if [ "$1" == "new" ]; then
-    xdelta3 -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply font patch
-    #xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
-fi
-#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
+xdelta3 -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
+#xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
 
 TRANSLATED_SCRIPT_PATH=../../script/eng
 
 # update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
-#wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0x2400
-wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0xEA0
+wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
@@ -64,7 +61,6 @@ if [ "$1" == "new" ] || [ "$1" == "update_script" ]; then
         python _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
     done
 fi
-
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
     if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then
@@ -75,6 +71,9 @@ find *.EVN | while read eventfile; do
         echo "missing translation script: ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT"
     fi
 done
+
+# temp. fix for dragon fight softlock (restore jap ver)  https://github.com/eadmaster/pcrown/issues/30
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN
 
 # build xdelta patch
 xdelta3 -e -s "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso.xdelta"

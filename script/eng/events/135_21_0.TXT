@@ -21,7 +21,7 @@
 65546|
 <CC03EA><color=0005><string=0114><lineend><color=0001>You must be the one...<pause><lineend><CC03EA>...who got rid that meddling sword...<pause><lineend>|
 65547|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Well, you save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
 65548|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha...the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
