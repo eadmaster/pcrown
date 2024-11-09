@@ -31,33 +31,33 @@
 15|
 <CC03EA><color=0006><string=001D><lineend><color=0001>I never expected to see Demons ever again...<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0181><lineend><color=0001>あ、あの・・・<lineend>ロレンスの行方はわかりましたか？<pause><lineend>|
+<CC03EA><color=0006><string=0181><lineend><color=0001>E,Excuse me...<lineend>Have you found Lawrence's whereabouts?<pause><lineend>|
 17|
 <CC03ED=0001006000010000>|
 18|
-<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・・・・そうですか。<lineend><CC03ED=01810031000103FF><pause>|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>......I see.<lineend><CC03ED=01810031000103FF><pause>|
 19|
-<CC03EA><color=0003><string=0001><lineend><color=0001>そう気をおとすな。<pause><lineend><CC03EA>かならず俺がロレンスを<lineend>見つけて来てやるからな。<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Don't fret.<pause><lineend><CC03EA>I will surely find Lawrence<lineend>and come back.<pause><lineend>|
 20|
-<CC03ED=0181003300010000><CC03ED=0181002A000103FF><CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・よろしくお願いします。<lineend><CC03ED=0181002A000103FF><pause>|
+<CC03ED=0181003300010000><CC03ED=0181002A000103FF><CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>...Thank you so much.<lineend><CC03ED=0181002A000103FF><pause>|
 21|
-<CC03EA><color=0006><string=0181><lineend><color=0001>あ、あの・・・<lineend>ロレンスの行方はわかりましたか？<pause><lineend>|
+<CC03EA><color=0006><string=0181><lineend><color=0001>E,Excuse me...<lineend>Have you found Lawrence's whereabouts?<pause><lineend>|
 22|
 <CC03ED=0001000600010000><CC03ED=00010007000103FF>|
 23|
-<CC03ED=00010007000103FF><CC03EA><color=0003><string=0001><lineend><color=0001>・・・・・・。<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>俺が彼を見つけた時には<lineend>すでに手後れだった・・・<lineend><CC03ED=00010007000103FF><pause>|
+<CC03ED=00010007000103FF><CC03EA><color=0003><string=0001><lineend><color=0001>.......<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>By the time I found him,<lineend>he was already too far behind...<lineend><CC03ED=00010007000103FF><pause>|
 24|
-<CC03EA><color=0002>エドワードはカトリーヌに<lineend>かたみの品を渡した。<pause><lineend>|
+<CC03EA><color=0002>Edward gave Catherine<lineend>an elegant heirloom.<pause><lineend>|
 25|
-<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>そんな・・・、あのロレンスが<lineend>死んだなんて・・・・・・。<lineend><CC03ED=01810031000103FF><pause>|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>No...Lawrence<lineend>is probably dead.......<lineend><CC03ED=01810031000103FF><pause>|
 26|
-<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>アァ、ロレンス・・・・・・<lineend><CC03ED=01810031000103FF><pause>|
+<CC03ED=0181003000010000><CC03ED=01810032000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>Aah, Lawrence......<lineend><CC03ED=01810031000103FF><pause>|
 27|
-<CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>・・・あ、エドワード様。<lineend>先日はおせわになりました。<lineend><CC03ED=0181002A000103FF><pause><CC03EA><CC03ED=0181002B000103FF>せめてものお礼に<lineend>これをさしあげます。<lineend><CC03ED=0181002A000103FF><pause>|
+<CC03ED=0181002B000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>Ah, Sir Edward.<lineend>We met the other day.<lineend><CC03ED=0181002A000103FF><pause><CC03EA><CC03ED=0181002B000103FF>As a small gesture of my gratitude,<lineend>please accept this.<lineend><CC03ED=0181002A000103FF><pause>|
 28|
-<CC03EA><color=0002>「ユニットドロップ」を手に入れた！<pause><lineend>|
+<CC03EA><color=0002>Obtained "Unit Drop!"<pause><lineend>|
 29|
-<CC03ED=01810001000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>いつまでも、くよくよしていても<lineend>仕方ありませんね。<lineend><CC03ED=01810000000103FF><pause><CC03EA><CC03ED=01810001000103FF>これからは彼のぶんまで<lineend>精一杯生きていくつもりです。<lineend><CC03ED=01810000000103FF><pause>|
+<CC03ED=01810001000103FF><CC03EA><color=0006><string=0181><lineend><color=0001>No matter how long it takes or how worried I become,<lineend>there's nothing I can do about it.<lineend><CC03ED=01810000000103FF><pause><CC03EA><CC03ED=01810001000103FF>From now on until he returns,<lineend>I intend to live with all my might.<lineend><CC03ED=01810000000103FF><pause>|
 30|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 31|
