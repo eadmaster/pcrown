@@ -39,7 +39,7 @@
 131075|
 <CC03EA><CC03FC=0004><string=011A><color=0001>Hee hee hee!<pause><lineend>|
 131076|
-<CC03EA><color=0002><string=0000><lineend><color=0001>彼女はいったい・・・・・<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Who is she...?<pause><lineend>|
 131077|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>What a strange woman she is.<pause><lineend><CC03EA>At least now Ondine will be able to go back to living peacefully.<pause><lineend><CC03EA>Let's go tell her! I'm sure she'll be relieved.<pause><lineend>|
 131078|
