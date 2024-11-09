@@ -5,15 +5,16 @@
 
 My attempt to continue on the CyberWarriorX translation project.
 
-**P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
-Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
+**P.N.: reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project. Btw since this was originally released with a GPL-2.0 license, i'd like to exercise my right to keep working on this and make improvements as long as a better translation patch is released.**
 
 
 ## Current status
 
- - all story events and names translated using a fixed-width font, with bugs in some dialogs
- - [missing items translations](https://github.com/eadmaster/pcrown/issues/2) (coming in v0.5!)
- - [missing translation for location signs](https://github.com/eadmaster/pcrown/issues/5)
+ - all story events, items and names translated
+   - using a fixed-width/monospaced font, with condensed spaces
+   - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/1#issuecomment-2444241163)
+   - [missing some translated lines](https://github.com/eadmaster/pcrown/issues/4)
+ - [missing translation for doorway signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
 
 
@@ -22,7 +23,7 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 
 ## Preview
 
-![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)
+![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd) ![383698647-7a4d755d-de7d-4819-b95d-4aa13da5a572](https://github.com/user-attachments/assets/b46dbcdc-2e41-4dc2-80cd-c29aa6d5eb0d)
 
 
 ## Semi-automated patch instructions
@@ -46,16 +47,15 @@ Btw since this was originally released with a GPL-2.0 license, i'd like to exerc
 6. use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play with the patched iso.
 
 
-
 ## Contributions
  
 Issues and PRs are currently restricted to contributors to avoid spamming, trolling, etc.
 
-Contact me via discord or forums if you can contribute or have issues to report:
+Contact me via discord or forums if you can contribute or have issues to report (please read the [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs) first):
 
- - https://discord.com/channels/348545631985467394/797608417857372161
- - https://segaxtreme.net/members/eadmaster.30323/
- - https://gbatemp.net/members/eadmaster.52646/
+ - [Discord](https://discord.com/channels/348545631985467394/797608417857372161)
+ - [SegaXtreme](https://segaxtreme.net/members/eadmaster.30323/)
+ - [GBAtemp](https://gbatemp.net/members/eadmaster.52646/)
 
 **P.N.: any bit contributed will be re-shared in this repo under the terms of GPL-2.0.**
 
