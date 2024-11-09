@@ -77,4 +77,4 @@ done
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN
 
 # build xdelta patch
-xdelta3 -e -s "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso.xdelta"
+xdelta3 -e -s "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
