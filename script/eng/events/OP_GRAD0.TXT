@@ -15,15 +15,15 @@
 131075|
 <CC03EA><CC03FC=0004><string=006F><color=0001>I will return your messenge to Leeland at once!<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>では、次の者。<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Next person, please.<pause><lineend>|
 131077|
 <CC03EA><CC03FC=0004><string=0073><color=0001>Your Majesty, we are having a crisis in the village of Nutsbill.<pause><lineend><CC03EA>Two of our children have disappeared...<pause><lineend><CC03EA>It looks like the fairies took them captive in the forest as part of some terrible prank.<pause><lineend><CC03EA>We humbly request that your Majesty send soldiers to search the forest for them.<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It's not like the fairies to play pranks...<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>女王、返答を・・・<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen, please respond...<pause><lineend>|
 131080|
-<CC03EA><color=0002><string=0000><lineend><color=0001>は、はい。<pause><lineend><CC03EA>そのようにとりはからう事を<lineend>許可します。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Y, Yes.<pause><lineend><CC03EA>Your request is unquestionably granted.<pause><lineend>|
 131081|
 <CC03EA><CC03FC=0004><string=0073><color=0001>Thank you very much.<pause><lineend>|
 131082|
