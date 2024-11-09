@@ -12,73 +12,50 @@
 #MAX_CHARS_PER_LINE=20
 MAX_CHARS_PER_LINE=35
 
+import sys
+import re
 
+
+def remove_tags(text):
+    # Pattern to match anything within angle brackets, including the brackets
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'<[^>]+', '', text)
+    return text
+    
+    
+    
 def insert_lineend_every_x_chars(s, init_lines_counter=0):
     position = 0
     result = ""
-    lines_counter = init_lines_counter
-
-    while position < len(s):
-        # Get the next MAX_CHARS_PER_LINE characters slice
-        slice_max = s[position:position + MAX_CHARS_PER_LINE]
-        
-        # Find the last space in this slice
-        last_space_pos = slice_max.rfind(' ')
-        
-        #if last_space_pos == -1 or (len(slice_max)-s.find(slice_max) <= MAX_CHARS_PER_LINE):
-        if last_space_pos == -1 or (len(slice_max)< MAX_CHARS_PER_LINE):
-            # If no space found, just append the remaining string
-            result += s[position:]
-            break
-        
-        # Adjust the space position to the full string index
-        insert_pos = position + last_space_pos
-        
-        # Add part before the space and insert the <lineend> tag
-        lines_counter += 1
-        if(lines_counter<3):
-            result += s[position:insert_pos] + "<lineend>"
-        else:
-            result += s[position:insert_pos] + "<pause><lineend><CC03EA>"
-            lines_counter = 0  # reset
-        
-        # Move the position after the space
-        position = insert_pos + 1
+    curr_lines_counter = init_lines_counter
+    curr_char_counter = 0
     
+    for token in s.split(" "):
+        #print(token)
+        #print(remove_tags(token))
+        if (curr_char_counter + len(remove_tags(token)) + 1) < MAX_CHARS_PER_LINE:
+            # just append the token
+            if curr_char_counter==0:
+                result += token
+                curr_char_counter += len(remove_tags(token))
+            else:
+                result += " " + token
+                curr_char_counter += len(remove_tags(token)) + 1
+        else:
+            # new lineend tags
+            curr_lines_counter += 1
+            if(curr_lines_counter < 3):
+                # add a newline before the word
+                result += "<lineend>" + token
+            else:
+                # add a pause
+                result += "<pause><lineend><CC03EA>" + token
+                curr_lines_counter = 0  # reset
+            curr_char_counter = len(remove_tags(token))
+            
     return result
     
-    
-def insert_lineend_in_colored_text(s, init_lines_counter, init_char_counter):
-    position = 0
-    result = ""
-    lines_counter = init_lines_counter
-    
-    # TODO: may need to loop for longer lines
-    
-    slice_max = s[position:position + MAX_CHARS_PER_LINE - (init_char_counter - len(s))]
 
-    last_space_pos = slice_max.rfind(' ')
-    #print(slice_max)
-    
-    insert_pos = position + last_space_pos
-    if last_space_pos == -1:
-        # just add a newline at the beginning
-        insert_pos = 0
-    
-    # Add part before the space and insert the <lineend> tag
-    lines_counter += 1
-    if(lines_counter<3):
-        result += s[position:insert_pos].rstrip() + "<lineend>" + s[insert_pos:].lstrip()
-    else:
-        result += s[position:insert_pos].rstrip() + "<pause><lineend><CC03EA>" + s[insert_pos:].lstrip()
-    
-    if(len(s[insert_pos:].lstrip()) > MAX_CHARS_PER_LINE):
-        post_str = insert_lineend_every_x_chars(s[insert_pos:].lstrip(), lines_counter)
-        result = result.replace(s[insert_pos:].lstrip(), post_str)
-        return result, length_after_last_tag(result)
-    else:
-        return result, ( len(s[insert_pos:].lstrip()) )
-        
         
         
 def length_after_last_tag(s):
@@ -90,60 +67,42 @@ def length_after_last_tag(s):
     
     
     
-import sys
+
 
 
 f = open(sys.argv[1], 'r', encoding='shift_jis') 
 out = open(sys.argv[2], 'w', encoding='shift_jis') 
 
 init_lines_counter=0
-init_char_counter = 0
+
 
 for line in f.readlines():
     init_lines_counter = 0
-    init_char_counter = 0
-    if(not line.endswith("|")):
-        tags = line.split(">")
+
+    if(line.endswith(">|\n")):
+        tags = re.split(r'(?<!color=\w{4})>', line)
+        #print(tags)
+        # ['<CC03EA', '<color=0006><string=0014', '<lineend', '<color=0001>Do you need some directions?<pause', '<lineend', '<CC03EA', "The village of <color=0002>Nutsbill<color=0001> is straight to the west from this town's left exit.<pause", '<lineend', '|\n']
         for t in tags:
             if t.startswith("<lineend"):
                 init_lines_counter += 1
-                init_char_counter = 0
+                continue
+            if t.startswith('|\n'):
                 continue
             if t.startswith("<CC03EA"):
                 init_lines_counter = 0   # new dialog, reset to 0
-                init_char_counter = 0
                 continue
-            if t.startswith("<"):
+            if t.startswith("<pause"):
+                init_lines_counter = 0   # new dialog, reset to 0
                 continue
-            curr_line_text = t.split("<")[0]
                 
-            # handle color tags
-            if t.endswith(( "<color=0001",  "<color=0005", "<color=0002")):
-                init_char_counter += len(curr_line_text)
-                if(init_char_counter > MAX_CHARS_PER_LINE):
-                    new_line_text, init_char_counter = insert_lineend_in_colored_text(curr_line_text, init_lines_counter, init_char_counter)
-                    line = line.replace(curr_line_text, new_line_text)
-                    if "<CC03EA" in new_line_text:
-                        init_lines_counter = 0
-                        #init_lines_counter = new_line_text.count("<lineend")
-                    if "<lineend" in new_line_text:
-                        init_lines_counter += 1
-                        #init_lines_counter += new_line_text.count("<lineend")
-                        #print(t)
-                        #print(init_char_counter)
-                    #init_char_counter = length_after_last_tag(new_line_text)
-                    #print(init_char_counter)
-                continue
-            else:
-                init_char_counter = 0
-                
-            if(len(curr_line_text)<MAX_CHARS_PER_LINE):
+            if(len(remove_tags(t)) < MAX_CHARS_PER_LINE):
                 # nothing to change
                 continue
             else:
-                # add a "<lineend>" tag
-                new_line_text = insert_lineend_every_x_chars(curr_line_text, init_lines_counter)
-                line = line.replace(curr_line_text, new_line_text)
+                # add "<lineend>"/<pause> tags where needed
+                new_line_text = insert_lineend_every_x_chars(t, init_lines_counter)
+                line = line.replace(t, new_line_text)
         # end for tags
     # end if
     out.write(line)

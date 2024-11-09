@@ -64,9 +64,10 @@ fi
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
     if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then
+        echo "updating ${eventfile}"
         wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT  -o ${eventfile}.eng
         #xdelta3 -e -s ${eventfile}  ${eventfile}.eng ${eventfile}.xdelta
-        cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" ${eventfile}  ${eventfile}.eng
+        cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" ${eventfile}  ${eventfile}.eng  > /dev/null
     else
         echo "missing translation script: ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT"
     fi
