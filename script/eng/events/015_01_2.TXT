@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>I saw it with my own two eyes. Edward killed a Dragon all by himself...<pause><lineend><CC03EA>That must be what it's like to have the strength of a Demon!<pause><lineend><CC03EA>At least he's earned his reputation as the "Dragon Slayer."<pause><lineend>|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>I saw it with my own two eyes. Edward killed a Dragon all by himself...<pause><lineend><CC03EA>That must be what it's like to have the strength of a Demon!<pause><lineend><CC03EA>At least he's earned his reputation as the "Dragon Slayer".<pause><lineend>|
 1|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy-tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
 2|

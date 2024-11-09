@@ -5,13 +5,13 @@
 2|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Books can be heavy! Bend down to pick them up.<pause><lineend>|
 3|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "Princess Crown."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "Princess Crown".<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 4|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Demon Sword."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Demon Sword".<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 5|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Lost Treasure."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Lost Treasure".<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 6|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Magic Potion."<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This book is called "The Magic Potion".<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This book is the very last one.<pause><lineend><CC03EA>Will this be all right?<pause><lineend>|
 8|
@@ -35,7 +35,7 @@
 17|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This one is about a tomboy witch...<pause><lineend>|
 18|
-<CC03EA><CC03FC=0004><string=0172><color=0001>This one is called "The Last Story."<pause><lineend><CC03EA>Let's begin...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>This one is called "The Last Story".<pause><lineend><CC03EA>Let's begin...<pause><lineend>|
 19|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Ah yes, here is where we left off...<pause><lineend>|
 20|

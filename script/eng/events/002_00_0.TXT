@@ -25,7 +25,7 @@
 12|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
 13|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering poet.<pause><lineend><CC03EA>From the north to the south...From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering poet.<pause><lineend><CC03EA>From the north to the south... From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
 14|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Sweet amethyst-eyed lady, please let me sing you a song.<pause><lineend>|
 15|
@@ -75,11 +75,11 @@
 37|
 <CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I sing...<pause><lineend>|
 38|
-<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Rest...Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>Your pain...<lineend>Your sadness...<lineend><pause><CC03EA>Sleep the memory of these away...in the arms of the Goddess...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend><pause><CC03EA>Flowing waters...dancing winds...<lineend>Lead them away...<lineend><pause><CC03EA>Lead them to the mercy and the purity of the tranquil Goddess...<lineend><pause><CC03EA>Whispers of the earth...murmurs of the ocean...light of the sun...teach them the way...<lineend><pause><CC03EA>Rest...Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>May you see dreams of hope in the next world...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend>We won't forget...Farewell...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000A>|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Rest... Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>Your pain...<lineend>Your sadness...<lineend><pause><CC03EA>Sleep the memory of these away... in the arms of the Goddess...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend><pause><CC03EA>Flowing waters...dancing winds...<lineend>Lead them away...<lineend><pause><CC03EA>Lead them to the mercy and the purity of the tranquil Goddess...<lineend><pause><CC03EA>Whispers of the earth...murmurs of the ocean...light of the sun...teach them the way...<lineend><pause><CC03EA>Rest...Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>May you see dreams of hope in the next world...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend>We won't forget...Farewell...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000A>|
 39|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Anytime you'd care to hear a song, just let me know.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
 40|
-<CC03EA><color=0006><string=0015><lineend><color=0001>Who might you...Oh!<pause><lineend><CC03EA>Y, Your Majesty! What in the world brings you to such a place as this?<pause><lineend>|
+<CC03EA><color=0006><string=0015><lineend><color=0001>Who might you... Oh!<pause><lineend><CC03EA>Y, Your Majesty! What in the world brings you to such a place as this?<pause><lineend>|
 41|
 <CC03EA><color=0002><string=0000><lineend><color=0001>(Well, it sure didn't take long to get spotted...)<pause><lineend><CC03EA>Sir, I have a request. I'd like it if you didn't tell anyone that you saw me here.<pause><lineend><CC03EA>I've left the castle in secret, and I'm on a journey to see the kingdom for myself.<pause><lineend>|
 42|
@@ -113,7 +113,7 @@
 56|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 57|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 58|
 <CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
 59|

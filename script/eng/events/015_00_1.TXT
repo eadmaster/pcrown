@@ -57,7 +57,7 @@
 196608|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her Majesty is safe...<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she was going to "see the kingdom."<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>Gradriel left a note saying she was going to "see the kingdom".<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, and I'm afraid she may have headed toward Dorangora.<pause><lineend><CC03EA>The Dragon Suppression Squad has special orders to search for her there.<pause><lineend>|
 196611|
