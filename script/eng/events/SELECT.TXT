@@ -17,7 +17,7 @@
 8|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
-<CC03EA><CC03FC=0004><string=0172><color=0001><choose>‚Í‚¶‚ß‚©‚ç<lineend>‚Â‚Ã‚«‚©‚ç<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0172><color=0001><choose>Begin<lineend>Continue<lineend><endchoose>|
 10|
 <CC03EA><CC03FC=0004><string=0172><color=0001>All right, then let's read a different one.<pause><lineend>|
 11|
