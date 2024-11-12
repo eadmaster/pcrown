@@ -220,9 +220,9 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7>�@<CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7>�@<CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7>�@<CC03EC>G<pause><lineend>
+<CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
 <CC03EA><color=0000>Unlimited Power!<lineend><pause>

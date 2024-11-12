@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Good evening, Eriel.<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0190><lineend><color=0001>Hello, Gradriel!<pause><lineend><CC03EA>It must be hard to keep up with all your as the Queen, but do keep at it.<pause><lineend>|
+<CC03EA><color=0004><string=0190><lineend><color=0001>Hello, Gradriel!<pause><lineend><CC03EA>It must be hard to keep up with all your studies as the Queen, but do keep at it.<pause><lineend>|
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes, Eriel.<pause><lineend>|
 6|
@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0004><string=0191><lineend><color=0001>Thank you, Gradriel.<pause><lineend><CC03EA>You're always such a good girl. I have a gift for you.<pause><lineend><CC03EA>If you wear it, it will protect you from danger.<pause><lineend>|
 14|
-<CC03EA><color=0002>Got a Happiness Pendant!<pause><lineend>|
+<CC03EA><color=0002>Got a Luck Pendant!<pause><lineend>|
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wow, thank you!<pause><lineend><CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 16|
