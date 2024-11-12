@@ -31,9 +31,9 @@
 65536|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>It's important to get as much out of your lessons with Sir Kwein as you can.<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>女王、女王！<pause><lineend><CC03EA>いかがなされたのです。<lineend>参りますぞ。<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Queen, Queen!<pause><lineend><CC03EA>How was it?<lineend>I've returned.<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ごめんなさい。<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty, you've trained hard today.<pause><lineend><CC03EA>Please don't let that business about Dorangora trouble you.<pause><lineend><CC03EA>Just leave it up to the Knight Guard, and everything will be fine.<pause><lineend><CC03EA>Have a good night's rest.<pause><lineend>|
 131075|
