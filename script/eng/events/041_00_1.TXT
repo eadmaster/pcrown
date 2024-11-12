@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=002D><lineend><color=0001>What? What is it?<pause><lineend><CC03EA>You keep walking up and glaring at people.<pause><lineend><CC03EA>What's the big idea?<pause><lineend>|
 6|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Er... Excuse me.<lineend>It's nothing.<pause><lineend>|
 7|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone else...<pause><lineend>|
 8|
@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>What are you looking at!?<lineend>Do you have a problem or something?<pause><lineend>|
 11|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Er...Excuse me.<lineend>It's nothing.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Er... Excuse me.<lineend>It's nothing.<pause><lineend>|
 12|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>It must be someone else...<pause><lineend>|
 13|
@@ -63,9 +63,9 @@
 31|
 <CC03F0=002E00320000001903FF00000000>|
 32|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>﻿Your Majesty, we're certain about it.<pause><lineend>A red-haired witch is in a cave on the<color=0005>southwest path to Amberstep.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, we're certain about it.<pause><lineend>A red-haired witch is in a cave on the<color=0005>southwest path to Amberstep.<color=0001><pause><lineend>|
 33|
-<CC03EA><color=0002><string=0000><lineend><color=0001>﻿This is certain.<lineend>The cavern was said to be in the<color=0002>southwest.<color=0001><pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>This is certain.<lineend>The cavern was said to be in the<color=0002>southwest.<color=0001><pause><lineend>|
 34|
 <CC03F0=000000880001000A03FF00000000>|
 35|
