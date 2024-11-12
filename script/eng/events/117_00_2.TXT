@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I think I'm going to go fight some Dragons.<lineend>It's good training!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the Elikshil Fruits I set out are going bad!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the Elixir Fruits I set out are going bad!<pause><lineend>|
 15|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
 16|

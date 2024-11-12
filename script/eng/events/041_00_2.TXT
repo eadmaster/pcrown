@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas. <pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which... I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
 <CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
 2|
@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend><CC03EA>This time, they were racing to be the first to solve the problem at Lake Titania.<pause><lineend><CC03EA>Meanwhile, a young woman captured the real criminals in an alleyway.<pause><lineend><CC03EA>They'll probably call that a draw!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city... Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>Our leader is a really nice man!<pause><lineend><CC03EA>OK, so he is pretty stubborn. Nobody's perfect!<pause><lineend>|
 8|
@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the Elikshil Fruits I set out are going bad!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin should have been here hours ago. He must be lost.<pause><lineend><CC03EA>Meanwhile, the Elixir Fruits I set out are going bad!<pause><lineend>|
 16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
 17|

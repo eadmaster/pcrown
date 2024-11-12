@@ -37,7 +37,7 @@
 18|
 <CC03EA><color=0002><string=0002><lineend><color=0001>OK, so what should I bring you?<pause><lineend>|
 19|
-<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled Meat!<pause><lineend><CC03EA>And an Elikshil Fruit for desert, too!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled Meat!<pause><lineend><CC03EA>And an Elixir Fruit for desert, too!<pause><lineend>|
 20|
 <CC03EA><color=0002><string=0002><lineend><color=0001>That much!? I think I know why you're so fat, Poulty.<pause><lineend><CC03EA>All right, fine. I'll bring all the stuff. Just don't go eating Halloween!<pause><lineend>|
 21|
@@ -45,7 +45,7 @@
 22|
 <CC03EA><color=0002><string=0002><lineend><color=0001>That should do it. Now give me back Halloween!<pause><lineend>|
 23|
-<CC03EA><color=0005><string=0149><lineend><color=0001>I don't know...A pumpkin and a girl would make a great breakfast...<pause><lineend><CC03EA>But a deal is a deal.<pause><lineend><CC03EA>Catch you later!<lineend>Hee hee hee!!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I don't know... A pumpkin and a girl would make a great breakfast...<pause><lineend><CC03EA>But a deal is a deal.<pause><lineend><CC03EA>Catch you later!<lineend>Hee hee hee!!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 24|
 <CC03F0=014900000001001E03FF00000000>|
 25|
@@ -83,7 +83,7 @@
 41|
 <CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Grilled Meat this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 42|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Elikshil Fruit this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Pass the Elixir Fruit this way!<pause><lineend><CC03ED=0149000A000103FF><CC03FB=0046><CC03F1=0149>|
 43|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>You lost your Power Plant Seed?<pause><lineend>|
 44|
