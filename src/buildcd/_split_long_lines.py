@@ -70,7 +70,7 @@ def length_after_last_tag(s):
 
 
 
-f = open(sys.argv[1], 'r', encoding='shift_jis') 
+f = open(sys.argv[1], 'r', encoding='shift_jis', errors='ignore') 
 out = open(sys.argv[2], 'w', encoding='shift_jis') 
 
 init_lines_counter=0
