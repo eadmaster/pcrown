@@ -3,4 +3,4 @@
 1|
 <CC03EA><color=0004><string=0102><lineend><color=0001>We lost a lot of men fighting that red-haired witch.<pause><lineend>|
 65536|
-<CC03EA>Ç±ÇÍÇÕÉ_É~Å[Ç≈Ç∑<lineend><pause>|
+<CC03EA>This is a dummy.<lineend><pause>|
