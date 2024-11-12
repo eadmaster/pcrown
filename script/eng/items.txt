@@ -12,9 +12,9 @@ You have no items!<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
 Heart Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
-Elikshil Fruit<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
+Elixir Fruit<lineend>
 Yggdrasill Fruit<lineend>
 Yggdrasill Fruit<lineend>
 Yggdrasill Fruit<lineend>
@@ -170,7 +170,7 @@ Fish Bone<lineend>
 Broken Frying Pan<lineend>
 Broken Soup Pot<lineend>
 Empty Bottle<lineend>
-Elikshil Seed<lineend>
+Elixir Seed<lineend>
 Medicine Grass Seed<lineend>
 Power Plant Seed<lineend>
 Bomb Seed<lineend>
@@ -220,12 +220,12 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7>Å@<CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7>Å@<CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7>Å@<CC03EC>G<pause><lineend>
+<CC03EA><color=0000><CC03F7>ÔøΩ@<CC03F7><pause><lineend>
+<CC03EA><color=0000><CC03F7>ÔøΩ@<CC03EC>G<lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7>ÔøΩ@<CC03EC>G<pause><lineend>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
-<CC03EA><color=0000>Power Limitless!<lineend><pause>
+<CC03EA><color=0000>Unlimited Power!<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
@@ -259,11 +259,11 @@ Fire Defense UP<lineend>
 Rebound Enemy Attacks<lineend>
 Attacking Enemies Freeze<lineend>
 Attacking Enemies Burn<lineend>
-No-Crouch Item Pick-Up<lineend>
-Defend Automaticaly<lineend>
+No-Crouch Item Grab<lineend>
+Auto Defend<lineend>
 Unleash Petrification Beam<lineend>
 Shoot Fireballs<lineend>
-Call Down Lightening<lineend>
+Call Down Lightning<lineend>
 Release Ice Arrows<lineend>
 Rain Down Meteors<lineend>
 Launch Holy Light<lineend>
@@ -276,8 +276,8 @@ Summon Goblin Dive-Bomb<lineend>
 Burn Undead Enemies<lineend>
 Items Won't Break<lineend>
 Drop Boulder With Earthquake<lineend>
-Sword Gains Fire Magic<lineend>
-Sword Gains Lightening Magic<lineend>
+Sword Has Fire Magic<lineend>
+Sword Has Light Magic<lineend>
 Turn Enemy Into Gold Statue<lineend>
 Double Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
@@ -292,7 +292,7 @@ Restore Consumable Item<lineend>
 Check Item For Curse<lineend>
 Throwing Sword<lineend>
 Magic Throwing Sword<lineend>
-Throw At Flying Enemies<lineend>
+For Flying Enemies<lineend>
 Explodes Where Dropped<lineend>
 Damage Undead Enemies<lineend>
 Throw At Enemies<lineend>
@@ -351,10 +351,10 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
 <CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack unevaded!<pause><lineend>
+<CC03EA><CC03F4>'s attack not evaded!<pause><lineend>
 <CC03EA><CC03F4> knocked you back!<pause><lineend>
 <CC03EA><CC03F4> broke your defense!<pause><lineend>
-<CC03EA><CC03F4> attacked faster!<pause><lineend>
+<CC03EA><CC03F4> caught you off guard!<pause><lineend>
 <CC03EA><CC03F4> turned to gold!!<pause><lineend>
 <CC03EA><CC03F4> is breathing ice!<pause><lineend>
 <CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
