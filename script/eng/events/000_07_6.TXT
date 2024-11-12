@@ -65,7 +65,7 @@
 196609|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic stones!<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0103><lineend><color=0001>陛下あぶないっ！<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous your Highness!<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>He's gone!! What happened!?<pause><lineend>|
 196612|
@@ -75,7 +75,7 @@
 196614|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your Highness.<pause><lineend>|
 196615|
-<CC03EA><color=0002><string=0000><lineend><color=0001>時空の魔法石よ。<lineend>あのデーモンをつれ去って！<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Time magic stone, hear me.<lineend>Banish this demon!<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There was no time...<pause><lineend>|
 196617|
