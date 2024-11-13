@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeies be safe.<pause><lineend>|
+<CC03EA><color=0006><string=01B0><lineend><color=0001>Good morning! May the rest of your journeys be safe.<pause><lineend>|
 22|
 <CC03EA><color=0006><string=01B0><lineend><color=0001>Suit yourself. Just remember to get some rest every now and then. And save, too!<pause><lineend>|
 23|

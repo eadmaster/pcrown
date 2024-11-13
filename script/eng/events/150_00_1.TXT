@@ -81,7 +81,7 @@
 65548|
 <CC03EA><color=0002><string=0002><lineend><color=0001>In other words, if I become an adult...<pause><lineend><CC03EA>...I can turn everybody in the whole kingdom into frogs?<pause><lineend><CC03EA>Ooh hoo hoo...I'd turn that girl into the ugliest frog of them all!<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Slendid, my dear! Splendid!<pause><lineend><CC03EA> All right then, Proserpina, your job will be to gather the ingredients.<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Splendid, my dear! Splendid!<pause><lineend><CC03EA> All right then, Proserpina, your job will be to gather the ingredients.<pause><lineend>|
 65550|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend>|
 65551|
