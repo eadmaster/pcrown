@@ -45,4 +45,4 @@
 131080|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>...Queen Gradriel...<pause><lineend>|
 196608|
-<CC03EA>Ç±ÇÍÇÕÉ_É~Å[Ç≈Ç∑<lineend><pause>|
+<CC03EA>This is a dummy.<lineend><pause>|
