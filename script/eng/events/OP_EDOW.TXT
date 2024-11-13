@@ -41,7 +41,7 @@
 131085|
 <CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
 131086|
-<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a demonic label<lineend>due to your father being called demon<lineend>likely causes deep turmoil and suffering.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a demonic label due to your father being called demon likely causes deep turmoil and suffering.<lineend><pause>|
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon that knows everything there is to know?<pause><lineend>|
 196609|
@@ -75,19 +75,19 @@
 262145|
 <CC03EA><CC03FC=0004><string=004B><color=0001>It was an amazing fight, wasn't it?<lineend>I also wanted to show off to everyone.<pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Even the terrifying Ice Dragon is no match<lineend>in front of the Dragon Slayer.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Even the terrifying Ice Dragon is no match in front of the Dragon Slayer.<pause><lineend>|
 262147|
 <CC03EA><color=0003><string=0001><lineend><color=0001>But the<pause><lineend><CC03EA>Black Dragon<lineend>wasn't here either.<pause><lineend>|
 262148|
-<CC03EA><CC03FC=0004><string=015C><color=0001>That's right,<lineend>Edward.<pause><lineend><CC03EA>In Drangola Village,<lineend>I heard a wandering mercenary<lineend>saw the Black Dragon.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>That's right,<lineend>Edward.<pause><lineend><CC03EA>In Drangola Village, I heard a wandering mercenary saw the Black Dragon.<pause><lineend>|
 262149|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Is that true!!<pause><lineend>|
 262150|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend>|
 262151|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...Is that so.<pause><lineend><CC03EA>In that case, I'll head to Drangola.<lineend>There shouldn't be any more<lineend>Dragons attacking this town now, right?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Is that so.<pause><lineend><CC03EA>In that case, I'll head to Drangola.<lineend>There shouldn't be any more Dragons attacking this town now, right?<pause><lineend>|
 262152|
-<CC03EA><CC03FC=0004><string=015C><color=0001>Sir Edward.<pause><lineend><CC03EA>Edward, why have you<lineend>gone to such lengths to defeat the Black Dragon?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Sir Edward.<pause><lineend><CC03EA>Edward, why have you gone to such lengths to defeat the Black Dragon?<pause><lineend>|
 262153|
 <CC03EA><color=0003><string=0001><lineend><color=0001>That...<pause><lineend>|
 262154|

@@ -75,7 +75,7 @@
 196614|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your Highness.<pause><lineend>|
 196615|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Time magic stone, hear me.<lineend>Banish this demon!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Magical Time Stone, hear me.<lineend>Banish this demon!<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There was no time...<pause><lineend>|
 196617|
