@@ -1,7 +1,7 @@
 0|
 <CC03ED=0001000600010000><CC03ED=00010007000103FF><CC03FB=0050>|
 1|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...He's wasn't here, either.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...He wasn't here, either.<pause><lineend>|
 65536|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I think it's time for you to stand back. Unless you want to wind up like your friend, that is.<pause><lineend>|
 65537|
@@ -33,15 +33,15 @@
 131081|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>It's a long story...<lineend><CC03ED=00010007000103FF><pause>|
 131082|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>EEE‚»‚ê‚ÍA<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>‰´‚ª•ƒ‚Æ‚Íˆá‚¤‚Æ‚¢‚¤‚±‚Æ‚ğ<lineend>Ø–¾‚·‚é‚½‚ß‚¾B<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>ï»¿...That was,<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>to prove<lineend>that I'm different from my father.<lineend><CC03ED=00010007000103FF><pause>|
 131083|
 <CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
 131084|
-<CC03EA><CC03FC=0004><string=015C><color=0001>EEE”Ş‚ÍƒOƒ[ƒXƒ^[‚Ì–¼‚ğŒp‚®Ò‚¾B<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>...He carries on the name of Glowstar.<lineend><pause>|
 131085|
 <CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
 131086|
-<CC03EA><CC03FC=0004><string=015C><color=0001>‚»‚¤‚¾B<pause><lineend><CC03EA>–‚l‚ÆŒÄ‚Î‚ê‚µ•ƒ‚ğ‚Â‚ª‚ä‚¦‚Ì<lineend>‹ê”Y‚Æ‚¢‚¤‚à‚Ì‚ª<lineend>‚ ‚é‚Ì‚¾‚ë‚¤‚ÈA‚¨‚»‚ç‚­EEE<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a demonic label<lineend>due to your father being called demon<lineend>likely causes deep turmoil and suffering.<lineend><pause>|
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon that knows everything there is to know?<pause><lineend>|
 196609|
@@ -73,23 +73,23 @@
 262144|
 <CC03EA><CC03FC=0004><string=015C><color=0001>You certainly made short work of that Dragon!<pause><lineend>|
 262145|
-<CC03EA><CC03FC=0004><string=004B><color=0001>‚·‚°‚¥í‚¢‚¾‚Á‚½‚ñ‚¾‚ºB<lineend>‚İ‚ñ‚È‚É‚àŒ©‚¹‚Ä‚â‚è‚½‚©‚Á‚½‚æB<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>It was an amazing fight, wasn't it?<lineend>I also wanted to show off to everyone.<pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=015E><color=0001>‹°‚ë‚µ‚¢ƒAƒCƒXƒhƒ‰ƒSƒ“‚à<lineend>ƒhƒ‰ƒSƒ“ƒXƒŒƒCƒ„[‚Ì‘O‚É‚Í‚©‚½‚È‚µ‚¾‚ÈB<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Even the terrifying Ice Dragon is no match<lineend>in front of the Dragon Slayer.<pause><lineend>|
 262147|
-<CC03EA><color=0003><string=0001><lineend><color=0001>‚¾‚ªƒ„ƒc‚ÍEEE<pause><lineend><CC03EA>ƒuƒ‰ƒbƒNƒhƒ‰ƒSƒ“‚Í<lineend>‚±‚±‚É‚à‚¢‚È‚©‚Á‚½B<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>But the<pause><lineend><CC03EA>Black Dragon<lineend>wasn't here either.<pause><lineend>|
 262148|
-<CC03EA><CC03FC=0004><string=015C><color=0001>EEE‚»‚Ì‚±‚Æ‚¾‚ª‚È<lineend>ƒGƒhƒ[ƒhŒNB<pause><lineend><CC03EA>ƒhƒ‰ƒ“ƒSƒ‰‚Ì‘º‚Å<lineend>•‚¢—³‚Ìp‚ğŒ©‚½‚Æ‚¢‚¤˜b‚ğ<lineend>—·‚Ì—b•º‚©‚ç•·‚¢‚½‚ñ‚¾‚ªB<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>That's right,<lineend>Edward.<pause><lineend><CC03EA>In Drangola Village,<lineend>I heard a wandering mercenary<lineend>saw the Black Dragon.<pause><lineend>|
 262149|
-<CC03EA><color=0003><string=0001><lineend><color=0001>–{“–‚©‚ÁII<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Is that true!!<pause><lineend>|
 262150|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend>|
 262151|
-<CC03EA><color=0003><string=0001><lineend><color=0001>EEE‚»‚¤‚©B<pause><lineend><CC03EA>‚È‚ç‰´‚Íƒhƒ‰ƒ“ƒSƒ‰‚ÉŒü‚©‚¤B<lineend>‚à‚¤‚±‚ÌŠX‚Éƒhƒ‰ƒSƒ“‚ª<lineend>P‚Á‚Ä—ˆ‚é–‚à‚È‚¢‚¾‚ë‚¤‚©‚ç‚ÈB<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Is that so.<pause><lineend><CC03EA>In that case, I'll head to Drangola.<lineend>There shouldn't be any more<lineend>Dragons attacking this town now, right?<pause><lineend>|
 262152|
-<CC03EA><CC03FC=0004><string=015C><color=0001>ƒGƒhƒ[ƒhŒNB<pause><lineend><CC03EA>ŒN‚Í‚È‚ºA‚»‚±‚Ü‚Å‚µ‚Ä<lineend>ƒuƒ‰ƒbƒNƒhƒ‰ƒSƒ“‚ğ“|‚»‚¤‚Æ‚·‚é‚ñ‚¾H<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Sir Edward.<pause><lineend><CC03EA>Edward, why have you<lineend>gone to such lengths to defeat the Black Dragon?<pause><lineend>|
 262153|
-<CC03EA><color=0003><string=0001><lineend><color=0001>‚»‚ê‚ÍEEE<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>That...<pause><lineend>|
 262154|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...That's what I'm after.<pause><lineend><CC03EA>It's to prove that I'm not the same as my Father.<pause><lineend>|
 262155|
