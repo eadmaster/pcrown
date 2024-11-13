@@ -95,9 +95,9 @@
 47|
 <CC03ED=0002001200010000><CC03F9=0002>|
 48|
-<CC03EA><color=0004><string=00EE><lineend><color=0001>ぜったい行くよ、プロセルピナ！<pause><lineend>|
+<CC03EA><color=0004><string=00EE><lineend><color=0001>Come on, Proserpina!<pause><lineend>|
 49|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>やくそくね、プロセルピナ！<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>You promised, Proserpina!<pause><lineend>|
 65536|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Proserpina? Where are you?<pause><lineend>|
 65537|
