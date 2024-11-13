@@ -33,4 +33,4 @@
 65544|
 <CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>The last time I saw him...<lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>...he was chasing the monster <color=0002>toward the desert,<color=0005> from the path in the middle of the village.<color=0001><lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>Be careful, OK? Promise you'll come back!<lineend><CC03ED=00350002000103FF><pause>|
 65545|
-<CC03ED=0035000100010000><CC03ED=00350003000103FF><CC03EA><color=0006><string=0035><lineend><color=0001>あのね、リヨンおにいちゃんね。<pause><lineend><CC03EA>モンスターをおいかけて<lineend><color=0005>村のまんなか<color=0001>から<color=0002>さばくの方<color=0001>へ<lineend>行っちゃったの。<lineend><CC03ED=0035000400010000><CC03ED=00350000000103FF><pause>|
+<CC03ED=0035000100010000><CC03ED=00350003000103FF><CC03EA><color=0006><string=0035><lineend><color=0001>The last time I saw him...<pause><lineend><CC03EA>...he was chasing the monster <lineend><color=0005>toward the desert,<color=0001>from<color=0002>the path in the<color=0001>middle<lineend>of the village.<lineend><CC03ED=0035000400010000><CC03ED=00350000000103FF><pause>|
