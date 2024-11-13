@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>どこに行くつもり？女王様。<pause><lineend><CC03EA>はやく何とかしないと<lineend>ラルヴァがこの世界に復活するよ！<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Highness, where are you going?<pause><lineend><CC03EA>Something must be done about it quickly<lineend>or Larva will be resurrected in this world!<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>・・・そうですね。<pause><lineend><CC03EA>ここでわたしが<lineend>逃げるわけにはいきません。<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...So it seems.<pause><lineend><CC03EA>I won't even try to escape<lineend>from here.<lineend><pause>|
 2|
 <CC03F0=000000880000000A03FF00000000>|
 65536|
