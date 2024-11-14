@@ -17,7 +17,7 @@
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wherever he is, I'm sure we're not finished with him yet.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>According to records, it is said that the Demon King is close to being immortal.<pause><lineend><CC03EA>He may have temporarily hidden himself.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, according to records, the Demon King is nearly immortal.<pause><lineend><CC03EA>Maybe he just hid himself for a while.<lineend><pause>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael?<pause><lineend>|
 196612|

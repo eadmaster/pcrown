@@ -39,9 +39,9 @@
 131084|
 <CC03EA><CC03FC=0004><string=015C><color=0001>...He carries on the name of Glowstar.<lineend><pause>|
 131085|
-<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the traitor?!<pause><lineend>|
 131086|
-<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a demonic label due to your father being called demon likely causes deep turmoil and suffering.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a father who is called a demon must be causing him a lot of pain...<lineend><pause>|
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon that knows everything there is to know?<pause><lineend>|
 196609|
@@ -79,13 +79,13 @@
 262147|
 <CC03EA><color=0003><string=0001><lineend><color=0001>But the<pause><lineend><CC03EA>Black Dragon<lineend>wasn't here either.<pause><lineend>|
 262148|
-<CC03EA><CC03FC=0004><string=015C><color=0001>That's right,<lineend>Edward.<pause><lineend><CC03EA>In Drangola Village, I heard a wandering mercenary saw the Black Dragon.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>That's right, Edward.<pause><lineend><CC03EA>In Dorangora Village, I heard a wandering mercenary saw the Black Dragon.<pause><lineend>|
 262149|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Is that true!!<pause><lineend>|
 262150|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend>|
 262151|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...Is that so.<pause><lineend><CC03EA>In that case, I'll head to Drangola.<lineend>There shouldn't be any more Dragons attacking this town now, right?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...Is that so.<pause><lineend><CC03EA>In that case, I'll head to Dorangora.<lineend>There shouldn't be any more Dragons attacking this town now, right?<pause><lineend>|
 262152|
 <CC03EA><CC03FC=0004><string=015C><color=0001>Sir Edward.<pause><lineend><CC03EA>Edward, why have you gone to such lengths to defeat the Black Dragon?<pause><lineend>|
 262153|
