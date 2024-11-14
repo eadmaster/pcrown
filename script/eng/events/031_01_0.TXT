@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0004><string=01D9><lineend><color=0001>It looks like the gods haven't forgotten me after all...<pause><lineend>|
 4|
-<CC03EA><color=0004><string=01D9><lineend><color=0001>Young lady, as you can see, we've been attacked by a Basilisk.<pause><lineend><CC03EA>The only way to change the townspeople back to normal is to kill that monster.<pause><lineend><CC03EA>Please, find a way to let the Queen in Valendine know what's happened here.<pause><lineend>|
+<CC03EA><color=0004><string=01D9><lineend><color=0001>Young lady, as you can see, we've been attacked by a Basilisk.<pause><lineend><CC03EA>The only way to change the townspeople back to normal is to kill that monster.<pause><lineend><CC03EA>Please, find a way to let the Queen in Valenadine know what's happened here.<pause><lineend>|
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>I can fight the Basilisk myself.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>Besides, it wouldn't be right to leave while it's still on the loose.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>I may not look like it, but I know how to use a sword.<lineend><CC03ED=00000020000103FF><pause>|
 6|
@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>You know who I am!?<lineend><CC03ED=0000001C000103FF><pause>|
 17|
-<CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I've gone to Valendine Castle in the past to consult your Mother.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It's quite a surprise to see you traveling the kingdom unaccompanied like this.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It reminds me of something that Queen Elfaran herself would do.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>That aside, please allow me to extend my gratitude for saving this village.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I can't offer you much, but you are welcome to stay in my home to rest.<lineend><CC03ED=00F70006000103FF><pause>|
+<CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I've gone to Valenadine Castle in the past to consult your Mother.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It's quite a surprise to see you traveling the kingdom unaccompanied like this.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It reminds me of something that Queen Elfaran herself would do.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>That aside, please allow me to extend my gratitude for saving this village.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I can't offer you much, but you are welcome to stay in my home to rest.<lineend><CC03ED=00F70006000103FF><pause>|
 18|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Please do me one favor, Leon.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I'd like you not to tell anyone that I'm the Queen.<lineend><CC03ED=0000001C000103FF><pause>|
 19|

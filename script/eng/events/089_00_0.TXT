@@ -1,4 +1,4 @@
 65536|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>The skies to the west are red...<lineend><CC03ED=00010003000103FF><pause>|
 65537|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Is Valendine Castle...<lineend>burning!?<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Is Valenadine Castle...<lineend>burning!?<lineend><CC03ED=00010003000103FF><pause>|

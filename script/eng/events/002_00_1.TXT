@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Do you suppose Queen Gradriel has returned to the castle by now?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Valendine is a beautiful place. We take pride in both our city and our Queen. <pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Valenadine is a beautiful place. We take pride in both our city and our Queen. <pause><lineend>|
 2|
 <CC03EA><color=0006><string=002E><lineend><color=0001>On days like today, when the weather is nice...<pause><lineend><CC03EA>...the Princesses often stand on their balconies, where everyone may gaze upon them.<pause><lineend><CC03EA>We haven't seen Princess Eriel recently, though. I wonder if she's all right?<pause><lineend>|
 3|

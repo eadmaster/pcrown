@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Oh, hello Miss. Is this your first time in town?<pause><lineend><CC03EA>Valendine is the closest place to the castle, where Queen Elfaran lives.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Oh, hello Miss. Is this your first time in town?<pause><lineend><CC03EA>Valenadine is the closest place to the castle, where Queen Elfaran lives.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=000A><lineend><color=0001>As long as Queen Elfaran is with us, those Demons aren't the least bit scary!<pause><lineend>|
 2|
@@ -99,7 +99,7 @@
 49|
 <CC03F0=000000880000000C03FF00000000><CC03FB=000A>|
 50|
-<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Is this Valendine before I was born?<lineend><CC03ED=000000A0000103FF><pause>|
+<CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Is this Valenadine before I was born?<lineend><CC03ED=000000A0000103FF><pause>|
 51|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Shadow must have sent me back with the Time Stone...<pause><lineend><CC03EA><CC03F8=0001>This is what everyone said Valendia looked like back when Mother fought the Demons.<pause><lineend>|
 52|

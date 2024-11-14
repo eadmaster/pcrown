@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0052><lineend><color=0001>Cadho Badho is rich in history and full of interesting stories.<pause><lineend><CC03EA>For anyone learning magic, it's a fascinating place to be.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0053><lineend><color=0001>We could see the Demon Horde attacking Valendine Castle from here.<pause><lineend><CC03EA>Everyone watched without saying a word...<pause><lineend>|
+<CC03EA><color=0006><string=0053><lineend><color=0001>We could see the Demon Horde attacking Valenadine Castle from here.<pause><lineend><CC03EA>Everyone watched without saying a word...<pause><lineend>|
 3|
 <CC03EA><color=0006><string=001C><lineend><color=0001>This is terrible! The Demon King will return for sure!!<pause><lineend>|
 4|

@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>I heard something happened at Valendine Castle.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I heard something happened at Valenadine Castle.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0033><lineend><color=0001>It turns out those pirates weren't so tough after all!<pause><lineend><CC03EA>Heh heh!<pause><lineend>|
 2|
@@ -15,9 +15,9 @@
 7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of town that nobody's lived in for 20 years.<pause><lineend><CC03EA>Apparently the place is overrun with ghosts, and nobody goes in for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion, though. It must be worth a fortune!<pause><lineend><CC03EA>There's just nobody who wants to buy it.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=000F><lineend><color=0001>People are worried that something terrible has happened at <color=0002>Valendine Castle.<color=0001><pause><lineend><CC03EA>I just went to Valendine on business myself...<pause><lineend><CC03EA>You wouldn't believe what people were saying happened to the Princesses.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>People are worried that something terrible has happened at <color=0002>Valenadine Castle.<color=0001><pause><lineend><CC03EA>I just went to Valenadine on business myself...<pause><lineend><CC03EA>You wouldn't believe what people were saying happened to the Princesses.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=003D><lineend><color=0002>Valendine<color=0001> is <color=0005>straight to the west from the left side of town.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0002>Valenadine<color=0001> is <color=0005>straight to the west from the left side of town.<color=0001><pause><lineend>|
 10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken care of everything I heard at my first audience.<pause><lineend><CC03EA>I guess that means it's time to stop in at the castle.<pause><lineend>|
 11|

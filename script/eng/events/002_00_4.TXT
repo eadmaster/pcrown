@@ -137,7 +137,7 @@
 68|
 <CC03EA><color=0006><CC03FC=0004><string=01B7><color=0001>I'll need Insect Powder and Round-Leaf Grass for that.<pause><lineend>|
 69|
-<CC03EA><color=0002><string=0000><lineend><color=0001>We don't know when Leon is going to come after the crown.<pause><lineend><CC03EA>Let's return to Valendine Castle for now.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We don't know when Leon is going to come after the crown.<pause><lineend><CC03EA>Let's return to Valenadine Castle for now.<pause><lineend>|
 70|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>You've taken care of everything you need to, right?<pause><lineend>|
 71|

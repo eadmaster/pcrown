@@ -15,7 +15,7 @@
 65543|
 <CC03EA><color=0003><string=0001><lineend><color=0001>He actually pinned a Demon to the door?<pause><lineend>|
 65544|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>25 years ago, when the Demon Horde attacked Valendine Castle...<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>25 years ago, when the Demon Horde attacked Valenadine Castle...<pause><lineend>|
 131072|
 <CC03EA><color=0004><string=0103><lineend><color=0001>This must be it...<pause><lineend><CC03EA>The door to the Demon Realm.<pause><lineend>|
 131073|

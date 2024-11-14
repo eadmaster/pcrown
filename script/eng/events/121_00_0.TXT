@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0057><lineend><color=0001>I want to be as good a Wizard as the Leader someday.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0014><lineend><color=0001>There was a parade in Valendine to celebrate the new Queen.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>There was a parade in Valenadine to celebrate the new Queen.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=0005><lineend><color=0001>Good afternoon to you.<pause><lineend>|
 13|

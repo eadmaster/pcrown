@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>I saw flames rising from Valendine Castle!<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>I saw flames rising from Valenadine Castle!<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0033><lineend><color=0001>We came to Leeland on our honeymoon.<pause><lineend><CC03EA>Would you believe we were attacked by pirates?<pause><lineend>|
 2|

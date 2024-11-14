@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time for detours.<pause><lineend><CC03EA>We need to go see what's happening at Valendine Castle, and quick!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Now isn't the time for detours.<pause><lineend><CC03EA>We need to go see what's happening at Valenadine Castle, and quick!<pause><lineend>|
 1|
 <CC03F0=0001000D0001001403FF00000000>|
 2|

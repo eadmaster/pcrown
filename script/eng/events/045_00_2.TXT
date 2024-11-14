@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Now nobody will ever try to steal my Jestonai autograph.<pause><lineend><CC03EA>What a relief!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0052><lineend><color=0001>We could see the Demons attacking Valendine Castle from here.<pause><lineend><CC03EA>Everyone watched without saying a word...<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>We could see the Demons attacking Valenadine Castle from here.<pause><lineend><CC03EA>Everyone watched without saying a word...<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0052><lineend><color=0001>We Wizards tried with all our might to find the Donfan Bandits.<pause><lineend><CC03EA>Unfortunately, we never found any clues that lead anywhere.<pause><lineend>|
 5|

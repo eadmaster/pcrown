@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0007><lineend><color=0001>...BURRRP!...<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Cokanu Restaurant, at the foot of Valendine Castle and the Queen herself!<pause><lineend><CC03EA>If you're ready, I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>Welcome to the Cokanu Restaurant, at the foot of Valenadine Castle and the Queen herself!<pause><lineend><CC03EA>If you're ready, I'll take your order.<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01A9><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|

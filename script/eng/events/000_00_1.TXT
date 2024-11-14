@@ -57,10 +57,10 @@
 65560|
 <CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>(A book? That could be the wicked book that broke free and disappeared!)<pause><lineend> |
 65561|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valendine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valenadine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
 65562|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Jestonai. I'm off to the Black Forest.<pause><lineend>|
 65563|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valendine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valenadine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
 65564|
 <CC03EA><color=0004><string=0102><lineend><color=0001><color=0005>In the depths of the Black Forest<color=0001>, there is a fork in the road that leads north to the <color=0002>Witch's Tower<color=0001>.<pause><lineend><CC03EA>We will be on standby near the forest and ready to come after you any time.<lineend><pause>|

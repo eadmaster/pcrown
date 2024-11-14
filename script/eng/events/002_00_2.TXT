@@ -81,9 +81,9 @@
 40|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Anytime you'd care to hear a song, just let me know.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
 41|
-<CC03EA><color=0006><string=0015><lineend><color=0001>Oh, your Majesty!<pause><lineend><CC03EA>Now you've seen it yourself...What's happened to this town...<pause><lineend><CC03EA>But nobody is giving up! Just wait and see. We'll make Valendine as beautiful as it ever was.<pause><lineend>|
+<CC03EA><color=0006><string=0015><lineend><color=0001>Oh, your Majesty!<pause><lineend><CC03EA>Now you've seen it yourself... What's happened to this town...<pause><lineend><CC03EA>But nobody is giving up! Just wait and see. We'll make Valenadine as beautiful as it ever was.<pause><lineend>|
 42|
-<CC03EA><color=0006><string=001D><lineend><color=0001>The town was like this 25 years ago, too.<pause><lineend><CC03EA>But little by little, we made it right again.<pause><lineend><CC03EA>That's why there's no need to be sad. The Castle Town of Valendine will be back!<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>The town was like this 25 years ago, too.<pause><lineend><CC03EA>But little by little, we made it right again.<pause><lineend><CC03EA>That's why there's no need to be sad. The Castle Town of Valenadine will be back!<pause><lineend>|
 43|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 44|

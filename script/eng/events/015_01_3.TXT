@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>I heard the Demon Horde tried to invade again.<pause><lineend><CC03EA>Do you think Valendine Castle was all right?<pause><lineend>|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>I heard the Demon Horde tried to invade again.<pause><lineend><CC03EA>Do you think Valenadine Castle was all right?<pause><lineend>|
 1|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy-tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
 2|

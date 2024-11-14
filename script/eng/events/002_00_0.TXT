@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Do you need some directions?<pause><lineend><CC03EA>The village of <color=0002>Nutsbill<color=0001> is straight to the west from this town's left exit.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Valendine is the closest town to the Royal Castle, you know.<pause><lineend><CC03EA>If you go north from here, Valendine Castle will come into view. That's where our Queen lives!<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Valenadine is the closest town to the Royal Castle, you know.<pause><lineend><CC03EA>If you go north from here, Valenadine Castle will come into view. That's where our Queen lives!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=002E><lineend><color=0001>On days like today, when the weather is nice...<pause><lineend><CC03EA>...the Princesses often stand on their balconies, where everyone may gaze upon them.<pause><lineend>|
 3|
@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=002D><lineend><color=0001>I'm getting awfully tired of my boyfriend spending all his time drinking.<pause><lineend><CC03EA>He went into the tavern again this morning, and nobody's heard from him since.<pause><lineend><CC03EA>How do I wind up falling for guys like him, anyway?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0008><lineend><color=0001>So this is Valendine, eh?<pause><lineend><CC03EA>Since I came all this way, I'd really like to get a look at the Princesses.<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>So this is Valenadine, eh?<pause><lineend><CC03EA>Since I came all this way, I'd really like to get a look at the Princesses.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=000C><lineend><color=0001>I think today's a good day to make some of my world-famous soup for dinner.<pause><lineend><CC03EA>Would you like me to teach you how about making soup, too?<pause><lineend><CC03EA>You'll need to select a Cooking Pot, first of all.<pause><lineend><CC03EA>Next, you'll need to select a Food item to put inside it.<pause><lineend><CC03EA>There are many types of Foods, so try making as many different kinds of soup as you can.<pause><lineend><CC03EA>Just remember this: It's no use making soup unless you have some Soup Spice.<pause><lineend><CC03EA>After all, nobody will want to eat it if it doesn't have any flavor!<pause><lineend>|
 10|

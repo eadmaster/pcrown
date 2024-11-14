@@ -9,11 +9,11 @@
 4|
 <CC03EA><color=0006><string=0063><lineend><color=0001>I've heard that one of Captain Drake's treasures was a Gem called the Ocean Stone.<pause><lineend><CC03EA>They say it gave off a light more beautiful than any other Gem in the world.<pause><lineend><CC03EA>I'd love to lay eyes on that Gem, even just once.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=003C><lineend><color=0001>Hey, did you hear?<pause><lineend><CC03EA>The Demon Horde attacked Valendine Castle.<pause><lineend><CC03EA>The Queen fought them off herself, too!<pause><lineend><CC03EA>Isn't that incredible? Her Majesty just turned thirteen!<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>Hey, did you hear?<pause><lineend><CC03EA>The Demon Horde attacked Valenadine Castle.<pause><lineend><CC03EA>The Queen fought them off herself, too!<pause><lineend><CC03EA>Isn't that incredible? Her Majesty just turned thirteen!<pause><lineend>|
 6|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Young folks these days just don't listen to their elders.<pause><lineend><CC03EA>It's a shame. The old folktales and legends have truths in them, you know.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000F><lineend><color=0001>I heard that Demons attacked Valendine Castle.<pause><lineend><CC03EA>The Knight Guard could hardly do a thing to keep them at bay.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>I heard that Demons attacked Valenadine Castle.<pause><lineend><CC03EA>The Knight Guard could hardly do a thing to keep them at bay.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=003D><lineend><color=0001>First pirates, now the Demon Horde...<pause><lineend><CC03EA>How long will it take for things to go back to normal around here?<pause><lineend>|
 9|
