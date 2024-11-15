@@ -9,9 +9,9 @@
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=0110><lineend><color=0001>おおお！　体に魔力が戻る・・・<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Oooh! Magic Power is returning to my body.<pause><lineend>|
 65542|
-<CC03EA><color=0005><string=0110><lineend><color=0001>グオオオォォォォッ！！<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>Guoooooooo!!<pause><lineend>|
 65543|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Volgrod!<pause><lineend>|
 65544|
