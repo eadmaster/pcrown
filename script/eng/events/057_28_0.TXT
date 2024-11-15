@@ -17,7 +17,7 @@
 196609|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Be on your guard, men.<pause><lineend><CC03EA>Lord Jestonai said something would bring disaster upon the kingdom.<pause><lineend><CC03EA>Whatever that is, it's close.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Golgotha.<lineend>We couldn't find anything here<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Golgotha.<lineend>We couldn't find anything here.<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=0103><lineend><color=0001>...Is that so.<pause><lineend>|
 196612|
