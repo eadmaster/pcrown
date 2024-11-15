@@ -53,7 +53,7 @@
 65562|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I want you to kill this girl and take her crown. Understood!<pause><lineend>|
 65563|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>„‚Íæ‚Éƒ”ƒHƒ‹ƒK‰¤‘‚ÖŒü‚¢<lineend>‚à‚¤ˆê‚Â‚Ì‰¤Š¥‚ğ‚Æ‚Á‚Ä‚«‚Ü‚·B<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>I will head towards Kingdom Volga first<lineend>and bring back another crown<pause><lineend>|
 65564|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I bid you farewell, Queen Gradriel!<pause><lineend>|
 65565|
