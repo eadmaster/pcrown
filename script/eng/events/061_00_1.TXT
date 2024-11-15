@@ -31,9 +31,9 @@
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause><lineend><CC03EA>grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But<lineend>I can't go there now, though,<pause><lineend><CC03EA>because the monsters<lineend>would squish me for sure!<pause><lineend><CC03EA>Oh,<lineend>what did I ever do to deserve this?<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause> grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause><lineend><CC03EA>grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But<lineend>I can't go there now, though,<pause><lineend><CC03EA>because the monsters<lineend>would squish me for sure!<pause><lineend><CC03EA>Oh,<lineend>what did I ever do to deserve this?<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause> grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
 18|
 <CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
 19|

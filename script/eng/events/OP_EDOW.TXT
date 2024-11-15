@@ -33,7 +33,7 @@
 131081|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>It's a long story...<lineend><CC03ED=00010007000103FF><pause>|
 131082|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>﻿...That was,<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>to prove<lineend>that I'm different from my father.<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>﻿...That was,<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>to prove that I'm different from my father.<lineend><CC03ED=00010007000103FF><pause>|
 131083|
 <CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
 131084|
@@ -77,7 +77,7 @@
 262146|
 <CC03EA><CC03FC=0004><string=015E><color=0001>Even the terrifying Ice Dragon is no match in front of the Dragon Slayer.<pause><lineend>|
 262147|
-<CC03EA><color=0003><string=0001><lineend><color=0001>But the<pause><lineend><CC03EA>Black Dragon<lineend>wasn't here either.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>But the Black Dragon wasn't here either.<pause><lineend>|
 262148|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right, Edward.<pause><lineend><CC03EA>In Dorangora Village, I heard a wandering mercenary saw the Black Dragon.<pause><lineend>|
 262149|

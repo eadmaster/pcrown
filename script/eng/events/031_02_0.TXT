@@ -19,9 +19,9 @@
 65537|
 <CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>Leon?<lineend><CC03ED=00350002000103FF><pause>|
 65538|
-<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>You're not Leon...Who are you?<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>You're not Leon... Who are you?<lineend><CC03ED=00350002000103FF><pause>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>My name is Gradriel. I'm...a traveler.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>Can you tell me what's happened to this village?<lineend><CC03ED=00000020000103FF><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>My name is Gradriel. I'm... a traveler.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>Can you tell me what's happened to this village?<lineend><CC03ED=00000020000103FF><pause>|
 65540|
 <CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>A really big snake-monster showed up one day and turned my Mom and dad to stone.<lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>A Wizard named Leon lives in the village, and he told me to hide here.<lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>He said everyone would change back to normal once he beat that monster.<lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>But he hasn't come back yet. I've been waiting here for so long. I'm really scared!<lineend><CC03ED=00350002000103FF><pause>|
 65541|
@@ -33,4 +33,4 @@
 65544|
 <CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350003000103FF>The last time I saw him...<lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>...he was chasing the monster <color=0002>toward the desert,<color=0005> from the path in the middle of the village.<color=0001><lineend><CC03ED=00350002000103FF><pause><CC03EA><CC03ED=00350003000103FF>Be careful, OK? Promise you'll come back!<lineend><CC03ED=00350002000103FF><pause>|
 65545|
-<CC03ED=0035000100010000><CC03ED=00350003000103FF><CC03EA><color=0006><string=0035><lineend><color=0001>The last time I saw him...<pause><lineend><CC03EA>...he was chasing the monster <lineend><color=0005>toward the desert,<color=0001>from<color=0002>the path in the<color=0001>middle<lineend>of the village.<lineend><CC03ED=0035000400010000><CC03ED=00350000000103FF><pause>|
+<CC03ED=0035000100010000><CC03ED=00350003000103FF><CC03EA><color=0006><string=0035><lineend><color=0001>The last time I saw him...<pause><lineend><CC03EA>...he was chasing the monster <color=0005>toward the desert, <color=0001>from <color=0002>the path in the <color=0001>middle of the village.<lineend><CC03ED=0035000400010000><CC03ED=00350000000103FF><pause>|
