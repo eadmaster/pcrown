@@ -33,7 +33,7 @@
 16|
 <CC03EA><CC03FC=0004><string=01B2><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
 17|
-<CC03EA><color=0006><string=01B2><lineend><color=0001>‚¨‚âA‚¨‹à‚ª‘«‚è‚È‚¢‚æ‚¤‚Å‚·B<lineend>‚Ü‚½‚¢‚ç‚µ‚Ä‰º‚³‚¢B<pause><lineend>|
+<CC03EA><color=0006><string=01B2><lineend><color=0001>You don't quite have enough money. Come back anytime.<pause><lineend>|
 18|
 <CC03EA><color=0006><string=01B2><lineend><color=0001>Have a pleasant sleep.<pause><lineend>|
 19|
