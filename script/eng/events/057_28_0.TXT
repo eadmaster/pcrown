@@ -11,19 +11,19 @@
 131072|
 <CC03EA><color=0005><string=0122><lineend><color=0001>Since you're so interested, why don't I give you a demonstration?<lineend><pause><CC03EA>After all, there's no need to fight when I can simply banish you to another era altogether!<lineend><pause>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ああっ！<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Aah!<pause><lineend>|
 196608|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Trouble is afoot. I can sense it.<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Be on your guard, men.<pause><lineend><CC03EA>Lord Jestonai said something would bring disaster upon the kingdom.<pause><lineend><CC03EA>Whatever that is, it's close.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0102><lineend><color=0001>ゴルゴダ様。<lineend>こちらは何も見つかりませんでした。<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Sir Golgotha.<lineend>We couldn't find anything here<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=0103><lineend><color=0001>・・・そうか。<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>...Is that so.<pause><lineend>|
 196612|
 <CC03EA><CC03FC=0004><string=007D><color=0001>Sir Glowstar, there's a passage this way.<pause><lineend>|
 196613|
-<CC03EA><CC03FC=0004><string=007D><color=0001>今の声は・・・！？<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D><color=0001>What was that sound...!?<pause><lineend>|
 196614|
 <CC03EA><color=0004><string=0102><lineend><color=0001>...A Demon!!<pause><lineend>|
 196615|
@@ -35,7 +35,7 @@
 196618|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Was that Demon what we were looking for, Sir Glowstar?<pause><lineend>|
 196619|
-<CC03EA><color=0004><string=0103><lineend><color=0001>No, he's not it. Let's split up and keep searching.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>No, that's not it. Let's split up and keep searching.<pause><lineend>|
 262144|
 <CC03EA><color=0004><string=0102><lineend><color=0001>What's this?<pause><lineend>|
 262145|
@@ -61,7 +61,7 @@
 262155|
 <CC03EA><color=0004><string=0103><lineend><color=0001>No!!<pause><lineend>|
 262156|
-<CC03EA><color=0004><string=0103><lineend><color=0001>クエイン！！<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Kwein!!<pause><lineend>|
 262157|
 <CC03EA><color=0004><string=0103><lineend><color=0001>Hrrg...<lineend>Gyaaaah!!<pause><lineend>|
 262158|
