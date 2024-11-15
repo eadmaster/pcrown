@@ -31,9 +31,9 @@
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0165><lineend><color=0005>ネルトとドワーフ王国をつなぐ<lineend>とちゅうのわき道<color=0001>を行った所に<pause><lineend><CC03EA>変身の魔法の効果を解く<lineend><color=0003>「とがった草」がたくさん生えている所<color=0001>が<lineend>あるんだけれど・・・<pause><lineend><CC03EA>モンスターがこわくて<lineend>取りに行けないケロ～！<pause><lineend><CC03EA>おおぉ、神は我を<lineend>見捨ててしまったケロ～・・・<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause><lineend><CC03EA>grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But<lineend>I can't go there now, though,<pause><lineend><CC03EA>because the monsters<lineend>would squish me for sure!<pause><lineend><CC03EA>Oh,<lineend>what did I ever do to deserve this?<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0165><lineend><color=0005>ネルトとドワーフ王国をつなぐ<lineend>とちゅうのわき道<color=0001>を行った所に<pause><lineend><CC03EA>変身の魔法の効果を解く<lineend><color=0003>「とがった草」がたくさん生えている所<color=0001>が<lineend>あるんだけれど・・・<pause><lineend><CC03EA>モンスターがこわくて<lineend>取りに行けないケロ～！<pause><lineend><CC03EA>おおぉ、神は我を<lineend>見捨ててしまったケロ～・・・<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause><lineend><CC03EA>grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But<lineend>I can't go there now, though,<pause><lineend><CC03EA>because the monsters<lineend>would squish me for sure!<pause><lineend><CC03EA>Oh,<lineend>what did I ever do to deserve this?<pause><lineend>|
 18|
 <CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
 19|
@@ -115,7 +115,7 @@
 65546|
 <CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 65547|
-<CC03EA><color=0006><string=0165><lineend><color=0005>よろしくお願いするケロよ！！<lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Thank you so much!!<lineend><pause>|
 131072|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
 131073|
@@ -139,7 +139,7 @@
 131082|
 <CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 131083|
-<CC03EA><color=0006><string=0165><lineend><color=0005>よろしくお願いするケロよ！！<lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Thank you so much!!<lineend><pause>|
 196608|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Did you bring me the Grass!?<pause><lineend><CC03EA>You did!! I can change back now!!<pause><lineend><CC03EA>Bring it this way!<lineend><pause>|
 196609|
