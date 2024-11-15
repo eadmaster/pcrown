@@ -83,7 +83,7 @@
 41|
 <CC03EA><color=0002><string=0000><lineend><color=0001>(Well, it sure didn't take long to get spotted...)<pause><lineend><CC03EA>Sir, I have a request. I'd like it if you didn't tell anyone that you saw me here.<pause><lineend><CC03EA>I've left the castle in secret, and I'm on a journey to see the kingdom for myself.<pause><lineend>|
 42|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Why, of course. I'll do anything my Queen asks of me.<pause><lineend>|
+<CC03EA><color=0002><string=0015><lineend><color=0001>Why, of course. I'll do anything my Queen asks of me.<pause><lineend>|
 43|
 <CC03FB=0014><CC03ED=0000008700010000><CC03F9=0000>|
 44|

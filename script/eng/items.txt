@@ -259,8 +259,8 @@ Fire Defense UP<lineend>
 Rebound Enemy Attacks<lineend>
 Attacking Enemies Freeze<lineend>
 Attacking Enemies Burn<lineend>
-No-Crouch Item Grab<lineend>
-Auto Defend<lineend>
+No-Crouch Item Pick-Up<lineend>
+Defend Automaticaly<lineend>
 Unleash Petrification Beam<lineend>
 Shoot Fireballs<lineend>
 Call Down Lightning<lineend>
@@ -276,8 +276,8 @@ Summon Goblin Dive-Bomb<lineend>
 Burn Undead Enemies<lineend>
 Items Won't Break<lineend>
 Drop Boulder With Earthquake<lineend>
-Sword Has Fire Magic<lineend>
-Sword Has Light Magic<lineend>
+Sword Gains Fire Magic<lineend>
+Sword Gains Lightning Magic<lineend>
 Turn Enemy Into Gold Statue<lineend>
 Double Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
@@ -292,7 +292,7 @@ Restore Consumable Item<lineend>
 Check Item For Curse<lineend>
 Throwing Sword<lineend>
 Magic Throwing Sword<lineend>
-For Flying Enemies<lineend>
+Throw At Flying Enemies<lineend>
 Explodes Where Dropped<lineend>
 Damage Undead Enemies<lineend>
 Throw At Enemies<lineend>
@@ -302,8 +302,8 @@ Throw At Enemies<lineend>
 Grows Where Planted<lineend>
 Food<lineend>
 Use To Make Magic Stone<lineend>
-Soup Spice<lineend>
-Cooking Spice<lineend>
+Use With The Soup Pot<lineend>
+Use With The Frying Pan<lineend>
 Use To Make Potions<lineend>
 Stone Sought By Heindel<lineend>
 Use To Travel In Time<lineend>
@@ -377,7 +377,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> used telekinesis<pause><lineend>
 <CC03EA><CC03F4> raised his beheading sword<pause><lineend>
 <CC03EA><CC03F4> caught you in his net<pause><lineend>
-<CC03EA><CC03F4>started a whirlwind<pause><lineend>
+<CC03EA><CC03F4> started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
 <CC03EA><CC03F4> has taken a human form<pause><lineend>
 <CC03EA><CC03F4> is mad with rage!<pause><lineend>
@@ -424,11 +424,11 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000>Familiar's Bag<lineend><pause>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
-<CC03EA><color=0000><CC03F7> is dropped<lineend><pause>
+<CC03EA><color=0000><CC03F7> dropped<lineend><pause>
 <CC03EA><color=0000><CC03F7> is no longer effective<lineend><pause>
 
 
-<CC03EA>Sword!<lineend>Grant me strength and courage!!<pause><lineend>
+<CC03EA>Sword! Grant me strength<lineend> and courage!!<pause><lineend>
 <CC03EA>In the name of all mighty Queens!!<pause><lineend>
 <CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
 <CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>

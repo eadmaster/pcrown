@@ -19,4 +19,4 @@
 65545|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Come back for more? You're stubborn even for a Dragon!<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=017E><lineend><color=0001>ÅEÅEÅE<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>...<pause><lineend>|

@@ -55,7 +55,7 @@
 65559|
 <CC03EA><color=0004><string=0102><lineend><color=0001>My men and I will be on high alert. We'll come after you at a moment's notice.<pause><lineend><CC03EA>The witch has a book with her that can unleash all kinds of dreadful magic. <pause><lineend><CC03EA>Please be careful, Queen Gradriel.<pause><lineend>|
 65560|
-<CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>(A book? That could be the wicked book that broke free and disappeared!)<pause><lineend> |
+<CC03EA><color=0004><string=00FD><lineend><CC03F8=0001><color=0001>(A book? That could be the wicked book that broke free and disappeared!)<pause><lineend>|
 65561|
 <CC03EA><color=0004><string=00FD><lineend><color=0002>The Black Forest<color=0001> lies in between <color=0005>the town of Valenadine and the port town Leeland.<color=0001><pause><lineend><CC03EA>Your Majesty...<lineend>Please do take care.<pause><lineend>|
 65562|
