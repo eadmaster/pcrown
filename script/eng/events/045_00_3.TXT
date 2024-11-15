@@ -49,7 +49,7 @@
 24|
 <CC03EA><color=0006><string=0055><lineend><color=0001>I did it!<lineend>I finally did it!!<pause><lineend><CC03EA>I finally passed my test!!<pause><lineend>|
 25|
-<CC03EA><color=0006><string=0056><lineend><color=0001>今日もマジメに勉強、勉強！<lineend>人間マジメが一番さ。<pause><lineend>|
+<CC03EA><color=0006><string=0056><lineend><color=0001>And today, I'll study meticulously.<lineend>Because human diligence is unparalleled.<pause><lineend>|
 26|
 <CC03EA><color=0006><string=0056><lineend><color=0001>The Donfan Bandits stole my magic ring!<pause><lineend><CC03EA>It was a memento of my Grandfather, too.<pause><lineend><CC03EA>I'm dying to get it back, but there's so much studying to do here. I'm just too busy!<pause><lineend><CC03EA>It's really tragic!<pause><lineend>|
 27|
