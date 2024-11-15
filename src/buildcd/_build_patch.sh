@@ -33,8 +33,6 @@ TRANSLATED_SCRIPT_PATH=../../script/eng
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
 wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
-
 # make chars spacing smaller (thanks to paul_met and derek (ateam) for the tips) https://segaxtreme.net/threads/help-me-translate-princess-crown.18555/#post-186226
 #060729A8    E204
 #06072994    E204
@@ -63,15 +61,16 @@ ucon64 --nbak --poke=702BB:3A 0.BIN
 
 # items description fixes (thanks to paul_met) https://github.com/eadmaster/pcrown/issues/57
 #hexcalc '06074602 - 06004000 + 1' =70603
-ucon64 --nbak --poke=70603:1A 0.BIN  # X position of the price in the store right-aligned
+ucon64 --nbak --poke=70603:14 0.BIN  # X position of the price in the store (max=1A)
 # Tile map address (window #1)
 ucon64 --nbak --poke=47732:B3 0.BIN
 ucon64 --nbak --poke=47733:08 0.BIN
 # Tile map address (window #2)
+ucon64 --nbak --poke=3BE09:AB 0.BIN
 ucon64 --nbak --poke=3BE0A:B3 0.BIN
 ucon64 --nbak --poke=3BE0B:08 0.BIN
 # Height of window #1
-ucon64 --nbak --poke=3BE09:05 0.BIN
+ucon64 --nbak --poke=476FF:05 0.BIN
 # Height of window #2
 ucon64 --nbak --poke=3BDD5:05 0.BIN
 # Y position of window #1
@@ -98,6 +97,7 @@ sfk replace KANJI_ENG.BIN -binary /FFEAFFEBFF00FFF7003CFFECC6FFFFE8FFF7FFFFE9/FF
 #sfk replace KANJI_ENG.BIN -binary /FFEAFFFFEB00FFF7CF00FFECC63FFFE9FFE8FF/FFEAFFFFF7FFECC6FFFFEB05FFFFE8FFF7FFFFF9/  -yes
 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
 # update events
 if [ "$1" == "new" ] || [ "$1" == "update_script" ]; then
