@@ -15,7 +15,7 @@
 131073|
 <CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel! Stand back!<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Œ•‚æI<lineend>‚±‚Ì“{‚è‚É‚±‚½‚¦‚æII<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Swored, hear me!<lineend>Answer this rage!!<pause><lineend>|
 131075|
 <CC03EA><color=0004><string=016D><lineend><color=0001><CC03ED=016D0008000103FF>...I'd say THIS sword works just fine.<lineend><CC03ED=016D0007000103FF><pause>|
 131076|
