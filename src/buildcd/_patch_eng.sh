@@ -3,7 +3,7 @@
 #PRE: install req. patching tools
 #sudo apt install iat xdelta3
 
-echo "extract \"Princess Crown (Japan) (1M).zip\" in this path: $(pwd)"
+echo "extract \"Princess Crown (Japan) (1M)\" in this path: $(pwd)"
 echo -n "Press any key to continue... "
 read -s -n 1
 
@@ -12,7 +12,7 @@ curl -kLO https://github.com/eadmaster/pcrown/releases/latest/download/Princess.
 
 iat "Princess Crown (Japan) (1M) (Track 01).bin"  "Princess Crown (Japan) (1M) (Track 01).iso" 
 
-xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
+xdelta3 -f -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
 
 rm "Princess Crown (Japan) (1M) (Track 01).iso"
 

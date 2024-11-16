@@ -1,6 +1,6 @@
 @echo off
 
-echo extract "Princess Crown (Japan) (1M).zip" in this path: "%CD%"
+echo extract "Princess Crown (Japan) (1M)" in this path: "%CD%"
 pause
 
 REM download patching tools
@@ -12,7 +12,7 @@ iat.exe -i "Princess Crown (Japan) (1M) (Track 01).bin" -o "Princess Crown (Japa
 
 curl.exe -kLO "https://github.com/eadmaster/pcrown/releases/latest/download/Princess.Crown.Japan.1M.Track.01.iso.xdelta"
 
-xdelta3.exe -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
+xdelta3.exe -f -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
 
 del /F /Q "Princess Crown (Japan) (1M) (Track 01).iso"
 
