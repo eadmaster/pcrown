@@ -31,9 +31,9 @@
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause> grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
 17|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass<pause> grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom there is a branching path.<lineend>There's a place down that path where lots of <color=0001>Sharp-Leaf Grass grows.<lineend><color=0003>With some of that grass, I could make an antidote.<color=0001>But I can't go there now, though,<pause><lineend><CC03EA>because the monsters would squish me for sure!<pause><lineend><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend>|
 18|
 <CC03EA><color=0006><string=0052><lineend><color=0001>It's not much, but it's about the only thing I've got.<pause><lineend><CC03EA>Sorry about that!<pause><lineend>|
 19|
@@ -103,7 +103,7 @@
 65540|
 <CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to make an Invincible Potion, but I think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
 65541|
-<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off... No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 65543|
@@ -127,7 +127,7 @@
 131076|
 <CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to make an Invincible Potion, but I think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
 131077|
-<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off... No! Am I going to be a Frogger forever!? ... *RIBBIT*<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 131079|
@@ -151,7 +151,7 @@
 196612|
 <CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to make an Invincible Potion, but I think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
 196613|
-<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off... No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
 196614|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 196615|
