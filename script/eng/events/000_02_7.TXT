@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=0079><lineend><color=0001>He wasn't just one of their flunkies, either. He was actually leading them!<pause><lineend><CC03EA>It's such a shame. Golgotha was a wonderful Knight...<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0033><lineend><color=0001>It's a relief that all the fighting is over. My wife's baby is due any day now!<pause><lineend><CC03EA>I want my child to come into a peaceful world.<pause><lineend><CC03EA>Believe me, I'm going to tell my baby everything, too.<pause><lineend><CC03EA>She'll learn all about Queen Elfaran, and how she restored peace to our kingdom. <pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>It's a relief that all the fighting is over. My wife's baby is due any day now!<pause><lineend><CC03EA>I want my child to come into a peaceful world.<pause><lineend><CC03EA>Believe me, I'm going to tell my baby everything, too.<pause><lineend><CC03EA>She'll learn all about Queen Elfaran, and how she restored peace to our kingdom.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0053><lineend><color=0001>During the fighting, I saw for myself what power those Demons have.<pause><lineend><CC03EA>Now, I'm scared to even use magic.<pause><lineend><CC03EA>I feel as though magic itself is something wicked...<pause><lineend>|
 10|

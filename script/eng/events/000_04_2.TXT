@@ -7,7 +7,7 @@
 131072|
 <CC03EA><CC03FC=0004><string=0121><color=0001>It seems you're no ordinary Princess.<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=0121><color=0001>You fight well...but not well enough!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0121><color=0001>You fight well... but not well enough!<pause><lineend>|
 196608|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael!<pause><lineend>|
 196609|
@@ -85,7 +85,7 @@
 393216|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>...You mean Eriel had actually been transformed into that witch?<lineend><pause>|
 393217|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I see.<pause><lineend><CC03EA>Poor Eriel...I was afraid she had found the book...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I see.<pause><lineend><CC03EA>Poor Eriel... I was afraid she had found the book...<pause><lineend>|
 393218|
 <CC03EA><color=0002><string=0000><lineend><color=0001>About that book, Jestonai...<pause><lineend><CC03EA>What else do you know about it?<pause><lineend>|
 393219|

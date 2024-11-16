@@ -219,7 +219,7 @@ Cure Drop<lineend>
 
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
-<CC03EA><color=0000>Health<CC03EC>Restored<pause><lineend>
+<CC03EA><color=0000><CC03EC>HealthRestored<pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
@@ -425,7 +425,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
 <CC03EA><color=0000><CC03F7> dropped<lineend><pause>
-<CC03EA><color=0000><CC03F7> is no longer effective<lineend><pause>
+<CC03EA><color=0000><CC03F7> no longer effective<lineend><pause>
 
 
 <CC03EA>Sword! Grant me strength<lineend> and courage!!<pause><lineend>
