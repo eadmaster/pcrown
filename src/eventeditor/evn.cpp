@@ -1357,11 +1357,9 @@ char *FixLineWrap(char *text, int event_id)
 
 unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
-   else if ( c  == ',') return(0x3DA);
-   else if ( c  == '.') return(0x3DB);
-   else if ( c  == '*') return(3);  // TODO: replace
-   else if ( c  == '#') return(3);  // TODO: replace
-   else if ( c  == '&') return(3);  // TODO: replace
+   else if ( c  == '*') return(3);
+   else if ( c  == '#') return(3);  // TODO: add "#"
+   else if ( c  == '&') return(3);  // TODO: add "&"
    else if ( c  == '?') return(4);
    else if ( c  == '!') return(5);
    else if ( c  == '_') return(6);
@@ -1369,9 +1367,12 @@ unsigned short AsciiCharToTexttblIndex(char c) {
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
    else if ( c  == ')') return(11);
+   else if ( c  == ',') return(0x3DA);
+   else if ( c  == '.') return(0x3DB);
    else if ( c  == '\"') return(0x3DC);
    else if ( c  == '\'') return(0x3DD);
-   else if ( c  == '%') return(16);
+   else if ( c  == ':') return(0x3DE);
+   else if ( c  == '%') return(0x0F);
    else if ( c  == '0') return(0x11);
    else if ( c  == '1') return(0x12);
    else if ( c  == '2') return(0x13);
