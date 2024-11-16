@@ -66,7 +66,7 @@ ucon64 --nbak --poke=70603:14 0.BIN  # X position of the price in the store (max
 ucon64 --nbak --poke=47732:B3 0.BIN
 ucon64 --nbak --poke=47733:08 0.BIN
 # Tile map address (window #2)
-ucon64 --nbak --poke=3BE09:AB 0.BIN
+ucon64 --nbak --poke=3BE09:0A 0.BIN
 ucon64 --nbak --poke=3BE0A:B3 0.BIN
 ucon64 --nbak --poke=3BE0B:08 0.BIN
 # Height of window #1
