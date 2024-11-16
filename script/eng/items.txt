@@ -219,7 +219,7 @@ Cure Drop<lineend>
 
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
-<CC03EA><color=0000><CC03EC>HealthRestored<pause><lineend>
+<CC03EA><color=0000><CC03EC> HP Restored  <pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
 <CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
@@ -407,10 +407,10 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000><CC03F7> can't be cooked<lineend><pause>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s endurance has gone up<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s endurance up<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s curse is wearing off<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s curse is dispelled<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s endurance is at max<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s endurance max<lineend><pause>
 <CC03EA><color=0000><CC03F7> is not cursed<lineend><pause>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
