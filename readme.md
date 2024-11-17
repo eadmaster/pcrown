@@ -11,19 +11,23 @@ My attempt to continue on the CyberWarriorX translation project.
 ## Current status
 
  - all story events, items and names translated
-   - using a fixed-width/monospaced font, with condensed spaces
-   - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/1#issuecomment-2444241163)
-   - [missing some translated lines](https://github.com/eadmaster/pcrown/issues/4)
- - [missing translation for doorway signs](https://github.com/eadmaster/pcrown/issues/5)
+   - using a fixed-width/monospaced font, with condensed spaces (not VWF)
+   - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/19)
+ - [missing translation for many doorway signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
+   - crash-free in the 1st book/scenario [until the fight with Larva](https://github.com/eadmaster/pcrown/issues/88)
+   - other books/scenarios still untested
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
 
 
+## [Extras](https://github.com/eadmaster/pcrown/wiki/Extras)
+
+
 ## Preview
 
-![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd) ![383698647-7a4d755d-de7d-4819-b95d-4aa13da5a572](https://github.com/user-attachments/assets/b46dbcdc-2e41-4dc2-80cd-c29aa6d5eb0d)
+![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)
 
 
 ## Semi-automated patch instructions
@@ -63,6 +67,5 @@ Contact me via discord or forums if you can contribute or have issues to report 
 # New contributors/Special thanks
 
  - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
- - Spike and MLagaffe (bug reports)
- - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts](https://github.com/eadmaster/pcrown/issues/4))
-
+ - Spike, MLagaffe, [MADevil](https://www.twitch.tv/madevil/) (playtesting and bug reports)
+ - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
