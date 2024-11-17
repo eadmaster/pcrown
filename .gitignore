@@ -32,4 +32,5 @@ KANJI*.BIN
 events_splitted_20chars
 events_splitted_35chars
 *.xdelta
+*.CHR
 
