@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0006><string=00B5><lineend><color=0001>Welcome! I run an inn for weary travelers.<pause><lineend><CC03EA>For 30G, you can spend the night.<pause><lineend>|
 17|
-<CC03EA><CC03FC=0004><string=00B5><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Check money<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=00B5><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>Check money<lineend>|
 18|
 <CC03EA><color=0006><string=00B5><lineend><color=0001>You're broke!<lineend>Try again later.<pause><lineend>|
 19|
