@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Welcome! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
 21|
-<CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend>Money Check<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01B1><color=0001><choose>Stay<lineend>Save<lineend>Quit<lineend><endchoose>Money Check<lineend>|
 22|
 <CC03EA><color=0006><string=01B1><lineend><color=0001>Looks like you can't quite afford it. Come back anytime.<pause><lineend>|
 23|
