@@ -101,7 +101,7 @@
 50|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 51|
-<CC03EA><CC03FC=0004><string=01A3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<endchoose>|
+<CC03EA><CC03FC=0004><string=01A3><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 52|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>Thank you!<lineend>Come again!<pause><lineend>|
 53|
