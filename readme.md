@@ -15,7 +15,7 @@ My attempt to continue on the CyberWarriorX translation project.
    - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/19)
  - [missing translation for many doorway signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
-   - crash-free in the 1st book/scenario [until the fight with Larva](https://github.com/eadmaster/pcrown/issues/88)
+   - crash-free in the 1st book/scenario, 2 cutscenes will play in Japanese as a temp. fix to bypass softlocks
    - other books/scenarios still untested
 
 
