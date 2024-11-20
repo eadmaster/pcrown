@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>I can fight the Basilisk myself.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>Besides, it wouldn't be right to leave while it's still on the loose.<lineend><CC03ED=00000020000103FF><pause><CC03EA><CC03ED=00000021000103FF>I may not look like it, but I know how to use a sword.<lineend><CC03ED=00000020000103FF><pause>|
 6|
-<CC03EA><color=0004><string=01D9><lineend><color=0001>You're sure you want to fight it?<pause><lineend><CC03EA>...Very well.<pause><lineend><CC03EA>The Basilisk has the power to turn anything he looks at to stone.<pause><lineend><CC03EA>He's a tough match for even the strongest fighters.<pause><lineend><CC03EA>If you don't have a Mekki Scroll to counteract his magic, you'll probably lose...<pause><lineend><CC03EA>I strongly advise you to find one.<pause><lineend>|
+<CC03EA><color=0004><string=01D9><lineend><color=0001>You're sure you want to fight it?<pause><lineend><CC03EA>...Very well.<pause><lineend><CC03EA>The Basilisk has the power to turn anything he looks at to stone.<pause><lineend><CC03EA>He's a tough match for even the strongest fighters.<pause><lineend><CC03EA>If you don't have a Reflect Scroll to counteract his magic, you'll probably lose...<pause><lineend><CC03EA>I strongly advise you to find one.<pause><lineend>|
 7|
 <CC03ED=0000002200010000><CC03FB=000F><CC03ED=0000008700010000><CC03FB=0014><CC03ED=0000001F00010000><CC03ED=00000020000103FF>|
 8|
@@ -19,7 +19,7 @@
 9|
 <CC03ED=0000002200010000><CC03FB=000F><CC03ED=0000008700010000><CC03FB=0014>|
 10|
-<CC03EA><color=0004><string=01D9><lineend><color=0001>Did you get the Mekki Scroll back from the Goblins?<pause><lineend><CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
+<CC03EA><color=0004><string=01D9><lineend><color=0001>Did you get the Reflect Scroll back from the Goblins?<pause><lineend><CC03EA><color=0002>The Goblin Market<color=0001> is <color=0005>down a path off the road that runs between Nutsbill and Dorangora.<color=0001><pause><lineend><CC03EA>The Basilisk is lurking just up ahead. Be careful...<pause><lineend>|
 11|
 <CC03ED=00F7000500010000><CC03ED=00F70006000103FF><CC03ED=0000001B00010000><CC03ED=0000001C000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You've broken the curse of the Basilisk!<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>Thank you very much. You have truly saved us all.<lineend><CC03ED=00F70006000103FF><pause>|
 12|

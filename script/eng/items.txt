@@ -146,7 +146,7 @@ Gold Scroll<lineend>
 Mirror Scroll<lineend>
 Exit Scroll<lineend>
 Return Scroll<lineend>
-Mekki Scroll<lineend>
+Reflect Scroll<lineend>
 Frying Pan<lineend>
 Soup Pot<lineend>
 Drop of Mana<lineend>
@@ -177,7 +177,7 @@ Bomb Seed<lineend>
 Dodo Egg<lineend>
 Dragon Meat<lineend>
 Raw Meat<lineend>
-Fish<lineend>
+Raw Fish<lineend>
 Corn<lineend>
 Onyx<lineend>
 Ruby<lineend>

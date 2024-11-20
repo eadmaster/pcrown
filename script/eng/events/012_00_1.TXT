@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the Goblin Market!<pause><lineend><CC03EA>Tell me, pretty young thing, what is it you desire?<pause><lineend>|
 8|
-<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>About the Mekki Scroll<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>About the Reflect Scroll<lineend><endchoose>|
 9|
 <CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 10|
@@ -61,7 +61,7 @@
 30|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Er...A what scroll?<pause><lineend>|
 31|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Don't play dumb with me.<pause><lineend><CC03EA>I'm here for the Mekki Scroll you stole from a Wizard in Amberstep.<pause><lineend><CC03EA>Hand it over, please!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Don't play dumb with me.<pause><lineend><CC03EA>I'm here for the Reflect Scroll you stole from a Wizard in Amberstep.<pause><lineend><CC03EA>Hand it over, please!<pause><lineend>|
 32|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>All right, all right. Jeez.<pause><lineend>|
 33|
@@ -85,7 +85,7 @@
 42|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Whoa, whoa! OK! We lost already. Sheesh!<pause><lineend>|
 43|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Give me the Mekki Scroll.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Give me the Reflect Scroll.<pause><lineend>|
 44|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Grr...<pause><lineend>|
 45|
@@ -93,7 +93,7 @@
 46|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Here, take it. It's yours.<pause><lineend>|
 47|
-<CC03EA><color=0002>Got the Mekki Scroll!<pause><lineend>|
+<CC03EA><color=0002>Got the Reflect Scroll!<pause><lineend>|
 48|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Now I don't have to be afraid of the Basilisk's eye-beam turning me to stone!<pause><lineend><CC03EA>I better hurry back to Amberstep and help those petrified villagers.<pause><lineend>|
 49|

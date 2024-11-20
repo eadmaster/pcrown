@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0005><string=009D><lineend><color=0001>Hee hee hee...<lineend>You there. Little girl.<pause><lineend><CC03EA>Have some Goblin Juice. It's good stuff! It'll put some meat on those bones of yours, too.<pause><lineend>|
 4|
-<CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! Hello there! Want a Mekki Scroll, do you?<pause><lineend><CC03EA>I picked one up in the Wizards town in Cadho Badho just the other day.<pause><lineend><CC03EA>I'll give it to you for 100G. Deal?<pause><lineend>|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! Hello there! Want a Reflect Scroll, do you?<pause><lineend><CC03EA>I picked one up in the Wizards town in Cadho Badho just the other day.<pause><lineend><CC03EA>I'll give it to you for 100G. Deal?<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=00A1><color=0001><choose>Deal<lineend>No thanks.<lineend><endchoose>|
 6|
@@ -17,13 +17,13 @@
 8|
 <CC03EA><color=0005><string=00A1><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
 9|
-<CC03EA><color=0005><string=00A1><lineend><color=0001>Gya ha ha! And one Mekki Scroll for you!<pause><lineend>|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>Gya ha ha! And one Reflect Scroll for you!<pause><lineend>|
 10|
 <CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
 11|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
 12|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>You want a Mekki Scroll? The guy outside is selling one.<pause><lineend><CC03EA>Anything else you want, buy it here. Help a guy out, will ya?<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>You want a Reflect Scroll? The guy outside is selling one.<pause><lineend><CC03EA>Anything else you want, buy it here. Help a guy out, will ya?<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 14|
