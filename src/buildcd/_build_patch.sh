@@ -28,6 +28,7 @@ xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font 
 #xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
 
 TRANSLATED_SCRIPT_PATH=../../script/eng
+# export CD_PATH=../../cd
 
 # update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
@@ -100,7 +101,7 @@ cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
 # update events
-if [ "$1" == "new" ] || [ "$1" == "update_script" ]; then
+if [ "$1" != "noscript" ]; then
     7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" *.EVN
     # enforce correct line splitting
     for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
