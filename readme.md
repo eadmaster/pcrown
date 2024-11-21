@@ -12,11 +12,10 @@ My attempt to continue on the CyberWarriorX translation project.
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
-   - [glitches in some dialogs](https://github.com/eadmaster/pcrown/issues/19)
  - [missing translation for many doorway signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs play testing for bugs
    - crash-free in the 1st book/scenario, 2 cutscenes will play in Japanese as a temp. fix to bypass softlocks
-   - other books/scenarios still untested
+   - other books/scenarios still to be tested
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
@@ -36,6 +35,7 @@ My attempt to continue on the CyberWarriorX translation project.
 2. download and execute one of these easy patching scripts in the extraction dir:
  
   - [for Windows](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.bat)
+    - old [offline easy patcher](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip)
   - [for Linux](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.sh)
 
 
