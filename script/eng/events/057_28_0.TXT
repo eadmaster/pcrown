@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0005><string=0122><lineend><color=0001>You mean you came all the way up here for this little Gem?<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=0122><lineend><color=0001>If you want it, you're going to have to come get it from me.<pause><lineend><CC03EA>Of course, I myself took it from another Demon, called Bloody...<pause><lineend>|
+<CC03EA><color=0005><string=0122><lineend><color=0001>If you want it, you'll have to come and get it from me.<pause><lineend><CC03EA>Of course, I took it from another Demon, called Bloody...<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Bloody?<lineend>The red Demon?<pause><lineend>|
 131072|

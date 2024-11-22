@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=002E><lineend><color=0001>You're imagining things again, Dad.<pause><lineend><CC03EA>Nobody comes to a place like this unless they're sight-seeing.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome the The Black Cat Tavern. I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Black Cat Tavern. I'll take your order.<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 8|

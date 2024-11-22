@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=002E><lineend><color=0001>Is that the only thing you ever think about?<pause><lineend><CC03EA>I'd ask him for...<lineend>Umm...<pause><lineend><CC03EA>Oh, I know! I'd ask him how we can have peace in the world.<pause><lineend><CC03EA>I just want everybody to get along!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome the The Black Cat Tavern. I'll take your order.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Black Cat Tavern. I'll take your order.<pause><lineend>|
 5|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Cook this!<lineend>Local Delicacy<lineend>Quit<lineend><endchoose>|
 6|
