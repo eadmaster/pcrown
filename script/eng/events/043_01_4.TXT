@@ -1,7 +1,7 @@
 0|
 <CC03EA><CC03FC=0004><string=0059><color=0004>Merchants' Leader<lineend><color=0001>I heard about how you went to the Dwarf Kingdom for my daughter.<pause><lineend><CC03EA>Allow me to return the favor. Make yourself at home and buy anything you like.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0033><lineend><color=0001>Merchants throughout the kingdom would give their right hand to have a stall here.<pause><lineend><CC03EA>After all, if you're selling here, you can say your one of the top Merchants in the land.<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>Merchants throughout the kingdom would give their right hand to have a stall here.<pause><lineend><CC03EA>After all, if you're selling here, you can say you're one of the top Merchants in the land.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=004B><lineend><color=0001>Whoa! So this is the Secret Market!<pause><lineend><CC03EA>I think I'll start by seeing what each person is selling...<pause><lineend>|
 3|
@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect Powder and Sharp-Leaf Grass to make that Potion.<pause><lineend>|
 21|
-<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect Powder and Jagged-Leaf Grass to make to make that Potion.<pause><lineend>|
+<CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Insect Powder and Jagged-Leaf Grass to make that Potion.<pause><lineend>|
 22|
 <CC03EA><color=0006><CC03FC=0004><string=01C8><color=0001>I'll need Round-Leaf Grass to make that Potion.<pause><lineend>|
 23|

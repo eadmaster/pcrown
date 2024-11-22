@@ -75,7 +75,7 @@
 327688|
 <CC03EA><color=0005><string=0110><lineend><color=0001>However, it seems my pain will soon come to an end.<pause><lineend><CC03EA>Come, Princess! If you value your life, then rid me of these chains!<pause><lineend>|
 327689|
-<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>...I won't  do it. I'll never revive the Demon King.<lineend><CC03ED=012A0007000103FF><pause><CC03EA><CC03ED=012A0008000103FF>If I break that seal, you'll destroy the entire world.<lineend><CC03ED=012A0007000103FF><pause>|
+<CC03EA><color=0004><string=012A><lineend><color=0001><CC03ED=012A0008000103FF>...I won't do it. I'll never revive the Demon King.<lineend><CC03ED=012A0007000103FF><pause><CC03EA><CC03ED=012A0008000103FF>If I break that seal, you'll destroy the entire world.<lineend><CC03ED=012A0007000103FF><pause>|
 327690|
 <CC03EA><color=0005><string=0110><lineend><color=0001>You're going to refuse me?<pause><lineend>|
 327691|

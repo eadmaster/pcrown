@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Where did you ever hear that?<pause><lineend><CC03EA>Listen up. Do anything underhanded while I'm gone, and I'll make you regret it.<pause><lineend>|
 65539|
-<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>Is that right? I'm gong exactly wherever you're going.<pause><lineend><CC03EA>I know one thing for sure: where you're headed, there's bound to be treasure.<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>Is that right? I'm going exactly wherever you're going.<pause><lineend><CC03EA>I know one thing for sure: where you're headed, there's bound to be treasure.<pause><lineend>|
 65540|
 <CC03EA><CC03FC=0004><string=0125><color=0006>Sailor<lineend><color=0001>Did you head what he said, Boss?<pause><lineend>|
 65541|

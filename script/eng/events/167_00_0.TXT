@@ -3,7 +3,7 @@
 1|
 <CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<CC03F1=0011><pause>|
 2|
-<CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a Knight and work at the castle protecting the Queen.<pause><lineend><CC03EA>Being in her Majesty's Knight Guard is greatest honor any warrior could hope for.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>I want to become a Knight and work at the castle protecting the Queen.<pause><lineend><CC03EA>Being in her Majesty's Knight Guard is the greatest honor any warrior could hope for.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub called the Silver Sword.<pause><lineend>|
 4|

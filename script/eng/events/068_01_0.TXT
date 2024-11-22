@@ -43,6 +43,6 @@
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What about the others they had taken prisoner?<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the Friedfin and sent them home.<pause><lineend><CC03EA>They should headed straight for Leeland as we speak. On that note, let's do the same.<pause><lineend><CC03EA>While we're at it, please, make yourself at home in this great new ship they gave us!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the Friedfin and sent them home.<pause><lineend><CC03EA>They should head straight for Leeland as we speak. On that note, let's do the same.<pause><lineend><CC03EA>While we're at it, please, make yourself at home in this great new ship they gave us!<pause><lineend>|
 196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>If you say so, Captain!<pause><lineend>|

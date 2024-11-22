@@ -15,6 +15,6 @@
 7|
 <CC03EA><color=0006><string=003B><lineend><color=0001>The wind from the desert has gotten stronger.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you something nobody else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find the a great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0001>Let me tell you something nobody else knows!<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find a great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say as long as you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the Fairy Woods.<color=0001><pause><lineend>|

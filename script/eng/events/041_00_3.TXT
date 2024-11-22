@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0006><string=0036><lineend><color=0001>Tee hee!<pause><lineend><CC03EA>My dolly wasn't stolen!<pause><lineend><CC03EA>It was under my bed the whole time!<pause><lineend>|
 17|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Golden Warrior.<pause><lineend><CC03EA> He saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendent of the one who killed the Demons' leader.<pause><lineend><CC03EA>The Silver Sorceress may have given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's strength that saved the day in the end.<pause><lineend><CC03EA>And that is precisely why the Warriors are superior to the Wizards. Ha ha!!<pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Golden Warrior.<pause><lineend><CC03EA>He saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be the descendant of the one who killed the Demons' leader.<pause><lineend><CC03EA>The Silver Sorceress may have given him a hand...<pause><lineend><CC03EA>...but it was the Warrior's strength that saved the day in the end.<pause><lineend><CC03EA>And that is precisely why the Warriors are superior to the Wizards. Ha ha!!<pause><lineend>|
 18|
 <CC03EA><color=0006><string=015E><lineend><color=0001>To protect from the Demon Horde, we've decided to go on extra patrols.<pause><lineend>|
 19|

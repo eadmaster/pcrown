@@ -81,7 +81,7 @@
 196611|
 <CC03EA><color=0003><string=0003><lineend><color=0001>The old man was a phony all along.<pause><lineend><CC03EA>He used our ship to lead his cronies here so they could swipe Drake's treasure.<pause><lineend><CC03EA>Part of his plan was to off every last one of us, too.<pause><lineend>|
 196612|
-<CC03EA><CC03FC=0004><string=0126><CC03ED=0126000F000103FF>He got us pretty good. Anyway, what are going to do now, Boss?<lineend><CC03ED=0126000E000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0126><CC03ED=0126000F000103FF>He got us pretty good. Anyway, what are we going to do now, Boss?<lineend><CC03ED=0126000E000103FF><pause>|
 196613|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Isn't it obvious?<pause><lineend><CC03EA>We're going show them what we're made of! Get ready to fight!!<pause><lineend>|
 196614|

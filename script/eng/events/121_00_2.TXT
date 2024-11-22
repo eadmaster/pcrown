@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0028><lineend><color=0004>"Maaaagic!"<lineend>"Sweet wonderful maaaagic!"<pause><lineend><CC03EA><color=0001>It's like a bad habit now! What am I going to do?<pause><lineend>|
 7|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>I've told everyone in town about Ondine.<pause><lineend><CC03EA>Unlike the Knights, we Wizards were very quick to understand the situation.<pause><lineend><CC03EA>We've decided to check on her periodically to make sure she nobody goes after her again.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>I've told everyone in town about Ondine.<pause><lineend><CC03EA>Unlike the Knights, we Wizards were very quick to understand the situation.<pause><lineend><CC03EA>We've decided to check on her periodically to make sure nobody goes after her again.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=000E><lineend><color=0001>We're finally going to be rid of all those ugly mercenaries.<pause><lineend>|
 9|

@@ -13,7 +13,7 @@
 6|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 7|
-<CC03EA><color=0006><string=0005><lineend><color=0001>I hear Dorangora is having trouble with Dragon attacks again.<pause><lineend><CC03EA>Someone from that village was was on his way to get help from a Wizard in Amberstep...<pause><lineend><CC03EA>I wonder what's happened to him?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>I hear Dorangora is having trouble with Dragon attacks again.<pause><lineend><CC03EA>Someone from that village was on his way to get help from a Wizard in Amberstep...<pause><lineend><CC03EA>I wonder what's happened to him?<pause><lineend>|
 8|
 <CC03EA><color=0006><string=0028><lineend><color=0001>I no longer have that bad feeling from before.<pause><lineend><CC03EA>I guess that means that things worked out for the Unicorns.<pause><lineend>|
 9|

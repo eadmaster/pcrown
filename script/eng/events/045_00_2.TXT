@@ -25,7 +25,7 @@
 12|
 <CC03EA><color=0006><string=0028><lineend><color=0004>"Maaaagic!"<lineend>"Sweet wonderful maaaagic!"<pause><lineend><CC03EA><color=0001>Somebody make it stop!!<pause><lineend>|
 13|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Silver Sorceress.<pause><lineend><CC03EA>She saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be a descendent of the one who sealed the strength of the Demon's Leader.<pause><lineend><CC03EA>Perhaps the Warriors' Leader's ancestor, the Golden Warrior, gave her a hand...<pause><lineend><CC03EA>...but in the end, it was the Sorceress's magic that saved the day.<pause><lineend><CC03EA>You might say that that's proof of why the Wizards are superior to the Warriors. Ha ha!<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Take a look at this statue. It's in honor of my ancestor, the Silver Sorceress.<pause><lineend><CC03EA>She saved this town from the Demon Horde over 100 years ago.<pause><lineend><CC03EA>I'm proud to be a descendant of the one who sealed the strength of the Demon's Leader.<pause><lineend><CC03EA>Perhaps the Warriors' Leader's ancestor, the Golden Warrior, gave her a hand...<pause><lineend><CC03EA>...but in the end, it was the Sorceress's magic that saved the day.<pause><lineend><CC03EA>You might say that that's proof of why the Wizards are superior to the Warriors. Ha ha!<pause><lineend>|
 14|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Is it silly to hope that things will turn out all right?<pause><lineend>|
 15|
