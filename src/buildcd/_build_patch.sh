@@ -85,7 +85,7 @@ ucon64 --nbak --poke=3BA61:B8 0.BIN
 # Clearing the description window
 ucon64 --nbak --poke=47773:05 0.BIN
 ucon64 --nbak --poke=4777B:17 0.BIN
-# cook menu fix
+# Items name-description newline hack
 #05E6D56B-    FFEAFFFFEB00FFF3F700FFF7CFFFE9FFE8FF (old value)
 #05E6D57C     FFEAFFFFF7FFE8FFFFE9FFF7FFFFFFFFFFFF (new value)
 #05E6D57D-    FFEAFFEBFF00FFF7003CFFECC6FFFFE8FFF7FFFFE9 (old value)
@@ -96,6 +96,13 @@ sfk replace KANJI_ENG.BIN -binary /FFEAFFFFEB00FFF3F700FFF7CFFFE9FFE8FF/FFEAFFFF
 sfk replace KANJI_ENG.BIN -binary /FFEAFFEBFF00FFF7003CFFECC6FFFFE8FFF7FFFFE9/FFEB00FFFFF7FFECC6FFFFEB04FFFFE8FFF7FFFFE9/  -yes
 #NO? optional (for selling items - adding descriptions line for items). -> breaks the game
 #sfk replace KANJI_ENG.BIN -binary /FFEAFFFFEB00FFF7CF00FFECC63FFFE9FFE8FF/FFEAFFFFF7FFECC6FFFFEB05FFFFE8FFF7FFFFF9/  -yes
+
+# check items.txt size
+ITEMS_TXT_LEN=$(stat -c%s ${TRANSLATED_SCRIPT_PATH}/items.txt)
+if [ $ITEMS_TXT_LEN -ne 13245 ]; then
+    echo "warn: current items newline hack does not work when altering the items.txt filesize: $ITEMS_TXT_LEN != 13245"
+    # TODO: recompute the offset based on 
+fi
 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
@@ -127,7 +134,7 @@ cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN
 
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
-# TODO: replace with ucon64 --hreplace="S:R"
+# TODO: replace with ucon64 -nbak --hreplace="S:R"
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" *.CHR
 find *.CHR | while read chrfile; do 
     # PUB signs (24*11/2 = 132 bytes)
