@@ -929,6 +929,10 @@ void CompressCheckWriteMagicNumber(unsigned char *enc_count, unsigned char *magi
 {
    if (enc_count[0] == 4)
    {
+      #ifdef DEBUG_MODE
+         printf("%02X", (unsigned char)magic_number[0]);
+      #endif
+      
       outbuf[0][0] = magic_number[0];
       outbuf[0]++;
       out_size[0]++;
@@ -939,6 +943,10 @@ void CompressCheckWriteMagicNumber(unsigned char *enc_count, unsigned char *magi
 
 void CompressAddWord(unsigned short word, unsigned char **outbuf, int *out_size, unsigned char *magic_number, unsigned char *enc_count)
 {
+   #ifdef DEBUG_MODE
+      printf("%02X", (unsigned char)word);
+   #endif
+      
    outbuf[0][0] = (unsigned char)word;
    outbuf[0]++;
    out_size[0]++;
@@ -1448,6 +1456,13 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 		}
   */
       
+      #ifdef DEBUG_MODE
+         printf("\nevent_id: %d\n", event_id );
+         printf("text: %s\n", text );
+         printf("compressed: ");
+         //printf("\nnum_text: %d\n", num_text );
+      #endif
+      
 		// Create new entry for pointer
 		text_pointer_list[l] = out_size[0];
 		for (i = 0; i < strlen(text);)
@@ -1532,9 +1547,15 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
                unsigned short k = AsciiCharToTexttblIndex(text[i]);
                if (k != 0xFFF)
                   CompressAddWord(k, &outbuf, out_size, &magic_number, &enc_count);
+                  // unsigned short word, unsigned char **outbuf, int *out_size, unsigned char *magic_number, unsigned char *enc_count)
                else 
                   printf("invalid char found (skipped): %c\n", text[i]);
                
+               /*
+               #ifdef DEBUG_MODE
+                  printf("k=%02X, outbuf=%X, out_size=%d, magic_number=%X, enc_count=%X\n",(int)k, outbuf[0], out_size, magic_number, enc_count);
+               #endif
+               * */
                i++;
 				}
 			}
@@ -1770,6 +1791,16 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
    return text_pointer_list;
 }
 
+
+void print_hex2str(unsigned char* arg, int arg_length){
+   for(int i=0; i<arg_length; i++) {
+      printf("%02X",(int)arg[i]);
+   }
+   printf("\n");
+}
+
+
+
 int EVNSaveFile(const char *filename)
 {
    FILE *fp;
@@ -1809,6 +1840,10 @@ int EVNSaveFile(const char *filename)
       {
          evn_data[command[i].offset] = command[i].cmd;
          memcpy(evn_data+command[i].offset+1, command[i].arg, command[i].arg_length);
+         #ifdef DEBUG_MODE
+            printf("offset: %02X, cmdname: %s\n", command[i].offset+1, command[i].name );
+            print_hex2str(command[i].arg, command[i].arg_length);
+         #endif
       }
       else
          break;
@@ -1841,6 +1876,12 @@ int EVNSaveFile(const char *filename)
             memcpy(evn_data+k+3, command[i].arg, command[i].arg_length);
             last_offset = k+3+command[i].arg_length;
             tbl_used=true;
+            
+            #ifdef DEBUG_MODE
+               printf("offset: %x\n", k+3);
+               printf("cmd: %02X\n", command[i].cmd);
+               print_hex2str(command[i].arg, command[i].arg_length);
+            #endif
          }
       }
 
