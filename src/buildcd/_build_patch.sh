@@ -191,7 +191,7 @@ find *.CHR | while read chrfile; do
     replace_sign  magic_shop  132
     # School (24*11/2=132) -> test in 045-00
     replace_sign  school  132
-    # Warp (24*11/2 = 132)  -> test in 045-00
+    # Warp/Teleportation Magic (24*11/2 = 132)  -> test in 045-00
     replace_sign warp  132
     # courtyard (inside castle) (24*11/2 = 132)-> test in 000-01
     replace_sign  courtyard  132
