@@ -14,21 +14,23 @@
 # cleanup
 rm *.eng
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso"
-rm "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"
+rm "Princess Crown (Japan) (1M) (Track 01).iso"
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso.xdelta"
+#rm "Princess Crown (Japan) (1M) (Track 01) (English).bin.xdelta"
 rm KANJI_ENG.BIN
 
 # convert data bin track to iso
-iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
-cp "Princess Crown (Japan) (1M) (Track 01) (English).iso" "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"
+iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01).iso"
+cp "Princess Crown (Japan) (1M) (Track 01).iso" "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
 
 # update font
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN
 xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
 #xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
 
-TRANSLATED_SCRIPT_PATH=../../script/eng
 # export CD_PATH=../../cd
+export TRANSLATED_SCRIPT_PATH=../../script/eng
+export SIGNS_PATH=../../signs
 
 # update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN
@@ -104,6 +106,13 @@ if [ $ITEMS_TXT_LEN -ne 13245 ]; then
     # TODO: recompute the offset based on 
 fi
 
+# enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
+#ucon64 --nbak --poke=1EB7F:01 0.BIN
+
+# add splashscreen
+#mv 0.BIN  0_org.BIN
+#wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
+
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
@@ -129,9 +138,13 @@ find *.EVN | while read eventfile; do
 done
 
 # temp. fix for dragon fight softlock (restore jap ver)  https://github.com/eadmaster/pcrown/issues/30
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN
+#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN
+xdelta3 -f -d -s 015_00_1.EVN 015_00_1.EVN.xdelta 015_00_1.EVN.fixed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN.fixed
 # temp. fix for softlock at Larva boss (restore jap ver)  https://github.com/eadmaster/pcrown/issues/88
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN
+#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN
+xdelta3 -f -d -s 176_00_0.EVN 176_00_0.EVN.xdelta 176_00_0.EVN.fixed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN.fixed
 
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
 # TODO: replace with ucon64 -nbak --hreplace="S:R"
@@ -164,4 +177,8 @@ done
 
 
 # build xdelta patch
-xdelta3 -f -e -s "Princess Crown (Japan) (1M) (Track 01) (English).iso.bak"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
+xdelta3 -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
+
+# build xdelta patch (for original bin)
+#wine CDmage.exe "Princess Crown (Japan) (1M) (Track 01) (English).iso"  #  TODO: automate cdmage conversion
+#xdelta3 -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin"  "Princess Crown (Japan) (1M) (Track 01) (English).bin"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
