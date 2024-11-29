@@ -63,18 +63,18 @@ Fresh Milk<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
-Invincible Medicine<lineend>
-Invincible Medicine<lineend>
-Invincible Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
-Courage Medicine<lineend>
-Stomach Medicine<lineend>
-Stomach Medicine<lineend>
-Stomach Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
-Attack Medicine<lineend>
+Invincible Potion<lineend>
+Invincible Potion<lineend>
+Invincible Potion<lineend>
+Courage Potion<lineend>
+Courage Potion<lineend>
+Courage Potion<lineend>
+Stomach Potion<lineend>
+Stomach Potion<lineend>
+Stomach Potion<lineend>
+Attack Potion<lineend>
+Attack Potion<lineend>
+Attack Potion<lineend>
 Defense Potion<lineend>
 Defense Potion<lineend>
 Defense Potion<lineend>
@@ -177,7 +177,7 @@ Bomb Seed<lineend>
 Dodo Egg<lineend>
 Dragon Meat<lineend>
 Raw Meat<lineend>
-Fish<lineend>
+Raw Fish<lineend>
 Corn<lineend>
 Onyx<lineend>
 Ruby<lineend>
@@ -220,9 +220,9 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7> <CC03F7><pause><lineend>
-<CC03EA><color=0000><CC03F7> <CC03EC>G<lineend><CC03F7><pause>
-<CC03EA><color=0000><CC03F7> <CC03EC>G<pause><lineend>
+<CC03EA><color=0000><CC03F7><lineend><pause><color=0004><CC03F7>
+<CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
+<CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
 <CC03EA><color=0000>Infinite Power!<lineend><pause>
@@ -425,10 +425,10 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
 <CC03EA><color=0000><CC03F7> dropped<lineend><pause>
-<CC03EA><color=0000><CC03F7> no longer effective<lineend><pause>
+<CC03EA><color=0000><CC03F7> lost efficacy<lineend><pause>
 
 
-<CC03EA>Sword! Grant me strength<lineend> and courage!!<pause><lineend>
+<CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>
 <CC03EA>In the name of all mighty Queens!!<pause><lineend>
 <CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
 <CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>

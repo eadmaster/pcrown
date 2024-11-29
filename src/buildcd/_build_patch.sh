@@ -4,7 +4,7 @@
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 # Requirements:
-# - apt install iat  p7zip-full  xdelta3  wine  python3
+# - apt install iat  p7zip-full  xdelta3  wine  python3  xxd
 # - cd-replace (manual install) https://github.com/mistydemeo/cd-replace
 # - ucon64 (manual install)  https://ucon64.sourceforge.io/
 # - skf (manual install)  https://sourceforge.net/projects/swissfileknife/
@@ -87,24 +87,6 @@ ucon64 --nbak --poke=3BA61:B8 0.BIN
 # Clearing the description window
 ucon64 --nbak --poke=47773:05 0.BIN
 ucon64 --nbak --poke=4777B:17 0.BIN
-# Items name-description newline hack
-#05E6D56B-    FFEAFFFFEB00FFF3F700FFF7CFFFE9FFE8FF (old value)
-#05E6D57C     FFEAFFFFF7FFE8FFFFE9FFF7FFFFFFFFFFFF (new value)
-#05E6D57D-    FFEAFFEBFF00FFF7003CFFECC6FFFFE8FFF7FFFFE9 (old value)
-#05E6D591     FFEB00FFFFF7FFECC6FFFFEB04FFFFE8FFF7FFFFE9 (new value)
-#05E6D592-    FFEAFFFFEB00FFF7CF00FFECC63FFFE9FFE8FF  (old value)
-#05E6D5A4     FFEAFFFFF7FFECC6FFFFEB05FFFFE8FFF7FFFFF9 (new value)
-sfk replace KANJI_ENG.BIN -binary /FFEAFFFFEB00FFF3F700FFF7CFFFE9FFE8FF/FFEAFFFFF7FFE8FFFFE9FFF7FFFFFFFFFFFF/  -yes
-sfk replace KANJI_ENG.BIN -binary /FFEAFFEBFF00FFF7003CFFECC6FFFFE8FFF7FFFFE9/FFEB00FFFFF7FFECC6FFFFEB04FFFFE8FFF7FFFFE9/  -yes
-#NO? optional (for selling items - adding descriptions line for items). -> breaks the game
-#sfk replace KANJI_ENG.BIN -binary /FFEAFFFFEB00FFF7CF00FFECC63FFFE9FFE8FF/FFEAFFFFF7FFECC6FFFFEB05FFFFE8FFF7FFFFF9/  -yes
-
-# check items.txt size
-ITEMS_TXT_LEN=$(stat -c%s ${TRANSLATED_SCRIPT_PATH}/items.txt)
-if [ $ITEMS_TXT_LEN -ne 13245 ]; then
-    echo "warn: current items newline hack does not work when altering the items.txt filesize: $ITEMS_TXT_LEN != 13245"
-    # TODO: recompute the offset based on 
-fi
 
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #ucon64 --nbak --poke=1EB7F:01 0.BIN
@@ -186,6 +168,8 @@ find *.CHR | while read chrfile; do
     replace_sign  item_shop  132
     # Inn (shop)(16*11/2 = 88 bytes)
     replace_sign  inn  88
+    # Castle  (96*11/2 = 528) -> test in 002-00
+    replace_sign  castle  528
     # Baker (shop) (24*10/2=120) -> test in 004-00
     replace_sign  baker_shop  120
     # Magic shop (24*11/2=132) -> test in 045-00
@@ -221,8 +205,6 @@ find *.CHR | while read chrfile; do
     replace_sign  eriel  240
     # Gradriel (72*11/2=396) -> test in 000-04 (rx)
     replace_sign  gradriel  396
-    # Castle  (96*11/2 = 528) -> test in 002-00
-    replace_sign  castle  528
         
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done

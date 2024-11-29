@@ -1392,6 +1392,7 @@ char *FixLineWrap(char *text, int event_id)
 unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
    else if ( c  == '*') return(3);
+   else if ( c  == '+') return(3);  // TODO: add "+"
    else if ( c  == '#') return(3);  // TODO: add "#"
    else if ( c  == '&') return(3);  // TODO: add "&"
    else if ( c  == '?') return(4);
@@ -1695,6 +1696,13 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
          else
             text = ttentry[l].orig_text;
 
+         #ifdef DEBUG_MODE
+            printf("\ntext_pointer_list index: %d\n", l );
+            printf("text: %s\n", text );
+            printf("compressed: ");
+            //printf("\nnum_text: %d\n", num_text );
+         #endif
+      
          // Create new entry for pointer
          text_pointer_list[l] = out_size[0];
          for (i = 0; i < strlen(text);)

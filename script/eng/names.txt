@@ -76,8 +76,8 @@ Faras<lineend>
 Forbidden Book<lineend>
 Larva<lineend>
 Wizard<lineend>
-Demon King Volgrod<lineend>
-Dark God Larva<lineend>
+Volgrod<lineend>
+Dark God<lineend>
 Demon King<lineend>
 Bloody<lineend>
 Bloody<lineend>
@@ -86,7 +86,7 @@ Little Unicorn<lineend>
 Dragon<lineend>
 Sorceress<lineend>
 Parson<lineend>
-Bighook the Pirate<lineend>
+Bighook<lineend>
 Phony<lineend>
 Skulg<lineend>
 Shadow<lineend>
@@ -115,7 +115,7 @@ Poltergeist<lineend>
 Ice Dragon<lineend>
 Goblin<lineend>
 Chaotic Eye<lineend>
-Bighook the Pirate<lineend>
+Bighook<lineend>
 Edward<lineend>
 Evil Gradriel<lineend>
 Evil Eriel<lineend>
