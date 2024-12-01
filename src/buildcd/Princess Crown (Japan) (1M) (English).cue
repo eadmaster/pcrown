@@ -1,5 +1,5 @@
-FILE "Princess Crown (Japan) (1M) (Track 01) (English).iso" BINARY
-  TRACK 01 MODE1/2048
+FILE "Princess Crown (Japan) (1M) (Track 01) (patched).bin" BINARY
+  TRACK 01 MODE1/2352
     INDEX 01 00:00:00
 FILE "Princess Crown (Japan) (1M) (Track 02).bin" BINARY
   TRACK 02 AUDIO

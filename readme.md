@@ -12,9 +12,9 @@ My attempt to continue on the CyberWarriorX translation project.
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - [missing translation for many doorway signs](https://github.com/eadmaster/pcrown/issues/5)
- - needs play testing for bugs
-   - crash-free in the 1st book/scenario, 2 cutscenes will play in Japanese as a temp. fix to bypass softlocks
+ - [missing translation for some doorway signs](https://github.com/eadmaster/pcrown/issues/5)
+ - needs playtesting for bugs
+   - crash-free in the 1st book/scenario, 2 cutscenes has reduced dialogs to bypass softlocks
    - other books/scenarios still to be tested
 
 
@@ -29,26 +29,15 @@ My attempt to continue on the CyberWarriorX translation project.
 ![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)
 
 
-## Semi-automated patch instructions
+## Patch instructions
 
 1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
-2. download and execute one of these easy patching scripts in the extraction dir:
- 
-  - [for Windows](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.bat)
-    - old [offline easy patcher](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip)
-  - [for Linux](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_eng.sh)
-
-
-## Manual patch instructions
-
-1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
-2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases).
-3. download and install `iat` and `xdelta3`
-4. convert track 1 to iso with
-`iat -i "Princess Crown (Japan) (1M) (Track 01).bin" -o "Princess Crown (Japan) (1M) (Track 01).iso" --iso`
-5. apply the xdelta patch with
-`xdelta3 -d -s  "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"`
-6. use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play with the patched iso.
+2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases/latest/download/Princess.Crown.Japan.1M.Track.01.bin.xdelta).
+3. visit [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
+4. select `Princess Crown (Japan) (1M) (Track 01).bin` as ROM file
+5. select `Princess.Crown.Japan.1M.Track.01.bin.xdelta` as Patch file
+6. Click "Apply patch" and save in the same folder
+7. download and use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play.
 
 
 ## Contributions
