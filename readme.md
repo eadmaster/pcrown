@@ -14,7 +14,7 @@ My attempt to continue on the CyberWarriorX translation project.
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
  - [missing translation for some doorway signs](https://github.com/eadmaster/pcrown/issues/5)
  - needs playtesting for bugs
-   - crash-free in the 1st book/scenario, 2 cutscenes has reduced dialogs to bypass softlocks
+   - crash-free in the 1st book/scenario, 2 cutscenes have reduced dialogs to bypass softlocks
    - other books/scenarios still to be tested
 
 
@@ -26,7 +26,7 @@ My attempt to continue on the CyberWarriorX translation project.
 
 ## Preview
 
-![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)
+![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)  ![selling](https://github.com/user-attachments/assets/8203505d-3850-41bd-a230-d2003f2551c7)
 
 
 ## Patch instructions
