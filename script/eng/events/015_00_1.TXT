@@ -1,21 +1,21 @@
 0|
-<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow!        <lineend>You beat him! <lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat that Dragon!  <lineend><CC03ED=00350002000103FF><pause>|
 1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's go. <lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
 <CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>MommyÅI<lineend><CC03ED=00350002000103FF><pause>|
 3|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>You're<lineend>safe... <lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>You're safe...  <lineend><CC03ED=000A0017000103FF><pause>|
 4|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep<lineend>This lady saved me<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep, this lady saved me<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
 5|
-<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>My Lady<lineend><pause><CC03EA>Thank you<lineend>so much!    <lineend><pause>|
+<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>My Lady<lineend><pause><CC03EA>Thank you so much!     <lineend><pause>|
 6|
 <CC03ED=0000009500010000><CC03ED=0000009800010000>|
 7|
-<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>And Edward<lineend><pause><CC03EA>Thank you too<lineend>for coming. <lineend><pause>|
+<CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>And Edward<lineend><pause><CC03EA>Thank you too for coming.  <lineend><pause>|
 8|
-<CC03EA><color=0004><string=016C><lineend><color=0001>Be more cautious<lineend>in future. <pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Be more cautious in future.  <pause><lineend>|
 9|
 <CC03ED=000A000200010000><CC03EA><CC03FC=0004><string=000A>Ok,follow me now.<lineend><pause>|
 10|
@@ -25,7 +25,7 @@
 12|
 <CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>Sorry.<lineend><pause>|
 13|
-<CC03EA><color=0004><string=016C><lineend><color=0001>However I've<lineend>reconsidered you. <pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>However, I've reconsidered you. <pause><lineend>|
 14|
 <CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>Who are you?   <lineend><pause>|
 15|
@@ -39,27 +39,27 @@
 65537|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>An attack!   <pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Someone is <lineend>crying<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Someone is crying..<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>That way. <pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=0035>I want my  <lineend>Mommy!  <pause><lineend>|
+<CC03EA><CC03FC=0004><string=0035>I want my Mommy!     <pause><lineend>|
 65541|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Please<pause><lineend><CC03EA>don't cry  <lineend>i'll help   <pause><lineend><CC03EA>find your<lineend>mom.       <pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Please don't cry, I'll help you find your mom...                <pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>This one is<lineend>very mad<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>This one is very mad!<pause><lineend>|
 65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run away!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=007D>Protect   <pause><lineend><CC03EA>the    <lineend>village from  <lineend>Dragons! <pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Soldiers! <pause><lineend><CC03EA>Protect the village from Dragons! <pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=007D>Playtime's over<lineend>for you now<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Playtime's over for you now!<pause><lineend>|
 196608|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I hope she is safe.<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0129><lineend><color=0001>We don't    <lineend>know where she is<pause><lineend>|
+<CC03EA><color=0004><string=0129><lineend><color=0001>We don't know where she is...  <pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I'm afraid she<lineend>headed to     <pause><lineend><CC03EA>Dorangora, I<lineend>hope the Sqad<lineend>finds her...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'm afraid she may have headed<pause><lineend><CC03EA>to Dorangora, I hope the Squad finds her..<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Unfortunately<lineend>Sidrael and I   <pause><lineend><CC03EA>are unable  <lineend>to succeed the <lineend>throne due <pause><lineend><CC03EA>to the laws<lineend>forbidding<lineend>twins to divide the<pause><lineend><CC03EA>kingdom.    <lineend>                    <pause><lineend>|
 196612|
@@ -69,11 +69,11 @@
 196614|
 <CC03EA><CC03FC=0004><string=007D>Pardon..<pause><lineend>|
 196615|
-<CC03EA><CC03FC=0004><string=007D>We need your  <lineend>help. <pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>It's time,to the hall<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Ok, Eriel<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>please, don't  <lineend>overdo...   <pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going,take some rest<pause><lineend>|
 196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Ok... <pause><lineend>|
 196619|
@@ -87,9 +87,9 @@
 262145|
 <CC03EA><color=0004><string=0129><lineend><color=0001>It talks!<pause><lineend>|
 262146|
-<CC03EA><CC03FC=0004><string=010D>Excuse me.  <pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D>Excuse me...<pause><lineend>|
 262147|
-<CC03EA><CC03FC=0004><string=010D><color=0001>My name is<lineend>Larva, i know <pause><lineend><CC03EA>a magic power is <lineend>hidden in  <lineend>the Demon World..<pause><lineend><CC03EA>If you'll release <lineend>me, i shall give <lineend>you my knowledge.  <pause><lineend><CC03EA>I was <lineend>trapped by a    <lineend>foolish wizard...  <pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D><color=0001>My name is<lineend>Larva, i know <pause><lineend><CC03EA>a magic power is <lineend>hidden by  <lineend>the Demon King...<pause><lineend><CC03EA>If you'll release <lineend>me, i shall give <lineend>you my knowledge.  <pause><lineend><CC03EA>I was <lineend>trapped by a    <lineend>foolish wizard...  <pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No, I can't..<pause><lineend>|
 262149|
@@ -109,25 +109,25 @@
 262156|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Of course.<pause><lineend>|
 262157|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Now take <lineend>me in your...<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Take me in your hands...<pause><lineend>|
 262158|
-<CC03EA><color=0005><string=010D><lineend><color=0001>hands, and begin..<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>for your sis' sake<pause><lineend>|
 262159|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Come!<pause><lineend>|
 327680|
 <CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Mommy!<lineend><CC03ED=00350002000103FF><pause>|
 327681|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>You're<lineend>safe... <lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Oh, you're safe.<lineend><CC03ED=000A0017000103FF><pause>|
 327682|
-<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep<lineend>This lady saved me<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep, this lady saved me<lineend><CC03ED=00350002000103FF><pause>|
 327683|
-<CC03EA><CC03FC=0004><string=000A>My Lady<lineend><pause><CC03EA>Thank you<lineend>so much!    <lineend><pause>|
+<CC03EA><CC03FC=0004><string=000A>My Lady<lineend><pause><CC03EA>Thank you so much!     <lineend><pause>|
 327684|
-<CC03EA><CC03FC=0004><string=000A>And Edward<lineend><pause><CC03EA>thank you too<lineend>for coming. <pause><lineend>|
+<CC03EA><CC03FC=0004><string=000A>And Edward<lineend><pause><CC03EA>thank you too for coming.  <pause><lineend>|
 327685|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Be cautious in  <lineend>the future.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Be cautious in the future.   <pause><lineend>|
 327686|
-<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Ok, follow me now<lineend><CC03ED=000A0017000103FF><pause>|
+<CC03EA><CC03FC=0004><string=000A><CC03ED=000A0018000103FF>Ok, come with me.<lineend><CC03ED=000A0017000103FF><pause>|
 327687|
 <CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>See ya lady!<lineend><CC03ED=00350002000103FF><pause>|
 327688|
@@ -135,11 +135,11 @@
 327689|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sorry.<lineend><pause>|
 327690|
-<CC03EA><color=0004><string=016E><lineend><color=0001>However I've<lineend>reconsidered you. <pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>However, I've reconsidered you. <pause><lineend>|
 327691|
 <CC03EA><color=0004><string=016E><lineend><color=0001>Who are you?   <pause><lineend>|
 327692|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm Gradriel.  <pause><lineend><CC03EA>You must be <lineend>Sir Edward..<pause><lineend><CC03EA>Thank for<lineend>earlier<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm Gradriel.  <pause><lineend><CC03EA>You must be <lineend>Sir Edward..<pause><lineend><CC03EA>Thanks for earlier<pause><lineend>|
 327693|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I must be      <lineend>famous then... <pause><lineend><CC03EA>Gradriel you<lineend>better evacuate<pause><lineend><CC03EA>this      <lineend>village too.   <pause><lineend>|
 327694|
