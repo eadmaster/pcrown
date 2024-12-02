@@ -29,15 +29,24 @@ My attempt to continue on the CyberWarriorX translation project.
 ![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)  ![selling](https://github.com/user-attachments/assets/8203505d-3850-41bd-a230-d2003f2551c7)
 
 
-## Patch instructions
+## Patch instructions (bin)
 
 1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
 2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases/latest/download/Princess.Crown.Japan.1M.Track.01.bin.xdelta).
 3. visit [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 4. select `Princess Crown (Japan) (1M) (Track 01).bin` as ROM file
 5. select `Princess.Crown.Japan.1M.Track.01.bin.xdelta` as Patch file
-6. Click "Apply patch" and save in the same folder
-7. download and use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play.
+6. click "Apply patch" and save in the same folder without changing its name: `Princess Crown (Japan) (1M) (Track 01) (patched).bin`
+7. download and use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play the game.
+
+## Patch instructions (iso)
+
+1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
+2. download and execute one of these easy patching scripts in the same folder:
+ 
+  - [for Windows](https://github.com/eadmaster/pcrown/tree/2084d8b6d6c87901ce78257f89f244f5d7c6d3f8/src/buildcd/_patch_eng.bat)
+  - [for Linux](https://github.com/eadmaster/pcrown/tree/2084d8b6d6c87901ce78257f89f244f5d7c6d3f8/src/buildcd/_patch_eng.sh)
+3. use the cue sheet inside [this zip file](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip) to play the game.
 
 
 ## Contributions
