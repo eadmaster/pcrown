@@ -47,7 +47,7 @@
 131084|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Where did those Demons come from?<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=0103><lineend><color=0001><CC03ED=01030004000103FF>There's a door to the Demon Realm in a cave on a faraway island.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's where they came through. I should know, for I was the one who opened the it.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's not all. I killed many people. I even attacked you, my Queen!<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>After the shameful things I've done, I am no longer fit to be anyone's Captain.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>Your Highness, please bestow a fitting punishment upon me.<lineend><CC03ED=01030003000103FF><pause>|
+<CC03EA><color=0004><string=0103><lineend><color=0001><CC03ED=01030004000103FF>There's a door to the Demon Realm in a cave on a faraway island.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's where they came through. I should know, for I was the one who opened it.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>That's not all. I killed many people. I even attacked you, my Queen!<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>After the shameful things I've done, I am no longer fit to be anyone's Captain.<lineend><CC03ED=01030003000103FF><pause><CC03EA><CC03ED=01030004000103FF>Your Highness, please bestow a fitting punishment upon me.<lineend><CC03ED=01030003000103FF><pause>|
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sir Glowstar...<pause><lineend>|
 131087|

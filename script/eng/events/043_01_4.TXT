@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>We don't buy those, I'm afraid.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01C8><lineend><color=0001>Welcome! How about some Potion to take on your travels?<pause><lineend><CC03EA>We'll make whatever medicine you want with any ingredients you have.<pause><lineend>|
+<CC03EA><color=0006><string=01C8><lineend><color=0001>Welcome! How about some Potion to take on your travels?<pause><lineend><CC03EA>We'll make whatever Potion you want with any ingredients you have.<pause><lineend>|
 13|
 <CC03EA><CC03FC=0004><string=01C8><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
 14|

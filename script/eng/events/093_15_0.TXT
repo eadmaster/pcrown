@@ -71,7 +71,7 @@
 131080|
 <CC03EA><color=0003><string=0003><lineend><color=0001>There's always another treasure. But my friends' lives are another matter.<pause><lineend><CC03EA>I don't want to lose any of them, so I'm trying to hurry.<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=0171><lineend><color=0001>A man who lives only for treasure is a wretched thing indeed...<pause><lineend><CC03EA>Very well.<pause><lineend><CC03EA>I will use my power to send you to outside of this cave.<pause><lineend>|
+<CC03EA><color=0004><string=0171><lineend><color=0001>A man who lives only for treasure is a wretched thing indeed...<pause><lineend><CC03EA>Very well.<pause><lineend><CC03EA>I will use my power to send you outside of this cave.<pause><lineend>|
 196608|
 <CC03EA><CC03FC=0004><string=0125>Boss! We're in trouble!<pause><lineend><CC03EA>Look at that pirate ship!!<pause><lineend>|
 196609|

@@ -5,7 +5,7 @@
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Thanks to you I am!<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Thanks to you, I am!<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I see that you, too, decided to take on the trial all by yourself.<pause><lineend>|
 131075|

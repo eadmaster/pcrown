@@ -57,7 +57,7 @@
 262149|
 <CC03EA><color=0004><string=0107><lineend><color=0001>Um...Thank you for your help, Sir.<pause><lineend><CC03EA>I think I'll be all right now.<pause><lineend>|
 262150|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Not yet you won't. Others will come eventually.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't expect them to give up. They know where you are. They could attack anytime.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>Not yet, you won't. Others will come eventually.<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>I don't expect them to give up. They know where you are. They could attack anytime.<lineend><CC03ED=00010003000103FF><pause>|
 262151|
 <CC03EA><color=0004><string=0107><lineend><color=0001>They could?<pause><lineend>|
 262152|

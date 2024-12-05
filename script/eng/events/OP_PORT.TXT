@@ -23,7 +23,7 @@
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What are these Gems?<pause><lineend>|
 65548|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>They're called the Sun, Moon, Earth, and Ocean Stones. I've heard they're all he'll take.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Each of these magical Gems is scarcely heard of outside of fairy tales and legends.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>To tell the truth, I'm not completely sure they even exist.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>They're called the Sun, Moon, Earth, and Ocean Stones. I've heard they're all he'll take.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Each of these magical Gems is scarcely heard of outside fairy tales and legends.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>To tell the truth, I'm not completely sure they even exist.<lineend><CC03ED=008D0007000103FF><pause>|
 65549|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Well, I know for certain that one of them is real.<pause><lineend><CC03EA>It's in the legend of the Great Pirate Drake.<pause><lineend><CC03EA>He was said to have carried a Gem with him that gave off a radiant blue light.<pause><lineend><CC03EA>He called it the Ocean Stone.<pause><lineend>|
 65550|

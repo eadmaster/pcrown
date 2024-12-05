@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>They're catching folks red handed all over the place these days.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>They're catching folks red-handed all over the place these days.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=000E><lineend><color=0001>You mean the Friedfin crew? I heard about that, too!<pause><lineend><CC03EA>Stealing money, starting fights in the tavern...What's wrong with those guys?<pause><lineend>|
 2|

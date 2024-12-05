@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>The artist who moved into the haunted mansion was a monster!?<pause><lineend><CC03EA>To think, if I had asked him for a painting...<pause><lineend><CC03EA>...people would have wound up believing I was a criminal, too!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>The one-legged fellow who was in front of the item shop disappeared.<pause><lineend><CC03EA>Part of me wishes I had gone with him! I mean, he was so good looking...<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The one-legged fellow who was in front of the item shop disappeared.<pause><lineend><CC03EA>Part of me wishes I had gone with him! I mean, he was so good-looking...<pause><lineend>|
 7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>So the artist was a monster all along?<pause><lineend><CC03EA>Well, I was suspicious of him ever since he bought the haunted mansion.<pause><lineend><CC03EA>But I never once thought he was something other than a human!<pause><lineend>|
 8|

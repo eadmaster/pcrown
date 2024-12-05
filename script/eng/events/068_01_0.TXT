@@ -17,9 +17,9 @@
 131073|
 <CC03EA><CC03FC=0004><string=011E><color=0001>You there. Little girl. You're friends with Portgus, aren't you?<pause><lineend><CC03EA>That scurvy dog climbed onto my ship and beat up nearly every man I had!<pause><lineend><CC03EA>You might say I'm now going to return the favor.<lineend><pause>|
 131074|
-<CC03EA><CC03FC=0004><color=0005><string=0134><color=0001>The seas in this area are full of man-eating sharks.<pause><lineend><CC03EA>Fall in, and you're as good as lunchmeat.<pause><lineend>|
+<CC03EA><CC03FC=0004><color=0005><string=0134><color=0001>The seas in this area are full of man-eating sharks.<pause><lineend><CC03EA>Fall in, and you're as good as lunch meat.<pause><lineend>|
 131075|
-<CC03EA><CC03FC=0004><string=011E><color=0001>If you don't want to die, then tell me where Portgus's hideout is!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>If you don't want to die, then tell me where Portgus' hideout is!<pause><lineend>|
 131076|
 <CC03EA><CC03FC=0004><string=011E><color=0001>You!! Where did you come from!?<pause><lineend>|
 131077|
@@ -39,7 +39,7 @@
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes, I'm OK.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0179><lineend><color=0001>The whole lot of them took off. They've abandoned their own ship!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>A lot of them took off. They've abandoned their own ship!<pause><lineend>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What about the others they had taken prisoner?<pause><lineend>|
 196612|

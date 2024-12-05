@@ -43,7 +43,7 @@
 21|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0162><lineend><color=0001>It's hard the believe that the Knight Guard couldn't keep the Demons at bay.<pause><lineend>|
+<CC03EA><color=0006><string=0162><lineend><color=0001>It's hard to believe that the Knight Guard couldn't keep the Demons at bay.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Golden Warrior...<pause><lineend><CC03EA>Please keep Cadho Badho safe!<pause><lineend>|
 24|

@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=00F0><lineend><color=0001>Her Majesty is distraught over what happened to Golgotha, the Knight Guard Captain.<pause><lineend><CC03EA>I wonder what I might say to console her...<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0080><lineend><color=0001>Those Demon scum...killed most of my friends....<pause><lineend><CC03EA>I'll get revenge for them, no matter how long it takes!<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>Those Demon scums... killed most of my friends...<pause><lineend><CC03EA>I'll get revenge for them, no matter how long it takes!<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
 4|

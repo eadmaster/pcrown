@@ -37,7 +37,7 @@
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid I've been keeping a secret from you.<pause><lineend><CC03EA>The truth is, I'm actually...You see...<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Ha ha!I can't say I'm used to people being this apologetic toward me.<pause><lineend><CC03EA>Least of all a Queen!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Ha ha! I can't say I'm used to people being this apologetic toward me.<pause><lineend><CC03EA>Least of all a Queen!<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You mean you've known all along?<pause><lineend>|
 65540|
@@ -49,7 +49,7 @@
 65543|
 <CC03EA><CC03FC=0004><string=0125><color=0001>Thar she blows!!<pause><lineend>|
 65544|
-<CC03EA><CC03FC=0004><string=0125><color=0001>We've spotted something dead ahead, Captain. It looks like its them!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0125><color=0001>We've spotted something dead ahead, Captain. It looks like it's them!<pause><lineend>|
 65545|
 <CC03EA><color=0004><string=0179><lineend><color=0001>It's about time those Sirens showed up.<pause><lineend><CC03EA>Brace yourselves, men! Don't let your guard down for a second!<lineend><pause>|
 65546|

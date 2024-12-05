@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend><CC03EA>Why not? Oh, I get it. It's because I'm a witch, isn't it?<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0027><lineend><color=0001>No no!<pause><lineend><CC03EA>It's because my little sister took the goats out on a walk and hasn't come back.<pause><lineend><CC03EA>She should be back any minute now...<pause><lineend><CC03EA>Listen, just stick around, and I'll sell you some cheap Milk the moment she get back.<pause><lineend>|
+<CC03EA><color=0006><string=0027><lineend><color=0001>No no!<pause><lineend><CC03EA>It's because my little sister took the goats out on a walk and hasn't come back.<pause><lineend><CC03EA>She should be back any minute now...<pause><lineend><CC03EA>Listen, just stick around, and I'll sell you some cheap Milk the moment they get back.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=0027><lineend><color=0001>It's getting late.<lineend>Where is she?<pause><lineend>|
 18|

@@ -67,7 +67,7 @@
 33|
 <CC03EA><color=0006><string=0053><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>When you've found a place like this one in your travels, come see me again.<pause><lineend>|
 34|
-<CC03EA><color=0006><string=01B9><lineend><color=0001>Welcome!<pause><lineend><CC03EA>We'll make whatever medicine you want with any ingredients you have.<pause><lineend>|
+<CC03EA><color=0006><string=01B9><lineend><color=0001>Welcome!<pause><lineend><CC03EA>We'll make whatever Potion you want with any ingredients you have.<pause><lineend>|
 35|
 <CC03EA><CC03FC=0004><string=01B9><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
 36|
