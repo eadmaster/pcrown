@@ -1,7 +1,7 @@
 0|
-<CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>The Volga Kingdom<lineend>Somewhere else<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>Volga Kingdom<lineend>Somewhere else<lineend><endchoose>|
 1|
-<CC03EA><CC03FC=0004><string=0063><color=0001>Where then?<lineend><choose>Arsontula<lineend>The Pirates Island<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0063><color=0001>Where then?<lineend><choose>Arsontula<lineend>Pirates Island<lineend><endchoose>|
 2|
 <CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
 3|
