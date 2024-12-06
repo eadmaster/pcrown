@@ -34,7 +34,7 @@ Ghost<lineend>
 Ghoul<lineend>
 Doh Doh<lineend>
 Gold Doh Doh<lineend>
-Frog<lineend>
+Frogger<lineend>
 Myconid<lineend>
 Goat<lineend>
 Hamster<lineend>
@@ -70,7 +70,7 @@ Kwein<lineend>
 Golgotha<lineend>
 Heindel<lineend>
 Jadis<lineend>
-Necro-Samantha<lineend>
+Samantha<lineend>
 Ondine<lineend>
 Faras<lineend>
 Forbidden Book<lineend>
