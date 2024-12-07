@@ -19,9 +19,9 @@ export SIGNS_PATH=../../signs
 rm *.eng
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso"
 rm "Princess Crown (Japan) (1M) (Track 01).iso"
-rm "Princess Crown (Japan) (1M) (Track 01) (English).iso.xdelta"
-rm "Princess Crown (Japan) (1M) (Track 01) (English).bin.xdelta"
-rm KANJI_ENG.BIN
+rm "Princess Crown (Japan) (1M) (Track 01) (patched).bin"
+rm "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
+rm "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
 
 # convert data bin track to iso
 iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01).iso"
@@ -30,7 +30,6 @@ cp "Princess Crown (Japan) (1M) (Track 01).iso" "Princess Crown (Japan) (1M) (Tr
 # update the font
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" KANJI.BIN
 xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
-#xdelta3 -e -s KANJI.BIN  KANJI_ENG.BIN  KANJI.BIN.xdelta  # create new font patch
 
 # update items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" 0.BIN
@@ -99,42 +98,37 @@ cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
 
 # update events
-if [ "$1" != "noscript" ]; then
-    7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.EVN
-    # enforce correct line splitting
-    for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
-        echo "splitting text in $txt"
-        python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
-    done
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.EVN
+# enforce correct line splitting
+for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
+    echo "splitting text in $txt"
+    python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
+done
 
-    find *.EVN | while read eventfile; do 
-        EVNBASENAME="$(basename "$eventfile" .EVN )"
-        if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then
-            echo "updating ${eventfile}"
-            wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT  -o ${eventfile}.eng
-            #xdelta3 -e -s ${eventfile}  ${eventfile}.eng ${eventfile}.xdelta
-            cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" ${eventfile}  ${eventfile}.eng  > /dev/null
-        else
-            echo "missing translation script: ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT"
-        fi
-    done
+find *.EVN | while read eventfile; do 
+    EVNBASENAME="$(basename "$eventfile" .EVN )"
+    if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then
+        echo "updating ${eventfile}"
+        wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT  -o ${eventfile}.eng
+        #xdelta3 -e -s ${eventfile}  ${eventfile}.eng ${eventfile}.xdelta
+        cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" ${eventfile}  ${eventfile}.eng  > /dev/null
+    else
+        echo "missing translation script: ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT"
+    fi
+done
 
-    # temp. fix for dragon fight softlock (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/30
-    xdelta3 -f -d -s 015_00_1.EVN 015_00_1.EVN.xdelta 015_00_1.EVN.fixed
-    cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN.fixed
-    # temp. fix for softlock at Larva boss (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/88
-    xdelta3 -f -d -s 176_00_0.EVN 176_00_0.EVN.xdelta 176_00_0.EVN.fixed
-    cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN.fixed
-    # temp. fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
-    xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
-    cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 041_00_1.EVN 041_00_1.EVN.fixed
-    #TODO: temp. fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
-    #cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_2.EVN  061_00_2.EVN.fixed
-fi
+# temp. fix for dragon fight softlock (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/30
+xdelta3 -f -d -s 015_00_1.EVN 015_00_1.EVN.xdelta 015_00_1.EVN.fixed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 015_00_1.EVN 015_00_1.EVN.fixed
+# temp. fix for softlock at Larva boss (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/88
+xdelta3 -f -d -s 176_00_0.EVN 176_00_0.EVN.xdelta 176_00_0.EVN.fixed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 176_00_0.EVN.fixed
+# temp. fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
+xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 041_00_1.EVN 041_00_1.EVN.fixed
+#TODO: temp. fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
+#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_2.EVN  061_00_2.EVN.fixed
 
-# replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
-#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB
-#sfk replace COCKPIT.CHB -binary /$( xxd -p -c 10000 save_begin_jap.bin)/$( xxd -p -c 10000 save_begin_eng.bin)/  -yes    
 
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.CHR
@@ -167,7 +161,7 @@ find *.CHR | while read chrfile; do
     replace_sign  npc  132
     # shop sign (16*11/2 = 88 bytes)
     replace_sign  shop  88
-    # Med (shop) (16*11/2 = 88 bytes) -> test in 002-00
+    # Pot/Med (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
     replace_sign  med_shop  88
     # Item (shop) (24*11/2 = 132 bytes)
     replace_sign  item_shop  132
@@ -210,9 +204,20 @@ find *.CHR | while read chrfile; do
     replace_sign  eriel  240
     # Gradriel (72*11/2=396) -> test in 000-04 (rx)
     replace_sign  gradriel  396
+    # empty / vacant house (40*11/2 = 220)  -> test in 043-00
+    replace_sign  empty  220
+    # floor_sub (24*11/2 = 132) -> test in 100-12
+    replace_sign floor_sub 132
+    # port (16*11/2 = 88) -> test in 039-00
+    replace_sign  port  88
         
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done
+
+# replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB
+sfk replace COCKPIT.CHB -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_eng.bin)/  -yes    
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COCKPIT.CHB COCKPIT.CHB
 
 # build xdelta patch
 xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
