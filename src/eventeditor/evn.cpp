@@ -191,16 +191,12 @@ void cmd31_list_func(command_struct *cmd, int index, HWND hWnd)
 #endif
 }
 
-
 void print_hex2str(unsigned char* arg, int arg_length){
    for(int i=0; i<arg_length; i++) {
       printf("%02X",(int)arg[i]);
    }
    printf("\n");
 }
-
-
-
 int DoCommandParse(int cmd, char *name, unsigned char *buf, int size, BOOL count_events, void (*list_func)(command_struct *command, int index, HWND), command_struct *command)
 {
    if (!count_events)
@@ -729,6 +725,7 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
                   MB_OK | MB_ICONINFORMATION);
             }*/
             return -2;
+
          }
    }
 
@@ -1392,21 +1389,23 @@ char *FixLineWrap(char *text, int event_id)
 unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
    else if ( c  == '*') return(3);
-   else if ( c  == '+') return(3);  // TODO: add "+"
    else if ( c  == '#') return(3);  // TODO: add "#"
-   else if ( c  == '&') return(3);  // TODO: add "&"
    else if ( c  == '?') return(4);
    else if ( c  == '!') return(5);
    else if ( c  == '_') return(6);
-   else if ( c  == '-') return(8);
+   else if ( c  == '+') return(8);
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
    else if ( c  == ')') return(11);
+   else if ( c  == '[') return(12);
+   else if ( c  == ']') return(13);
+   else if ( c  == '-') return(14);
    else if ( c  == ',') return(0x3DA);
    else if ( c  == '.') return(0x3DB);
    else if ( c  == '\"') return(0x3DC);
    else if ( c  == '\'') return(0x3DD);
    else if ( c  == ':') return(0x3DE);
+   else if ( c  == '&') return(0x3DF);
    else if ( c  == '%') return(0x0F);
    else if ( c  == '0') return(0x11);
    else if ( c  == '1') return(0x12);
@@ -1506,53 +1505,48 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 				CompressAddWord(0x03FF, &outbuf, out_size, &magic_number, &enc_count);
 
 				// Convert control code
-            BOOL res = FALSE;
 				if (strcmp(text2, "lineend") == 0)
-					res = CompressAddCC(0x03E8, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03E8, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "pause") == 0)
-					res = CompressAddCC(0x03E9, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03E9, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03EA") == 0)
-					res = CompressAddCC(0x03EA, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03EA, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "color") == 0)
-					res = CompressAddCC(0x03EB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03EB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03EC") == 0)
-					res = CompressAddCC(0x03EC, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03EC, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03ED") == 0)
-					res = CompressAddCC(0x03ED, text, &i, 4, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03ED, text, &i, 4, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03EF") == 0)
-					res = CompressAddCC(0x03EF, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03EF, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F0") == 0)
-					res = CompressAddCC(0x03F0, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F0, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F1") == 0)
-					res = CompressAddCC(0x03F1, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F1, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F2") == 0)
-					res = CompressAddCC(0x03F2, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F2, text, &i, 7, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F3") == 0)
-					res = CompressAddCC(0x03F3, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F3, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F4") == 0)
-					res = CompressAddCC(0x03F4, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F4, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "choose") == 0)
-					res = CompressAddCC(0x03F5, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F5, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "endchoose") == 0)
-					res = CompressAddCC(0x03F6, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F6, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F7") == 0)
-					res = CompressAddCC(0x03F7, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F7, text, &i, 0, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F8") == 0)
-					res = CompressAddCC(0x03F8, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F8, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03F9") == 0)
-					res = CompressAddCC(0x03F9, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03F9, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03FA") == 0)
-					res = CompressAddCC(0x03FA, text, &i, 9, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03FA, text, &i, 9, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03FB") == 0)
-					res = CompressAddCC(0x03FB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03FB, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "CC03FC") == 0)
-					res = CompressAddCC(0x03FC, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
+					CompressAddCC(0x03FC, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 				else if (strcmp(text2, "string") == 0)
-					res = CompressAddCC(0, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
-            
-            if(res==FALSE) {
-                  printf("CompressAddCC err : %s", text);
-            }
+					CompressAddCC(0, text, &i, 1, &outbuf, out_size, &magic_number, &enc_count);
 			}
 			// Is ascii text?
 			else if ((unsigned char)text[i] <= 0x7F)
@@ -1580,15 +1574,9 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
                unsigned short k = AsciiCharToTexttblIndex(text[i]);
                if (k != 0xFFF)
                   CompressAddWord(k, &outbuf, out_size, &magic_number, &enc_count);
-                  // unsigned short word, unsigned char **outbuf, int *out_size, unsigned char *magic_number, unsigned char *enc_count)
                else 
                   printf("invalid char found (skipped): %c\n", text[i]);
                
-               /*
-               #ifdef DEBUG_MODE
-                  printf("k=%02X, outbuf=%X, out_size=%d, magic_number=%X, enc_count=%X\n",(int)k, outbuf[0], out_size, magic_number, enc_count);
-               #endif
-               * */
                i++;
 				}
 			}
@@ -1696,13 +1684,6 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
          else
             text = ttentry[l].orig_text;
 
-         #ifdef DEBUG_MODE
-            printf("\ntext_pointer_list index: %d\n", l );
-            printf("text: %s\n", text );
-            printf("compressed: ");
-            //printf("\nnum_text: %d\n", num_text );
-         #endif
-      
          // Create new entry for pointer
          text_pointer_list[l] = out_size[0];
          for (i = 0; i < strlen(text);)
@@ -1831,7 +1812,6 @@ unsigned short *CompressTextAlt(unsigned char *outbuf, int *out_size, int max_ou
    return text_pointer_list;
 }
 
-
 int EVNSaveFile(const char *filename)
 {
    FILE *fp;
@@ -1858,7 +1838,6 @@ int EVNSaveFile(const char *filename)
    cmp_text[0] = (unsigned char *)calloc(1, 0xFFFF);
    text_pointer_list[0] = CompressText(-1, cmp_text[0], cmp_text_size, &header, text_num);
 
-   // Rebuild  cmd43 -> text_pointer_list[i+1]
    for (i = 0; i < 8; i++)
    {
       cmp_text[i+1] = (unsigned char *)calloc(1, 0xFFFF);
@@ -1872,12 +1851,6 @@ int EVNSaveFile(const char *filename)
       {
          evn_data[command[i].offset] = command[i].cmd;
          memcpy(evn_data+command[i].offset+1, command[i].arg, command[i].arg_length);
-         /*
-         #ifdef DEBUG_MODE
-            printf("offset: %02X, cmdname: %s\n", command[i].offset+1, command[i].name );
-            print_hex2str(command[i].arg, command[i].arg_length);
-         #endif
-         */
       }
       else
          break;
@@ -1910,13 +1883,6 @@ int EVNSaveFile(const char *filename)
             memcpy(evn_data+k+3, command[i].arg, command[i].arg_length);
             last_offset = k+3+command[i].arg_length;
             tbl_used=true;
-            /*
-            #ifdef DEBUG_MODE
-               printf("offset: %x\n", k+3);
-               printf("cmd: %02X\n", command[i].cmd);
-               print_hex2str(command[i].arg, command[i].arg_length);
-            #endif
-            */
          }
       }
 
@@ -1943,16 +1909,8 @@ int EVNSaveFile(const char *filename)
       header.cmp_tbl_offset = offset-0x1000;
 
       // Copy over compressed data offsets to buffer
-      for (i = 0; i < (unsigned long)text_num[0]; i++) {
+      for (i = 0; i < (unsigned long)text_num[0]; i++)
          text_pointer_list[0][i] = WordSwap(text_pointer_list[0][i]);
-         /*
-         #ifdef DEBUG_MODE
-            printf("text_num: %d\n", i);
-            printf("offset: %x\n", offset + i * sizeof(unsigned short)*text_num[0]);
-            printf("ptr: %02X\n",text_pointer_list[0][i]);
-         #endif
-         */
-      }
       memcpy((void *)(evn_data+offset), text_pointer_list[0], sizeof(unsigned short)*text_num[0]);
       offset += sizeof(unsigned short)*text_num[0];
    }
@@ -1971,12 +1929,6 @@ int EVNSaveFile(const char *filename)
             text_pointer_list[j+1][i] = WordSwap(text_pointer_list[j+1][i]);
          memcpy((void *)(evn_data+offset), text_pointer_list[j+1], sizeof(unsigned short)*text_num[j+1]);
          offset += sizeof(unsigned short)*text_num[j+1];
-         
-         #ifdef DEBUG_MODE
-            printf("text_num: %d\n", i);
-            printf("offset: %x\n", offset - sizeof(unsigned short)*text_num[j+1]);
-            printf("ptr: %02X\n",text_pointer_list[j+1][i]);
-         #endif
       }
       else
          break;
