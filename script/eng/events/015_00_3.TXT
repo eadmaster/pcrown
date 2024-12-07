@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Dragons are a little quieter now, thanks to the Knight Guard.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0050><lineend><color=0001>I found a book that explains how to heal yourself without being hurt in battle.<pause><lineend><CC03EA>If you drink an Invincible Potion, you can eat without the food getting knocked away.<pause><lineend>|
+<CC03EA><color=0006><string=0050><lineend><color=0001>I found a book that explains how to heal yourself without being hurt in battle.<pause><lineend><CC03EA>If you drink an Invincibility Potion, you can eat without the food getting knocked away.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 11|

@@ -63,9 +63,9 @@ Fresh Milk<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
 Goblin Juice<lineend>
-Invincible Potion<lineend>
-Invincible Potion<lineend>
-Invincible Potion<lineend>
+Invincibility Potion<lineend>
+Invincibility Potion<lineend>
+Invincibility Potion<lineend>
 Courage Potion<lineend>
 Courage Potion<lineend>
 Courage Potion<lineend>
@@ -220,7 +220,7 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7><lineend><pause><color=0001><CC03F7>
+<CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
 <CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
 <CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
@@ -238,9 +238,9 @@ Health Halved For Power Boost<lineend>
 
 
 
-Temporary Invincibility<lineend>
+Temporary Invincibility For 20s<lineend>
 No Knockback & Easy Counter-Attack<lineend>
-Eat & Drink Quickly<lineend>
+Eat & Drink Quickly For 30s<lineend>
 Attack Power UP<lineend>
 Defense Power UP<lineend>
 Attack Power 10% UP<lineend>
