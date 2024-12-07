@@ -1389,10 +1389,10 @@ char *FixLineWrap(char *text, int event_id)
 unsigned short AsciiCharToTexttblIndex(char c) {
    if ( c  == ' ') return(0);
    else if ( c  == '*') return(3);
-   else if ( c  == '#') return(3);  // TODO: add "#"
    else if ( c  == '?') return(4);
    else if ( c  == '!') return(5);
    else if ( c  == '_') return(6);
+   else if ( c  == '#') return(7);
    else if ( c  == '+') return(8);
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
