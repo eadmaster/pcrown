@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>Hee hee hee! Here you are!<pause><lineend>|
 16|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Sure I can grill you something. What Food would you like to use?<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Sure I can grill you something. What Food Ingredient would you like to use?<pause><lineend>|
 17|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>I can't cook for you if you don't have any Foods.<pause><lineend>|
 18|

@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>Thank you very much.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you, then. What Food would you like to use?<pause><lineend>|
+<CC03EA><color=0006><string=01A9><lineend><color=0001>I'll grill something for you, then. What Food Ingredient would you like to use?<pause><lineend>|
 16|
 <CC03EA><color=0006><string=01A9><lineend><color=0001>I'm afraid I can't cook that.<pause><lineend>|
 17|

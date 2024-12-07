@@ -77,7 +77,7 @@
 38|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Come take it while it's hot!<pause><lineend>|
 39|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food Ingredient to use.<pause><lineend>|
 40|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
 41|

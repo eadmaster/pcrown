@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=000C><lineend><color=0001>That's wonderful!<pause><lineend><CC03EA>You must be quite the cook by now!<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0009><lineend><color=0001>A Frying Pan and a Cooking Pot will each break after you use them some number of times.<pause><lineend><CC03EA>When that happens, you can't cook with them anymore.<pause><lineend><CC03EA>You can still throw them, though! That goes for Empty Bottles, too.<pause><lineend>|
+<CC03EA><color=0006><string=0009><lineend><color=0001>A Frying Pan and a Soup Pot will each break after you use them some number of times.<pause><lineend><CC03EA>When that happens, you can't cook with them anymore.<pause><lineend><CC03EA>You can still throw them, though! That goes for Empty Bottles, too.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, did you ever try drinking more than one type of Potion?<pause><lineend><CC03EA>Heh heh. I actually tried it once myself.<pause><lineend>|
 13|

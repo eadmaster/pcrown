@@ -91,7 +91,7 @@
 45|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
 46|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food Ingredient to use.<pause><lineend>|
 47|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
 48|

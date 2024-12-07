@@ -39,7 +39,7 @@
 19|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Here you are!<pause><lineend>|
 20|
-<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to grill something for you. Please select a Food to use.<pause><lineend>|
+<CC03EA><color=0006><string=01AE><lineend><color=0001>I'd be happy to grill something for you. Please select a Food Ingredient to use.<pause><lineend>|
 21|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Oh dear. I can't cook that!<pause><lineend>|
 22|

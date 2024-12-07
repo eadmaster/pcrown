@@ -220,7 +220,7 @@ Cure Drop<lineend>
 
 <CC03EA><color=0000>All Health Restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP Restored<pause><lineend>
-<CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
+<CC03EA><color=0000><CC03F7><lineend><pause><color=0001><CC03F7>
 <CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
 <CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
@@ -266,7 +266,7 @@ Shoot Fireballs<lineend>
 Call Down Lightning<lineend>
 Shoot Ice Arrows<lineend>
 Rain Down Meteors<lineend>
-Health Restore & Damage Undead<lineend>
+Health Restore & Damage Undead En.<lineend>
 
 Change Weak Enemies Into Animals<lineend>
 Imbue Sword With Magic<lineend>
@@ -283,8 +283,8 @@ Clone Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
 Return To Last Save Point<lineend>
 Anti-Petrification<lineend>
-Cook Food<lineend>
-Make Soup<lineend>
+Cook Food Using A Spice<lineend>
+Make Soup Using A Spice<lineend>
 Turn Gem Into Magic Stone & Refill<lineend>
 Strengthen Items<lineend>
 Remove Curse From Item<lineend>
@@ -301,14 +301,14 @@ Throw At Enemies<lineend>
 
 Grow Elixir Fruit During Battle<lineend>
 Food Ingredient<lineend>
-Use To Make Magic Stone With Mana<lineend>
+Gem To Make Magic Stone With Mana<lineend>
 Use To Cook With The Soup Pot<lineend>
 Use To Cook With The Frying Pan<lineend>
 Potion Ingredient<lineend>
 Sought By Heindel West Of Knelt<lineend>
 Use To Travel In Time<lineend>
 Give To Bard In Valenadine Town<lineend>
-Return To A Wizard In Cadoh Badoh<lineend>
+Return To A Wizard In Cadho Badho<lineend>
 Open The Cave South Of Cemeteryth<lineend>
 Return To Its Owner In Volga Town<lineend>
 Senses Enemies<lineend>
@@ -399,7 +399,7 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><CC03F4> summoned meteors<pause><lineend>
 <CC03EA><CC03F4> can't gaurd or evade<pause><lineend>
 <CC03EA><color=0000>Select an Equipment Item<lineend><pause>
-<CC03EA><color=0000>Select a Food<lineend><pause>
+<CC03EA><color=0000>Select a Food Ingredient<lineend><pause>
 <CC03EA><color=0000>Select a Gem<lineend><pause>
 <CC03EA><color=0000>Choose something to restore<lineend><pause>
 <CC03EA><color=0000><CC03F7> is done<lineend><pause>
