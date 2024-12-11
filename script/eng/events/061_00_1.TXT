@@ -107,13 +107,13 @@
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 65543|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to me!<pause><lineend>|
 65544|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf Grass!<lineend><pause>|
 65545|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf Grass just yet.<lineend><pause>|
 65546|
-<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 65547|
 <CC03EA><color=0006><string=0165><lineend><color=0005>Thank you so much!!<lineend><pause>|
 131072|
@@ -131,13 +131,13 @@
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 131079|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to me!<pause><lineend>|
 131080|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf Grass!<lineend><pause>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf Grass just yet.<lineend><pause>|
 131082|
-<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 131083|
 <CC03EA><color=0006><string=0165><lineend><color=0005>Thank you so much!!<lineend><pause>|
 196608|
@@ -155,12 +155,12 @@
 196614|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 196615|
-<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0005>Between Knelt and the Dwarf Kingdom is a branching path.<color=0001><pause><lineend><CC03EA>There's a place down that path where lots of <color=0003>Sharp-Leaf Grass<color=0001> grows.<pause><lineend><CC03EA>With some of that grass, I could make an antidote.<pause><lineend><CC03EA>I can't go there now, though, because the monsters would squish me for sure!<pause><lineend><CC03EA>If you ever get your hands on any Sharp-Leaf Grass, please bring it to me!<pause><lineend>|
 196616|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Grass! Grass! I need Sharp-Leaf Grass!<lineend><pause>|
 196617|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Sorry.<lineend><pause><CC03EA>I haven't found any Sharp-Leaf Grass just yet.<lineend><pause>|
 196618|
-<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to my alter-ego speaking Japanese, not me! Otherwise your adventure come to an end!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>You haven't!?<lineend><pause><CC03EA>Oh, what did I ever do to deserve this?<pause><lineend><CC03EA>Please! I beg of you! Go find some Sharp-Leaf Grass and bring it to me!<pause><lineend><CC03EA><color=0005>The Sharp-Leaf Grass grows along the path that splits off between Knelt and the Dwarf kingdom.<color=0001><lineend><pause>|
 196619|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Have a safe trip!<lineend><pause>|

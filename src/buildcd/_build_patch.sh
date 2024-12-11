@@ -90,9 +90,10 @@ ucon64 --nbak --poke=4777B:17 0.BIN
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #ucon64 --nbak --poke=1EB7F:01 0.BIN
 
-# add splashscreen -> crash some emus?
-#mv 0.BIN  0_org.BIN
-#wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
+# add splashscreen
+mv 0.BIN  0_org.BIN
+wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
+rm 0_org.BIN
 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
@@ -126,8 +127,13 @@ cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 176_00_0.EVN 
 # temp. fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
 xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 041_00_1.EVN 041_00_1.EVN.fixed
-#TODO: temp. fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
-#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_2.EVN  061_00_2.EVN.fixed
+# temp. fix for softlock at dialog with the wizard turned into a frog (fix wrong cmd arg) https://github.com/eadmaster/pcrown/issues/89
+ucon64 --nbak --poke=1002:01 061_00_2.EVN.eng
+ucon64 --nbak --poke=1003:90 061_00_2.EVN.eng
+ucon64 --nbak --poke=1002:01 061_00_1.EVN.eng  # not sure if really needed
+ucon64 --nbak --poke=1003:90 061_00_1.EVN.eng  # not sure if really needed
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_2.EVN  061_00_2.EVN.eng
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_1.EVN  061_00_1.EVN.eng
 
 
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
