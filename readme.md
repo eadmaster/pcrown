@@ -12,7 +12,7 @@ My attempt to continue on the CyberWarriorX translation project.
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - [missing translation for some doorway signs](https://github.com/eadmaster/pcrown/issues/5)
+ - [only the most common doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
  - needs playtesting for bugs
    - crash-free in the 1st book/scenario, 2 cutscenes have reduced dialogs to bypass softlocks
    - other books/scenarios still to be tested

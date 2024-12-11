@@ -239,7 +239,7 @@ Health Halved For Power Boost<lineend>
 
 
 Temporary Invincibility For 20s<lineend>
-No Knockback & Easy Counter-Attack<lineend>
+No Knockback & Easy Combo For 20s<lineend>
 Eat & Drink Quickly For 30s<lineend>
 Attack Power UP<lineend>
 Defense Power UP<lineend>
@@ -283,8 +283,8 @@ Clone Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
 Return To Last Save Point<lineend>
 Anti-Petrification<lineend>
-Cook Food Using A Spice<lineend>
-Make Soup Using A Spice<lineend>
+Cook Food With A Spice In Bag<lineend>
+Make Soup With A Spice In Bag<lineend>
 Turn Gem Into Magic Stone & Refill<lineend>
 Strengthen Items<lineend>
 Remove Curse From Item<lineend>
