@@ -67,3 +67,5 @@ Contact me via discord or forums if you can contribute or have issues to report 
  - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
  - Spike, MLagaffe, [MADevil](https://www.twitch.tv/madevil/) (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
+ - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
+ - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
