@@ -90,7 +90,7 @@ ucon64 --nbak --poke=4777B:17 0.BIN
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #ucon64 --nbak --poke=1EB7F:01 0.BIN
 
-# add splashscreen  -> crash in Mednafen?
+# add splashscreen -> freezes with cheats enabled on startup in Mednafen/Retroarch
 #mv 0.BIN  0_org.BIN
 #wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
 #rm 0_org.BIN
@@ -216,7 +216,11 @@ find *.CHR | while read chrfile; do
     replace_sign floor_sub 132
     # port (16*11/2 = 88) -> test in 039-00
     replace_sign  port  88
-        
+    # uptown (40*11/2) -> test in 061-00
+    replace_sign  uptown  220
+    # castle dungeon (88*12/2) -> test in 000-06
+    replace_sign  dungeon  528
+    
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done
 
@@ -230,5 +234,5 @@ xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess
 
 # build xdelta patch (for original bin)
 #wine CDmage.exe "Princess Crown (Japan) (1M) (Track 01) (English).iso"  #  TODO: automate cdmage conversion
-#xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin"  "Princess Crown (Japan) (1M) (Track 01) (English).bin"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
+#xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin"  "Princess Crown (Japan) (1M) (Track 01) (patched).bin"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
 
