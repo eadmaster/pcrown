@@ -2,9 +2,9 @@
 # (c) 2002  Charles MacDonald
 #
 
-CC	=	sh-$(KPITOUTPUT)-gcc
-AS	=	sh-$(KPITOUTPUT)-as
-LD	=	sh-$(KPITOUTPUT)-ld
+CC	=	sh2-$(KPITOUTPUT)-gcc
+AS	=	sh2-$(KPITOUTPUT)-as
+LD	=	sh2-$(KPITOUTPUT)-ld
 
 #FLAGS	=	-Wall -m2 -small
 FLAGS	=	-Wall -m2 -mb -Os -fomit-frame-pointer -nostdlib -std=c99 -DSC_COMP_DISABLE
@@ -13,10 +13,9 @@ FLAGS	=	-Wall -m2 -mb -Os -fomit-frame-pointer -nostdlib -std=c99 -DSC_COMP_DISA
 LDFLAGS	=	-nostartfiles --script bart.lk -Map obj/main.map
 COPYSTUB_LDFLAGS	=	-nostartfiles --script copystub/copystub_bart.lk -Map obj/copystub.map
 	
-LIBS	=	"$(PPATH)\\KPIT\GNUSH$(KPITVER)-$(KPITOUTPUT)\Sh-$(KPITOUTPUT)\sh-$(KPITOUTPUT)\lib\libc.a" \
-		"$(PPATH)\\KPIT\GNUSH$(KPITVER)-$(KPITOUTPUT)\Sh-$(KPITOUTPUT)\lib\gcc\sh-$(KPITOUTPUT)\$(KPITVER2)-GNUSH_$(KPITVER)\libgcc.a"
+LIBS	=	"$(HOME)/opt/sh2-elf-gcc/sh2-toolchain/lib/gcc/sh-elf/9.3.0/libgcc.a"  "$(HOME)/opt/sh2-elf-gcc/sh2-toolchain/sh-elf/lib/libc.a"
 
-EXE = ../splash_loader.bin
+EXE = splash_loader.bin
 COPYSTUB_EXE = obj/copystub.bin
 
 OBJ =	obj/main.o	\
@@ -52,7 +51,7 @@ obj/%.o : 	copystub/%.c
 
 
 pack	:
-		sh-$(KPITOUTPUT)-strip $(EXE) --strip-all
+		sh2-$(KPITOUTPUT)-strip $(EXE) --strip-all
 
 clean	:
 		rm -f obj/*.*

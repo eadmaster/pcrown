@@ -12,6 +12,7 @@
  */
 #include <stdio.h>
 #include <string.h> /* For memset,memcpy */
+#include <time.h> /* for clock */
 
 #include "vdp.h"
 #include "../compress.h"
@@ -92,26 +93,33 @@ void _main(void)
     /* Decompress boot code. */
     boot_len = decomp_exec(BootDataPtr, BootDataLen, (unsigned char*)boot_ptr);
 
-
+    //time_t start = time(0);  // epoch ts
 
     while (1)
-    {
+    { 
+        /*
+        if( time(0) - start > 10 ) {  // 10s timeout
+            break; 
+        }*/
+        
         padData = ReadPad(pad_connected);
 
-        /* B : Load USB dev cart ROM code. */
+        /* B : Load USB dev cart ROM code.
         if (padData & PAD_B)
         {
             rom_usb_dev_cart_io();
         }
+        *  */
 
-        /* A,C or Start : exit splash screen. */
+        /* A,B,C or Start : exit splash screen. */
         if (padData & PAD_START)
             break;
         if (padData & PAD_A)
             break;
+        if (padData & PAD_B)
+            break;
         if (padData & PAD_C)
             break;
-
 
         WaitForVBLANKIn();
         WaitForVBLANKOut();
