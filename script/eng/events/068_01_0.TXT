@@ -7,13 +7,13 @@
 65536|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, what's wrong? We need to get out of here!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, but...there's still no sign of Portgus yet.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, but... there's still no sign of Portgus yet.<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Maybe he's on the ship already.<pause><lineend>|
 65539|
 <CC03EA><CC03FC=0004><string=0134><color=0005>Pirate<lineend><color=0001>It was her! She's the one who ran off with the hostages!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=011E><color=0001>Ha ha ha...She's awake!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011E><color=0001>Ha ha ha... She's awake!<pause><lineend>|
 131073|
 <CC03EA><CC03FC=0004><string=011E><color=0001>You there. Little girl. You're friends with Portgus, aren't you?<pause><lineend><CC03EA>That scurvy dog climbed onto my ship and beat up nearly every man I had!<pause><lineend><CC03EA>You might say I'm now going to return the favor.<lineend><pause>|
 131074|
@@ -37,12 +37,12 @@
 196608|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Gradriel! Are you all right?<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, I'm OK.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, I'm ok.<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=0179><lineend><color=0001>The whole lot of them took off. They've abandoned their own ship!<pause><lineend>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What about the others they had taken prisoner?<pause><lineend>|
 196612|
-<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the Friedfin and sent them home.<pause><lineend><CC03EA>They should head straight for Leeland as we speak. On that note, let's do the same.<pause><lineend><CC03EA>While we're at it, please, make yourself at home in this great new ship they gave us!<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>I put them on the Friedfin and sent them home.<pause><lineend><CC03EA>They should be headed straight for Leeland as we speak. On that note, let's do the same.<pause><lineend><CC03EA>While we're at it, please, make yourself at home in this great new ship they gave us!<pause><lineend>|
 196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>If you say so, Captain!<pause><lineend>|
