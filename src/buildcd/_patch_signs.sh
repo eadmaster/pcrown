@@ -1,14 +1,14 @@
 #!/bin/bash
 
+# Doorway signs patching script  https://github.com/eadmaster/pcrown/issues/5
+# Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 export SIGNS_PATH=../../signs
 
 
-# doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.CHR
-
+# turn a file into an hex string
 file2hexstr() { xxd -p -c 10000  "$1" | tr 1 F ; }   
- 
+
 replace_sign() {
     FILEBASENAME=${SIGNS_PATH}/$1
     CORRECT_FILESIZE=$2
@@ -30,6 +30,10 @@ replace_sign() {
     # TODO? replace with ucon64 -nbak --hreplace="S:R"
 }
 
+# extract all files with signs gfx
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.CHR
+
+# interate over the extracted files and replace all signs found
 find *.CHR | while read chrfile; do 
     # PUB signs (24*11/2 = 132 bytes)
     replace_sign  pub  132
@@ -37,7 +41,7 @@ find *.CHR | while read chrfile; do
     replace_sign  npc  132
     # shop sign (16*11/2 = 88 bytes)
     replace_sign  shop  88
-    # Med (shop) (16*11/2 = 88 bytes) -> test in 002-00
+    # Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
     replace_sign  med_shop  88
     # Item (shop) (24*11/2 = 132 bytes)
     replace_sign  item_shop  132
@@ -49,7 +53,7 @@ find *.CHR | while read chrfile; do
     replace_sign  magic_shop  132
     # School (24*11/2=132) -> test in 045-00
     replace_sign  school  132
-    # Warp (24*11/2 = 132)  -> test in 045-00
+    # Warp/Teleportation Magic (24*11/2 = 132)  -> test in 045-00
     replace_sign warp  132
     # courtyard (inside castle) (24*11/2 = 132)-> test in 000-01
     replace_sign  courtyard  132
@@ -59,10 +63,9 @@ find *.CHR | while read chrfile; do
     replace_sign  aud_hall  264
     # Floor (16*11/2 = 88) -> "F"
     replace_sign  floor  88
-    # 3rd Floor (24*11/2 = 132) -> "3 F"
+    # 2nd/3rd Floor (24*11/2 = 132) -> "3 F"
     replace_sign  floor3  132
     replace_sign  floor2  132
-    #replace_sign  floor2  132
     # "he" kana (16*5/2) -> cleared
     replace_sign  he_kana  40
     # "spell kanji (16*11/2 = 88) -> cleared
@@ -79,17 +82,17 @@ find *.CHR | while read chrfile; do
     replace_sign  eriel  240
     # Gradriel (72*11/2=396) -> test in 000-04 (rx)
     replace_sign  gradriel  396
-    # Castle  (96*11/2 = 528) -> test in 002-00
+    # Valenadine Castle  (96*11/2 = 528) -> test in 002-00
     replace_sign  castle  528
     # empty / vacant house (40*11/2 = 220)  -> test in 043-00
     replace_sign  empty  220
+    # floor_sub (24*11/2 = 132) -> test in 100-12
+    replace_sign floor_sub 132
     # port (16*11/2 = 88) -> test in 039-00
     replace_sign  port  88
-    # floor_sub (24*11/2 = 132)
-    replace_sign floor_sub 132
-    # uptown (40*11/2) -> test in 061-00
+    # uptown/innertown (40*11/2) -> test in 061-00
     replace_sign  uptown  220
-    # castle dungeon (88*12/2) -> test in 000-06
+    # (underground) dungeon (88*12/2) -> test in 000-06
     replace_sign  dungeon  528
         
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
