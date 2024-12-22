@@ -1,7 +1,13 @@
 #!/bin/bash
 
+if [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
+	echo "usage: $(basename $0) text"
+	echo
+	exit 1
+fi
+
 FONT_DIR="_font_normal"  # Directory containing character BMP files
-OUTPUT_FILE="$@.bmp"  # Output banner file
+OUTPUT_FILE="$@_eng.bmp"  # Output banner file
 TEXT="$@"  # Text to render
 
 # Temporary file to hold intermediate results
@@ -35,7 +41,7 @@ for ((i=0; i<${#TEXT}; i++)); do
 done
 
 # Save the final banner
-convert $TEMP_FILE -background black -flatten -depth 8 -type TrueColor "$OUTPUT_FILE"
+convert $TEMP_FILE -background black -flatten -depth 8 -type TrueColor -crop +16+0 +repage "$OUTPUT_FILE"
 
 
 echo "Banner saved to $OUTPUT_FILE"
