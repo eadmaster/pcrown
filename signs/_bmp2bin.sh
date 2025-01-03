@@ -21,7 +21,7 @@ export HEIGHT=$(identify -format '%h' $1)
 perl _bmp-2-4bpp.pl $1 save_begin.pal 0 $WIDTH $HEIGHT
 
 
-SIGNNAME=$(echo $1 | cut -d_ -f1)
+SIGNNAME=$(echo $1 | rev | cut -d'_' -f2- | rev)
 INPUTFILENAME=$(basename $1 | rev | cut -d'.' -f2- | rev)
 SIGN_BIN_FILESIZE=$(stat -c%s "${INPUTFILENAME}.bin")
 

@@ -12,11 +12,11 @@ file2hexstr() { xxd -p -c 10000  "$1" | tr 1 F ; }
 replace_sign() {
     FILEBASENAME=${SIGNS_PATH}/$1
     CORRECT_FILESIZE=$2
-	if [ $(stat -c%s "${FILEBASENAME}_jap.bin") -ne $CORRECT_FILESIZE ]; then
+	if [ ! -f "${FILEBASENAME}_jap.bin" ] || [ $(stat -c%s "${FILEBASENAME}_jap.bin") -ne $CORRECT_FILESIZE ]; then
 		echo "$0: sign ${FILEBASENAME}_jap.bin wrong size or does not exist (skipped)"
 		return
 	fi
-	if [ $(stat -c%s "${FILEBASENAME}_eng.bin") -ne $CORRECT_FILESIZE ]; then
+	if [ ! -f "${FILEBASENAME}_eng.bin" ] ||  [ $(stat -c%s "${FILEBASENAME}_eng.bin") -ne $CORRECT_FILESIZE ]; then
 		echo "$0: sign ${FILEBASENAME}_eng.bin wrong size or does not exist (skipped)"
 		return
 	fi
@@ -26,6 +26,8 @@ replace_sign() {
     #echo $SIGN_JAP_HEX_STR
     #echo $SIGN_ENG_HEX_STR
     #return
+    
+    # binary search-replace  http://stahlworks.com/sfk-rep
     sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes    
     # TODO? replace with ucon64 -nbak --hreplace="S:R"
 }
@@ -94,6 +96,27 @@ find *.CHR | while read chrfile; do
     replace_sign  uptown  220
     # (underground) dungeon (88*12/2) -> test in 000-06
     replace_sign  dungeon  528
-        
+    # witch's (40*11/2=220) -> test in 150-00
+    replace_sign  witch  220
+    # hut (24*11/2=132) -> test in 150-00
+    replace_sign  hut  132
+    # mysterious' shop  (40*11/2=220) -> test in 152-00
+    replace_sign  mysterious  220
+    # inn_room (24*11/2=132) -> test in 055-00
+    replace_sign  inn_room  132
+    # mine (24*11/2=132) -> test in 055-00
+    replace_sign  mine  132
+    # king's palace (40*11/2=220) -> test in 055-00
+    replace_sign  kings  220
+    # track (48*10/2=240) -> test in 055-00
+    replace_sign  track  240
+    # chase (64*11/2=352) -> test in 055-00
+    replace_sign  chase  352
+    # stones shop (40*11/2=220) -> test in 055-00
+    replace_sign  stone_shop  220
+    # "he" kana (8*5/2=20) -> test in 055-00, cleared
+    replace_sign  he_kana2  20
+    
+
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done

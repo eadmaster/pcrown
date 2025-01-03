@@ -6,7 +6,8 @@ if [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
 	exit 1
 fi
 
-FONT_DIR="_font_normal"  # Directory containing character BMP files
+#FONT_DIR="_font_normal"  # Directory containing character BMP files
+FONT_DIR="_font_condensed"  # Directory containing character BMP files
 OUTPUT_FILE="$@_eng.bmp"  # Output banner file
 TEXT="$@"  # Text to render
 
