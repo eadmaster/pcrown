@@ -12,7 +12,7 @@
  */
 #include <stdio.h>
 #include <string.h> /* For memset,memcpy */
-#include <time.h> /* for clock */
+#include <time.h>
 
 #include "vdp.h"
 #include "../compress.h"
@@ -97,19 +97,12 @@ void _main(void)
 
     while (1)
     { 
-        /*
+        /* linking issues, try with ... https://stackoverflow.com/questions/2150291/how-do-i-measure-a-time-interval-in-c
         if( time(0) - start > 10 ) {  // 10s timeout
             break; 
         }*/
         
         padData = ReadPad(pad_connected);
-
-        /* B : Load USB dev cart ROM code.
-        if (padData & PAD_B)
-        {
-            rom_usb_dev_cart_io();
-        }
-        *  */
 
         /* A,B,C or Start : exit splash screen. */
         if (padData & PAD_START)
