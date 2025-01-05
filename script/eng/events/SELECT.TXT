@@ -45,11 +45,11 @@
 22|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures live on today in the stories that the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good Queen?<pause><lineend><CC03EA>Why yes, she went on to become an even greater Queen than her Mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 23|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edwards travels didn't end there, but for this book, that's all.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edward's travels didn't end there, but for this book, that's all.<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a member of the Guard?<pause><lineend><CC03EA>I'm afraid you'll have to wait until next time to find out! Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 25|
-<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so, finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun story?<pause><lineend><CC03EA>Proserpina went on to cause Queen Gradriel all kinds of trouble in the years to come.<pause><lineend><CC03EA>In the end, though, she became a wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so, she finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun story?<pause><lineend><CC03EA>Proserpina went on to cause Queen Gradriel all kinds of trouble in the years to come.<pause><lineend><CC03EA>In the end, though, she became a wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 26|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Portgus kept the treasure with him for the rest of his life.<pause><lineend><CC03EA>...The End.<lineend>How did you like this one?<pause><lineend><CC03EA>What's that?<lineend>It made you a little sad?<pause><lineend><CC03EA>Don't worry, my dear. Portgus returned to the seas, where he lived a happy life.<pause><lineend><CC03EA>Together with Faris's jewel, that is.<pause><lineend>|
 27|
@@ -57,6 +57,6 @@
 28|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, ever-lasting peace fell over the whole kingdom.<pause><lineend><CC03EA>...and now, we've finished all the stories.<pause><lineend>|
 29|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandMother would read these to me again and again. <pause><lineend><CC03EA>Your great-grandMother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandmother would read these to me again and again. <pause><lineend><CC03EA>Your great-grandmother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
 30|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was Tabitha.<pause><lineend>|

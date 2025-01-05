@@ -81,7 +81,7 @@
 262148|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right, Edward.<pause><lineend><CC03EA>In Dorangora Village, I heard a wandering mercenary saw the Black Dragon.<pause><lineend>|
 262149|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Is that true!!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Is that true?!<pause><lineend>|
 262150|
 <CC03EA><CC03FC=0004><string=015C><color=0001>That's right.<pause><lineend>|
 262151|

@@ -23,7 +23,7 @@
 65544|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>It's bloody heavy!<pause><lineend><CC03EA>And it's just the thing. Please accept this in return for your help.<pause><lineend>|
 65545|
-<CC03EA><color=0002>Got the Land Stone!<pause><lineend>|
+<CC03EA><color=0002>Got the Earth Stone!<pause><lineend>|
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Dwarf King!<pause><lineend>|
 65547|

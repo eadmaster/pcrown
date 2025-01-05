@@ -17,7 +17,7 @@
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Heindel!<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The Dragons of the Land Stone and the Ocean Stone both passed away long ago.<pause><lineend><CC03EA>Evil corrupted the Dragon of the Sun Stone, but Edward has defeated him.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Dragons of the Earth Stone and the Ocean Stone both passed away long ago.<pause><lineend><CC03EA>Evil corrupted the Dragon of the Sun Stone, but Edward has defeated him.<pause><lineend>|
 65546|
 <CC03EA><color=0004><string=0104><lineend><color=0001>The final Gem exists inside of me.<pause><lineend>|
 65547|

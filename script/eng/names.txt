@@ -44,7 +44,7 @@ Parrot<lineend>
 Tabatha<lineend>
 Warriors' Leader<lineend>
 Wizards' Leader<lineend>
-Gild Leader<lineend>
+Guild Leader<lineend>
 Liar<lineend>
 Mayor<lineend>
 Dwarf King<lineend>
