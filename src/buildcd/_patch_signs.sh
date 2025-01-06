@@ -96,8 +96,10 @@ find *.CHR | while read chrfile; do
     replace_sign  uptown  220
     # (underground) dungeon (88*12/2) -> test in 000-06
     replace_sign  dungeon  528
-    # witch's (40*11/2=220) -> test in 150-00
+    # witch's (40*11/2=220) -> test in 150-00 as proserpina
     replace_sign  witch  220
+    # old (40*11/2=220) -> test in 153-00 as gradriel
+    replace_sign  old  220
     # hut (24*11/2=132) -> test in 150-00
     replace_sign  hut  132
     # mysterious' shop  (40*11/2=220) -> test in 152-00
@@ -112,11 +114,31 @@ find *.CHR | while read chrfile; do
     replace_sign  track  240
     # chase (64*11/2=352) -> test in 055-00
     replace_sign  chase  352
-    # stones shop (40*11/2=220) -> test in 055-00
+    # stones/gems shop (40*11/2=220) -> test in 055-00
     replace_sign  stone_shop  220
+    # tower (72*11/2=396) -> test in 036-00
+    replace_sign  tower  396
+    # out/exit (16*11/2=88) -> test in 038-01
+    replace_sign  out  88
+    # Goblin market (112*11/2=616) -> test in 154-00
+    replace_sign  goblin_market  616
+    # Volga castle (64*11/2=352) -> test in 081-00
+    replace_sign  volga_castle  352
+    # stone_shop2 (24*11/2=132) -> test in 081-00
+    replace_sign  stone_shop2  132
+    # aud_hall2 (48*12/2=288) -> test in 079-03
+    replace_sign  aud_hall2  288
+    # jadis' (72*11/2=396) -> test in 079-03
+    replace_sign  jadis  396
+    # Pumpkin House (96*11/2=528) -> test in 022-00
+    replace_sign  pumpkin_house  528
+    # cave (24*11/2=132) -> test in 047-00
+    replace_sign  cave  132
+    # southeast (40*11/2=220) -> test in 047-00
+    replace_sign  southeast  220
+
     # "he" kana (8*5/2=20) -> test in 055-00, cleared
     replace_sign  he_kana2  20
     
-
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done

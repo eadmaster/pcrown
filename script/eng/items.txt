@@ -185,9 +185,9 @@ Amethyst<lineend>
 Sapphire<lineend>
 Emerald<lineend>
 Diamond<lineend>
-Cooking Spice<lineend>
-Cooking Spice<lineend>
-Cooking Spice<lineend>
+Grilling Spice<lineend>
+Grilling Spice<lineend>
+Grilling Spice<lineend>
 Soup Spice<lineend>
 Soup Spice<lineend>
 Soup Spice<lineend>
@@ -195,7 +195,7 @@ Insect Powder<lineend>
 Round-Leaf Grass<lineend>
 Jagged-Leaf Grass<lineend>
 Sharp-Leaf Grass<lineend>
-Land Stone<lineend>
+Earth Stone<lineend>
 Time Stone<lineend>
 Music Score 1<lineend>
 Music Score 2<lineend>
@@ -218,22 +218,22 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All Health Restored<pause><lineend>
+<CC03EA><color=0000>All HP Restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP Restored<pause><lineend>
 <CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
 <CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
 <CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
 <CC03EA><color=0000>Stomach Full<lineend><pause>
 <CC03EA><color=0000>Max HP Increased<lineend><pause>
-<CC03EA><color=0000>Infinite Power!<lineend><pause>
+<CC03EA><color=0000>Infinite Power<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Health Restore<lineend>
-Health & Power Boost<lineend>
-Power Boost<lineend>
-Full Health Restore & Power Boost<lineend>
-Health Halved For Power Boost<lineend>
+HP Restore<lineend>
+HP Restore & Infinite Pow. For 30s<lineend>
+Infinite Power For 20s<lineend>
+Full HP Restore & Infinite Power<lineend>
+HP Halved & Infinite Power For 30s<lineend>
 
 
 
@@ -241,8 +241,8 @@ Health Halved For Power Boost<lineend>
 Temporary Invincibility For 20s<lineend>
 No Knockback & Easy Combo For 20s<lineend>
 Eat & Drink Quickly For 30s<lineend>
-Attack Power UP<lineend>
-Defense Power UP<lineend>
+Attack Power UP For 30s<lineend>
+Defense Power UP For 30s<lineend>
 Attack Power 10% UP<lineend>
 Attack Power 20% UP<lineend>
 Attack Power 30% UP<lineend>
@@ -266,12 +266,12 @@ Shoot Fireballs<lineend>
 Call Down Lightning<lineend>
 Shoot Ice Arrows<lineend>
 Rain Down Meteors<lineend>
-Health Restore & Damage Undead En.<lineend>
+HP Restore & Damage Undead Enemy<lineend>
 
 Change Weak Enemies Into Animals<lineend>
 Imbue Sword With Magic<lineend>
 Make Enemies Defenseless<lineend>
-Strong Wind Push The Enemy Away<lineend>
+Strong Winds Push The Enemy Away<lineend>
 Summon Goblin To Knock Enemy Down<lineend>
 Burn Undead Enemies<lineend>
 Items Won't Break<lineend>
@@ -283,9 +283,9 @@ Clone Attack On Enemies<lineend>
 Escape From Dungeon<lineend>
 Return To Last Save Point<lineend>
 Anti-Petrification<lineend>
-Cook Food With A Spice In Bag<lineend>
+Grill Food With A Spice In Bag<lineend>
 Make Soup With A Spice In Bag<lineend>
-Turn Gem Into Magic Stone & Refill<lineend>
+Turn Gem To Magic Stone Or Restore<lineend>
 Strengthen Items<lineend>
 Remove Curse From Item<lineend>
 Restore Consumable Item<lineend>
@@ -299,7 +299,7 @@ Throw At Enemies<lineend>
 
 
 
-Grow Elixir Fruit During Battle<lineend>
+Grow Elixir Fruits During Battle<lineend>
 Food Ingredient<lineend>
 Gem To Make Magic Stone With Mana<lineend>
 Use To Cook With The Soup Pot<lineend>
@@ -307,7 +307,7 @@ Use To Cook With The Frying Pan<lineend>
 Potion Ingredient<lineend>
 Sought By Heindel West Of Knelt<lineend>
 Use To Travel In Time<lineend>
-Give To Bard In Valenadine Town<lineend>
+Give To The Bard In Valenadine<lineend>
 Return To A Wizard In Cadho Badho<lineend>
 Open The Cave South Of Cemeteryth<lineend>
 Return To Its Owner In Volga Town<lineend>
@@ -339,14 +339,14 @@ Grow Bomb Plant During Battle<lineend>
 
 
 
-<CC03EA><CC03F4>'s attack blocked!<pause><lineend>
-<CC03EA><CC03F4>'s attack evaded!<pause><lineend>
+<CC03EA><CC03F4>'s attack blocked<pause><lineend>
+<CC03EA><CC03F4>'s attack evaded<pause><lineend>
 <CC03EA>Evade Mode<pause><lineend>
 <CC03EA>Side-Step<pause><lineend>
 <CC03EA>Back-Step<pause><lineend>
 <CC03EA>Use Item<pause><lineend>
 <CC03EA>Defend<pause><lineend>
-<CC03EA>No Power!<pause><lineend>
+<CC03EA>No Power<pause><lineend>
 <CC03EA><CC03F4> is frozen!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
@@ -358,16 +358,16 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><CC03F4> turned to gold!!<pause><lineend>
 <CC03EA><CC03F4> is breathing ice!<pause><lineend>
 <CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
-<CC03EA><CC03F4> called his friends!<pause><lineend>
+<CC03EA><CC03F4> called his friends<pause><lineend>
 <CC03EA><CC03F4> ate a heart fruit<pause><lineend>
 <CC03EA>Poison has made items hard to see<pause><lineend>
 <CC03EA>Now more poisoned, hallucinating<pause><lineend>
 <CC03EA><CC03F4> is slowly closing in<pause><lineend>
 <CC03EA><CC03F4> summoned lightning<pause><lineend>
-<CC03EA><CC03F4>s are ganging up on you!<pause><lineend>
+<CC03EA><CC03F4>s are ganging up on you<pause><lineend>
 <CC03EA><CC03F4> have scattered your items<pause><lineend>
 <CC03EA><CC03F4>'s arrow hit its mark<pause><lineend>
-<CC03EA>His partner is up to something!<pause><lineend>
+<CC03EA>His partner is up to something<pause><lineend>
 <CC03EA><CC03F4> ate some meat<pause><lineend>
 <CC03EA><CC03F4> waved a mysterious lamp<pause><lineend>
 <CC03EA><CC03F4> summoned a Banshee<pause><lineend>
@@ -408,8 +408,8 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s endurance up<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s curse is wearing off<lineend><pause>
-<CC03EA><color=0000><CC03F7>'s curse is dispelled<lineend><pause>
+<CC03EA><color=0000><CC03F7> curse is fading<lineend><pause>
+<CC03EA><color=0000><CC03F7> curse dispelled<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s endurance max<lineend><pause>
 <CC03EA><color=0000><CC03F7> is not cursed<lineend><pause>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
@@ -425,7 +425,7 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
 <CC03EA><color=0000><CC03F7> dropped<lineend><pause>
-<CC03EA><color=0000><CC03F7> effect vanished<lineend><pause>
+<CC03EA><color=0000><CC03F7> effect ended<lineend><pause>
 
 
 <CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>

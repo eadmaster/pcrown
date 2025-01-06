@@ -1,31 +1,31 @@
 0|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>You must bring me these things...<pause><lineend>|
 1|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Insect Powder x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Insect Powder x<CC03EC><pause><lineend>|
 2|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Round-Leaf Grass x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Round-Leaf Grass x<CC03EC><pause><lineend>|
 3|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Goblin Juice x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Goblin Juice x<CC03EC><pause><lineend>|
 4|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Fresh Milk x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Fresh Milk x<CC03EC><pause><lineend>|
 5|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Power Plant Seeds x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Power Plant Seeds x<CC03EC><pause><lineend>|
 6|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Drop of Mana x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Drop of Mana x<CC03EC><pause><lineend>|
 7|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Raw Dragon Meat x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Raw Dragon Meat x<CC03EC><pause><lineend>|
 8|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Vulcan Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Vulcan Magic Stone x<CC03EC><pause><lineend>|
 9|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Thunder Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Thunder Magic Stone x<CC03EC><pause><lineend>|
 10|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Thor Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Thor Magic Stone x<CC03EC><pause><lineend>|
 11|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Golgon Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Golgon Magic Stone x<CC03EC><pause><lineend>|
 12|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Star Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Star Magic Stone x<CC03EC><pause><lineend>|
 13|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Holy Magic Stone x<CC03EC>?<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Holy Magic Stone x<CC03EC><pause><lineend>|
 14|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Ho ho! Looks like you've gathered everything for the potion!<pause><lineend><CC03EA>You sit tight, and I'll get to work making it.<pause><lineend>|
 15|

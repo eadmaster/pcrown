@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>Would you care to be the first whom I sacrifice to the God of Darkness?<pause><lineend><CC03EA>Or would you prefer it be one of your sisters?<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>!!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Argh!<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>...so...much...hate...<pause><lineend>|
 65541|
@@ -17,7 +17,7 @@
 65544|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>But that crown of yours will be mine! And very soon!<pause><lineend>|
 131072|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Ugh...Where am I?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Ugh... Where am I?<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Is anybody here?<pause><lineend>|
 131074|
