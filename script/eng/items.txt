@@ -123,9 +123,9 @@ Vulcan Magic Stone<lineend>
 Thor Magic Stone<lineend>
 Thor Magic Stone<lineend>
 Thor Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
-Thunder Magic Stone<lineend>
+Tundra Magic Stone<lineend>
+Tundra Magic Stone<lineend>
+Tundra Magic Stone<lineend>
 Star Magic Stone<lineend>
 Star Magic Stone<lineend>
 Star Magic Stone<lineend>
@@ -260,7 +260,7 @@ Rebound Enemy Attacks<lineend>
 Freeze Attacking Enemies<lineend>
 Burn Attacking Enemies<lineend>
 No-Crouch Item Pick-Up<lineend>
-Defend Automaticaly<lineend>
+Defend Automatically<lineend>
 Unleash Petrification Beam<lineend>
 Shoot Fireballs<lineend>
 Call Down Lightning<lineend>

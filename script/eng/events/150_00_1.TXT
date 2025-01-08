@@ -17,11 +17,11 @@
 8|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Vulcan Magic Stone x<CC03EC><pause><lineend>|
 9|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Thunder Magic Stone x<CC03EC><pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Tundra Magic Stone x<CC03EC><pause><lineend>|
 10|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Thor Magic Stone x<CC03EC><pause><lineend>|
 11|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Golgon Magic Stone x<CC03EC><pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Gorgon Magic Stone x<CC03EC><pause><lineend>|
 12|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Star Magic Stone x<CC03EC><pause><lineend>|
 13|
@@ -45,11 +45,11 @@
 22|
 <CC03EA>You've brought enough<lineend>Vulcan Magic Stones.<pause><lineend>|
 23|
-<CC03EA>You've brought enough<lineend>Thunder Magic Stones.<pause><lineend>|
+<CC03EA>You've brought enough<lineend>Tundra Magic Stones.<pause><lineend>|
 24|
 <CC03EA>You've brought enough<lineend>Thor Magic Stones.<pause><lineend>|
 25|
-<CC03EA>You've brought enough<lineend>Golgon Magic Stones.<pause><lineend>|
+<CC03EA>You've brought enough<lineend>Gorgon Magic Stones.<pause><lineend>|
 26|
 <CC03EA>You've brought enough<lineend>Star Magic Stones.<pause><lineend>|
 27|

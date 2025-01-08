@@ -15,3 +15,4 @@ OPTIONAL:  test the new sign ingame:
     replace_sign  mysign  $MYSIGN_BIN_FILESIZE  # replace $WIDTH $HEIGHT $MYSIGN_BIN_FILESIZE with the correct values
  ````
  
+ TIP: to easily test these use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats). Alternatively, if using savestates, keep in mind the current ones are cached in RAM, so you must go through a black loading screen to reload from disk.

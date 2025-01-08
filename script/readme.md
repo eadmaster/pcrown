@@ -21,3 +21,5 @@ Events currently not parsed automatically due to bugs:
  - 015_00_1  https://github.com/eadmaster/pcrown/issues/30
  - 176_00_0  https://github.com/eadmaster/pcrown/issues/88
  - 041_00_1  https://github.com/eadmaster/pcrown/issues/71
+
+TIP: to easily test these use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats). Alternatively, if using savestates, keep in mind the current event file is cached in RAM, so you must go through a black loading screen to reload from disk.

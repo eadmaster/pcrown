@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome to the Goblin Shop!<pause><lineend><CC03EA>I'll let you have my Thunder Magic Stone for 112G!<pause><lineend><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>Gya ha ha!! Welcome to the Goblin Shop!<pause><lineend><CC03EA>I'll let you have my Tundra Magic Stone for 112G!<pause><lineend><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=012B><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
 2|
@@ -9,4 +9,4 @@
 4|
 <CC03EA><color=0005><string=012B><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
 5|
-<CC03EA><color=0005><string=012B><lineend><color=0001>Yaa ha ha!!<pause><lineend><CC03EA>Here you are! One Thunder Magic Stone!<pause><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>Yaa ha ha!!<pause><lineend><CC03EA>Here you are! One Tundra Magic Stone!<pause><lineend>|
