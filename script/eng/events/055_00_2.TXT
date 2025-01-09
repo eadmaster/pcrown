@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0099><lineend><color=0001>I'm sure the king is deeply grateful for your help.<pause><lineend>|
 11|
-<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot<lineend><endchoose>|
 12|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
 13|
@@ -37,7 +37,7 @@
 18|
 <CC03F0=01C5000B0001001E03FF00000000>|
 19|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see... I'll buy one of those... And one of these...<pause><lineend>|
 20|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Consider yourself a dear friend to all Dwarves!<pause><lineend><CC03EA>As long as you're here, please make yourself at home.<pause><lineend>|
 21|

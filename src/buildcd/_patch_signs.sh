@@ -28,7 +28,7 @@ replace_sign() {
     #return
     
     # binary search-replace  http://stahlworks.com/sfk-rep
-    sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes    
+    sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit   
     # TODO? replace with ucon64 -nbak --hreplace="S:R"
 }
 
@@ -116,8 +116,10 @@ find *.CHR | while read chrfile; do
     replace_sign  chase  352
     # stones/gems shop (40*11/2=220) -> test in 055-00
     replace_sign  stone_shop  220
-    # tower (72*11/2=396) -> test in 036-00
+    # (to the) tower (72*11/2=396) -> test in 036-00
     replace_sign  tower  396
+    # (to the) tower2 (72*11/2=396) -> test in 094-00 as Portgus
+    replace_sign  tower2  396
     # out/exit (16*11/2=88) -> test in 038-01
     replace_sign  out  88
     # Goblin market (112*11/2=616) -> test in 154-00
@@ -136,9 +138,22 @@ find *.CHR | while read chrfile; do
     replace_sign  cave  132
     # southeast (40*11/2=220) -> test in 047-00
     replace_sign  southeast  220
-
+    # Heindel's (72*11/2=396) -> test in 148-07
+    replace_sign  heindel  396
+    
     # "he" kana (8*5/2=20) -> test in 055-00, cleared
     replace_sign  he_kana2  20
     
     cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
 done
+
+# replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB
+sfk replace COCKPIT.CHB -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_eng.bin)/  -yes -firsthit   
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COCKPIT.CHB COCKPIT.CHB
+
+# fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
+# Portgas->Portgus banner
+#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
+sfk replace COMM.CHR -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_eng.bin)/  -yes -firsthit   
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COMM.CHR COMM.CHR

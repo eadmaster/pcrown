@@ -69,18 +69,6 @@ cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_1.EVN 
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
 source _patch_signs.sh
 
-# replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB
-sfk replace COCKPIT.CHB -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_eng.bin)/  -yes -firsthit   
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COCKPIT.CHB COCKPIT.CHB
-
-# fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
-# Portgas->Portgus banner
-#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
-sfk replace COMM.CHR -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_eng.bin)/  -yes -firsthit   
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COMM.CHR COMM.CHR
-
-
 # build xdelta patch
 xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
 

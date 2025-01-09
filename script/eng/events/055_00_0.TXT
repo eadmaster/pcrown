@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=0099><lineend><color=0001>The king loves smithing and inventing.<pause><lineend><CC03EA>There's even a special workshop for him in the castle.<pause><lineend>|
 12|
-<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot<lineend><endchoose>|
 13|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
 14|
@@ -39,7 +39,7 @@
 19|
 <CC03F0=01C5000B0001001E03FF00000000>|
 20|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see... I'll buy one of those... And one of these...<pause><lineend>|
 21|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Goodness, what a lovely human girl.<pause><lineend><CC03EA>You're like a beautiful Gem in this rough old kingdom of ours!<pause><lineend><CC03EA>By all means, take your time and enjoy your stay. Try the Truck-Chase!<pause><lineend><CC03EA>We haven't found a human yet who wasn't hooked once they got the hang of it!<pause><lineend><CC03ED=00EA001100030000>|
 22|

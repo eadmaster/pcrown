@@ -73,12 +73,21 @@ sfk setbytes 0.BIN 0xACC85  "LONG LONG AGO...  "  -yes
 sfk setbytes 0.BIN 0xACE01  " A"  -yes
 # "PARSONS HAPPENED TO BE REAL PORTGUS" -> "PARSON  HAPPENED TO BE REAL PORTGUS"
 sfk setbytes 0.BIN 0xACE3B  " "  -yes
-# "BUT THIS CAUSED THE GATE TO UNDERWORLD" -> "AND THIS OPENED THE GATE TO UNDERWORLD"
+# "BUT THIS CAUSED THE GATE TO UNDERWORLD" -> "AND THIS OPENED THE DEMON REALM'S GATE"
 sfk setbytes 0.BIN 0xACE91  "AND"  -yes
 sfk setbytes 0.BIN 0xACE9A  "OPEN"  -yes
+sfk setbytes 0.BIN 0xACE9A  "OPEN"  -yes
+sfk setbytes 0.BIN 0xACEA5  0x04  -yes
+sfk setbytes 0.BIN 0xACEA6  "DEMON REALM'S GATE"  -yes
 # "GRADRIEL WENT TO FACE THE GREATERDEMONS" -> "GRADRIEL WENT TO FACE THE DEMON KING"
 sfk setbytes 0.BIN 0xACED8  "DEMON KING   "  -yes
- 
+
+# fix Engrish in the save manager https://github.com/eadmaster/pcrown/issues/94
+# "The SAVE-FILE has crashed." -> "The SaveFile is corrupted"
+sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
+# "BACK-UP RAM is lacking." -> BACKUP RAM is insuff..
+#sfk setbytes 0.BIN 0xA40D5  "FILE is corrupt"  -yes
+
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #ucon64 --nbak --poke=1EB7F:01 0.BIN
 

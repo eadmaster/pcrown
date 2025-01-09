@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=0099><lineend><color=0001>The king must be happy!<pause><lineend>|
 14|
-<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0000><color=0001>What's a maid doing in a place like this?<lineend><choose>I know!<lineend>I forgot<lineend><endchoose>|
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Say, are you Jesse?<pause><lineend>|
 16|
@@ -43,13 +43,13 @@
 21|
 <CC03F0=01C5000B0001001E03FF00000000>|
 22|
-<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see...<lineend>And one of those...<lineend>And one of these...<pause><lineend>|
+<CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see... I'll buy one of those... And one of these...<pause><lineend>|
 23|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>What is the world coming to?<pause><lineend><CC03EA>A witch came along and stole the Truck-Chase, one of our only pastimes!<pause><lineend><CC03EA>Oh, will we ever be able to feel the wind in our beards again?<pause><lineend>|
 24|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>How's your sword working for you?<pause><lineend>|
 25|
-<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>The land always sings to us.<pause><lineend><CC03EA>The songs are about the wonders of life...the hardships, too...<pause><lineend>|
+<CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>The land always sings to us.<pause><lineend><CC03EA>The songs are about the wonders of life... the hardships, too...<pause><lineend>|
 26|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 27|
