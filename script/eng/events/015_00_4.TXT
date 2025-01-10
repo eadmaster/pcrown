@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0014><lineend><color=0001>We haven't had an earthquake like that in years.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0004><lineend><color=0001>If you go south of this village, you'll find the crypt town Cemeteryth.<pause><lineend><CC03EA>Beyond that is the village of <color=0002>Lowgrove,<color=0001> which lay in the middle of a big forest. <pause><lineend><CC03EA>The goatsmilk they have there is the best. Make sure you try some.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>If you go south of this village, you'll find the crypt town Cemeteryth.<pause><lineend><CC03EA>Beyond that is the village of <color=0002>Lowgrove,<color=0001> which lays in the middle of a big forest.<pause><lineend><CC03EA>The goatsmilk they have there is the best. Make sure you try some.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=000A><lineend><color=0001>My grandma told me something when I was little.<pause><lineend><CC03EA>Long ago, there was a Dragon that swallowed a musical score, or something like that.<pause><lineend><CC03EA>Whatever it was, the Dragon became so happy after he swallowed it...<pause><lineend><CC03EA>...he decided to retire to <color=0003>an old Dragon's nest in a cave south of here.<color=0001><pause><lineend>|
 4|

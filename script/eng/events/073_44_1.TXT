@@ -43,7 +43,7 @@
 65557|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>That is why I will now be taking yours!<lineend><CC03ED=00F70006000103FF><pause>|
 65558|
-<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Well well...Look at this.<lineend>Now I understand...<lineend><CC03ED=00F70006000103FF><pause>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Well well... Look at this.<lineend>Now I understand...<lineend><CC03ED=00F70006000103FF><pause>|
 65559|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You were fond of me, weren't you?<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>You leave me no choice.<lineend><CC03ED=00F70006000103FF><pause>|
 65560|
@@ -91,7 +91,7 @@
 196614|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon seemed to be under the spell of that same evil book.<pause><lineend>|
 196615|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Not...Not THAT book!?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Not... Not THAT book!?<pause><lineend>|
 196616|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon is working to bring Larva, the God of Darkness, into our world.<pause><lineend><CC03EA>He said he needs to seal away the two crowns of Valendia and Volga in order to do it.<pause><lineend>|
 196617|

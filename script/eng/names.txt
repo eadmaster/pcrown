@@ -41,7 +41,7 @@ Hamster<lineend>
 Nilus<lineend>
 Horse<lineend>
 Parrot<lineend>
-Tabatha<lineend>
+Tabitha<lineend>
 Warriors' Leader<lineend>
 Wizards' Leader<lineend>
 Guild Leader<lineend>

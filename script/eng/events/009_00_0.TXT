@@ -59,7 +59,7 @@
 65545|
 <CC03EA><color=0004><string=0187><lineend><color=0001>This is part of my training to become a great and powerful witch!<pause><lineend><CC03EA>Besides, who's really going to get mad that I turned a couple dumb kids into animals?<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The villagers are all mad the fairies. They think this is some kind of a prank they're pulling.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The villagers are all mad at the fairies. They think this is some kind of a prank they're pulling.<pause><lineend>|
 65547|
 <CC03EA><color=0004><string=0187><lineend><color=0001>Ha! That's great!<pause><lineend><CC03EA>I was going to blame it all on the fairies anyway!<pause><lineend>|
 65548|
