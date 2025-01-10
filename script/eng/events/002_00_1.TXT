@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Do you suppose Queen Gradriel has returned to the castle by now?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Valenadine is a beautiful place. We take pride in both our city and our Queen. <pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Valenadine is a beautiful place. We take pride in both our city and our Queen.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=002E><lineend><color=0001>On days like today, when the weather is nice...<pause><lineend><CC03EA>...the Princesses often stand on their balconies, where everyone may gaze upon them.<pause><lineend><CC03EA>We haven't seen Princess Eriel recently, though. I wonder if she's all right?<pause><lineend>|
 3|
@@ -41,9 +41,9 @@
 20|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That was very pretty.<pause><lineend><CC03EA>I hope it's not rude to ask, but are you the "prisoner of the harp?"<pause><lineend>|
 21|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided take a rest from my search and spend some time in this town.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided to take a rest from my search and spend some time in this town.<pause><lineend>|
 22|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided take a rest from my search and spend some time in this town.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided to take a rest from my search and spend some time in this town.<pause><lineend>|
 23|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Young lady, is that a Goddess Score you have there?<pause><lineend><CC03EA>Please allow me to have it. I beg of you.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000A>|
 24|
@@ -107,9 +107,9 @@
 53|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 54|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 55|
-<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 56|
 <CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
 57|

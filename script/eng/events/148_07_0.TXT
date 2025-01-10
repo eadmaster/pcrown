@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I've heard you can tell people anything they want to know.<pause><lineend><CC03EA>Well, I want to know something.<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=0104><lineend><color=0001>You left your shipmates to come here, so it must be something important...Portgus.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>You left your shipmates to come here, so it must be something important... Portgus.<pause><lineend>|
 65540|
 <CC03EA><color=0003><string=0003><lineend><color=0001>You know who I am?<pause><lineend><CC03EA>It sounds like "they" were right.<pause><lineend>|
 65541|
@@ -23,7 +23,7 @@
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his name...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path. <color=0001>Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path.<color=0001>Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
 65549|
 <CC03EA><color=0004><string=0104><lineend><color=0001>That Demon possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is mine now.<pause><lineend>|
 65550|

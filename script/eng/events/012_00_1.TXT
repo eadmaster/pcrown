@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0005><string=009B><lineend><color=0001>Tra la di...<lineend>Tra la da...<pause><lineend><CC03EA>Another fine day to snatch some items!<pause><lineend><CC03EA>Let an item sit on the ground too long, and we'll be right along to take it!<pause><lineend>|
 2|
-<CC03EA><color=0005><string=009C><lineend><color=0001>These mushrooms...They taste like honey... <pause><lineend><CC03EA>...I can't stop eating them!<pause><lineend><CC03EA>Magic Mushrooms are so good, you won't want to stop at one.<pause><lineend><CC03EA>All it takes is one bite, and WHAM-O!<pause><lineend><CC03EA>You'll have more energy than you'll know what to do with. Wa ha haa!!<pause><lineend>|
+<CC03EA><color=0005><string=009C><lineend><color=0001>These mushrooms... They taste like honey...<pause><lineend><CC03EA>...I can't stop eating them!<pause><lineend><CC03EA>Magic Mushrooms are so good, you won't want to stop at one.<pause><lineend><CC03EA>All it takes is one bite, and WHAM-O!<pause><lineend><CC03EA>You'll have more energy than you'll know what to do with. Wa ha haa!!<pause><lineend>|
 3|
 <CC03EA><color=0005><string=009D><lineend><color=0001>Hee hee hee...<lineend>You there. Little girl.<pause><lineend><CC03EA>Have some Goblin Juice. It's good stuff! It'll put some meat on those bones of yours, too.<pause><lineend>|
 4|
@@ -23,11 +23,11 @@
 11|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 12|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 13|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have anything!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute... You don't have anything!<pause><lineend>|
 14|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that piece of junk!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr... What would I want with that piece of junk!<pause><lineend>|
 15|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swallow sometime. You'll be in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
 16|
@@ -37,9 +37,9 @@
 18|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 19|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 20|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are...Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are... Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
 21|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Hee hee hee! Welcome!! Have yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you gonna do?<pause><lineend>|
 22|
@@ -59,7 +59,7 @@
 29|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 30|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Er...A what scroll?<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Er... A what scroll?<pause><lineend>|
 31|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Don't play dumb with me.<pause><lineend><CC03EA>I'm here for the Reflect Scroll you stole from a Wizard in Amberstep.<pause><lineend><CC03EA>Hand it over, please!<pause><lineend>|
 32|
@@ -67,7 +67,7 @@
 33|
 <CC03F0=01BA00560000001903FF00000000>|
 34|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Huh...That's funny...<pause><lineend><CC03EA>I can't seem to find it! Ha ha!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Huh... That's funny...<pause><lineend><CC03EA>I can't seem to find it! Ha ha!<pause><lineend>|
 35|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>I'll need time to search the whole place. You go wait outside!<pause><lineend>|
 36|
@@ -89,7 +89,7 @@
 44|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Grr...<pause><lineend>|
 45|
-<CC03EA><color=0005><string=009F><lineend><color=0001>Oi oi...You don't have room for it!<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>Oi oi... You don't have room for it!<pause><lineend>|
 46|
 <CC03EA><color=0005><string=009F><lineend><color=0001>Here, take it. It's yours.<pause><lineend>|
 47|
@@ -99,6 +99,6 @@
 49|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Whoa, whoa! OK! We lost already. Sheesh!<pause><lineend>|
 50|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...You don't have room for it!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi... You don't have room for it!<pause><lineend>|
 51|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Here, take it. It's yours.<pause><lineend>|

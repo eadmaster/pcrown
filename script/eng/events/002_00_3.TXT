@@ -59,7 +59,7 @@
 29|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>What's this? How strange...<pause><lineend><CC03EA>You don't seem to belong to this time period.<pause><lineend><CC03EA>Have you become lost in time, my dear? You poor thing...<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>What's this? How strange...<pause><lineend><CC03EA>You don't seem to belong to this time period.<pause><lineend><CC03EA>Have you become lost in time, my dear? You poor thing...<pause><lineend>|
 31|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome...<lineend>How about some Potions for your journey?<pause><lineend><CC03EA>I'll mix up anything you want with the ingredients you have.<pause><lineend>|
 32|

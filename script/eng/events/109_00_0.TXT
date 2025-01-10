@@ -73,9 +73,9 @@
 36|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 37|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 38|
-<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 39|
 <CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
 40|

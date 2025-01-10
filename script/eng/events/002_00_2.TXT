@@ -35,7 +35,7 @@
 17|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That was very pretty.<pause><lineend><CC03EA>I hope it's not rude to ask, but are you the "prisoner of the harp?"<pause><lineend>|
 18|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided take a rest from my search and spend some time in this town.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided to take a rest from my search and spend some time in this town.<pause><lineend>|
 19|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided to take a rest from searching for the scores and spend some time in this town.<pause><lineend>|
 20|
@@ -99,9 +99,9 @@
 49|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 50|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic square will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 51|
-<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Do it<lineend>Don't<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 52|
 <CC03EA><color=0006><string=008D><lineend><color=0001>Where will you go? Select your destination.<pause><lineend>|
 53|
