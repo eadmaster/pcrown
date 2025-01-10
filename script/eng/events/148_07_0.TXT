@@ -19,7 +19,7 @@
 65545|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I'll tell you the answer.<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The Demon you are searching for is called Shadow.<pause><lineend><CC03EA>He lives in <color=0002>the tower in the Forest of Enchantment.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The Demon you are searching for is called Shadow.<pause><lineend><CC03EA>He lives in <color=0002>a tower in a magic forest.<color=0001><pause><lineend>|
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his name...<pause><lineend>|
 65548|

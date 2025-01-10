@@ -90,7 +90,7 @@ Angel Boots<lineend>
 Alchemist Ring<lineend>
 Flight Ring<lineend>
 Heat Ring<lineend>
-Freeze Ring<lineend>
+Cold Ring<lineend>
 Spiked Shield<lineend>
 Frozen-Eye Shield<lineend>
 Fire Dragon Shield<lineend>
@@ -108,7 +108,7 @@ Angel Boots<lineend>
 Alchemist Ring<lineend>
 Flight Ring<lineend>
 Heat Ring<lineend>
-Freeze Ring<lineend>
+Cold Ring<lineend>
 Spiked Shield<lineend>
 Frozen-Eye Shield<lineend>
 Fire Dragon Shield<lineend>
@@ -218,110 +218,110 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All HP Restored<pause><lineend>
-<CC03EA><color=0000><CC03EC> HP Restored<pause><lineend>
+<CC03EA><color=0000>All HP restored<pause><lineend>
+<CC03EA><color=0000><CC03EC> HP restored<pause><lineend>
 <CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
 <CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
 <CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
-<CC03EA><color=0000>Stomach Full<lineend><pause>
-<CC03EA><color=0000>Max HP Increased<lineend><pause>
+<CC03EA><color=0000>Stomach full<lineend><pause>
+<CC03EA><color=0000>Max HP increased<lineend><pause>
 <CC03EA><color=0000>Infinite Power<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-HP Restore<lineend>
-HP Restore & Infinite Pow. For 30s<lineend>
-Infinite Power For 20s<lineend>
-Full HP Restore & Infinite Power<lineend>
-HP Halved & Infinite Power For 30s<lineend>
+Restore HP<lineend>
+Restore HP & Infinite Pow. for 30s<lineend>
+Infinite Power for 20s<lineend>
+Restore Full HP & Infinite Power<lineend>
+HP Halved & Infinite Power for 30s<lineend>
 
 
 
 
-Temporary Invincibility For 20s<lineend>
-No Knockback & Easy Combo For 20s<lineend>
-Eat & Drink Quickly For 30s<lineend>
-Attack Power UP For 30s<lineend>
-Defense Power UP For 30s<lineend>
-Attack Power 10% UP<lineend>
-Attack Power 20% UP<lineend>
-Attack Power 30% UP<lineend>
-Make More Critical Hits<lineend>
+Temporary invincibility for 20s<lineend>
+No knockback & easy combo for 20s<lineend>
+Eat & drink quickly for 30s<lineend>
+Attack UP for 30s<lineend>
+Defense UP for 30s<lineend>
+Attack 10% UP<lineend>
+Attack 20% UP<lineend>
+Attack 30% UP<lineend>
+Make more critical hits<lineend>
 Defense 20% UP<lineend>
 Defense 50% UP<lineend>
-Automatically Evade<lineend>
+Evade automatically<lineend>
 Speed UP<lineend>
 Jump UP<lineend>
-Attacking Creates Coins<lineend>
-Double Jump Possible<lineend>
-Ice Defense UP<lineend>
-Fire Defense UP<lineend>
-Rebound Enemy Attacks<lineend>
-Freeze Attacking Enemies<lineend>
-Burn Attacking Enemies<lineend>
-No-Crouch Item Pick-Up<lineend>
-Defend Automatically<lineend>
-Unleash Petrification Beam<lineend>
-Shoot Fireballs<lineend>
-Call Down Lightning<lineend>
-Shoot Ice Arrows<lineend>
-Rain Down Meteors<lineend>
-HP Restore & Damage Undead Enemy<lineend>
+Attacking creates coins<lineend>
+Double jump possible<lineend>
+Ice Defense 50% UP<lineend>
+Fire Defense 50% UP<lineend>
+Rebound enemy attacks<lineend>
+Freeze enemies on contact<lineend>
+Burn enemies on contact<lineend>
+No-crouch item pick-up<lineend>
+Defend automatically<lineend>
+Unleash petrification beam<lineend>
+Shoot fireballs<lineend>
+Call down lightning<lineend>
+Shoot ice arrows<lineend>
+Rain down meteors<lineend>
+Restore HP & damage undead enemy<lineend>
 
-Change Weak Enemies Into Animals<lineend>
-Imbue Sword With Magic<lineend>
-Make Enemies Defenseless<lineend>
-Strong Winds Push The Enemy Away<lineend>
-Summon Goblin To Knock Enemy Down<lineend>
-Burn Undead Enemies<lineend>
-Items Won't Break<lineend>
-Drop Boulder With Earthquake<lineend>
-Sword Gains Fire Magic<lineend>
-Sword Gains Lightning Magic<lineend>
-Turn Enemy Into Gold Statue<lineend>
-Clone Attack On Enemies<lineend>
-Escape From Dungeon<lineend>
-Return To Last Save Point<lineend>
-Anti-Petrification<lineend>
-Grill Food With A Spice In Bag<lineend>
-Make Soup With A Spice In Bag<lineend>
-Turn Gem To Magic Stone Or Restore<lineend>
-Strengthen Items<lineend>
-Remove Curse From Item<lineend>
-Restore Consumable Item<lineend>
-Check Item For Curse<lineend>
-Throwing Sword<lineend>
-Magic Throwing Sword<lineend>
-Throw At Flying Enemies<lineend>
-Explodes Where Dropped<lineend>
-Damage Undead Enemies<lineend>
-Throw At Enemies<lineend>
+Change weak enemies into animals<lineend>
+Imbue sword with magic<lineend>
+Make enemies defenseless<lineend>
+Strong winds push the enemy away<lineend>
+Summon Goblin to knock enemy down<lineend>
+Burn undead enemies<lineend>
+Items won't break<lineend>
+Drop boulder with earthquake<lineend>
+Sword gains fire magic<lineend>
+Sword gains lightning magic<lineend>
+Turn enemy into gold statue<lineend>
+Clone attack on enemies<lineend>
+Escape from dungeon<lineend>
+Reload from last save<lineend>
+Anti-petrification<lineend>
+Grill Food with a Spice in bag<lineend>
+Make Soup with a Spice in bag<lineend>
+Turn Gem to Magic Stone or restore<lineend>
+Strengthen items<lineend>
+Remove curse from item<lineend>
+Restore consumable item<lineend>
+Check item for curse<lineend>
+Throwing sword<lineend>
+Magic throwing sword<lineend>
+Throw at flying enemies<lineend>
+Explodes where dropped<lineend>
+Damage undead enemies<lineend>
+Throw at enemies<lineend>
 
 
 
-Grow Elixir Fruits During Battle<lineend>
+Grow Elixir Fruit during battle<lineend>
 Food Ingredient<lineend>
-Gem To Make Magic Stone With Mana<lineend>
-Use To Cook With The Soup Pot<lineend>
-Use To Cook With The Frying Pan<lineend>
+Gem to make Magic Stone with Mana<lineend>
+Use to cook with the Soup Pot<lineend>
+Use to cook with the Frying Pan<lineend>
 Potion Ingredient<lineend>
-Sought By Heindel West Of Knelt<lineend>
-Use To Travel In Time<lineend>
-Give To The Bard In Valenadine<lineend>
-Return To A Wizard In Cadho Badho<lineend>
-Open The Cave South Of Cemeteryth<lineend>
-Return To Its Owner In Volga Town<lineend>
-Senses Enemies<lineend>
-Lend A Hand In Battle<lineend>
-Give Items During Battle<lineend>
-Give Potions During Battle<lineend>
-Combo Attack In Battle<lineend>
-Dispel Curses<lineend>
-Bombard Enemies In Battle<lineend>
-Offer Healing In Battle<lineend>
-Grow Healing Flower During Battle<lineend>
-Grow Power Flower During Battle<lineend>
-Grow Bomb Plant During Battle<lineend>
+Sought by Heindel west of Knelt<lineend>
+Use to travel in time<lineend>
+Give to the Bard in Valenadine<lineend>
+Return to a Wizard in Cadho Badho<lineend>
+Open the cave south of Cemeteryth<lineend>
+Return to its owner in Volga Town<lineend>
+Senses enemies<lineend>
+Lend a hand in battle<lineend>
+Give items during battle<lineend>
+Give potions during battle<lineend>
+Combo attack in battle<lineend>
+Dispel curses<lineend>
+Bombard enemies in battle<lineend>
+Offer healing in battle<lineend>
+Grow Healing Flower during battle<lineend>
+Grow Power Flower during battle<lineend>
+Grow Bomb Plant during battle<lineend>
 
 
 
@@ -385,7 +385,7 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><CC03F4> will blast you with fire<pause><lineend>
 <CC03EA><CC03F4> released evil magic<pause><lineend>
 <CC03EA><CC03F4> was sacrificed<pause><lineend>
-<CC03EA><CC03F4> summoned poisonous snakes<pause><lineend>
+<CC03EA><CC03F4> summoned snakes<pause><lineend>
 <CC03EA><CC03F4> summoned an ice devil<pause><lineend>
 <CC03EA><CC03F4> has controlled the dead<pause><lineend>
 <CC03EA><CC03F4> summoned a ghost<pause><lineend>
@@ -428,16 +428,16 @@ Grow Bomb Plant During Battle<lineend>
 <CC03EA><color=0000><CC03F7> effect ended<lineend><pause>
 
 
-<CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>
-<CC03EA>In the name of all mighty Queens!!<pause><lineend>
-<CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
-<CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
-<CC03EA>I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
-<CC03EA>Sword! Embody my anger!!<pause><lineend>
-<CC03EA>Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
-<CC03EA>It's been fun. Bye now!!<pause><lineend>
-<CC03EA>Enough! Just die already!!<pause><lineend>
-<CC03EA>You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
-<CC03EA>You almost had me.<lineend>Now it's my turn!<pause><lineend>
-<CC03EA>You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
+Sword! Grant me strength<lineend>and courage!!<pause><lineend>
+In the name of the Queen,<lineend>I can't lose!<pause><lineend>
+If I land another hit,<lineend>I hope it's this one!<pause><lineend>
+Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
+I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
+Sword! Embody my anger!!<pause><lineend>
+Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
+It's been fun. Bye now!!<pause><lineend>
+Enough! Just die already!!<pause><lineend>
+You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
+You almost had me.<lineend>Now it's my turn!<pause><lineend>
+You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
 <CC03F3=0000><CC03EA>I sense monsters nearby<pause><lineend>

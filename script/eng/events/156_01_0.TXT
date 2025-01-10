@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>I don't trust that Edward fellow one bit!<pause><lineend><CC03EA>Right now he says he's here to help slay Dragons...<pause><lineend><CC03EA>Next thing you know, his evil blood will kick in and he'll stab us all in the back!<pause><lineend><CC03EA>We all better keep an eye on that guy.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=004F><lineend><color=0001>Who in their right mind ever said a Dragon is like a big lizard!?<pause><lineend><CC03EA>I never met a lizard that could turn you into a pile of cinders with its breath!<pause><lineend><CC03EA>They'd be holding my funeral now if I hadn't been wearing my Freeze Ring.<pause><lineend>|
+<CC03EA><color=0006><string=004F><lineend><color=0001>Who in their right mind ever said a Dragon is like a big lizard!?<pause><lineend><CC03EA>I never met a lizard that could turn you into a pile of cinders with its breath!<pause><lineend><CC03EA>They'd be holding my funeral now if I hadn't been wearing my Cold Ring.<pause><lineend>|
 2|
 <CC03FA=0002000300000000000003FF000A003C0000>|
 3|
