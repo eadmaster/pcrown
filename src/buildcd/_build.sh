@@ -4,7 +4,7 @@
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 # Requirements:
-# - apt install iat  p7zip-full  xdelta3  wine  python3  xxd
+# - apt install iat  p7zip-full  xdelta3  wine  python3
 # - cd-replace (manual install) https://github.com/mistydemeo/cd-replace
 # - ucon64 (manual install)  https://ucon64.sourceforge.io/
 # - skf (manual install)  https://sourceforge.net/projects/swissfileknife/
@@ -30,7 +30,7 @@ cp "Princess Crown (Japan) (1M) (Track 01).iso" "Princess Crown (Japan) (1M) (Tr
 # patch font, items and names -> alters 0.BIN, KANJI.BIN
 source _patch_items.sh
 
-# update events
+# patch events
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.EVN
 # enforce correct line splitting
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
@@ -66,7 +66,7 @@ ucon64 --nbak --poke=1003:90 061_00_1.EVN.eng  # not sure if really needed
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_2.EVN  061_00_2.EVN.eng
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 061_00_1.EVN  061_00_1.EVN.eng
 
-# doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
+# patch doorway signs and other gfx elements
 source _patch_signs.sh
 
 # build xdelta patch

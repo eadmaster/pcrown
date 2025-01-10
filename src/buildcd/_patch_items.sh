@@ -69,10 +69,11 @@ ucon64 --nbak --poke=4777B:17 0.BIN
 #sfk setbytes 0.BIN 0xACC8C  "TIME"  -yes
 # "A LONG LONG AGO..." -> "LONG LONG AGO..."
 sfk setbytes 0.BIN 0xACC85  "LONG LONG AGO...  "  -yes
-# PROSERPINA RUN A WAY AT TOP SPEED -> PROSERPINA RUN AWAY AT TOP SPEED
-sfk setbytes 0.BIN 0xACE01  " A"  -yes
+# PROSERPINA RUN A WAY AT TOP SPEED -> PROSERPINA RAN AWAY AT TOP SPEED
+#sfk setbytes 0.BIN 0xACDFD  "RAN AWAY AT TOP SPEED "  -yes
+sfk setbytes 0.BIN 0xACDFD  "FLED AT FULL SPEED    "  -yes
 # "PARSONS HAPPENED TO BE REAL PORTGUS" -> "PARSON  HAPPENED TO BE REAL PORTGUS"
-sfk setbytes 0.BIN 0xACE3B  " "  -yes
+sfk setbytes 0.BIN 0xACE35  " PARSON"  -yes
 # "BUT THIS CAUSED THE GATE TO UNDERWORLD" -> "AND THIS OPENED THE DEMON REALM'S GATE"
 sfk setbytes 0.BIN 0xACE91  "AND"  -yes
 sfk setbytes 0.BIN 0xACE9A  "OPEN"  -yes
@@ -98,3 +99,27 @@ sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
 
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
+
+
+# TODO: move in _patch_signs.sh
+
+# fix Engrish in enemy names https://github.com/eadmaster/pcrown/issues/93
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.PRG
+sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes -firsthit 
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" DOHDOH.PRG  DOHDOH.PRG
+sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" CEYE.PRG  CEYE.PRG
+#overflow sfk replace HIND.PRG -text '/HINDEL/HEINDEL/'  / -yes
+#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" HIND.PRG  HIND.PRG
+sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECROSAMANTHA/'  -yes
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" NECRO.PRG  NECRO.PRG
+sfk replace RYON.PRG -text '/RYON/LEON/'  -yes
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" RYON.PRG  RYON.PRG
+sfk replace SIRENE.PRG -text '/SIRENE/SIREN /'  -yes
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" SIRENE.PRG  SIRENE.PRG
+sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
+cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" WGOD.PRG  WGOD.PRG
+
+# fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
+#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
+# WIP

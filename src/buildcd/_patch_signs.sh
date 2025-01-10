@@ -5,9 +5,15 @@
 
 export SIGNS_PATH=../../signs
 
-
 # turn a file into an hex string
-file2hexstr() { xxd -p -c 10000  "$1" | tr 1 F ; }   
+#file2hexstr() { xxd -p -c 10000 "$1" ; }   
+file2hexstr() { sfk hexdump -raw "$1" ; }   
+file2hexstr_sign() { sfk hexdump -raw "$1" | tr 1 F ; }   # fixes pixel values on signs converted via bmp2bin
+
+# binary file search & replace
+# using sfk http://stahlworks.com/sfk-rep
+# TODO? replace with ucon64 -nbak --hreplace="S:R"
+file_patch() { sfk replace $1 -binary /$2/$3/ -yes -firsthit ; }
 
 replace_sign() {
     FILEBASENAME=${SIGNS_PATH}/$1
@@ -21,27 +27,28 @@ replace_sign() {
 		return
 	fi
     
-    SIGN_JAP_HEX_STR=$(file2hexstr ${FILEBASENAME}_jap.bin)
-    SIGN_ENG_HEX_STR=$(file2hexstr ${FILEBASENAME}_eng.bin)
-    #echo $SIGN_JAP_HEX_STR
-    #echo $SIGN_ENG_HEX_STR
-    #return
+    SIGN_JAP_HEX_STR=$(file2hexstr_sign ${FILEBASENAME}_jap.bin)
+    SIGN_ENG_HEX_STR=$(file2hexstr_sign ${FILEBASENAME}_eng.bin)
     
-    # binary search-replace  http://stahlworks.com/sfk-rep
-    sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit   
-    # TODO? replace with ucon64 -nbak --hreplace="S:R"
+    # binary search-replace 
+    #sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit   
+    file_patch $chrfile $SIGN_JAP_HEX_STR $SIGN_ENG_HEX_STR
 }
 
-# extract all files with signs gfx
+# extract all files with gfx elements
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.CHR
 
+# TODO: extract original *_jap.bin signs with sfk http://stahlworks.com/sfk-partcopy
+# sfk partcopy infile -fromto startoffset  
+
+# doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
 # interate over the extracted files and replace all signs found
 find *.CHR | while read chrfile; do 
-    # PUB signs (24*11/2 = 132 bytes)
+    # Pub (24*11/2 = 132 bytes)
     replace_sign  pub  132
-    # NPC signs (24*11/2)
+    # NPC (24*11/2)
     replace_sign  npc  132
-    # shop sign (16*11/2 = 88 bytes)
+    # shop (16*11/2 = 88 bytes)
     replace_sign  shop  88
     # Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
     replace_sign  med_shop  88
@@ -148,12 +155,12 @@ find *.CHR | while read chrfile; do
 done
 
 # replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB
-sfk replace COCKPIT.CHB -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/save_begin_eng.bin)/  -yes -firsthit   
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB  
+file_patch COCKPIT.CHB $(file2hexstr ${SIGNS_PATH}/save_begin_jap.bin) $(file2hexstr ${SIGNS_PATH}/save_begin_eng.bin)
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COCKPIT.CHB COCKPIT.CHB
 
 # fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
-# Portgas->Portgus banner
-#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
-sfk replace COMM.CHR -binary /$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_jap.bin)/$( xxd -p -c 10000 ${SIGNS_PATH}/portgus_eng.bin)/  -yes -firsthit   
+# PORTGAS->PORTGUS banner
+#ALREADY EXTRACTED: s7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
+file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
 cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COMM.CHR COMM.CHR
