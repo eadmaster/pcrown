@@ -32,8 +32,8 @@ Dwarf<lineend>
 Goblin<lineend>
 Ghost<lineend>
 Ghoul<lineend>
-Doh Doh<lineend>
-Gold Doh Doh<lineend>
+Dodo<lineend>
+Gold Dodo<lineend>
 Frogger<lineend>
 Myconid<lineend>
 Goat<lineend>

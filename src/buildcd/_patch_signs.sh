@@ -4,6 +4,8 @@
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 export SIGNS_PATH=../../signs
+#export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
+export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 
 # turn a file into an hex string
 #file2hexstr() { xxd -p -c 10000 "$1" ; }   
@@ -151,16 +153,37 @@ find *.CHR | while read chrfile; do
     # "he" kana (8*5/2=20) -> test in 055-00, cleared
     replace_sign  he_kana2  20
     
-    cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  $chrfile $chrfile
+    cd-replace  "$PATCHED_IMAGE_FILE"  $chrfile $chrfile
 done
 
 # replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB  
 file_patch COCKPIT.CHB $(file2hexstr ${SIGNS_PATH}/save_begin_jap.bin) $(file2hexstr ${SIGNS_PATH}/save_begin_eng.bin)
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COCKPIT.CHB COCKPIT.CHB
+cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
 
 # fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
 # PORTGAS->PORTGUS banner
 #ALREADY EXTRACTED: s7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" COMM.CHR COMM.CHR
+cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
+
+# fix Engrish in enemy banner names https://github.com/eadmaster/pcrown/issues/93
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.PRG
+sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
+cd-replace "$PATCHED_IMAGE_FILE"  DOHDOH.PRG  DOHDOH.PRG
+sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
+cd-replace "$PATCHED_IMAGE_FILE" CEYE.PRG  CEYE.PRG
+#overflow sfk replace HIND.PRG -text '/HINDEL/HEINDEL/'  / -yes
+#cd-replace  "$PATCHED_IMAGE_FILE" HIND.PRG  HIND.PRG
+sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECROSAMANTHA/'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  NECRO.PRG  NECRO.PRG
+sfk replace RYON.PRG -text '/RYON/LEON/'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  RYON.PRG  RYON.PRG
+sfk replace SIRENE.PRG -text '/SIRENE/SIREN /'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  SIRENE.PRG  SIRENE.PRG
+sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  WGOD.PRG  WGOD.PRG
+
+# fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
+#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
+# WIP

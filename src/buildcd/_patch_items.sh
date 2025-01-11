@@ -2,7 +2,8 @@
 
 export CD_PATH=../../cd
 export TRANSLATED_SCRIPT_PATH=../../script/eng
-
+#export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
+export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 
 # patch the font
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" KANJI.BIN
@@ -90,36 +91,12 @@ sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
 #sfk setbytes 0.BIN 0xA40D5  "FILE is corrupt"  -yes
 
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
-#ucon64 --nbak --poke=1EB7F:01 0.BIN
+ucon64 --nbak --poke=1EB7F:01 0.BIN
 
 # add splashscreen -> freezes with cheats enabled on startup
 #mv 0.BIN  0_org.BIN
 #wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
 #rm 0_org.BIN
 
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" 0.BIN  0.BIN
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" KANJI.BIN  KANJI_ENG.BIN
-
-
-# TODO: move in _patch_signs.sh
-
-# fix Engrish in enemy names https://github.com/eadmaster/pcrown/issues/93
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.PRG
-sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes -firsthit 
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" DOHDOH.PRG  DOHDOH.PRG
-sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" CEYE.PRG  CEYE.PRG
-#overflow sfk replace HIND.PRG -text '/HINDEL/HEINDEL/'  / -yes
-#cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" HIND.PRG  HIND.PRG
-sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECROSAMANTHA/'  -yes
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" NECRO.PRG  NECRO.PRG
-sfk replace RYON.PRG -text '/RYON/LEON/'  -yes
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" RYON.PRG  RYON.PRG
-sfk replace SIRENE.PRG -text '/SIRENE/SIREN /'  -yes
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" SIRENE.PRG  SIRENE.PRG
-sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
-cd-replace  "Princess Crown (Japan) (1M) (Track 01) (English).iso" WGOD.PRG  WGOD.PRG
-
-# fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
-#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
-# WIP
+cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
+cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN
