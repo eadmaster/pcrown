@@ -3,7 +3,7 @@
 1|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Hello, young lady. Tell me, have you ever heard of a Unicorn?<pause><lineend><CC03EA>They're beautiful white horses with long horns...<pause><lineend><CC03EA>...horns which glimmer with the seven colors of the rainbow.<pause><lineend><CC03EA>They also have very mysterious powers...or so they say.<pause><lineend><CC03EA>I've never seen one myself.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Hello, young lady. Tell me, have you ever heard of a Unicorn?<pause><lineend><CC03EA>They're beautiful white horses with long horns...<pause><lineend><CC03EA>...horns which glimmer with the seven colors of the rainbow.<pause><lineend><CC03EA>They also have very mysterious powers... or so they say.<pause><lineend><CC03EA>I've never seen one myself.<pause><lineend>|
 3|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 4|
@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=0005><lineend><color=0005>If you go straight east from the village's right exit...<pause><lineend><CC03EA><color=0001>...you'll come to the <color=0002>forest where they say the Unicorns live.<pause><lineend><CC03EA><color=0001>Not many people have ever seen a Unicorn.<pause><lineend><CC03EA>They say they only appear in front of girls with the purest of hearts.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0028><lineend><color=0001>Recently, there's something wrong with the forest.<pause><lineend><CC03EA>Monsters have swarmed it, and there's a bad feeling in the air.<pause><lineend><CC03EA>Maybe something happened to the Unicorns protecting the forest...<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>Recently, there's been something wrong with the forest.<pause><lineend><CC03EA>Monsters have swarmed it, and there's a bad feeling in the air.<pause><lineend><CC03EA>Maybe something happened to the Unicorns protecting the forest...<pause><lineend>|
 9|
 <CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
 10|
@@ -63,7 +63,7 @@
 31|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food Ingredient to use.<pause><lineend>|
 32|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Food Ingredients.<pause><lineend>|
 33|
 <CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
 34|

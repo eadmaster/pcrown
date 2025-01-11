@@ -79,7 +79,7 @@
 39|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food Ingredient to use.<pause><lineend>|
 40|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Food Ingredients.<pause><lineend>|
 41|
 <CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
 42|

@@ -80,8 +80,8 @@ Defense Potion<lineend>
 Defense Potion<lineend>
 Warrior Glove<lineend>
 Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
+Silver Gauntlet<lineend>
+Golden Gauntlet<lineend>
 Luck Pendant<lineend>
 Magic Pendant<lineend>
 Elf Boots<lineend>
@@ -98,8 +98,8 @@ Thief Bracelet<lineend>
 Warrior Bracelet<lineend>
 Warrior Glove<lineend>
 Ogre Glove<lineend>
-Silver Glove<lineend>
-Gold Glove<lineend>
+Silver Gauntlet<lineend>
+Golden Gauntlet<lineend>
 Luck Pendant<lineend>
 Magic Pendant<lineend>
 Elf Boots<lineend>
@@ -311,7 +311,7 @@ Give to the Bard in Valenadine<lineend>
 Return to a Wizard in Cadho Badho<lineend>
 Open the cave south of Cemeteryth<lineend>
 Return to its owner in Volga Town<lineend>
-Senses enemies<lineend>
+Sense enemies<lineend>
 Lend a hand in battle<lineend>
 Give items during battle<lineend>
 Give potions during battle<lineend>
@@ -360,7 +360,7 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
 <CC03EA><CC03F4> called his friends<pause><lineend>
 <CC03EA><CC03F4> ate a heart fruit<pause><lineend>
-<CC03EA>Poison has made items hard to see<pause><lineend>
+<CC03EA>Poison has made things hard to see<pause><lineend>
 <CC03EA>Now more poisoned, hallucinating<pause><lineend>
 <CC03EA><CC03F4> is slowly closing in<pause><lineend>
 <CC03EA><CC03F4> summoned lightning<pause><lineend>

@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=002D><lineend><color=0001>I'm getting awfully tired of my boyfriend spending all his time drinking.<pause><lineend><CC03EA>He went into the tavern again this morning, and nobody's heard from him since.<pause><lineend><CC03EA>How do I wind up falling for guys like him, anyway?<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0008><lineend><color=0001>Eriel's beauty is like a rose in full bloom...<pause><lineend><CC03EA>Sidrael's beauty is like a graceful white lily...<pause><lineend><CC03EA>And Queen Gradriel...<lineend>Her beauty is like a bright, shining star...<pause><lineend><CC03EA>...Or so I heard the wandering poet singing.<pause><lineend><CC03EA>I'd give anything to meet one of the Princesses in person. Even just once.<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>Eriel's beauty is like a rose in full bloom...<pause><lineend><CC03EA>Sidrael's beauty is like a graceful white lily...<pause><lineend><CC03EA>And Queen Gradriel...<lineend>Her beauty is like a bright, shining star...<pause><lineend><CC03EA>...Or so I heard the wandering bard singing.<pause><lineend><CC03EA>I'd give anything to meet one of the Princesses in person. Even just once.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=000C><lineend><color=0001>You can't eat soup unless you cook it yourself.<pause><lineend><CC03EA>Taverns will only grill your Foods, and none of the Local Delicacies are soups.<pause><lineend>|
 14|
@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
 17|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering poet.<pause><lineend><CC03EA>From the north to the south...From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering bard.<pause><lineend><CC03EA>From the north to the south... From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
 18|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Sweet amethyst-eyed lady, please let me sing you a song.<pause><lineend>|
 19|

@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
 14|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering poet.<pause><lineend><CC03EA>From the north to the south...From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I am a wandering bard.<pause><lineend><CC03EA>From the north to the south... From the east to the west...<pause><lineend><CC03EA>I've traveled like the wind through this kingdom of Valendia.<pause><lineend>|
 15|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Sweet amethyst-eyed lady, please let me sing you a song.<pause><lineend>|
 16|

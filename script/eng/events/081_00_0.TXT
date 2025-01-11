@@ -53,7 +53,7 @@
 26|
 <CC03EA><color=0006><string=01AF><lineend><color=0001>Yes, I can grill something for you. Please select a Food Ingredient to use.<pause><lineend>|
 27|
-<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Foods.<pause><lineend>|
+<CC03EA><color=0006><string=01AF><lineend><color=0001>I'm afraid I can't cook for you if you don't have any Food Ingredients.<pause><lineend>|
 28|
 <CC03EA><color=0006><string=01AF><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>The price is 30G. Will that be all right?<pause><lineend>|
 29|
@@ -107,7 +107,7 @@
 53|
 <CC03EA><color=0006><string=0051><lineend><color=0001>After what's happened, I'm thinking of linking up with the kingdom to the south.<pause><lineend><CC03EA>Try coming back soon. The magic-square should be connected by then.<pause><lineend>|
 54|
-<CC03EA><color=0006><string=01D3><lineend><color=0001>Welcome...to the Smiley Gem Shop!!<pause><lineend><CC03EA>We're always smiling, just for you!<pause><lineend>|
+<CC03EA><color=0006><string=01D3><lineend><color=0001>Welcome... to the Smiley Gem Shop!!<pause><lineend><CC03EA>We're always smiling, just for you!<pause><lineend>|
 55|
 <CC03EA><CC03FC=0004><string=01D3><color=0001><choose>Buy<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 56|
