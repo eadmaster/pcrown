@@ -52,7 +52,7 @@ Etherson<lineend>
 Halloween<lineend>
 Captain<lineend>
 Court Lady<lineend>
-Wandering Poet<lineend>
+Bard<lineend>
 Sleepy<lineend>
 Smiley<lineend>
 Bulionia<lineend>

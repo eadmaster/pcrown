@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=001D><lineend><color=0001>My grandson lives out in the middle of nowhere.<pause><lineend><CC03EA>Day in, day out, he does nothing but his magic experiments.<pause><lineend><CC03EA>I'm not exactly overjoyed when he sends me Insect Powder for my birthday.<pause><lineend><CC03EA>You're a witch, aren't you? I'll give you that Insect Powder if you want it.<pause><lineend>|
 14|
-<CC03EA><CC03FC=0004><string=001D><color=0001><choose>I do!<lineend>No thanks.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=001D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 15|
 <CC03EA><color=0006><string=001D><lineend><color=0001>All right, then.<pause><lineend>|
 16|

@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! Hello there! Want a Reflect Scroll, do you?<pause><lineend><CC03EA>I picked one up in the Wizards town in Cadho Badho just the other day.<pause><lineend><CC03EA>I'll give it to you for 100G. Deal?<pause><lineend>|
 5|
-<CC03EA><CC03FC=0004><string=00A1><color=0001><choose>Deal<lineend>No thanks.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=00A1><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 6|
 <CC03EA><color=0005><string=00A1><lineend><color=0001>Come again soon! Uwee hee hee!<pause><lineend>|
 7|

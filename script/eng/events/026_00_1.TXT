@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0006><string=0027><lineend><color=0001>How about some Fresh Goat's Milk? It's sweet and delicious!<pause><lineend><CC03EA>One bottle is 24G.<pause><lineend>|
 16|
-<CC03EA><CC03FC=0004><string=0027><color=0001><choose>Please!<lineend>No thanks.<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0027><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 17|
 <CC03EA><color=0006><string=0027><lineend><color=0001>Come back anytime!<pause><lineend>|
 18|
