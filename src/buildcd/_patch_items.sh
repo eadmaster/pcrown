@@ -20,10 +20,9 @@ wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PA
 #hexcalc '060729A8 - 06004000 + 1' = 6E9A9
 #hexcalc '06072994 - 06004000 + 1' = 6E995
 #hexcalc '0607297C - 06004000 + 1' = 6E97D
-# TODO: replace ucon64 -> sfk setbytes  http://stahlworks.com/sfk-setbytes
-ucon64 --nbak --poke=6E9A9:04 0.BIN
-ucon64 --nbak --poke=6E995:04 0.BIN
-ucon64 --nbak --poke=6E97D:04 0.BIN
+sfk setbytes 0.BIN 0x6E9A9 0x04 -yes
+sfk setbytes 0.BIN 0x6E995 0x04 -yes
+sfk setbytes 0.BIN 0x6E97D 0x04 -yes
 
 # dialog fixes (thanks to paul_met)  https://github.com/eadmaster/pcrown/issues/1
 #06074248    04 = 70248
@@ -32,37 +31,34 @@ ucon64 --nbak --poke=6E97D:04 0.BIN
 #06074020    04 = 70020
 #060742EE    88 = 702EE
 #060742BA    3A = 702BA
-ucon64 --nbak --poke=70249:04 0.BIN
-ucon64 --nbak --poke=702A3:04 0.BIN
-ucon64 --nbak --poke=7001B:04 0.BIN
-ucon64 --nbak --poke=70021:04 0.BIN
-ucon64 --nbak --poke=702EF:88 0.BIN
-ucon64 --nbak --poke=702BB:3A 0.BIN
+sfk setbytes 0.BIN 0x70249 0x04 -yes
+sfk setbytes 0.BIN 0x702A3 0x04 -yes
+sfk setbytes 0.BIN 0x7001B 0x04 -yes
+sfk setbytes 0.BIN 0x70021 0x04 -yes
+sfk setbytes 0.BIN 0x702EF 0x88 -yes
+sfk setbytes 0.BIN 0x702BB 0x3A -yes
 
 # items description fixes (thanks to paul_met) https://github.com/eadmaster/pcrown/issues/57
-ucon64 --nbak --poke=70603:14 0.BIN  # X position of the price in the store (max=1A)
+sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (max=1A)
 # Tile map address (window #1)
-ucon64 --nbak --poke=47732:B3 0.BIN
-ucon64 --nbak --poke=47733:08 0.BIN
+sfk setbytes 0.BIN 0x47732 0xB308 -yes
 # Tile map address (window #2)
-ucon64 --nbak --poke=3BE09:0A 0.BIN
-ucon64 --nbak --poke=3BE0A:B3 0.BIN
-ucon64 --nbak --poke=3BE0B:08 0.BIN
+sfk setbytes 0.BIN 0x3BE09 0x0AB308 -yes
 # Height of window #1
-ucon64 --nbak --poke=476FF:05 0.BIN
+sfk setbytes 0.BIN 0x476FF 0x05 -yes
 # Height of window #2
-ucon64 --nbak --poke=3BDD5:05 0.BIN
+sfk setbytes 0.BIN 0x3BDD5 0x05 -yes
 # Y position of window #1
-ucon64 --nbak --poke=47707:17 0.BIN
+sfk setbytes 0.BIN 0x47707 0x17 -yes
 # Y position of window #2
-ucon64 --nbak --poke=3BDDD:17 0.BIN
+sfk setbytes 0.BIN 0x3BDDD 0x17 -yes
 # Y position of text
-ucon64 --nbak --poke=75F7E:BC 0.BIN
+sfk setbytes 0.BIN 0x75F7E 0xBC -yes
 # Line Scroll Range Fix
-ucon64 --nbak --poke=3BA61:B8 0.BIN
+sfk setbytes 0.BIN 0x3BA61 0xB8 -yes
 # Clearing the description window
-ucon64 --nbak --poke=47773:05 0.BIN
-ucon64 --nbak --poke=4777B:17 0.BIN
+sfk setbytes 0.BIN 0x47773 0x05 -yes
+sfk setbytes 0.BIN 0x4777B 0x17 -yes
 
 # fix Engrish in the opening https://github.com/eadmaster/pcrown/issues/94
 #  using http://stahlworks.com/sfk-setbytes
@@ -89,7 +85,7 @@ sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
 #sfk setbytes 0.BIN 0xA40D5  "FILE is corrupt"  -yes
 
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
-ucon64 --nbak --poke=1EB7F:01 0.BIN
+#sfk setbytes 0.BIN 0x1EB7F 0x01 -yes
 
 # add splashscreen -> freezes with cheats enabled on startup
 #mv 0.BIN  0_org.BIN

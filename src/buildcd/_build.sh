@@ -6,10 +6,9 @@
 # Requirements:
 # - apt install iat  p7zip-full  xdelta3  wine  python3
 # - cd-replace (manual install) https://github.com/mistydemeo/cd-replace
-# - ucon64 (manual install)  https://ucon64.sourceforge.io/
 # - skf (manual install)  https://sourceforge.net/projects/swissfileknife/
-# - eventeditor.exe -> build via ../eventeditor/_build.sh
-# - itemsutil.exe -> build via ../itemsutil/_build.sh
+# - eventeditor.exe (build via ../eventeditor/_build.sh)
+# - itemsutil.exe (build via ../itemsutil/_build.sh)
 
 #export CD_PATH=../../cd
 export TRANSLATED_SCRIPT_PATH=../../script/eng
@@ -62,10 +61,8 @@ cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed
 xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
 cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.fixed
 # temp. fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
-ucon64 --nbak --poke=1002:01 061_00_2.EVN.eng
-ucon64 --nbak --poke=1003:90 061_00_2.EVN.eng
-ucon64 --nbak --poke=1002:01 061_00_1.EVN.eng  # not sure if really needed
-ucon64 --nbak --poke=1003:90 061_00_1.EVN.eng  # not sure if really needed
+sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
+sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
 cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng
 cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng
 
