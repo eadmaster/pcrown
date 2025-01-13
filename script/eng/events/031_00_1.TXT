@@ -17,6 +17,6 @@
 8|
 <CC03EA><color=0006><string=003B><lineend><color=0005>If you leave from the right of the village and head straight east...<pause><lineend><CC03EA>...you'll eventually find yourself in a big city called <color=0002>Cadho Badho.<color=0001><pause><lineend><CC03EA>It's a long trip, so make sure you've got enough food not to run out halfway there.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=00E9><lineend><color=0001>They tell me you're the one who killed the Basilisk!<pause><lineend><CC03EA>We're much obliged! Thank you!<pause><lineend><CC03EA>In return, I'll let you in on something that only I know about.<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find a great big tree known as the <color=0003>Yggdrasill.<color=0001><pause><lineend><CC03EA>They say that as long as you carry a Yggdrasill Fruit, practically nothing can beat you.<pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0001>They tell me you're the one who killed the Basilisk!<pause><lineend><CC03EA>We're much obliged! Thank you!<pause><lineend><CC03EA>In return, I'll let you in on something that only I know about.<pause><lineend><CC03EA><color=0005>East of the Fairy Woods,<color=0001> you can find a great big tree known as the <color=0003>Yggdrasil.<color=0001><pause><lineend><CC03EA>They say that as long as you carry a Yggdrasil Fruit, practically nothing can beat you.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasill Tree<color=0001> is <lineend><color=0005>to the east of the Fairy Woods.<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=00E9><lineend><color=0003>The Yggdrasil Tree<color=0001> is <lineend><color=0005>to the east of the Fairy Woods.<color=0001><pause><lineend>|

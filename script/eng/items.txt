@@ -15,9 +15,9 @@ Heart Fruit<lineend>
 Elixir Fruit<lineend>
 Elixir Fruit<lineend>
 Elixir Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
-Yggdrasill Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
+Yggdrasil Fruit<lineend>
 Magic Mushroom<lineend>
 Magic Mushroom<lineend>
 Magic Mushroom<lineend>
