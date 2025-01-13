@@ -27,15 +27,15 @@
 65543|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's hard to say...<pause><lineend>|
 65544|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...I'm leaving to go see Heindel.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...I'm leaving to go see Hindel.<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=017E><lineend><color=0001>Heindel?<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>Hindel?<pause><lineend>|
 65546|
 <CC03EA><color=0003><string=0001><lineend><color=0001>He's a Dragon, and he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell me what my Father was really thinking, it's him.<pause><lineend>|
 65547|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's a good idea.<pause><lineend>|
 65548|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Your Highness...Let me apologize for not addressing you properly before.<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Your Highness... Let me apologize for not addressing you properly before.<lineend><pause>|
 65549|
 <CC03EA><color=0004><string=017E><lineend><color=0001>You don't have to say that, Edward. Besides, my journey isn't finished yet.<lineend><pause><CC03EA>I want you to think of me only as a traveler named Gradriel...<lineend><pause><CC03EA>...and Gradriel is the only thing I want you to call me.<lineend><pause>|
 65550|

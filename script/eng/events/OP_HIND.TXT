@@ -13,18 +13,18 @@
 131074|
 <CC03EA><color=0001>Gradriel...<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...Heindel?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...Hindel?<pause><lineend>|
 131076|
 <CC03EA><color=0001>Come outside.<pause><lineend>|
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What in the world could be going on this time?<pause><lineend>|
 196608|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Heindel? What are you doing here?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Hindel? What are you doing here?<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What are those Gems?<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=0104><lineend><color=0001>These are three of the four Gems that will restore the Goddess to this land.<pause><lineend>|
 196611|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Restore...the Goddess?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Restore... the Goddess?<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I shall lead you to the Goddess's temple now. There, you will learn everything.<pause><lineend>|

@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I see you brought the Magic Stone.<pause><lineend>|
 3|
-<CC03EA><color=0001>Give Heindel the Vulcan Magic Stone?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><color=0001>Give Hindel the Vulcan Magic Stone?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 4|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Well, do as you please. It makes no difference to me.<pause><lineend>|
 5|

@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the Goblin Market!<pause><lineend><CC03EA>Tell me, pretty young thing, what is it you desire?<pause><lineend>|
 8|
-<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>About the Reflect Scroll<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Items<lineend>The Reflect Scroll<lineend><endchoose>|
 9|
 <CC03EA><CC03FC=0004><string=01BA><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 10|

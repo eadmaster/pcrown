@@ -15,11 +15,11 @@
 65543|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What for?<pause><lineend>|
 65544|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>To the left of the village, you'll find an underground ruin.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There's a Dragon inside it called Heindel. He knows everything there is to know.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you ask him, he should be able to tell you where your Demon is.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>To the left of the village, you'll find an underground ruin.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There's a Dragon inside it called Hindel. He knows everything there is to know.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you ask him, he should be able to tell you where your Demon is.<lineend><CC03ED=008D0007000103FF><pause>|
 65545|
-<CC03EA><color=0003><string=0003><lineend><color=0001>A Dragon called Heindel who knows everything...<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>A Dragon called Hindel who knows everything...<pause><lineend>|
 65546|
-<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Be warned. Heindel only gives answers in trade for very special Gems.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Without one of those Gems, he won't answer a thing.<lineend><CC03ED=008D0007000103FF><pause>|
+<CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Be warned. Hindel only gives answers in trade for very special Gems.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>Without one of those Gems, he won't answer a thing.<lineend><CC03ED=008D0007000103FF><pause>|
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What are these Gems?<pause><lineend>|
 65548|

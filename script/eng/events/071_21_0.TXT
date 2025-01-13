@@ -29,6 +29,6 @@
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Unicorn, please!<lineend>Go back and save Edward!<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=0116><lineend><color=0001>I'm so sorry...<lineend>That's simply not within my power.<pause><lineend><CC03EA>But...If you can find a Dragon called Heindel, he may be able to tell you a way to save him.<pause><lineend><CC03EA>His wisdom transcends the ages, and he can answer any question he is asked.<pause><lineend><CC03EA><color=0005>The entrance to the underground ruins where he lives<color=0001> is near the <color=0002>left exit of Knelt.<color=0001><pause><lineend><CC03EA>It's worth a try.<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>I'm so sorry...<lineend>That's simply not within my power.<pause><lineend><CC03EA>But...If you can find a Dragon called Hindel, he may be able to tell you a way to save him.<pause><lineend><CC03EA>His wisdom transcends the ages, and he can answer any question he is asked.<pause><lineend><CC03EA><color=0005>The entrance to the underground ruins where he lives<color=0001> is near the <color=0002>left exit of Knelt.<color=0001><pause><lineend><CC03EA>It's worth a try.<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>A Dragon called Heindel...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>A Dragon called Hindel...<pause><lineend>|

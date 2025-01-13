@@ -33,15 +33,15 @@
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It's hard to say...<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=016D><lineend><color=0001>I'm leaving to go see Heindel.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>I'm leaving to go see Hindel.<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The same Heindel you talked about that night by the lake?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The same Hindel you talked about that night by the lake?<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Heindel is a Dragon, and he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell me what my Father was really thinking, it's him.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Hindel is a Dragon, and he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell me what my Father was really thinking, it's him.<pause><lineend>|
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I see.<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Your Highness...Let me apologize for not addressing you properly before.<lineend><pause>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Your Highness... Let me apologize for not addressing you properly before.<lineend><pause>|
 65550|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You don't have to say that, Edward. Besides, my journey isn't finished yet.<lineend><pause><CC03EA>I want you to think of me only as a traveler named Gradriel...<lineend><pause><CC03EA>...and Gradriel is the only thing I want you to call me.<lineend><pause>|
 65551|

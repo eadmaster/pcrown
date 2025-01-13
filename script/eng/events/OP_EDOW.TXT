@@ -59,7 +59,7 @@
 196615|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Lousy Dragon.<pause><lineend><CC03EA>What do I have to bring?<pause><lineend>|
 196616|
-<CC03EA><CC03FC=0004><string=0104><color=0001>My name is Heindel. Be so kind as to use it.<pause><lineend><CC03EA>I want you to bring me a Gem called the Sun Stone.<pause><lineend><CC03EA>It's in the hands of a Dragon...The Black Dragon.<pause><lineend><CC03EA>He's both very powerful and unafraid of death. Are you still interested?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>My name is Hindel. Be so kind as to use it.<pause><lineend><CC03EA>I want you to bring me a Gem called the Sun Stone.<pause><lineend><CC03EA>It's in the hands of a Dragon... The Black Dragon.<pause><lineend><CC03EA>He's both very powerful and unafraid of death. Are you still interested?<pause><lineend>|
 196617|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I'll give you someone to help you in your search.<pause><lineend><CC03EA>Ignis!!<pause><lineend>|
 196618|
