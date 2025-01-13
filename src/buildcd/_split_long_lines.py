@@ -12,6 +12,9 @@
 #MAX_CHARS_PER_LINE=20
 MAX_CHARS_PER_LINE=35
 
+SHORT_DIALOG_WARNING_LEN=10
+
+
 import sys
 import re
 
@@ -22,8 +25,25 @@ def remove_tags(text):
     text = re.sub(r'<[^>]+', '', text)
     return text
     
+        
+def length_after_last_tag(s):
+    tag_end = s.rfind('>')
+    if tag_end == -1:
+        return 0  # No closing tag found, so return 0
+    return len(s) - tag_end - 1
     
-    
+
+def last_line_length(s):
+    last_lineend_pos = s.rfind('<CC03EA>')
+    if last_lineend_pos > 0:
+        pause_pos = s.find('<pause', last_lineend_pos)
+        if pause_pos > 0:
+            return (pause_pos - last_lineend_pos - len('<pause>'))
+    # else
+    return 1000
+   
+
+
 def insert_lineend_every_x_chars(s, init_lines_counter=0):
     position = 0
     result = ""
@@ -33,6 +53,11 @@ def insert_lineend_every_x_chars(s, init_lines_counter=0):
     for token in s.split(" "):
         #print(token)
         #print(remove_tags(token))
+           
+        #if token.endswith("<lineend"):
+        #    #token = token.rstrip("<lineend")
+        #    curr_lines_counter += 1
+        
         if (curr_char_counter + len(remove_tags(token)) + 1) < MAX_CHARS_PER_LINE:
             # just append the token
             if curr_char_counter==0:
@@ -52,22 +77,17 @@ def insert_lineend_every_x_chars(s, init_lines_counter=0):
                 result += "<pause><lineend><CC03EA>" + token
                 curr_lines_counter = 0  # reset
             curr_char_counter = len(remove_tags(token))
-            
+        # endif
+    # end for
+    
+    if last_line_length(result) < SHORT_DIALOG_WARNING_LEN:
+        print("SHORT_DIALOG_WARNING: " + result)
+    
     return result
     
 
-        
-        
-def length_after_last_tag(s):
-    tag_end = s.rfind('>')
-    if tag_end == -1:
-        return 0  # No closing tag found, so return 0
-    return len(s) - tag_end - 1
-    
-    
-    
-    
 
+    
 
 
 f = open(sys.argv[1], 'r', encoding='shift_jis', errors='ignore') 
@@ -83,7 +103,10 @@ for line in f.readlines():
         tags = re.split(r'(?<!color=\w{4})>', line)
         #print(tags)
         # ['<CC03EA', '<color=0006><string=0014', '<lineend', '<color=0001>Do you need some directions?<pause', '<lineend', '<CC03EA', "The village of <color=0002>Nutsbill<color=0001> is straight to the west from this town's left exit.<pause", '<lineend', '|\n']
+        # ['<CC03EA', "<color=0001>I can hear Jestonai's voice coming from somewhere...<pause", '<lineend', '<CC03EA', '<color=0004>Jestonai<lineend', '<color=0001>You who yearns for Knighthood. Defeat this monster, and prove your strength!<pause', '<lineend']
         for t in tags:
+            #print(t)
+            #print(init_lines_counter)
             if t.startswith("<lineend"):
                 init_lines_counter += 1
                 continue
@@ -95,14 +118,24 @@ for line in f.readlines():
             if t.startswith("<pause"):
                 init_lines_counter = 0   # new dialog, reset to 0
                 continue
-                
+        
             if(len(remove_tags(t)) < MAX_CHARS_PER_LINE):
                 # nothing to change
+                if t.endswith("<lineend"):
+                    init_lines_counter += 1
                 continue
             else:
                 # add "<lineend>"/<pause> tags where needed
+                #print(t)
+                #print(init_lines_counter)
                 new_line_text = insert_lineend_every_x_chars(t, init_lines_counter)
                 line = line.replace(t, new_line_text)
+            
+            #if t.endswith("<lineend"):
+            #    init_lines_counter += 1
+            #    if init_lines_counter >= 3:
+            #        # replace last "<lineend" -> pause tag
+                    
         # end for tags
     # end if
     out.write(line)
