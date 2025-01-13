@@ -14,7 +14,6 @@ file2hexstr_sign() { sfk hexdump -raw "$1" | tr 1 F ; }   # fixes pixel values o
 
 # binary file search & replace
 # using sfk http://stahlworks.com/sfk-rep
-# TODO? replace with ucon64 -nbak --hreplace="S:R"
 file_patch() { sfk replace $1 -binary /$2/$3/ -yes -firsthit ; }
 
 replace_sign() {
@@ -156,6 +155,7 @@ replace_sign  ranch  132
 replace_sign  desert  352
 # Dragon's nest (88*11/2=484) -> test in 017-00
 replace_sign  dragonnest  484
+# Portal (To another space) 異空間へ 
 
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2  20
@@ -194,5 +194,31 @@ sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  WGOD.PRG  WGOD.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
-#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
-# WIP
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
+# "DWALF LAND" -> "DWARF LAND"
+sfk setbytes COMM.PAK 0x6351 0x05 -yes
+# "YGGDRASILL" -> "YGGDRASIL "
+sfk setbytes COMM.PAK 0x5E7E 0x0000000000000000 -yes
+# NO? "CADHO BADHO" -> "CADO  BADO"
+#sfk setbytes COMM.PAK 0x6200 0x4103 -yes             # H->O
+#sfk setbytes COMM.PAK ... 0x0x0000000000000000 -yes  # O->invisible
+#sfk setbytes COMM.PAK 0x623C 0x4103 -yes             # H->O
+#sfk setbytes COMM.PAK ... 0x0x0000000000000000 -yes  # O->invisible
+# "EARTH ON TRUSE TERA"-> "  ARS ON TULA      " 
+sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes  # E->invisible
+sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes  # A->invisible
+sfk setbytes COMM.PAK 0x64F4 0x40F5 -yes              # R->A
+sfk setbytes COMM.PAK 0x64E8 0x4105 -yes              # T->R
+sfk setbytes COMM.PAK 0x64DC 0x4106 -yes              # H->S
+#                                                       O unchanged
+#                                                       N unchanged
+#                                                       T unchanged
+sfk setbytes COMM.PAK 0x64AC 0x4108 -yes              # R->U
+sfk setbytes COMM.PAK 0x6458 0x4105 -yes              # U->R
+sfk setbytes COMM.PAK 0x64A0 0x40F5 -yes              # S->A
+sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes  # E->invisible
+sfk setbytes COMM.PAK 0x6484 0x0000000000000000 -yes  # T->invisible
+sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes  # E->invisible
+sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes  # R->invisible
+sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes  # A->invisible
+cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK
