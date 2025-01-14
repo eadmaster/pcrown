@@ -57,6 +57,6 @@
 28|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, ever-lasting peace fell over the whole kingdom.<pause><lineend><CC03EA>...and now, we've finished all the stories.<pause><lineend>|
 29|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandmother would read these to me again and again. <pause><lineend><CC03EA>Your great-grandmother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Did you enjoy reading these books?<pause><lineend><CC03EA>When I was your size, your great-grandmother would read these to me again and again.<pause><lineend><CC03EA>Your great-grandmother was the one who wrote them, after all.<pause><lineend><CC03EA>She said she heard each story from the fairies themselves.<pause><lineend>|
 30|
 <CC03EA><CC03FC=0004><string=0172><color=0001>Hmm?<lineend>What was her name?<pause><lineend><CC03EA>Why, it was Tabitha.<pause><lineend>|

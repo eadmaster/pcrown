@@ -1,5 +1,5 @@
 
-# Princess Crown Translation GPL edition
+# Princess Crown Translation GPL Edition
 
 [old readme here](readme.txt.old)
 
@@ -10,10 +10,9 @@
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - [only the most common doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
- - tested and crash-free in the 1st and 2nd book/scenario
-   - 2 cutscenes have reduced dialogs to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
- - remaining books/scenarios still to be tested
+ - [most doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
+ - all book/scenarios fully tested and crash-free
+   - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
@@ -44,13 +43,13 @@
 2. download and execute one of these patching scripts in the same folder:
  
   - [for Windows](https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/_patch_eng.bat)
-    - [offline patcher](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip)
+    - [old offline patcher](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip)
   - [for Linux](https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/_patch_eng.sh)
 
 
 ## Contributions
  
-Issues and PRs are currently restricted to contributors to avoid spamming, trolling, etc.
+Issues and PRs are currently restricted to contributors to avoid spamming/trolling and keep things easy to manage for me.
 
 Contact me via discord or forums if you can contribute or have issues to report (please read the [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs) first):
 
@@ -64,7 +63,9 @@ Contact me via discord or forums if you can contribute or have issues to report 
 # New contributors/Special thanks
 
  - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
- - Spike, MLagaffe, [MADevil](https://www.twitch.tv/madevil/) (playtesting and bug reports)
+ - [MADevil](https://www.twitch.tv/madevil/), Spike, MLagaffe  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
+ - [Mentill](https://github.com/mentill) (Engrish and script fixes, missing signs)
+ 

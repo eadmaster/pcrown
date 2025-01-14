@@ -1,7 +1,7 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A Demon!<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=012E><lineend><color=0001>Ha ha ha...Like flies to a web.<pause><lineend>|
+<CC03EA><color=0005><string=012E><lineend><color=0001>Ha ha ha... Like flies to a web.<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You must be the one who guards the entrance.<pause><lineend>|
 65539|
@@ -9,7 +9,7 @@
 131072|
 <CC03EA><color=0005><string=012E><lineend><color=0001>Skulg was supposed to have taken care of you...<pause><lineend><CC03EA>Human scum! You'll never get through!<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no!<lineend>Your Majesty! The floor is crumbling away!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Oh no! Your Majesty! The floor is crumbling away!<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What do we do? The gate...<pause><lineend>|
 131075|

@@ -61,7 +61,7 @@
 262157|
 <CC03EA><CC03FC=0004><string=0110><color=0001>How can that be?<lineend><pause>|
 262158|
-<CC03EA><color=0004><string=012A><lineend><color=0001>I'm so weak and frail, it would be easy for you to kill me with those giant claws of yours. <pause><lineend><CC03EA>But you can't. You have a heart just as all humans do, and that heart is feeling for me.<lineend><pause>|
+<CC03EA><color=0004><string=012A><lineend><color=0001>I'm so weak and frail, it would be easy for you to kill me with those giant claws of yours.<pause><lineend><CC03EA>But you can't. You have a heart just as all humans do, and that heart is feeling for me.<lineend><pause>|
 262159|
 <CC03EA><color=0005><string=0110><lineend><color=0001>Perhaps I could be rid of that heart if I killed you...<pause><lineend>|
 262160|
@@ -69,7 +69,7 @@
 262161|
 <CC03EA><color=0004><string=012A><lineend><color=0001>I was very scared of you at first...<lineend><pause>|
 262162|
-<CC03EA><CC03FC=0004><string=012A><color=0001>But things have changed, Volgrod.<pause><lineend><CC03EA>Right now, I feel enchanted by the love you have in your heart for me. <pause><lineend>|
+<CC03EA><CC03FC=0004><string=012A><color=0001>But things have changed, Volgrod.<pause><lineend><CC03EA>Right now, I feel enchanted by the love you have in your heart for me.<pause><lineend>|
 262163|
 <CC03EA><color=0005><string=0110><lineend><color=0001>...I was once a human myself. The Book of Larva gave me my strength.<pause><lineend>|
 262164|

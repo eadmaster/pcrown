@@ -45,7 +45,7 @@
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I never had any intention of deceiving you. It's just...<pause><lineend><CC03EA>It's just that since I was traveling, I wanted to try being a normal girl for a while.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0179><lineend><color=0001>Sheesh! Don't be so serious! It doesn't make any difference to me. <pause><lineend><CC03EA>I don't care if you're a Queen or whoever else.<pause><lineend><CC03EA>When we're out on the sea, you're either a friend or an enemy.<pause><lineend><CC03EA>I did always think you'd make a heck of a pirate...<pause><lineend><CC03EA>But I suppose that would be bad for the country's image, eh?<lineend><pause>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>Sheesh! Don't be so serious! It doesn't make any difference to me.<pause><lineend><CC03EA>I don't care if you're a Queen or whoever else.<pause><lineend><CC03EA>When we're out on the sea, you're either a friend or an enemy.<pause><lineend><CC03EA>I did always think you'd make a heck of a pirate...<pause><lineend><CC03EA>But I suppose that would be bad for the country's image, eh?<lineend><pause>|
 65543|
 <CC03EA><CC03FC=0004><string=0125><color=0001>Thar she blows!!<pause><lineend>|
 65544|

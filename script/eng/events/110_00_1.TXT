@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0004><string=017C><lineend><color=0001>...My name is Gradriel.<pause><lineend><CC03EA>And you're Edward, of the Glowstar family, aren't you?<pause><lineend><CC03EA>Thank you for helping me before.<pause><lineend>|
 11|
-<CC03EA><color=0003><string=0001><lineend><color=0001>The son of Golgotha can't keep a low profile, can he?<pause><lineend><CC03EA>The Knight Guard may have shown up, but that doesn't mean that this village is safe. <pause><lineend><CC03EA>You had better leave this place quickly, Gradriel.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The son of Golgotha can't keep a low profile, can he?<pause><lineend><CC03EA>The Knight Guard may have shown up, but that doesn't mean that this village is safe.<pause><lineend><CC03EA>You had better leave this place quickly, Gradriel.<pause><lineend>|
 12|
 <CC03EA><color=0004><string=017C><lineend><color=0001>That's a good idea.<pause><lineend>|
 13|
@@ -63,7 +63,7 @@
 196618|
 <CC03EA><color=0004><string=017C><lineend><color=0001>...My name is Gradriel.<pause><lineend><CC03EA>And you're Edward, of the Glowstar family, aren't you?<pause><lineend><CC03EA>Thank you for helping me before.<pause><lineend>|
 196619|
-<CC03EA><color=0003><string=0001><lineend><color=0001>The son of Golgotha can't keep a low profile, can he?<pause><lineend><CC03EA>The Knight Guard may have shown up, but that doesn't mean that this village is safe. <pause><lineend><CC03EA>You had better leave this place quickly, Gradriel.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The son of Golgotha can't keep a low profile, can he?<pause><lineend><CC03EA>The Knight Guard may have shown up, but that doesn't mean that this village is safe.<pause><lineend><CC03EA>You had better leave this place quickly, Gradriel.<pause><lineend>|
 196620|
 <CC03EA><color=0004><string=017C><lineend><color=0001>That's a good idea.<pause><lineend>|
 196621|

@@ -5,9 +5,9 @@
 2|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Ho ho ho!<lineend>Welcome, my lady.<pause><lineend><CC03EA>This is the Truck-Chase's advanced course. Experts only!<pause><lineend>|
 3|
-<CC03EA><CC03FC=0004><string=01CE><color=0001>Since your bag is full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01CE><color=0001>Since your bag is full, you won't be able to keep any treasures you win.<pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 4|
-<CC03EA><CC03FC=0004><string=01CF><color=0001>Since your bag is full, you won't be able to keep any treasures you win. <pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01CF><color=0001>Since your bag is full, you won't be able to keep any treasures you win.<pause><lineend><CC03EA>Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 5|
 <CC03EA><CC03FC=0004><string=00EA><color=0001>It looks like your bag is full. If you win, you won't be able to keep your prize!<pause><lineend><CC03EA> Is that OK?<lineend><choose>Yes<lineend>No<lineend><endchoose>|
 6|

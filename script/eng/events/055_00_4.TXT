@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=0094><lineend><color=0001>...Hmm. That witch has been gone lately.<pause><lineend><CC03EA>I hate to admit it, but we miss her just a little.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0095><lineend><color=0001>It's awfully shaky around here these days. <pause><lineend><CC03EA>Me, I always fancied earthquakes happen when giant rats run by underground!<pause><lineend>|
+<CC03EA><color=0006><string=0095><lineend><color=0001>It's awfully shaky around here these days.<pause><lineend><CC03EA>Me, I always fancied earthquakes happen when giant rats run by underground!<pause><lineend>|
 6|
 <CC03EA><color=0006><string=0096><lineend><color=0001>That witch stole our Truck-Chase!<pause><lineend>|
 7|

@@ -19,7 +19,7 @@
 9|
 <CC03EA><CC03FC=0004><string=00B4><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 10|
-<CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you so...Wait, what!?<pause><lineend><CC03EA>No!? How cruel! And here you had my hopes up! <pause><lineend>|
+<CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you so...Wait, what!?<pause><lineend><CC03EA>No!? How cruel! And here you had my hopes up!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you! Thank you!<pause><lineend><CC03EA>You're a ray of hope to us all!<pause><lineend><CC03EA>The Myconid lives in <color=0005>the forest straight beyond the right exit of our village.<color=0001><pause><lineend><CC03EA>We're counting on you!<pause><lineend>|
 12|

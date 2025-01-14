@@ -27,4 +27,4 @@
 13|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Who would have thought such gentle words would be the key to releasing the Demon King?<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0080><lineend><color=0001>It's been a long time since so many gathered in the same place. <pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>It's been a long time since so many gathered in the same place.<pause><lineend>|

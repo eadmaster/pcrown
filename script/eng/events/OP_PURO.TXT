@@ -1,7 +1,7 @@
 65536|
 <CC03EA><color=0001>The little witch Proserpina lived together with her Auntie, who was herself a great witch...<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Proserpina! Hey, Proserpina!! <lineend>Get in here!!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Proserpina! Hey, Proserpina!!<lineend>Get in here!!<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Aw, what now, Auntie?<pause><lineend><CC03EA>I was going to go pick some mushrooms in the forest!<pause><lineend>|
 65539|

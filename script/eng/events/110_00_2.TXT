@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=004B><lineend><color=0001>With your help, we were able to chase off the Dragons.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>The Knights of the Guard are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too! <pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Knights of the Guard are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Thank you for saving our village.<pause><lineend>|
 3|

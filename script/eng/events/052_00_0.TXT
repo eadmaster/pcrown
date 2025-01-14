@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=00B1><lineend><color=0001>This place is a Frogger's paradise!<pause><lineend><CC03EA>Why is that, you ask? Just look at all the bugs! <pause><lineend>|
+<CC03EA><color=0006><string=00B1><lineend><color=0001>This place is a Frogger's paradise!<pause><lineend><CC03EA>Why is that, you ask? Just look at all the bugs!<pause><lineend>|
 1|
 <CC03ED=00B1000200010000><CC03ED=00B10003000103FF><CC03FB=001E><CC03ED=00B1000600010000><CC03FB=003C>|
 2|

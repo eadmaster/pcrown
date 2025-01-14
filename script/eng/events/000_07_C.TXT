@@ -11,7 +11,7 @@
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I appreciate your help, King Volga.<lineend><pause>|
 65539|
-<CC03EA><color=0004><string=0105><lineend><color=0001>Don't talk to me! I'm utterly humiliated!<lineend><pause><CC03EA>As you may recall, I'm supposed to be the Warrior King.<lineend><pause><CC03EA>Yet I could do nothing but stand helpless while you did everything by yourself!<lineend><pause><CC03EA>So if you will excuse me now, I'm going home! <lineend><pause>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>Don't talk to me! I'm utterly humiliated!<lineend><pause><CC03EA>As you may recall, I'm supposed to be the Warrior King.<lineend><pause><CC03EA>Yet I could do nothing but stand helpless while you did everything by yourself!<lineend><pause><CC03EA>So if you will excuse me now, I'm going home!<lineend><pause>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>King Volga...<lineend><pause>|
 65541|

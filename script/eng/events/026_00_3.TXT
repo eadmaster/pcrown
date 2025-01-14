@@ -39,7 +39,7 @@
 19|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Um... Are you the Priest of Cemeteryth?<pause><lineend>|
 20|
-<CC03EA><color=0004><string=00EB><lineend><color=0001>Yes, that's right.<pause><lineend><CC03EA>To live in Cemeteryth and pray for the peaceful resting of souls is my job. <pause><lineend><CC03EA>...Or it was, until I was chased out by a ghost.<pause><lineend><CC03EA>This particular ghost has played pranks on me before...<pause><lineend><CC03EA>...but this is the first time he's done something so cruel.<pause><lineend><CC03EA>He's a big fat ghost called a Poltergeist.<pause><lineend><CC03EA>There hasn't been peace in Cemeteryth since the moment he appeared.<pause><lineend>|
+<CC03EA><color=0004><string=00EB><lineend><color=0001>Yes, that's right.<pause><lineend><CC03EA>To live in Cemeteryth and pray for the peaceful resting of souls is my job.<pause><lineend><CC03EA>...Or it was, until I was chased out by a ghost.<pause><lineend><CC03EA>This particular ghost has played pranks on me before...<pause><lineend><CC03EA>...but this is the first time he's done something so cruel.<pause><lineend><CC03EA>He's a big fat ghost called a Poltergeist.<pause><lineend><CC03EA>There hasn't been peace in Cemeteryth since the moment he appeared.<pause><lineend>|
 21|
 <CC03EA><color=0004><string=00EB><lineend><color=0001>If only that Poltergeist would go away, I could get back to Cemeteryth where I belong.<pause><lineend><CC03EA> <color=0001>You'll find Cemeteryth <color=0005>along the westward path from the left side of this village.<pause><lineend>|
 22|
