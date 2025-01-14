@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Is it silly to hope that things will turn out all right?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0004><lineend><color=0001>I took the trouble of arranging a nice date for us...then she dumped me!<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>I took the trouble of arranging a nice date for us... then she dumped me!<pause><lineend>|
 16|
 <CC03EA><color=0006><string=0057><lineend><color=0001>I want to be as good a Wizard as the Leader someday.<pause><lineend>|
 17|

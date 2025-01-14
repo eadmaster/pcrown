@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend><CC03EA>Right now, they're both racing to be the first to solve the problem at Lake Titania.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Warriors are the protectors of the city... Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>What are you looking at!?<lineend>Do you have a problem or something?<pause><lineend>|
 11|

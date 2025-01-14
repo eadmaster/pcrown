@@ -125,7 +125,7 @@
 62|
 <CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>You must find places like this one in your travels. Only then can I send you to them.<pause><lineend>|
 63|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome...<lineend>How about some Potions for your journey?<pause><lineend><CC03EA>I'll mix up anything you want with the ingredients you have.<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Welcome... How about some Potions for your journey?<pause><lineend><CC03EA>I'll mix up anything you want with the ingredients you have.<pause><lineend>|
 64|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Mix<lineend>Quit<lineend><endchoose>|
 65|
