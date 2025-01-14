@@ -155,8 +155,8 @@ replace_sign  ranch  132
 replace_sign  desert  352
 # Dragon's nest (88*11/2=484) -> test in 017-00
 replace_sign  dragonnest  484
-# Portal (To another space) 異空間へ 
-
+# portal (To another space) (48*11/2=264) -> test in 000_07_B
+replace_sign  portal  264
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2  20
 
@@ -182,16 +182,18 @@ sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
 cd-replace "$PATCHED_IMAGE_FILE"  DOHDOH.PRG  DOHDOH.PRG
 sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE" CEYE.PRG  CEYE.PRG
-#overflow sfk replace HIND.PRG -text '/HINDEL/HEINDEL/'  / -yes
-#cd-replace  "$PATCHED_IMAGE_FILE" HIND.PRG  HIND.PRG
 sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECROSAMANTHA/'  -yes
+#ALT. sfk replace NECRO.PRG -text '/NECRO SAMANSA/  SAMANTHA   /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  NECRO.PRG  NECRO.PRG
 sfk replace RYON.PRG -text '/RYON/LEON/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  RYON.PRG  RYON.PRG
 sfk replace SIRENE.PRG -text '/SIRENE/SIREN /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  SIRENE.PRG  SIRENE.PRG
 sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
+#ALT. sfk replace WGOD.PRG -text '/EVIL GOLGODA/  GOLGOTHA  /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  WGOD.PRG  WGOD.PRG
+sfk replace NISE.PRG -text '/CAPTAIN BIGFOOK/CAPTAIN BIGHOOK/'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  NISE.PRG  NISE.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
@@ -214,7 +216,7 @@ sfk setbytes COMM.PAK 0x64DC 0x4106 -yes              # H->S
 #                                                       N unchanged
 #                                                       T unchanged
 sfk setbytes COMM.PAK 0x64AC 0x4108 -yes              # R->U
-sfk setbytes COMM.PAK 0x6458 0x4105 -yes              # U->R
+sfk setbytes COMM.PAK 0x6458 0x4100 -yes              # U->L
 sfk setbytes COMM.PAK 0x64A0 0x40F5 -yes              # S->A
 sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes  # E->invisible
 sfk setbytes COMM.PAK 0x6484 0x0000000000000000 -yes  # T->invisible

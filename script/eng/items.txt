@@ -428,16 +428,16 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><color=0000><CC03F7> effect ended<lineend><pause>
 
 
-Sword! Grant me strength<lineend>and courage!!<pause><lineend>
-In the name of the Queen,<lineend>I can't lose!<pause><lineend>
-If I land another hit,<lineend>I hope it's this one!<pause><lineend>
-Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
-I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
-Sword! Embody my anger!!<pause><lineend>
-Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
-It's been fun. Bye now!!<pause><lineend>
-Enough! Just die already!!<pause><lineend>
-You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
-You almost had me.<lineend>Now it's my turn!<pause><lineend>
-You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
+<CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>
+<CC03EA>In the name of the Queen,<lineend>I can't lose!<pause><lineend>
+<CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
+<CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
+<CC03EA>I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
+<CC03EA>Sword! Embody my anger!!<pause><lineend>
+<CC03EA>Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
+<CC03EA>It's been fun. Bye now!!<pause><lineend>
+<CC03EA>Enough! Just die already!!<pause><lineend>
+<CC03EA>You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
+<CC03EA>You almost had me.<lineend>Now it's my turn!<pause><lineend>
+<CC03EA>You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
 <CC03F3=0000><CC03EA>I sense monsters nearby<pause><lineend>
