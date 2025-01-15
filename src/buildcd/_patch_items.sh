@@ -87,10 +87,14 @@ sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
 # enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #sfk setbytes 0.BIN 0x1EB7F 0x01 -yes
 
-# add splashscreen -> freezes with cheats enabled on startup
+# add splashscreen -> freezes with cheats enabled during boot  https://github.com/eadmaster/pcrown/issues/96
 #mv 0.BIN  0_org.BIN
 #wine mksplash.exe ../mksplash/splash_loader.bin ../mksplash/splash.bmp 0_org.BIN 0.BIN
 #rm 0_org.BIN
+
+# add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
+# "@SEGA ENTERPRISES,LTD.& ATLUS,1997" -> "v0.x ENG.PATCH  @SEGA & ATLUS,1997"
+sfk setbytes 0.BIN 0xA4131  "V0.8 ENG.PATCH  @SEGA "  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN
