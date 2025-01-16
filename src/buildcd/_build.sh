@@ -33,7 +33,7 @@ cp "Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"
 source _patch_items.sh
 
 # patch events
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.EVN
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'
 # enforce correct line splitting
 mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
