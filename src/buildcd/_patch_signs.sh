@@ -38,7 +38,7 @@ replace_sign() {
 }
 
 # extract all files with gfx elements
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.CHR
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.CHR'
 
 # TODO: extract original *_jap.bin signs with sfk http://stahlworks.com/sfk-partcopy
 # sfk partcopy infile -fromto startoffset  
@@ -131,6 +131,8 @@ replace_sign  tower2  396
 replace_sign  out  88
 # Goblin market (112*11/2=616) -> test in 154-00
 replace_sign  goblin_market  616
+# Goblin market2 (112*11/2=616) -> test in 010-00
+replace_sign  goblin_market2  616
 # Volga castle (64*11/2=352) -> test in 081-00
 replace_sign  volga_castle  352
 # stone_shop2 (24*11/2=132) -> test in 081-00
@@ -157,10 +159,14 @@ replace_sign  desert  352
 replace_sign  dragonnest  484
 # portal (To another space) (48*11/2=264) -> test in 000_07_B
 replace_sign  portal  264
+# elfaran (88*10/2=440) -> test in 000-04 (old castle, save-dependent)
+replace_sign  elfaran  440
+# (Guest) Room (24*11/2=132) -> test in 000-04 (old castle, save-dependent)
+replace_sign  room_guest  132
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2  20
 
-# replace all chr files with updated signs
+# replace all the chr files with updated signs
 find *.CHR -mtime -1 | while read chrfile; do     
     cd-replace  "$PATCHED_IMAGE_FILE"  $chrfile $chrfile  > /dev/null
 done
@@ -177,7 +183,7 @@ file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr $
 cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
 
 # fix Engrish in enemy banner names https://github.com/eadmaster/pcrown/issues/93
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" *.PRG
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'
 sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
 cd-replace "$PATCHED_IMAGE_FILE"  DOHDOH.PRG  DOHDOH.PRG
 sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
@@ -194,6 +200,10 @@ sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVILGOLGOTHA/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  WGOD.PRG  WGOD.PRG
 sfk replace NISE.PRG -text '/CAPTAIN BIGFOOK/CAPTAIN BIGHOOK/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  NISE.PRG  NISE.PRG
+sfk replace POLT.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  POLT.PRG  POLT.PRG
+sfk replace PUPPET.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  PUPPET.PRG  PUPPET.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
@@ -210,10 +220,11 @@ sfk setbytes COMM.PAK 0x5E7E 0x0000000000000000 -yes
 sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes  # E->invisible
 sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes  # A->invisible
 sfk setbytes COMM.PAK 0x64F4 0x40F5 -yes              # R->A
-sfk setbytes COMM.PAK 0x64E8 0x4105 -yes              # T->R
+#WIP: sfk setbytes COMM.PAK 0x64F4 0x40F520082308230F200F -yes              # R->A = 002604F0
+sfk setbytes COMM.PAK 0x64E8 0x4105 -yes              # T->R = 
 sfk setbytes COMM.PAK 0x64DC 0x4106 -yes              # H->S
 #                                                       O unchanged
-#                                                       N unchanged
+#                                                       N unchanged = 002604C0
 #                                                       T unchanged
 sfk setbytes COMM.PAK 0x64AC 0x4108 -yes              # R->U
 sfk setbytes COMM.PAK 0x6458 0x4100 -yes              # U->L
