@@ -11,7 +11,7 @@
 65541|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Very well. I shall tell you.<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0104><lineend><color=0001>It is on a cursed island known as Arsontula.<pause><lineend><CC03EA> Deep within that island is a door that connects this world with the Demon Realm.<pause><lineend><CC03EA>The sword you seek was plunged into that door, where it also serves to pin down a Demon.<pause><lineend><CC03EA>By placing it there, your Father sealed off the path to the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>It is on a cursed island known as Arsontula.<pause><lineend><CC03EA>Deep within that island is a door that connects this world with the Demon Realm.<pause><lineend><CC03EA>The sword you seek was plunged into that door, where it also serves to pin down a Demon.<pause><lineend><CC03EA>By placing it there, your Father sealed off the path to the Demon Realm.<pause><lineend>|
 65543|
 <CC03EA><color=0003><string=0001><lineend><color=0001>He actually pinned a Demon to the door?<pause><lineend>|
 65544|

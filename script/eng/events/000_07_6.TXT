@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>Isn't that...Sir Glowstar?<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>Isn't that... Sir Glowstar?<pause><lineend>|
 65537|
 <CC03EA><color=0004><string=00FF><lineend><color=0001><CC03ED=00FF0016000103FF>Sir Glowstar! Why are you doing this?<lineend><CC03ED=00FF0015000103FF><pause>|
 65538|
@@ -7,7 +7,7 @@
 65539|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Elfaran!<pause><lineend>|
 65540|
-<CC03EA><color=0005><string=0120><lineend><color=0001>Refuse, and the townspeople are as good as dead.<pause><lineend><CC03EA> Elfaran D. Valendia...You're coming with me to the Demon Realm!<pause><lineend>|
+<CC03EA><color=0005><string=0120><lineend><color=0001>Refuse, and the townspeople are as good as dead.<pause><lineend><CC03EA>Elfaran De Valendia... You're coming with me to the Demon Realm!<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>...That's not going to happen.<pause><lineend>|
 65542|
@@ -15,7 +15,7 @@
 65543|
 <CC03EA><color=0005><string=0120><lineend><color=0001>Fine. We'll do this the hard way!<pause><lineend>|
 65544|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Stop<CC03ED=0120002E000103FF> right there, wicked book! I won't let you have your way any further!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0120002E000103FF>Stop right there, wicked book! I won't let you have your way any further!<pause><lineend>|
 65545|
 <CC03EA><color=0005><string=0120><lineend><color=0001>Who is this?<pause><lineend>|
 65546|
@@ -23,7 +23,7 @@
 131072|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>You're quite fierce with a sword, if I do say so myself.<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right, Moth...I mean, your Highness?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right, Moth... I mean, your Highness?<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Me? I'll be fine.<pause><lineend><CC03EA>I don't know who you are, but I'm grateful for your help.<pause><lineend>|
 131075|
@@ -41,7 +41,7 @@
 131081|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Golgotha? Tell me, how did all this happen?<pause><lineend>|
 131082|
-<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was...a book. A possessed book. I remember that it lunged at me.<pause><lineend><CC03EA>Everything after that is a blur.<pause><lineend>|
+<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was... a book. A possessed book. I remember that it lunged at me.<pause><lineend><CC03EA>Everything after that is a blur.<pause><lineend>|
 131083|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>It appears that it took control of your body and used it to attack the kingdom!<pause><lineend>|
 131084|
@@ -61,7 +61,7 @@
 131091|
 <CC03EA><color=0005><string=0114><lineend><color=0001>This keeps getting better and better.<pause><lineend><CC03EA>So a weak little human girl thinks she can take on the mighty Bloody?<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>...That's...The Time Stone! Quickly! Raise it up toward the Demon!<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>...That's... The Time Stone! Quickly! Raise it up toward the Demon!<pause><lineend>|
 196609|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic stones!<pause><lineend>|
 196610|

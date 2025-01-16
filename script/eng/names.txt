@@ -117,9 +117,9 @@ Goblin<lineend>
 Chaotic Eye<lineend>
 Bighook<lineend>
 Edward<lineend>
-Evil Gradriel<lineend>
+EvilGradriel<lineend>
 Evil Eriel<lineend>
-Evil Golgotha<lineend>
+EvilGolgotha<lineend>
 Princess Gradriel<lineend>
 Slavewood<lineend>
 Gabriel<lineend>

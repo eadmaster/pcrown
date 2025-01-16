@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0004><string=0107><lineend><color=0001>Aren't you tired, Sir Edward?<pause><lineend><CC03EA>If you like, I can heal your wounds with my magic.<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=0107><color=0001><choose>Heal me<lineend>Save<lineend>Quit<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0107><color=0001><choose>Heal<lineend>Save<lineend>Quit<lineend><endchoose>|
 2|
 <CC03EA><color=0004><string=0107><lineend><color=0001>All right, Sir Edward.<lineend>Close your eyes.<pause><lineend>|
 3|
