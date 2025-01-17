@@ -8,7 +8,8 @@ export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 xdelta3 -f -d -s KANJI.BIN ../buildcd/KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
 
 # patch items and names
-wine ../buildcd/itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
+iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items_ex.txt -o ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis
+wine ../buildcd/itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 
 # make chars spacing smaller (thanks to paul_met and derek (ateam) for the tips) https://segaxtreme.net/threads/help-me-translate-princess-crown.18555/#post-186226
 #060729A8    E204
@@ -57,16 +58,13 @@ sfk setbytes 0.BIN 0x3BA61 0xB8 -yes
 sfk setbytes 0.BIN 0x47773 0x05 -yes
 sfk setbytes 0.BIN 0x4777B 0x17 -yes
 
-# fix Engrish in the opening https://github.com/eadmaster/pcrown/issues/94
-#  using http://stahlworks.com/sfk-setbytes
-# "A LONG LONG AGO..." -> "A LONG TIME AGO..."
-#sfk setbytes 0.BIN 0xACC8C  "TIME"  -yes
+# fix Engrish text in main program (opening, etc) https://github.com/eadmaster/pcrown/issues/94
 # "A LONG LONG AGO..." -> "LONG LONG AGO..."
 sfk setbytes 0.BIN 0xACC85  "LONG LONG AGO...  "  -yes
 # PROSERPINA RUN A WAY AT TOP SPEED -> PROSERPINA RAN AWAY AT FULL SPEED
 sfk setbytes 0.BIN 0xACDFD  "RAN AWAY AT FULL"  -yes
-# "PARSONS HAPPENED TO BE REAL PORTGUS" -> "PARSON  HAPPENED TO BE REAL PORTGUS"
-sfk setbytes 0.BIN 0xACE35  " PARSON"  -yes
+# "PARSONS HAPPENED TO BE REAL PORTGUS" -> "PARSON HAPPENED TO BE PORTGUS      "
+sfk setbytes 0.BIN 0xACE35  "PARSON HAPPENED TO BE " 0x04 "PORTGUS      "  -yes
 # "BUT THIS CAUSED THE GATE TO UNDERWORLD" -> "AND THIS OPENED THE DEMON REALM'S GATE"
 sfk setbytes 0.BIN 0xACE91  "AND"  -yes
 sfk setbytes 0.BIN 0xACE9A  "OPEN"  -yes
@@ -74,12 +72,17 @@ sfk setbytes 0.BIN 0xACEA5  0x04  -yes
 sfk setbytes 0.BIN 0xACEA6  "DEMON REALM'S GATE"  -yes
 # "GRADRIEL WENT TO FACE THE GREATERDEMONS" -> "GRADRIEL WENT TO FACE THE DEMON KING"
 sfk setbytes 0.BIN 0xACED8  "DEMON KING   "  -yes
+# "FALLDOWN FROM THE BOOKWORLD" (gameover screen)  ->  "FALLEN FROM THE BOOKWORLD"
+sfk setbytes 0.BIN 0xACC3A  "E"  -yes
+sfk setbytes 0.BIN 0xACC3C  "N"  -yes
+sfk setbytes 0.BIN 0xACC3E  " "  -yes
+sfk setbytes 0.BIN 0xACC40  " "  -yes
 
 # fix Engrish in the save manager https://github.com/eadmaster/pcrown/issues/94
 # "The SAVE-FILE has crashed." -> "The SaveFile is corrupted"
 sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
-# "BACK-UP RAM is lacking." -> BACKUP RAM is insuff..
-#sfk setbytes 0.BIN 0xA40D5  "FILE is corrupt"  -yes
+# "BACK-UP RAM is lacking." -> "BACK-UP RAM is full.   "
+sfk setbytes 0.BIN 0xA40E0  "full.   "  -yes
 
 # statically enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 sfk setbytes 0.BIN 0x1EB7F 0x01 -yes

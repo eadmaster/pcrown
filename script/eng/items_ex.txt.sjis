@@ -218,59 +218,59 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All Health restored<pause><lineend>
+<CC03EA><color=0000>All HP restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP restored<pause><lineend>
 <CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
-<CC03EA><color=0000><CC03F7><CC03EC>G<color=0000><lineend><CC03F7><pause>
-<CC03EA><CC03F7><CC03EC>G<color=0000><lineend><CC03F7><pause>
+<CC03EA><color=0000><CC03F7><CC03EC>G<color=0004><lineend><CC03F7><pause>
+<CC03EA><CC03F7><CC03EC>G<color=0005><lineend><CC03F7><pause>
 <CC03EA><color=0000>Stomach full<lineend><pause>
 <CC03EA><color=0000>Max HP increased<lineend><pause>
 <CC03EA><color=0000>Infinite Power<lineend><pause>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Restore Health<lineend>
-Restore Health & Power Boost<lineend>
-Health & Power Boost<lineend>
-Restore Full Health & Power Boost<lineend>
-Health Halved for Power Boost<lineend>
+Restore HP<lineend>
+Restore HP & Infinite Pow. for 30s<lineend>
+Infinite Power for 20s<lineend>
+Restore Full HP & Infinite Power<lineend>
+HP Halved & Infinite Power for 30s<lineend>
 
 
 
 
-Temporary invincibility<lineend>
-Feel no pain<lineend>
-Eat quickly<lineend>
-Attack Power UP<lineend>
-Defense Power UP<lineend>
-â™€ Attack Power 10% UP<lineend>
-â™€ Attack Power 20% UP<lineend>
-â™€ Attack Power 30% UP<lineend>
-â™€ Make more critical hits<lineend>
-â™€ Defense 20% UP<lineend>
-â™€ Defense 50% UP<lineend>
-â™€ Evade automatically<lineend>
-â™€ Speed UP<lineend>
-â™€ Jump UP<lineend>
-â™€ Attacking creates coins<lineend>
-â™€ Enable double jump<lineend>
-â™€ Ice Defense UP<lineend>
-â™€ Fire Defense UP<lineend>
-â™€ Rebound enemy attacks<lineend>
-â™€ Freeze enemies on contact<lineend>
-â™€ Burn enemies on contact<lineend>
-â™€ No-crouch item pick-up<lineend>
-â™€ Defend automatically<lineend>
+Invincible for 20s<lineend>
+No knockback & easy combo for 20s<lineend>
+Eat & drink quickly for 30s<lineend>
+Attack UP for 30s<lineend>
+Defense UP for 30s<lineend>
+Š Attack 10% UP<lineend>
+Š Attack 20% UP<lineend>
+Š Attack 30% UP<lineend>
+Š Make more critical hits<lineend>
+Š Defense 20% UP<lineend>
+Š Defense 50% UP<lineend>
+Š Evade automatically<lineend>
+Š Speed UP<lineend>
+Š Jump UP<lineend>
+Š Attacking creates coins<lineend>
+Š Enable double jump<lineend>
+Š Ice Defense 50% UP<lineend>
+Š Fire Defense 50% UP<lineend>
+Š Rebound enemy attacks<lineend>
+Š Freeze enemies on contact<lineend>
+Š Burn enemies on contact<lineend>
+Š No-crouch item pick-up<lineend>
+Š Defend automatically<lineend>
 Unleash petrification beam<lineend>
 Shoot fireballs<lineend>
 Call down lightning<lineend>
 Shoot ice arrows<lineend>
 Rain down meteors<lineend>
-Launch Holy Light<lineend>
+Restore HP & damage undead enemy<lineend>
 
 Change weak enemies into animals<lineend>
 Imbue sword with magic<lineend>
-Make enemy defenseless<lineend>
+Make enemy unable to guard & evade<lineend>
 Strong winds push the enemy away<lineend>
 Summon Goblin to knock enemy down<lineend>
 Burn undead enemies<lineend>
@@ -283,9 +283,9 @@ Clone attack on enemies<lineend>
 Escape from dungeon<lineend>
 Reload from last save<lineend>
 Anti-petrification<lineend>
-Grill Food<lineend>
-Make Soup<lineend>
-Restore Magic Stones<lineend>
+Grill Food with a Spice in bag<lineend>
+Make Soup with a Spice in bag<lineend>
+Turn Gem to Magic Stone or restore<lineend>
 Strengthen items<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
@@ -301,16 +301,16 @@ Throw at enemies<lineend>
 
 Grow Elixir Fruit during battle<lineend>
 Food Ingredient<lineend>
-Gem to make Magic Stone<lineend>
-Soup Spice<lineend>
-Grilling Spice<lineend>
+Gem to make Magic Stone with Mana<lineend>
+Use to cook with the Soup Pot<lineend>
+Use to cook with the Frying Pan<lineend>
 Potion Ingredient<lineend>
-Stone sought by Hindel<lineend>
+Sought by Hindel west of Knelt<lineend>
 Use to travel in time<lineend>
-Piece of music scroll<lineend>
-Young Wizard's memento<lineend>
-Lost key<lineend>
-Broken sword<lineend>
+Give to the Bard in Valenadine<lineend>
+Return to a Wizard in Cadho Badho<lineend>
+Open the cave south of Cemeteryth<lineend>
+Return to its owner in Volga Town<lineend>
 Sense enemies<lineend>
 Lend a hand in battle<lineend>
 Give items during battle<lineend>

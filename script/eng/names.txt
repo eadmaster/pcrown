@@ -70,7 +70,7 @@ Kwein<lineend>
 Golgotha<lineend>
 Heindel<lineend>
 Jadis<lineend>
-Samantha<lineend>
+NecroSamantha<lineend>
 Ondine<lineend>
 Faras<lineend>
 Forbidden Book<lineend>
@@ -117,9 +117,9 @@ Goblin<lineend>
 Chaotic Eye<lineend>
 Bighook<lineend>
 Edward<lineend>
-EvilGradriel<lineend>
+Evil Gradriel<lineend>
 Evil Eriel<lineend>
-EvilGolgotha<lineend>
+Evil Golgotha<lineend>
 Princess Gradriel<lineend>
 Slavewood<lineend>
 Gabriel<lineend>

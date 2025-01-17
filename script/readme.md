@@ -10,6 +10,8 @@
     ├── events                   # dialogues, parsed by the eventeditor
     ├── events_splitted_35chars  # dialogues, empty dir auto-populated while building
     ├── items.txt                # items and status messages, parsed by itemsutil
+    ├── items.txt.sjis           # items and status messages, auto-converted while building (do not edit this one)
+    ├── items_ex.txt             # more detailed items and status messages used in the EX version
     ├── names.txt                # characters and enemies names, parsed by itemsutil
 │   └── ...  # other files are unused
 ```

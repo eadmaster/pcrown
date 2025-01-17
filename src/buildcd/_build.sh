@@ -4,7 +4,7 @@
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 # Requirements:
-# - apt install iat  p7zip-full  xdelta3  wine  python3
+# - apt install iat  p7zip-full  xdelta3  wine  python3  iconv
 # - cd-replace (manual install) https://github.com/mistydemeo/cd-replace
 # - skf (manual install)  https://sourceforge.net/projects/swissfileknife/
 # - eventeditor.exe (build via ../eventeditor/_build.sh)

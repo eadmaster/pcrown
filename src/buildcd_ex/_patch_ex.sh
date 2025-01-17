@@ -2,7 +2,8 @@
  
  
 # Requirements:
-# - Princess Crown-Hack_(v1.1).7z download from https://meduza-team.ucoz.net/publ/romkhaking/modifikacii/modifikacija_igr_dlja_sega_saturn/3-1-0-5
+# - pre-patched "../buildcd/Princess Crown (Japan) (1M) (Track 01) (patched).bin"
+# - Princess Crown-Hack_(v1.1).7z  downloaded from https://meduza-team.ucoz.net/publ/romkhaking/modifikacii/modifikacija_igr_dlja_sega_saturn/3-1-0-5
 
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 

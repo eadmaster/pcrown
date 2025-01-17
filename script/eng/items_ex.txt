@@ -238,7 +238,7 @@ HP Halved & Infinite Power for 30s<lineend>
 
 
 
-Temporary invincibility for 20s<lineend>
+Invincible for 20s<lineend>
 No knockback & easy combo for 20s<lineend>
 Eat & drink quickly for 30s<lineend>
 Attack UP for 30s<lineend>
@@ -354,7 +354,7 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><CC03F4>'s attack not evaded!<pause><lineend>
 <CC03EA><CC03F4> knocked you back!<pause><lineend>
 <CC03EA><CC03F4> broke your defense!<pause><lineend>
-<CC03EA><CC03F4> caught you off guard!<pause><lineend>
+<CC03EA><CC03F4> found an opening!<pause><lineend>
 <CC03EA><CC03F4> turned to gold!!<pause><lineend>
 <CC03EA><CC03F4> is breathing ice!<pause><lineend>
 <CC03EA><CC03F4> will throw sharp ice!<pause><lineend>
