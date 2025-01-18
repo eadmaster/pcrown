@@ -218,7 +218,7 @@ Cure Drop<lineend>
 
 
 
-<CC03EA><color=0000>All Health restored<pause><lineend>
+<CC03EA><color=0000>All health restored<pause><lineend>
 <CC03EA><color=0000><CC03EC> HP restored<pause><lineend>
 <CC03EA><color=0000><CC03F7><lineend><pause><color=0000><CC03F7>
 <CC03EA><color=0000><CC03F7><CC03EC>G<color=0000><lineend><CC03F7><pause>
@@ -229,11 +229,11 @@ Cure Drop<lineend>
 <CC03EA><color=0000>Nothing happened<lineend><pause>
 
 
-Restore Health<lineend>
-Restore Health & Power Boost<lineend>
-Health & Power Boost<lineend>
-Restore Full Health & Power Boost<lineend>
-Health Halved for Power Boost<lineend>
+Restore health<lineend>
+Restore health & Power boost<lineend>
+Power boost<lineend>
+Restore full health & Power boost<lineend>
+Health halved for Power boost<lineend>
 
 
 
@@ -241,11 +241,11 @@ Health Halved for Power Boost<lineend>
 Temporary invincibility<lineend>
 Feel no pain<lineend>
 Eat quickly<lineend>
-Attack Power UP<lineend>
-Defense Power UP<lineend>
-♀ Attack Power 10% UP<lineend>
-♀ Attack Power 20% UP<lineend>
-♀ Attack Power 30% UP<lineend>
+Attack UP<lineend>
+Defense UP<lineend>
+♀ Attack 10% UP<lineend>
+♀ Attack 20% UP<lineend>
+♀ Attack 30% UP<lineend>
 ♀ Make more critical hits<lineend>
 ♀ Defense 20% UP<lineend>
 ♀ Defense 50% UP<lineend>
@@ -266,7 +266,7 @@ Shoot fireballs<lineend>
 Call down lightning<lineend>
 Shoot ice arrows<lineend>
 Rain down meteors<lineend>
-Launch Holy Light<lineend>
+Shoot arrows of holy light<lineend>
 
 Change weak enemies into animals<lineend>
 Imbue sword with magic<lineend>
@@ -299,7 +299,7 @@ Throw at enemies<lineend>
 
 
 
-Grow Elixir Fruit during battle<lineend>
+Grow Elixir Fruit<lineend>
 Food Ingredient<lineend>
 Gem to make Magic Stone<lineend>
 Soup Spice<lineend>
@@ -307,7 +307,7 @@ Grilling Spice<lineend>
 Potion Ingredient<lineend>
 Stone sought by Hindel<lineend>
 Use to travel in time<lineend>
-Piece of music scroll<lineend>
+Piece of a music scroll<lineend>
 Young Wizard's memento<lineend>
 Lost key<lineend>
 Broken sword<lineend>
@@ -319,9 +319,9 @@ Combo attack in battle<lineend>
 Dispel curses<lineend>
 Bombard enemies in battle<lineend>
 Offer healing in battle<lineend>
-Grow Healing Flower during battle<lineend>
-Grow Power Flower during battle<lineend>
-Grow Bomb Plant during battle<lineend>
+Grow Healing Flower<lineend>
+Grow Power Flower<lineend>
+Grow Bomb Plant<lineend>
 
 
 
@@ -415,8 +415,8 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> is cursed<lineend><pause>
-<CC03EA><color=0000>You don't have any Food items<lineend><pause>
-<CC03EA><color=0000>You have no spice<lineend><pause>
+<CC03EA><color=0000>You have no Food Ingredients<lineend><pause>
+<CC03EA><color=0000>You have no Spice<lineend><pause>
 <CC03EA><color=0000>Change item's location<lineend><pause>
 <CC03EA><color=0000>Swap bag contents<lineend><pause>
 <CC03EA><color=0000>Main Bag<lineend><pause>

@@ -260,7 +260,7 @@ Defense UP for 30s<lineend>
 ♀ Freeze enemies on contact<lineend>
 ♀ Burn enemies on contact<lineend>
 ♀ No-crouch item pick-up<lineend>
-♀ Defend automatically<lineend>
+♀ Guard automatically<lineend>
 Unleash petrification beam<lineend>
 Shoot fireballs<lineend>
 Call down lightning<lineend>
@@ -415,8 +415,8 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> is cursed<lineend><pause>
-<CC03EA><color=0000>You don't have any Food items<lineend><pause>
-<CC03EA><color=0000>You have no spice<lineend><pause>
+<CC03EA><color=0000>You have no Food Ingredients<lineend><pause>
+<CC03EA><color=0000>You have no Spice<lineend><pause>
 <CC03EA><color=0000>Change item's location<lineend><pause>
 <CC03EA><color=0000>Swap bag contents<lineend><pause>
 <CC03EA><color=0000>Main Bag<lineend><pause>

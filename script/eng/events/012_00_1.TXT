@@ -29,9 +29,9 @@
 14|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr... What would I want with that piece of junk!<pause><lineend>|
 15|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swallow sometime. You'll be in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swig sometime. You'll be in <CC03EF=0028>ecs-ta-sy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
 16|
-<CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 17|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!! Come again!!<pause><lineend>|
 18|
@@ -49,7 +49,7 @@
 24|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at home!<pause><lineend>|
 25|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n' shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
 26|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
 27|

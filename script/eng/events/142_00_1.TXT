@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0059><lineend><color=0001>I'll give you one for only 1000G!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=0059><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0059><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 8|
 <CC03EA><color=0006><string=0059><lineend><color=0001>Anything you say. Just let me know if you change your mind?<pause><lineend>|
 9|

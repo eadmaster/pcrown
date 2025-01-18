@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0005><string=009C><lineend><color=0001>You can have it for 300G!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=009C><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=009C><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 8|
 <CC03EA><color=0005><string=009C><lineend><color=0001>Great! Let's do business again sometime!<pause><lineend>|
 9|
@@ -55,7 +55,7 @@
 27|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at home!<pause><lineend>|
 28|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n' shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
 29|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
 30|

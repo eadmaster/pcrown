@@ -43,7 +43,7 @@
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The day I took the crown, people from all over the kingdom came to ask me for help.<pause><lineend><CC03EA>How could I answer them when the only world I understood was the one inside the castle?<pause><lineend><CC03EA>I could never be as helpful to people as my Mother was if I were to go on living that way.<pause><lineend><CC03EA>That's why I left.<lineend><pause><CC03EA>Though I may have done the wrong thing by leaving the castle without telling anyone...<lineend><pause>|
 65538|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>But it was because you left the castle and came all this way that you could save us.<pause><lineend><CC03EA>I don't think there's a single person in the whole village would say you were wrong.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>But it was because you left the castle and came all this way that you could save us.<pause><lineend><CC03EA>I don't think there's a single person in the whole village who would say you were wrong.<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>In the end, there's more than one path to becoming a great Queen.<pause><lineend>|
 65540|

@@ -25,7 +25,7 @@
 12|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes. It should be all right now.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>That means Yggdrasil Tree isn't going to wilt!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It will always be here to quietly watch over the world...<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You really did it! Thank you! Thank you so much!!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>That means the Yggdrasil Tree isn't going to wilt!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It will always be here to quietly watch over the world...<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You really did it! Thank you! Thank you so much!!<lineend><CC03F1=0166><pause>|
 14|
 <CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>We'd like you to have this bag, and this Yggdrasil Fruit, too!<lineend><CC03F1=0166><pause>|
 15|
@@ -39,6 +39,6 @@
 19|
 <CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Thanks to you, the Yggdrasil Tree will bear lots of fruit!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You're the best!<lineend><CC03F1=0166><pause>|
 20|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Try coming again later. I think the Yggdrasil will bear some new fruit before long.<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Try coming again later. I think the Yggdrasil Tree will bear some new fruit before long.<lineend><CC03F1=0166><pause>|
 21|
 <CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>A few Yggdrasil Fruits are ripe. You might as well take them!<lineend><CC03F1=0166><pause>|

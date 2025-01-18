@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0005><string=009C><lineend><color=0001>You can have it for 300G!<pause><lineend>|
 7|
-<CC03EA><CC03FC=0004><string=009C><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=009C><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 8|
 <CC03EA><color=0005><string=009C><lineend><color=0001>Great! Let's do business again sometime!<pause><lineend>|
 9|
@@ -45,9 +45,9 @@
 22|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that piece of junk!<pause><lineend>|
 23|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swallow sometime. You'll be in <CC03EF=0028>ecs-ta-cy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swig sometime. You'll be in <CC03EF=0028>ecs-ta-sy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
 24|
-<CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>No thanks<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01BB><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 25|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!! Come again!!<pause><lineend>|
 26|
@@ -65,7 +65,7 @@
 32|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Make yourself at home!<pause><lineend>|
 33|
-<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
+<CC03EA><color=0005><string=01BC><lineend><color=0001>Mornin'! Time to rise 'n' shine!<pause><lineend><CC03EA>Take care now. Bye bye!<pause><lineend>|
 34|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Suit yourself. Maybe next time.<pause><lineend>|
 35|

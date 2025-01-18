@@ -89,7 +89,7 @@
 327681|
 <CC03EA><color=0004><string=012A><lineend><color=0001>I didn't quite understand that the chains were restoring his human heart.<pause><lineend><CC03EA>Although he started acting like a beast the moment I removed them...<pause><lineend><CC03EA>...I'm sure that his heart is still alive inside him.<pause><lineend>|
 327682|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>If that book changed him into the Demon King...<pause><lineend><CC03EA>...then what happened to him is no different from what happened to Golgotha, or to Eriel.<pause><lineend><CC03EA>Though one question remains: For all he has changed and for all the power he has...<pause><lineend><CC03EA>...could the Demon King ever truly change back into a human?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>If that book changed him into the Demon King...<pause><lineend><CC03EA>...then what happened to him is no different from what happened to Golgotha, or to Eriel.<pause><lineend><CC03EA>Though one question remains: for all he has changed and for all the power he has...<pause><lineend><CC03EA>...could the Demon King ever truly change back into a human?<pause><lineend>|
 327683|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sidrael, if it comes to a battle between our Kingdom and the Demon King...<pause><lineend><CC03EA>...I'll have to fight him to protect our people.<pause><lineend>|
 327684|

@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0035><lineend><color=0001>Leon told me everything about you. He said you beat up that big snake!<pause><lineend><CC03EA>And that's why Mom and Dad and everyone in the village is back to normal. Thank you!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>Leon told me everything about you. He said you beat up that big snake!<pause><lineend><CC03EA>And that's why Mom and Dad and everyone in the village are back to normal. Thank you!<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Maybe it's because I had to hold the same pose for so long, but my shoulders are killing me.<pause><lineend>|
 2|

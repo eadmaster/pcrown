@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>There are goods coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend><CC03EA>Get 'em while they last! Round-Leaf Grass! One for only 6G!!<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=005E><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=005E><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 2|
 <CC03EA><color=0006><string=005E><lineend><color=0001>Come again!<pause><lineend>|
 3|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=005A><lineend><color=0001>I just picked up some Magic Swords. I'll sell one to you for 16G.<pause><lineend>|
 12|
-<CC03EA><CC03FC=0004><string=005A><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=005A><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 13|
 <CC03EA><color=0006><string=005A><lineend><color=0001>Come again!<pause><lineend>|
 14|
@@ -45,7 +45,7 @@
 22|
 <CC03EA><color=0006><string=005F><lineend><color=0001>Care for some Power Plant Seeds? You can have one. For 2000G, that is.<pause><lineend>|
 23|
-<CC03EA><CC03FC=0004><string=005F><color=0001><choose>Buy<lineend>Don't buy<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=005F><color=0001><choose>Buy<lineend>No<lineend><endchoose>|
 24|
 <CC03EA><color=0006><string=005F><lineend><color=0001>Come again!<pause><lineend>|
 25|
