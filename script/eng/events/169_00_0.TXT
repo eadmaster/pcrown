@@ -55,7 +55,7 @@
 27|
 <CC03EA><color=0006><string=005F><lineend><color=0001>Here you go, big spender! One Power Plant Seed!<pause><lineend>|
 28|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 29|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My Dad's a really good salesman!<pause><lineend>|
 30|

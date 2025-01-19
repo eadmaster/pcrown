@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=005E><lineend><color=0001>Cadho Badho is the perfect place for doing business.<pause><lineend><CC03EA>There are goods coming in from all over the kingdom, and people who want to buy them, too.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Ondine...or whatever her name is...<pause><lineend><CC03EA>It turns out all she wants is to be friends with humans.<pause><lineend><CC03EA>If that's true, maybe I'll take the kids to meet her. We could all share a picnic!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Ondine... or whatever her name is...<pause><lineend><CC03EA>It turns out all she wants is to be friends with humans.<pause><lineend><CC03EA>If that's true, maybe I'll take the kids to meet her. We could all share a picnic!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Hey, have you ever been to the <color=0003>Dwarf Kingdom<color=0001> before?<pause><lineend><CC03EA>One of the mines there is absolutely packed with beautiful Gems.<pause><lineend><CC03EA>I'd like to see it for myself, but my dad keeps saying there are too many monsters to go.<pause><lineend><CC03EA>I don't buy it. Monsters? In a peaceful country like ours? No way.<pause><lineend>|
 3|
@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 15|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
 16|

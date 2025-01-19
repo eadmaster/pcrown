@@ -63,9 +63,9 @@
 31|
 <CC03F0=002E00320000001903FF00000000>|
 32|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, we're certain about it.<pause><lineend>A red-haired witch is in a cave on the<color=0005>southwest path to Amberstep.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Your Majesty, we're certain about it.<pause><lineend><CC03EA>A red-haired witch is in a cave on the <color=0005>southwest path to Amberstep.<color=0001><pause><lineend>|
 33|
-<CC03EA><color=0002><string=0000><lineend><color=0001>This is certain.<lineend>The cavern was said to be in the<color=0002>southwest.<color=0001><pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>This is certain.<lineend>The cavern was said to be in the <color=0002>southwest.<color=0001><pause><lineend>|
 34|
 <CC03F0=000000880001000A03FF00000000>|
 35|

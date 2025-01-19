@@ -54,6 +54,8 @@ replace_sign  shop  88
 replace_sign  med_shop  88
 # Item (shop) (24*11/2 = 132 bytes)
 replace_sign  item_shop  132
+# Item (shop) (40*11/2=220) -> test in 035-05
+replace_sign  item_shop2  220
 # Inn (shop)(16*11/2 = 88 bytes)
 replace_sign  inn  88
 # Baker (shop) (24*10/2=120) -> test in 004-00
@@ -145,6 +147,8 @@ replace_sign  jadis  396
 replace_sign  pumpkin_house  528
 # cave (24*11/2=132) -> test in 047-00
 replace_sign  cave  132
+# southwest (40*11/2=220) -> test in 033-00
+replace_sign  southwest  220
 # southeast (40*11/2=220) -> test in 047-00
 replace_sign  southeast  220
 # Heindel's (72*11/2=396) -> test in 148-07

@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
 16|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
 18|
@@ -39,7 +39,7 @@
 19|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
 20|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could you forget about what I just said?<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady... Could you forget about what I just said?<pause><lineend>|
 21|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 22|

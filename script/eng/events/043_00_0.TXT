@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing a Goldsmith's Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
+<CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 15|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
 16|
