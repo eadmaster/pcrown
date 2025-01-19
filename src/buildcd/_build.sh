@@ -31,6 +31,7 @@ cp "Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"
 
 # patch font, items and names -> alters 0.BIN, KANJI.BIN
 source _patch_items.sh
+#WIP: source _patch_items_vwf.sh
 
 # patch events
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'
@@ -59,8 +60,10 @@ cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed
 xdelta3 -f -d -s 176_00_0.EVN 176_00_0.EVN.xdelta 176_00_0.EVN.fixed
 cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed
 # temp. fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
-xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
-cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.fixed
+#xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
+#cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.fixed
+sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
+cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng
 # temp. fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
 sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
 sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
