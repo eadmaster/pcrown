@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Hey Mister, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My Mom told me so.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0015><lineend><color=0001>The Demons are coming again... Probably from the cursed land of Bindfair...<pause><lineend>|
+<CC03EA><color=0006><string=0015><lineend><color=0001>The Demons are coming again... Probably from the cursed land of Bindfear...<pause><lineend>|
 15|
 <CC03EA><color=0006><string=001D><lineend><color=0001>I never expected to see Demons ever again...<pause><lineend>|
 16|

@@ -25,7 +25,7 @@
 65548|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha...the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfair, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my Father is in there.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my Father is in there.<lineend><CC03ED=00010003000103FF><pause>|
 65550|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward, no!<pause><lineend>|
 65551|
@@ -37,7 +37,7 @@
 65554|
 <CC03EA><color=0004><string=017D><lineend><color=0001>I have to go to the Demon Realm to save my sister.<pause><lineend>|
 65555|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You came by yourself...Find a safe place and leave this one to me.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You came by yourself... Find a safe place and leave this one to me.<pause><lineend>|
 65556|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel, get back!!<pause><lineend>|
 131072|
@@ -53,7 +53,7 @@
 131077|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward!<pause><lineend>|
 131078|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel...This time, I really do owe you one.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel... This time, I really do owe you one.<pause><lineend>|
 131079|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Beyond this door lies the Demon Realm. Going inside?<pause><lineend>|
 131080|

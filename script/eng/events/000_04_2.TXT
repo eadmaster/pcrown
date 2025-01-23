@@ -61,7 +61,7 @@
 327681|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Where is this?<pause><lineend>|
 327682|
-<CC03EA><CC03FC=0004><string=0110>Allow me to apologize for the rough journey you've had.<pause><lineend><CC03EA>This is Bindfair...<pause><lineend><CC03EA>Otherwise known to you humans as the Demon Realm.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110>Allow me to apologize for the rough journey you've had.<pause><lineend><CC03EA>This is Bindfear...<pause><lineend><CC03EA>Otherwise known to you humans as the Demon Realm.<pause><lineend>|
 327683|
 <CC03EA><color=0004><string=012A><lineend><color=0001>The Demon Realm!?<pause><lineend>|
 327684|
@@ -69,7 +69,7 @@
 327685|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Oh no...<pause><lineend>|
 327686|
-<CC03EA><color=0005><string=0110><lineend><color=0001>My name is Volgrod. I am the King of Bindfair and the Lord of this tower.<pause><lineend>|
+<CC03EA><color=0005><string=0110><lineend><color=0001>My name is Volgrod. I am the King of Bindfear and the Lord of this tower.<pause><lineend>|
 327687|
 <CC03EA><color=0005><string=0110><lineend><color=0001>These loathsome chains are bound tightly around my heart.<pause><lineend>|
 327688|
