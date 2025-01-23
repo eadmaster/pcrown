@@ -51,7 +51,7 @@
 65543|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run away!<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=007D>Soldiers! <pause><lineend><CC03EA>Protect the village from Dragons! <pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Knights!  <pause><lineend><CC03EA>Protect the village from Dragons! <pause><lineend>|
 131073|
 <CC03EA><CC03FC=0004><string=007D>Playtime's over for you now!<pause><lineend>|
 196608|
@@ -83,13 +83,13 @@
 196621|
 <CC03EA><color=0004><string=0129><lineend><color=0001>A passage... <pause><lineend>|
 262144|
-<CC03EA><CC03FC=0004><string=010D>It's been..<pause><lineend><CC03EA>so long...  <lineend>since i had company<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D>It's been..<pause><lineend><CC03EA>so long...  <lineend>since I had company<pause><lineend>|
 262145|
 <CC03EA><color=0004><string=0129><lineend><color=0001>It talks!<pause><lineend>|
 262146|
 <CC03EA><CC03FC=0004><string=010D>Excuse me...<pause><lineend>|
 262147|
-<CC03EA><CC03FC=0004><string=010D><color=0001>My name is<lineend>Larva, i know <pause><lineend><CC03EA>a magic power is <lineend>hidden by  <lineend>the Demon King...<pause><lineend><CC03EA>If you'll release <lineend>me, i shall give <lineend>you my knowledge.  <pause><lineend><CC03EA>I was <lineend>trapped by a    <lineend>foolish wizard...  <pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D><color=0001>My name is<lineend>Larva, I know <pause><lineend><CC03EA>a magic power is <lineend>hidden by  <lineend>the Demon King...<pause><lineend><CC03EA>If you'll release <lineend>me, I shall give <lineend>you my knowledge.  <pause><lineend><CC03EA>I was <lineend>trapped by a    <lineend>foolish wizard...  <pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No, I can't..<pause><lineend>|
 262149|
@@ -103,7 +103,7 @@
 262153|
 <CC03EA><color=0004><string=0129><lineend><color=0001>But... <pause><lineend>|
 262154|
-<CC03EA><color=0005><string=010D><lineend><color=0001>My knwoledge can<lineend>end all sorrows<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>My knowledge can<lineend>end all sorrows<pause><lineend>|
 262155|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Can it cure sis?<pause><lineend>|
 262156|

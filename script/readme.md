@@ -9,19 +9,18 @@
 └── eng   # English script translation (files match 1-to-1 those in the jap folder)
     ├── events                   # dialogues, parsed by the eventeditor
     ├── events_splitted_35chars  # splitted dialogues, dir populated while building (do not edit these)
-    ├── items.txt                # items and status messages, parsed by itemsutil
+    ├── items.txt                # items and status messages, parsed by itemsutil (UTF-8-encoded)
     ├── items.txt.sjis           # items and status messages, generated while building (do not edit this one)
-    ├── items_ex.txt             # more detailed items and status messages used in the EX version
+    ├── items_ex.txt             # more detailed items and status messages used in the EX version  (UTF-8-encoded)
     ├── names.txt                # characters and enemies names, parsed by itemsutil
 │   └── ...  # other files are unused
 ```
 
-All text files are Shift-JIS encoded.
+With the exception of `items*.txt`, all text files are Shift-JIS encoded.
 
-Events currently not parsed automatically due to bugs:
+Currently these two events have size restrictions due to bugs:
  
- - 015_00_1  https://github.com/eadmaster/pcrown/issues/30
- - 176_00_0  https://github.com/eadmaster/pcrown/issues/88
- - 041_00_1  https://github.com/eadmaster/pcrown/issues/71
+ - 015_00_1.TXT  https://github.com/eadmaster/pcrown/issues/30
+ - 176_00_0.TXT  https://github.com/eadmaster/pcrown/issues/88
 
-TIP: to easily test these use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats). Alternatively, if using savestates, keep in mind the current event file is cached in RAM, so you must go through a black loading screen to reload from disk.
+TIP: to easily test any event file, use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats). Alternatively, if using savestates, keep in mind the current event is cached in RAM, so you must go through a loading screen to reload from disk.
