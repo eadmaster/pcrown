@@ -99,6 +99,8 @@ replace_sign  castle  528
 replace_sign  empty  220
 # floor_sub (24*11/2 = 132) -> test in 100-12
 replace_sign floor_sub 132
+# floor_top (24*11/2=132) -> test in 038-15
+replace_sign floor_top 132
 # port (16*11/2 = 88) -> test in 039-00
 replace_sign  port  88
 # uptown/innertown (40*11/2) -> test in 061-00
@@ -169,6 +171,10 @@ replace_sign  elfaran  440
 replace_sign  room_guest  132
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2  20
+# artist (24*11/2=132) -> test in 039-03 (save-dependent)
+replace_sign  artist  132
+# 's house (24*11/2=132) -> test in 039-03 (save-dependent)
+replace_sign  shouse  132
 
 # replace all the chr files with updated signs
 find *.CHR -mtime -1 | while read chrfile; do     
@@ -221,18 +227,17 @@ sfk setbytes COMM.PAK 0x5E7E 0x0000000000000000 -yes
 #sfk setbytes COMM.PAK 0x623C 0x4103 -yes             # H->O
 #sfk setbytes COMM.PAK ... 0x0x0000000000000000 -yes  # O->invisible
 # "EARTH ON TRUSE TERA"-> "  ARS ON TULA      " 
-sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes  # E->invisible
-sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes  # A->invisible
-sfk setbytes COMM.PAK 0x64F4 0x40F5 -yes              # R->A
-#WIP: sfk setbytes COMM.PAK 0x64F4 0x40F520082308230F200F -yes              # R->A = 002604F0
-sfk setbytes COMM.PAK 0x64E8 0x4105 -yes              # T->R = 
-sfk setbytes COMM.PAK 0x64DC 0x4106 -yes              # H->S
-#                                                       O unchanged
-#                                                       N unchanged = 002604C0
-#                                                       T unchanged
-sfk setbytes COMM.PAK 0x64AC 0x4108 -yes              # R->U
-sfk setbytes COMM.PAK 0x6458 0x4100 -yes              # U->L
-sfk setbytes COMM.PAK 0x64A0 0x40F5 -yes              # S->A
+sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes          # E->invisible
+sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes          # A->invisible
+sfk setbytes COMM.PAK 0x64F4 0x40f51f081808180f1f0f0055 -yes  # R->A, moved 11 right
+sfk setbytes COMM.PAK 0x64E8 0x410518081108110f180f0055 -yes  # T->R, moved 11 right
+sfk setbytes COMM.PAK 0x64DC 0x410611080a080a0f110f0055 -yes  # H->S, moved 12 right
+sfk setbytes COMM.PAK 0x64D0 0x41030a080308030f0a0f0055 -yes  # O unchanged, moved 9 right
+sfk setbytes COMM.PAK 0x64C4 0x410104080308030f040f0041 -yes  # N unchanged, moved 9 right
+sfk setbytes COMM.PAK 0x64B8 0x410703080a080a0f030f0000 -yes  # T unchanged, moved 7 right
+sfk setbytes COMM.PAK 0x64AC 0x410809081008100f090f0000 -yes  # R->U, moved 7 right 
+sfk setbytes COMM.PAK 0x6458 0x410010081708170f100f0000 -yes  # U->L, moved 7 right 
+sfk setbytes COMM.PAK 0x64A0 0x40f517081e081e0f170f0000 -yes  # S->A, moved 7 right 
 sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes  # E->invisible
 sfk setbytes COMM.PAK 0x6484 0x0000000000000000 -yes  # T->invisible
 sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes  # E->invisible
