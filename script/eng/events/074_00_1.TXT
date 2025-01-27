@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0028><lineend><color=0001>I heard that the kingdom down south is under attack by Demons.<pause><lineend><CC03EA>It makes us all the more relieved that Volga is the home of the Warrior King.<pause><lineend><CC03EA>You heard right. The King himself is the strongest of all our Holy Knights!<pause><lineend>|
 2|
-<CC03EA><color=0006><string=005E><lineend><color=0001>It's been a long time since it was possible to travel to the Valendia Kingdom.<pause><lineend><CC03EA>If I got into the import business, I could make a killing selling rare imported goods!<pause><lineend>|
+<CC03EA><color=0006><string=005E><lineend><color=0001>It's been a long time since it was possible to travel to the Valendia Kingdom.<pause><lineend><CC03EA>If I got into the import business, I could make a fortune selling rare imported goods!<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Our King, Lord Jadis, is both a King and a Warrior of the Holy Knights.<pause><lineend><CC03EA>That's why we call him the Warrior King.<pause><lineend>|
 4|

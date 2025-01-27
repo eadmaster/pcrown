@@ -269,7 +269,7 @@ Rain down meteors<lineend>
 Restore HP & damage undead enemy<lineend>
 
 Change weak enemies into animals<lineend>
-Imbue sword with magic<lineend>
+Create and throw 3 Daggers<lineend>
 Make enemy unable to guard & evade<lineend>
 Strong winds push the enemy away<lineend>
 Summon Goblin to knock enemy down<lineend>
@@ -281,7 +281,7 @@ Sword gains lightning magic<lineend>
 Turn enemy into gold statue<lineend>
 Clone attack on enemies<lineend>
 Escape from dungeon<lineend>
-Reload from last save<lineend>
+Reload from last save, keep Exp<lineend>
 Anti-petrification<lineend>
 Grill Food with a Spice in bag<lineend>
 Make Soup with a Spice in bag<lineend>
@@ -293,7 +293,7 @@ Check item for curse<lineend>
 Throwing sword<lineend>
 Magic throwing sword<lineend>
 Throw at flying enemies<lineend>
-Explodes where dropped<lineend>
+Explodes where thrown<lineend>
 Damage undead enemies<lineend>
 Throw at enemies<lineend>
 

@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>When there are no Dragons around, Dorangora is a great little village!<pause><lineend><CC03EA>I'm going to keep up the fight against the Dragons until we have peace again.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0050><lineend><color=0001>We all know you've got to equip an Equipment Item or it won't work.<pause><lineend><CC03EA>Just remember that when you get knocked down, the thing you've got equipped can break.<pause><lineend><CC03EA>I wonder if one of these books tells how to keep that from happening...<pause><lineend>|
+<CC03EA><color=0006><string=0050><lineend><color=0001>We all know Equipment Items have no effect unless you equip them.<pause><lineend><CC03EA>Just remember that when you get knocked down, the thing you've got equipped can break.<pause><lineend><CC03EA>I wonder if one of these books tells how to keep that from happening...<pause><lineend>|
 12|
 <CC03EA><color=0006><string=01A5><lineend><color=0001>Welcome! We have many items that will help you in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 13|

@@ -121,7 +121,7 @@ replace_sign  inn_room  132
 replace_sign  mine  132
 # king's palace (40*11/2=220) -> test in 055-00
 replace_sign  kings  220
-# track (48*10/2=240) -> test in 055-00
+# truck/track (48*10/2=240) -> test in 055-00
 replace_sign  track  240
 # chase (64*11/2=352) -> test in 055-00
 replace_sign  chase  352
