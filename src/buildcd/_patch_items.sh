@@ -8,38 +8,54 @@ export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 # patch the font
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" KANJI.BIN
 xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
+#cp KANJI_ENG_narrow.BIN KANJI_ENG.BIN
+#cp KANJI_ENG_couriernew.BIN KANJI_ENG.BIN
+#cp KANJI_ENG_geomon5px.BIN KANJI_ENG.BIN
 
 # patch items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" 0.BIN
 iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items.txt -o ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis
 wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 
-# make chars spacing smaller (thanks to paul_met and derek (ateam) for the tips) https://segaxtreme.net/threads/help-me-translate-princess-crown.18555/#post-186226
+# make chars spacing smaller  https://github.com/eadmaster/pcrown/issues/1#issuecomment-2439672329
 #060729A8    E204
 #06072994    E204
 #0607297C    E204
 #hexcalc '060729A8 - 06004000 + 1' = 6E9A9
 #hexcalc '06072994 - 06004000 + 1' = 6E995
 #hexcalc '0607297C - 06004000 + 1' = 6E97D
-sfk setbytes 0.BIN 0x6E9A9 0x04 -yes
-sfk setbytes 0.BIN 0x6E995 0x04 -yes
-sfk setbytes 0.BIN 0x6E97D 0x04 -yes
+sfk setbytes 0.BIN 0x6E9A9 0x03 -yes
+sfk setbytes 0.BIN 0x6E995 0x03 -yes
+sfk setbytes 0.BIN 0x6E97D 0x03 -yes
 
-# dialog fixes (thanks to paul_met)  https://github.com/eadmaster/pcrown/issues/1
+# dialog choice fixes  https://github.com/eadmaster/pcrown/issues/1#issuecomment-2439839754
 #06074248    04 = 70248
 #060742A2    04 = 702A2
 #0607401A    04 = 7001A
 #06074020    04 = 70020
 #060742EE    88 = 702EE
 #060742BA    3A = 702BA
-sfk setbytes 0.BIN 0x70249 0x04 -yes
-sfk setbytes 0.BIN 0x702A3 0x04 -yes
-sfk setbytes 0.BIN 0x7001B 0x04 -yes
-sfk setbytes 0.BIN 0x70021 0x04 -yes
-sfk setbytes 0.BIN 0x702EF 0x88 -yes
+sfk setbytes 0.BIN 0x70249 0x03 -yes
+sfk setbytes 0.BIN 0x702A3 0x03 -yes
+sfk setbytes 0.BIN 0x7001B 0x03 -yes
+sfk setbytes 0.BIN 0x70021 0x03 -yes
+sfk setbytes 0.BIN 0x702EF 0x89 -yes
 sfk setbytes 0.BIN 0x702BB 0x3A -yes
 
-# items description fixes (thanks to paul_met) https://github.com/eadmaster/pcrown/issues/57
+# OLD 6px font:
+#cp KANJI_ENG_Traysia.BIN KANJI_ENG.BIN
+#sfk setbytes 0.BIN 0x6E9A9 0x04 -yes
+#sfk setbytes 0.BIN 0x6E995 0x04 -yes
+#sfk setbytes 0.BIN 0x6E97D 0x04 -yes
+#
+#sfk setbytes 0.BIN 0x70249 0x04 -yes
+#sfk setbytes 0.BIN 0x702A3 0x04 -yes
+#sfk setbytes 0.BIN 0x7001B 0x04 -yes
+#sfk setbytes 0.BIN 0x70021 0x04 -yes
+#sfk setbytes 0.BIN 0x702EF 0x88 -yes
+#sfk setbytes 0.BIN 0x702BB 0x3A -yes
+
+# items description fixes / double-line hack  https://github.com/eadmaster/pcrown/issues/57
 sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (max=1A)
 # Tile map address (window #1)
 sfk setbytes 0.BIN 0x47732 0xB308 -yes
@@ -96,8 +112,8 @@ sfk setbytes 0.BIN 0xA40E0  "full.   "  -yes
 #rm 0_org.BIN
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
-# "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.8.1"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997    T-ENG V0.8.1"  -yes
+# "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.X.Y"
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997    T-ENG V0.8.5"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN

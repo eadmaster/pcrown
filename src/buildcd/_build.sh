@@ -36,20 +36,20 @@ source _patch_items.sh
 # patch events
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'
 # enforce correct line splitting
-mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars
+mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
-    echo "splitting text in $txt"
-    python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/$(basename $txt)
+    echo "$0: splitting text in $txt"
+    python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted/$(basename $txt)
 done
 
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
-    if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT ]; then
-        echo "updating ${eventfile}"
-        wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT  -o ${eventfile}.eng
+    if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT ]; then
+        echo "$0: updating ${eventfile}"
+        wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT  -o ${eventfile}.eng
         cd-replace "$PATCHED_IMAGE_FILE" ${eventfile}  ${eventfile}.eng  > /dev/null
     else
-        echo "missing translation script: ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/${EVNBASENAME}.TXT"
+        echo "$0: missing translated script: ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT"
     fi
 done
 
