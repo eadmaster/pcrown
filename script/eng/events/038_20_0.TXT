@@ -3,13 +3,13 @@
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You!<pause><lineend><CC03EA>What have you done to my sister!?<pause><lineend>|
 65538|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Just look at you, Gradriel, all covered in bruises.<pause><lineend><CC03EA>Even when you were little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Girls aren't supposed to do things that could get them hurt...I tried to tell you...<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Just look at you, Gradriel, all covered in bruises.<pause><lineend><CC03EA>Even when you were little, you were more interested in jousting matches than poetry.<pause><lineend><CC03EA>Girls aren't supposed to do things that could get them hurt... I tried to tell you...<pause><lineend>|
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Eriel?<lineend>...You're Eriel!?<pause><lineend>|
 65540|
 <CC03EA><color=0005><string=011A><lineend><color=0001>Surprised?<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=011A><lineend><color=0001>I've got some powers of my own now, and things have changed.<pause><lineend><CC03EA>All I want anymore is for the Demon King to come and destroy this cruel world.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>I've got some powers of my own now, and things have changed.<pause><lineend><CC03EA>All I want now is for the Demon King to come and destroy this cruel world.<pause><lineend>|
 65542|
 <CC03EA><color=0005><string=011A><lineend><color=0001>Gradriel, just be a dear and stay where you are.<pause><lineend><CC03EA>Here, right beneath our feet, is where the door to the Demon Realm will open.<pause><lineend>|
 65543|
@@ -43,7 +43,7 @@
 131079|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Eriel!!<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=00FB><lineend><color=0001><CC03ED=00FB0011000103FF>What have I done...How will anyone ever forgive me?<lineend><CC03ED=00FB0010000103FF><pause>|
+<CC03EA><color=0004><string=00FB><lineend><color=0001><CC03ED=00FB0011000103FF>What have I done... How will anyone ever forgive me?<lineend><CC03ED=00FB0010000103FF><pause>|
 131081|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>There's no time to talk! We have to get outside! The gate is opening!<pause><lineend>|
 196608|

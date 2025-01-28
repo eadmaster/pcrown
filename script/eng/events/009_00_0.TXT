@@ -41,7 +41,7 @@
 65536|
 <CC03EA><color=0004><string=00D0><lineend><color=0001>Help us!<pause><lineend><CC03EA>Hey lady! Fairy! Help us!<pause><lineend><CC03EA>My name is Nilus.<pause><lineend><CC03EA>There's a witch named Proserpina who lives here, and she turned me into a duck!<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00E3><lineend><color=0001>I...<lineend>...*RIBBIT*...I'm Tabitha.<pause><lineend><CC03EA>She said she'd show us a spell to make us fly like the fairies, so we followed her.<pause><lineend><CC03EA>But Proserpina broke her promise, and then she trapped us!<pause><lineend><CC03EA>...I want my Mom!!<pause><lineend>|
+<CC03EA><color=0004><string=00E3><lineend><color=0001>I...<lineend>...*RIBBIT*... I'm Tabitha.<pause><lineend><CC03EA>She said she'd show us a spell to make us fly like the fairies, so we followed her.<pause><lineend><CC03EA>But Proserpina broke her promise, and then she trapped us!<pause><lineend><CC03EA>...I want my Mom!!<pause><lineend>|
 65538|
 <CC03EA><CC03FC=0004><string=0187><color=0004>I'm telling you, magic is the best! I'm going to change everyone into frogs!!<pause><lineend>|
 65539|
@@ -83,7 +83,7 @@
 131079|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Thank you, Ma'am!<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>Thank you !<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>Thank you!<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Your parents are waiting for you in the village. Be careful on the way back.<pause><lineend>|
 131082|

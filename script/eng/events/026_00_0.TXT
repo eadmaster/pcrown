@@ -7,7 +7,7 @@
 3|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 4|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Canes are surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to change weaker monsters into little animals.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Rods are surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to change weaker monsters into little animals.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Once, when I was a girl just like you, I met a Unicorn on my way through the forest.<pause><lineend><CC03EA>If you go to the forest, you just might meet one yourself!<pause><lineend><CC03EA>With those sweet young eyes of yours, I'm sure they would trust you.<pause><lineend>|
 6|

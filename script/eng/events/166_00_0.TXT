@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Would you care to buy some Fresh Milk?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Canes are surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to change weaker monsters into little animals.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I've heard that Witch Rods are surprisingly useful.<pause><lineend><CC03EA>Apparently, you can use them to change weaker monsters into little animals.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Oh look! A little witch!<pause><lineend>|
 6|

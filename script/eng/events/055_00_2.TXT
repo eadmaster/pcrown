@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0097><lineend><color=0001>It's hard to believe such a sweet-looking girl could have vanquished that monster!<pause><lineend><CC03EA>You humans are brave, I'll give you that.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0098><lineend><color=0001>The say there's a spirit inside of every weapon the king makes.<pause><lineend>|
+<CC03EA><color=0006><string=0098><lineend><color=0001>They say there's a spirit inside of every weapon the king makes.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0099><lineend><color=0001>I'm sure the king is deeply grateful for your help.<pause><lineend>|
 11|
@@ -51,15 +51,15 @@
 25|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
 26|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*...That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems...ZZZ......ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*... That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems... ZZZ......ZZZ...<pause><lineend>|
 27|
 <CC03EA><color=0006><string=00F2><lineend><color=0001><CC03F7> it is!<pause><lineend><CC03EA>That will be 10G.<lineend>A good deal, isn't it?<lineend>*Yawn*<pause><lineend>|
 28|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 29|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh! Oh, you don't have money, Ma'am.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ... huh! Oh, you don't have money, Ma'am.<pause><lineend>|
 30|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ...huh!<lineend>Ah. Here you are!<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>ZZZ... huh!<lineend>Ah. Here you are!<pause><lineend>|
 31|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>That's not enough, Miss.<pause><lineend>|
 32|

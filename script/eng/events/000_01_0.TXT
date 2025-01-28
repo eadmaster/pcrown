@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=007D><lineend><color=0001>The Knights who are trained to fight Dragons will depart for Dorangora tomorrow.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>In her Majesty's name, we will protect the people of the village, and do so at all costs.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>In her Majesty's name, we will protect the people of the village, at all costs.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=008B><lineend><color=0001>May our brave Knights have the Goddess's protection.<pause><lineend>|
 3|

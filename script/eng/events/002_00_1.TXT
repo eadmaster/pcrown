@@ -25,7 +25,7 @@
 12|
 <CC03EA><color=0006><string=0008><lineend><color=0001>Eriel's beauty is like a rose in full bloom...<pause><lineend><CC03EA>Sidrael's beauty is like a graceful white lily...<pause><lineend><CC03EA>And Queen Gradriel...<lineend>Her beauty is like a bright, shining star...<pause><lineend><CC03EA>...Or so I heard the wandering bard singing.<pause><lineend><CC03EA>I'd give anything to meet one of the Princesses in person. Even just once.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=000C><lineend><color=0001>You can't eat soup unless you cook it yourself.<pause><lineend><CC03EA>Taverns will only grill your Foods, and none of the Local Delicacies are soups.<pause><lineend>|
+<CC03EA><color=0006><string=000C><lineend><color=0001>You can't eat soup unless you cook it yourself.<pause><lineend><CC03EA>Taverns will only grill your Food Ingredients, and none of the Local Delicacies are soups.<pause><lineend>|
 14|
 <CC03EA><color=0006><string=0009><lineend><color=0001>Frying Pans and Soup Pots will break after you use them too many times.<pause><lineend><CC03EA>When that happens, you can't cook with them anymore.<pause><lineend><CC03EA>You can still throw them, though! That goes for Empty Bottles, too.<pause><lineend>|
 15|

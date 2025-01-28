@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Sigh...<pause><lineend><CC03EA>I just know those fairies ran off with my daughter Tabitha!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=00E8><lineend><color=0001>Should you come across either of those children in your travels, please let us know.<pause><lineend><CC03EA>You'll be rewarded!<pause><lineend>|
+<CC03EA><color=0006><string=00E8><lineend><color=0001>If you come across either of those children in your travels, please let us know.<pause><lineend><CC03EA>You'll be rewarded!<pause><lineend>|
 16|
 <CC03EA><color=0006><string=01A4><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 17|

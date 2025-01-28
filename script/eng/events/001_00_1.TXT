@@ -33,7 +33,7 @@
 131078|
 <CC03EA><color=0004><string=016C><lineend><color=0001>I had no intention of dying in a place like that.<lineend><pause>|
 131079|
-<CC03EA><color=0004><string=016C><lineend><color=0001>By the way, some fussy old man from Volga wanted to talk to you, so I brought him with me.<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>Anyway, some fussy old man from Volga wanted to talk to you, so I brought him with me.<pause><lineend>|
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>King Volga!<pause><lineend>|
 131081|

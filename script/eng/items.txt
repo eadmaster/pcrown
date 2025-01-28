@@ -293,7 +293,7 @@ Check item for curse<lineend>
 Throw at enemies, flies straight<lineend>
 Throw at enemies and stun them<lineend>
 Throw at flying enemies<lineend>
-Explode after hitting the ground<lineend>
+Explode where thrown<lineend>
 Damage undead enemies<lineend>
 Throw at enemies<lineend>
 

@@ -55,7 +55,7 @@ Court Lady<lineend>
 Bard<lineend>
 Sleepy<lineend>
 Smiley<lineend>
-Bulionia<lineend>
+Bryony<lineend>
 Grandma<lineend>
 Donfan<lineend>
 Leon<lineend>
@@ -68,11 +68,11 @@ Jestonai<lineend>
 Elfaran<lineend>
 Kwein<lineend>
 Golgotha<lineend>
-Heindel<lineend>
+Hindel<lineend>
 Jadis<lineend>
-NecroSamantha<lineend>
+Necro-Samantha<lineend>
 Ondine<lineend>
-Faras<lineend>
+Faris<lineend>
 Forbidden Book<lineend>
 Larva<lineend>
 Wizard<lineend>
@@ -100,7 +100,7 @@ Demon<lineend>
 Pirate<lineend>
 Pirate<lineend>
 King of the Dead<lineend>
-Niohoggr<lineend>
+Nidhogg<lineend>
 Centaur<lineend>
 Doppelganger<lineend>
 Barbarian<lineend>
