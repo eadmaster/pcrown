@@ -24,7 +24,7 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 
 ## Preview
 
-![demo1](https://github.com/user-attachments/assets/b4116a9b-2410-474c-8ad0-a64bc6a2266b)  ![demo2](https://github.com/user-attachments/assets/1b0aebdf-efc6-4c21-9c32-ca81ddf03acd)  ![selling](https://github.com/user-attachments/assets/8203505d-3850-41bd-a230-d2003f2551c7)
+![demo1](shots/demo1.png)  ![demo2](shots/demo2.png)  ![demo3](shots/demo3.png)
 
 
 ## Patch instructions (bin format)
@@ -63,10 +63,10 @@ Contact me via discord or forums if you can contribute or have issues to report 
 
 # New contributors/Special thanks
 
- - [paul-met](https://github.com/paul-met) and [derek](https://github.com/DerekPascarella) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1))
- - [MADevil](https://www.twitch.tv/madevil/), Spike, MLagaffe  (playtesting and bug reports)
+ - [paul-met](https://github.com/paul-met) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98))
+ - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/)  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
- - [Mentill](https://github.com/mentill) (Engrish and script fixes, missing signs)
+ - [Mentil](https://github.com/mentill) (lot of script fixes, missing signs)
  

@@ -3,7 +3,7 @@
 1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's go. <lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
-<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>MommyÅI<lineend><CC03ED=00350002000103FF><pause>|
+<CC03ED=00350002000103FF><CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>MommyÔøΩI<lineend><CC03ED=00350002000103FF><pause>|
 3|
 <CC03EA><CC03FC=0004><string=000A><CC03ED=000A001600010000><CC03ED=000A0018000103FF>You're safe...  <lineend><CC03ED=000A0017000103FF><pause>|
 4|
@@ -73,7 +73,7 @@
 196616|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Ok, Eriel<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going,take some rest<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going, take some rest<pause><lineend>|
 196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Ok... <pause><lineend>|
 196619|
@@ -93,7 +93,7 @@
 262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No, I can't..<pause><lineend>|
 262149|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Imagine... <pause><lineend><CC03EA>You'll be  <lineend>stronger tha<lineend>any wizard   <pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Imagine... <pause><lineend><CC03EA>You'll be  <lineend>stronger than any wizard   <pause><lineend>|
 262150|
 <CC03EA><color=0004><string=0129><lineend><color=0001>I can't..<pause><lineend>|
 262151|
@@ -107,7 +107,7 @@
 262155|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Can it cure sis?<pause><lineend>|
 262156|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Of course.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Of course!<pause><lineend>|
 262157|
 <CC03EA><color=0005><string=010D><lineend><color=0001>Take me in your hands...<pause><lineend>|
 262158|
