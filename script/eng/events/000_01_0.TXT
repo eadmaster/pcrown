@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=007E><lineend><color=0001>In her Majesty's name, we will protect the people of the village, at all costs.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=008B><lineend><color=0001>May our brave Knights have the Goddess's protection.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May our brave Knights have the Goddess' protection.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=007F><lineend><color=0001>Jestonai may say harsh things from time to time...<pause><lineend><CC03EA>...but it's only because he cares so deeply about you.<pause><lineend>|
 4|
@@ -49,7 +49,7 @@
 131076|
 <CC03EA><CC03FC=0004><string=007D>Goblins? Near the castle!?<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Yes, that's right...They'll be coming this way any minute!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Yes, that's right... They'll be coming this way any minute!<pause><lineend>|
 131078|
 <CC03EA><CC03FC=0004><string=007D>I thought they knew better. Pesky little Goblins!<pause><lineend>|
 131079|

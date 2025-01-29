@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Lord Jadis quickly noticed that something was wrong and evacuated the townspeople.<pause><lineend><CC03EA>Thanks to him, our losses were few.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0005><lineend><color=0001>For crying out loud, Lord Jadis's nickname is The Warrior King.<pause><lineend><CC03EA>Yet people are saying he barely escaped in one piece? Inconceivable!<pause><lineend><CC03EA>Even a Dragon couldn't take more than one or two hits! Not from Lord Jadis!<pause><lineend><CC03EA>I just can't accept that he would lose a fight against one lousy Wizard.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>For crying out loud, Lord Jadis' nickname is The Warrior King.<pause><lineend><CC03EA>Yet people are saying he barely escaped in one piece? Inconceivable!<pause><lineend><CC03EA>Even a Dragon couldn't take more than one or two hits! Not from Lord Jadis!<pause><lineend><CC03EA>I just can't accept that he would lose a fight against one lousy Wizard.<pause><lineend>|
 2|
 <CC03EA><CC03FC=0004><string=006B><color=0006>Monk<lineend><color=0001>The souls of the Holy Knights who fell in battle will rest in an eternal sleep...<pause><lineend><CC03EA>...by the grace of the Goddess Gaia.<pause><lineend><CC03EA>Those of us left in this world have nothing but to pray that their sleep is a peaceful one.<pause><lineend>|
 3|
@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=000B><lineend><color=0001>We can't let something like this make us lose heart.<pause><lineend><CC03EA>The women of Volga are too strong for that!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0004><lineend><color=0001>One very, shall we say, dedicated friend of mine...<pause><lineend><CC03EA>...has been traveling all over the world eating Local Delicacies.<pause><lineend><CC03EA>Just recently, he finally found his way to the <color=0003>Last Tavern.<color=0001><pause><lineend><CC03EA>The Last Tavern...Makes you wonder, doesn't it? If only he would tell me the way there.<pause><lineend><CC03EA>I guess it's a secret only those who have tried every Local Delicacy get to find out.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>One very, shall we say, dedicated friend of mine...<pause><lineend><CC03EA>...has been traveling all over the world eating Local Delicacies.<pause><lineend><CC03EA>Just recently, he finally found his way to the <color=0003>Last Tavern.<color=0001><pause><lineend><CC03EA>The Last Tavern... Makes you wonder, doesn't it? If only he would tell me the way there.<pause><lineend><CC03EA>I guess it's a secret only those who have tried every Local Delicacy get to find out.<pause><lineend>|
 7|
 <CC03EA><CC03FC=0004><string=006C><color=0006>Monk<lineend><color=0001>Our country once had a prince named Shelius.<pause><lineend><CC03EA>He had eyes with a glimmer as beautiful as Gaia herself.<pause><lineend><CC03EA>Perhaps it's just my imagination...<pause><lineend><CC03EA>...but I'd swear it's the same sparkle coming from your eyes as well.<pause><lineend>|
 8|

@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Princess's bedrooms are this way. Men are not allowed to go any further.<pause><lineend><CC03EA>I'm aware of who you are, but I still can't let you pass.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Princess' bedrooms are this way. Men are not allowed to go any further.<pause><lineend><CC03EA>I'm aware of who you are, but I still can't let you pass.<pause><lineend>|
 1|
 <CC03F0=0001000D0001000503FF00000000>|
 2|

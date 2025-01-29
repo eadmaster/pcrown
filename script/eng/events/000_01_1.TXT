@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>May our first Princess, Eriel, have the Goddess's protection.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>May our first Princess, Eriel, have the Goddess' protection.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=007F><lineend><color=0001>Oh, your Majesty! You've returned!<pause><lineend><CC03EA>If only Eriel were here as well...<pause><lineend>|
 2|

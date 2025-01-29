@@ -23,7 +23,7 @@
 262148|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Golgotha!<pause><lineend>|
 262149|
-<CC03EA><CC03FC=0004><string=0174><color=0001>If the Princess's life is worth anything to you, you better not come any closer.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0174><color=0001>If the Princess' life is worth anything to you, you better not come any closer.<pause><lineend>|
 262150|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>...I am the Queen of Valendia.<lineend><CC03ED=00000023000103FF><pause><CC03EA><CC03ED=00000024000103FF>Let go of my sister, and take me instead.<lineend><CC03ED=00000023000103FF><pause>|
 262151|
@@ -41,7 +41,7 @@
 262157|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Sir! You're terribly wounded!<pause><lineend>|
 262158|
-<CC03EA><color=0004><string=0103><lineend><color=0001>...Even...after all my sins...<pause><lineend><CC03EA>I may die...with the Queen at my side...<pause><lineend><CC03EA>...Elfaran...Your Majesty...<pause><lineend><CC03EA>Please...Forgive me...<lineend>Forgive me...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>...Even... after all my sins...<pause><lineend><CC03EA>I may die... with the Queen at my side...<pause><lineend><CC03EA>...Elfaran... Your Majesty...<pause><lineend><CC03EA>Please... Forgive me...<lineend>Forgive me...<pause><lineend>|
 262159|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Golgotha!<pause><lineend>|
 262160|

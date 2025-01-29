@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=002D><lineend><color=0001>The Dwarves are kind and reliable neighbors.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0012><lineend><color=0001>There was a time when young women went to the forest southeast of here to pick Grasses.<pause><lineend><CC03EA>Once a few of them never came back out the forest, though, nobody went inside it again.<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>There was a time when young women went to the forest southeast of here to pick Grasses<pause><lineend><CC03EA>Once a few of them never came back out the forest, though, nobody went inside it again.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad is walking from place to place all over the kingdom trying Local Delicacies.<pause><lineend>|
 7|

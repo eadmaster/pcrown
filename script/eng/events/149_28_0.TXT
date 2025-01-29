@@ -9,7 +9,7 @@
 65540|
 <CC03EA><color=0005><string=0122><lineend><color=0001>We've met before?<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I've never forgotten what happened. Not for a single day.<pause><lineend><CC03EA>I watched as you took Faris's life away.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've never forgotten what happened. Not for a single day.<pause><lineend><CC03EA>I watched as you took Faris' life away.<pause><lineend>|
 131072|
 <CC03EA><CC03FC=0004><string=0004>Yo, Portgus! Your big day with Faris is almost here!<pause><lineend><CC03EA>I'm still amazed a troublemaker like you managed to land such a great girl.<pause><lineend><CC03EA>What could Faris possibly see in you?<pause><lineend>|
 131073|
@@ -33,7 +33,7 @@
 196615|
 <CC03EA><color=0003><string=011C><lineend><color=0001>Faris? What's gotten into you? You've never talked like this before.<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=0108><lineend><color=0001>I had a strange dream.<pause><lineend><CC03EA>I was chasing you, running as fast as I could, but I couldn't catch you...<pause><lineend><CC03EA>No matter how fast or how far I went, a black shadow kept creeping over me...<pause><lineend><CC03EA>...and then suddenly everything just...stopped.<pause><lineend><CC03EA>Will you go out to sea and never come back? Will you leave me here?<pause><lineend>|
+<CC03EA><color=0004><string=0108><lineend><color=0001>I had a strange dream.<pause><lineend><CC03EA>I was chasing you, running as fast as I could, but I couldn't catch you...<pause><lineend><CC03EA>No matter how fast or how far I went, a black shadow kept creeping over me...<pause><lineend><CC03EA>...and then suddenly everything just... stopped.<pause><lineend><CC03EA>Will you go out to sea and never come back? Will you leave me here?<pause><lineend>|
 196617|
 <CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>Faris, no matter what else happens, I'll never leave you.<lineend><CC03ED=011C0005000103FF><pause><CC03EA><CC03ED=011C0006000103FF>Don't you trust me?<lineend><CC03ED=011C0005000103FF><pause>|
 196618|
@@ -71,7 +71,7 @@
 262145|
 <CC03EA><color=0003><string=0003><lineend><color=0001>You must be joking.<pause><lineend><CC03EA>A Demon who eats souls is trying to save me?<pause><lineend>|
 262146|
-<CC03EA><color=0005><string=0122><lineend><color=0001>Ha ha ha...What can a flimsy little human like you even do?<lineend><pause><CC03EA>I may not need your soul...<pause><lineend><CC03EA>...but I'll enjoy killing you all the same!<pause><lineend>|
+<CC03EA><color=0005><string=0122><lineend><color=0001>Ha ha ha... What can a flimsy little human like you even do?<lineend><pause><CC03EA>I may not need your soul...<pause><lineend><CC03EA>...but I'll enjoy killing you all the same!<pause><lineend>|
 327680|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=00030022000103FF>You asked me what a human can do, did you not?<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Remember this. There is nothing a human cannot do as long as he has the heart to do it.<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Share that with your friends when you meet them in Hell.<lineend><CC03ED=00030021000103FF><pause>|
 327681|
@@ -81,7 +81,7 @@
 327683|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Faris!?<pause><lineend>|
 327684|
-<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Oh, Faris.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I'm so sorry. I wasn't strong enough when you needed me.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I...I'm the reason why all this happened to you...<lineend><CC03ED=00030009000103FF><pause>|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Oh, Faris.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I'm so sorry. I wasn't strong enough when you needed me.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I... I'm the reason why all this happened to you...<lineend><CC03ED=00030009000103FF><pause>|
 327685|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You must not keep blaming yourself, Portgus.<lineend><pause><CC03EA>I always believed that you would come for me.<lineend><pause>|
 327686|
