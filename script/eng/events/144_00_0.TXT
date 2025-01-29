@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=001C><lineend><color=0001>This is terrible! The Demon King will return for sure!!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0029><lineend><color=0001>So all the problems in the kingdom are happening because the Demon King is returning?<pause><lineend><CC03EA>This is starting to get scary!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>So all the problems in the kingdom are happening because the Demon King is returning?<lineend>This is starting to get scary!<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0011><lineend><color=0001>The witch is long gone, but that song is still stuck in my head!<pause><lineend><CC03EA>What gives?<pause><lineend>|
 6|

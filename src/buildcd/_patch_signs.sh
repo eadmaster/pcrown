@@ -175,6 +175,9 @@ replace_sign  he_kana2  20
 replace_sign  artist  132
 # 's house (24*11/2=132) -> test in 039-03 (save-dependent)
 replace_sign  shouse  132
+# Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
+replace_sign  magic_meadow  396
+
 
 # replace all the chr files with updated signs
 find *.CHR -mtime -1 | while read chrfile; do     

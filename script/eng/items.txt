@@ -290,9 +290,9 @@ Strengthen items<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
-Throw at enemies, flies straight<lineend>
+Throw at enemies<lineend>
 Throw at enemies and stun them<lineend>
-Throw at flying enemies<lineend>
+Throw at flying enemies, arcing path<lineend>
 Explode where thrown<lineend>
 Damage undead enemies<lineend>
 Throw at enemies<lineend>
@@ -408,8 +408,8 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be restored<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s endurance up<lineend><pause>
-<CC03EA><color=0000><CC03F7> curse is fading<lineend><pause>
-<CC03EA><color=0000><CC03F7> curse dispelled<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s curse is wearing off<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s curse is dispelled<lineend><pause>
 <CC03EA><color=0000><CC03F7>'s endurance max<lineend><pause>
 <CC03EA><color=0000><CC03F7> is not cursed<lineend><pause>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>
@@ -425,7 +425,7 @@ Grow Bomb Plant during battle<lineend>
 <CC03EA><color=0000>Event Item Bag<lineend><pause>
 <CC03EA><color=0000><CC03F7> has broken<lineend><pause>
 <CC03EA><color=0000><CC03F7> dropped<lineend><pause>
-<CC03EA><color=0000><CC03F7> effect ended<lineend><pause>
+<CC03EA><color=0000><CC03F7>'s effect ended<lineend><pause>
 
 
 <CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>

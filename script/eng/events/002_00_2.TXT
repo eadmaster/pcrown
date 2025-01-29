@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0020><lineend><color=0001>I didn't cry at all when I saw the monsters.<pause><lineend><CC03EA>It takes more than that to make a boy cry! Or at least it should!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000E><lineend><color=0001>Those Demons were so scary, I start shivering whenever I think about them!<pause><lineend><CC03EA>They looked so evil...Oh...I think I'm going to faint...<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>Those Demons were so scary, I start shivering whenever I think about them!<pause><lineend><CC03EA>They looked so evil... Oh... I think I'm going to faint...<pause><lineend>|
 8|
 <CC03EA><color=0006><string=002D><lineend><color=0001>We were just attacked by Demons, and still my boyfriend is drinking in the tavern!<pause><lineend>|
 9|
@@ -35,9 +35,9 @@
 17|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That was very pretty.<pause><lineend><CC03EA>I hope it's not rude to ask, but are you the "prisoner of the harp?"<pause><lineend>|
 18|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided to take a rest from my search and spend some time in this town.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>That's right. I'm searching for the Music Scores of the Goddess.<pause><lineend><CC03EA>My journey has taken me to every corner of the world.<pause><lineend><CC03EA>Every bard dreams of reviving the divine songs sealed away in those scores on his own harp.<pause><lineend><CC03EA>But, that is easier said than done...<pause><lineend><CC03EA>I've searched for two years, but I've found nothing...<pause><lineend><CC03EA>Perhaps they've found their way into someone else's hands.<pause><lineend><CC03EA>For now, I've decided to take a break from my search and spend some time in this town.<pause><lineend>|
 19|
-<CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided to take a rest from searching for the scores and spend some time in this town.<pause><lineend>|
+<CC03EA><color=0004><string=00F1><lineend><color=0001>I've decided to take a break from searching the Music Scores and try to heal the hearts of the people in this town.<pause><lineend>|
 20|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Young lady, is that a Goddess Score you have there?<pause><lineend><CC03EA>Please allow me to have it. I beg of you.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000><CC03FB=000A>|
 21|

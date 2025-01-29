@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas.<pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Warrior, Wizard, and Merchant areas.<pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which... I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
 <CC03ED=00110008000103FF><CC03ED=00110009000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<lineend><CC03F1=0011><pause>|
 2|
@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the Warriors, they're probably in the tavern.<pause><lineend><CC03EA>Maybe they're working out a plan to get those bandits?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, the only thing left to worry about is the Demon Horde.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, the only thing left to worry about is the Demon Horde<pause><lineend>|
 8|
 <CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 9|
@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for now, we must be vigilant during our patrols.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and staff statues in each area were made to commemorate them.<pause><lineend>|
 22|
 <CC03EA><color=0006><string=0162><lineend><color=0001>It's hard to believe that the Knight Guard couldn't keep the Demons at bay.<pause><lineend>|
 23|

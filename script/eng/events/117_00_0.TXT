@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Knight, Wizard, and Merchant areas.<pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which...I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Cadho Badho is the biggest city on the continent.<pause><lineend><CC03EA>It's divided into Knight, Wizard, and Merchant areas.<pause><lineend><CC03EA>We're proud of how cosmopolitan it is, but we do have a problem with people getting lost!<pause><lineend><CC03EA>Speaking of which... I think I'm a little lost myself.<pause><lineend><CC03ED=00110012000103FF><CC03FB=0050><CC03F1=0011>|
 1|
 <CC03ED=0011000F000103FF><CC03ED=00110010000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if I'll ever find my way back home...<lineend><CC03F1=0011><pause>|
 2|
@@ -11,13 +11,13 @@
 5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Knights are the protectors of the city...Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Knights are the protectors of the city... Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0036><lineend><color=0001>My Mom told me some guy named Edward beat up the evil Dragon!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and staff statues in each area were made to commemorate them.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0162><lineend><color=0001>Since it's such a big city, there are a lot of pickpockets.<pause><lineend><CC03EA>Keep an eye out when you go through the alleys that connect the different areas.<pause><lineend>|
 11|

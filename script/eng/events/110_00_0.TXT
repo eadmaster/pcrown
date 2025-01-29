@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Dragons have been attacking this area for ages.<pause><lineend><CC03EA>Long ago, people used to offer young women as sacrifices to appease them.<pause><lineend><CC03EA>But then came Queen Elfaran. She killed Dragons herself using nothing other than a sword!<pause><lineend><CC03EA>She taught us to stand up and fight for ourselves, and it's been peaceful ever since.<pause><lineend><CC03EA>Or so it was, until the Dragons started attacking the village again.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0004><lineend><color=0005>The path from the left of the village<color=0001> will take you to <color=0002>the mountain where the Dragons live.<color=0001><pause><lineend><CC03EA>A girl just went by herself toward the mountain. I wonder if she's OK?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0005>The path from the left of the village<color=0001> leads to <color=0002>the mountain where the Dragons live.<color=0001><pause><lineend><CC03EA>A girl just went by herself toward the mountain. I wonder if she's OK?<pause><lineend>|
 3|
 <CC03EA><color=0006><string=000A><lineend><color=0001>The Knight Guard is supposed to be coming to fight off the Dragons.<pause><lineend><CC03EA>The new Queen may be young, but I hear she's as good with a sword as any of her Knights.<pause><lineend>|
 4|
@@ -11,7 +11,7 @@
 5|
 <CC03FA=0028000200000000000003FF000A00280000><CC03FB=0028>|
 6|
-<CC03EA><color=0006><string=0028><lineend><color=0001>...I can't help but notice the big sword you're carrying.<pause><lineend><CC03EA>You're not...you're not the son of the Traitor, are you?<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>...I can't help but notice the big sword you're carrying.<pause><lineend><CC03EA>You're not... you're not the son of the Traitor, are you?<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0035><lineend><color=0001>I saw a black Dragon once!<pause><lineend><CC03EA>I snuck out to go play on the mountain, and I saw huge black Dragon!<lineend><pause><CC03EA>My Mom didn't believe me when I told her. But I swear it's true!<lineend><pause>|
 8|

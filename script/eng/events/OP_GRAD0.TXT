@@ -1,11 +1,11 @@
 65536|
 <CC03EA><CC03FC=0004><string=006F><color=0001>Princess Gradriel, if you would please come forward.<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>The blood of Valendia's Royal Family goes back many generations, yet it is forever new.<pause><lineend><CC03EA>Gradriel De Valendia, rightful bearer of your family's crown...<pause><lineend><CC03EA>...I shall bestow your Queenship upon you now.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>The blood of Valendia's Royal Family goes back many generations, yet it is forever new<pause><lineend><CC03EA>Gradriel De Valendia, rightful bearer of your family's crown...<pause><lineend><CC03EA>...I shall bestow your Queenship upon you now.<pause><lineend>|
 65538|
 <CC03EA><CC03FC=0004><string=00FD><color=0001>May you become a beacon of righteous light to the people of Valendia...<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>With this crown, I hereby promise to continue our kingdom's long and prosperous peace.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I hereby promise to continue our kingdom's long and prosperous peace.<pause><lineend>|
 131072|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Those who will have audience with the Queen may now come forward.<pause><lineend>|
 131073|

@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Crime never pays.<pause><lineend><CC03EA>I'd say those bandits figured that out the hard way!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0029><lineend><color=0001>So all the problems in the kingdom are happening because the Demon King is returning?<pause><lineend><CC03EA>This is starting to get scary!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>So all the problems in the kingdom are happening because the Demon King is returning?<lineend>This is starting to get scary!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=0011><lineend><color=0001>The witch is long gone, but that song is still stuck in my head!<pause><lineend><CC03EA>What gives?<pause><lineend>|
 12|

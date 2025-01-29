@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0047><lineend><color=0001>Do you know what we Warriors pride ourselves on?<pause><lineend>|
 3|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Um...That you'll never run from an enemy, no matter how strong?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Um... That you'll never run from an enemy, no matter how strong?<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0047><lineend><color=0001>Ha ha! Well, there certainly is that.<pause><lineend><CC03EA>But there's something that we're even more proud of.<pause><lineend>|
 5|
@@ -31,13 +31,13 @@
 15|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 16|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um... You don't have enough.<pause><lineend>|
 17|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
 18|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
 19|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select an Ingredient to use<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food Ingredient to use.<pause><lineend>|
 20|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
 21|

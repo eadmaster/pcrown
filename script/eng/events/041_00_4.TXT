@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Even if the bandits are gone for now, we must be vigilant during our patrols.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and cane statues in each area were made to commemorate them.<pause><lineend>|
+<CC03EA><color=0006><string=0013><lineend><color=0001>Long ago, this city was attacked by an army of Demons, and it seemed all would be lost.<pause><lineend><CC03EA>That was when a golden-haired Warrior and a silver-haired Wizard appeared.<pause><lineend><CC03EA>The two of them risked everything to save Cadho Badho.<pause><lineend><CC03EA>The sword and staff statues in each area were made to commemorate them.<pause><lineend>|
 16|
 <CC03EA><color=0006><string=0013><lineend><color=0001>I'm sure the Golden Warrior would be pleased to see our Leaders working together.<pause><lineend>|
 17|

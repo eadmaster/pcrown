@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Thank you!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select an Ingredient to use<pause><lineend>|
+<CC03EA><color=0006><string=01AA><lineend><color=0001>I'll grill you up something good! Please select a Food Ingredient to use.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>No way, you can't grill that.<pause><lineend>|
 14|

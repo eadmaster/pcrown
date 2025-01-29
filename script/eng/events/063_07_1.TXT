@@ -7,7 +7,7 @@
 65539|
 <CC03EA><color=0004><string=0104><lineend><color=0001>East of the Dwarf Kingdom is a magic forest. Perhaps you know of it.<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit from the Dwarves' town,<color=0001> and you'll find it quickly enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a Demon lurks.<color=0001> His name is Shadow.<pause><lineend><CC03EA>Shadow has a Gem called the Time Stone. As its name suggests, it controls the flow of time.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Take the right exit from the Dwarf Land,<color=0001> and you'll find it quickly enough.<pause><lineend><CC03EA>Deep within it is <color=0002>a tower where a Demon lurks.<color=0001> His name is Shadow.<pause><lineend><CC03EA>Shadow has a Gem called the Time Stone. As its name suggests, it controls the flow of time.<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The flow of time?<pause><lineend>|
 65542|

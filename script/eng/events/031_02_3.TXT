@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0006><string=01AB><lineend><color=0001>Here you are!<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AB><lineend><color=0001>I'll grill something for you then. Please select an Ingredient to use<pause><lineend>|
+<CC03EA><color=0006><string=01AB><lineend><color=0001>I'll grill something for you then. Please select a Food Ingredient to use.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AB><lineend><color=0001>We can't grill that. Sorry.<pause><lineend>|
 12|

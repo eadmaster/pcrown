@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I don't have time to go back down.<lineend><pause><CC03EA>I've got to go help Sidrael, and fast!<lineend><pause>|
 65536|
-<CC03EA><color=0004><string=0103><lineend><color=0001>You...You're...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>You... You're...<pause><lineend>|
 65537|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Golgotha!!<pause><lineend>|
 65538|
@@ -43,11 +43,11 @@
 131078|
 <CC03EA><color=0004><string=017C><lineend><color=0001>Hang on! Please, hang on!<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Gradriel.<pause><lineend><CC03EA>You have to rescue Sidrael from the Demons, at all costs...<pause><lineend><CC03EA>...or the Demon King will...soon...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Gradriel.<pause><lineend><CC03EA>You have to rescue Sidrael from the Demons, at all costs...<pause><lineend><CC03EA>...or the Demon King will... soon...<pause><lineend>|
 131080|
 <CC03EA><color=0004><string=017C><lineend><color=0001>You mustn't speak. It's bad for your wounds.<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=0103><lineend><color=0001>...I'm only thankful that I was able to protect you. You're safety is the most important thing.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>...I'm only thankful that I was able to protect you.<pause><lineend><CC03EA>Your safety is the most important thing.<pause><lineend>|
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Golgotha.<pause><lineend>|
 131083|
@@ -55,11 +55,11 @@
 131084|
 <CC03EA><color=0003><string=0001><lineend><color=0001>You picked quite a time to tell me all of this.<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...You must take the sword...<pause><lineend><CC03EA>Take the sword...that they gave me when I was one of them.<pause><lineend><CC03EA>It's on the door...with the Demon...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...You must take the sword...<pause><lineend><CC03EA>Take the sword... that they gave me when I was one of them.<pause><lineend><CC03EA>It's on the door... with the Demon...<pause><lineend>|
 131086|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>A sword...<lineend><CC03ED=00010007000103FF><pause>|
 131087|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Grow strong...Edward...<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Grow strong... Edward...<pause><lineend>|
 131088|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Golgotha!!<lineend><CC03ED=00010007000103FF><pause>|
 131089|

@@ -1,13 +1,13 @@
 0|
 <CC03EA><color=0006><string=003B><lineend><color=0001>I'm sure those newlyweds are doing just fine.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0059><lineend><color=0001>I wish I could live the same relaxed, carefree life the Froggers in that village do!<pause><lineend>|
+<CC03EA><color=0006><string=0059><lineend><color=0001>I wish I could live a relaxed, carefree life like the Froggers in that village!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble right now because of a group of bandits called The Donfans.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0024><lineend><color=0001>I heard about the monsters in the north seas.<pause><lineend><CC03EA>They say they're actually quite beautiful, but also really tough!<pause><lineend><CC03EA>Only the strongest fighters stand a chance against them.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0024><lineend><color=0001>The monsters of the north seas were mermaids?<pause><lineend><CC03EA>Wow. They must be nothing like that nice mermaid in lake Titania...Ondine, right?<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>The monsters of the north seas were mermaids?<pause><lineend><CC03EA>Wow. They must be nothing like that nice mermaid in lake Titania... Ondine, right?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0067><lineend><color=0001>We all just heard that the Island of Illusion is connected to the Demon Realm.<pause><lineend><CC03EA>I always half-believed that there was a path to paradise there...<pause><lineend><CC03EA>Now I know it's really something much scarier.<pause><lineend>|
 6|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=000F><lineend><color=0001>Maybe the earthquake happened because Gaia is sad about something?<pause><lineend>|
 12|
-<CC03EA><color=0006><string=003D><lineend><color=0001>Even Volga's navy was overwhelmed when it tried to fight the monsters of the north seas.<pause><lineend>|
+<CC03EA><color=0006><string=003D><lineend><color=0001>Even Volga's navy was overwhelmed by the monsters of the north seas.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=003D><lineend><color=0001>I heard Portgus played a role in putting down the Sirens!<pause><lineend>|
 14|

@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0004><string=0187><lineend><color=0001>...Gradriel!!<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I thought I'd find you here. You're not supposed to keep the Truck-Chase to yourself!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I thought I'd find you here. You cannot keep the Truck-Chase all to yourself!<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=0187><lineend><color=0001>But it's so much fun!!<pause><lineend>|
 65541|
@@ -41,7 +41,7 @@
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>For now, I should go talk to the king.<pause><lineend><CC03EA>I need to tell him that the Dwarves have the Truck-Chase back.<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she actually gave it back!?<pause><lineend><CC03EA>First that giant Spider, and now this...We can't thank you enough!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she actually gave it back!?<pause><lineend><CC03EA>First that giant Spider, and now this... We can't thank you enough!<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>My people and I can have fun once again.<pause><lineend><CC03EA>As a show of thanks, let me upgrade your sword!<pause><lineend>|
 262144|

@@ -6,13 +6,14 @@
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 # mass convert with: 
-#  for txt in *.txt ; do python _split_long_lines.py "$txt" ../events_splitted_35chars/$txt ; done
+#  for txt in *.txt ; do python _split_long_lines.py "$txt" ../events_splitted/$txt ; done
 
 
 #MAX_CHARS_PER_LINE=20
-MAX_CHARS_PER_LINE=35
+#MAX_CHARS_PER_LINE=35  # 7px font + 4 coeff. spacing
+MAX_CHARS_PER_LINE=45  # 5px font + 3 coeff. spacing  https://github.com/eadmaster/pcrown/issues/98
 
-SHORT_DIALOG_WARNING_LEN=10
+SHORT_DIALOG_WARNING_LEN=20
 
 
 import sys
@@ -86,9 +87,7 @@ def insert_lineend_every_x_chars(s, init_lines_counter=0):
     return result
     
 
-
-    
-
+# main
 
 f = open(sys.argv[1], 'r', encoding='shift_jis', errors='ignore') 
 out = open(sys.argv[2], 'w', encoding='shift_jis') 
@@ -118,6 +117,8 @@ for line in f.readlines():
             if t.startswith("<pause"):
                 init_lines_counter = 0   # new dialog, reset to 0
                 continue
+            
+            # TODO: check there is always a space after "..."
         
             if(len(remove_tags(t)) < MAX_CHARS_PER_LINE):
                 # nothing to change

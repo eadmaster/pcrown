@@ -17,7 +17,7 @@
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The letter from the Golden Warrior said precisely the same thing.<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Maybe so, but even if these are from our ancestors, they amount to no more than words.<pause><lineend><CC03EA>Am I really supposed to make friends with the Warriors' Leader after all this time?<pause><lineend><CC03EA>You can't expect me to change my mind about him so easily.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Maybe so, but even if these are from our ancestors, they amount to no more than words<pause><lineend><CC03EA>Am I really supposed to make friends with the Warriors' Leader after all this time?<pause><lineend><CC03EA>You can't expect me to change my mind about him so easily.<pause><lineend>|
 131080|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>What's so funny?<pause><lineend>|
 131081|
@@ -31,7 +31,7 @@
 131085|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>That's right.<pause><lineend><CC03EA>Take a moment and think hard about what that letter says.<pause><lineend>|
 131086|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>But...But...<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>But... But...<pause><lineend>|
 131087|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It takes a lot of courage to take the first step.<pause><lineend><CC03EA>Nonetheless, the Warriors' Leader is trying to take it with you.<pause><lineend>|
 131088|
@@ -47,9 +47,9 @@
 196609|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>H, hello.<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>...So...right...I, uh...<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>...So... right... I, uh...<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>Yes, I too...that is...<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>Yes, I too... that is...<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Sheesh! Are you two going to make up or aren't you?<pause><lineend>|
 196613|

@@ -85,13 +85,13 @@
 42|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 43|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um... You don't have enough.<pause><lineend>|
 44|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Oh no! It won't fit! Can you empty something out of your bag?<pause><lineend>|
 45|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>OK! Thank you very much!<pause><lineend>|
 46|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select an Ingredient to use<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>I'll grill something for you then. Please select a Food Ingredient to use.<pause><lineend>|
 47|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>I'm sorry, but we can't cook that.<pause><lineend>|
 48|
@@ -99,7 +99,7 @@
 49|
 <CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 50|
-<CC03EA><color=0006><string=01AC><lineend><color=0001>Um...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AC><lineend><color=0001>Um... You don't have enough.<pause><lineend>|
 51|
 <CC03EA><color=0006><string=01B3><lineend><color=0001>Hello there! You can recover from your travels here at our inn.<pause><lineend><CC03EA>It costs 30G per night. Care to stay?<pause><lineend>|
 52|

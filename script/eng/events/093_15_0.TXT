@@ -25,25 +25,25 @@
 65548|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Wait!!<pause><lineend><CC03EA>You can keep everything! All I want is that Gem!<pause><lineend>|
 65549|
-<CC03EA><color=0001>Trea...sure...<lineend>...My...<lineend>...trea...sure...<pause><lineend><CC03EA>You...can't...have...it...<lineend>Not...the...<lineend>Ocean...Stone...<pause><lineend>|
+<CC03EA><color=0001>Trea... sure...<lineend>...My...<lineend>...trea... sure...<pause><lineend><CC03EA>You... can't... have... it...<lineend>Not... the...<lineend>Ocean... Stone...<pause><lineend>|
 65550|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...the heck is that?<pause><lineend>|
 65551|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It's D...It's Dra....<lineend>It's Drake!!!<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>It's D... It's Dra....<lineend>It's Drake!!!<pause><lineend>|
 65552|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Drake?<pause><lineend>|
 65553|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>When Captain Drake went to hide his treasure, he never returned! It's him for sure!<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>When Captain Drake went to hide his treasure, he never returned!<pause><lineend><CC03EA>It's him for sure!<pause><lineend>|
 65554|
 <CC03EA><color=0003><string=0003><lineend><color=0001>No kidding...<pause><lineend><CC03EA>I'd never leave here either, if I looked like that.<pause><lineend>|
 65555|
-<CC03EA><color=0005><string=0171><lineend><color=0001>You can't have it...<lineend>Not...my Ocean Stone...<pause><lineend>|
+<CC03EA><color=0005><string=0171><lineend><color=0001>You can't have it...<lineend>Not... my Ocean Stone...<pause><lineend>|
 65556|
 <CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Listen! Drake! He's the one you want! Taking your treasure was all his idea!<pause><lineend><CC03EA>He's the one after your Ocean Stone, too!<pause><lineend>|
 65557|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What!?<pause><lineend>|
 65558|
-<CC03EA><color=0005><string=0171><lineend><color=0001>You can't...have...it...<pause><lineend>|
+<CC03EA><color=0005><string=0171><lineend><color=0001>You can't... have... it...<pause><lineend>|
 65559|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Hold it!<pause><lineend><CC03EA>Let's talk this over. Please, Drake!<pause><lineend>|
 65560|
@@ -59,7 +59,7 @@
 131074|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What the...! He's back!?<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=0171><lineend><color=0001>Young man...Lower your sword.<pause><lineend>|
+<CC03EA><color=0004><string=0171><lineend><color=0001>Young man... Lower your sword.<pause><lineend>|
 131076|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...Captain Drake?<pause><lineend>|
 131077|

@@ -13,13 +13,13 @@
 6|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 7|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm... You don't have enough.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Oh! I see your bag is already full. Well, come again anytime!<pause><lineend>|
 9|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Here you are.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's grill something. Please select an Ingredient to use<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>All right, let's grill something. Please select a Food Ingredient to use.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Umm, you know I can't cook that, right?<pause><lineend>|
 12|
@@ -27,4 +27,4 @@
 13|
 <CC03EA><CC03FC=0004><string=01AD><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 14|
-<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm...You don't have enough.<pause><lineend>|
+<CC03EA><color=0006><string=01AD><lineend><color=0001>Umm... You don't have enough.<pause><lineend>|
