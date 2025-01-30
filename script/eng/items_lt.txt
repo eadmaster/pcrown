@@ -92,7 +92,7 @@ Flight Ring<lineend>
 Heat Ring<lineend>
 Cold Ring<lineend>
 Spiked Shield<lineend>
-Frozen-Eye Shield<lineend>
+FrozenEye Shield<lineend>
 Fire Dragon Shield<lineend>
 Thief Bracelet<lineend>
 Warrior Bracelet<lineend>
@@ -232,7 +232,7 @@ Cure Drop<lineend>
 Restore health<lineend>
 Restore health & Power boost<lineend>
 Power boost<lineend>
-Restore full HP & Power boost<lineend>
+Restore full HP & Pow. boost<lineend>
 Health halved for Power boost<lineend>
 
 
@@ -257,11 +257,11 @@ Defense UP<lineend>
 ♀ Ice Defense UP<lineend>
 ♀ Fire Defense UP<lineend>
 ♀ Rebound enemy attacks<lineend>
-♀ Freeze enemies on contact<lineend>
-♀ Burn enemies on contact<lineend>
+♀ Freeze enemy on contact<lineend>
+♀ Burn enemy on contact<lineend>
 ♀ No-crouch item pick-up<lineend>
 ♀ Defend automatically<lineend>
-Unleash petrification beam<lineend>
+Unleash petrifying beam<lineend>
 Shoot a fireball<lineend>
 Call down lightning<lineend>
 Shoot ice arrows<lineend>
@@ -269,31 +269,31 @@ Rain down meteors<lineend>
 Unleash Holy Light<lineend>
 
 Change weak enemies into animals<lineend>
-Imbue sword with magic<lineend>
+Create Daggers<lineend>
 Make enemy defenseless<lineend>
 Strong winds push the enemy away<lineend>
-Summon Goblin to knock enemy down<lineend>
-Burn undead enemies<lineend>
-Items won't break<lineend>
-Drop boulder with earthquake<lineend>
+Goblin knocks the enemy down<lineend>
+Damage undead enemies<lineend>
+Equipment won't break<lineend>
+Drop a boulder<lineend>
 Sword gains fire magic<lineend>
 Sword gains lightning magic<lineend>
 Turn enemy into gold statue<lineend>
-Clone attack on enemies<lineend>
+Clone attack on enemy<lineend>
 Escape from dungeon<lineend>
 Reload from last save<lineend>
 Anti-petrification<lineend>
 Grill Food<lineend>
 Make Soup<lineend>
-Restore Magic Stones<lineend>
-Strengthen items<lineend>
+Recharge Magic Stones<lineend>
+Strengthen equipment items<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
 Throwing sword<lineend>
-Magic throwing sword<lineend>
+Throwing sword, knock enemy<lineend>
 Throw at flying enemies<lineend>
-Explodes where dropped<lineend>
+Explode where thrown<lineend>
 Damage undead enemies<lineend>
 Throw at enemies<lineend>
 

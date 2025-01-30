@@ -248,4 +248,21 @@ sfk setbytes COMM.PAK 0x6484 0x0000000000000000 -yes  # T->invisible
 sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes  # E->invisible
 sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes  # R->invisible
 sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes  # A->invisible
+
+# fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584
+# "DOH DOH" -> "DO  DO" (found in 047-00)
+sfk setbytes COMM.PAK 0x70BA 0x0000000000000000 -yes # H->invisible
+sfk setbytes COMM.PAK 0x70DE 0x0000000000000000 -yes # H->invisible
+# "ORCHRE JELLY" -> " OCHRE JELLY" (found in 047-00)
+sfk setbytes COMM.PAK 0x710E 0x0000000000000000 -yes # O->invisible
+sfk setbytes COMM.PAK 0x7100 0x4103 -yes             # R->O
+# "SIRENE" -> "SIREN " (found in 047-00)
+sfk setbytes COMM.PAK 0x78A6 0x0000000000000000 -yes # E->invisible
+# "CHAOTHIC EYE" -> "CHAOTIC  EYE" (found in 025-00)
+sfk setbytes COMM.PAK 0x7C10 0x40FD -yes             # H->I
+sfk setbytes COMM.PAK 0x7C34 0x40f7 -yes             # I->C
+sfk setbytes COMM.PAK 0x7C06 0x0000000000000000 -yes # C->invisible
+# TODO: SAMANSA -> SAMANTHA
+
 cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK
+
