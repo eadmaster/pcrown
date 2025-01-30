@@ -13,7 +13,7 @@
 131072|
 <CC03EA><color=0005><string=0130><lineend><color=0001>Whoa! Who are you!?<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the Donfan Bandits.<pause><lineend><CC03EA>I'm here to stop you from ever stealing anything again!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>You must be the Don Juan Bandits.<pause><lineend><CC03EA>I'm here to stop you from ever stealing anything again!<pause><lineend>|
 131074|
 <CC03EA><color=0005><string=0130><lineend><color=0001>What?<pause><lineend>|
 131075|

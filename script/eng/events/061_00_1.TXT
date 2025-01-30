@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Welcome to Knelt. You've certainly come a long way to get here!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Donfan? Never heard of 'em.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Don Juan? Never heard of 'em.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0165><lineend><color=0001>Have a safe trip!<lineend><pause>|
 3|
@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0006><string=0165><lineend><color=0001>*RIBBIT*<lineend>Well, this is a problem...<pause><lineend><CC03EA>I was trying to figure out how to make an Invincibility Potion, but I think I screwed up.<pause><lineend><CC03EA>I don't imagine anyone is going to want a <color=0002>Frogger Potion,<color=0001> that's for sure.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off...No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
+<CC03EA><color=0006><string=0165><lineend><color=0001>Of all the monsters, why a danged Frogger?<pause><lineend><CC03EA>It's not wearing off... No! Am I going to be a Frogger forever!? ...*RIBBIT*<pause><lineend>|
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Isn't there a way to change you back?<pause><lineend>|
 16|

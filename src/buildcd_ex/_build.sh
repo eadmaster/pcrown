@@ -28,7 +28,7 @@ cd-replace  "$PATCHED_IMAGE_FILE"  COCKPIT.CLB  COCKPIT.CLB  > /dev/null
 xdelta3 -f -d -s COCKPIT.CHB COCKPIT.CHB.xdelta COCKPIT.CHB.eng
 cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB.eng > /dev/null
 
-# TODO: repatch completely the translated signs
+# TODO: repatch the signs
 # source _patch_signs.sh
 xdelta3 -f -d -s KD2T.CHR KD2T.CHR.xdelta KD2T.CHR.eng
 cd-replace  "$PATCHED_IMAGE_FILE" KD2T.CHR KD2T.CHR.eng  > /dev/null

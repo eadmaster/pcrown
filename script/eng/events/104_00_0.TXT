@@ -15,7 +15,7 @@
 65536|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A Dragon!<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>...He's so huge!<pause><lineend><CC03EA>If he got me with those fangs, I'd be...I'd be...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>...He's so huge!<pause><lineend><CC03EA>If he got me with those fangs, I'd be... I'd be...<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Now I'm so scared I can't even move!<pause><lineend>|
 65539|

@@ -9,7 +9,7 @@
 65540|
 <CC03EA><color=0003><string=0003><lineend><color=0001>So that's how it's going to be?<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Fine.<pause><lineend><CC03EA>I'll find that Demon all by myself.<pause><lineend><CC03EA>And when I do...<lineend>I'll finally get revenge for Faris!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Fine.<pause><lineend><CC03EA>I'll find that Demon all by myself.<pause><lineend><CC03EA>And when I do...<lineend>I'll finally get revenge for Faras!<pause><lineend>|
 65542|
 <CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Portgus...<lineend>Wait.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>If you're really serious about finding him, then go to the village of Knelt.<lineend><CC03ED=008D0007000103FF><pause>|
 65543|

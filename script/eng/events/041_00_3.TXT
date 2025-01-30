@@ -5,9 +5,9 @@
 2|
 <CC03EA><color=0006><string=015D><lineend><color=0001>We've heard Valenadine Castle was attacked by the Demon King's Horde...<pause><lineend><CC03EA>However, they didn't try coming down this way.<pause><lineend><CC03EA>It must be because they're afraid of the Warriors of Cadho Badho!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Donfan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Don Juan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Donfan Bandits!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Don Juan Bandits!<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so young.<pause><lineend>|
 6|

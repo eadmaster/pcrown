@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0059><lineend><color=0001>I've traveled to every corner of Valendia, but one place was absolutely the strangest of them all...<pause><lineend><CC03EA>East of Cadho Badho...<lineend><color=0003>The Frogger Village!<pause><lineend><CC03EA><color=0001>I don't imagine too many people have been guest to a bunch of Froggers before.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble right now because of a group of bandits called The Donfans.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came from Cadho Badho.<pause><lineend><CC03EA>That town is in a lot of trouble right now because of a group of bandits called The Don Juans.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0024><lineend><color=0001>I guess all the bandits are gone from Cadho Badho...<pause><lineend><CC03EA>...but I'm having too much fun here to go home just yet!<pause><lineend>|
 4|

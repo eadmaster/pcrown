@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Donfan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>There's been a group of thieves called the Don Juan Bandits making trouble in our city.<pause><lineend><CC03EA>We consider this nothing less than a direct challenge to the Warriors of Cadho Badho.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Donfan Bandits!<pause><lineend>|
+<CC03EA><color=0006><string=015D><lineend><color=0001>Some brave girl wiped out the Don Juan Bandits!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0004><lineend><color=0001>If you're looking for the Warriors, they're probably in the tavern.<pause><lineend><CC03EA>Maybe they're working out a plan to get those bandits?<pause><lineend>|
 3|

@@ -9,17 +9,17 @@
 65540|
 <CC03EA><color=0005><string=0122><lineend><color=0001>We've met before?<pause><lineend>|
 65541|
-<CC03EA><color=0003><string=0003><lineend><color=0001>I've never forgotten what happened. Not for a single day.<pause><lineend><CC03EA>I watched as you took Faris' life away.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>I've never forgotten what happened. Not for a single day.<pause><lineend><CC03EA>I watched as you took Faras' life away.<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=0004>Yo, Portgus! Your big day with Faris is almost here!<pause><lineend><CC03EA>I'm still amazed a troublemaker like you managed to land such a great girl.<pause><lineend><CC03EA>What could Faris possibly see in you?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0004>Yo, Portgus! Your big day with Faras is almost here!<pause><lineend><CC03EA>I'm still amazed a troublemaker like you managed to land such a great girl.<pause><lineend><CC03EA>What could Faras possibly see in you?<pause><lineend>|
 131073|
 <CC03EA><CC03FC=0004><string=0027>Yeah, no kidding.<pause><lineend><CC03EA>Just remember, I'm her best friend...<pause><lineend><CC03EA>...and if you ever make her cry, you'll have to answer to me!<pause><lineend><CC03EA>Ahem...<lineend>What I'm trying to say is, just make her happy, OK?<pause><lineend>|
 131074|
-<CC03EA><CC03FC=0004><string=0011>Portgus? Faris is looking for you at the harbor.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0011>Portgus? Faras is looking for you at the harbor.<pause><lineend>|
 196608|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Aren't you a little late?<pause><lineend>|
 196609|
-<CC03EA><color=0003><string=011C><lineend><color=0001>Hi Faris. Did I keep you waiting?<pause><lineend>|
+<CC03EA><color=0003><string=011C><lineend><color=0001>Hi Faras. Did I keep you waiting?<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Like you even care. Hmph!<pause><lineend>|
 196611|
@@ -31,11 +31,11 @@
 196614|
 <CC03EA><color=0004><string=0108><lineend><color=0001>Portgus? You won't ever leave me, will you?<pause><lineend><CC03EA>Do you really want to be with me forever?<pause><lineend>|
 196615|
-<CC03EA><color=0003><string=011C><lineend><color=0001>Faris? What's gotten into you? You've never talked like this before.<pause><lineend>|
+<CC03EA><color=0003><string=011C><lineend><color=0001>Faras? What's gotten into you? You've never talked like this before.<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=0108><lineend><color=0001>I had a strange dream.<pause><lineend><CC03EA>I was chasing you, running as fast as I could, but I couldn't catch you...<pause><lineend><CC03EA>No matter how fast or how far I went, a black shadow kept creeping over me...<pause><lineend><CC03EA>...and then suddenly everything just... stopped.<pause><lineend><CC03EA>Will you go out to sea and never come back? Will you leave me here?<pause><lineend>|
 196617|
-<CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>Faris, no matter what else happens, I'll never leave you.<lineend><CC03ED=011C0005000103FF><pause><CC03EA><CC03ED=011C0006000103FF>Don't you trust me?<lineend><CC03ED=011C0005000103FF><pause>|
+<CC03EA><color=0003><string=011C><lineend><color=0001><CC03ED=011C0006000103FF>Faras, no matter what else happens, I'll never leave you.<lineend><CC03ED=011C0005000103FF><pause><CC03EA><CC03ED=011C0006000103FF>Don't you trust me?<lineend><CC03ED=011C0005000103FF><pause>|
 196618|
 <CC03EA><color=0004><string=0108><lineend><color=0001>It's not that. It's just...<pause><lineend>|
 196619|
@@ -65,7 +65,7 @@
 196631|
 <CC03EA><CC03FC=0004><string=0122>Ha ha ha...<pause><lineend><CC03EA>You, on the other hand, have a soul that's worthless to me.<pause><lineend><CC03EA>Consider yourself lucky, human!<pause><lineend>|
 196632|
-<CC03EA><color=0003><string=011C><lineend><color=0001>Faris...<pause><lineend><CC03EA>Faris!!<pause><lineend>|
+<CC03EA><color=0003><string=011C><lineend><color=0001>Faras...<pause><lineend><CC03EA>Faras!!<pause><lineend>|
 262144|
 <CC03EA><color=0005><string=0122><lineend><color=0001>I have the power to change human souls into Magic Stones.<pause><lineend><CC03EA>Then, when I swallow them, I can draw upon their energy from within my body.<pause><lineend><CC03EA>Have you come to take revenge on me for that girl?<pause><lineend><CC03EA>What foolishness! And after I let you live, too.<pause><lineend><CC03EA>Go home. Don't waste your life.<pause><lineend>|
 262145|
@@ -75,17 +75,17 @@
 327680|
 <CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=00030022000103FF>You asked me what a human can do, did you not?<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Remember this. There is nothing a human cannot do as long as he has the heart to do it.<lineend><CC03ED=00030021000103FF><pause><CC03EA><CC03ED=00030022000103FF>Share that with your friends when you meet them in Hell.<lineend><CC03ED=00030021000103FF><pause>|
 327681|
-<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faris...<lineend><CC03ED=00030009000103FF><pause>|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faras...<lineend><CC03ED=00030009000103FF><pause>|
 327682|
 <CC03EA><color=0001>...gus...<lineend>...Portgus...<pause><lineend>|
 327683|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Faris!?<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Faras!?<pause><lineend>|
 327684|
-<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Oh, Faris.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I'm so sorry. I wasn't strong enough when you needed me.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I... I'm the reason why all this happened to you...<lineend><CC03ED=00030009000103FF><pause>|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Oh, Faras.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I'm so sorry. I wasn't strong enough when you needed me.<lineend><CC03ED=00030009000103FF><pause><CC03EA><CC03ED=0003000A000103FF>I... I'm the reason why all this happened to you...<lineend><CC03ED=00030009000103FF><pause>|
 327685|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You must not keep blaming yourself, Portgus.<lineend><pause><CC03EA>I always believed that you would come for me.<lineend><pause>|
 327686|
-<CC03EA><color=0003><string=0003><lineend><color=0001>...Faris.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>...Faras.<pause><lineend>|
 327687|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You saved my soul, Portgus!<lineend><pause><CC03EA>I can finally pass on in peace.<lineend><pause>|
 327688|
@@ -93,6 +93,6 @@
 327689|
 <CC03EA><color=0004><string=0108><lineend><color=0001>You've made me very happy.<pause><lineend><CC03EA>Talking with you one last time is how I always hoped it would end...<lineend><pause>|
 327690|
-<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faris.<lineend><CC03ED=00030009000103FF><pause>|
+<CC03EA><color=0003><string=0003><lineend><color=0001><CC03ED=0003000A000103FF>Faras.<lineend><CC03ED=00030009000103FF><pause>|
 327691|
 <CC03EA><color=0004><string=0108><lineend><color=0001><CC03ED=0108005E000103FF>Goodbye, Portgus.<lineend><CC03ED=0108005D000103FF><pause><CC03EA><CC03ED=0108005E000103FF>Don't forget me.<lineend>I'll always be by your side.<lineend><CC03ED=0108005D000103FF><pause><CC03EA><CC03ED=0108005E000103FF>I'll always be watching over you...<lineend><CC03ED=0108005D000103FF><pause>|

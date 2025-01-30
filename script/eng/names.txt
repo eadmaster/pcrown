@@ -55,9 +55,9 @@ Court Lady<lineend>
 Bard<lineend>
 Sleepy<lineend>
 Smiley<lineend>
-Bryony<lineend>
+Bryonia<lineend>
 Grandma<lineend>
-Donfan<lineend>
+Don Juan<lineend>
 Leon<lineend>
 Aria<lineend>
 Ignis<lineend>
@@ -72,7 +72,7 @@ Hindel<lineend>
 Jadis<lineend>
 Necro-Samantha<lineend>
 Ondine<lineend>
-Faris<lineend>
+Faras<lineend>
 Forbidden Book<lineend>
 Larva<lineend>
 Wizard<lineend>

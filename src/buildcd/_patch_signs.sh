@@ -217,6 +217,8 @@ sfk replace POLT.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  POLT.PRG  POLT.PRG
 sfk replace PUPPET.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  PUPPET.PRG  PUPPET.PRG
+sfk replace VORG.PRG -text '/VORGLODO/VOLGROD /'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  VORG.PRG  VORG.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
