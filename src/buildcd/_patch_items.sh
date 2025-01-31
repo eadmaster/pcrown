@@ -14,6 +14,7 @@ xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font 
 
 # patch items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" 0.BIN
+sed 's/▼ //g; s/♂ //g; s/◇ //g'  ${TRANSLATED_SCRIPT_PATH}/items_ex.txt > ${TRANSLATED_SCRIPT_PATH}/items.txt  # remove EX icons
 iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items.txt -o ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis
 wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 

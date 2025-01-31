@@ -1387,7 +1387,11 @@ char *FixLineWrap(char *text, int event_id)
 
 
 unsigned short AsciiCharToTexttblIndex(char c) {
+   
+   // symbols
    if ( c  == ' ') return(0);
+   //else if ( c  == '、') return(1);  // replaced by "▼" (hearth icon) -> 0x81A5 (in texttbl.cpp)
+   //else if ( c  == '。') return(2);  // replaced by "°" (degree symbol) -> 0x818B (in texttbl.cpp)
    else if ( c  == '*') return(3);
    else if ( c  == '?') return(4);
    else if ( c  == '!') return(5);
@@ -1397,29 +1401,24 @@ unsigned short AsciiCharToTexttblIndex(char c) {
    else if ( c  == '~') return(9);
    else if ( c  == '(') return(10);
    else if ( c  == ')') return(11);
-   else if ( c  == '[') return(12);
-   else if ( c  == ']') return(13);
+   //else if ( c  == '「') return(12);  // replaced by "◇" (hourglass icon) -> 0x819E (in texttbl.cpp)
+   //else if ( c  == '」') return(13);  // replaced by "♂" (weapon icon) -> 0x8189 (in texttbl.cpp)
    else if ( c  == '-') return(14);
+   else if ( c  == '%') return(15);
+   // numbers
+   else if ( c  >= '0' && c <= '9') return(0x11 + c - '0');
+   // more symbols
    else if ( c  == ',') return(0x3DA);
    else if ( c  == '.') return(0x3DB);
    else if ( c  == '\"') return(0x3DC);
    else if ( c  == '\'') return(0x3DD);
    else if ( c  == ':') return(0x3DE);
    else if ( c  == '&') return(0x3DF);
-   else if ( c  == '%') return(0x0F);
-   else if ( c  == '0') return(0x11);
-   else if ( c  == '1') return(0x12);
-   else if ( c  == '2') return(0x13);
-   else if ( c  == '3') return(0x14);
-   else if ( c  == '4') return(0x15);
-   else if ( c  == '5') return(0x16);
-   else if ( c  == '6') return(0x17);
-   else if ( c  == '7') return(0x18);
-   else if ( c  == '8') return(0x19);
-   else if ( c  == '9') return(0x1A);
+   // letters
    else if ( c  >= 'A' && c <= 'Z') return(0x3C0 + c - 'A');
    else if ( c  >= 'a' && c <= 'z') return(0x3E0 + c - 'a');
-   else return(0xFFF);  // invalid
+   // invalid
+   else return(0xFFF);
 }
 
 

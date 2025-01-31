@@ -8,8 +8,7 @@ export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 xdelta3 -f -d -s KANJI.BIN ../buildcd/KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
 
 # patch items and names
-iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items.txt -o ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis
-#sed -i -f ${TRANSLATED_SCRIPT_PATH}/items_ex.sed ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis   # apply items customization for the EX version
+iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items_ex.txt -o ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis
 wine ../buildcd/itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items_ex.txt.sjis  0.BIN  KANJI_ENG.BIN  0xEA0   # 0xEA0 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 
 # make chars spacing smaller  https://github.com/eadmaster/pcrown/issues/1#issuecomment-2439672329
