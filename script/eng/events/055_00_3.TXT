@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0092><lineend><color=0001>I feel warmth in my heart when I smell the scent of fresh-cut rock.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0093><lineend><color=0001>Sleepy's got a cousin named Smiley.<pause><lineend><CC03EA>He's a very skilled craftsman, too.<pause><lineend><CC03EA>But Sleepy wandered out into the world long ago, and none of us have seen him since...<pause><lineend>|
+<CC03EA><color=0006><string=0093><lineend><color=0001>Sleepy's got a cousin named Smiley.<pause><lineend><CC03EA>He's a very skilled craftsman, too.<pause><lineend><CC03EA>But Smiley wandered out into the world long ago, and none of us have seen him since...<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0094><lineend><color=0001>A young witch turned up here recently.<pause><lineend><CC03EA>I've never met anyone so greedy and selfish in all my life!<pause><lineend><CC03EA>I suppose we'll have to learn to live with her...<pause><lineend>|
 4|

@@ -25,7 +25,7 @@
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Can all of this be true?<pause><lineend>|
 65549|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Oh yes...I am sure of it...For the book itself has told me everything.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Oh yes... I am sure of it... For the book itself has told me everything.<pause><lineend>|
 65550|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon...?<lineend>You don't mean...<lineend><pause>|
 65551|
@@ -43,13 +43,13 @@
 65557|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>That is why I will now be taking yours!<lineend><CC03ED=00F70006000103FF><pause>|
 65558|
-<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Well well... Look at this.<lineend>Now I understand...<lineend><CC03ED=00F70006000103FF><pause>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>Well, well... Look at this.<lineend>Now I understand...<lineend><CC03ED=00F70006000103FF><pause>|
 65559|
 <CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>You were fond of me, weren't you?<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>You leave me no choice.<lineend><CC03ED=00F70006000103FF><pause>|
 65560|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Necro-Samantha!<pause><lineend>|
 65561|
-<CC03EA><color=0005><string=0106><lineend><color=0001>You called Master Leon?<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>You called, Master Leon?<pause><lineend>|
 65562|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I want you to kill this girl and take her crown.<pause><lineend>|
 65563|

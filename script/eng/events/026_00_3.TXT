@@ -13,9 +13,9 @@
 6|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Demons would never attack a village as remote as this one, would they?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0028><lineend><color=0001>What about that rumor about the Demon King coming back to life?<pause><lineend><CC03EA>I guess it's too early to jump to conclusions, but still...<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>What about the rumor that the Demon King is coming back to life?<pause><lineend><CC03EA>I guess it's too early to jump to conclusions, but still...<pause><lineend>|
 8|
-<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but... uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
 9|
 <CC03EA><color=0006><string=001F><lineend><color=0001>The next time any Goblins come making trouble, I'm going to whip 'em myself!<pause><lineend>|
 10|

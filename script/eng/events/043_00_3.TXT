@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=000A><lineend><color=0001>The Don Juan Bandits got me, too.<pause><lineend><CC03EA>All those Gems I set aside... every last one of them... gone.<pause><lineend><CC03EA>My husband has no idea I was buying them, too.<pause><lineend><CC03EA>Now I have to pretend like nothing's the matter!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=000A><lineend><color=0001>Once stolen, you can't get it back, so i've started saving money again.<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>Once stolen, you can't get it back, so I've started saving money again.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Where could she be?<pause><lineend><CC03EA>I sent a maid out to buy something from the Dwarf Kingdom, but she's still not back.<pause><lineend><CC03EA>You're a traveler, aren't you, miss?<pause><lineend><CC03EA>Would you mind telling her to please come home at once?<pause><lineend><CC03EA>Should you ever run across her, that is.<pause><lineend>|
 6|
@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
 21|
-<CC03EA><color=0006><string=002D><lineend><color=0001>I had no idea, but I guess it makes sense...<pause><lineend><CC03EA>That juice you can buy at the Goblin Market? That's actually the Goblin's Local Delicacy!<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>I had no idea, but I guess it makes sense...<pause><lineend><CC03EA>That juice you can buy at the Goblin Market? That's actually the Goblins' Local Delicacy!<pause><lineend>|
 22|
 <CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
 23|
@@ -57,7 +57,7 @@
 28|
 <CC03EA><color=0006><string=005F><lineend><color=0001>No entry into this building!<pause><lineend>|
 29|
-<CC03EA><color=0006><string=005F><lineend><color=0001>Well well...<pause><lineend><CC03EA>A lavender-haired girl with amethyst eyes... about 13 years old...<pause><lineend><CC03EA>You must be the one who did the favor for our Leader's daughter!<pause><lineend><CC03EA>Go right ahead. The Leader himself gave you the OK.<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>Well, well...<pause><lineend><CC03EA>A lavender-haired girl with amethyst eyes... about 13 years old...<pause><lineend><CC03EA>You must be the one who did the favor for our Leader's daughter!<pause><lineend><CC03EA>Go right ahead. The Leader himself gave you the OK.<pause><lineend>|
 30|
 <CC03EA><color=0006><string=005F><lineend><color=0001>The Leader told me everything. Go right on in.<pause><lineend>|
 31|

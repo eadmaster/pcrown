@@ -39,7 +39,7 @@
 19|
 <CC03EA><color=0006><string=0014><lineend><color=0001>Now all we need is for the Demon Horde to disappear.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Some people say that earthquakes happen when giants faraway get in a fight.<pause><lineend><CC03EA>Others say that they happen when the gods get angry at us. What do you think?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Some people say that earthquakes happen when faraway giants get in a fight.<pause><lineend><CC03EA>Others say that they happen when the gods get angry at us. What do you think?<pause><lineend>|
 21|
 <CC03EA><color=0006><string=001D><lineend><color=0001>My grandson went and turned himself into a Frogger, did he?<pause><lineend><CC03EA>Must've been that potion he was working on.<pause><lineend>|
 22|

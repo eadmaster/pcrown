@@ -44,9 +44,10 @@ done
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
     txtfile=${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT
+    txtfile_orig=${TRANSLATED_SCRIPT_PATH}/events/${EVNBASENAME}.TXT
     if [ -f ${txtfile} ]; then
         # check if txt file is newer
-        if [ ! -f ${eventfile}.eng ] || [ $(stat --format=%Y ${txtfile}) -gt $(stat --format=%Y ${eventfile}.eng) ]; then
+        if [ ! -f ${eventfile}.eng ] || [ $(stat --format=%Y ${txtfile_orig}) -gt $(stat --format=%Y ${eventfile}.eng) ]; then
             echo "$0: updating ${eventfile}"
             wine eventeditor.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
         else
@@ -54,7 +55,7 @@ find *.EVN | while read eventfile; do
         fi
         cd-replace "$PATCHED_IMAGE_FILE" ${eventfile}  ${eventfile}.eng  > /dev/null
     else
-        echo "$0: missing translated script: ${txtfile}"
+        echo "$0: missing translated script: ${txtfile_orig}"
     fi
 done
 

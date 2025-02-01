@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Hmm...<pause><lineend><CC03EA>...So be it. You seem trustworthy.<pause><lineend><CC03EA>Here, take it. It belongs to you now.<pause><lineend><CC03EA>All you have to do is hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take you to the time and place you desire.<pause><lineend>|
 8|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take you wherever you want to go.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Hold the Time Stone above your head and wish...<pause><lineend><CC03EA>...and it will take you to the time and place you desire.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Ah, if it isn't our savior!<pause><lineend><CC03EA>I will now offer a prayer of thanks for the peace that has fallen upon us.<pause><lineend><CC03EA>How about yourself? Would you care to join me?<pause><lineend>|
 10|

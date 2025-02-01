@@ -31,7 +31,7 @@
 131084|
 <CC03EA><CC03FC=0004><string=00FF>No, Gradriel...<lineend>Whatever hatred you may feel, you must not give in to it.<pause><lineend>|
 131085|
-<CC03EA><CC03FC=0004><string=00FF>It's one of the Royal prayer.<pause><lineend><CC03EA>"I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness..."<pause><lineend><CC03EA>If you don't seek the path, you will never find it.<pause><lineend><CC03EA>The path to returning light to the world, and to saving everybody in it, lies in you.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00FF>It's part of the Royal prayer.<pause><lineend><CC03EA>"I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness..."<pause><lineend><CC03EA>If you don't seek the path, you will never find it.<pause><lineend><CC03EA>The path to returning light to the world, and to saving everybody in it, lies in you.<pause><lineend>|
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Mother?<pause><lineend>|
 131087|

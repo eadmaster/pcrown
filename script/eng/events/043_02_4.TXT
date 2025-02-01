@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Ahhh!<pause><lineend><CC03EA>Nothing hits the spot like a cold beer after you've made a good deal!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Well well! Hello there.<pause><lineend><CC03EA>Is your wallet a little heavy? If so, spend a night or two here at Cadho Badho's best inn.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Well, well! Hello there.<pause><lineend><CC03EA>Is your wallet a little heavy? If so, spend a night or two here at Cadho Badho's best inn.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Secret Tavern. I'll take your order.<pause><lineend>|
 3|

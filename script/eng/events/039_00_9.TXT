@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0067><lineend><color=0001>We all just heard that the Island of Illusion is connected to the Demon Realm.<pause><lineend><CC03EA>I always half-believed that there was a path to paradise there...<pause><lineend><CC03EA>Now I know it's really something much scarier.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0063><lineend><color=0001>You want to go to the Northern Kingdom?<pause><lineend><CC03EA>Look, I don't want to upset you, but you're better off forgetting about it.<pause><lineend><CC03EA>Why do you think we haven't had trade with the Northern Kingdom for the last 20 years?<pause><lineend><CC03EA>It's because there are a bunch of dreadful Sirens living between us.<pause><lineend><CC03EA>They sink any ship that dare tries passing by with their cursed songs.<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>You want to go to the Northern Kingdom?<pause><lineend><CC03EA>Look, I don't want to upset you, but you're better off forgetting about it.<pause><lineend><CC03EA>Why do you think we haven't had trade with the Northern Kingdom for the last 20 years?<pause><lineend><CC03EA>It's because there are a bunch of dreadful Sirens living between us.<pause><lineend><CC03EA>They sink any ship that dares try passing by with their cursed songs.<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Hooray! We'll finally be able to see the emerald seas of the Northern Kingdom again!<pause><lineend>|
 8|

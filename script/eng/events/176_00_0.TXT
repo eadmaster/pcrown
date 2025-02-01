@@ -3,11 +3,11 @@
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>stop this now!  <pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Larva, you were<lineend>the God of  <lineend><pause><CC03EA>Darkness?    <lineend>You deceived me!<lineend><pause>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Larva, YOU were<lineend>the God of  <lineend><pause><CC03EA>Darkness?    <lineend>You deceived me!<lineend><pause>|
 65539|
 <CC03EA><color=0004><string=0110><lineend><color=0001>Even so, you<pause><lineend><CC03EA>won't harm   <lineend>Sidrael... <pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Hah...<pause><lineend><CC03EA>My strenghtÅI<pause><lineend><CC03EA>Fading..<lineend>Please..<lineend>Save Sidrael! <pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Hah...<pause><lineend><CC03EA>My strengthÅI<pause><lineend><CC03EA>Fading..<lineend>Please..<lineend>Save Sidrael! <pause><lineend>|
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Larva is...  <pause><lineend>|
 131073|

@@ -5,7 +5,7 @@
 2|
 <CC03F0=000000880000000A03FF00000000>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...So that was it. What a sad fate for Sir Leon.<pause><lineend><CC03EA><lineend><pause><CC03EA>Still, we were fortunate to stop the Dark God from materializing.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...So that was it. What a sad fate for Sir Leon.<pause><lineend><CC03EA>Still, we were fortunate to stop the Dark God from materializing.<lineend><pause>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That wicked book has disappeared from the world as well.<lineend><pause><CC03EA>And without their king, the Demon Horde probably won't attack us ever again.<lineend><pause><CC03EA><CC03F8=0001>Maybe I'll keep it a secret that I fought Larva. I'd just worry everybody...<lineend><pause>|
 65538|
@@ -35,7 +35,7 @@
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I've got to get started on repairing all the towns that were attacked.<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Really? I guess you'll be pretty busy then, huh?.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Really? I guess you'll be pretty busy then, huh?<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think so, yes.<pause><lineend>|
 131076|
