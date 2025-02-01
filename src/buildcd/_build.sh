@@ -17,7 +17,6 @@ export SIGNS_PATH=../../signs
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 
 # cleanup
-rm *.eng
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso"
 rm "Princess Crown (Japan) (1M) (Track 01).iso"
 rm "$PATCHED_IMAGE_FILE"
@@ -44,12 +43,18 @@ done
 
 find *.EVN | while read eventfile; do 
     EVNBASENAME="$(basename "$eventfile" .EVN )"
-    if [ -f ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT ]; then
-        echo "$0: updating ${eventfile}"
-        wine eventeditor.exe -i ${eventfile} ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT  -o ${eventfile}.eng
+    txtfile=${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT
+    if [ -f ${txtfile} ]; then
+        # check if txt file is newer
+        if [ ! -f ${eventfile}.eng ] || [ $(stat --format=%Y ${txtfile}) -gt $(stat --format=%Y ${eventfile}.eng) ]; then
+            echo "$0: updating ${eventfile}"
+            wine eventeditor.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
+        else
+            echo "$0: no need to repatch ${eventfile}.eng"
+        fi
         cd-replace "$PATCHED_IMAGE_FILE" ${eventfile}  ${eventfile}.eng  > /dev/null
     else
-        echo "$0: missing translated script: ${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVNBASENAME}.TXT"
+        echo "$0: missing translated script: ${txtfile}"
     fi
 done
 
