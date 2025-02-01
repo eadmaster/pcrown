@@ -41,7 +41,7 @@
 131081|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Golgotha? Tell me, how did all this happen?<pause><lineend>|
 131082|
-<CC03EA>.<color=0004><string=0103><lineend><color=0001>It was... a book. A possessed book. I remember that it lunged at me.<pause><lineend><CC03EA>Everything after that is a blur.<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>It was... a book. A possessed book. I remember that it lunged at me.<pause><lineend><CC03EA>Everything after that is a blur.<pause><lineend>|
 131083|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>It appears that it took control of your body and used it to attack the kingdom!<pause><lineend>|
 131084|
@@ -79,7 +79,7 @@
 196616|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There was no time...<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time Stone, your Highness.<lineend><pause><CC03EA>I had read before that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the Demon have been sent somewhere in else in time.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time Stone, your Highness.<lineend><pause><CC03EA>I had read before that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the Demon have been sent somewhere else in time.<pause><lineend>|
 196618|
 <CC03EA><color=0005><string=0114><lineend><color=0001>This fight is over. The Queen is coming with me!<lineend><pause>|
 262144|
@@ -89,7 +89,7 @@
 262146|
 <CC03EA><color=0004><string=0101><lineend><color=0001>If you say you can't tell me, then I won't ask anything further.<pause><lineend><CC03EA>Whoever you are, you saved us all. There's no questioning that!<pause><lineend><CC03EA>As a token of our gratitude, I bestow the title of "Hero" upon you.<pause><lineend><CC03EA>You are free to go wherever you like in my kingdom.<pause><lineend><CC03EA>Please accept this as our thanks.<pause><lineend>|
 262147|
-<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I have sealed away the wicked book that was controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution, its location is secret to all except myself and a few other Wizards.<pause><lineend><CC03EA>With that settled, allow me to ask...Is this an acquaintance of yours, your Majesty?<pause><lineend><CC03EA>She has a certain air about her...<pause><lineend><CC03EA>It's as if she's a Princess from a Kingdom not so far away...<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I have sealed away the wicked book that was controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution, its location is secret to all except myself and a few other Wizards.<pause><lineend><CC03EA>With that settled, allow me to ask... Is this an acquaintance of yours, your Majesty?<pause><lineend><CC03EA>She has a certain air about her...<pause><lineend><CC03EA>It's as if she's a Princess from a Kingdom not so far away...<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0101><lineend><color=0001>I've never met her before, but you're right, there is something special about her.<pause><lineend><CC03EA>Let's not be nosy, though.<pause><lineend><CC03EA>I've given her a title! Hereafter, she'll be known as the hero who saved our land.<pause><lineend>|
 262149|
@@ -105,6 +105,6 @@
 262154|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Certainly.<pause><lineend>|
 262155|
-<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange...I know we just met, but somehow I feel like I've always known you.<pause><lineend><CC03EA>You're welcome to rest here at the castle all you like before you resume your travels.<pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>It's so strange... I know we just met, but somehow I feel like I've always known you.<pause><lineend><CC03EA>You're welcome to rest here at the castle all you like before you resume your travels.<pause><lineend>|
 262156|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Mother...I'm so glad I was able to meet you.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Mother... I'm so glad I was able to meet you.<pause><lineend>|

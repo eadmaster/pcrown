@@ -11,7 +11,8 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - [most doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
+ - [almost all doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
+   - some were shortened to fit into the available space, still need alignment fixes
  - all book/scenarios fully tested and crash-free
    - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
 
@@ -63,10 +64,10 @@ Contact me via discord or forums if you can contribute or have issues to report 
 
 # New contributors/Special thanks
 
- - [paul-met](https://github.com/paul-met) ([short spaces and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98))
+ - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98))
  - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/)  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
- - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
+ - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of script fixes, missing signs)
  

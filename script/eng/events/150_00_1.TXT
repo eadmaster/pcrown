@@ -67,7 +67,7 @@
 65541|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Well, in that case...<pause><lineend><CC03EA>...hold on, I'm thinking...<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>You could always...<pause><lineend><CC03EA>Hmm...I suppose it's not impossible...<pause><lineend><CC03EA>Hmm!<lineend>Hee hee hee hee!!<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>You could always...<pause><lineend><CC03EA>Hmm... I suppose it's not impossible...<pause><lineend><CC03EA>Hmm!<lineend>Hee hee hee hee!!<pause><lineend>|
 65543|
 <CC03EA><color=0002><string=0002><lineend><color=0001>What? What is it, Auntie?<lineend>Hurry up already!<pause><lineend>|
 65544|
@@ -79,7 +79,7 @@
 65547|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Seriously? That sounds fantastic!<pause><lineend>|
 65548|
-<CC03EA><color=0002><string=0002><lineend><color=0001>In other words, if I become an adult...<pause><lineend><CC03EA>...I can turn everybody in the whole kingdom into frogs?<pause><lineend><CC03EA>Ooh hoo hoo...I'd turn that girl into the ugliest frog of them all!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>In other words, if I become an adult...<pause><lineend><CC03EA>...I can turn everybody in the whole kingdom into frogs?<pause><lineend><CC03EA>Ooh hoo hoo... I'd turn that girl into the ugliest frog of them all!<pause><lineend>|
 65549|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Splendid, my dear! Splendid!<pause><lineend><CC03EA>All right then, Proserpina, your job will be to gather the ingredients.<pause><lineend>|
 65550|
@@ -107,7 +107,7 @@
 196608|
 <CC03EA><color=0002><string=01BE><lineend><color=0001>Gradriel! I've found you!!<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=017D><lineend><color=0001>Wha...Proserpina!?<pause><lineend><CC03EA>What happened to you?<pause><lineend>|
+<CC03EA><color=0004><string=017D><lineend><color=0001>Wha... Proserpina!?<pause><lineend><CC03EA>What happened to you?<pause><lineend>|
 196610|
 <CC03EA><color=0002><string=01BE><lineend><color=0001>Ha ha ha!!<lineend>Surprised, Gradriel?<pause><lineend><CC03EA>I succeeded at turning myself into an adult. And now I'm turning you into a frog!<pause><lineend>|
 196611|

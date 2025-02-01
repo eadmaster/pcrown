@@ -7,7 +7,7 @@
 131074|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>The forces of evil magic have been on the rise for some time now.<pause><lineend><CC03EA>It seems to be affecting the monsters, making them more aggressive.<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Leon said the same thing at the tower in the Black Forest.<pause><lineend><CC03EA>But the evil magic should have dried up when the magic square broke apart, right?<pause><lineend><CC03EA>Could it be coming from Arsontula, where the door to the Demon Realm is?<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon said the same thing at the tower in the Black Forest.<pause><lineend><CC03EA>But the evil magic should have dried up when the magic circle broke apart, right?<pause><lineend><CC03EA>Could it be coming from Arsontula, where the door to the Demon Realm is?<lineend><pause>|
 131076|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, but I'm afraid there is more to it than that.<pause><lineend><CC03EA>Something must be afoot within the Demon Realm itself.<pause><lineend>|
 131077|

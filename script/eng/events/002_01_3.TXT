@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0005><lineend><color=0001>Hey you...*HIC*...Wanna know something?<pause><lineend><CC03EA>*HIC*...The Queen of Valendia...Elfaran...She's amazing!<pause><lineend><CC03EA>...*HIC*...They don't come any more clever than her.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>Hey you... *HIC*... Wanna know something?<pause><lineend><CC03EA>*HIC*... The Queen of Valendia... Elfaran... She's amazing!<pause><lineend><CC03EA>...*HIC*... They don't come any more clever than her.<pause><lineend>|
 1|
 <CC03FA=0029000300000000000003FF000A00460000><CC03FB=0046>|
 2|
@@ -11,7 +11,7 @@
 5|
 <CC03FA=0000000700000000000003FF000A00500000><CC03FB=0050>|
 6|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Every time he opens his mouth, it's Elfaran, Elfaran, Elfaran!<pause><lineend><CC03EA>How come he never talks about me? I'm his fiance!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Every time he opens his mouth, it's Elfaran, Elfaran, Elfaran!<pause><lineend><CC03EA>How come he never talks about me? I'm his fiancee!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Ahh, this tastes great!<pause><lineend><CC03EA>It won't matter if we have peace or if the Demon King's army attacks.<pause><lineend><CC03EA>Beer will always taste good.<pause><lineend>|
 8|

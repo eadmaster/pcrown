@@ -1,13 +1,13 @@
 65536|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Golgotha... the one who trapped me there with his sword...<pause><lineend><CC03EA>His blood smelled the same way...<pause><lineend><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Golgotha... the one who pinned me there with his sword...<pause><lineend><CC03EA>His blood smelled the same way...<pause><lineend><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wait, Edward!<pause><lineend><CC03EA>Swords don't work on this Demon!<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel... I mean, your Highness... What are you doing here?<pause><lineend>|
 65540|
-<CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who stole my Gem and sent me 4 years into the future!<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who stole my Gem and sent me four years into the future!<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run, Edward!<pause><lineend>|
 131072|

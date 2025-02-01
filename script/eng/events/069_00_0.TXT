@@ -35,4 +35,4 @@
 196613|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Where is it?<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Down at castle gate, your Majesty.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Down at the castle gate, your Majesty.<pause><lineend>|

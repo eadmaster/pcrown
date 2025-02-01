@@ -9,9 +9,8 @@
 └── eng                  # English script translation (files match 1-to-1 those in the jap folder)
     ├── events           # dialogues, parsed by the eventeditor
     ├── events_splitted  # splitted dialogues, dir populated while building (do not edit these)
-    ├── items.txt        # items and status messages, parsed by itemsutil (UTF-8-encoded)
-    ├── items_lt.txt     # items and status messages, literal translation used in the LT version (UTF-8-encoded)
-    ├── items_ex.sed     # items and status messages, changes used in the EX version (UTF-8-encoded)
+    ├── items_ex.txt     # items and status messages, extended translation used in the normal and EX version, parsed by itemsutil (UTF-8-encoded)
+    ├── items_lt.txt     # items and status messages, literal translation used in the LT version, parsed by itemsutil (UTF-8-encoded)
     ├── items*.txt.sjis  # items and status messages, generated while building (do not edit these)
     ├── names.txt        # characters and enemies names, parsed by itemsutil
     └── ...  # other files are unused

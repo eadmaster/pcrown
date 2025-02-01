@@ -316,7 +316,7 @@ Lend a hand in battle<lineend>
 Give items during battle<lineend>
 Give potions during battle<lineend>
 Combo attack in battle<lineend>
-Dispel curses<lineend>
+Remove cursed Equipment<lineend>
 Bombard enemies in battle<lineend>
 Offer healing in battle<lineend>
 Grow Healing Flower<lineend>
@@ -375,7 +375,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> took you to faraway seas<pause><lineend>
 <CC03EA>Body reverting back to normal.<pause><lineend>
 <CC03EA><CC03F4> used telekinesis<pause><lineend>
-<CC03EA><CC03F4> is raising his sword<pause><lineend>
+<CC03EA><CC03F4> is raising his beheading sword<pause><lineend>
 <CC03EA><CC03F4> caught you in his net<pause><lineend>
 <CC03EA><CC03F4> started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
@@ -390,9 +390,9 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> has controlled the dead<pause><lineend>
 <CC03EA><CC03F4> summoned a ghost<pause><lineend>
 <CC03EA><CC03F4> summoned a beast<pause><lineend>
-<CC03EA>A Bewitching Beauty...<pause><lineend>
+<CC03EA>Bewitching flower Alraune was summoned<pause><lineend>
 <CC03EA><CC03F4> focused magic in his claws<pause><lineend>
-<CC03EA><CC03F4> threw a fireball<pause><lineend>
+<CC03EA><CC03F4> slammed a fireball<pause><lineend>
 <CC03EA><CC03F4> fired a strong beam<pause><lineend>
 <CC03EA>Another one wants his turn<pause><lineend>
 <CC03EA><CC03F4> is all busted up<pause><lineend>
