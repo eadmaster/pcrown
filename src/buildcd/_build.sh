@@ -15,6 +15,7 @@ export TRANSLATED_SCRIPT_PATH=../../script/eng
 export SIGNS_PATH=../../signs
 #export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
+export SFK_COLORS=
 
 # cleanup
 rm "Princess Crown (Japan) (1M) (Track 01) (English).iso"
@@ -22,6 +23,7 @@ rm "Princess Crown (Japan) (1M) (Track 01).iso"
 rm "$PATCHED_IMAGE_FILE"
 rm "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
 rm "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
+# rm *.eng
 
 # convert data bin track to iso
 iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01).iso"

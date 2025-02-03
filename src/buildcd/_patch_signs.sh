@@ -6,6 +6,7 @@
 export SIGNS_PATH=../../signs
 #export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
+export SFK_COLORS=
 
 # turn a file into an hex string
 #file2hexstr() { xxd -p -c 10000 "$1" ; }   
@@ -34,11 +35,12 @@ replace_sign() {
     # binary search-replace 
     #sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit   
     #file_patch $chrfile $SIGN_JAP_HEX_STR $SIGN_ENG_HEX_STR
+    #echo " ---> $1"
     sfk replace -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit -file .CHR -dir .
 }
 
 # extract all files with gfx elements
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.CHR'
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.CHR'  > /dev/null
 
 # TODO: extract original *_jap.bin signs with sfk http://stahlworks.com/sfk-partcopy
 # sfk partcopy infile -fromto startoffset  
@@ -196,7 +198,7 @@ file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr $
 cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
 
 # fix Engrish in enemy banner names https://github.com/eadmaster/pcrown/issues/93
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'  > /dev/null
 sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
 cd-replace "$PATCHED_IMAGE_FILE"  DOHDOH.PRG  DOHDOH.PRG
 sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
@@ -221,7 +223,7 @@ sfk replace VORG.PRG -text '/VORGLODO/VOLGROD /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  VORG.PRG  VORG.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
 # "DWALF LAND" -> "DWARF LAND"
 sfk setbytes COMM.PAK 0x6351 0x05 -yes
 # "YGGDRASILL" -> "YGGDRASIL "
@@ -250,19 +252,50 @@ sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes  # R->invisible
 sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes  # A->invisible
 
 # fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584
-# "DOH DOH" -> "DO  DO" (found in 047-00)
-sfk setbytes COMM.PAK 0x70BA 0x0000000000000000 -yes # H->invisible
-sfk setbytes COMM.PAK 0x70DE 0x0000000000000000 -yes # H->invisible
+# "DOH DOH" -> "DODO" (found in 047-00)
+sfk setbytes COMM.PAK 0x70AC 0x\
+# d1 unchanged
+40F8020809080901020100AA\
+# invisible
+40FC000000000000000000AA\
+# invisible
+4103000000000000000000AA\
+# d->o2 left 9
+410314081b081b01140100AA\
+# h->d2
+40F80E08150815010E0100AA\
+# o1 unchanged
+410308080F080F01080100AA  -yes
 # "ORCHRE JELLY" -> " OCHRE JELLY" (found in 047-00)
 sfk setbytes COMM.PAK 0x710E 0x0000000000000000 -yes # O->invisible
 sfk setbytes COMM.PAK 0x7100 0x4103 -yes             # R->O
 # "SIRENE" -> "SIREN " (found in 047-00)
 sfk setbytes COMM.PAK 0x78A6 0x0000000000000000 -yes # E->invisible
-# "CHAOTHIC EYE" -> "CHAOTIC  EYE" (found in 025-00)
-sfk setbytes COMM.PAK 0x7C10 0x40FD -yes             # H->I
-sfk setbytes COMM.PAK 0x7C34 0x40f7 -yes             # I->C
-sfk setbytes COMM.PAK 0x7C06 0x0000000000000000 -yes # C->invisible
-# TODO: SAMANSA -> SAMANTHA
+# "CHAOTHIC EYE" -> "CHAOTIC EYE" (found in 025-00)
+sfk setbytes COMM.PAK 0x7bc8 0x\
+# unchanged
+40FC06080D080D01060100AA\
+# unchanged
+40F7000807080701000100AA\
+# e left 7
+40F93c08430843013c0100AA\
+# y left 7
+410B35083c083c01350100AA\
+# e left 7
+40F92e08350835012e0100AA\
+# c2 left 7
+40F726082d082d01260100AA\
+# h2->i right 1
+40FD210828082801210100AA\
+# unchanged
+41071a08210821011a0100AA\
+# unchanged
+410314081B081B01140100AA\
+# I->invisible
+40FD000000000000000000AA\
+# unchanged
+40F51E08250825011E0100AA -yes
 
-cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK
+
+cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK  > /dev/null
 
