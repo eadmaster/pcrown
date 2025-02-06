@@ -245,11 +245,11 @@ sfk setbytes COMM.PAK 0x64B8 0x410703080a080a0f030f0000 -yes  # T unchanged, mov
 sfk setbytes COMM.PAK 0x64AC 0x410809081008100f090f0000 -yes  # R->U, moved 7 right 
 sfk setbytes COMM.PAK 0x6458 0x410010081708170f100f0000 -yes  # U->L, moved 7 right 
 sfk setbytes COMM.PAK 0x64A0 0x40f517081e081e0f170f0000 -yes  # S->A, moved 7 right 
-sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes  # E->invisible
-sfk setbytes COMM.PAK 0x6484 0x0000000000000000 -yes  # T->invisible
-sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes  # E->invisible
-sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes  # R->invisible
-sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes  # A->invisible
+sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes          # E->invisible
+sfk setbytes COMM.PAK 0x648A 0x0000000000000000 -yes          # T->invisible
+sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes          # E->invisible
+sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes          # R->invisible
+sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes          # A->invisible
 
 # fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584
 # "DOH DOH" -> "DODO" (found in 047-00)
@@ -298,4 +298,3 @@ sfk setbytes COMM.PAK 0x7bc8 0x\
 
 
 cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK  > /dev/null
-
