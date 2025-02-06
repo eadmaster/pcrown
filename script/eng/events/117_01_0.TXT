@@ -15,7 +15,7 @@
 7|
 <CC03EA><CC03FC=0004><string=01AC><color=0001>The Silver Sword Special is Toast To Go made with fresh Dodo Eggs.<pause><lineend><CC03EA>We cook the egg until it's easy to eat. The cornbread we use is light and crispy, too.<pause><lineend><CC03EA>Then there's creamy homemade butter in between. It's exquisite!<pause><lineend><CC03EA>One costs 40G. Would you be interested?<pause><lineend>|
 8|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend>|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 9|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um... You don't have enough.<pause><lineend>|
 10|
@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=01AC><lineend><color=0001><CC03F7>, right?<pause><lineend><CC03EA>Can I get 30G from you?<pause><lineend>|
 15|
-<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend>|
+<CC03EA><CC03FC=0004><string=01AC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 16|
 <CC03EA><color=0006><string=01AC><lineend><color=0001>Um... You don't have enough.<pause><lineend>|
 17|
