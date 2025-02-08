@@ -9,7 +9,7 @@ Woman<lineend>
 Lanky Man<lineend>
 Fat Man<lineend>
 Man<lineend>
-Old Woman<lineend>
+Grandma<lineend>
 Boy<lineend>
 Little Girl<lineend>
 Young Lady<lineend>
@@ -56,7 +56,7 @@ Bard<lineend>
 Sleepy<lineend>
 Smiley<lineend>
 Bryonia<lineend>
-Grandma<lineend>
+Old Woman<lineend>
 Don Juan<lineend>
 Leon<lineend>
 Aria<lineend>

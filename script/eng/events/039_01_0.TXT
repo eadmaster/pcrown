@@ -11,7 +11,7 @@
 65536|
 <CC03EA><color=0006><string=0063><lineend><color=0001><CC03ED=0063000D000103FF>How about that ocean view? Isn't it wonderful?<lineend><CC03ED=0063000C000103FF><pause><CC03EA>It's what we Leelanders take pride in most of all.<pause><lineend>|
 65537|
-<CC03EA><color=0006><string=0033><lineend><color=0001>Here we are: The beautiful Sea of Leeland... It really is extraordinary!<pause><lineend><CC03EA>Yet next to your beauty, my darling sweet, it's nothing at all.<pause><lineend>|
+<CC03EA><color=0006><string=0033><lineend><color=0001>Here we are: the beautiful Sea of Leeland... It really is extraordinary!<pause><lineend><CC03EA>Yet next to your beauty, my darling sweet, it's nothing at all.<pause><lineend>|
 65538|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Tee hee! Not bad! But yes, it is very lovely...<pause><lineend><CC03EA>I feel like we could just fly away, like seagulls. Just the two of us.<pause><lineend>|
 65539|

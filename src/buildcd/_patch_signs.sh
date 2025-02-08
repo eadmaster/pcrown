@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Doorway signs patching script  https://github.com/eadmaster/pcrown/issues/5
+# Signs and banners patching script  https://github.com/eadmaster/pcrown/issues/5
 # Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 export SIGNS_PATH=../../signs
@@ -165,9 +165,9 @@ replace_sign  ranch  132
 replace_sign  desert  352
 # Dragon's nest (88*11/2=484) -> test in 017-00
 replace_sign  dragonnest  484
-# portal (To another space) (48*11/2=264) -> test in 000_07_B
+# Portal (To another space) (48*11/2=264) -> test in 000_07_B
 replace_sign  portal  264
-# elfaran (88*10/2=440) -> test in 000-04 (old castle, save-dependent)
+# Elfaran (88*10/2=440) -> test in 000-04 (old castle, save-dependent)
 replace_sign  elfaran  440
 # (Guest) Room (24*11/2=132) -> test in 000-04 (old castle, save-dependent)
 replace_sign  room_guest  132
@@ -179,6 +179,14 @@ replace_sign  artist  132
 replace_sign  shouse  132
 # Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
 replace_sign  magic_meadow  396
+# Last Tavern/Inn (40*11/2=220) -> test in 083-00
+replace_sign  last  220
+# Old (Cave) (24*11/2=132) -> test in 087-00 (Edward book)
+replace_sign  old2  132
+# (Old) Cave (24*11/2=132) -> test in 087-00 (Edward book)
+replace_sign  cave2  132
+# Lost Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
+replace_sign  lost_forest  264
 
 
 # replace all the chr files with updated signs
@@ -221,6 +229,8 @@ sfk replace PUPPET.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  PUPPET.PRG  PUPPET.PRG
 sfk replace VORG.PRG -text '/VORGLODO/VOLGROD /'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  VORG.PRG  VORG.PRG
+sfk replace KUMO.PRG -text '/TARANTURA/TARANTULA/'  -yes
+cd-replace "$PATCHED_IMAGE_FILE"  KUMO.PRG  KUMO.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
@@ -236,15 +246,15 @@ sfk setbytes COMM.PAK 0x5E7E 0x0000000000000000 -yes
 # "EARTH ON TRUSE TERA"-> "  ARS ON TULA      " 
 sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes          # E->invisible
 sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes          # A->invisible
-sfk setbytes COMM.PAK 0x64F4 0x40f51f081808180f1f0f0055 -yes  # R->A, moved 11 right
-sfk setbytes COMM.PAK 0x64E8 0x410518081108110f180f0055 -yes  # T->R, moved 11 right
-sfk setbytes COMM.PAK 0x64DC 0x410611080a080a0f110f0055 -yes  # H->S, moved 12 right
-sfk setbytes COMM.PAK 0x64D0 0x41030a080308030f0a0f0055 -yes  # O unchanged, moved 9 right
-sfk setbytes COMM.PAK 0x64C4 0x410104080308030f040f0041 -yes  # N unchanged, moved 9 right
-sfk setbytes COMM.PAK 0x64B8 0x410703080a080a0f030f0000 -yes  # T unchanged, moved 7 right
-sfk setbytes COMM.PAK 0x64AC 0x410809081008100f090f0000 -yes  # R->U, moved 7 right 
-sfk setbytes COMM.PAK 0x6458 0x410010081708170f100f0000 -yes  # U->L, moved 7 right 
-sfk setbytes COMM.PAK 0x64A0 0x40f517081e081e0f170f0000 -yes  # S->A, moved 7 right 
+sfk setbytes COMM.PAK 0x64F4 0x40f51f081808180f1f0f0055 -yes  # R->A, moved right 11
+sfk setbytes COMM.PAK 0x64E8 0x410518081108110f180f0055 -yes  # T->R, moved right 11
+sfk setbytes COMM.PAK 0x64DC 0x410611080a080a0f110f0055 -yes  # H->S, moved right 12
+sfk setbytes COMM.PAK 0x64D0 0x41030a080308030f0a0f0055 -yes  # O unchanged, moved right 9
+sfk setbytes COMM.PAK 0x64C4 0x410104080308030f040f0041 -yes  # N unchanged, moved right 9
+sfk setbytes COMM.PAK 0x64B8 0x410703080a080a0f030f0000 -yes  # T unchanged, moved right 7
+sfk setbytes COMM.PAK 0x64AC 0x410809081008100f090f0000 -yes  # R->U, moved right 7
+sfk setbytes COMM.PAK 0x6458 0x410010081708170f100f0000 -yes  # U->L, moved right 7
+sfk setbytes COMM.PAK 0x64A0 0x40f517081e081e0f170f0000 -yes  # S->A, moved right 7
 sfk setbytes COMM.PAK 0x6496 0x0000000000000000 -yes          # E->invisible
 sfk setbytes COMM.PAK 0x648A 0x0000000000000000 -yes          # T->invisible
 sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes          # E->invisible
@@ -253,18 +263,18 @@ sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes          # A->invisible
 
 # fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584
 # "DOH DOH" -> "DODO" (found in 047-00)
+# D unchanged
+# H->invisible
+# O->invisible
+# D->O, moved left 9
+# H->D
+# O unchanged
 sfk setbytes COMM.PAK 0x70AC 0x\
-# d1 unchanged
 40F8020809080901020100AA\
-# invisible
 40FC000000000000000000AA\
-# invisible
 4103000000000000000000AA\
-# d->o2 left 9
 410314081b081b01140100AA\
-# h->d2
 40F80E08150815010E0100AA\
-# o1 unchanged
 410308080F080F01080100AA  -yes
 # "ORCHRE JELLY" -> " OCHRE JELLY" (found in 047-00)
 sfk setbytes COMM.PAK 0x710E 0x0000000000000000 -yes # O->invisible
@@ -272,28 +282,28 @@ sfk setbytes COMM.PAK 0x7100 0x4103 -yes             # R->O
 # "SIRENE" -> "SIREN " (found in 047-00)
 sfk setbytes COMM.PAK 0x78A6 0x0000000000000000 -yes # E->invisible
 # "CHAOTHIC EYE" -> "CHAOTIC EYE" (found in 025-00)
-sfk setbytes COMM.PAK 0x7bc8 0x\
-# unchanged
-40FC06080D080D01060100AA\
-# unchanged
-40F7000807080701000100AA\
-# e left 7
-40F93c08430843013c0100AA\
-# y left 7
-410B35083c083c01350100AA\
-# e left 7
-40F92e08350835012e0100AA\
-# c2 left 7
-40F726082d082d01260100AA\
-# h2->i right 1
-40FD210828082801210100AA\
-# unchanged
-41071a08210821011a0100AA\
-# unchanged
-410314081B081B01140100AA\
+# H unchanged
+# C unchanged
+# E unchanged, moved left 7
+# Y unchanged, moved left 7
+# E unchanged, moved left 7
+# C unchanged, moved left 7
+# H->I, moved right 1
+# T unchanged
+# O unchanged
 # I->invisible
+# A unchanged
+sfk setbytes COMM.PAK 0x7bc8 0x\
+40FC06080D080D01060100AA\
+40F7000807080701000100AA\
+40F93c08430843013c0100AA\
+410B35083c083c01350100AA\
+40F92e08350835012e0100AA\
+40F726082d082d01260100AA\
+40FD210828082801210100AA\
+41071a08210821011a0100AA\
+410314081B081B01140100AA\
 40FD000000000000000000AA\
-# unchanged
 40F51E08250825011E0100AA -yes
 
 

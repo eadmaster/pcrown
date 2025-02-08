@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh Milk?<pause><lineend><CC03EA>Just head out to the barn. They'll sell you some there.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>My little sister is the one who sells the milk.<pause><lineend><CC03EA>I saw her heading out of the village a minute ago. I wonder if she's all right?<pause><lineend><CC03EA>She was going toward the <color=0002>Forest of Bewilderment,<color=0001> but I can't imagine she'd have gone inside...<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>My little sister is the one who sells the milk.<pause><lineend><CC03EA>I saw her heading out of the village a minute ago. I wonder if she's all right?<pause><lineend><CC03EA>She was going toward the <color=0002>Lost Forest,<color=0001> but I can't imagine she'd have gone inside...<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Would you care to buy some Fresh Milk?<pause><lineend>|
 4|
@@ -11,15 +11,15 @@
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Oh look! A little witch!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=001C><lineend><color=0001>One big problem is that the goats love the grass that grows in the Forest of Bewilderment.<pause><lineend><CC03EA>We have to be extra careful to keep them away from there.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>One big problem is that the goats love the grass that grows in the Lost Forest.<pause><lineend><CC03EA>We have to be extra careful to keep them away from there.<pause><lineend>|
 7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Best of luck in your travels, dearie!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The milk in Lowgrove is the best.<pause><lineend><CC03EA>That goes for the butter and cheese, too!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0028><lineend><color=0005>The forest outside the village<color=0001> is called the <color=0002>Forest of Bewilderment.<color=0001><pause><lineend><CC03EA>There's a monster deep within it that uses illusions to make people lose their way.<pause><lineend><CC03EA>Once I went into it by accident, and I barely made it back out.<pause><lineend><CC03EA>Of course, the Unicorn's forest to the east is completely different.<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0005>The forest outside the village<color=0001> is called the <color=0002>Lost Forest.<color=0001><pause><lineend><CC03EA>There's a monster deep within it that uses illusions to make people lose their way.<pause><lineend><CC03EA>Once I went into it by accident, and I barely made it back out.<pause><lineend><CC03EA>Of course, the Unicorn's forest to the east is completely different.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0028><lineend><color=0001>If the monster is gone, maybe we can start going into that forest?<pause><lineend><CC03EA>There's nothing "bewildering" about it anymore, after all.<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>If the monster is gone, maybe we can start going into that forest?<pause><lineend><CC03EA>There's nothing "lost" about it anymore, after all.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Aren't they just great?<lineend>They're mine, too!<pause><lineend>|
 12|
