@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=004C><lineend><color=0001>Hello there, little witch. Do you want to fight the Dragons, too?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=004D><lineend><color=0001>I'd hate to fight with nothing but a cane. The reach isn't as good as with a sword.<pause><lineend>|
+<CC03EA><color=0006><string=004D><lineend><color=0001>I'd hate to fight with nothing but a rod. The reach isn't as good as with a sword.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>When there are no Dragons around, Dorangora is a great little village!<pause><lineend><CC03EA>I'm going to keep up the fight against the Dragons until we have peace again.<pause><lineend>|
 11|

@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>This is the sword my Father was talking about.<pause><lineend><CC03EA>The Kleipnir...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>This is the sword my Father was talking about.<pause><lineend><CC03EA>The Gleipnir...<pause><lineend>|
 65537|
 <CC03EA><color=0001>Who speaks my name?<lineend><pause>|
 65538|
@@ -9,21 +9,21 @@
 65540|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...A talking sword?<pause><lineend>|
 65541|
-<CC03EA><color=0001>Correct.<pause><lineend><CC03EA>I am the spirit Kleipnir, and I inhabit this sword.<lineend><pause><CC03EA>You have come to take my power, have you not?<lineend><pause>|
+<CC03EA><color=0001>Correct.<pause><lineend><CC03EA>I am the spirit Gleipnir, and I inhabit this sword.<lineend><pause><CC03EA>You have come to take my power, have you not?<lineend><pause>|
 65542|
 <CC03EA><color=0001>My power was born of darkness.<lineend><pause><CC03EA>Do you wish to possess it even when you know this?<lineend><pause>|
 65543|
 <CC03EA><color=0001>...Very well.<pause><lineend><CC03EA>Raise your sword in your hand.<lineend><pause>|
 65544|
-<CC03EA><color=0001>The power of Kleipnir now inhabits your sword.<lineend><pause><CC03EA>From this point forward, for as long as you are worthy of it...<lineend><pause><CC03EA>...my power will aid you in striking down your enemies.<lineend><pause>|
+<CC03EA><color=0001>The power of Gleipnir now inhabits your sword.<lineend><pause><CC03EA>From this point forward, for as long as you are worthy of it...<lineend><pause><CC03EA>...my power will aid you in striking down your enemies.<lineend><pause>|
 65545|
 <CC03EA><color=0003><string=0001><lineend><color=0001>So you were alive after all.<pause><lineend>|
 65546|
-<CC03EA><color=0005><string=0114><lineend><color=0001>You must be the one...<pause><lineend><CC03EA>...who got rid that meddling sword...<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>You must be the one...<pause><lineend><CC03EA>...who got rid of that meddling sword...<pause><lineend>|
 65547|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Save your breath, Demon. A few moments from now, you'll be right back where you were.<pause><lineend>|
 65548|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha...the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha... the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my Father is in there.<lineend><CC03ED=00010003000103FF><pause>|
 65550|
@@ -33,7 +33,7 @@
 65552|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Are you all right, Edward!?<pause><lineend>|
 65553|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel...I mean, your Highness...What are you doing here?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel... I mean, your Highness... What are you doing here?<pause><lineend>|
 65554|
 <CC03EA><color=0004><string=017D><lineend><color=0001>I have to go to the Demon Realm to save my sister.<pause><lineend>|
 65555|
@@ -43,7 +43,7 @@
 131072|
 <CC03EA><color=0005><string=0114><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
 131073|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Kleipnir! Become the embodiment of my anger, and strike!!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gleipnir! Become the embodiment of my anger, and strike!!<pause><lineend>|
 131074|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel, get down!<pause><lineend>|
 131075|

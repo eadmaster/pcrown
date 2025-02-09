@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Lake Titania is beautiful!<pause><lineend><CC03EA>Young couples from Cadho Badho have been going there on dates for years.<pause><lineend><CC03EA>One thing can lead to another, and...<pause><lineend><CC03EA>Well, let's just say my husband and I have a lot of memories there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Dad's late again!<pause><lineend><CC03EA>He went to visit some relatives in the Warriors' Area, and he's still not back!<pause><lineend><CC03EA>He better not be lost again. I mean, how many years of living here does it take?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Dad's late again!<pause><lineend><CC03EA>He went to visit some relatives in the Warriors' area, and he's still not back!<pause><lineend><CC03EA>He better not be lost again. I mean, how many years of living here does it take?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Hooray! She's gone!<pause><lineend><CC03EA>There was a red-hatted witch in town just a little while ago. Boy was she fussy!<pause><lineend><CC03EA>"I'll cast an attack spell on every last one of you!"<pause><lineend><CC03EA>...She kept saying that over and over. I hope she's gone for good!<pause><lineend>|
 6|
@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=0014><lineend><color=0001>I heard that the Siren in the lake has gone mad...<pause><lineend><CC03EA>...and kills and eats anyone who comes too close!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0014><lineend><color=0001>You want to know more about the mermaid?<pause><lineend><CC03EA>The rumors have already spread all over town.<pause><lineend><CC03EA>I even saw a Father and son head off to the Merchants' Area to buy supplies to catch it.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>You want to know more about the mermaid?<pause><lineend><CC03EA>The rumors have already spread all over town.<pause><lineend><CC03EA>I even saw a Father and son head off to the Merchants' area to buy supplies to catch it.<pause><lineend>|
 16|
 <CC03EA><color=0006><string=0005><lineend><color=0001>You know that monster in the lake? It wouldn't come here, would it?<pause><lineend><CC03EA>We've got so many Warriors and Wizards, after all.<pause><lineend><CC03EA>I mean, we'll be all right here, won't we?<pause><lineend>|
 17|

@@ -17,7 +17,7 @@
 65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Honestly, I don't think I know what to do with myself anymore.<pause><lineend>|
 65539|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Was my Mother was right? Was Golgotha an honorable Knight all along?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Was my Mother right? Was Golgotha an honorable Knight all along?<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=017E><lineend><color=0001>What he did 25 years ago, he only did because of a magic spell.<pause><lineend>|
 65541|

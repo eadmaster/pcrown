@@ -9,13 +9,13 @@
 4|
 <CC03EA><color=0006><string=0031><lineend><color=0001>That well-to-do looking fellow just went inside the empty house.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0020><lineend><color=0005>Take the right exit from the Wizard's town,<color=0001> and you can go to <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>Watch out, though. There's a scary mermaid living there!<pause><lineend>|
+<CC03EA><color=0006><string=0020><lineend><color=0005>Take the right exit from the Wizards' area,<color=0001> and you can go to <color=0002>Lake Titania.<color=0001><pause><lineend><CC03EA>Watch out, though. There's a scary mermaid living there!<pause><lineend>|
 6|
 <CC03EA><color=0006><string=0059><lineend><color=0001>They all ganged up on me, I tell you!<pause><lineend><CC03EA>I'm just home from visiting the family tombstones in Cemeteryth.<pause><lineend><CC03EA>The number of monsters along the way...<lineend>Shocking! Just shocking!<pause><lineend><CC03EA>A pack of Goblins surrounded me and helped themselves to my items!<pause><lineend><CC03EA>A Dodo shouted for his friends to come and trample me!<pause><lineend><CC03EA>I finally come home, and to what? A bunch of commotion over monsters at the lake!<pause><lineend><CC03EA>I ask you, what is this world coming to?<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Spirit Grass make the prettiest flowers, don't they?<pause><lineend><CC03EA>When you stand in front of them, it's like your body magically feels better.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>Medicine Grass and Power Grass make the prettiest flowers, don't they?<pause><lineend><CC03EA>When you stand in front of them, it's like your body magically feels better.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
 10|
@@ -95,4 +95,4 @@
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired witch...<pause><lineend>|
 65545|
-<CC03EA><color=0005><string=0131><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't curse me!<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't curse me!<pause><lineend>|

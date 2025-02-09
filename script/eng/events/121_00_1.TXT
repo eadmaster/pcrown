@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Lake Titania is beautiful!<pause><lineend><CC03EA>Young couples from Cadho Badho have been going there on dates for years.<pause><lineend><CC03EA>One thing can lead to another, and...<pause><lineend><CC03EA>Well, let's just say my husband and I have a lot of memories there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Dad's late again!<pause><lineend><CC03EA>He went to visit some relatives in the Warriors' Area, and he's still not back!<pause><lineend><CC03EA>He better not be lost again. I mean, how many years of living here does it take?<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Dad's late again!<pause><lineend><CC03EA>He went to visit some relatives in the Warriors' area, and he's still not back!<pause><lineend><CC03EA>He better not be lost again. I mean, how many years of living here does it take?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Hooray! She's gone!<pause><lineend><CC03EA>There was a red-hatted witch in town just a little while ago. Boy was she fussy!<pause><lineend><CC03EA>"I'll cast an attack spell on every last one of you!"<pause><lineend><CC03EA>...She kept saying that over and over. I hope she's gone for good!<pause><lineend>|
 6|
@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>I'm the Leader of the Wizards of Cadho Badho.<pause><lineend><CC03EA>It's my duty to uphold order and local culture.<pause><lineend><CC03EA>Unfortunately, the Warriors don't understand such noble intentions.<pause><lineend><CC03EA>They say they don't trust anyone who reads books!<pause><lineend><CC03EA>Or, for that matter, anyone who has powers they think are suspicious.<pause><lineend><CC03EA>Sadly, not getting along with the Warriors causes us a great deal of problems.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=000E><lineend><color=0001>What a circus this place this becoming.<pause><lineend><CC03EA>There are warriors and mercenaries we've never seen before all over town right now.<pause><lineend><CC03EA>They're all going on about a Siren, and the big bounty they'll get for it.<pause><lineend><CC03EA>That's why you're here, too, isn't it?<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>What a circus this place is becoming.<pause><lineend><CC03EA>There are warriors and mercenaries we've never seen before all over town right now.<pause><lineend><CC03EA>They're all going on about a Siren, and the big bounty they'll get for it.<pause><lineend><CC03EA>That's why you're here, too, isn't it?<pause><lineend>|
 12|
 <CC03EA><color=0006><string=0004><lineend><color=0001>This stinks!<pause><lineend><CC03EA>I was going to take my girlfriend out to the lake today, and then this happens!<pause><lineend>|
 13|
@@ -75,7 +75,7 @@
 37|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 38|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 39|
 <CC03EA><CC03FC=0004><string=008D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 40|

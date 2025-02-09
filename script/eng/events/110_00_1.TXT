@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=000A><lineend><color=0001>...Thank you.<pause><lineend>|
 1|
-<CC03EA><color=0003><string=0001><lineend><color=0001>What are you doing here? Get yourself somewhere safe<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>What are you doing here? Get yourself somewhere safe.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I was, but my little girl is missing.<pause><lineend><CC03EA>She must be somewhere nearby.<lineend>I'm not going anywhere without her.<pause><lineend>|
 3|
@@ -69,7 +69,7 @@
 196621|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I still have something important to do.<pause><lineend><CC03EA>The Black Dragon...<lineend>may still be in the village, you see.<pause><lineend>|
 196622|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>But where is he...Where did the Black Dragon go?<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>But where is he... Where did the Black Dragon go?<lineend><CC03ED=00010007000103FF><pause>|
 196623|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...We meet at last, Black Dragon!<pause><lineend>|
 196624|

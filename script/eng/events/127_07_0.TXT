@@ -33,11 +33,11 @@
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Father...<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0104><lineend><color=0001>While Golgotha was under Larva's control, Larva gave him a sword to use.<pause><lineend><CC03EA>It's a legendary Demonic sword, called the Kleipnir.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>While Golgotha was under Larva's control, Larva gave him a sword to use.<pause><lineend><CC03EA>It's a legendary Demonic sword, called the Gleipnir.<pause><lineend>|
 196610|
-<CC03EA><color=0003><string=0001><lineend><color=0001>The Kleipnir...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>The Gleipnir...<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=0104><lineend><color=0001>With that sword, Golgotha was able to cement the Demon to the door.<pause><lineend><CC03EA>With that, the door itself would never be able to open again.<pause><lineend><CC03EA>In other words, removing that sword opens the door to the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>With that sword, Golgotha was able to nail the Demon to the door.<pause><lineend><CC03EA>With that, the door itself would never be able to open again.<pause><lineend><CC03EA>In other words, removing that sword opens the door to the Demon Realm.<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Golgotha expected you to surpass him. He placed all of his hopes on you.<pause><lineend><CC03EA>...Along with the duties he was unable to fulfill as a Knight.<pause><lineend><CC03EA>The only way to save Sidrael is to go into the Demon Realm.<lineend><pause><CC03EA>Will you take that sword even if death is waiting right behind it?<pause><lineend>|
 196613|

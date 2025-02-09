@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Knights always eat at a pub called the Silver Sword.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors and the Wizards have been rivals for ages.<pause><lineend>|
 6|

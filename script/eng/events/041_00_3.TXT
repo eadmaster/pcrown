@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Now that the bandits are gone, the only thing left to worry about is the Demon Horde<pause><lineend>|
 8|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0005><lineend><color=0001>Demons don't just appear out of nowhere, do they?<pause><lineend>|
 10|

@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>The Warriors always eat at a pub called the Silver Sword.<pause><lineend><CC03EA>They're probably in there right now deciding what to do about Lake Titania.<pause><lineend><CC03EA>There's a big fat reward for whoever captures the evil Siren living there.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=002D><lineend><color=0001>What? What is it?<pause><lineend><CC03EA>You keep walking up and glaring at people.<pause><lineend><CC03EA>What's the big idea?<pause><lineend>|
 6|
@@ -43,7 +43,7 @@
 21|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
 22|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizard's town by now.<pause><lineend><CC03EA>That cake I made is going to get stale!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizards' area by now.<pause><lineend><CC03EA>That cake I made is going to get stale!<pause><lineend>|
 23|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend><CC03EA>STEAK AT THE TAVERN!! I GOTTA EAT!! BRAAAWK!!<pause><lineend>|
 24|

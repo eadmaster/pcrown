@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0031><lineend><color=0001>I heard there's a Dragon just outside of town.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0020><lineend><color=0005>If you take the left exit from the Warriors' Area <color=0001>and go straight, you'll reach <color=0003>Cemeteryth.<lineend><color=0005>Go left out of Cemeteryth and head north,<color=0001>and you'll be back in <color=0002>Dorangora!<color=0001><lineend><pause>|
+<CC03EA><color=0006><string=0020><lineend><color=0005>If you take the left exit from the Warriors' area <color=0001>and go straight, you'll reach <color=0003>Cemeteryth.<lineend><color=0005>Go left out of Cemeteryth and head north,<color=0001>and you'll be back in <color=0002>Dorangora!<color=0001><lineend><pause>|
 4|
 <CC03EA><color=0006><string=0059><lineend><color=0001>I'm about ready for my trip to go visit the family grave in Cemeteryth.<pause><lineend>|
 5|

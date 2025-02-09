@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0024><lineend><color=0001>Let me tell you something about this area...<pause><lineend><CC03EA>Somewhere, it's got a <color=0003>Secret Market<color=0001> just for merchants.<pause><lineend><CC03EA>Only the merchants themselves even know where it is.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=002D><lineend><color=0002>The port town Leeland<color=0001> is north of Cadho Badho.<pause><lineend><CC03EA><color=0005>Go left out of the Merchants' Area and head north.<color=0001> You can't miss it.<pause><lineend><CC03EA>Watch out, though. I hear they're having lots of trouble with pirates right now.<pause><lineend><CC03EA>It'd be a good idea to stock up on supplies here first!<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0002>The port town Leeland<color=0001> is north of Cadho Badho.<pause><lineend><CC03EA><color=0005>Go left out of the Merchants' area and head north.<color=0001> You can't miss it.<pause><lineend><CC03EA>Watch out, though. I hear they're having lots of trouble with pirates right now.<pause><lineend><CC03EA>It'd be a good idea to stock up on supplies here first!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=005A><lineend><color=0001>You saw the girl in the pretty clothes in front of the item shop, right?<pause><lineend><CC03EA>She's the daughter of the Merchants' Leader.<pause><lineend><CC03EA>She's been spoiled all her life, so she's pretty naive.<pause><lineend>|
 8|

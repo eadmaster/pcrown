@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us...It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us... It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=007C><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>Where are you going at this time of night?<pause><lineend>|
 2|
@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=007E><lineend><color=0001>Queen Gradriel inherited the crown.<pause><lineend><CC03EA>Princess Eriel inherited beauty. Princess Sidrael, grace.<pause><lineend><CC03EA>Without any one of them, our Kingdom is incomplete.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of "Magic Stones".<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of Magic Stones.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
 6|

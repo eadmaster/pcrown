@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Fresh Milk x<CC03EC><pause><lineend>|
 5|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>Power Plant Seeds x<CC03EC><pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>Power Plant Seed x<CC03EC><pause><lineend>|
 6|
 <CC03EA><color=0004><string=00F5><lineend><color=0001>Drop of Mana x<CC03EC><pause><lineend>|
 7|
@@ -39,7 +39,7 @@
 19|
 <CC03EA>You've brought enough<lineend>Power Plant Seeds.<pause><lineend>|
 20|
-<CC03EA>You've brought enough<lineend>Drop of Manas.<pause><lineend>|
+<CC03EA>You've brought enough<lineend>Drops of Manas.<pause><lineend>|
 21|
 <CC03EA>You've brought enough<lineend>Dragon Meat.<pause><lineend>|
 22|
@@ -85,7 +85,7 @@
 65550|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Huh?<pause><lineend>|
 65551|
-<CC03EA><color=0004><string=00F5><lineend><color=0001>There's no "huh" about it. We need ingredients to make the potion.<pause><lineend><CC03EA>8 Insect Powders<lineend>5 Round-Leaf Grasses<lineend>8 Goblin Juices<pause><lineend><CC03EA>5 Fresh Milks<lineend>1 Power Plant Seed<lineend>5 Drop of Manas<pause><lineend><CC03EA>3 Dragon Meats<lineend>And one of every Magic Stone<pause><lineend>|
+<CC03EA><color=0004><string=00F5><lineend><color=0001>There's no "huh" about it. We need ingredients to make the potion.<pause><lineend><CC03EA>8 Insect Powders<lineend>5 Round-Leaf Grasses<lineend>8 Goblin Juices<pause><lineend><CC03EA>5 Fresh Milks<lineend>1 Power Plant Seed<lineend>5 Drops of Manas<pause><lineend><CC03EA>3 Dragon Meats<lineend>And one of every Magic Stone<pause><lineend>|
 65552|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Whaaat!? That's a ton of stuff!<pause><lineend>|
 65553|

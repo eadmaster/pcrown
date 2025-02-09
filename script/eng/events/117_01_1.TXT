@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...and you want me to go have a look, right?<pause><lineend>|
 6|
-<CC03EA><color=0004><string=015C><lineend><color=0001>Correct again.<pause><lineend><CC03EA>If you can beat an Ice Dragon, you should be fine. I'd appreciate the help.<pause><lineend><CC03EA><color=0002>Lake Titania<color=0001> is <color=0005>to the east, from the right side of the Wizard's town.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=015C><lineend><color=0001>Correct again.<pause><lineend><CC03EA>If you can beat an Ice Dragon, you should be fine. I'd appreciate the help.<pause><lineend><CC03EA><color=0002>Lake Titania<color=0001> is <color=0005>to the east, from the right side of the Wizards' area.<color=0001><pause><lineend>|
 7|
 <CC03EA><color=0004><string=015C><lineend><color=0001>I'm counting on you, Edward.<pause><lineend>|
 8|

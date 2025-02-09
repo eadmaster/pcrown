@@ -19,4 +19,4 @@
 65545|
 <CC03EA><color=0002><string=0000><lineend><color=0001>A red-haired witch...<pause><lineend>|
 65546|
-<CC03EA><color=0005><string=0130><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' Area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I promise I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't put a curse on me!<pause><lineend>|
+<CC03EA><color=0005><string=0130><lineend><color=0001>You can find her in <color=0002>a cave to the southwest of town.<color=0001><pause><lineend><CC03EA><color=0005>Go left from the Warriors' area and look for a southward path on your way to Amberstep.<color=0001><pause><lineend><CC03EA>The cave is at the end of it.<pause><lineend><CC03EA>OK? Now let me go! I promise I'll stop spreading rumors.<pause><lineend><CC03EA>Whatever you do, just don't put a curse on me!<pause><lineend>|

@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Rescued from a pirate attack...I feel like a princess in a fairy-tale!<pause><lineend><CC03EA>What a great honeymoon this has been!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates' hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0063><lineend><color=0001>I wonder if we'll have another war with the Demon Horde.<pause><lineend>|
 5|

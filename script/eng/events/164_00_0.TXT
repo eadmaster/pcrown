@@ -9,11 +9,11 @@
 4|
 <CC03FA=0149000200000000000003FF0014003C0000><CC03FA=00EC000300000000000003FF000A003C0000><CC03FB=003C>|
 5|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Ooh! A tasty looking girl for desert!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Ooh! A tasty-looking girl for dessert!<pause><lineend>|
 6|
 <CC03ED=0002000600010000><CC03ED=00020007000103FF><CC03ED=00020008000103FF><CC03EA><color=0002><string=0002><lineend><color=0001>Would you get out of the way already? I'm here on business.<lineend><CC03ED=00020007000103FF><pause><CC03EA><CC03ED=00020007000103FF><CC03ED=00020008000103FF>I'm looking for someone named Halloween, not you.<lineend><CC03ED=0002000900010000><pause>|
 7|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Too bad for you!<pause><lineend><CC03EA>Because I'm going to eat you both of you up right now!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Hee hee hee! Too bad for you!<pause><lineend><CC03EA>Because I'm going to eat both of you up right now!<pause><lineend>|
 8|
 <CC03EA><color=0002><string=0002><lineend><color=0001>What!?<pause><lineend><CC03EA>Give me a break. If you're going to eat someone, eat Gabriel!<pause><lineend>|
 9|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Forget it. Now out of my way!<pause><lineend>|
 12|
-<CC03EA><color=0005><string=0149><lineend><color=0001>Nope. No-can-do.<lineend>I'm hungry, you see.<pause><lineend><CC03EA>Nobody gets by until I get a snack. Why don't you bring me something to eat!<pause><lineend><CC03EA>Hee hee hee!!<pause><lineend><CC03ED=01490002000103FF><CC03FB=0046><CC03F1=0149>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>Nope. No-can-do.<lineend>I'm hungry, you see.<pause><lineend><CC03EA>Nobody gets by until I get a snack. Why don't you bring me something to eat?<pause><lineend><CC03EA>Hee hee hee!!<pause><lineend><CC03ED=01490002000103FF><CC03FB=0046><CC03F1=0149>|
 13|
 <CC03EA><color=0002><string=0002><lineend><color=0001>You're one selfish Poltergeist.<pause><lineend>|
 14|
@@ -37,7 +37,7 @@
 18|
 <CC03EA><color=0002><string=0002><lineend><color=0001>OK, so what should I bring you?<pause><lineend>|
 19|
-<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled Meat!<pause><lineend><CC03EA>And an Elixir Fruit for desert, too!<pause><lineend>|
+<CC03EA><color=0005><string=0149><lineend><color=0001>I want Toast To Go, Grilled Corn...<pause><lineend><CC03EA>...and Grilled Fish and Grilled Meat!<pause><lineend><CC03EA>And an Elixir Fruit for dessert, too!<pause><lineend>|
 20|
 <CC03EA><color=0002><string=0002><lineend><color=0001>That much!? I think I know why you're so fat, Poulty.<pause><lineend><CC03EA>All right, fine. I'll bring all the stuff. Just don't go eating Halloween!<pause><lineend>|
 21|
@@ -95,7 +95,7 @@
 47|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Woo hoo! Thanks!<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 48|
-<CC03EA><color=0002><string=0002><lineend><color=0001>I'll always have an extra if you need it.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>I'll come back if I need another.<pause><lineend><CC03ED=0185001600010000><CC03FB=000A><CC03F0=000200170001001403FF00000000>|
 49|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have room for it!<pause><lineend>|
 50|

@@ -3,11 +3,11 @@
 1|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>I - LOVE - YOU.<pause><lineend>|
 2|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big robot wants me to...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big puppet wants me to...<pause><lineend>|
 3|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>WHO - ARE - YOU?<pause><lineend><CC03EA>I - LOVE - THAT - GIRL.  I - WILL - MARRY - HER.<lineend><pause><CC03EA>YOU - GET - IN - MY - WAY - YOU - DIE.<lineend><pause>|
 4|
-<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this robot found me!<lineend><pause><CC03EA>He's a robot, for pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this puppet found me!<lineend><pause><CC03EA>He's a puppet, for Pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
 5|
 <CC03EA><choose>Help the fairy<lineend>Don't help her<lineend><endchoose>|
 6|
@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Sorry, but I'm really busy now. I don't have time to get involved.<pause><lineend>|
 10|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do we do?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do I do?<pause><lineend>|
 11|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>YOU - GOOD - PERSON.<pause><lineend><CC03EA>TAKE - THIS.<pause><lineend>|
 12|
@@ -35,11 +35,11 @@
 65537|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>I - LOVE - YOU.<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big robot wants me to...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big puppet wants me to...<pause><lineend>|
 65539|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>WHO - ARE - YOU?<pause><lineend><CC03EA>I - LOVE - THAT - GIRL.  I - WILL - MARRY - HER.<lineend><pause><CC03EA>YOU - GET - IN - MY - WAY - YOU - DIE.<lineend><pause>|
 65540|
-<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this robot found me!<lineend><pause><CC03EA>He's a robot, for pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this puppet found me!<lineend><pause><CC03EA>He's a puppet, for Pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
 65541|
 <CC03EA><choose>Help the fairy<lineend>Don't help her<lineend><endchoose>|
 65542|
@@ -51,7 +51,7 @@
 65545|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Sorry, but I'm really busy now. I don't have time to get involved.<pause><lineend>|
 65546|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do we do?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do I do?<pause><lineend>|
 65547|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>YOU - GOOD - PERSON.<pause><lineend><CC03EA>TAKE - THIS.<pause><lineend>|
 65548|
@@ -67,11 +67,11 @@
 131073|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>I - LOVE - YOU.<pause><lineend>|
 131074|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big robot wants me to...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Hey you! Mr. Knight!!<pause><lineend><CC03EA>Help me!<lineend>This big puppet wants me to...<pause><lineend>|
 131075|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>WHO - ARE - YOU?<pause><lineend><CC03EA>I - LOVE - THAT - GIRL.  I - WILL - MARRY - HER.<lineend><pause><CC03EA>YOU - GET - IN - MY - WAY - YOU - DIE.<lineend><pause>|
 131076|
-<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this robot found me!<lineend><pause><CC03EA>He's a robot, for pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>What is this thing, seriously?<pause><lineend><CC03EA>I only came here to see my friend, the priest, but everything went wrong.<pause><lineend><CC03EA>Since he wasn't here, I turned around to go home. But then this puppet found me!<lineend><pause><CC03EA>He's a puppet, for Pete's sake, and he's saying he wants to marry me!<lineend><pause><CC03EA>I keep telling him no, but he won't listen...<lineend><pause><CC03EA>Please, Sir...Will you get rid of him for me?<lineend><pause>|
 131077|
 <CC03EA><choose>Help the fairy<lineend>Don't help her<lineend><endchoose>|
 131078|
@@ -83,7 +83,7 @@
 131081|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Sorry, but I'm really busy now. I don't have time to get involved.<pause><lineend>|
 131082|
-<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do we do?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0168><color=0001>Oh no! Now what do I do?<pause><lineend>|
 131083|
 <CC03EA><CC03FC=0004><string=01D7><color=0001>YOU - GOOD - PERSON.<pause><lineend><CC03EA>TAKE - THIS.<pause><lineend>|
 131084|

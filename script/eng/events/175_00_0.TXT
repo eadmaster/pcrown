@@ -23,7 +23,7 @@
 65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Hindel...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You've will receive the only chance that any human will ever have.<pause><lineend><CC03EA>If you can defeat me, then I will die, and Gaia will return. But if you lose...<pause><lineend><CC03EA>...I will seal away the three other Gems, and the Goddess of Light will never return.<pause><lineend><CC03EA>Take your sword in your hands. There is no refusing. There is no turning away.<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You will receive the only chance that any human will ever have.<pause><lineend><CC03EA>If you can defeat me, then I will die, and Gaia will return. But if you lose...<pause><lineend><CC03EA>...I will seal away the three other Gems, and the Goddess of Light will never return.<pause><lineend><CC03EA>Take your sword in your hands. There is no refusing. There is no turning away.<lineend><pause>|
 65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Then the only choice I have is to fight!<pause><lineend>|
 131072|
@@ -57,7 +57,7 @@
 131086|
 <CC03EA><color=0004><string=019E><lineend><color=0001>Good.<pause><lineend><CC03EA>The most important thing is to keep trying, without ever losing hope.<pause><lineend><CC03EA>I will always watch over you and your friends.<pause><lineend><CC03EA>The Light will be with you forever...<pause><lineend>|
 131087|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That's a good idea.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes. Thank you.<pause><lineend>|
 131088|
 <CC03EA><color=0004><string=019E><lineend><color=0001>Farewell, Gradriel.<lineend>The path lies before you...<pause><lineend>|
 131089|

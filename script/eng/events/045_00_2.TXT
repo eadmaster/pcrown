@@ -69,7 +69,7 @@
 34|
 <CC03EA><color=0006><string=01CB><lineend><color=0001>I teach magic to young people here.<pause><lineend><CC03EA>Seeing my students graduate and go out into the world is the best part of my life.<pause><lineend>|
 35|
-<CC03EA><color=0006><string=01CB><lineend><color=0001>The Don Juan Bandits are good at what they do, but they make mistakes, too.<pause><lineend><CC03EA>They let a silly little parrot spook them away from a house in the Warriors' Area.<pause><lineend><CC03EA>They're lucky they didn't get caught.<pause><lineend>|
+<CC03EA><color=0006><string=01CB><lineend><color=0001>The Don Juan Bandits are good at what they do, but they make mistakes, too.<pause><lineend><CC03EA>They let a silly little parrot spook them away from a house in the Warriors' area.<pause><lineend><CC03EA>They're lucky they didn't get caught.<pause><lineend>|
 36|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
 37|

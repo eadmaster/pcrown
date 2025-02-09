@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=004C><lineend><color=0001>You're Edward the Dragon Slayer, right?<pause><lineend><CC03EA>Now that you're here, maybe we stand a chance of getting out of this.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=004D><lineend><color=0001>I'm going to slay a Dragon if it's the last thing I do.<pause><lineend><CC03EA>Then you won't be the only one people call the Dragon Slayer!<pause><lineend>|
+<CC03EA><color=0006><string=004D><lineend><color=0001>I'm going to slay a Dragon if it's the last thing I do.<pause><lineend><CC03EA>Then you won't be the only one people call Dragon Slayer!<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0029><lineend><color=0001>When there are no Dragons around, Dorangora is a great little village!<pause><lineend><CC03EA>I'm going to keep up the fight against the Dragons until we have peace again.<pause><lineend>|
 11|

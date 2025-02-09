@@ -23,7 +23,7 @@
 131077|
 <CC03EA><color=0004><string=017D><lineend><color=0001>The villagers are all mad at the fairies. They think this is some kind of a prank they're pulling.<pause><lineend>|
 131078|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Ha! That's Great!<pause><lineend><CC03EA>I was going to blame it all on the fairies anyway!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Ha! That's great!<pause><lineend><CC03EA>I was going to blame it all on the fairies anyway!<pause><lineend>|
 131079|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Enough is enough.<pause><lineend><CC03EA>I'm putting a stop to your foolishness right now.<pause><lineend><CC03EA>I want you to break the spell on those children at once!<pause><lineend>|
 131080|

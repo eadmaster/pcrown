@@ -13,7 +13,7 @@
 65542|
 <CC03EA><color=0003><string=0003><lineend><color=0001>...The Pirate King Drake's treasure, The Ocean Stone.<pause><lineend><CC03EA>I'd like to trade it for an answer to my question.<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The blue light feels as though its seeping into my eyes.<pause><lineend><CC03EA>Yes, Portgus, you have found the real Ocean Stone.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The blue light feels as though it's seeping into my eyes.<pause><lineend><CC03EA>Yes, Portgus, you have found the real Ocean Stone.<pause><lineend>|
 65544|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Do we have a deal, then?<pause><lineend><CC03EA>I want revenge on someone, and I need you to tell me where he is.<pause><lineend><CC03EA>I have to kill him myself. There is no other way for me.<pause><lineend>|
 65545|
@@ -27,7 +27,7 @@
 65549|
 <CC03EA><color=0004><string=0104><lineend><color=0001>That Demon possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is mine now.<pause><lineend>|
 65550|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Not very friendly Dragon, are you? Anyway, I'll be extra careful when I fight him.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Not a very friendly Dragon, are you? Anyway, I'll be extra careful when I fight him.<pause><lineend>|
 65551|
 <CC03EA><color=0004><string=0104><lineend><color=0001>If you have received the answer you sought, then it is time for you to leave.<pause><lineend>|
 65552|

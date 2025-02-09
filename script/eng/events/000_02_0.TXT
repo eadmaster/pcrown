@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of "Magic Stones."<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>When we cast a spell, we Magicians tap into a hidden power...<pause><lineend><CC03EA>...one that most people are unable to find within themselves.<pause><lineend><CC03EA>However, even those without this power can use magic with the help of Magic Stones.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
 5|
@@ -25,6 +25,6 @@
 12|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means, but the words do convey the kindness of our Royal Family.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=0080><lineend><color=0001>When you slam your enemies with desperation attacks, they'll drop items one after another.<pause><lineend><CC03EA>You can only hold 8 items in battle, so don't be stingy with them. When you've got it, use it!<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>When you stun your enemies with desperation attacks, they'll drop items one after another.<pause><lineend><CC03EA>You can only hold 8 items in battle, so don't be stingy with them. When you've got it, use it!<pause><lineend>|
 14|
 <CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, Mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|

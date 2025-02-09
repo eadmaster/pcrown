@@ -53,7 +53,7 @@
 196612|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Sheesh! Are you two going to make up or aren't you?<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>......<lineend>I owe you an apology.<pause><lineend><CC03EA>With the words of my ancestor and the help this young woman, my eyes have opened.<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>......<lineend>I owe you an apology.<pause><lineend><CC03EA>With the words of my ancestor and the help of this young woman, my eyes have opened.<pause><lineend>|
 196614|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>So have mine. I see how I've perpetuated a meaningless rivalry.<pause><lineend><CC03EA>Just as our ancestors said, my eyes have been clouded. Please forgive me.<pause><lineend>|
 196615|

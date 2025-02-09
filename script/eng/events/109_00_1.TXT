@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0003><string=0001><lineend><color=0001>What happened?<lineend><pause>|
 4|
-<CC03EA><CC03FC=0004><string=01D8><color=0001>*sniff*...They...they...<lineend><pause>|
+<CC03EA><CC03FC=0004><string=01D8><color=0001>*sniff*... They... they...<lineend><pause>|
 5|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Why does the town looks like this?<lineend><pause>|
 6|
@@ -41,7 +41,7 @@
 65538|
 <CC03EA><color=0003><string=0001><lineend><color=0001>A Demon!<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=012E><lineend><color=0001>A vigilante?<lineend>How about I start with you!<pause><lineend>|
+<CC03EA><color=0005><string=012E><lineend><color=0001>A meddler?<lineend>How about I start with you!<pause><lineend>|
 65540|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Monsters often howl loudly.<pause><lineend>|
 65541|

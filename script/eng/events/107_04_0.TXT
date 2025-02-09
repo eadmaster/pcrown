@@ -19,7 +19,7 @@
 65544|
 <CC03EA><color=0004><string=0103><lineend><color=0001>But your swings are still misguided somehow.<pause><lineend><CC03EA>You're not clearing your mind before you strike!<pause><lineend>|
 65545|
-<CC03EA><color=0004><string=0103><lineend><color=0001>You...You're...<pause><lineend><CC03EA><color=0003><string=0001><lineend><color=0001>Golgotha!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>That's it!<pause><lineend>|
 65546|
 <CC03EA><color=0004><string=0103><lineend><color=0001>I'm sorry, but there's no time for this now.<pause><lineend><CC03EA>The Demon King is after the three Princesses. He needs their royal blood.<pause><lineend>|
 65547|

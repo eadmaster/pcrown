@@ -5,11 +5,11 @@
 65538|
 <CC03EA><color=0004><string=0186><lineend><color=0001>Oh! Talk back to me, will you?<pause><lineend><CC03EA>I think it's time to teach you a lesson, Gabriel!<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=00E0><color=0004>Gabriel<lineend><color=0001>Aaahh! What did you do to me?<pause><lineend><CC03EA>Change...*RIBBIT*...me back!<lineend>Change...*RIBBIT*...me back!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E0><color=0004>Gabriel<lineend><color=0001>Aaahh! What did you do to me?<pause><lineend><CC03EA>Change... *RIBBIT*... me back!<lineend>Change... *RIBBIT*... me back!<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=0186><lineend><color=0001>Ribbit! Ribbit!<lineend>Bah ha ha ha ha!!<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0186><lineend><color=0001>What? You want to be a Frogger, too, old man?<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>What? You want to be a frog, too, old man?<pause><lineend>|
 65542|
 <CC03EA><color=0004><string=0186><lineend><color=0001>Hee hee! Just hold still for one second!<pause><lineend>|
 65543|

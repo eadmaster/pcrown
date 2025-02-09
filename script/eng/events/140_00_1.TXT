@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Did you know that the Royal Castle has been attacked?<pause><lineend><CC03EA>Why, even Queen Gradriel joined in the fighting!<pause><lineend><CC03EA>She's awfully brave for someone so young.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The monsters these days are really strong!<pause><lineend><CC03EA>One little Dodo turned me all black and blue the other day. It still hurts!<pause><lineend>|
 6|

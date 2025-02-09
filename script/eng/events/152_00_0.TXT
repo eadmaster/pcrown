@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
 15|
-<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
+<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself... Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
 16|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the Goblin Market!<pause><lineend><CC03EA>What can I get you, little witch?<pause><lineend>|
 17|
@@ -39,11 +39,11 @@
 19|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 20|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 21|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have anything!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute... You don't have anything!<pause><lineend>|
 22|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that piece of junk!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr... What would I want with that piece of junk!<pause><lineend>|
 23|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>Sorry, but our delicious Goblin Juice is all sold out!!<pause><lineend>|
 24|
@@ -65,7 +65,7 @@
 32|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 33|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Nutsbill is just on the other side of the Goblin Market...<pause><lineend><CC03EA>Hmm. How should I do this?<pause><lineend><CC03EA>It's one thing to change some children into animals...<pause><lineend><CC03EA>...but I can't just do it out it in the middle of the village.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Nutsbill is just on the other side of the Goblin Market...<pause><lineend><CC03EA>Hmm. How should I do this?<pause><lineend><CC03EA>It's one thing to change some children into animals...<pause><lineend><CC03EA>...but I can't just do it out in the middle of the village.<pause><lineend>|
 34|
 <CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina! I know the perfect place!<pause><lineend><CC03EA>It's just east of the Goblin Market!<pause><lineend>|
 35|

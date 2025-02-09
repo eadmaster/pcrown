@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Our town is full of Warriors, and they keep everyone safe.<pause><lineend><CC03EA>Only the best of the best can be a Warrior in Cadho Badho!<pause><lineend>|
 4|
-<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' Area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
+<CC03EA><color=0006><string=002D><lineend><color=0001>There are some rare things for sale in the Merchants' area.<pause><lineend><CC03EA>If you look around, you just might find something really worth your while.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0005><lineend><color=0001>The Warriors haven't gotten along with the Wizards for years.<pause><lineend><CC03EA>Anytime they come together, it ends in useless bickering.<pause><lineend>|
 6|
@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=0164><lineend><color=0001>I did a really silly thing in battle back when I was a new recruit.<pause><lineend><CC03EA>I used a Rubber Scroll on my Shield! Naturally, it stopped working that very instant.<pause><lineend><CC03EA>Of course, when you think about it, it does make sense.<pause><lineend><CC03EA>What good is a shield made of rubber?<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizard's town by now.<pause><lineend><CC03EA>I wonder if he got lost again?<lineend>The tea I made is getting cold!<pause><lineend>|
+<CC03EA><color=0006><string=0012><lineend><color=0001>My cousin really should be here from the Wizards' area by now.<pause><lineend><CC03EA>I wonder if he got lost again?<lineend>The tea I made is getting cold!<pause><lineend>|
 16|
 <CC03EA><color=0006><string=00D4><lineend><color=0001>HUNGRY! HUNGRY! BRAAAWK!!<pause><lineend>|
 17|

@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0057><lineend><color=0001>The Leader's magic stands above the rest.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Almost everybody in the Wizard's town can use magic.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Almost everybody in the Wizards' area can use magic.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=0005><lineend><color=0001>You're so small, yet you can use magic! Good for you!<pause><lineend>|
 13|

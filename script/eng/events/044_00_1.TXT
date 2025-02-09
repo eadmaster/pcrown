@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Could you tell me where exactly you heard there was a bounty?<lineend><pause>|
 6|
-<CC03EA><color=0006><string=0011><lineend><color=0001>You mean on the Lake Titania monster?<pause><lineend><CC03EA>It was a lanky guy in the alley. Him and his fat partner.<pause><lineend><CC03EA>They were between the Merchants' Area and the Warriors' Area.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>You mean on the Lake Titania monster?<pause><lineend><CC03EA>It was a lanky guy in the alley. Him and his fat partner.<pause><lineend><CC03EA>They were between the Merchants' area and the Warriors' area.<pause><lineend>|
 7|
 <CC03EA><color=0002><string=0000><lineend><color=0001>One lanky, one fat...<pause><lineend><CC03EA>I see.<lineend>Thank you very much!<pause><lineend>|
 8|

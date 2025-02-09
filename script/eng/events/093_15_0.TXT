@@ -83,6 +83,6 @@
 196612|
 <CC03EA><CC03FC=0004><string=0126><CC03ED=0126000F000103FF>He got us pretty good. Anyway, what are we going to do now, Boss?<lineend><CC03ED=0126000E000103FF><pause>|
 196613|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Isn't it obvious?<pause><lineend><CC03EA>We're going show them what we're made of! Get ready to fight!!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Isn't it obvious?<pause><lineend><CC03EA>We're going to show them what we're made of! Get ready to fight!!<pause><lineend>|
 196614|
 <CC03EA><CC03FC=0004><string=0125>Aye-aye, Sir!!<pause><lineend>|

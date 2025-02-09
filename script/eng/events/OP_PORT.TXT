@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Great Witch Iraisha, I beg you.<pause><lineend><CC03EA>Tell me the location of that Demon!<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Great Witch Elisha, I beg you.<pause><lineend><CC03EA>Tell me the location of that Demon!<pause><lineend>|
 65537|
 <CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Forget it, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>There are some things even I don't know!<lineend><CC03ED=008D0007000103FF><pause>|
 65538|
@@ -35,7 +35,7 @@
 65553|
 <CC03EA><CC03FC=0004><string=008D><color=0001><CC03ED=008D0008000103FF>Take it from the witch that sees with a thousand eyes. You'll find it.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You will meet a person in that town who will lead you to the right place.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>You must be careful, though, Portgus.<lineend><CC03ED=008D0007000103FF><pause><CC03EA><CC03ED=008D0008000103FF>While he will lead you to the island with the treasure, he will also cause you trouble.<lineend><CC03ED=008D0007000103FF><pause>|
 65554|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Trouble, you say?<pause><lineend><CC03EA>I think I can handle it.<lineend>Thanks, Iraisha.<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Trouble, you say?<pause><lineend><CC03EA>I think I can handle it.<lineend>Thanks, Elisha.<pause><lineend>|
 131072|
 <CC03EA><CC03FC=0004><string=00E7><color=0001>Why can't I find any good sailors?<pause><lineend>|
 131073|
@@ -47,7 +47,7 @@
 131076|
 <CC03EA><color=0003><string=0003><lineend><color=0001>About Drake's treasure, I mean.<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=00E7><color=0001>It most certainly is!<pause><lineend><CC03EA>I have a map that shows the way to the island where he hid his bounty.<pause><lineend><CC03EA>What I don't have is a ship or sailors to take me through the rough seas along the way.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E7><color=0001>It most certainly is!<pause><lineend><CC03EA>I have a map that shows the way to the island where he hid his booty.<pause><lineend><CC03EA>What I don't have is a ship or sailors to take me through the rough seas along the way.<pause><lineend>|
 131078|
 <CC03EA><CC03FC=0004><string=00E7><color=0001>You look like a sailor, young man.<pause><lineend><CC03EA>Are you any good, by chance?<pause><lineend>|
 131079|
