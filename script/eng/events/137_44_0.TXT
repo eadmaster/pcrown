@@ -31,6 +31,6 @@
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>Father...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>You were a true Knight after all.<lineend><CC03ED=00010007000103FF><pause>|
 196609|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>I may not be as strong as you were...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>But when the day comes that I am...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>...I'll do as you did and join the Knight Guard.<lineend><CC03ED=00010007000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>I may not be as strong as you were...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>But when the day comes that I am...<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>...I'll do as you did and join the Card Knights.<lineend><CC03ED=00010007000103FF><pause>|
 196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Come on, Ignis. Let's go.<pause><lineend>|

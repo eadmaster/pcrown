@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us... It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Knight Guardsmen must be stronger than that.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>The Demons fought right past us... It was easy for them...<pause><lineend><CC03EA>Such failure is inexcusable to the Queen. We Card Knights must be stronger than that.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=007C><lineend><color=0001>Sir Edward?<pause><lineend><CC03EA>Where are you going at this time of night?<pause><lineend>|
 2|

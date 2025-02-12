@@ -77,7 +77,7 @@
 196608|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>I've come for the crown of the Queen of Valendia.<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0102><lineend><color=0001>As long as the Knight Guard stands, you won't lay a finger on the Queen!<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>As long as the Card Knights stand, you won't lay a finger on the Queen!<pause><lineend>|
 196610|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>That's a rather presumptuous greeting, don't you think?<pause><lineend>|
 196611|

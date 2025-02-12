@@ -13,11 +13,11 @@
 6|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Young folks these days just don't listen to their elders.<pause><lineend><CC03EA>It's a shame. The old folktales and legends have truths in them, you know.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000F><lineend><color=0001>I've been coming across Knight Guardsmen in the forest a lot recently.<pause><lineend><CC03EA>Has something happened at the castle?<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>I've been coming across Card Knights in the forest a lot recently.<pause><lineend><CC03EA>Has something happened at the castle?<pause><lineend>|
 8|
 <CC03EA><color=0006><string=003D><lineend><color=0001>The pirates are gone, right?<pause><lineend><CC03EA>We're sure to get lots of people traveling through here again.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew he never would have attacked those cargo ships.<pause><lineend><CC03EA>Oh Portgus...You're my hero...<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew he never would have attacked those cargo ships.<pause><lineend><CC03EA>Oh Portgus... You're my hero...<pause><lineend>|
 10|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What are you looking for?<pause><lineend>|
 11|

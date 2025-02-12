@@ -111,15 +111,15 @@
 196614|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What!?<pause><lineend><CC03EA>...I mean, serve the Queen how?<pause><lineend>|
 196615|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Once I've wrapped everything up, I want to enroll in the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Once I've wrapped everything up, I want to enroll in the Card Knights.<pause><lineend>|
 196616|
-<CC03EA><color=0002><string=0000><lineend><color=0001>If you really do join the Knight Guard someday, I...<pause><lineend><CC03EA>I think the Queen would feel very reassured.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>If you really do join the Card Knights someday, I...<pause><lineend><CC03EA>I think the Queen would feel very reassured.<pause><lineend>|
 196617|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I'll protect her with my life. Let's just say it's something I have to do.<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Guard.<pause><lineend><CC03EA>One day, though...He came under a spell, double-crossed the Guard, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Card Knights.<pause><lineend><CC03EA>One day, though...He came under a spell, double-crossed the Card Knights, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
 196619|
-<CC03EA><color=0004><string=016E><lineend><color=0001>I can do it by joining the Knight Guard and protecting the new Queen...<pause><lineend><CC03EA>...You know, you're the first person I've told this to.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>I can do it by joining the Card Knights and protecting the new Queen...<pause><lineend><CC03EA>...You know, you're the first person I've told this to.<pause><lineend>|
 196620|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend><CC03EA>Please don't blame yourself for the things your Father did.<pause><lineend><CC03EA>I think you've proved enough already by becoming the kind of person you have.<pause><lineend>|
 196621|

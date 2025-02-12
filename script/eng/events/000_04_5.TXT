@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=017F><lineend><color=0001>Poor Sidrael...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept us in good cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how the Queen and the Knight Guard would save us.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept us in good cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how the Queen and the Card Knights would save us.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=00F0><lineend><color=0001>Please take care, Gradriel.<pause><lineend>|
 3|

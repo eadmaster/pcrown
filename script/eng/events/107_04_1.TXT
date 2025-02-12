@@ -5,6 +5,6 @@
 2|
 <CC03EA><color=0006><string=007E><lineend><color=0001>If only we had been stronger...<pause><lineend>|
 3|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Edward, I'm looking forward to the day that you enlist in the Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Edward, I'm looking forward to the day that you enlist in the Card Knights.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I am so shaken by what's happened to Sidrael that all I can do is pray.<pause><lineend>|

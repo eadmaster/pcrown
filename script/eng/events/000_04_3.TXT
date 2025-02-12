@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=017F><lineend><color=0001>Poor Sidrael...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept us in good cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how the Queen and the Knight Guard would save us.<pause><lineend>|
+<CC03EA><color=0006><string=0180><lineend><color=0001>Sidrael always kept us in good cheer, right up to the end.<pause><lineend><CC03EA>She kept saying how the Queen and the Card Knights would save us.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=00F0><lineend><color=0001>Princess Eriel is in her room now.<pause><lineend><CC03EA>I think it would be good for you to say something to your sister before you leave.<pause><lineend>|
 3|
@@ -83,11 +83,11 @@
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think the Demon that kidnapped Sidrael went back to the Demon Realm through that tower.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, I beg of you! Don't go!<pause><lineend><CC03EA>Leave these dangerous tasks to the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, I beg of you! Don't go!<pause><lineend><CC03EA>Leave these dangerous tasks to the Card Knights.<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The Demon King may revive and attack us anytime.<pause><lineend>|
 131079|
-<CC03EA><color=0002><string=0000><lineend><color=0001>We need the Guard here, watching over the town and the castle.<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>We need the Card Knights here, watching over the town and the castle.<lineend><pause>|
 131080|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>It would appear that there is no changing your mind.<pause><lineend>|
 131081|

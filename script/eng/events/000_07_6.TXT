@@ -71,7 +71,7 @@
 196612|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>He is alive, then?<pause><lineend><CC03EA>Thank goodness for that, at least.<pause><lineend>|
 196613|
-<CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no longer have anyone leading them.<lineend><pause><CC03EA>Tell the Knight Guard to chase off any of them remaining in the castle or the town below.<lineend><pause>|
+<CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no longer have anyone leading them.<lineend><pause><CC03EA>Tell the Card Knights to chase off any of them remaining in the castle or the town below.<lineend><pause>|
 196614|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your Highness.<pause><lineend>|
 196615|

@@ -13,11 +13,11 @@
 6|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Young folks these days just don't listen to their elders.<pause><lineend><CC03EA>It's a shame. The old folktales and legends have truths in them, you know.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=000F><lineend><color=0001>I heard that Demons attacked Valenadine Castle.<pause><lineend><CC03EA>The Knight Guard could hardly do a thing to keep them at bay.<pause><lineend>|
+<CC03EA><color=0006><string=000F><lineend><color=0001>I heard that Demons attacked Valenadine Castle.<pause><lineend><CC03EA>The Card Knights could hardly do a thing to keep them at bay.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=003D><lineend><color=0001>First pirates, now the Demon Horde...<pause><lineend><CC03EA>How long will it take for things to go back to normal around here?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001D><lineend><color=0001>Say...There's something about you that reminds me of Portgus...<pause><lineend><CC03EA>But then again, what would a pirate be doing on land? So you couldn't be him...right?<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>Say... There's something about you that reminds me of Portgus...<pause><lineend><CC03EA>But then again, what would a pirate be doing on land? So you couldn't be him... right?<pause><lineend>|
 10|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Welcome! We have many items that will be useful in your travels.<pause><lineend><CC03EA>What can I get for you?<pause><lineend>|
 11|

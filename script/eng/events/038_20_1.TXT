@@ -41,4 +41,4 @@
 262154|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Well, I intend to find out either way.<pause><lineend>|
 262155|
-<CC03EA><color=0004><string=00FD><lineend><color=0002>The port town Leeland <color=0001>is full of sailors who may be able to tell you more.<pause><lineend><CC03EA>Your Majesty, the Knight Guard and I will be ready at any moment you might need us.<pause><lineend><CC03EA>Please keep this in mind if you encounter any danger.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0002>The port town Leeland <color=0001>is full of sailors who may be able to tell you more.<pause><lineend><CC03EA>Your Majesty, the Card Knights and I will be ready at any moment you might need us.<pause><lineend><CC03EA>Please keep this in mind if you encounter any danger.<pause><lineend>|

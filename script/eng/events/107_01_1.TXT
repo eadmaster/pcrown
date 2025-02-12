@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Sir Glowstar was a true Knight to the end.<pause><lineend><CC03EA>I believe he is resting peacefully in heaven right now.<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0102><lineend><color=0001>There you are, Edward.<pause><lineend><CC03EA>I'm still looking forward to the day that you decide to join the Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>There you are, Edward.<pause><lineend><CC03EA>I'm still looking forward to the day that you decide to join the Card Knights.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>I wonder what Sidrael could be going through right now?<pause><lineend><CC03EA>She's always had trouble with her health, which makes me all the more worried.<pause><lineend>|
 3|
@@ -43,4 +43,4 @@
 65551|
 <CC03EA><color=0004><string=017E><lineend><color=0001>Take care, Edward.<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I'll be waiting for the day that you come back as a member of the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I'll be waiting for the day that you come back as a member of the Card Knights.<pause><lineend>|

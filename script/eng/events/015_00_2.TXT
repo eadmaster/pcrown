@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0006><string=004B><lineend><color=0001>The Knight Guard managed to chase off the Dragons.<pause><lineend><CC03EA>They're out patrolling the hills at the moment. In fact, I think they're also looking for someone...<pause><lineend>|
+<CC03EA><color=0006><string=004B><lineend><color=0001>The Card Knights managed to chase off the Dragons.<pause><lineend><CC03EA>They're out patrolling the hills at the moment. In fact, I think they're also looking for someone...<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>The Knights of the Guard are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too!<pause><lineend><CC03EA>Several of them went off to <color=0002>the desert village<color=0001> to help the Wizard there...<pause><lineend><CC03EA>...but they should have been back by now. I wonder what's happened to them?<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Card Knights are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too!<pause><lineend><CC03EA>Several of them went off to <color=0002>the desert village<color=0001> to help the Wizard there...<pause><lineend><CC03EA>...but they should have been back by now. I wonder what's happened to them?<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0004><lineend><color=0005>Go south from the right exit of Dorangora,<color=0001> and you'll reach the <color=0003>crypt town Cemeteryth.<color=0001><pause><lineend><CC03EA><color=0001>Rumor has it that it's filled with g, g, ghosts...<pause><lineend><CC03EA>Not that they scare me or anything!<pause><lineend><CC03EA>Beyond Cemeteryth is the village of <color=0002>Lowgrove<color=0001>, which lays in the middle of a big forest.<pause><lineend><CC03EA>The desert village is just a little further. That's also where the great Wizard Leon lives.<pause><lineend><CC03EA>Say... You don't suppose he could fight off all these Dragons with his magic, do you?<pause><lineend>|
 3|
@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=004D><lineend><color=0001>That Dragon I used my special attack on ran away!<pause><lineend><CC03EA>I almost had him, too... Dang was I close!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful for a while.<pause><lineend><CC03EA>We should be grateful to the Queen for sending her Knight Guard to save us!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful for a while.<pause><lineend><CC03EA>We should be grateful to the Queen for sending her Card Knights to save us!<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0050><lineend><color=0001>I figured out how to keep your equipment from breaking!<pause><lineend><CC03EA>If you use a Rubber Scroll, anything you've got equipped will become like rubber.<pause><lineend><CC03EA>That makes it able to withstand any blow!<pause><lineend><CC03EA>It won't break for the entire battle, too. What a relief!<pause><lineend>|
 10|

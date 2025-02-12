@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Amberstep is a desert village.<pause><lineend><CC03EA>That dry breeze you feel right now? That's how it is every day.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0008><lineend><color=0001>I came from Dorangora to ask the Wizard Leon to lend us a hand.<pause><lineend><CC03EA>But as soon as I arrived, that monster turned me into stone, and...<pause><lineend><CC03EA>...Huh? Wait, you're saying the Knight Guard saved Dorangora? No kidding! That's great!<pause><lineend>|
+<CC03EA><color=0006><string=0008><lineend><color=0001>I came from Dorangora to ask the Wizard Leon to lend us a hand.<pause><lineend><CC03EA>But as soon as I arrived, that monster turned me into stone, and...<pause><lineend><CC03EA>...Huh? Wait, you're saying the Card Knights saved Dorangora? No kidding! That's great!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=003B><lineend><color=0005>If you leave from the right of the village and head straight east...<pause><lineend><CC03EA>...you'll eventually find yourself in a big city called <color=0002>Cadho Badho.<color=0001><pause><lineend><CC03EA>It's a long trip, so make sure you've got enough food not to run out halfway there.<pause><lineend>|
 9|

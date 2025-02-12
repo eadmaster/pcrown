@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=004B><lineend><color=0001>Unless you have some business here, Miss, you'd best move along.<pause><lineend><CC03EA>This is a dangerous place.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>The Knight Guard went back to Valenadine Castle.<pause><lineend><CC03EA>It can't be helped. The kingdom needs them. We'll just have to persevere.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Card Knights went back to Valenadine Castle.<pause><lineend><CC03EA>It can't be helped. The kingdom needs them. We'll just have to persevere.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0004><lineend><color=0001>If you go south of this village, you'll find the crypt town Cemeteryth.<pause><lineend><CC03EA>Beyond that is the village of <color=0002>Lowgrove,<color=0001> which lays in the middle of a big forest.<pause><lineend><CC03EA>The Goat's Milk they have there is the best. Make sure you try some.<pause><lineend>|
 3|
@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=004D><lineend><color=0001>I'm working on a new special technique right now.<pause><lineend><CC03EA>Once I've got it down, I'll teach it to you!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0029><lineend><color=0001>The Dragons are a little quieter now, thanks to the Knight Guard.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>The Dragons are a little quieter now, thanks to the Card Knights.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0050><lineend><color=0001>I found a book that explains how to heal yourself without being hurt in battle.<pause><lineend><CC03EA>If you drink an Invincibility Potion, you can eat without the food getting knocked away.<pause><lineend>|
 10|

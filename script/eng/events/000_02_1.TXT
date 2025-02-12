@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=007F><lineend><color=0001>When you're wounded during a fight, make sure you eat something right away.<pause><lineend><CC03EA>The more you eat, the more your body will recover.<pause><lineend><CC03EA>Besides, nobody can fight on an empty stomach!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our kingdom's greatest treasure.<pause><lineend><CC03EA>The Knight Guard will find Princess Eriel at all costs!<pause><lineend><CC03EA>Please put your mind at ease, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our kingdom's greatest treasure.<pause><lineend><CC03EA>The Card Knights will find Princess Eriel at all costs!<pause><lineend><CC03EA>Please put your mind at ease, your Highness.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0052><lineend><color=0001>Queen Gradriel, have you started carrying any Magic Stones yet?<pause><lineend><CC03EA>I think you'll find that battles can be won much more easily with their help.<pause><lineend>|
 5|

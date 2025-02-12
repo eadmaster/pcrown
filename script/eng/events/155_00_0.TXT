@@ -77,7 +77,7 @@
 38|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Me, too!<pause><lineend>|
 39|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Well then...hee hee!<pause><lineend><CC03EA>All you have to do is come see me tonight in the forest north of here.<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Well then... hee hee!<pause><lineend><CC03EA>All you have to do is come see me tonight in the forest north of here.<pause><lineend>|
 40|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>Why at night?<pause><lineend>|
 41|
@@ -85,7 +85,7 @@
 42|
 <CC03FA=0002000800000000000003FF000A00780000>|
 43|
-<CC03EA><color=0002><string=0002><lineend><color=0001>You see...Erm...<pause><lineend><CC03EA>...The spell that makes you grow wings only works when the moon is overhead!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>You see... Erm...<pause><lineend><CC03EA>...The spell that makes you grow wings only works when the moon is overhead!<pause><lineend>|
 44|
 <CC03EA><color=0004><string=00ED><lineend><color=0001>Wow!<pause><lineend>|
 45|

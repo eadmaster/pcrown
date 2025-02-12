@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=002F><lineend><color=0001>A Demon scared me so bad I couldn't move...<pause><lineend><CC03EA>...but a blonde-haired Warrior swooped in and saved me.<pause><lineend><CC03EA>He was very strong, and handsome, too!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002F><lineend><color=0001>I saw a Knight headed for the castle, but it didn't look like one of the Knight Guards.<pause><lineend><CC03EA>His armor was completely different from theirs.<pause><lineend>|
+<CC03EA><color=0006><string=002F><lineend><color=0001>I saw a Knight headed for the castle, but it didn't look like one of the Card Knights.<pause><lineend><CC03EA>His armor was completely different from theirs.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=0020><lineend><color=0001>I didn't cry at all when I saw the monsters.<pause><lineend><CC03EA>It takes more than that to make a boy cry! Or at least it should!<pause><lineend>|
 7|

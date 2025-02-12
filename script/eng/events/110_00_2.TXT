@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=004B><lineend><color=0001>With your help, we were able to chase off the Dragons.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0014><lineend><color=0001>The Knights of the Guard are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too!<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>The Card Knights are going to stay and watch over the village for a while.<pause><lineend><CC03EA>We're awfully grateful for it, too!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Thank you for saving our village.<pause><lineend>|
 3|
@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=004D><lineend><color=0001>That Dragon I used my special attack on ran away!<pause><lineend><CC03EA>I almost had him, too... Dang was I close!<lineend><pause>|
 8|
-<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful for a while.<pause><lineend><CC03EA>We must express our gratitude to the Queen for sending the Knight Guard.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>Maybe now things will be peaceful for a while.<pause><lineend><CC03EA>We must express our gratitude to the Queen for sending the Card Knights.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0050><lineend><color=0001>So that's the Black Dragon.<pause><lineend><CC03EA>I don't think I'll ever be strong enough to take him on.<lineend><pause><CC03EA>I may be a Mercenary, but I don't want to die.<lineend><pause>|
 10|

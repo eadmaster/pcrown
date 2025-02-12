@@ -19,4 +19,4 @@
 9|
 <CC03EA><color=0006><string=0053><lineend><color=0001>During the fighting, I saw for myself what power those Demons have.<pause><lineend><CC03EA>Now, I'm scared to even use magic.<pause><lineend><CC03EA>I feel as though magic itself is something wicked...<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0080><lineend><color=0001>The Knight Guard became what it is today because of Golgotha.<pause><lineend><CC03EA>Yet it was this very man who double-crossed us...<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>The Card Knights became what they are today because of Golgotha.<pause><lineend><CC03EA>Yet it was this very man who double-crossed us...<pause><lineend>|

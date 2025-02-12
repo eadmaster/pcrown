@@ -47,7 +47,7 @@
 23|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edward's travels didn't end there, but for this book, that's all.<pause><lineend>|
 24|
-<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a member of the Guard?<pause><lineend><CC03EA>I'm afraid you'll have to wait until next time to find out! Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>Well, how did you like it?<lineend><pause><CC03EA>Hmm? Was Edward able to become a member of the Card Knights?<pause><lineend><CC03EA>I'm afraid you'll have to wait until next time to find out! Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 25|
 <CC03EA><CC03FC=0004><string=0172><color=0001>And so, Proserpina kept searching for a way to grow up...<pause><lineend><CC03EA>...and in the process of doing so, she finally did.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it? Was it a fun story?<pause><lineend><CC03EA>Proserpina went on to cause Queen Gradriel all kinds of trouble in the years to come.<pause><lineend><CC03EA>In the end, though, she became a wonderful witch indeed. Ha ha!<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 26|

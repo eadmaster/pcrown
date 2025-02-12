@@ -33,7 +33,7 @@
 131084|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Dragons...<pause><lineend>|
 131085|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>I believe it would be best to dispatch the Knight Guard to deal with them.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Majesty.<pause><lineend><CC03EA>I believe it would be best to dispatch the Card Knights to deal with them.<pause><lineend>|
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full permission to settle this matter as requested.<pause><lineend>|
 131087|
@@ -51,6 +51,6 @@
 131093|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I want to be a brave Queen just like my Mother.<pause><lineend><CC03EA>I need to see Valendia for myself if I'm going to lead its people correctly.<pause><lineend>|
 131094|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how you feel, but the time for that will come later.<pause><lineend><CC03EA>You're still so young, Gradriel.<pause><lineend><CC03EA>If you want to be a good Queen, you have things to learn here at the castle first.<pause><lineend><CC03EA>Come, let's proceed to the courtyard. Kwein, the Knight Guard Captain, is waiting for you there.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how you feel, but the time for that will come later.<pause><lineend><CC03EA>You're still so young, Gradriel.<pause><lineend><CC03EA>If you want to be a good Queen, you have things to learn here at the castle first.<pause><lineend><CC03EA>Come, let's proceed to the courtyard. Kwein, the Card Knights Captain, is waiting for you there.<pause><lineend>|
 131095|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...All right...<pause><lineend>|

@@ -16,14 +16,14 @@ Young Lady<lineend>
 Girl<lineend>
 Young Man<lineend>
 Warrior<lineend>
-Guard<lineend>
+Mercenary<lineend>
 Wizard<lineend>
 Merchant<lineend>
 Sailor<lineend>
 Friar<lineend>
 Official<lineend>
 Maid<lineend>
-Knight Guardsman<lineend>
+Card Knight<lineend>
 Holy Knight<lineend>
 Priest<lineend>
 Witch<lineend>

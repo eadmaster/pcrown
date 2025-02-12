@@ -1,7 +1,7 @@
 0|
 <CC03FA=0000000300000000000003FF000A003C0000><CC03FB=003C>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Oh no!<lineend>The Knight Guard!<pause><lineend><CC03EA>If they find me here, they'll take me back to the castle...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Oh no!<lineend>The Card Knights!<pause><lineend><CC03EA>If they find me here, they'll take me back to the castle...<pause><lineend>|
 2|
 <CC03FA=0000000800010000000003FF000A003C0000><CC03FB=003C>|
 3|

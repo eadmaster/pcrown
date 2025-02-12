@@ -69,7 +69,7 @@
 196608|
 <CC03EA><color=0004><string=0102><lineend><color=0001>You're really going, then? You won't reconsider?<pause><lineend>|
 196609|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Please hear me, Edward. We need you in the Knight Guard.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Please hear me, Edward. We need you in the Card Knights.<pause><lineend>|
 196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Captain Kwein, I'm grateful for what you're saying...<pause><lineend>|
 196611|
