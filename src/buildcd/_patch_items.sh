@@ -80,33 +80,7 @@ sfk setbytes 0.BIN 0x47773 0x05 -yes
 sfk setbytes 0.BIN 0x4777B 0x17 -yes
 
 # fix Engrish text in main program (opening, etc) https://github.com/eadmaster/pcrown/issues/94
-# "A LONG LONG AGO..." -> "ONCE UPON A TIME.."
-sfk setbytes 0.BIN 0xACC85  "ONCE UPON A TIME.."  -yes
-# PROSERPINA RUN A WAY AT TOP SPEED -> PROSERPINA RAN AWAY AT FULL SPEED
-sfk setbytes 0.BIN 0xACDFD  "RAN AWAY AT FULL"  -yes
-# "PARSONS HAPPENED TO BE REAL PORTGUS" -> "PARSON HAPPENED TO BE PORTGUS      "
-sfk setbytes 0.BIN 0xACE35  "PARSON HAPPENED TO BE " 0x04 "PORTGUS      "  -yes
-# "BUT THIS CAUSED THE GATE TO UNDERWORLD" -> "AND THIS OPENED THE DEMON REALM'S GATE"
-sfk setbytes 0.BIN 0xACE91  "AND"  -yes
-sfk setbytes 0.BIN 0xACE9A  "OPEN"  -yes
-sfk setbytes 0.BIN 0xACEA5  0x04  -yes
-sfk setbytes 0.BIN 0xACEA6  "DEMON REALM'S GATE"  -yes
-# "GRADRIEL WENT TO FACE THE GREATERDEMONS" -> "GRADRIEL WENT TO FACE THE DEMONIC FORCES"  (1-byte overflow)
-sfk setbytes 0.BIN 0xACED8  "DEMONIC FORCES"  -yes
-# "GOLGOTHA <02>THE EXGENERAL,ARRIVED" -> "GOLGOTHA <02>THE EX-GENERAL ARRIVED" (1-byte overflow)
-sfk setbytes 0.BIN 0xACEF9  0x2D "GENERAL ARRIVED"  -yes
-
-# "FALLDOWN FROM THE BOOKWORLD" (gameover screen)  ->  "FALLEN FROM THE BOOKWORLD"
-sfk setbytes 0.BIN 0xACC3A  "E"  -yes
-sfk setbytes 0.BIN 0xACC3C  "N"  -yes
-sfk setbytes 0.BIN 0xACC3E  " "  -yes
-sfk setbytes 0.BIN 0xACC40  " "  -yes
-
-# fix Engrish in the save manager https://github.com/eadmaster/pcrown/issues/94
-# "The SAVE-FILE has crashed." -> "The SaveFile is corrupted"
-sfk setbytes 0.BIN 0xA4099  "FILE is corrupt"  -yes
-# "BACK-UP RAM is lacking." -> "BACK-UP RAM is full.   "
-sfk setbytes 0.BIN 0xA40E0  "full.   "  -yes
+source _patch_ascii.sh
 
 # statically enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
 #sfk setbytes 0.BIN 0x1EB7F 0x01 -yes

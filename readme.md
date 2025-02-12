@@ -12,7 +12,7 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
  - [almost all doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
-   - some were shortened to fit into the available space, still need alignment fixes
+   - some were shortened to fit into the available space, or need alignment fixes
  - all book/scenarios fully tested and crash-free
    - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
 
@@ -69,5 +69,5 @@ Contact me via discord or forums if you can contribute or have issues to report 
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
- - [Mentil](https://github.com/mentill) (lot of script fixes, missing signs)
+ - [Mentil](https://github.com/mentill) (lot of script fixes, gfx hacking)
  

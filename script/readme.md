@@ -16,7 +16,8 @@
     └── ...  # other files are unused
 ```
 
-All text files are Shift-JIS encoded, with the exception of `items*.txt`.
+All text files are Shift-JIS encoded, with the exception of `items_*.txt`.
+If the Japanese text is not displaying correctly, force the Shift-JIS encoding in your text editor and reload (encoding auto-detection fails is some cases, even on the Github frontend).
 
 Currently these two events have size restrictions due to bugs:
  

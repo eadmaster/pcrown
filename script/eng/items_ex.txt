@@ -259,10 +259,10 @@ Cure Drop<lineend>
 ♀ Rebound enemy attacks<lineend>
 ♀ Freeze enemy on contact<lineend>
 ♀ Burn enemy on contact<lineend>
-♀ No-crouch item pick-up<lineend>
+♀ Pick up items without crouching<lineend>
 ♀ Guard automatically<lineend>
-♂ Unleash petrification beam<lineend>
-♂ Shoot fireball at 45° angle<lineend>
+♂ Shoot a sweeping petrification beam<lineend>
+♂ Shoot a fireball at 45° angle<lineend>
 ♂ Call down lightning<lineend>
 ♂ Shoot ice arrows at 45° angle<lineend>
 ♂ Rain down meteors<lineend>
@@ -285,8 +285,8 @@ Reload from last save, keep Exp & items<lineend>
 Anti-petrification<lineend>
 Grill Food with a Spice in bag<lineend>
 Make Soup with a Spice in bag<lineend>
-Turn Gem into Magic Stone or recharge<lineend>
-Strengthen equipment items<lineend>
+Turn Gem into Magic Stone, or recharge one<lineend>
++1 Endurance for equipment items, up to 9<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
@@ -313,8 +313,8 @@ Open the cave south of Cemeteryth<lineend>
 Return to its owner in Volga Town<lineend>
 Sense enemies<lineend>
 Lend a hand in battle<lineend>
-Give items during battle<lineend>
-Give potions during battle<lineend>
+Give random items during battle<lineend>
+Give random potions during battle<lineend>
 Combo attack in battle<lineend>
 Remove cursed Equipment<lineend>
 Bombard enemies in battle<lineend>
@@ -346,7 +346,7 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA>Back-Step<pause><lineend>
 <CC03EA>Use Item<pause><lineend>
 <CC03EA>Defend<pause><lineend>
-<CC03EA>No Power<pause><lineend>
+<CC03EA>Out of Power<pause><lineend>
 <CC03EA><CC03F4> is frozen!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
@@ -379,7 +379,7 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA><CC03F4> caught you in his net<pause><lineend>
 <CC03EA><CC03F4> started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
-<CC03EA><CC03F4> has taken a human form<pause><lineend>
+<CC03EA><CC03F4> possessed the puppet<pause><lineend>
 <CC03EA><CC03F4> is mad with rage!<pause><lineend>
 <CC03EA><CC03F4> is breathing fire<pause><lineend>
 <CC03EA><CC03F4> will blast you with fire<pause><lineend>
@@ -394,7 +394,7 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA><CC03F4> focused magic in his claws<pause><lineend>
 <CC03EA><CC03F4> slammed a fireball<pause><lineend>
 <CC03EA><CC03F4> fired a strong beam<pause><lineend>
-<CC03EA>Another one wants his turn<pause><lineend>
+<CC03EA>Another one wants its turn<pause><lineend>
 <CC03EA><CC03F4> is all busted up<pause><lineend>
 <CC03EA><CC03F4> summoned meteors<pause><lineend>
 <CC03EA><CC03F4> can't guard or evade<pause><lineend>

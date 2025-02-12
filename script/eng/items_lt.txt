@@ -286,7 +286,7 @@ Anti-petrification<lineend>
 Grill Food<lineend>
 Make Soup<lineend>
 Recharge Magic Stones<lineend>
-Strengthen equipment items<lineend>
+Increase equipment durability<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
@@ -346,7 +346,7 @@ Grow Bomb Plant<lineend>
 <CC03EA>Back-Step<pause><lineend>
 <CC03EA>Use Item<pause><lineend>
 <CC03EA>Defend<pause><lineend>
-<CC03EA>No Power<pause><lineend>
+<CC03EA>Out of Power<pause><lineend>
 <CC03EA><CC03F4> is frozen!<pause><lineend>
 <CC03EA><CC03F4> is petrified!<pause><lineend>
 <CC03EA><CC03F4>'s attack evaded!<pause><lineend>
@@ -379,7 +379,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> caught you in his net<pause><lineend>
 <CC03EA><CC03F4> started a whirlwind<pause><lineend>
 <CC03EA><CC03F4> has focused its energy<pause><lineend>
-<CC03EA><CC03F4> has taken a human form<pause><lineend>
+<CC03EA><CC03F4> possessed the puppet<pause><lineend>
 <CC03EA><CC03F4> is mad with rage!<pause><lineend>
 <CC03EA><CC03F4> is breathing fire<pause><lineend>
 <CC03EA><CC03F4> will blast you with fire<pause><lineend>
@@ -394,7 +394,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><CC03F4> focused magic in his claws<pause><lineend>
 <CC03EA><CC03F4> slammed a fireball<pause><lineend>
 <CC03EA><CC03F4> fired a strong beam<pause><lineend>
-<CC03EA>Another one wants his turn<pause><lineend>
+<CC03EA>Another one wants its turn<pause><lineend>
 <CC03EA><CC03F4> is all busted up<pause><lineend>
 <CC03EA><CC03F4> summoned meteors<pause><lineend>
 <CC03EA><CC03F4> can't guard or evade<pause><lineend>

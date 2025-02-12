@@ -205,6 +205,15 @@ cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
 cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
 
+# fix Engrish in ending scrolls:
+# "SCENARIO WRITING & VILLAGERS SET" (4bpp 232x16 1856B)
+file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_1_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin)
+# sfk setbytes ROLL.CHR  0x1140  0x$(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin) -yes 
+# "SCENARIO WRITING & EVENT DESIGN" (4bpp 224x16 1792B)
+file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_2_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin)
+# sfk setbytes ROLL.CHR  0x1880 0x$(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin) -yes 
+cd-replace  "$PATCHED_IMAGE_FILE" ROLL.CHR ROLL.CHR
+
 # fix Engrish in enemy banner names https://github.com/eadmaster/pcrown/issues/93
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'  > /dev/null
 sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
@@ -236,14 +245,24 @@ cd-replace "$PATCHED_IMAGE_FILE"  KUMO.PRG  KUMO.PRG
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
 # "DWALF LAND" -> "DWARF LAND"
 sfk setbytes COMM.PAK 0x6351 0x05 -yes
-# "YGGDRASILL" -> "YGGDRASIL "
-sfk setbytes COMM.PAK 0x5E7E 0x0000000000000000 -yes
+# "YGGDRASILL" -> "YGGDRASIL " & moved 2px right to recenter
+sfk setbytes COMM.PAK 0x5E64 0x\
+410016081D081D0F160F0000\
+40FD11081808180F110F0000\
+410000000000000000000000\
+41060A081108110F0A0F0000\
+40F504080B080B0F040F0000\
+410503080408040F030F0041\
+40FB17081008100F170F0055\
+40F809080208020F090F0055\
+40FB10080908090F100F0055\
+410B1E081708170F1E0F0055  -yes
 # NO? "CADHO BADHO" -> "CADO  BADO"
 #sfk setbytes COMM.PAK 0x6200 0x4103 -yes             # H->O
 #sfk setbytes COMM.PAK ... 0x0x0000000000000000 -yes  # O->invisible
 #sfk setbytes COMM.PAK 0x623C 0x4103 -yes             # H->O
 #sfk setbytes COMM.PAK ... 0x0x0000000000000000 -yes  # O->invisible
-# "EARTH ON TRUSE TERA"-> "  ARS ON TULA      " 
+# "EARTH ON TRUSE TERA"-> "ARSONTULA" 
 sfk setbytes COMM.PAK 0x650E 0x0000000000000000 -yes          # E->invisible
 sfk setbytes COMM.PAK 0x6502 0x0000000000000000 -yes          # A->invisible
 sfk setbytes COMM.PAK 0x64F4 0x40f51f081808180f1f0f0055 -yes  # R->A, moved right 11
