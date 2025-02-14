@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0011><lineend><color=0001>A traveling Knight slew the Dragon in the southwest of town.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0028><lineend><color=0001>You know that Edward guy who slew the Dragon? He's actually the son of Golgotha the Traitor!<pause><lineend>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>You know that Edward guy who slew the Dragon?<pause><lineend><CC03EA>He's actually the son of Golgotha the Traitor!<pause><lineend>|
 7|
 <CC03EA><color=0004><string=00E5><lineend><color=0001>I'm the Leader of the Wizards of Cadho Badho.<pause><lineend><CC03EA>It's my duty to uphold order and local culture.<pause><lineend><CC03EA>Unfortunately, the Warriors don't understand such noble intentions.<pause><lineend><CC03EA>They say they don't trust anyone who reads books!<pause><lineend><CC03EA>Or, for that matter, anyone who has powers they think are suspicious.<pause><lineend><CC03EA>Sadly, not getting along with the Warriors causes us a great deal of problems.<pause><lineend>|
 8|

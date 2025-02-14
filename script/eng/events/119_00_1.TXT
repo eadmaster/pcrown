@@ -25,7 +25,7 @@
 12|
 <CC03EA><color=0006><string=0008><lineend><color=0001>Cadho Badho is full of mysteries...<pause><lineend><CC03EA>For example, I heard there's a shop here that sells really rare things.<pause><lineend>|
 13|
-<CC03EA><color=0006><string=005F><lineend><color=0001>That's a fine sword you have there. You could probably sell it for a lot, if you felt like it.<pause><lineend>|
+<CC03EA><color=0006><string=005F><lineend><color=0001>That's a fine sword you have there.<lineend><pause><CC03EA>You could probably sell it for a lot, if you felt like it.<pause><lineend>|
 14|
 <CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 15|

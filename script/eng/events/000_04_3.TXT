@@ -81,7 +81,7 @@
 131075|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>You're going to go where!?<pause><lineend>|
 131076|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I think the Demon that kidnapped Sidrael went back to the Demon Realm through that tower.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I think the Demon who kidnapped Sidrael went back to the Demon Realm through that tower.<pause><lineend>|
 131077|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Your Highness, I beg of you! Don't go!<pause><lineend><CC03EA>Leave these dangerous tasks to the Card Knights.<pause><lineend>|
 131078|

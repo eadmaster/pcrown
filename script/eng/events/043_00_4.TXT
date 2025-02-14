@@ -61,7 +61,7 @@
 30|
 <CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a guard at the secret marketplace!<pause><lineend>|
 31|
-<CC03ED=000B004300010000><CC03ED=000B0044000103FF><CC03ED=000B0045000103FF><CC03EA><color=0006><string=000B><lineend><color=0001>Hold it a minute, son.<lineend>Did you forget about that little talk we had?<lineend><CC03ED=000B0044000103FF><pause>|
+<CC03ED=000B004300010000><CC03ED=000B0044000103FF><CC03ED=000B0045000103FF><CC03EA><color=0006><string=000B><lineend><color=0001>Hold it a minute, son. Did you forget about<lineend>that little talk we had?<lineend><CC03ED=000B0044000103FF><pause>|
 32|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
 33|

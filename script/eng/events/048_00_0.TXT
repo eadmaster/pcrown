@@ -129,7 +129,7 @@
 196623|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I suppose you have your reasons. That's all right. I won't pry.<pause><lineend>|
 196624|
-<CC03EA><color=0002><string=0000><lineend><color=0001>But thanks to meeting you, Edward, I feel like I've found one of the answers I've been looking for.<pause><lineend><CC03EA>Thank you very much.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>But thanks to meeting you, Edward,<lineend>I feel like I've found one of the answers I've been looking for...<lineend>Thank you very much.<pause><lineend>|
 196625|
 <CC03EA><color=0004><string=016E><lineend><color=0001>You've got a busy day in Cadho Badho tomorrow. I'll watch the fire. You go to sleep.<lineend><pause>|
 196626|

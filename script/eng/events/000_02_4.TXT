@@ -27,6 +27,6 @@
 13|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means, but the words do convey the kindness of our Royal Family.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0080><lineend><color=0001>As soon as the Demon attack passed, we dispatched a number of Knights to the Black Forest.<pause><lineend><CC03EA>Unfortunately, Demons obstructed their path to the tower within it.<pause><lineend>|
+<CC03EA><color=0006><string=0080><lineend><color=0001>After the Demon attack ended, we dispatched a number of Knights to the Black Forest.<pause><lineend><CC03EA>Unfortunately, Demons obstructed their path to the tower within it.<pause><lineend>|
 15|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother...Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother... Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|

@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Golgotha may have perished, but he upheld the spirit of a true Knight to the end.<pause><lineend><CC03EA>We Knights who survived, as well as his son, will carry on this spirit in our hearts.<pause><lineend>|
 9|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I heard that when the Demon Horde appeared 25 years ago, they came from an island called Arsontula.<pause><lineend><CC03EA><color=0002>The sailors in the port town of Leeland might know more about that.<color=0001><pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I heard that when the Demon Horde appeared 25 years ago,<pause><lineend><CC03EA>they came from an island called Arsontula.<pause><lineend><CC03EA><color=0002>The sailors in the port town of Leeland might know more about that.<color=0001><pause><lineend>|
 10|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Queen Gradriel, please pray with me for Sidrael's safety.<pause><lineend>|
 11|

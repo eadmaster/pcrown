@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh Milk?<pause><lineend><CC03EA>Just head out to the barn. They'll sell you some there.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>I saw the milk seller's sister heading out of the village a minute ago. I wonder if she's all right?<pause><lineend><CC03EA>She was going toward the <color=0002>Lost Forest,<color=0001> but I can't imagine she'd have gone inside...<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>I saw the milk seller's sister heading out of the village a minute ago.<pause><lineend><CC03EA>I wonder if she's all right...<lineend>She was going toward the <color=0002>Lost Forest,<color=0001> but I can't imagine she'd have gone inside...<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Would you care to buy some Fresh Milk?<pause><lineend>|
 4|

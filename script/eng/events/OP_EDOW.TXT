@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...He wasn't here, either.<pause><lineend>|
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I think it's time for you to stand back. Unless you want to wind up like your friend, that is.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I think it's time for you to stand back.<pause><lineend><CC03EA>Unless you want to wind up like your friend, that is.<pause><lineend>|
 65537|
 <CC03EA><CC03FC=0004><string=004B><color=0001>I think you're right.<pause><lineend>|
 65538|

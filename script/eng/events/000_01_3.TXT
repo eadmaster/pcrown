@@ -37,7 +37,7 @@
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The same Hindel you talked about that night by the lake?<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Hindel is a Dragon, and he's supposed to be able to tell people anything they want to know.<pause><lineend><CC03EA>If anyone can tell me what my Father was really thinking, it's him.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Yes. Hindel is a clever Dragon who can see a thousand miles.<pause><lineend><CC03EA>If anyone can tell me what my Father was really thinking, it's him.<pause><lineend>|
 65548|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I see.<pause><lineend>|
 65549|
