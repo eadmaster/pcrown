@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=003B><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>The sailors from the Friedfin were arrested because they stole a bunch of gold coins.<pause><lineend><CC03EA>Those guys are so bird-brained, nobody ever imagined they would pull a stunt like that.<pause><lineend>|
+<CC03EA><color=0006><string=003B><lineend><color=0001>Hey, guess what?<pause><lineend><CC03EA>The sailors from the Free Dolphin were arrested because they stole a bunch of gold coins.<pause><lineend><CC03EA>Those guys are so bird-brained, nobody ever imagined they would pull a stunt like that.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0033><lineend><color=0001>I'm thinking of hiring that artist everyone is talking about to do a painting.<pause><lineend><CC03EA>What could be more stylish than a honeymoon portrait of the two of us?<pause><lineend>|
 2|
@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0067><lineend><color=0001>There's a place north of the pirates' hideout...<pause><lineend><CC03EA>It's as far north as anyone has ever dreamt of going...<pause><lineend><CC03EA><color=0001>It's called <color=0002>Illusion Island.<color=0001> People say there's a path into paradise beyond its shores.<pause><lineend><CC03EA>But legend has it that any ship which gets too close to the island falls under a curse.<pause><lineend><CC03EA>It's been years since anyone has even tried going there.<pause><lineend><CC03EA>After all, who wants to die halfway to paradise?<pause><lineend>|
 4|
-<CC03EA><color=0004><string=0177><lineend><color=0001>Two of the Friedfin's crewmen have been arrested by local officials.<pause><lineend><CC03EA>You know, those guys don't look like the type to try pulling off a heist.<pause><lineend><CC03EA>I do remember they said they wanted a painting from the new artist in town.<pause><lineend><CC03EA>If you ask me, he's the one to be suspicious of!<pause><lineend>|
+<CC03EA><color=0004><string=0177><lineend><color=0001>Two of the Free Dolphin's crewmen have been arrested by local officials.<pause><lineend><CC03EA>You know, those guys don't look like the type to try pulling off a heist.<pause><lineend><CC03EA>I do remember they said they wanted a painting from the new artist in town.<pause><lineend><CC03EA>If you ask me, he's the one to be suspicious of!<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>That artist who just moved here? He bought the haunted mansion!<pause><lineend><CC03EA>Hey, maybe I should go ask him to paint something for me?<pause><lineend>|
 6|

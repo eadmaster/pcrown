@@ -9,4 +9,4 @@
 4|
 <CC03EA><color=0006><string=0063><lineend><color=0001>I don't want to make you mad. I just think you should stay away from that island.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>I'm sorry, Sir.<pause><lineend><CC03EA>There aren't enough sailors here at the moment to get the Friedfin moving.<pause><lineend><CC03EA>Why don't you try coming back later?<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>I'm sorry, Sir.<pause><lineend><CC03EA>There aren't enough sailors here at the moment to get the Free Dolphin ship moving.<pause><lineend><CC03EA>Why don't you try coming back later?<pause><lineend>|

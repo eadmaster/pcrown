@@ -1,9 +1,9 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Remember what it used to be like when the Friedfin would sail in?<pause><lineend><CC03EA>It would be full of exotic goods and people alike from the Volga Kingdom to the north.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Remember what it used to be like when the Free Dolphin ship would sail in?<pause><lineend><CC03EA>It would be full of exotic goods and people alike from the Volga Kingdom to the north.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=000E><lineend><color=0001>Those days won't be back, though.<pause><lineend><CC03EA>Not as long as the north seas are filled with those dreadful monsters.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0011><lineend><color=0001>The Friedfin just goes on local cruises now.<pause><lineend><CC03EA>I miss the days when you could take it all the way to the Northern Kingdom and back!<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>The Free Dolphin just goes on local cruises now.<pause><lineend><CC03EA>I miss the days when you could take it all the way to the Northern Kingdom and back!<pause><lineend>|
 3|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
 4|

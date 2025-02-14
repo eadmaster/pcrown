@@ -1,7 +1,7 @@
 0|
 <CC03FA=0000000000000000000003FF000A003C0000><CC03FB=0046>|
 1|
-<CC03EA><color=0006><string=0063><lineend><color=0001>You there! Congratulations!<pause><lineend><CC03EA>You'll be the 10,000th guest to come aboard the Friedfin!<pause><lineend><CC03EA>That means you're getting a fabulous cruise vacation, free of charge!<pause><lineend><CC03EA>Come right this way! We're pushing off now!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>You there! Congratulations!<pause><lineend><CC03EA>You'll be the 10,000th guest to come aboard the Free Dolphin!<pause><lineend><CC03EA>That means you're getting a fabulous cruise vacation, free of charge!<pause><lineend><CC03EA>Come right this way! We're pushing off now!<pause><lineend>|
 2|
 <CC03F2=006300090000005D03FF00000000>|
 3|
