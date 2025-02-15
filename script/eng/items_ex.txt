@@ -261,7 +261,7 @@ Cure Drop<lineend>
 ♀ Burn enemy on contact<lineend>
 ♀ Pick up items without crouching<lineend>
 ♀ Guard automatically<lineend>
-♂ Shoot a sweeping petrification beam<lineend>
+♂ Shoot a long-range petrification beam<lineend>
 ♂ Shoot a fireball at 45° angle<lineend>
 ♂ Call down lightning<lineend>
 ♂ Shoot ice arrows at 45° angle<lineend>
@@ -272,9 +272,9 @@ Change weak enemies into animals<lineend>
 ♂ Create and throw 3 Daggers<lineend>
 Make enemy unable to guard & evade<lineend>
 Strong winds push the enemy away<lineend>
-Summon Goblin to knock enemy down<lineend>
+♂ Summon a Goblin to knock enemy down<lineend>
 ♂ Damage undead enemies only<lineend>
-Equipment won't break, except shields<lineend>
+Infinite Equipment Endurance<lineend>
 ♂ Drop a boulder on enemy<lineend>
 ◇ Sword gains fire magic for 30s<lineend>
 ◇ Sword gains lightning magic for 30s<lineend>

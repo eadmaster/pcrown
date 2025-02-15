@@ -43,7 +43,7 @@
 65543|
 <CC03EA><color=0004><string=016E><lineend><CC03ED=016E0004000103FF><color=0001>Ondine, you go and hide yourself for now.<lineend><CC03ED=016E0003000103FF><pause>|
 65544|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Your name was...Gradriel, right?<lineend><pause>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Your name was... Gradriel, right?<lineend><pause>|
 65545|
 <CC03EA><color=0004><string=016E><lineend><color=0001>Your skills have definitely improved.<pause><lineend><CC03EA>But if you're going to use your sword so carelessly...<pause><lineend><CC03EA>...you're no better than the rest of the criminals!<pause><lineend><CC03EA>Do you believe everything you hear, or do you judge the truth for yourself?<lineend><pause>|
 65546|
@@ -57,7 +57,7 @@
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>...Excuse me...<lineend><CC03ED=0000001C000103FF><pause>|
 131073|
-<CC03EA><color=0004><string=0107><lineend><color=0001>Are you...trying to get a Mermaid's Tear, too?<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>Are you... trying to get a Mermaid's Tear, too?<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=0107><lineend><color=0001>I haven't done anything wrong.<pause><lineend>|
 131075|
@@ -65,7 +65,7 @@
 131076|
 <CC03EA><color=0004><string=0107><lineend><color=0001>I may be a Siren, but I would never hurt anyone.<pause><lineend><CC03EA>I actually like people. That's why I live in this lake, away from the other Sirens.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so frightened...and so sad...<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>The townspeople changed the moment all the false rumors began.<pause><lineend><CC03EA>I told them it wasn't me, but nobody listened.<pause><lineend><CC03EA>They made me so frightened... and so sad...<pause><lineend>|
 131078|
 <CC03EA><color=0004><string=0107><lineend><color=0001>But Sir Edward was different. He put away his sword and listened to me.<pause><lineend><CC03EA>In fact, he's stayed here and watched over me ever since.<pause><lineend>|
 131079|
@@ -117,7 +117,7 @@
 196617|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I'll protect her with my life. Let's just say it's something I have to do.<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Card Knights.<pause><lineend><CC03EA>One day, though...He came under a spell, double-crossed the Card Knights, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Card Knights.<pause><lineend><CC03EA>One day, though... He came under a spell, double-crossed the Card Knights, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
 196619|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I can do it by joining the Card Knights and protecting the new Queen...<pause><lineend><CC03EA>...You know, you're the first person I've told this to.<pause><lineend>|
 196620|
@@ -131,7 +131,7 @@
 196624|
 <CC03EA><color=0002><string=0000><lineend><color=0001>But thanks to meeting you, Edward,<lineend>I feel like I've found one of the answers I've been looking for...<lineend>Thank you very much.<pause><lineend>|
 196625|
-<CC03EA><color=0004><string=016E><lineend><color=0001>You've got a busy day in Cadho Badho tomorrow. I'll watch the fire. You go to sleep.<lineend><pause>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You've got a busy day in Cadho Badho tomorrow.<pause><lineend><CC03EA>I'll watch the fire. You go to sleep.<pause><lineend>|
 196626|
 <CC03EA><color=0002><string=0000><lineend><color=0001>All right. Tomorrow, I'll catch whoever is behind this.<pause><lineend>|
 196627|
