@@ -41,6 +41,7 @@ replace_sign() {
 
 # extract all files with gfx elements
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.CHR'  > /dev/null
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PAK'  > /dev/null
 
 # TODO: extract original *_jap.bin signs with sfk http://stahlworks.com/sfk-partcopy
 # sfk partcopy infile -fromto startoffset  
@@ -48,8 +49,8 @@ replace_sign() {
 # doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
 # Pub (24*11/2 = 132 bytes)
 replace_sign  pub  132
-# NPC (24*11/2)
-replace_sign  npc  132
+# Home (24*11/2)
+replace_sign  home  132
 # shop (16*11/2 = 88 bytes)
 replace_sign  shop  88
 # Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
@@ -128,7 +129,7 @@ replace_sign  track  240
 # chase (64*11/2=352) -> test in 055-00
 replace_sign  chase  352
 # stones/gems shop (40*11/2=220) -> test in 055-00
-replace_sign  stone_shop  220
+replace_sign  gem_shop  220
 # (to the) tower (72*11/2=396) -> test in 036-00
 replace_sign  tower  396
 # (to the) tower2 (72*11/2=396) -> test in 094-00 as Portgus
@@ -141,8 +142,8 @@ replace_sign  goblin_market  616
 replace_sign  goblin_market2  616
 # Volga castle (64*11/2=352) -> test in 081-00
 replace_sign  volga_castle  352
-# stone_shop2 (24*11/2=132) -> test in 081-00
-replace_sign  stone_shop2  132
+# gem_shop2 (24*11/2=132) -> test in 081-00
+replace_sign  gem_shop2  132
 # aud_hall2 (48*12/2=288) -> test in 079-03
 replace_sign  aud_hall2  288
 # jadis' (72*11/2=396) -> test in 079-03
@@ -188,11 +189,39 @@ replace_sign  cave2  132
 # Lost Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
 replace_sign  lost_forest  264
 
-
 # replace all the chr files with updated signs
 find *.CHR -mtime -1 | while read chrfile; do     
     cd-replace  "$PATCHED_IMAGE_FILE"  $chrfile $chrfile  > /dev/null
 done
+
+# hide "$" part in the "Inn" signs only
+sfk replace -binary /0205110511050205000A/00000000000000000000/  -yes -dir . -file WN1C.PAK
+cd-replace  "$PATCHED_IMAGE_FILE"  WN1C.PAK  WN1C.PAK  > /dev/null
+#cd-replace  "$PATCHED_IMAGE_FILE"  EE1C.PAK  EE1C.PAK  > /dev/null
+#cd-replace  "$PATCHED_IMAGE_FILE"  KG1C.PAK  KG1C.PAK  > /dev/null
+sfk replace -binary /0305120512050305000A/00000000000000000000/  -yes -dir . -file DC1T.PAK GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK
+#cd-replace  "$PATCHED_IMAGE_FILE"  DC1T.PAK  DC1T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  GB1T.PAK  GB1T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  KD2T.PAK  KD2T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  KD3T.PAK  KD3T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  LL1T.PAK  LL1T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  NB1T.PAK  NB1T.PAK  > /dev/null
+cd-replace  "$PATCHED_IMAGE_FILE"  VG1T.PAK  VG1T.PAK  > /dev/null
+
+# hide "$" part in the "Baker" signs only
+#sfk replace -binary /0705160516050705000A/00000000000000000000/  -yes -dir . -file DC1T.PAK LL1T.PAK  # NB1T.PAK VG1T.PAK -> multiple matches
+#cd-replace  "$PATCHED_IMAGE_FILE"  DC1T.PAK  DC1T.PAK  > /dev/null
+sfk setbytes LL1T.PAK  0x172  0x00000000000000000000 -yes  # test in 026-00
+cd-replace  "$PATCHED_IMAGE_FILE"  LL1T.PAK  LL1T.PAK  > /dev/null
+sfk setbytes NB1T.PAK  0x182  0x00000000000000000000 -yes  # test in 004_00
+cd-replace  "$PATCHED_IMAGE_FILE"  NB1T.PAK  NB1T.PAK  > /dev/null
+sfk setbytes VG1T.PAK  0x1AA  0x00000000000000000000 -yes  # test in 081-00
+cd-replace  "$PATCHED_IMAGE_FILE"  VG1T.PAK  VG1T.PAK  > /dev/null
+
+# cleanup "Top Room" sign  https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
+sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 038-20
+sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 038-20
+cd-replace  "$PATCHED_IMAGE_FILE"  EE1C.PAK  EE1C.PAK  > /dev/null
 
 # replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB  
@@ -242,7 +271,6 @@ sfk replace KUMO.PRG -text '/TARANTURA/TARANTULA/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  KUMO.PRG  KUMO.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
 # "DWALF LAND" -> "DWARF LAND"
 sfk setbytes COMM.PAK 0x6351 0x05 -yes
 # "YGGDRASILL" -> "YGGDRASIL " & moved 2px right to recenter
