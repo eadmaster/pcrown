@@ -54,7 +54,7 @@ replace_sign  home  132
 # shop (16*11/2 = 88 bytes)
 replace_sign  shop  88
 # Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
-replace_sign  med_shop  88
+replace_sign  potions_shop  88
 # Item (shop) (24*11/2 = 132 bytes)
 replace_sign  item_shop  132
 # Item (shop) (40*11/2=220) -> test in 035-05
@@ -195,11 +195,11 @@ find *.CHR -mtime -1 | while read chrfile; do
 done
 
 # hide "$" part in the "Inn" signs only
-sfk replace -binary /0205110511050205000A/00000000000000000000/  -yes -dir . -file WN1C.PAK
+sfk replace -binary /0205110511050205000A/FFFFFFFFFFFFFFFFFFFF/  -yes -dir . -file WN1C.PAK
 cd-replace  "$PATCHED_IMAGE_FILE"  WN1C.PAK  WN1C.PAK  > /dev/null
 #cd-replace  "$PATCHED_IMAGE_FILE"  EE1C.PAK  EE1C.PAK  > /dev/null
 #cd-replace  "$PATCHED_IMAGE_FILE"  KG1C.PAK  KG1C.PAK  > /dev/null
-sfk replace -binary /0305120512050305000A/00000000000000000000/  -yes -dir . -file DC1T.PAK GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK
+sfk replace -binary /0305120512050305000A/FFFFFFFFFFFFFFFFFFFF/  -yes -dir . -file DC1T.PAK GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK
 #cd-replace  "$PATCHED_IMAGE_FILE"  DC1T.PAK  DC1T.PAK  > /dev/null
 cd-replace  "$PATCHED_IMAGE_FILE"  GB1T.PAK  GB1T.PAK  > /dev/null
 cd-replace  "$PATCHED_IMAGE_FILE"  KD2T.PAK  KD2T.PAK  > /dev/null
@@ -211,16 +211,35 @@ cd-replace  "$PATCHED_IMAGE_FILE"  VG1T.PAK  VG1T.PAK  > /dev/null
 # hide "$" part in the "Baker" signs only
 #sfk replace -binary /0705160516050705000A/00000000000000000000/  -yes -dir . -file DC1T.PAK LL1T.PAK  # NB1T.PAK VG1T.PAK -> multiple matches
 #cd-replace  "$PATCHED_IMAGE_FILE"  DC1T.PAK  DC1T.PAK  > /dev/null
-sfk setbytes LL1T.PAK  0x172  0x00000000000000000000 -yes  # test in 026-00
+sfk setbytes LL1T.PAK  0x172  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 026-00
 cd-replace  "$PATCHED_IMAGE_FILE"  LL1T.PAK  LL1T.PAK  > /dev/null
-sfk setbytes NB1T.PAK  0x182  0x00000000000000000000 -yes  # test in 004_00
+sfk setbytes NB1T.PAK  0x182  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 004_00
 cd-replace  "$PATCHED_IMAGE_FILE"  NB1T.PAK  NB1T.PAK  > /dev/null
-sfk setbytes VG1T.PAK  0x1AA  0x00000000000000000000 -yes  # test in 081-00
+sfk setbytes VG1T.PAK  0x1AA  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 081-00
 cd-replace  "$PATCHED_IMAGE_FILE"  VG1T.PAK  VG1T.PAK  > /dev/null
+# TODO: resize the frames
 
-# cleanup "Top Room" sign  https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
-sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 038-20
-sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFFFFFF -yes  # test in 038-20
+# castle signs repositioning (test in 000-04)
+#WIP: python _edit_texture.py VD14.PAK 13C -2 -1
+sfk setbytes VD14.PAK  0x13E 0x1203210321041204 -yes  # move "'s" in Gradriel's room
+sfk setbytes VD14.PAK  0x1CE 0x0703160316040704 -yes  # move "'s" in Eriel's room
+sfk setbytes VD14.PAK  0x186 0x0a03190319040a04 -yes  # move "'s" in Sidrael's room
+sfk setbytes VD14.PAK  0x25E 0x0503140314040504 -yes  # move "'s" in Kwein's room
+# TODO: resize the frames too:
+#sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # Kwein's room - room
+#sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # Kwein's room - center frame
+#sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # Kwein's room - left frame
+sfk setbytes VD14.PAK  0x216 0x1103200320041104 -yes  # move "'s" in Jestonai's room
+cd-replace  "$PATCHED_IMAGE_FILE" VD14.PAK VD14.PAK
+
+# cleanup "Top Room" sign (test in 038-20) https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
+sfk setbytes EE1C.PAK  0x5e8  0x00141b05040504051b05005F  -yes  # reposition Top 10R
+sfk setbytes EE1C.PAK  0x5f4  0x00100005170517050005000A  -yes  # reposition Room 12L
+sfk setbytes EE1C.PAK  0x5c4  0x40221b0C220C220C1b0C000A  -yes  # reposition frame right 11L
+sfk setbytes EE1C.PAK  0x5d0  0x40211B0C1B0C1B0C1B0C004B  -yes  # reposition frame center -11L & -11R
+sfk setbytes EE1C.PAK  0x5DC  0x4020230C1C0C1C0C230C005F  -yes  # reposition frame left 11R
+sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFF000A -yes       # hide "F" part
+sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFF000A -yes       # hide "'s" part
 cd-replace  "$PATCHED_IMAGE_FILE"  EE1C.PAK  EE1C.PAK  > /dev/null
 
 # replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
@@ -234,7 +253,7 @@ cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
 cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
 
-# fix Engrish in ending scrolls:
+# fix Engrish in ending scrolls
 # "SCENARIO WRITING & VILLAGERS SET" (4bpp 232x16 1856B)
 file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_1_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin)
 # sfk setbytes ROLL.CHR  0x1140  0x$(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin) -yes 
@@ -271,6 +290,7 @@ sfk replace KUMO.PRG -text '/TARANTURA/TARANTULA/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  KUMO.PRG  KUMO.PRG
 
 # fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
+#7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
 # "DWALF LAND" -> "DWARF LAND"
 sfk setbytes COMM.PAK 0x6351 0x05 -yes
 # "YGGDRASILL" -> "YGGDRASIL " & moved 2px right to recenter

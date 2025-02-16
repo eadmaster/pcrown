@@ -23,7 +23,7 @@
 65542|
 <CC03EA><CC03FC=0004><string=011B><color=0001><CC03ED=011B000A000103FF>That's not safe, you know!<lineend><CC03ED=011B0009000103FF><pause><CC03EA><CC03ED=011B000A000103FF>As long as we're on this ship together, little lady, why don't you and I stick together?<lineend><CC03ED=011B0009000103FF><pause>|
 65543|
-<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>I suppose that's fine. Thank you.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>You can stop calling me "little lady," though. My name is Gradriel.<lineend><CC03ED=0000001C000103FF><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>I suppose that's fine. Thank you.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>You can stop calling me "little lady", though. My name is Gradriel.<lineend><CC03ED=0000001C000103FF><pause>|
 65544|
 <CC03EA><color=0006><string=0063><lineend><color=0001>P, p, p, pirates!<lineend>Pirates are attacking!<pause><lineend>|
 65545|
@@ -85,4 +85,4 @@
 131097|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>I'll go, too!<lineend><pause><CC03EA>Besides, someone has to save those people they took prisoner.<lineend><CC03ED=0000001C000103FF><pause>|
 131098|
-<CC03EA><color=0004><string=0178><lineend><color=0001>All right, then. You get everybody on-board the ship.<lineend><pause><CC03EA>I'll be back the moment I wrap things up. Be careful not to get caught!<lineend><pause>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>All right, then. You get everybody on board the ship.<lineend><pause><CC03EA>I'll be back the moment I wrap things up. Be careful not to get caught!<lineend><pause>|

@@ -49,7 +49,7 @@
 65556|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>But your Highness...<pause><lineend>|
 65557|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...I order you to stay.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai... I order you to stay.<pause><lineend>|
 65558|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>...Very well.<pause><lineend>|
 65559|

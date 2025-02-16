@@ -307,7 +307,7 @@ Use to cook with the Frying Pan<lineend>
 Potion Ingredient<lineend>
 Sought by Hindel west of Knelt<lineend>
 Use to travel in time<lineend>
-Give to the Bard in Valenadine<lineend>
+Give to the Bard in Valenadine Town<lineend>
 Return to a Wizard in Cadho Badho<lineend>
 Open the cave south of Cemeteryth<lineend>
 Return to its owner in Volga Town<lineend>
@@ -363,7 +363,7 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA>Poison has made things hard to see<pause><lineend>
 <CC03EA>Now more poisoned, hallucinating<pause><lineend>
 <CC03EA><CC03F4> is slowly closing in<pause><lineend>
-<CC03EA><CC03F4> summoned lightning<pause><lineend>
+<CC03EA><CC03F4> summoned a thunderstorm<pause><lineend>
 <CC03EA><CC03F4>s are ganging up on you<pause><lineend>
 <CC03EA><CC03F4> have scattered your items<pause><lineend>
 <CC03EA><CC03F4>'s arrow hit its mark<pause><lineend>

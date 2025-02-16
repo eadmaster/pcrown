@@ -9,7 +9,7 @@
 4|
 <CC03EA><CC03FC=0004><string=0177><color=0001>Portgus?<pause><lineend><CC03EA>That lousy pirate's nothing but trouble! Don't you think so, too?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0063><lineend><color=0001>Portgus even attacked the cargo ship that left the port the other day.<pause><lineend><CC03EA>What gives? He never went after ordinary cargo ships in the past.<pause><lineend><CC03EA>Portgus...He used to only rob crooked officials and merchants. He was a heck of a guy!<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>Portgus even attacked the cargo ship that left the port the other day.<pause><lineend><CC03EA>What gives? He never went after ordinary cargo ships in the past.<pause><lineend><CC03EA>Portgus... He used to only rob crooked officials and merchants. He was a heck of a guy!<pause><lineend>|
 6|
 <CC03EA><color=0006><string=003C><lineend><color=0001>My Father was on one of the ships that the pirates attacked.<pause><lineend><CC03EA>He made it back in one piece, but he was covered in terrible burns.<pause><lineend><CC03EA>I just hope they catch those rotten pirates!<pause><lineend>|
 7|
@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0006><string=003D><lineend><color=0001>People are so scared of the pirates that hardly anybody comes to Leeland anymore.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=001D><lineend><color=0001>I heard something interesting from the sailors who used to know Portgus.<pause><lineend><CC03EA>They said he wasn't the type to do anything cowardly, ever.<pause><lineend><CC03EA>He was a "rob the rich, give to the poor" kind of pirate.<pause><lineend><CC03EA>What's gotten into him lately? I was actually rooting for him...You know, just a little.<pause><lineend>|
+<CC03EA><color=0006><string=001D><lineend><color=0001>I heard something interesting from the sailors who used to know Portgus.<pause><lineend><CC03EA>They said he wasn't the type to do anything cowardly, ever.<pause><lineend><CC03EA>He was a "rob the rich, give to the poor" kind of pirate.<pause><lineend><CC03EA>What's gotten into him lately? I was actually rooting for him... You know, just a little.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=01A7><lineend><color=0001>Oh, I'm sorry Ma'am.<pause><lineend><CC03EA>We haven't gotten any worthwhile goods in ever since the pirates started coming around.<pause><lineend><CC03EA>If you're still interested, you're welcome to see what we have.<pause><lineend>|
 12|

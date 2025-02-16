@@ -129,7 +129,7 @@
 64|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>Mixing costs 20G. Is that all right?<pause><lineend>|
 65|
-<CC03EA>l<CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 66|
 <CC03EA><color=0006><string=01B7><lineend><color=0001>What's this? You don't have enough money.<pause><lineend>|
 67|
