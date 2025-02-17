@@ -228,7 +228,7 @@ sfk setbytes VD14.PAK  0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Kwein's roo
 #sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # Kwein's room - room
 #sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # Kwein's room - center frame
 #sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # Kwein's room - left frame
-sfk setbytes VD14.PAK  0x216 0xFFFFFFFFFFFFFFFF -yes  # move "'s" in Jestonai's room
+sfk setbytes VD14.PAK  0x216 0xFFFFFFFFFFFFFFFF -yes    # hide "'s" in Jestonai's room
 cd-replace  "$PATCHED_IMAGE_FILE" VD14.PAK VD14.PAK
 
 # cleanup "Top Room" sign (test in 038-20) https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480

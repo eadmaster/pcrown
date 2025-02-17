@@ -11,7 +11,7 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 
  - all story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - [almost all doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
+ - [all doorway signs are translated](https://github.com/eadmaster/pcrown/issues/5)
    - some were shortened to fit into the available space, or need alignment fixes
  - all book/scenarios fully tested and crash-free
    - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
