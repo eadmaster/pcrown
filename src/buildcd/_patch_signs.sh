@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Signs and banners patching script  https://github.com/eadmaster/pcrown/issues/5
-# Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
 
 export SIGNS_PATH=../../signs
 #export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
@@ -221,15 +220,15 @@ cd-replace  "$PATCHED_IMAGE_FILE"  VG1T.PAK  VG1T.PAK  > /dev/null
 
 # castle signs repositioning (test in 000-04)
 #WIP: python _edit_texture.py VD14.PAK 13C -2 -1
-sfk setbytes VD14.PAK  0x13E 0x1203210321041204 -yes  # move "'s" in Gradriel's room
-sfk setbytes VD14.PAK  0x1CE 0x0703160316040704 -yes  # move "'s" in Eriel's room
-sfk setbytes VD14.PAK  0x186 0x0a03190319040a04 -yes  # move "'s" in Sidrael's room
-sfk setbytes VD14.PAK  0x25E 0x0503140314040504 -yes  # move "'s" in Kwein's room
+sfk setbytes VD14.PAK  0x13E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Gradriel's room
+sfk setbytes VD14.PAK  0x1CE 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Eriel's room
+sfk setbytes VD14.PAK  0x186 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Sidrael's room
+sfk setbytes VD14.PAK  0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Kwein's room
 # TODO: resize the frames too:
 #sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # Kwein's room - room
 #sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # Kwein's room - center frame
 #sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # Kwein's room - left frame
-sfk setbytes VD14.PAK  0x216 0x1103200320041104 -yes  # move "'s" in Jestonai's room
+sfk setbytes VD14.PAK  0x216 0xFFFFFFFFFFFFFFFF -yes  # move "'s" in Jestonai's room
 cd-replace  "$PATCHED_IMAGE_FILE" VD14.PAK VD14.PAK
 
 # cleanup "Top Room" sign (test in 038-20) https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
