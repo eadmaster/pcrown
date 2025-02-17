@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=01D2><lineend><color=0001>Earthquakes!?<lineend>...HIC!<pause><lineend><CC03EA>How in the heck are we supposed to fight earthquakes!?<pause><lineend>|
 1|
-<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*...A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy-tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
+<CC03EA><color=0006><string=01D2><lineend><color=0001>*HIC*... A Dragon that swallowed a music score?<pause><lineend><CC03EA>Hold it, I've heard that fairy tale, too...<pause><lineend><CC03EA>How did it go again?<pause><lineend>|
 2|
 <CC03EA><color=0006><string=004F><lineend><color=0001>Monsters have been running amok all over the place these days.<pause><lineend><CC03EA>Weak as they are, even Dodos and Myconids are more aggressive now.<pause><lineend>|
 3|

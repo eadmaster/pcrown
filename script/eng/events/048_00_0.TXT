@@ -79,7 +79,7 @@
 131083|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Her tear...<pause><lineend>|
 131084|
-<CC03EA><color=0004><string=016E><lineend><color=0001>It's like they say in fairy-tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>It's like they say in fairy tales. The tears of a mermaid change into jewels.<pause><lineend><CC03EA>Someone wants to get his hands on one of these, and he's using vicious lies to do it.<pause><lineend>|
 131085|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's terrible...<lineend>We must put a stop to it!<pause><lineend>|
 131086|
