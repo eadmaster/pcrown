@@ -10,7 +10,7 @@ export SFK_COLORS=
 # turn a file into an hex string
 #file2hexstr() { xxd -p -c 10000 "$1" ; }   
 file2hexstr() { sfk hexdump -raw "$1" ; }   
-file2hexstr_sign() { sfk hexdump -raw "$1" | tr 1 F ; }   # fixes pixel values on signs converted via bmp2bin
+#file2hexstr_sign() { sfk hexdump -raw "$1" | tr 1 F ; }   # fixes pixel values on signs converted via bmp2bin
 
 # binary file search & replace
 # using sfk http://stahlworks.com/sfk-rep
@@ -28,8 +28,8 @@ replace_sign() {
 		return
 	fi
     
-    SIGN_JAP_HEX_STR=$(file2hexstr_sign ${FILEBASENAME}_jap.bin)
-    SIGN_ENG_HEX_STR=$(file2hexstr_sign ${FILEBASENAME}_eng.bin)
+    SIGN_JAP_HEX_STR=$(file2hexstr ${FILEBASENAME}_jap.bin)
+    SIGN_ENG_HEX_STR=$(file2hexstr ${FILEBASENAME}_eng.bin)
     
     # binary search-replace 
     #sfk replace $chrfile -binary /$SIGN_JAP_HEX_STR/$SIGN_ENG_HEX_STR/  -yes -firsthit   
@@ -45,7 +45,9 @@ replace_sign() {
 # TODO: extract original *_jap.bin signs with sfk http://stahlworks.com/sfk-partcopy
 # sfk partcopy infile -fromto startoffset  
 
-# doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
+
+## doorway signs translation  https://github.com/eadmaster/pcrown/issues/5
+
 # Pub (24*11/2 = 132 bytes)
 replace_sign  pub  132
 # Home (24*11/2)
@@ -179,13 +181,13 @@ replace_sign  artist  132
 replace_sign  shouse  132
 # Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
 replace_sign  magic_meadow  396
-# Last Tavern/Inn (40*11/2=220) -> test in 083-00
+# Last (Tavern/Inn) (40*11/2=220) -> test in 083-00
 replace_sign  last  220
 # Old (Cave) (24*11/2=132) -> test in 087-00 (Edward book)
 replace_sign  old2  132
 # (Old) Cave (24*11/2=132) -> test in 087-00 (Edward book)
 replace_sign  cave2  132
-# Lost Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
+# (Lost) Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
 replace_sign  lost_forest  264
 
 # replace all the chr files with updated signs
@@ -241,6 +243,18 @@ sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFF000A -yes       # hide "F" part
 sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFF000A -yes       # hide "'s" part
 cd-replace  "$PATCHED_IMAGE_FILE"  EE1C.PAK  EE1C.PAK  > /dev/null
 
+#WIP: resize some sings  https://github.com/eadmaster/pcrown/issues/102
+# port (size: 0x10 0x0B  size=0x58) (test in 039-00)
+#EOF_OFFSET=$(printf "0x%04X\n" $(stat -c%s "RL1T.CHR"))  # 0F00   # TODO: swap endinaness
+#sfk setbytes RL1T.PAK 0x113 0x000F -yes  # change offset to EOF (prev.: A008 <-> 08A0)
+#sfk setbytes RL1T.PAK 0x... # TODO: change texture size
+#sfk partcopy ${SIGNS_PATH}/port_eng_full.bin -allfrom 0 RL1T.CHR -append -yes  # append new sprite data
+#cd-replace  "$PATCHED_IMAGE_FILE"  RL1T.CHR  RL1T.CHR  > /dev/null
+#cd-replace  "$PATCHED_IMAGE_FILE"  RL1T.PAK  RL1T.PAK  > /dev/null
+
+
+## more gfx hacks
+
 # replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB  
 file_patch COCKPIT.CHB $(file2hexstr ${SIGNS_PATH}/save_begin_jap.bin) $(file2hexstr ${SIGNS_PATH}/save_begin_eng.bin)
@@ -251,15 +265,6 @@ cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
 #ALREADY EXTRACTED: 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
 cd-replace  "$PATCHED_IMAGE_FILE" COMM.CHR COMM.CHR
-
-# fix Engrish in ending scrolls
-# "SCENARIO WRITING & VILLAGERS SET" (4bpp 232x16 1856B)
-file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_1_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin)
-# sfk setbytes ROLL.CHR  0x1140  0x$(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin) -yes 
-# "SCENARIO WRITING & EVENT DESIGN" (4bpp 224x16 1792B)
-file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_2_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin)
-# sfk setbytes ROLL.CHR  0x1880 0x$(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin) -yes 
-cd-replace  "$PATCHED_IMAGE_FILE" ROLL.CHR ROLL.CHR
 
 # fix Engrish in enemy banner names https://github.com/eadmaster/pcrown/issues/93
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'  > /dev/null
@@ -288,7 +293,7 @@ cd-replace "$PATCHED_IMAGE_FILE"  VORG.PRG  VORG.PRG
 sfk replace KUMO.PRG -text '/TARANTURA/TARANTULA/'  -yes
 cd-replace "$PATCHED_IMAGE_FILE"  KUMO.PRG  KUMO.PRG
 
-# fix Engrish in town/place names https://github.com/eadmaster/pcrown/issues/87
+# fix Engrish in the map  https://github.com/eadmaster/pcrown/issues/87
 #7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.PAK  > /dev/null
 # "DWALF LAND" -> "DWARF LAND"
 sfk setbytes COMM.PAK 0x6351 0x05 -yes
@@ -326,6 +331,7 @@ sfk setbytes COMM.PAK 0x648A 0x0000000000000000 -yes          # T->invisible
 sfk setbytes COMM.PAK 0x647E 0x0000000000000000 -yes          # E->invisible
 sfk setbytes COMM.PAK 0x6472 0x0000000000000000 -yes          # R->invisible
 sfk setbytes COMM.PAK 0x6466 0x0000000000000000 -yes          # A->invisible
+#cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK  > /dev/null
 
 # fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584
 # "DOH DOH" -> "DODO" (found in 047-00)
@@ -371,6 +377,13 @@ sfk setbytes COMM.PAK 0x7bc8 0x\
 410314081B081B01140100AA\
 40FD000000000000000000AA\
 40F51E08250825011E0100AA -yes
-
-
 cd-replace "$PATCHED_IMAGE_FILE" COMM.PAK  COMM.PAK  > /dev/null
+
+# fix Engrish in ending scrolls
+# "SCENARIO WRITING & VILLAGERS SET" (4bpp 232x16 1856B)
+file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_1_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin)
+# sfk setbytes ROLL.CHR  0x1140  0x$(file2hexstr ${SIGNS_PATH}/credits_1_eng.bin) -yes 
+# "SCENARIO WRITING & EVENT DESIGN" (4bpp 224x16 1792B)
+file_patch ROLL.CHR $(file2hexstr ${SIGNS_PATH}/credits_2_jap.bin) $(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin)
+# sfk setbytes ROLL.CHR  0x1880 0x$(file2hexstr ${SIGNS_PATH}/credits_2_eng.bin) -yes 
+cd-replace  "$PATCHED_IMAGE_FILE" ROLL.CHR ROLL.CHR

@@ -20,6 +20,8 @@ export HEIGHT=$(identify -format '%h' $1)
 # white-color font:
 perl _bmp-2-4bpp.pl $1 save_begin.pal 0 $WIDTH $HEIGHT
 
+# fix palette
+sfk replace "${SIGNNAME}_eng.bin" -binary /01/0F/ /11/FF/ /10/F0/ -yes
 
 SIGNNAME=$(echo $1 | rev | cut -d'_' -f2- | rev)
 INPUTFILENAME=$(basename $1 | rev | cut -d'.' -f2- | rev)
