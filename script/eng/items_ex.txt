@@ -249,16 +249,16 @@ Cure Drop<lineend>
 ♀ Make more critical hits<lineend>
 ♀ Defense 20% UP<lineend>
 ♀ Defense 50% UP<lineend>
-♀ Evade automatically<lineend>
+♀ Evade automatically when not attacking<lineend>
 ♀ Speed UP<lineend>
 ♀ Jump UP<lineend>
 ♀ Attacking creates coins<lineend>
 ♀ Enable double jump<lineend>
 ♀ Ice Defense 50% UP<lineend>
 ♀ Fire Defense 50% UP<lineend>
-♀ Rebound enemy attacks<lineend>
-♀ Freeze enemy on contact<lineend>
-♀ Burn enemy on contact<lineend>
+♀ Blocking damages enemy<lineend>
+♀ Blocking freezes enemy<lineend>
+♀ Blocking burns enemy<lineend>
 ♀ Pick up items without crouching<lineend>
 ♀ Guard automatically<lineend>
 ♂ Shoot a long-range petrification beam<lineend>
@@ -283,27 +283,27 @@ Infinite Equipment Endurance<lineend>
 Escape from dungeon<lineend>
 Reload from last save, keep Exp & items<lineend>
 Anti-petrification<lineend>
-Grill Food with a Spice in bag<lineend>
-Make Soup with a Spice in bag<lineend>
+Grill Food with a Spice outside battle<lineend>
+Make Soup with a Spice outside battle<lineend>
 Turn Gem into Magic Stone, or recharge one<lineend>
-+1 Endurance for equipment items, up to 9<lineend>
++1 Endurance for equipment items<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
-♂ Throw at enemies<lineend>
-♂ Throw at enemies and stun them<lineend>
+♂ Throw at enemy and stun<lineend>
+♂ Throw at enemy and stun<lineend>
 ♂ Throw at flying enemies, arcing path<lineend>
 ♂ Explode where thrown, arcing path<lineend>
 ♂ Damage undead enemies<lineend>
-♂ Throw at enemies<lineend>
+♂ Throw at enemy and stun<lineend>
 
 
 
 Grow Elixir Fruit during battle after 15s<lineend>
 Food Ingredient<lineend>
 Gem to make Magic Stone with Mana<lineend>
-Use to cook with the Soup Pot<lineend>
-Use to cook with the Frying Pan<lineend>
+Needed to cook with the Soup Pot<lineend>
+Needed to cook with the Frying Pan<lineend>
 Potion Ingredient<lineend>
 Sought by Hindel west of Knelt<lineend>
 Use to travel in time<lineend>

@@ -97,8 +97,8 @@ Flunkie #2<lineend>
 Flunkie #3<lineend>
 Flunkie #4<lineend>
 Demon<lineend>
-Pirate<lineend>
-Pirate<lineend>
+Bandit<lineend>
+Bandit<lineend>
 King of the Dead<lineend>
 Nidhogg<lineend>
 Centaur<lineend>

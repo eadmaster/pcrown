@@ -57,7 +57,7 @@
 28|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>Looks like you can't quite afford it. Come back anytime.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=01B4><lineend><color=0001>Very well, my lady.<lineend>Enjoy your stay.<pause><lineend>|
+<CC03EA><color=0006><string=01B4><lineend><color=0001>Very well, sir.<lineend>Enjoy your stay.<pause><lineend>|
 30|
 <CC03EA><color=0006><string=01B4><lineend><color=0001>Good morning. May the rest of your journey be safe.<pause><lineend>|
 31|
