@@ -28,7 +28,7 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 ![demo1](shots/demo1.png)  ![demo2](shots/demo2.png)  ![demo3](shots/demo3.png)
 
 
-## Patch instructions (bin format)
+## Patch instructions
 
 1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
 2. grab the latest xdelta patch from the [Releases section](https://github.com/eadmaster/pcrown/releases/latest/download/Princess.Crown.Japan.1M.Track.01.bin.xdelta).
@@ -37,16 +37,6 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 5. select `Princess.Crown.Japan.1M.Track.01.bin.xdelta` as Patch file
 6. click "Apply patch" and save in the same folder without changing the filename: `Princess Crown (Japan) (1M) (Track 01) (patched).bin`
 7. download and use [this cue sheet](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/Princess%20Crown%20(Japan)%20(1M)%20(English).cue) to play the game.
-
-
-## Patch instructions (iso format)
-
-1. obtain a game image matching [these hashes](http://redump.org/disc/4901/), and extract it
-2. download and execute one of these patching scripts in the same folder:
- 
-  - [for Windows](https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/_patch_eng.bat)
-    - [old offline patcher](https://github.com/eadmaster/pcrown/releases/download/v0.3/Princess.Crown.ez.Windows.patching.script.zip)
-  - [for Linux](https://raw.githubusercontent.com/eadmaster/pcrown/refs/heads/master/src/buildcd/_patch_eng.sh)
 
 
 ## Contributions
@@ -64,7 +54,7 @@ Contact me via discord or forums if you can contribute or have issues to report 
 
 # New contributors/Special thanks
 
- - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98)), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
+ - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
  - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/)  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
