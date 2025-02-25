@@ -64,10 +64,10 @@ Contact me via discord or forums if you can contribute or have issues to report 
 
 # New contributors/Special thanks
 
- - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98))
+ - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98)), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
  - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/)  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
- - [Mentil](https://github.com/mentill) (lot of script fixes, gfx hacking)
+ - [Mentil](https://github.com/mentill) (lot of Engrish and script fixes, gfx hacking)
  

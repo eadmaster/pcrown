@@ -7,7 +7,7 @@
 3|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03F1=0000>|
 4|
-<CC03EA><color=0006><string=000A><lineend><color=0001>I tried using a Witch's Cane. Those things really work!<pause><lineend><CC03EA>One monster I used it on turned into a cute little hamster! Another time it was a bird!<pause><lineend>|
+<CC03EA><color=0006><string=000A><lineend><color=0001>I tried using a Witch Rod. Those things really work!<pause><lineend><CC03EA>One monster I used it on turned into a cute little hamster! Another time it was a bird!<pause><lineend>|
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>No matter how many years go by, I can still remember the Unicorn clearly...<pause><lineend><CC03EA>Its horn had seven different colors, and its eyes were so beautiful...<pause><lineend>|
 6|
@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0028><lineend><color=0001>There's a rumor from the city that the Demon King is going to return. Could it be true?<pause><lineend><CC03EA>Things are so peaceful here, it's hard to imagine how something like that could happen.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but... uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
 10|
 <CC03EA><color=0006><string=001F><lineend><color=0001>The next time any Goblins come making trouble, I'm going to whip 'em myself!<pause><lineend>|
 11|

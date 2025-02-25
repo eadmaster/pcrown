@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0005><string=00A1><lineend><color=0001>I usually find the best sparkly brown Gems in Cemeteryth.<pause><lineend><CC03EA>I think it was the Ghouls that usually carried them.<pause><lineend>|
 14|
-<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
+<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Rod around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
 15|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>They're for sale at the <color=0002>Pumpkin House.<color=0001><pause><lineend><CC03EA>Power Plant Seeds, that is! They're pretty crunchy, and they smell nice, too.<pause><lineend><CC03EA>Just the thing to serve with some Goblin Juice!<pause><lineend>|
 16|
@@ -39,11 +39,11 @@
 19|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 20|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 21|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have anything!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute... You don't have anything!<pause><lineend>|
 22|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr...What would I want with that piece of junk!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr... What would I want with that piece of junk!<pause><lineend>|
 23|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Gya ha ha!!<pause><lineend><CC03EA>We take some Mysterious Fruit and Secret Powder, mash them up...<pause><lineend><CC03EA>...and behold! We've got ourselves some deliciously disgusting Goblin Juice!<pause><lineend><CC03EA>Don't worry, you'll get used to it.<pause><lineend><CC03EA>Try a swig sometime. You'll be in <CC03EF=0028>ecs-ta-sy!<pause><lineend><CC03EA>Yours for only 26G!<pause><lineend>|
 24|
@@ -53,9 +53,9 @@
 26|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 27|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 28|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are...Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are... Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
 29|
 <CC03EA><color=0005><string=01BC><lineend><color=0001>Hee hee hee! Welcome!! Have yourself a rest at the Goblin Inn!<pause><lineend><CC03EA>One night's 30G. What are you gonna do?<pause><lineend>|
 30|

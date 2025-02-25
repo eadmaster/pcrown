@@ -27,9 +27,9 @@
 13|
 <CC03EA><color=0005><string=00A1><lineend><color=0001>Hee hee hee! We Goblins just love the glitter of Gold!<pause><lineend>|
 14|
-<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Cane around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
+<CC03EA><color=0005><string=009E><lineend><color=0001>Wave a Goblin Rod around, and we'll come dive-bomb your enemy!<pause><lineend><CC03EA>Just keep one in your bag so you can select it during a fight.<pause><lineend><CC03EA>Watch out, though! If you use it more than once per battle, it will break.<pause><lineend><CC03EA>If that happens, you won't be able to see us anymore. How tragic that would be!<pause><lineend>|
 15|
-<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself...Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
+<CC03EA><color=0005><string=00A0><lineend><color=0001>You've got a lot of courage to show up at the Goblin Market!<pause><lineend><CC03EA>Watch out you don't wind up being for sale yourself... Hee hee!<pause><lineend><CC03ED=00A0000E00010000><CC03ED=00A00048000103FF>|
 16|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Yaa haa haa!!<pause><lineend><CC03EA>Everything is for sale at the Goblin Market!<pause><lineend><CC03EA>What can I get you, little witch?<pause><lineend>|
 17|
@@ -41,7 +41,7 @@
 20|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 21|
-<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute...You don't have anything!<pause><lineend>|
+<CC03EA><color=0005><string=01BA><lineend><color=0001>Wait a minute... You don't have anything!<pause><lineend>|
 22|
 <CC03EA><color=0005><string=01BA><lineend><color=0001>Grrr... What would I want with that piece of junk!<pause><lineend>|
 23|
@@ -53,7 +53,7 @@
 26|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Hey! You don't have enough money!<pause><lineend>|
 27|
-<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi...Your bag is full already!<pause><lineend>|
+<CC03EA><color=0005><string=01BB><lineend><color=0001>Oi oi... Your bag is full already!<pause><lineend>|
 28|
 <CC03EA><color=0005><string=01BB><lineend><color=0001>Here you are... Hee hee!<lineend>...One Goblin Juice!<pause><lineend>|
 29|

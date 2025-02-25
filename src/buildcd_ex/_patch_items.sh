@@ -63,7 +63,7 @@ sfk setbytes 0.BIN 0x4777B 0x17 -yes
 source ../buildcd/_patch_ascii.sh
 
 # statically enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
-sfk setbytes 0.BIN 0x1EB7F 0x01 -yes
+#sfk setbytes 0.BIN 0x1EB7F 0x01 -yes
 
 # add splashscreen -> freezes with cheats enabled during boot  https://github.com/eadmaster/pcrown/issues/96
 #mv 0.BIN  0_org.BIN

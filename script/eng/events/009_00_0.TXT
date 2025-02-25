@@ -35,7 +35,7 @@
 17|
 <CC03F9=00ED>|
 18|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you, Your Majesty.<pause><lineend><CC03EA>I'm sure everyone in this Village will get along with each-other as before!!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Thank you, Your Majesty.<pause><lineend><CC03EA>I'm sure everyone in this Village will get along with each other as before!!<pause><lineend>|
 19|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=0000009800010000>|
 65536|
