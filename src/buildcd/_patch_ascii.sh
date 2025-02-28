@@ -35,28 +35,37 @@ sfk setbytes 0.BIN 0xACEF9  0x2D "GENERAL ARRIVED"  -yes
 
 # "ENGAGED WITH ENEMY" (pre-battle screen) -> "ENEMY ENGAGED"
 # "ENCOUNTER WITH MONSTER" (pre-battle screen) -> "MONSTER ENCOUNTERED"
-# TODO: fix "D" letter invisible glitch
-# 'ENCOUNTER'->'ENCOUNTERED'    height & string length change 0a->0d
-#sfk setbytes 0.BIN 0xA6B19 "ED"     -yes
-#sfk setbytes 0.BIN 0x5DF91 0x0D     -yes
-# 'ENGAGE'->'ENGAGED',  string length 07->09, height change 0a->0d
-#sfk setbytes 0.BIN 0xA6B32 "D"     -yes
-#sfk setbytes 0.BIN 0x5DF89 0x09     -yes
-#sfk setbytes 0.BIN 0x5DF79 0x0D     -yes
-# 'ENEMY' height change    10->0a,  string length 06->07
-#sfk setbytes 0.BIN 0x5DFE9 0x0A     -yes
-#sfk setbytes 0.BIN 0x5E009 0x07     -yes
-# 'MONSTER' height change 10->0a,    string length 08->09
-#sfk setbytes 0.BIN 0x5DFF1 0x0A     -yes
-#sfk setbytes 0.BIN 0x5DFFD 0x09     -yes
-# 'WITH' displayed offscreen    height 0d->00
-#sfk setbytes 0.BIN 0x5DFB1 0x00     -yes
-# change battle message titlecard scrolling behavior to ensure words are centered    ff->01
-#sfk setbytes 0.BIN 0x5DFA7 0x01     -yes
+# 'ENCOUNTER'->'ENCOUNTERED'    'WITH' blanked
+sfk setbytes 0.BIN 0xA6B19 "ED"    0x00 "    "  -yes
+# blanked 'WITH' height change 0d->10
+sfk setbytes 0.BIN 0x5DFB1 0x10     -yes
+# 'MONSTER' height change 10->0d
+sfk setbytes 0.BIN 0x5DFF1 0x0D     -yes
+# 'ENEMY' height change    10->0d
+sfk setbytes 0.BIN 0x5DFE9 0x0D     -yes
+# 'ENGAGE'->'ENGAGED'    string length 07->08
+sfk setbytes 0.BIN 0xA6B32 "D"     -yes
+sfk setbytes 0.BIN 0x5DF89 0x08     -yes
+# 'ENCOUNTER' string length 0a->0c
+sfk setbytes 0.BIN 0x5DF91 0x0a2f26e20c2f56  -yes
 
 # "GET EXP" (end battle screen) -> "NEW EXP"
-sfk setbytes 0.BIN 0xA6B4C  "NEW EXP"  -yes
-# "TREASURE MENU" (end battle screen) -> " ITEMS FOUND "
+#sfk setbytes 0.BIN 0xA6B4C  "NEW EXP"  -yes
+
+# "GET EXP" (end battle screen) -> "GAINED EXP"
+sfk setbytes 0.BIN 0xa6a90  "GAINED EXP"  -yes
+# pointer to new string
+sfk setbytes 0.BIN 0x5e5c0  0x060aaa90  -yes
+# string length 08->0b, new subroutine for normal victory screen
+sfk setbytes 0.BIN 0xb19a0  0xDC01E80B4C2B00090605BD20  -yes
+# change jump to new subroutine
+sfk setbytes 0.BIN 0x5e5bc  0x060b59a0  -yes
+# string length 08->0b, for boss victory screen
+sfk setbytes 0.BIN 0x5e4b3  0x0b  -yes
+# retrieve 0605bd20 pointer from different location that's not overwritten
+sfk setbytes 0.BIN 0x5e4b7  0xde  -yes
+
+# "TREASURE MENU" (end battle screen) -> "ITEMS DROPPED"
 sfk setbytes 0.BIN 0xA6B60  "ITEMS DROPPED"  -yes
 
 # "FALLDOWN FROM THE BOOKWORLD" (gameover screen) -> "FALLEN FROM THE BOOKWORLD"
