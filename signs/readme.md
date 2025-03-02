@@ -1,18 +1,11 @@
 
-# How to translate a doorway sign
+# How to retranslate a doorway sign
 
- - find the sign ingame, and save the bmp from the Yabause Debug->VDP1 menu as "mysign_jap.bmp" ("mysign" will be used as a reference name in the code).
- - copy "mysign_jap.bmp" to "mysign_eng.bmp"
- - open "mysign_eng.bmp" with a paint tool, translate to English using the font and color in `_font.png`. Then save (don't change its size if the translation does not fit, it won't work).
-   - optional: use `_bmpbanner.sh` to generate the new sign
-
-OPTIONAL:  test the new sign ingame:
-
- - convert both "mysign_jap.bmp" and "mysign_eng.bmp" with the `_bmp2bin.sh` script.
- - add a line like this in `src/buildcd/_patch_signs.sh` and update the iso:
- ````
-     # mysign ($WIDTH * $HEIGHT) -> test in ...
-    replace_sign  mysign  $MYSIGN_BIN_FILESIZE  # replace $WIDTH $HEIGHT $MYSIGN_BIN_FILESIZE with the correct values
- ````
- 
- TIP: to easily test these use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats). Alternatively, if using savestates, keep in mind the current ones are cached in RAM, so you must go through a black loading screen to reload from disk.
+ 1. open "mysign_eng.bmp" with a paint tool, change the text using the font and color in `_font.png` or `_font_condensed` dir. Then save.
+    - optional: you can use `_bmpbanner.sh` to quickly generate the bitmap with any text, then copy-paste into the existing sign.
+    - P.N.: don't change the bitmap size if the text does not fit. Doing so will break all the texture data offsets. Need to rehack the pak files to do that. https://github.com/eadmaster/pcrown/issues/102
+ 2. run `_bmp2bin.sh mysign_eng.bmp` to generate the binary textures data `mysign_eng.bin`
+ 3. run `src/buildcd/_patch_signs.sh` to update the game image
+ 4. test the new sign ingame
+     - TIP: use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats) for quick testing.
+     - Alternatively, if using savestates, keep in mind the current ones are cached in RAM, so you must go through a black loading screen to reload from disk.

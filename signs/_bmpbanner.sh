@@ -26,7 +26,7 @@ for ((i=0; i<${#TEXT}; i++)); do
     # Handle spaces explicitly
     if [[ "$CHAR" == " " ]]; then
         # Create a blank space image (adjust width for spacing)
-        convert -size 8x12 xc:black /tmp/space.bmp
+        convert -size 5x12 xc:black /tmp/space.bmp
         CHAR_FILE="/tmp/space.bmp"
     else
         # Path to the corresponding BMP file
