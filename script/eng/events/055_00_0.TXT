@@ -11,11 +11,11 @@
 5|
 <CC03EA><color=0006><string=0095><lineend><color=0001>Gems, gems, and more gems!<pause><lineend><CC03EA>It's time to get into the mines and dig, dig, and dig some more!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is beckoning me! I'm out of here!<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck Race is beckoning me! I'm out of here!<pause><lineend>|
 7|
 <CC03F0=009600060000001E03FF00000000>|
 8|
-<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>Since you've come all this way, be sure to stop by the Truck-Chase and the Dwarf Mine!<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>Since you've come all this way, be sure to stop by the Truck Race and the Dwarf Mine!<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0098><lineend><color=0001>They say there's a spirit inside of every weapon the king makes.<pause><lineend>|
 10|
@@ -41,11 +41,11 @@
 20|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see... I'll buy one of those... And one of these...<pause><lineend>|
 21|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Goodness, what a lovely human girl.<pause><lineend><CC03EA>You're like a beautiful Gem in this rough old kingdom of ours!<pause><lineend><CC03EA>By all means, take your time and enjoy your stay. Try the Truck-Chase!<pause><lineend><CC03EA>We haven't found a human yet who wasn't hooked once they got the hang of it!<pause><lineend><CC03ED=00EA001100030000>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Goodness, what a lovely human girl.<pause><lineend><CC03EA>You're like a beautiful Gem in this rough old kingdom of ours!<pause><lineend><CC03EA>By all means, take your time and enjoy your stay. Try the Truck Race!<pause><lineend><CC03EA>We haven't found a human yet who wasn't hooked once they got the hang of it!<pause><lineend><CC03ED=00EA001100030000>|
 22|
 <CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>Not bad, is it? The underground world has its charms.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ... do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 25|

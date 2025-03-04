@@ -79,7 +79,7 @@ replace_sign() {
 replace_sign  pub
 # Home (24*11/2)
 replace_sign  home
-# shop (16*11/2 = 88 bytes)
+# Shop (16*11/2 = 88 bytes) -> hidden
 replace_sign  shop
 # Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
 replace_sign  potions_shop  VD1T.CHR  YA1C.CHR
@@ -103,7 +103,7 @@ replace_sign  courtyard  VD11.CHR   # TODO: TROC.CHR
 replace_sign  room
 # Audience Hall (inside castle) (48*11/2 = 264) -> test in 000-03
 replace_sign  aud_hall
-# aud_hall2 (48*12/2=288) -> test in 079-03
+# Audience Hall2 (48*12/2=288) -> test in 079-03
 replace_sign  aud_hall2
 # Floor (16*11/2 = 88) -> "F"
 replace_sign  floor
@@ -127,8 +127,8 @@ replace_sign  eriel
 # Gradriel (72*11/2=396) -> test in 000-04
 replace_sign  gradriel
 # Valenadine Castle  (96*11/2 = 528) -> test in 002-00
-replace_sign  castle
-# empty/vacant (home) (40*11/2 = 220)  -> test in 043-00
+replace_sign  val_castle
+# Empty/vacant (home) (40*11/2 = 220)  -> test in 043-00
 replace_sign  empty
 # floor_sub (24*11/2 = 132) -> test in 100-12
 replace_sign floor_sub
@@ -136,69 +136,69 @@ replace_sign floor_sub
 replace_sign floor_top
 # port (16*11/2 = 88) -> test in 039-00
 replace_sign  port
-# uptown/innertown (40*11/2) -> test in 061-00
-replace_sign  uptown
+# edge_town (40*11/2) -> test in 061-00 (save-dependent)
+replace_sign  edge_town
 # (underground) dungeon (88*12/2) -> test in 000-06
 replace_sign  dungeon
 # witch's (40*11/2=220) -> test in 150-00 as proserpina
 replace_sign  witch
-# old (40*11/2=220) -> test in 153-00 as gradriel
+# Old (hut) (40*11/2=220) -> test in 153-00 as gradriel
 replace_sign  old
-# hut (24*11/2=132) -> test in 150-00
+# Hut (24*11/2=132) -> test in 150-00
 replace_sign  hut
-# mysterious' shop  (40*11/2=220) -> test in 152-00
+# ?? (mysterious) shop  (40*11/2=220) -> test in 152-00
 replace_sign  mysterious
 # inn_room (24*11/2=132) -> test in 055-00
 replace_sign  inn_room
-# mine (24*11/2=132) -> test in 055-00
+# Mine (24*11/2=132) -> test in 055-00
 replace_sign  mine
 # King's Palace (40*11/2=220) -> test in 055-00
 replace_sign  kings
-# truck/track (48*10/2=240) -> test in 055-00
-replace_sign  track
-# chase (64*11/2=352) -> test in 055-00
-replace_sign  chase
-# stones/gems shop (40*11/2=220) -> test in 055-00
+# Truck (48*10/2=240) -> test in 055-00
+replace_sign  truck
+# Race (64*11/2=352) -> test in 055-00
+replace_sign  race
+# Gem Shop (40*11/2=220) -> test in 055-00
 replace_sign  gem_shop   DC1T.CHR
-# (to the) tower (72*11/2=396) -> test in 036-00
+# To the Tower (72*11/2=396) -> test in 036-00
 replace_sign  tower
-# (to the) tower2 (72*11/2=396) -> test in 094-00 as Portgus
+# To the Tower2 (72*11/2=396) -> test in 094-00 as Portgus
 replace_sign  tower2
-# exit (16*11/2=88) -> test in 038-01
+# Exit (16*11/2=88) -> test in 038-01
 replace_sign  exit  EE1C.CHR  GS1C.CHR  KG1C.CHR  MO1C.CHR
-# Goblin market (112*11/2=616) -> test in 154-00
+# Goblin Market (112*11/2=616) -> test in 154-00
 replace_sign  goblin_market
-# Goblin market2 (112*11/2=616) -> test in 010-00
+# Goblin Market2 (112*11/2=616) -> test in 010-00
 replace_sign  goblin_market2
-# Volga castle (64*11/2=352) -> test in 081-00
+# Volga Castle (64*11/2=352) -> test in 081-00
 replace_sign  volga_castle
 # gem_shop2 (24*11/2=132) -> test in 081-00
 replace_sign  gem_shop2  VG1T.CHR 
-# jadis' (72*11/2=396) -> test in 079-03
+# Jadis' (72*11/2=396) -> test in 079-03
 replace_sign  jadis
 # Pumpkin House (96*11/2=528) -> test in 022-00
 replace_sign  pumpkin_house
-# cave (24*11/2=132) -> test in 047-00
+# Cave (24*11/2=132) -> test in 047-00 (hidden)
 replace_sign  cave  MR1C.CHR
-# southwest (40*11/2=220) -> test in 033-00
+# Southwest (40*11/2=220) -> test in 033-00
 replace_sign  southwest  MR1C.CHR
-# southeast (40*11/2=220) -> test in 047-00
+# Southeast (40*11/2=220) -> test in 047-00
 replace_sign  southeast  MR1C.CHR
-# Heindel's (72*11/2=396) -> test in 148-07
-replace_sign  heindel
+# Hindel's (72*11/2=396) -> test in 148-07
+replace_sign  hindel
 # Goat Shed (40*11/2=220) -> test in 026-00
 replace_sign  goat  LL1T.CHR  # DC1T.CHR
 # Ranch (24*11/2=132) -> test in 026-00
 replace_sign  ranch
 # Desert (64*11/2=352) -> test in 031-00
 replace_sign  desert
-# Dragon's nest (88*11/2=484) -> test in 017-00
+# Dragon's Nest (88*11/2=484) -> test in 017-00
 replace_sign  dragonnest
 # Portal (To another space) (48*11/2=264) -> test in 000_07_B
 replace_sign  portal
 # Elfaran (88*10/2=440) -> test in 000-04 (old castle, save-dependent)
 replace_sign  elfaran
-# (Guest) Room (24*11/2=132) -> test in 000-04 (old castle, save-dependent)
+# Guestroom (24*11/2=132) -> test in 000-04 (old castle, save-dependent)
 replace_sign  room_guest
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2
@@ -208,7 +208,7 @@ replace_sign  artist
 replace_sign  shouse
 # Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
 replace_sign  magic_meadow
-# Last (Tavern/Inn) (40*11/2=220) -> test in 083-00
+# Last (Pub/Tavern) (40*11/2=220) -> test in 083-00
 replace_sign  last
 # Old (Cave) (24*11/2=132) -> test in 087-00 (Edward book)
 replace_sign  old2
@@ -218,49 +218,7 @@ replace_sign  cave2
 replace_sign  lost_forest  LL1T.CHR
 
 
-# castle signs cleanups -> test in 000-04
-sfk setbytes VD14.PAK  0x13E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Gradriel's room
-sfk setbytes VD14.PAK  0x1CE 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Eriel's room
-sfk setbytes VD14.PAK  0x186 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Sidrael's room
-sfk setbytes VD14.PAK  0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Kwein's room
-sfk setbytes VD14.PAK  0x216 0xFFFFFFFFFFFFFFFF -yes  # hide "'s" in Jestonai's room
-
-# TODO: resize the frames too:
-#sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # Kwein's room - room
-#sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # Kwein's room - center frame
-#sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # Kwein's room - left frame
-
-# Jestonai's Room recentering
-#python _move_pak_texture.py VD14.PAK 208 -10 0
-sfk setbytes VD14.PAK 0x208 0x000814062b062b041404000a -yes  # move Room left 10px  
-
-# Sidrael's Room recentering
-sfk setbytes VD14.PAK 0x178 0x00081006270627041004000a -yes  # move Room left 10px
-                              
-# Eriel's Room recentering
-sfk setbytes VD14.PAK 0x1C0 0x00080c06230623040c04000a -yes  # move Room left 10px
-
-# Gradriel's Room recentering
-sfk setbytes VD14.PAK 0x130 0x000815062c062c041504000a -yes  # move Room left 10px
-
-# Jadis' Room recentering -> test in 079-03
-# python _move_pak_texture.py VG11.PAK 220 -15 0
-sfk setbytes VG11.PAK 0x220 0x00070905200520050905000a -yes
- 
-# Mine recentering  -> test in 055-00
-# python _move_pak_texture.py DC1T.PAK 3B4 5 0
-sfk setbytes DC1T.PAK 0x3B4 0x00100D050A050A050D05004B  -yes
- 
-# Valenadine Castle recentering -> 002-00
-sfk setbytes VD1T.PAK 0x29C 0x00052F05300530052F05004B -yes
-
-# Volga Castle recentering  -> test in 081-00
-sfk setbytes VG1T.PAK 0x31C 0x000720051F051F052005004B -yes
-
-
-## resize some signs  https://github.com/eadmaster/pcrown/issues/102
-
-# TODO: Inn  
+## resize and recenter some signs  https://github.com/eadmaster/pcrown/issues/102
 
 # Top Room  -> test in 038-20  https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
 sfk setbytes EE1C.PAK  0x5e8  0x00141b05040504051b05005F  -yes  # reposition Top 10R
@@ -307,6 +265,17 @@ sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -
 # TODO: check multi-matches in KD2T.PAK NB1T.PAK, GB1T.PAK, VG1T.PAK
 # TODO: no matches for the frames in YA1C.PAK?
 
+# TODO: item_shop2
+#sfk setbytes CAVE.PAK ...
+#sfk setbytes DG1C.PAK ...
+#sfk setbytes DG2C.PAK ...
+#sfk setbytes DG3C.PAK ...
+#sfk setbytes EE1C.PAK ...
+#sfk setbytes GS1C.PAK ...
+#sfk setbytes KG1C.PAK ...
+#sfk setbytes MO1C.PAK ...
+#sfk setbytes VD17.PAK ...
+
 # potions_shop -> test in 002-00, 043-01
 sfk setbytes VD1T.PAK 0xa8  0x0020EEC8400c0070 -yes  # size 16x11->64x12
 sfk setbytes YA1C.PAK 0xf8  0x00205F4C400c0044 -yes  # size 16x11->64x12
@@ -332,10 +301,10 @@ sfk setbytes DC1T.PAK 0x348 0x4012220C1B0C1B0C220C005F -yes  #L frame coords
 # gem_shop2 -> test in 081-00
 sfk setbytes VG1T.PAK 0x70 0x00206EC8300c0012 -yes  # Gem segment entry
 sfk setbytes VG1T.PAK 0x22c 0x00061805170517061806004B -yes  # Gem segment coords
-#sfk setbytes VG1T.PAK 0x238 0x00080000000000000000000A -yes  # Blank $ segment coords for gem shop
-sfk setbytes VG1T.PAK 0x208 0x400C1B0C220C220C1B0C000A -yes  #(r frame) coords
-sfk setbytes VG1T.PAK 0x214 0x400B190C1A0C1A0C190C004B -yes  #(c frame) coords
-sfk setbytes VG1T.PAK 0x220 0x400A210C1A0C1A0C210C005F -yes  #(l frame) coords
+#sfk setbytes VG1T.PAK 0x238 0x00080000000000000000000A -yes  # Blank $ segment coords
+sfk setbytes VG1T.PAK 0x208 0x400C1B0C220C220C1B0C000A -yes  # r frame coords
+sfk setbytes VG1T.PAK 0x214 0x400B190C1A0C1A0C190C004B -yes  # c frame coords
+sfk setbytes VG1T.PAK 0x220 0x400A210C1A0C1A0C210C005F -yes  # l frame coords
 # TODO: also in DC1T ?
 
 # King's Palace -> test in 055-00
@@ -345,7 +314,7 @@ sfk setbytes DC1T.PAK 0x300 0x4014250C2C0C2C0C250C000A -yes  # r frame coords
 sfk setbytes DC1T.PAK 0x30c 0x4013240C240C240C240C004B -yes  # c frame coords
 sfk setbytes DC1T.PAK 0x318 0x40122c0C250C250C2c0C005F -yes  # l frame coords
 
-# (Magic) school -> test in 045-00
+# Magic School -> test in 045-00
 sfk setbytes KD3T.PAK 0x60 0x00206FD0480C0014 -yes  # 'School'->'Magic School' segment entry
 sfk setbytes KD3T.PAK 0x1f6 0x0000000000000000 -yes  # 'Magic' segment coords blank
 sfk setbytes KD3T.PAK 0x200 0x00042405230523062406004b -yes  # segment coords
@@ -353,7 +322,7 @@ sfk setbytes KD3T.PAK 0x1d0 0x4008230C2A0C2A0C230C000A -yes  # R frame coords
 sfk setbytes KD3T.PAK 0x1dc 0x4007220C220C220C220C004B -yes  # C frame coords
 sfk setbytes KD3T.PAK 0x1e8 0x40062A0C230C230C2A0C005F -yes  # L frame coords
 
-# warp (Magic) -> test in 045-00, 020-00, ...
+# Warp Magic -> test in 045-00, 020-00, ...
 #sfk setbytes KD3T.PAK 0x88 0x0020E2BC380C0068 -yes  # segment entry
 sfk setbytes KD3T.PAK 0x8C 0x380C -yes  # size change
 sfk setbytes NE1T.PAK 0xB4 0x380C -yes  # size change
@@ -369,14 +338,57 @@ sfk replace -binary /0605110511050605004B/0000000000000000004B/ -yes -firsthit -
 # magic_shop -> test in 045-00, 074-00
 sfk setbytes KD3T.PAK 0x5C 0x380C -yes  # size change
 sfk setbytes SG1T.PAK 0x5C 0x380C -yes  # size change
-sfk replace -binary /0705160516050705000A/0000000000000000000A/ -yes -dir . -file KD3T.PAK SG1T.PAK  # Shop segment coords blank
+sfk replace -binary /0705160516050705000A/0000000000000000000A/ -yes -dir . -file KD3T.PAK SG1T.PAK  # 'Shop' segment coords blank
 sfk replace -binary /1105060506051105004B/1C051B051B061C06004B/ -yes -dir . -file KD3T.PAK SG1T.PAK  # 'Magic' segment coords
 sfk replace -binary /150C1C0C1C0C150C000A/1E0C250C250C1E0C000A/ -yes -dir . -file KD3T.PAK SG1T.PAK  # R frame coords
 sfk replace -binary /130C140C140C130C004B/1C0C1D0C1D0C1C0C004B/ -yes -dir . -file KD3T.PAK SG1T.PAK  # C frame coords 
 sfk replace -binary /1B0C140C140C1B0C005F/240C1D0C1D0C240C005F/ -yes -dir . -file KD3T.PAK SG1T.PAK  # L frame coords
 # NO? SM1T.PAK NE1T.PAK VD1T.PAK VG1T.PAK 
+
+# Jestonai's Room -> test in 000-04
+#python _move_pak_texture.py VD14.PAK 208 -10 0
+sfk setbytes VD14.PAK 0x208 0x000814062b062b041404000a -yes  # recentering: move Room left 10px  
+sfk setbytes VD14.PAK 0x216 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
+
+# Kwein's Room
+sfk setbytes VD14.PAK 0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
+#TODO: resize the frames
+#sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # room
+#sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # center frame
+#sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # left frame
+
+# Gradriel's Room  -> test in 000-04
+sfk setbytes VD14.PAK 0x130 0x000815062c062c041504000a -yes  # recentering: move Room left 10px
+sfk setbytes VD14.PAK 0x13E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
+
+# Sidrael's Room  -> test in 000-04
+sfk setbytes VD14.PAK 0x178 0x00081006270627041004000a -yes  # recentering: move Room left 10px
+sfk setbytes VD14.PAK 0x186 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
+
+# Eriel's Room  -> test in 000-04
+sfk setbytes VD14.PAK 0x1C0 0x00080c06230623040c04000a -yes  # recentering: move Room left 10px
+sfk setbytes VD14.PAK 0x1CE 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
+
+# Jadis' Room  -> test in 079-03
+# python _move_pak_texture.py VG11.PAK 220 -15 0
+sfk setbytes VG11.PAK 0x220 0x00070905200520050905000a -yes  # recentering
+#TODO: resize the frames
  
-# Elfaran's -> test in 000-04 (old castle, save-dependent)
+# Mine  -> test in 055-00
+# python _move_pak_texture.py DC1T.PAK 3B4 5 0
+sfk setbytes DC1T.PAK 0x3B4 0x00100D050A050A050D05004B  -yes  # recentering
+ 
+# Valenadine Castle -> test in 002-00
+sfk setbytes VD1T.PAK 0x29C 0x00052F05300530052F05004B -yes  # recentering
+
+# Volga Castle -> test in 081-00
+sfk setbytes VG1T.PAK 0x31C 0x000720051F051F052005004B -yes  # recentering
+
+# Hindel's Room -> test in 148-07
+sfk replace -binary /000B18052F052F051805000A/000B0E05250525050E05000A/ -yes -dir . -file CAVE.PAK DG2C.PAK  DG3C.PAK   # recentering
+# TODO: DG1C.PAK
+
+# Elfaran's Room -> test in 000-04 (old castle, save-dependent)
 sfk setbytes VD14.PAK 0xd4 0x380b -yes  # segment entry dimensions 88x10->56x11
 sfk setbytes VD14.PAK 0x298 0x00122c050b050b052c05004B -yes  # "Elfaran" segment coords
 sfk setbytes VD14.PAK 0x2a4 0x00081105280528051105000A -yes  # "Room" segment coords
@@ -402,9 +414,9 @@ sfk setbytes VD13.PAK 0x134 0x400E2B0D230D230C2B0C005F -yes  # L frame coords
 # aud_hall2 -> test in 079-03
 sfk setbytes VG11.PAK 0x6c 0x480b -yes  # entry dimensions 48x12->72x11
 sfk setbytes VG11.PAK 0x1e4 0x00052305240524052305004B -yes  # coords
-sfk setbytes VG11.PAK 0x1c0 0x4014250D2C0D2C0C250C000A -yes  #R frame coords
-sfk setbytes VG11.PAK 0x1cc 0x4013240D240D240C240C004B -yes  #C frame coords
-sfk setbytes VG11.PAK 0x1d8 0x40122B0D230D230C2B0C005F -yes  #L frame coords
+sfk setbytes VG11.PAK 0x1c0 0x4014250D2C0D2C0C250C000A -yes  # R frame coords
+sfk setbytes VG11.PAK 0x1cc 0x4013240D240D240C240C004B -yes  # C frame coords
+sfk setbytes VG11.PAK 0x1d8 0x40122B0D230D230C2B0C005F -yes  # L frame coords
 
 # Courtyard  -> test in 000-01
 sfk setbytes VD11.PAK 0xfc 0x380c -yes  # entry dimensions 24x11->56x12
@@ -412,6 +424,7 @@ sfk setbytes VD11.PAK 0x2a4 0x00171C051B051B061C06004B -yes  # coords
 sfk setbytes VD11.PAK 0x280 0x401A1C0C230C230C1C0C000A -yes  # R frame coords
 sfk setbytes VD11.PAK 0x28c 0x40191C0C1B0C1B0C1C0C004B -yes  # C frame coords
 sfk setbytes VD11.PAK 0x298 0x4018240C1D0C1D0C240C005F -yes  # L frame coords
+# TODO:
 #sfk setbytes TROC.PAK 0x114 0x380c -yes  # entry dimensions 24x11->56x12
 #sfk setbytes TROC.PAK 0x250 0x001A1C051B051B061C06004B -yes  # coords
 #sfk setbytes TROC.PAK 0x280 0x??? -yes  # R frame coords
@@ -455,6 +468,15 @@ sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes LL1T.PAK 0x224 0x00051C051B051B051C05004B -yes  # coords
 sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # Hut coords blanked
 
+# Inn -> test in 004-00, ...
+#python _move_pak_texture.py WN1C.PAK 208 4 0
+sfk setbytes WN1C.PAK 0x140 0x00060705080508050705004B -yes  # Inn (inside the pub) recenter 
+sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
+
+# Old (hut) -> test in 153-00 as gradriel
+sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
+# NO? DC1T.PAK
+
 
 ## more gfx hacks
 
@@ -465,7 +487,6 @@ cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
 
 # fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
 # PORTGAS->PORTGUS banner
-#ALREADY EXTRACTED: 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COMM.CHR
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
 
 # fix Engrish in Notice Drop enemies banners  https://github.com/eadmaster/pcrown/issues/93#issuecomment-2614060584

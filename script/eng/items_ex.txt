@@ -249,7 +249,7 @@ Cure Drop<lineend>
 ♀ Make more critical hits<lineend>
 ♀ Defense 20% UP<lineend>
 ♀ Defense 50% UP<lineend>
-♀ Evade automatically when not attacking<lineend>
+♀ Evade automatically<lineend>
 ♀ Speed UP<lineend>
 ♀ Jump UP<lineend>
 ♀ Attacking creates coins<lineend>
@@ -290,18 +290,18 @@ Turn Gem into Magic Stone, or recharge one<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
-♂ Throw at enemy and stun<lineend>
+♂ Throw at enemy<lineend>
 ♂ Throw at enemy and stun<lineend>
 ♂ Throw at flying enemies, arcing path<lineend>
 ♂ Explode where thrown, arcing path<lineend>
 ♂ Damage undead enemies<lineend>
-♂ Throw at enemy and stun<lineend>
+♂ Throw at enemy<lineend>
 
 
 
 Grow Elixir Fruit during battle after 15s<lineend>
 Food Ingredient<lineend>
-Gem to make Magic Stone with Mana<lineend>
+Gem to make Magic Stone with Drop of Mana<lineend>
 Needed to cook with the Soup Pot<lineend>
 Needed to cook with the Frying Pan<lineend>
 Potion Ingredient<lineend>

@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0095><lineend><color=0001>Gems, gems, and more gems!<pause><lineend><CC03EA>It's time to get into the mines and dig, dig, and dig some more!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0096><lineend><color=0001>It's feels like forever since I got to try the Truck-Chase. Time to fix that!<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>It's feels like forever since I got to try the Truck Race. Time to fix that!<pause><lineend>|
 7|
 <CC03F0=009600060000001E03FF00000000>|
 8|
@@ -43,13 +43,13 @@
 21|
 <CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>We Dwarves can hear the ground singing to us!<pause><lineend>|
 22|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ... do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 24|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
 25|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*... Please select which Gem you'd like changed.<pause><lineend>|
 26|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*... That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems... ZZZ......ZZZ...<pause><lineend>|
 27|

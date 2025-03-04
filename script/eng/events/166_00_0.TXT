@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Welcome to Lowgrove!<pause><lineend><CC03EA>Feel free to say hello to any cute little goats you see wandering around.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh Milk?<pause><lineend><CC03EA>Just head out to the barn. They'll sell you some there.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>Want some Fresh Milk?<pause><lineend><CC03EA>Just head out to the goat shed. They'll sell you some there.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>I saw the milk seller's sister heading out of the village a minute ago.<pause><lineend><CC03EA>I wonder if she's all right...<lineend>She was going toward the <color=0002>Lost Forest,<color=0001> but I can't imagine she'd have gone inside...<pause><lineend>|
 3|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Aren't they just great?<lineend>They're mine, too!<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0023><lineend><color=0001>Thanks for your help!<pause><lineend><CC03EA>My big sister wants to thank you, too. She said to come by the barn.<pause><lineend>|
+<CC03EA><color=0006><string=0023><lineend><color=0001>Thanks for your help!<pause><lineend><CC03EA>My big sister wants to thank you, too. She said to come by the goat shed.<pause><lineend>|
 13|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Hi! I'll take some fresh goat's milk, please.<pause><lineend>|
 14|

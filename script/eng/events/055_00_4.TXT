@@ -11,19 +11,19 @@
 5|
 <CC03EA><color=0006><string=0095><lineend><color=0001>It's awfully shaky around here these days.<pause><lineend><CC03EA>Me, I always fancied earthquakes happen when giant rats run by underground!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0096><lineend><color=0001>That witch stole our Truck-Chase!<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>That witch stole our Truck Race!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is beckoning me! I'm out of here!<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck Race is beckoning me! I'm out of here!<pause><lineend>|
 8|
 <CC03F0=009600060000001E03FF00000000>|
 9|
-<CC03EA><color=0006><string=0097><lineend><color=0001>You're better off not going near the Truck-Chase right now.<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>You're better off not going near the Truck Race right now.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0097><lineend><color=0001>Thank goodness. Now we can enjoy the Truck-Chase again!<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Thank goodness. Now we can enjoy the Truck Race again!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=0098><lineend><color=0001>They say there's a spirit inside of every weapon the king makes.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0099><lineend><color=0001>Even the king is depressed that we can't go on the Truck-Chase anymore.<pause><lineend>|
+<CC03EA><color=0006><string=0099><lineend><color=0001>Even the king is depressed that we can't go on the Truck Race anymore.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=0099><lineend><color=0001>The king must be happy!<pause><lineend>|
 14|
@@ -45,19 +45,19 @@
 22|
 <CC03EA><color=0004><string=01C5><lineend><color=0001>Let's see... I'll buy one of those... And one of these...<pause><lineend>|
 23|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>What is the world coming to?<pause><lineend><CC03EA>A witch came along and stole the Truck-Chase, one of our only pastimes!<pause><lineend><CC03EA>Oh, will we ever be able to feel the wind in our beards again?<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>What is the world coming to?<pause><lineend><CC03EA>A witch came along and stole the Truck Race, one of our only pastimes!<pause><lineend><CC03EA>Oh, will we ever be able to feel the wind in our beards again?<pause><lineend>|
 24|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>How's your sword working for you?<pause><lineend>|
 25|
 <CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>The land always sings to us.<pause><lineend><CC03EA>The songs are about the wonders of life... the hardships, too...<pause><lineend>|
 26|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ... do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 27|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 28|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
 29|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*... Please select which Gem you'd like changed.<pause><lineend>|
 30|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*... That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems... ZZZ......ZZZ...<pause><lineend>|
 31|

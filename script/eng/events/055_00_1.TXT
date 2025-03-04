@@ -9,9 +9,9 @@
 4|
 <CC03EA><color=0006><string=0095><lineend><color=0001>Leave it to Sleepy to not let a crisis interfere with a nap.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck-Chase is on hold until that monster goes away.<pause><lineend><CC03EA>As the saying goes, it's safety first.<pause><lineend>|
+<CC03EA><color=0006><string=0096><lineend><color=0001>The Truck Race is on hold until that monster goes away.<pause><lineend><CC03EA>As the saying goes, it's safety first.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>I'd normally say to stop by the Truck-Chase and the Dwarf mine...<pause><lineend><CC03EA>...but you better stay away for now, or that terrible Spider will eat you right up!<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>I'd normally say to stop by the Truck Race and the Dwarf Mine...<pause><lineend><CC03EA>...but you better stay away for now, or that terrible Spider will eat you right up!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0098><lineend><color=0001>The king says he'll slay the spider himself.<pause><lineend><CC03EA>We're not about to let him try something so dangerous, though.<pause><lineend>|
 8|
@@ -39,13 +39,13 @@
 19|
 <CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>At times like this, it's best to make like a rock and just be still.<pause><lineend>|
 20|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ...do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ... do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
 21|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 22|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>Come again!<lineend>...ZZZ...<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*...Please select which Gem you'd like changed.<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>We can turn your Gems into Magic Stones.<pause><lineend><CC03EA>*Yawn*... Please select which Gem you'd like changed.<pause><lineend>|
 24|
 <CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*... That won't turn into a Magic Stone.<pause><lineend><CC03EA>Come see me after you've found some Gems... ZZZ......ZZZ...<pause><lineend>|
 25|
