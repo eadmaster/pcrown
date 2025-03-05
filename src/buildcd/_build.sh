@@ -62,7 +62,6 @@ find *.EVN | while read eventfile; do
 done
 
 # fix for dragon fight softlock (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/30
-#OLD: xdelta3 -f -d -s 015_00_1.EVN 015_00_1.EVN.xdelta 015_00_1.EVN.fixed
 cp 015_00_1.EVN 015_00_1.EVN.fixed
 sfk partcopy 015_00_1.EVN.eng -allfrom 0x1B20 015_00_1.EVN.fixed 0x1CE0  -yes  # -noext not supported?
 if [ $(stat -c%s 015_00_1.EVN) -eq  $(stat -c%s 015_00_1.EVN.fixed) ]; then
@@ -72,7 +71,6 @@ else
 fi
 
 # fix for softlock at Larva boss (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/88
-#OLD: xdelta3 -f -d -s 176_00_0.EVN 176_00_0.EVN.xdelta 176_00_0.EVN.fixed
 cp 176_00_0.EVN 176_00_0.EVN.fixed
 sfk partcopy 176_00_0.EVN.eng -allfrom 0x1380 176_00_0.EVN.fixed 0x19E0  -yes  # -noext not supported?
 if [ $(stat -c%s 176_00_0.EVN) -eq  $(stat -c%s 176_00_0.EVN.fixed) ]; then
@@ -82,8 +80,6 @@ else
 fi
 
 # fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
-#OLD: xdelta3 -f -d -s 041_00_1.EVN 041_00_1.EVN.xdelta 041_00_1.EVN.fixed
-#OLD: cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.fixed
 sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
 cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng
 
@@ -100,5 +96,5 @@ source _patch_signs.sh
 xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
 
 # build xdelta patch (iso)
-iat "$PATCHED_IMAGE_FILE" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
-xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
+#iat "$PATCHED_IMAGE_FILE" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
+#xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"

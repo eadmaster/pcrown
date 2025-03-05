@@ -81,11 +81,11 @@ replace_sign  pub
 replace_sign  home
 # Shop (16*11/2 = 88 bytes) -> hidden
 replace_sign  shop
-# Potions/Meds (shop) (16*11/2 = 88 bytes) -> test in 002-00, 043-01
+# Potions/Meds Shop (16*11/2 = 88 bytes) -> test in 002-00, 043-01
 replace_sign  potions_shop  VD1T.CHR  YA1C.CHR
-# Item (shop) (24*11/2 = 132 bytes)
+# Item Shop (24*11/2 = 132 bytes)
 replace_sign  item_shop
-# Item (shop) (40*11/2=220) -> test in 035-05
+# Item Shop (alt) (40*11/2=220) -> test in 035-05, 061-03
 replace_sign  item_shop2
 # Inn (shop)(16*11/2 = 88 bytes)
 replace_sign  inn
@@ -101,9 +101,9 @@ replace_sign  warp  KD3T.CHR  NE1T.CHR  VD1T.CHR  VG1T.CHR  SM1T.CHR
 replace_sign  courtyard  VD11.CHR   # TODO: TROC.CHR
 # Room (inside castle) (24*11/2 = 132) -> test in 000-04
 replace_sign  room
-# Audience Hall (inside castle) (48*11/2 = 264) -> test in 000-03
+# Audience Hall (in Valenadine Castle) (48*11/2 = 264) -> test in 000-03
 replace_sign  aud_hall
-# Audience Hall2 (48*12/2=288) -> test in 079-03
+# Audience Hall (in Volga castle) (48*12/2=288) -> test in 079-03
 replace_sign  aud_hall2
 # Floor (16*11/2 = 88) -> "F"
 replace_sign  floor
@@ -126,7 +126,7 @@ replace_sign  sidrael
 replace_sign  eriel
 # Gradriel (72*11/2=396) -> test in 000-04
 replace_sign  gradriel
-# Valenadine Castle  (96*11/2 = 528) -> test in 002-00
+# Valenadine Castle (96*11/2 = 528) -> test in 002-00
 replace_sign  val_castle
 # Empty/vacant (home) (40*11/2 = 220)  -> test in 043-00
 replace_sign  empty
@@ -136,17 +136,17 @@ replace_sign floor_sub
 replace_sign floor_top
 # port (16*11/2 = 88) -> test in 039-00
 replace_sign  port
-# edge_town (40*11/2) -> test in 061-00 (save-dependent)
+# Edge of Town (40*11/2) -> test in 061-00 (save-dependent)
 replace_sign  edge_town
-# (underground) dungeon (88*12/2) -> test in 000-06
+# (underground) Dungeon (88*12/2) -> test in 000-06
 replace_sign  dungeon
-# witch's (40*11/2=220) -> test in 150-00 as proserpina
+# Witch's (40*11/2=220) -> test in 150-00 (Proserpina book)
 replace_sign  witch
-# Old (hut) (40*11/2=220) -> test in 153-00 as gradriel
+# Old (Hut) (40*11/2=220) -> test in 153-00 (Gradriel book)
 replace_sign  old
 # Hut (24*11/2=132) -> test in 150-00
 replace_sign  hut
-# ?? (mysterious) shop  (40*11/2=220) -> test in 152-00
+# ?? (mysterious) Shop  (40*11/2=220) -> test in 152-00
 replace_sign  mysterious
 # inn_room (24*11/2=132) -> test in 055-00
 replace_sign  inn_room
@@ -243,6 +243,7 @@ sfk setbytes VG1T.PAK 0x58 0x00206C98280c000E -yes  #Volga Bakery segment entry
 sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # width to 32px x 12px
 sfk setbytes NB1T.PAK 0x64 0x280c -yes  # width to 32px x 12px
 sfk replace -binary /1205050505041204004B/1406130613051405004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK
+# TODO: resize frames -> prevent conflict with Inn in VG1T.PAK LL1T.PAK NB1T.PAK
 
 # item_shop
 sfk setbytes RL1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
@@ -256,25 +257,36 @@ sfk setbytes VG1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes YA1C.PAK 0x9C 0x300c -yes  # size 24x11->48x12
 #sfk setbytes RL1T.PAK 0x224 0x00031705180518061706 -yes  # change texture size
 sfk replace -binary /1105060506051105004B/1705180518061706004B/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
-#sfk setbytes RL1T.PAK 0x200 0x40221b0C220C220C1b0C000A -yes  #R frame coords
+#sfk setbytes RL1T.PAK 0x200 0x40221b0C220C220C1b0C000A -yes  # R frame coords
 sfk replace -binary /150C1C0C1C0C150C000A/1b0C220C220C1b0C000A/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
-#sfk setbytes RL1T.PAK 0x20c 0x4021190C1a0C1a0C190C004B -yes  #C frame coords
+#sfk setbytes RL1T.PAK 0x20c 0x4021190C1a0C1a0C190C004B -yes  # C frame coords
 sfk replace -binary /130C140C140C130C004B/190C1a0C1a0C190C004B/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
-#sfk setbytes RL1T.PAK 0x218 0x4020210C1a0C1a0C210C005F -yes  #L frame coords
+#sfk setbytes RL1T.PAK 0x218 0x4020210C1a0C1a0C210C005F -yes  # L frame coords
 sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
 # TODO: check multi-matches in KD2T.PAK NB1T.PAK, GB1T.PAK, VG1T.PAK
 # TODO: no matches for the frames in YA1C.PAK?
 
-# TODO: item_shop2
-#sfk setbytes CAVE.PAK ...
-#sfk setbytes DG1C.PAK ...
-#sfk setbytes DG2C.PAK ...
-#sfk setbytes DG3C.PAK ...
-#sfk setbytes EE1C.PAK ...
-#sfk setbytes GS1C.PAK ...
-#sfk setbytes KG1C.PAK ...
-#sfk setbytes MO1C.PAK ...
-#sfk setbytes VD17.PAK ...
+# item_shop2  -> test in 035-05, 061-03
+sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK GS1C.PAK KG1C.PAK MO1C.PAK VD17.PAK   # size 40x11->48x12
+#sfk setbytes CAVE.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG2C.PAK 0x124 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG3C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes EE1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes GS1C.PAK 0x17c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes KG1C.PAK 0x15c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes MO1C.PAK 0x16c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes VD17.PAK 0xA4 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG2C.PAK 0x5b0 0x001C1805170517061806004B -yes  # segment coords
+sfk replace -binary /1105160516051105004B/1805170517061806004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # segment coords
+# TODO: missing in GS1C.PAK KG1C.PAK VD17.PAK
+#sfk setbytes DG2C.PAK 0x58c 0x40191B0D1B0D1B0C1B0C004B -yes  # C frame coords
+sfk replace -binary /150D150D150C150C004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # C frame coords
+#sfk setbytes DG2C.PAK 0x598 0x4018230D1C0D1C0C230C005F -yes  # L frame coords
+sfk replace -binary /1D0D160D160C1D0C005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # L frame coords
+#sfk setbytes DG2C.PAK 0x5a4 0x401A1C0D230D230C1C0C000A -yes  # R frame coords
+sfk replace -binary /160D1D0D1D0C160C000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # R frame coords
+# TODO: missing in DG1C.PAK EE1C.PAK MO1C.PAK
 
 # potions_shop -> test in 002-00, 043-01
 sfk setbytes VD1T.PAK 0xa8  0x0020EEC8400c0070 -yes  # size 16x11->64x12
@@ -379,7 +391,7 @@ sfk setbytes VG11.PAK 0x220 0x00070905200520050905000a -yes  # recentering
 sfk setbytes DC1T.PAK 0x3B4 0x00100D050A050A050D05004B  -yes  # recentering
  
 # Valenadine Castle -> test in 002-00
-sfk setbytes VD1T.PAK 0x29C 0x00052F05300530052F05004B -yes  # recentering
+sfk setbytes VD1T.PAK 0x29C 0x00052E05310531052E05004B -yes  # recentering
 
 # Volga Castle -> test in 081-00
 sfk setbytes VG1T.PAK 0x31C 0x000720051F051F052005004B -yes  # recentering
@@ -468,14 +480,26 @@ sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes LL1T.PAK 0x224 0x00051C051B051B051C05004B -yes  # coords
 sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # Hut coords blanked
 
-# Inn -> test in 004-00, ...
+# Inn -> test in 004-00, 012-00, 043-00
 #python _move_pak_texture.py WN1C.PAK 208 4 0
 sfk setbytes WN1C.PAK 0x140 0x00060705080508050705004B -yes  # Inn (inside the pub) recenter 
-sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
+sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -firsthit -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
+# MEMO: frame resizing conflicts with Bakery and Items Shop, do not execute before them
+#sfk replace -binary /1B0C140C140C1B0C005F/150C0E0C0E0C150C005F/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # L frame
+#sfk replace -binary /130C140C140C130C004B/0D0C0F0C0F0C0D0C004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # C frame
+#sfk replace -binary /150C1C0C1C0C150C000A/100C170C170C100C000A/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # R frame
 
 # Old (hut) -> test in 153-00 as gradriel
 sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
 # NO? DC1T.PAK
+
+# Edge of Town -> test in 061-00 (save-dependent)
+sfk setbytes NE1T.PAK 0x84 0x480c -yes  # entry dimensions 40x11->72x12
+sfk setbytes NE1T.PAK 0x2a0 0x00082405230523062406004B -yes  # segment coords
+#sfk setbytes NE1T.PAK 0x2ae 0x0000000000000000 -yes  # 'He' kana coords blanked
+sfk setbytes NE1T.PAK 0x27c 0x400D250C2C0C2C0C250C000A -yes  # R frame coords
+sfk setbytes NE1T.PAK 0x288 0x400C250C240C240C250C004B -yes  # C frame coords
+sfk setbytes NE1T.PAK 0x294 0x400B2D0C260C260C2D0C005F -yes  # L frame coords 
 
 
 ## more gfx hacks
