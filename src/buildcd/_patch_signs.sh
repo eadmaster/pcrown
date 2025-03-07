@@ -202,9 +202,9 @@ replace_sign  elfaran
 replace_sign  room_guest
 # "he" kana (8*5/2=20) -> test in 055-00, cleared
 replace_sign  he_kana2
-# artist (24*11/2=132) -> test in 039-03 (save-dependent)
+# artist (Mansion) (24*11/2=132) -> test in 039-00, 039-03 (save-dependent)
 replace_sign  artist
-# 's house (24*11/2=132) -> test in 039-03 (save-dependent)
+# 's house (Mansion) (24*11/2=132) -> test in 039-00, 039-03 (save-dependent)
 replace_sign  shouse
 # Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
 replace_sign  magic_meadow
@@ -240,10 +240,13 @@ sfk setbytes LL1T.PAK 0x2a0 0x0D050D  -yes  # change texture size
 
 # Bakery -> test in 004-00, 026-00, 081-00
 sfk setbytes VG1T.PAK 0x58 0x00206C98280c000E -yes  #Volga Bakery segment entry
-sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # width to 32px x 12px
-sfk setbytes NB1T.PAK 0x64 0x280c -yes  # width to 32px x 12px
-sfk replace -binary /1205050505041204004B/1406130613051405004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK
-# TODO: resize frames -> prevent conflict with Inn in VG1T.PAK LL1T.PAK NB1T.PAK
+sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # width to 32x12px
+sfk setbytes NB1T.PAK 0x64 0x280c -yes  # width to 32x12px
+sfk replace -binary /1205050505041204004B/1406130613051405004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # coords
+# resize frames -> prevent conflict with Inn in VG1T.PAK LL1T.PAK NB1T.PAK
+sfk replace -binary /1B0C140C140C1B0C005F/230D1C0D1C0C230C005F/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # l frame
+sfk replace -binary /130C140C140C130C004B/1B0D1B0D1B0C1B0C004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # c frame
+sfk replace -binary /150C1C0C1C0C150C000A/1C0D230D230C1C0C000A/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # r frame
 
 # item_shop
 sfk setbytes RL1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
@@ -305,9 +308,9 @@ sfk replace -binary /0D05020502050D05004B/20051f051f062006004B/ -yes -firsthit -
 # gem_shop -> test in 055-00
 sfk setbytes DC1T.PAK 0xb0 0x00201138300c000E -yes  # size 40x11->48x12
 sfk setbytes DC1T.PAK 0x354 0x000E1705180518061706004B -yes  # segment entry
-sfk setbytes DC1T.PAK 0x330 0x40141B0C220C220C1B0C000A -yes  #R frame coords
-sfk setbytes DC1T.PAK 0x33c 0x40131A0C1A0C1A0C1A0C004B -yes  #C frame coords
-sfk setbytes DC1T.PAK 0x348 0x4012220C1B0C1B0C220C005F -yes  #L frame coords
+sfk setbytes DC1T.PAK 0x330 0x40141B0C220C220C1B0C000A -yes  # R frame coords
+sfk setbytes DC1T.PAK 0x33c 0x40131A0C1A0C1A0C1A0C004B -yes  # C frame coords
+sfk setbytes DC1T.PAK 0x348 0x4012220C1B0C1B0C220C005F -yes  # L frame coords
 # TODO: also in DC1C ?
 
 # gem_shop2 -> test in 081-00
@@ -364,10 +367,8 @@ sfk setbytes VD14.PAK 0x216 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 
 # Kwein's Room
 sfk setbytes VD14.PAK 0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
-#TODO: resize the frames
-#sfk setbytes EE1C.PAK  0x252  0x14062b062b041404 -yes  # room
-#sfk setbytes EE1C.PAK  0x252  0x200d2e0d2e0c200c -yes  # center frame
-#sfk setbytes EE1C.PAK  0x25E  0x280d210d210c280c -yes  # left frame
+#python _move_pak_texture.py VD14.PAK 250 -4 0
+sfk setbytes VD14.PAK 0x250 0x00080E06250625040E04000A -yes  # recentering: move Room left 3px  
 
 # Gradriel's Room  -> test in 000-04
 sfk setbytes VD14.PAK 0x130 0x000815062c062c041504000a -yes  # recentering: move Room left 10px
@@ -384,7 +385,9 @@ sfk setbytes VD14.PAK 0x1CE 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 # Jadis' Room  -> test in 079-03
 # python _move_pak_texture.py VG11.PAK 220 -15 0
 sfk setbytes VG11.PAK 0x220 0x00070905200520050905000a -yes  # recentering
-#TODO: resize the frames
+sfk setbytes VG11.PAK 0x20A 0x2c0C250C250C2c0C005F -yes  # L frame (72x12) TODO: add more padding
+sfk setbytes VG11.PAK 0x1FE 0x240C240C240C240C004B -yes  # C frame (72x12) TODO: add more padding
+sfk setbytes VG11.PAK 0x1F2 0x250C2C0C2C0C250C000A -yes  # R frame (72x12) TODO: add more padding
  
 # Mine  -> test in 055-00
 # python _move_pak_texture.py DC1T.PAK 3B4 5 0
@@ -485,11 +488,11 @@ sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # Hut coords blanked
 sfk setbytes WN1C.PAK 0x140 0x00060705080508050705004B -yes  # Inn (inside the pub) recenter 
 sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -firsthit -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
 # MEMO: frame resizing conflicts with Bakery and Items Shop, do not execute before them
-#sfk replace -binary /1B0C140C140C1B0C005F/150C0E0C0E0C150C005F/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # L frame
-#sfk replace -binary /130C140C140C130C004B/0D0C0F0C0F0C0D0C004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # C frame
-#sfk replace -binary /150C1C0C1C0C150C000A/100C170C170C100C000A/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # R frame
+sfk replace -binary /1B0C140C140C1B0C005F/150C0E0C0E0C150C005F/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # L frame
+sfk replace -binary /130C140C140C130C004B/0D0C0F0C0F0C0D0C004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # C frame
+sfk replace -binary /150C1C0C1C0C150C000A/100C170C170C100C000A/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # R frame
 
-# Old (hut) -> test in 153-00 as gradriel
+# Old (hut) -> test in 153-00 as Gradriel
 sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
 # NO? DC1T.PAK
 
@@ -500,6 +503,43 @@ sfk setbytes NE1T.PAK 0x2a0 0x00082405230523062406004B -yes  # segment coords
 sfk setbytes NE1T.PAK 0x27c 0x400D250C2C0C2C0C250C000A -yes  # R frame coords
 sfk setbytes NE1T.PAK 0x288 0x400C250C240C240C250C004B -yes  # C frame coords
 sfk setbytes NE1T.PAK 0x294 0x400B2D0C260C260C2D0C005F -yes  # L frame coords 
+
+# ?? (mysterious) Shop  -> test in 152-00
+#python _move_pak_texture.py GB1T.PAK 530 -3 0
+sfk setbytes GB1T.PAK 0x530 0x000D1405130513051405004B -yes  # recenter
+
+# Desert -> test in 031-00
+sfk setbytes AT1T.PAK 0x1FE 0x1C0D230D230C1C0C000A -yes  # R frame coords
+sfk setbytes AT1T.PAK 0x20A 0x1B0D1B0D1B0C1B0C004B -yes  # C frame coords
+sfk setbytes AT1T.PAK 0x216 0x230D1C0D1C0C230C005F -yes  # L frame coords 
+
+# Truck Race  -> test in 055-00
+#python _move_pak_texture.py DC1T.PAK 3B4 3 0
+sfk setbytes DC1T.PAK 0x2BA 0x250C2C0C2C0C250C000A -yes  # R frame coords
+sfk setbytes DC1T.PAK 0x2C6 0x240C240C240C240C004B -yes  # C frame coords
+sfk setbytes DC1T.PAK 0x2D2 0x2C0C250C250C2C0C005F -yes  # L frame coords 
+# python _move_pak_texture.py DC1T.PAK 2f4 5 0
+sfk setbytes DC1T.PAK 0x2F4 0x00173204030403053205005F -yes  # move "Truck" left 5px
+
+# Dungeon  -> test in 000-06
+sfk setbytes VD16.PAK 0x92 0x1E0C250C250C1E0C000A -yes  # R frame coords
+sfk setbytes VD16.PAK 0x9E 0x1C0C1D0C1D0C1C0C004B -yes  # C frame coords
+sfk setbytes VD16.PAK 0xAA 0x240C1D0C1D0C240C005F -yes  # L frame coords 
+
+#NO? Tower -> test in 036-00
+#sfk setbytes RC1C.PAK 0x19E 0x1C0D230D230C1C0C000A -yes  # R frame coords 
+#sfk setbytes RC1C.PAK 0x1AA 0x1B0D1B0D1B0C1B0C004B -yes  # C frame coords 
+#sfk setbytes RC1C.PAK 0x1B6 0x230D1C0D1C0C230C005F -yes  # L frame coords 
+#TODO: MR1C.PAK  # tower2 -> 094-00 as Portgus
+
+# Goblin Market  -> test in 010-00
+# TODO: reframe (112*11/2=616)
+
+# Mansion -> test in 039-00, 039-03 (save-dependent)
+# TODO: merge into a single part
+
+# Witch's House
+# TODO: merge into a single part
 
 
 ## more gfx hacks

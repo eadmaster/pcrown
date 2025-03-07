@@ -71,7 +71,7 @@
 35|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Oh reeeally...<lineend>What's it like?<pause><lineend>|
 36|
-<CC03EA><color=0004><string=0184><lineend><color=0001>It's a cabin in the woods, and nobody lives in it!<pause><lineend>|
+<CC03EA><color=0004><string=0184><lineend><color=0001>It's a hut in the woods, and nobody lives in it!<pause><lineend>|
 37|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Let's go check it out, then! Lead the way, Gabriel!<pause><lineend>|
 38|

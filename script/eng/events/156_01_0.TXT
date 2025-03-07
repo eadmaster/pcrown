@@ -5,7 +5,7 @@
 2|
 <CC03FA=0002000300000000000003FF000A003C0000>|
 3|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hey! I remember you!!<lineend>...<pause><lineend><CC03EA>...<lineend>Er...What was your name?<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey! I remember you!!<lineend>...<pause><lineend><CC03EA>...<lineend>Er... What was your name?<pause><lineend>|
 4|
 <CC03EA><color=0004><string=017C><lineend><color=0001>It's Gradriel.<pause><lineend>|
 5|
@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0004><string=018D><lineend><color=0001>I don't suppose you're up to any mischief, are you?<pause><lineend>|
 9|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hmm...Heh heh heh!<pause><lineend><CC03EA>Uh...<lineend>Of course not!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hmm... Heh heh heh!<pause><lineend><CC03EA>Uh...<lineend>Of course not!<pause><lineend>|
 10|
 <CC03EA><color=0004><string=017C><lineend><color=0001>If you say so, then I guess everything is fine...<pause><lineend>|
 11|

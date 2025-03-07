@@ -27,9 +27,9 @@
 13|
 <CC03EA><color=0006><string=0004><lineend><color=0003>Would you be willing to get the "Broken Sword" out of the Sword Mines for me?<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
 14|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Whoa! Thank you!!<pause><lineend><CC03EA>I promised I'd give you something in return, didn't I?<pause><lineend><CC03EA>Go into the cabin in the woods south of town.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Whoa! Thank you!!<pause><lineend><CC03EA>I promised I'd give you something in return, didn't I?<pause><lineend><CC03EA>Go into the hut in the woods south of town.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Did you stop by the cabin in the south woods?<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Did you stop by the hut in the south woods?<pause><lineend>|
 16|
 <CC03EA><color=0006><string=000A><lineend><color=0001>I'm so proud of this boy of mine. He's always looked after his parents.<pause><lineend>|
 17|
@@ -93,7 +93,7 @@
 46|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 47|
-<CC03EA><color=0006><string=0051><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 48|
 <CC03EA><CC03FC=0004><string=0051><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 49|

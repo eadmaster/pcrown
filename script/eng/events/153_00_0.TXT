@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, look at this. A cabin! I had no idea this was here.<pause><lineend><CC03EA>Why, this isn't bad at all!<pause><lineend><CC03EA>OK, it's official. I'm turning this place into my hideout!<pause><lineend><CC03EA>First things first. Better clean up and get everything ready!<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>Hey, look at this. A hut! I had no idea this was here.<pause><lineend><CC03EA>Why, this isn't bad at all!<pause><lineend><CC03EA>OK, it's official. I'm turning this place into my hideout!<pause><lineend><CC03EA>First things first. Better clean up and get everything ready!<pause><lineend>|
 1|
 <CC03EA><color=0004><string=0184><lineend><color=0001>Proserpina, you're going the wrong way!<pause><lineend>|
 2|

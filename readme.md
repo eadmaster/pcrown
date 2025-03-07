@@ -5,7 +5,7 @@
 
 > [!NOTE]
 > Reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
-Btw since this was originally [released with a GPL-2.0 license](https://github.com/eadmaster/pcrown/blob/master/LICENSE), i'd like to exercise my right to keep working on this and make improvements.**
+Btw since this was originally [released with a GPL-2.0 license](https://github.com/eadmaster/pcrown/blob/master/LICENSE), i'd like to exercise my right to keep working on this and make improvements.
 
 
 ## Current status
@@ -59,8 +59,8 @@ Contact me via discord or forums if you can contribute or have issues to report 
 In chronological order:
 
  - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
- - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/)  (playtesting and bug reports)
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
+ - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/) (playtesting and bug reports)
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of Engrish and script fixes, gfx hacking)
