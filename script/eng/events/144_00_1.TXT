@@ -43,7 +43,7 @@
 21|
 <CC03EA><color=0006><string=01CB><lineend><color=0001>I teach magic to young people here.<pause><lineend><CC03EA>Seeing my students graduate and go out into the world is the best part of my life.<pause><lineend>|
 22|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to the Witch's Magic Shop. What can I do for you today?<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 24|

@@ -21,7 +21,7 @@
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's from your ancestor?<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=00E4><lineend><color=0001>It is. I shall read it aloud.<pause><lineend><CC03EA>"To my heir: This trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach this point...<pause><lineend><CC03EA>...then I am sure that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded.<lineend>It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the Silver Sorceress that I was able to defeat my enemy.<pause><lineend><CC03EA>For as long as you live, remember this: The Wizards are friends to rely upon."<pause><lineend>|
+<CC03EA><color=0004><string=00E4><lineend><color=0001>It is. I shall read it aloud.<pause><lineend><CC03EA>"To my heir: this trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach this point...<pause><lineend><CC03EA>...then I am sure that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded.<lineend>It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the Silver Sorceress that I was able to defeat my enemy.<pause><lineend><CC03EA>For as long as you live, remember this: The Wizards are friends to rely upon."<pause><lineend>|
 131082|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It's just as it says in the letter.<pause><lineend><CC03EA>Your ancestors wanted you and the Wizards to get along.<pause><lineend>|
 131083|

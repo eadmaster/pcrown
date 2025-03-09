@@ -9,7 +9,7 @@
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>There's something we want to know.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>...and you better answer, or I'll put a fairy-curse on you!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>...and you better answer, or I'll put a fairy curse on you!<pause><lineend>|
 65542|
 <CC03EA><color=0005><string=0130><lineend><color=0001>Get on with it then!<pause><lineend>|
 65543|

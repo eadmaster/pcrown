@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>At least the earthquake didn't cause a tsunami.<pause><lineend><CC03EA>One of those would have completely wrecked the harbor.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=000E><lineend><color=0001>You think they felt it over in Volga?<pause><lineend><CC03EA>Those people are so superstitious, they're probably running around saying "Gaia" is mad at them.<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>You think they felt it over in Volga?<pause><lineend><CC03EA>Those people are so superstitious, they're probably running around saying Gaia is mad at them.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=003B><lineend><color=0001>Hello!<pause><lineend>|
 3|

@@ -140,8 +140,8 @@ replace_sign  port
 replace_sign  edge_town
 # (underground) Dungeon (88*12/2) -> test in 000-06
 replace_sign  dungeon
-# Witch's (40*11/2=220) -> test in 150-00 (Proserpina book)
-replace_sign  witch
+# Witch's House (40*11/2=220) -> test in 150-00 (Proserpina book)
+replace_sign  witch  MJ1C.CHR
 # Old (Hut) (40*11/2=220) -> test in 153-00 (Gradriel book)
 replace_sign  old
 # Hut (24*11/2=132) -> test in 150-00
@@ -210,11 +210,11 @@ replace_sign  shouse
 replace_sign  magic_meadow
 # Last (Pub/Tavern) (40*11/2=220) -> test in 083-00
 replace_sign  last
-# Old (Cave) (24*11/2=132) -> test in 087-00 (Edward book)
+# Ancient Cave (24*11/2=132) -> test in 087-00 (Edward book)
 replace_sign  old2
-# (Old) Cave (24*11/2=132) -> test in 087-00 (Edward book)
+# (Ancient) Cave (24*11/2=132) -> test in 087-00 (Edward book) -> hidden
 replace_sign  cave2
-# (Lost) Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
+# Lost Forest (48*11/2=264) -> test in 166-00 (Proserpina book)
 replace_sign  lost_forest  LL1T.CHR
 
 
@@ -446,7 +446,7 @@ sfk setbytes VD11.PAK 0x298 0x4018240C1D0C1D0C240C005F -yes  # L frame coords
 #sfk setbytes TROC.PAK 0x28c 0x??? -yes  # C frame coords
 #sfk setbytes TROC.PAK 0x298 0x??? -yes  # L frame coords
 
-# lost_forest  -> test in 166-00 (Proserpina book)
+# Lost Forest  -> test in 166-00 (Proserpina book)
 sfk setbytes LL1T.PAK 0x7c 0x40 -yes  # entry dimensions 48x11->64x11
 sfk setbytes LL1T.PAK 0x2d8 0x000720051F051F052005004B -yes  # coords
 # TODO: also in DC1T ?
@@ -481,7 +481,7 @@ sfk setbytes MO1C.PAK 0x26c 0x00130c050b050b050c05004B -yes  # coords
 # Goat Shed  -> test in 026-00
 sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes LL1T.PAK 0x224 0x00051C051B051B051C05004B -yes  # coords
-sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # Hut coords blanked
+sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # 'Hut' coords blanked
 
 # Inn -> test in 004-00, 012-00, 043-00
 #python _move_pak_texture.py WN1C.PAK 208 4 0
@@ -532,14 +532,35 @@ sfk setbytes VD16.PAK 0xAA 0x240C1D0C1D0C240C005F -yes  # L frame coords
 #sfk setbytes RC1C.PAK 0x1B6 0x230D1C0D1C0C230C005F -yes  # L frame coords 
 #TODO: MR1C.PAK  # tower2 -> 094-00 as Portgus
 
-# Goblin Market  -> test in 010-00
-# TODO: reframe (112*11/2=616)
+# Goblin Market  -> test in 154-00
+sfk setbytes MR1C.PAK 0x486 0x2C0D330D330C2C0C000A -yes  # R frame coords
+sfk setbytes MR1C.PAK 0x492 0x2b0D2b0D2b0C2b0C004B -yes  # C frame coords
+sfk setbytes MR1C.PAK 0x49E 0x330D2C0D2C0C330C005F -yes  # L frame coords
+
+# Goblin Market2  -> test in 010-00
+sfk setbytes RC1C.PAK 0xF6 0x2C0D330D330C2C0C000A -yes  # R frame coords
+sfk setbytes RC1C.PAK 0x102 0x2b0D2b0D2b0C2b0C004B -yes  # C frame coords
+sfk setbytes RC1C.PAK 0x10E 0x330D2C0D2C0C330C005F -yes  # L frame coords
 
 # Mansion -> test in 039-00, 039-03 (save-dependent)
 # TODO: merge into a single part
 
-# Witch's House
-# TODO: merge into a single part
+# Ancient Cave  -> test in 087-00 (Edward book)
+sfk setbytes RC1C.PAK 0x9C 0x480c -yes  # entry dimensions 24x11->72x12
+sfk setbytes RC1C.PAK 0x186 0x2405230523062406004B -yes  # segment coords
+sfk setbytes RC1C.PAK 0x192 0x0000000000000000 -yes  # 'Cave' segment blanked
+sfk setbytes RC1C.PAK 0x162 0x250C2C0C2C0C250C000A -yes  # R frame coords
+sfk setbytes RC1C.PAK 0x16E 0x250C240C240C250C004B -yes  # C frame coords
+sfk setbytes RC1C.PAK 0x17A 0x2D0C260C260C2D0C005F -yes  # L frame coords 
+
+# Witch's House  -> test in 150-00 (Proserpina book)
+sfk setbytes MJ1C.PAK 0xE4 0x480c -yes  # entry dimensions 72x12
+sfk setbytes MJ1C.PAK 0x242 0x2405230523062406004B -yes  # segment coords
+sfk setbytes MJ1C.PAK 0x24E 0x0000000000000000 -yes  # 'Hut' segment blanked
+sfk setbytes MJ1C.PAK 0x21E 0x250C2C0C2C0C250C000A -yes  # R frame coords
+sfk setbytes MJ1C.PAK 0x22A 0x250C240C240C250C004B -yes  # C frame coords
+sfk setbytes MJ1C.PAK 0x236 0x2D0C260C260C2D0C005F -yes  # L frame coords 
+# TODO  DC1T.PAK?
 
 
 ## more gfx hacks

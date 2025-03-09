@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>Aaaah ha ha ha ha!!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>Aaaah ha ha ha ha!!<pause><lineend><CC03EA>Welcome to the Witch's Magic Shop. What can I do for you today?<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=01B8><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 2|

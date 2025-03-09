@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=000B><lineend><color=0001>That was terrifying!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to Granny's Magic Shop. What can I do for you today?<pause><lineend>|
+<CC03EA><color=0006><string=01B7><lineend><color=0001>Hee hee!<pause><lineend><CC03EA>Welcome to the Witch's Magic Shop. What can I do for you today?<pause><lineend>|
 10|
 <CC03EA><CC03FC=0004><string=01B7><color=0001><choose>Buy<lineend>Sell<lineend>Quit<lineend><endchoose>|
 11|

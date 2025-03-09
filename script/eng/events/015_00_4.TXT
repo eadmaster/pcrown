@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=004C><lineend><color=0001>Anybody who's good at fighting is also good at using items.<pause><lineend><CC03EA>After all, being stingy with items just makes battles take longer.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=004D><lineend><color=0001>Want me to teach you my brilliant new technique?<pause><lineend><CC03EA>First, step back from your opponent and miss one strike on purpose.<pause><lineend><CC03EA>The enemy will see that you missed and come at you...<pause><lineend><CC03EA>...and that's when you hit him with your desperation attack!<pause><lineend><CC03EA>I call this move <color=0002>"The Chisel."<color=0001><pause><lineend>|
+<CC03EA><color=0006><string=004D><lineend><color=0001>Want me to teach you my brilliant new technique?<pause><lineend><CC03EA>First, step back from your opponent and miss one strike on purpose.<pause><lineend><CC03EA>The enemy will see that you missed and come at you...<pause><lineend><CC03EA>...and that's when you hit him with your desperation attack!<pause><lineend><CC03EA>I call this move <color=0002>"The Chisel".<color=0001><pause><lineend>|
 8|
 <CC03EA><color=0006><string=0029><lineend><color=0001>We'll never let those Dragons get the best of us!<pause><lineend>|
 9|

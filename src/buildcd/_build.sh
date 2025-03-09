@@ -1,14 +1,12 @@
 #!/bin/bash
 
 # Main patching script
-# Made by eadmaster for the Princess Crown Translation GPL Edition project  https://github.com/eadmaster/pcrown/
+# Made by eadmaster for the Princess Crown Translation GPL Edition  https://github.com/eadmaster/pcrown/
 
 # Requirements:
 # - apt install iat  p7zip-full  xdelta3  wine  python3  iconv
 # - cd-replace (manual install) https://github.com/mistydemeo/cd-replace
 # - skf (manual install)  https://sourceforge.net/projects/swissfileknife/
-# - eventeditor.exe (build via ../eventeditor/_build.sh)
-# - itemsutil.exe (build via ../itemsutil/_build.sh)
 
 #export CD_PATH=../../cd
 export TRANSLATED_SCRIPT_PATH=../../script/eng
