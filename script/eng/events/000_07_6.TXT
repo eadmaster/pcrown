@@ -65,7 +65,7 @@
 196609|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic stones!<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous your Highness!<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous, your Highness!<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>He's gone!! What happened!?<pause><lineend>|
 196612|
@@ -77,7 +77,7 @@
 196615|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Magical Time Stone, hear me.<lineend>Banish this demon!<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>Sir Glowstar! There was no time...<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>...Golgotha, you were too hasty...<pause><lineend>|
 196617|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time Stone, your Highness.<lineend><pause><CC03EA>I had read before that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the Demon have been sent somewhere else in time.<pause><lineend>|
 196618|

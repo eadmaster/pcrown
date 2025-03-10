@@ -12,8 +12,7 @@ Btw since this was originally [released with a GPL-2.0 license](https://github.c
 
  - All story events, items and names translated
    - using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - All doorway signs are translated
-   - some were shortened to fit into the available space, or need recentering: https://github.com/eadmaster/pcrown/issues/102
+ - All doorway signs are translated: https://github.com/eadmaster/pcrown/issues/102
  - All book/scenarios fully tested and crash-free
    - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
 
@@ -63,5 +62,5 @@ In chronological order:
  - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/) (playtesting and bug reports)
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
- - [Mentil](https://github.com/mentill) (lot of Engrish and script fixes, gfx hacking)
+ - [Mentil](https://github.com/mentill) (lot of Engrish and script fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering)
  

@@ -77,7 +77,7 @@
 196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Ok... <pause><lineend>|
 196619|
-<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=0129000B000103FF>If only..<lineend><CC03ED=0129000A000103FF><pause><CC03EA><CC03ED=0129000B000103FF>I were Queen <lineend>this won't happen.<lineend><CC03ED=0129000A000103FF><pause>|
+<CC03EA><color=0004><string=0129><lineend><color=0001><CC03ED=0129000B000103FF>If only..<lineend><CC03ED=0129000A000103FF><pause><CC03EA><CC03ED=0129000B000103FF>I were Queen this wouldn't happen<lineend><CC03ED=0129000A000103FF><pause>|
 196620|
 <CC03EA><color=0004><string=0129><lineend><color=0001>What..?<pause><lineend>|
 196621|

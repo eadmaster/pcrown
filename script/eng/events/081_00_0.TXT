@@ -23,7 +23,7 @@
 11|
 <CC03EA><color=0006><string=0004><lineend><color=0001>I'm worried about my dear old Mother, so I've hurried back here from Sagon.<pause><lineend>|
 12|
-<CC03EA><color=0006><string=0004><lineend><color=0001>Say, I was just wondering...<pause><lineend><CC03EA><color=0001>Would you be willing to <color=0003>go to the Sword Mines and get me the Broken Sword?<pause><lineend><CC03EA>A long time ago, my friend and I used to play Knights with it.<pause><lineend><CC03EA>You might say it's got a lot of memories tied to it.<pause><lineend><CC03EA>Trouble is, I dropped it on my way here from Sagon.<pause><lineend><CC03EA>I heard about how you saved Castle Volga, and I realized you'd be perfect for the job.<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>Say, I was just wondering...<pause><lineend><CC03EA><color=0001>Would you be willing to <color=0003>go to the Sword Mines and get me the Broken Sword?<pause><lineend><CC03EA>A long time ago, my friend and I used to play knights with it.<pause><lineend><CC03EA>You might say it's got a lot of memories tied to it.<pause><lineend><CC03EA>Trouble is, I dropped it on my way here from Sagon.<pause><lineend><CC03EA>I heard about how you saved Castle Volga, and I realized you'd be perfect for the job.<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
 13|
 <CC03EA><color=0006><string=0004><lineend><color=0003>Would you be willing to get the Broken Sword out of the Sword Mines for me?<pause><lineend><CC03EA>If you do it, I'll let you in on something really good.<pause><lineend>|
 14|
