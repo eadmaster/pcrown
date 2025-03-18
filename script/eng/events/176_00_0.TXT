@@ -1,18 +1,18 @@
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Larva,I'll..<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>This is the... God of Darkness...<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>stop this now!  <pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm going to stop this right here!<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Larva, YOU were<lineend>the God of  <lineend><pause><CC03EA>Darkness?    <lineend>You deceived me!<lineend><pause>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Larva, you were the God of Darkness?<lineend>YOU deceived me this whole time!?<lineend><pause><CC03EA>I have regained my human heart.<lineend>You will no longer do as you wish.<lineend><pause>|
 65539|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Even so, you<pause><lineend><CC03EA>won't harm   <lineend>Sidrael... <pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Even if you're a God...<pause><lineend><CC03EA>I won't let you harm Sidrael in this world!<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Hah...<pause><lineend><CC03EA>My strengthÅI<pause><lineend><CC03EA>Fading..<lineend>Please..<lineend>Save Sidrael! <pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Guh-hah...<pause><lineend><CC03EA>Damn, my strength is fading away!<pause><lineend><CC03EA>...O Goddess of Light.<lineend>Save this world...<lineend>Please save Sidrael...<pause><lineend>|
 131072|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Larva is...  <pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Part of Larva's body...<lineend>It's...<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=0101><lineend><color=0001>Gradriel,<lineend>The Goddess is<pause><lineend><CC03EA>at your side!   <pause><lineend>|
+<CC03EA><color=0004><string=0101><lineend><color=0001>Gradriel... The Goddess is at your side!<pause><lineend><CC03EA>Unleash the power of your crown!<pause><lineend>|
 131074|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Mom!?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Mother!?<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Vanquish darkness...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Goddess of Light, I beseech you! Vanquish the darkness!<pause><lineend>|

@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>How about telling us what kind of little girl talks like a grisly old bandit?<pause><lineend>|
 65539|
-<CC03EA><color=0006><string=002E><lineend><color=0001>Argh... I've been spotted!<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>Argh... I've been found out!<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>There's something we want to know.<pause><lineend>|
 65541|

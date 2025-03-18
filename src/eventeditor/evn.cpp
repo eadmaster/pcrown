@@ -650,7 +650,13 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
          index += DoCommandParse(cmd, "CMD75", evn_buf+index, 0, count_events, null_list_func, command);
          break;
       case 0x76: // ??
-         index += DoCommandParse(cmd, "CMD76", evn_buf+index, 6, count_events, null_list_func, command);
+         #ifdef NEW_FIXES
+            // fix for https://github.com/eadmaster/pcrown/issues/88
+            puts("CMD76 found");
+            index += DoCommandParse(cmd, "CMD76", evn_buf+index, 5, count_events, null_list_func, command);
+         #else
+            index += DoCommandParse(cmd, "CMD76", evn_buf+index, 6, count_events, null_list_func, command);
+         #endif
          break;
       case 0x77: // ??
          index += DoCommandParse(cmd, "CMD77", evn_buf+index, 0, count_events, null_list_func, command);
@@ -839,8 +845,16 @@ int EVNLoadFile(const char *filename)
                   num_commands++;
                }
 
-               if (i != list_size-1 && (index+2) >= 0x1000+header.offsets1[list[i+1]])
-                  break;
+               #ifdef NEW_FIXES
+                  // fix for https://github.com/eadmaster/pcrown/issues/30
+                  if (i != list_size-1 && (index+2) > 0x1000+header.offsets1[list[i+1]])
+                     puts("015 fix diff");
+                  if (i != list_size-1 && (index+2) == 0x1000+header.offsets1[list[i+1]])
+                     break;
+               #else
+                  if (i != list_size-1 && (index+2) >= 0x1000+header.offsets1[list[i+1]])
+                     break;
+               #endif
             }
          }
          done = 1;
@@ -1390,7 +1404,7 @@ unsigned short AsciiCharToTexttblIndex(char c) {
    
    // symbols
    if ( c  == ' ') return(0);
-   //else if ( c  == '、') return(1);  // replaced by "▼" (hearth icon) -> 0x81A5 (in texttbl.cpp)
+   //else if ( c  == '、') return(1);  // replaced by "▼" (heart icon) -> 0x81A5 (in texttbl.cpp)
    //else if ( c  == '。') return(2);  // replaced by "°" (degree symbol) -> 0x818B (in texttbl.cpp)
    else if ( c  == '*') return(3);
    else if ( c  == '?') return(4);

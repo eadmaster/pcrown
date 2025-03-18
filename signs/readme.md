@@ -6,7 +6,7 @@
 > You can use `_bmpbanner.sh` to quickly generate the bitmap with any text, then copy-paste into the existing sign.
 
 > [!IMPORTANT]
-> Don't change the bitmap size if the text does not fit. Doing so will break all the texture data offsets. Need to rehack the pak files for that, see https://github.com/eadmaster/pcrown/issues/102 .
+> Don't change the bitmap size if the text does not fit. Doing so will break the texture data offsets. Need to rehack the pak files for that, see https://github.com/eadmaster/pcrown/issues/102 .
 
  2. run `_bmp2bin.sh mysign_eng.bmp` to generate the binary texture file `mysign_eng.bin`
  3. run `src/buildcd/_patch_signs.sh` to update the game image

@@ -285,7 +285,7 @@ Reload from last save, keep Exp & items<lineend>
 Anti-petrification<lineend>
 Grill Food with a Spice outside battle<lineend>
 Make Soup with a Spice outside battle<lineend>
-Turn Gem into Magic Stone, or recharge one<lineend>
+Turn Gem into Magic Stone or recharge one<lineend>
 +1 Endurance for equipment items<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
