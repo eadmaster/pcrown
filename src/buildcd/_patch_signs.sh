@@ -23,7 +23,7 @@ replace_sign() {
 		TARGET=".CHR"
 		echo "$0: patching sign $1 in all CHR files..."
 	else
-		TARGET="$2 $3 $4 $5 $6 $7 $8 $9"
+		TARGET="$@"
 		echo "$0: patching sign $1 in $TARGET..."
 	fi
 
@@ -84,13 +84,13 @@ replace_sign  shop
 # Potions/Meds Shop (16*11/2 = 88 bytes) -> test in 002-00, 043-01
 replace_sign  potions_shop  VD1T.CHR  YA1C.CHR
 # Item Shop (24*11/2 = 132 bytes)
-replace_sign  item_shop
-# Item Shop (alt) (40*11/2=220) -> test in 035-05, 061-03
-replace_sign  item_shop2
+replace_sign  item_shop  DR1T.CHR GB1T.CHR KD2T.CHR NB1T.CHR NE1T.CHR RL1T.CHR VD1T.CHR VG1T.CHR YA1C.CHR  # DC1T.CHR
+# Item Shop2 (alt) (40*11/2=220) -> test in 035-05, 061-03
+replace_sign  item_shop2  CAVE.CHR DG1C.CHR DG2C.CHR DG3C.CHR EE1C.CHR  MO1C.CHR # GS1C.CHR KG1C.CHR  # VD17.CHR
 # Inn (shop)(16*11/2 = 88 bytes)
 replace_sign  inn
 # Bakery (24*10/2=120) -> test in 004-00
-replace_sign  baker_shop
+replace_sign  baker_shop  LL1T.CHR  NB1T.CHR  VG1T.CHR  # DC1T.CHR
 # Magic shop (24*11/2=132) -> test in 045-00
 replace_sign  magic_shop  KD3T.CHR  SG1T.CHR
 # School (24*11/2=132) -> test in 045-00
@@ -98,7 +98,7 @@ replace_sign  school
 # Warp Magic (24*11/2 = 132)  -> test in 045-00
 replace_sign  warp  KD3T.CHR  NE1T.CHR  VD1T.CHR  VG1T.CHR  SM1T.CHR
 # Courtyard (inside castle) (24*11/2 = 132) -> test in 000-01
-replace_sign  courtyard  VD11.CHR   # TODO: TROC.CHR
+replace_sign  courtyard  VD11.CHR   # TROC.CHR
 # Room (inside castle) (24*11/2 = 132) -> test in 000-04
 replace_sign  room
 # Audience Hall (in Valenadine Castle) (48*11/2 = 264) -> test in 000-03
@@ -228,6 +228,7 @@ sfk setbytes EE1C.PAK  0x5d0  0x40211B0C1B0C1B0C1B0C004B  -yes  # reposition fra
 sfk setbytes EE1C.PAK  0x5DC  0x4020230C1C0C1C0C230C005F  -yes  # reposition frame left 11R
 sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFF000A -yes       # hide "F" part
 sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFF000A -yes       # hide "'s" part
+# TODO: realign
 
 # Port -> test in 039-00
 sfk setbytes RL1T.PAK 0x6c 0x18 -yes  # width to 24px
@@ -249,13 +250,14 @@ sfk replace -binary /130C140C140C130C004B/1B0D1B0D1B0C1B0C004B/  -yes -firsthit 
 sfk replace -binary /150C1C0C1C0C150C000A/1C0D230D230C1C0C000A/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # r frame
 
 # item_shop
-sfk setbytes RL1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
-sfk setbytes VD1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
+#TODO: sfk setbytes DC1T.PAK 0x?? 0x300c -yes  # size 24x11->48x12
 sfk setbytes DR1T.PAK 0x74 0x300c -yes  # size 24x11->48x12
 sfk setbytes GB1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes KD2T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes NB1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
 sfk setbytes NE1T.PAK 0x74 0x300c -yes  # size 24x11->48x12
+sfk setbytes RL1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
+sfk setbytes VD1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
 sfk setbytes VG1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes YA1C.PAK 0x9C 0x300c -yes  # size 24x11->48x12
 #sfk setbytes RL1T.PAK 0x224 0x00031705180518061706 -yes  # change texture size
@@ -268,28 +270,6 @@ sfk replace -binary /130C140C140C130C004B/190C1a0C1a0C190C004B/ -yes -firsthit -
 sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
 # TODO: check multi-matches in KD2T.PAK NB1T.PAK, GB1T.PAK, VG1T.PAK
 # TODO: no matches for the frames in YA1C.PAK?
-
-# item_shop2  -> test in 035-05, 061-03
-sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK GS1C.PAK KG1C.PAK MO1C.PAK VD17.PAK   # size 40x11->48x12
-#sfk setbytes CAVE.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG2C.PAK 0x124 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG3C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes EE1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes GS1C.PAK 0x17c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes KG1C.PAK 0x15c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes MO1C.PAK 0x16c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes VD17.PAK 0xA4 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG2C.PAK 0x5b0 0x001C1805170517061806004B -yes  # segment coords
-sfk replace -binary /1105160516051105004B/1805170517061806004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # segment coords
-# TODO: missing in GS1C.PAK KG1C.PAK VD17.PAK
-#sfk setbytes DG2C.PAK 0x58c 0x40191B0D1B0D1B0C1B0C004B -yes  # C frame coords
-sfk replace -binary /150D150D150C150C004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # C frame coords
-#sfk setbytes DG2C.PAK 0x598 0x4018230D1C0D1C0C230C005F -yes  # L frame coords
-sfk replace -binary /1D0D160D160C1D0C005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # L frame coords
-#sfk setbytes DG2C.PAK 0x5a4 0x401A1C0D230D230C1C0C000A -yes  # R frame coords
-sfk replace -binary /160D1D0D1D0C160C000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # R frame coords
-# TODO: missing in DG1C.PAK EE1C.PAK MO1C.PAK
 
 # potions_shop -> test in 002-00, 043-01
 sfk setbytes VD1T.PAK 0xa8  0x0020EEC8400c0070 -yes  # size 16x11->64x12
@@ -477,6 +457,38 @@ sfk setbytes GS1C.PAK 0x2d0 0x00190c050b050b050c05004B -yes  # coords
 sfk setbytes KG1C.PAK 0x238 0x00110c050b050b050c05004B -yes  # coords
 sfk setbytes MO1C.PAK 0x26c 0x00130c050b050b050c05004B -yes  # coords
 #NO(NOT MATCHING)? sfk replace -binary /0F05000500050F05004B/30c050b050b050c05004B/ -yes -dir . -file  EE1C.PAK  GS1C.PAK  KG1C.PAK  MO1C.PAK   # coords
+# gs1c = notice drop tower https://github.com/eadmaster/pcrown/issues/103
+# KG1C = tower with Shadow https://github.com/eadmaster/pcrown/issues/104
+
+# item_shop2  -> test in 035-05, 061-03
+sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK  MO1C.PAK    # size 40x11->48x12
+#sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file GS1C.PAK KG1C.PAK    # size 40x11->48x12
+# NO? VD17.PAK
+#sfk setbytes CAVE.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG2C.PAK 0x124 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG3C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes EE1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
+#sfk setbytes GS1C.PAK 0x17c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes KG1C.PAK 0x15c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes MO1C.PAK 0x16c 0x300c -yes  # size 40x11->48x12
+#sfk setbytes VD17.PAK 0xA4 0x300c -yes  # size 40x11->48x12
+#sfk setbytes DG2C.PAK 0x5b0 0x001C1805170517061806004B -yes  # segment coords
+sfk replace -binary /1105160516051105004B/1805170517061806004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # segment coords
+#sfk replace -binary /1106160616041104004B/1805170517061806004B/ -yes -firsthit -dir . -file GS1C.PAK KG1C.PAK  # segment coords
+#sfk setbytes DG2C.PAK 0x598 0x4018230D1C0D1C0C230C005F -yes  # L frame coords
+sfk replace -binary /1D0D160D160C1D0C005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # L frame coords
+#sfk replace -binary /1E0D170D170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file GS1C.PAK
+#sfk replace -binary /1E0C170C170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file KG1C.PAK 
+#sfk setbytes DG2C.PAK 0x58c 0x40191B0D1B0D1B0C1B0C004B -yes  # C frame coords
+sfk replace -binary /150D150D150C150C004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # C frame coords
+#sfk replace -binary /160D160D160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file GS1C.PAK
+#sfk replace -binary /160C160C160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file KG1C.PAK 
+#sfk setbytes DG2C.PAK 0x5a4 0x401A1C0D230D230C1C0C000A -yes  # R frame coords
+sfk replace -binary /160D1D0D1D0C160C000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # R frame coords
+#sfk replace -binary /170D1E0D1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file GS1C.PAK
+#sfk replace -binary /170C1E0C1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file KG1C.PAK 
+# missing in DG1C.PAK EE1C.PAK MO1C.PAK
 
 # Goat Shed  -> test in 026-00
 sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
@@ -491,6 +503,7 @@ sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -firsthit -
 sfk replace -binary /1B0C140C140C1B0C005F/150C0E0C0E0C150C005F/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # L frame
 sfk replace -binary /130C140C140C130C004B/0D0C0F0C0F0C0D0C004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # C frame
 sfk replace -binary /150C1C0C1C0C150C000A/100C170C170C100C000A/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # R frame
+# TODO: resize in 045-00
 
 # Old (hut) -> test in 153-00 as Gradriel
 sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
@@ -561,6 +574,8 @@ sfk setbytes MJ1C.PAK 0x21E 0x250C2C0C2C0C250C000A -yes  # R frame coords
 sfk setbytes MJ1C.PAK 0x22A 0x250C240C240C250C004B -yes  # C frame coords
 sfk setbytes MJ1C.PAK 0x236 0x2D0C260C260C2D0C005F -yes  # L frame coords 
 # TODO  DC1T.PAK?
+
+# TODO: resize portal
 
 
 ## more gfx hacks
@@ -681,10 +696,12 @@ done
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.PRG'  > /dev/null
 sfk replace DOHDOH.PRG -text '/DOHDOH/ DODO /' -yes
 sfk replace CEYE.PRG -text '/CHAOTHIC EYE/CHAOTIC EYE /'  -yes
-sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECRO-SAMANTHA/'  -yes  # 1-byte overflow
+#sfk replace NECRO.PRG -text '/NECRO SAMANSA/NECRO-SAMANTHA/'  -yes  # 1-byte overflow -> expand the file and cause freeze
+sfk replace NECRO.PRG -binary '/4E4543524F2053414D414E534100/4E4543524F2D53414D414E544841/'  -yes
 sfk replace RYON.PRG -text '/RYON/LEON/'  -yes
 sfk replace SIRENE.PRG -text '/SIRENE/SIREN /'  -yes
-sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVIL GOLGOTHA/'  -yes  # 1-byte overflow
+#sfk replace WGOD.PRG -text '/EVIL GOLGODA/EVIL GOLGOTHA/'  -yes  # 1-byte overflow -> expand the file and cause freeze
+sfk replace WGOD.PRG -binary '/4556494C20474F4C474F444100/4556494C20474F4C474F544841/'  -yes
 sfk replace NISE.PRG -text '/CAPTAIN BIGFOOK/CAPTAIN BIGHOOK/'  -yes
 sfk replace POLT.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes
 sfk replace PUPPET.PRG -text '/SLAVE WOOD/SLAVEWOOD /'  -yes

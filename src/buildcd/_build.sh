@@ -59,11 +59,11 @@ find *.EVN | while read eventfile; do
     fi
 done
 
-# fix for dragon fight softlock (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/30
+# fix for dragon fight softlock  https://github.com/eadmaster/pcrown/issues/30
 wine eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
 cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed
 
-# fix for softlock at Larva boss (overwrite jap text)  https://github.com/eadmaster/pcrown/issues/88
+# fix for softlock at Larva boss  https://github.com/eadmaster/pcrown/issues/88
 wine eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
 cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed
 
@@ -71,7 +71,7 @@ cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed
 sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
 cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng
 
-# fix for softlock at dialog with the wizard turned into a frog () https://github.com/eadmaster/pcrown/issues/89
+# fix for softlock at dialog with the wizard turned into a frog  https://github.com/eadmaster/pcrown/issues/89
 sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
 sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
 cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng
