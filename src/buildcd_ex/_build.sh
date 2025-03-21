@@ -44,5 +44,9 @@ cp ../buildcd/031_01_0.EVN.eng .
 sfk setbytes 031_01_0.EVN.eng 0x1aa 0x2c -yes
 cd-replace "$PATCHED_IMAGE_FILE" 031_01_0.EVN  031_01_0.EVN.eng  > /dev/null
 
+# temp fix for Gfx glitches while obtaining the Earth stone (restore vanilla file) https://github.com/eadmaster/pcrown/issues/105
+7z e -y "../buildcd/Princess Crown (Japan) (1M) (Track 01).iso" KING1E.MCB
+cd-replace "$PATCHED_IMAGE_FILE" KING1E.MCB  KING1E.MCB  > /dev/null
+
 # build xdelta patch (bin)
 xdelta3 -S none -f -e -s "../buildcd/Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.1M.Track.01.EX.bin.xdelta"
