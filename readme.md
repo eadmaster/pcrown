@@ -9,7 +9,7 @@
  - All doorway signs translated and resized properly: https://github.com/eadmaster/pcrown/issues/102
  - All book/scenarios fully tested and crash-free
    - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
-   - some events commands are still not parsed correctly: #91
+   - some events commands are still not parsed correctly: https://github.com/eadmaster/pcrown/issues/91
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)
@@ -37,12 +37,13 @@
 > Issues with the online patcher tool? Try [this offline patcher](https://github.com/marco-calautti/DeltaPatcher) instead.
 
 
-## Contributions
+## Issues/Contributions
  
 Issues and PRs are currently restricted to approved contributors to keep things easy to manage.
 
 Contact me via Discord or forums if you can help or have issues to report (please read the [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs) first):
 
+ - [Discord](https://discord.gg/CPCpEwyhjf)
  - [SegaXtreme](https://segaxtreme.net/members/eadmaster.30323/)
  - [GBAtemp](https://gbatemp.net/members/eadmaster.52646/)
  - [Romhacking.net](https://www.romhacking.net/forum/index.php?action=profile;u=13104)
@@ -66,7 +67,7 @@ In chronological order:
  - [Mentil](https://github.com/mentill) (lot of Engrish and translation fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering, [eventeditor fixes](https://github.com/eadmaster/pcrown/issues/91))
 
 > [!NOTE]
-> Reportedly CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the current status of their project.
+> CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the [current status of their project](https://www.romhacking.net/forum/index.php?topic=39984.0).
 > Btw since this was originally [released with a GPL-2.0 license](https://github.com/eadmaster/pcrown/blob/master/LICENSE), i'd like to exercise my right to keep working on this and make improvements.
 
 [old readme here](readme.txt.old)
