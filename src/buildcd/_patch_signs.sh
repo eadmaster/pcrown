@@ -86,7 +86,7 @@ replace_sign  potions_shop  VD1T.CHR  YA1C.CHR
 # Item Shop (24*11/2 = 132 bytes)
 replace_sign  item_shop  DR1T.CHR GB1T.CHR KD2T.CHR NB1T.CHR NE1T.CHR RL1T.CHR VD1T.CHR VG1T.CHR YA1C.CHR  # DC1T.CHR
 # Item Shop2 (alt) (40*11/2=220) -> test in 035-05, 061-03
-replace_sign  item_shop2  CAVE.CHR DG1C.CHR DG2C.CHR DG3C.CHR EE1C.CHR  MO1C.CHR # GS1C.CHR KG1C.CHR  # VD17.CHR
+replace_sign  item_shop2  CAVE.CHR DG1C.CHR DG2C.CHR DG3C.CHR GS1C.CHR KG1C.CHR  EE1C.CHR  MO1C.CHR #VD17.CHR
 # Inn (shop)(16*11/2 = 88 bytes)
 replace_sign  inn
 # Bakery (24*10/2=120) -> test in 004-00
@@ -240,9 +240,9 @@ sfk setbytes LL1T.PAK 0x74 0x20 -yes  # width to 32px
 sfk setbytes LL1T.PAK 0x2a0 0x0D050D  -yes  # change texture size 
 
 # Bakery -> test in 004-00, 026-00, 081-00
-sfk setbytes VG1T.PAK 0x58 0x00206C98280c000E -yes  #Volga Bakery segment entry
-sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # width to 32x12px
-sfk setbytes NB1T.PAK 0x64 0x280c -yes  # width to 32x12px
+sfk setbytes VG1T.PAK 0x58 0x00206C98280c000E -yes  # size to 32x12px
+sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # size to 32x12px
+sfk setbytes NB1T.PAK 0x64 0x280c -yes  # size to 32x12px
 sfk replace -binary /1205050505041204004B/1406130613051405004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # coords
 # resize frames -> prevent conflict with Inn in VG1T.PAK LL1T.PAK NB1T.PAK
 sfk replace -binary /1B0C140C140C1B0C005F/230D1C0D1C0C230C005F/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # l frame
@@ -457,38 +457,33 @@ sfk setbytes GS1C.PAK 0x2d0 0x00190c050b050b050c05004B -yes  # coords
 sfk setbytes KG1C.PAK 0x238 0x00110c050b050b050c05004B -yes  # coords
 sfk setbytes MO1C.PAK 0x26c 0x00130c050b050b050c05004B -yes  # coords
 #NO(NOT MATCHING)? sfk replace -binary /0F05000500050F05004B/30c050b050b050c05004B/ -yes -dir . -file  EE1C.PAK  GS1C.PAK  KG1C.PAK  MO1C.PAK   # coords
-# gs1c = notice drop tower https://github.com/eadmaster/pcrown/issues/103
-# KG1C = tower with Shadow https://github.com/eadmaster/pcrown/issues/104
 
-# item_shop2  -> test in 035-05, 061-03
-sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK  MO1C.PAK    # size 40x11->48x12
-#sfk replace -binary /280B/300c/ -yes -firsthit -dir . -file GS1C.PAK KG1C.PAK    # size 40x11->48x12
-# NO? VD17.PAK
-#sfk setbytes CAVE.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG2C.PAK 0x124 0x300c -yes  # size 40x11->48x12
-#sfk setbytes DG3C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes EE1C.PAK 0x... 0x300c -yes  # size 40x11->48x12
-#sfk setbytes GS1C.PAK 0x17c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes KG1C.PAK 0x15c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes MO1C.PAK 0x16c 0x300c -yes  # size 40x11->48x12
-#sfk setbytes VD17.PAK 0xA4 0x300c -yes  # size 40x11->48x12
+# item_shop2  -> test in 035-05, 061-03, 029-12
+sfk replace -binary /280B/300C/ -yes -firsthit -dir . -file  CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK  GS1C.PAK KG1C.PAK  EE1C.PAK  MO1C.PAK  # NO? VD17.PAK   # size 40x11->48x12
 #sfk setbytes DG2C.PAK 0x5b0 0x001C1805170517061806004B -yes  # segment coords
 sfk replace -binary /1105160516051105004B/1805170517061806004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # segment coords
-#sfk replace -binary /1106160616041104004B/1805170517061806004B/ -yes -firsthit -dir . -file GS1C.PAK KG1C.PAK  # segment coords
+sfk replace -binary /1106160616041104004B/1805170517061806004B/ -yes -firsthit -dir . -file GS1C.PAK KG1C.PAK  # segment coords
 #sfk setbytes DG2C.PAK 0x598 0x4018230D1C0D1C0C230C005F -yes  # L frame coords
 sfk replace -binary /1D0D160D160C1D0C005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # L frame coords
-#sfk replace -binary /1E0D170D170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file GS1C.PAK
-#sfk replace -binary /1E0C170C170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file KG1C.PAK 
+sfk replace -binary /1E0D170D170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file GS1C.PAK
+sfk replace -binary /1E0C170C170B1E0B005F/230D1C0D1C0C230C005F/ -yes -firsthit -dir . -file KG1C.PAK 
 #sfk setbytes DG2C.PAK 0x58c 0x40191B0D1B0D1B0C1B0C004B -yes  # C frame coords
 sfk replace -binary /150D150D150C150C004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # C frame coords
-#sfk replace -binary /160D160D160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file GS1C.PAK
-#sfk replace -binary /160C160C160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file KG1C.PAK 
+sfk replace -binary /160D160D160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file GS1C.PAK
+sfk replace -binary /160C160C160B160B004B/1B0D1B0D1B0C1B0C004B/ -yes -firsthit -dir . -file KG1C.PAK 
 #sfk setbytes DG2C.PAK 0x5a4 0x401A1C0D230D230C1C0C000A -yes  # R frame coords
 sfk replace -binary /160D1D0D1D0C160C000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # R frame coords
-#sfk replace -binary /170D1E0D1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file GS1C.PAK
-#sfk replace -binary /170C1E0C1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file KG1C.PAK 
+sfk replace -binary /170D1E0D1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file GS1C.PAK
+sfk replace -binary /170C1E0C1E0B170B000A/1C0D230D230C1C0C000A/ -yes -firsthit -dir . -file KG1C.PAK 
 # missing in DG1C.PAK EE1C.PAK MO1C.PAK
+
+# fix for notice drop tower freeze (029-00) https://github.com/eadmaster/pcrown/issues/103
+#  and Time Stone cutscene freeze (057-28) https://github.com/eadmaster/pcrown/issues/104
+sfk replace -binary /$(file2hexstr ${SIGNS_PATH}/he_kana_eng.bin)5555555555555555FFFFFFFF7777777799999999FFFFFFFF//  -yes -firsthit -dir . -file GS1C.CHR
+sfk setbytes GS1C.PAK 0x11c 0x0000 -yes  # shrink sign to save space
+sfk replace -binary /001B00030F030F010001000A/001B00000000000000000000/ -yes -dir . -file  GS1C.PAK
+sfk replace -binary /001B0703160316010701000A/001B00000000000000000000/ -yes -dir . -file  GS1C.PAK
+sfk replace -binary /001B0D031C031C010D01000A/001B00000000000000000000/ -yes -dir . -file  GS1C.PAK
 
 # Goat Shed  -> test in 026-00
 sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
@@ -499,11 +494,14 @@ sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # 'Hut' coords blanked
 #python _move_pak_texture.py WN1C.PAK 208 4 0
 sfk setbytes WN1C.PAK 0x140 0x00060705080508050705004B -yes  # Inn (inside the pub) recenter 
 sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -firsthit -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
-# MEMO: frame resizing conflicts with Bakery and Items Shop, do not execute before them
+# MEMO: this frame resizing conflicts with Bakery and Items Shop, do not execute before them
 sfk replace -binary /1B0C140C140C1B0C005F/150C0E0C0E0C150C005F/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # L frame
 sfk replace -binary /130C140C140C130C004B/0D0C0F0C0F0C0D0C004B/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # C frame
 sfk replace -binary /150C1C0C1C0C150C000A/100C170C170C100C000A/ -yes -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK VG1T.PAK LL1T.PAK NB1T.PAK  # R frame
-# TODO: resize in 045-00
+# resize in 045-00 only:
+sfk replace -binary /1E0C250C250C1E0C000A/100C170C170C100C000A/ -yes -firsthit -dir . -file KD3T.PAK
+sfk replace -binary /1C0C1D0C1D0C1C0C004B/0D0C0F0C0F0C0D0C004B/ -yes -firsthit -dir . -file KD3T.PAK
+sfk replace -binary /240C1D0C1D0C240C005F/150C0E0C0E0C150C005F/ -yes -firsthit -dir . -file KD3T.PAK
 
 # Old (hut) -> test in 153-00 as Gradriel
 sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
@@ -575,7 +573,7 @@ sfk setbytes MJ1C.PAK 0x22A 0x250C240C240C250C004B -yes  # C frame coords
 sfk setbytes MJ1C.PAK 0x236 0x2D0C260C260C2D0C005F -yes  # L frame coords 
 # TODO  DC1T.PAK?
 
-# TODO: resize portal
+# TODO: resize portal frame
 
 
 ## more gfx hacks
