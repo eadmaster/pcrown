@@ -13,7 +13,7 @@ rm "$PATCHED_IMAGE_FILE"
 cp "../buildcd/$PATCHED_IMAGE_FILE" .
 
 # extract prepatched files for the widescreen hack
-7z e -y "Princess Crown-Hack_(v1.1).7z" "Patch"
+7z e -y "PC_patch_v1,2.7z" "Patch"
 
 # replace all pre-patched MCB files
 find *.MCB | while read mcbfile; do     
@@ -38,15 +38,15 @@ cd-replace  "$PATCHED_IMAGE_FILE" KD2T.CHR KD2T.CHR.eng  > /dev/null
 # repatch 0.BIN, KANJI.BIN
 source _patch_items.sh
 
-# repatch a single event  (not sure why is needed)
+# repatch some event files to fix the room size
 #wine ../buildcd/eventeditor.exe -i 031_01_0.EVN ${TRANSLATED_SCRIPT_PATH}/events_splitted_35chars/031_01_0.TXT  -o 031_01_0.EVN.eng
 cp ../buildcd/031_01_0.EVN.eng .
 sfk setbytes 031_01_0.EVN.eng 0x1aa 0x2c -yes
 cd-replace "$PATCHED_IMAGE_FILE" 031_01_0.EVN  031_01_0.EVN.eng  > /dev/null
-
-# temp fix for Gfx glitches while obtaining the Earth stone (restore vanilla file) https://github.com/eadmaster/pcrown/issues/105
-7z e -y "../buildcd/Princess Crown (Japan) (1M) (Track 01).iso" KING1E.MCB
-cd-replace "$PATCHED_IMAGE_FILE" KING1E.MCB  KING1E.MCB  > /dev/null
+# Dwarf King Earth Stone cutscene fix https://github.com/eadmaster/pcrown/issues/105
+cp ../buildcd/055_01_1.EVN.eng .
+sfk setbytes 055_01_1.EVN.eng 0xDF 0x2C -yes
+cd-replace "$PATCHED_IMAGE_FILE" 055_01_1.EVN  055_01_1.EVN.eng  > /dev/null
 
 # build xdelta patch (bin)
 xdelta3 -S none -f -e -s "../buildcd/Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.1M.Track.01.EX.bin.xdelta"
