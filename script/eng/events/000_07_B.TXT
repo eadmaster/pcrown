@@ -27,21 +27,21 @@
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>No!<pause><lineend><CC03EA>Leon, stop it!<pause><lineend>|
 131072|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>I'm...I'm sorry...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>I'm... I'm sorry...<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>What have I done...<pause><lineend><CC03EA>I lost control...I couldn't do anything...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>What have I done...<pause><lineend><CC03EA>I lost control... I couldn't do anything...<pause><lineend>|
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Leon, no...<pause><lineend>|
 131076|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>I...I'm done for...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>I... I'm done for...<pause><lineend>|
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Don't speak, Leon.<pause><lineend>|
 131078|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Queen Gradriel...leave me...<pause><lineend><CC03EA>Larva is...all that matters...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Queen Gradriel... leave me...<pause><lineend><CC03EA>Larva is... all that matters...<pause><lineend>|
 131079|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>He is not at full strength yet...<lineend><pause><CC03EA>You must do something before he...comes into this world.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>He is not at full strength yet...<lineend><pause><CC03EA>You must do something before he... comes into this world.<pause><lineend>|
 131080|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>...Queen Gradriel...<pause><lineend>|
 196608|

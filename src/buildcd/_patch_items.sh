@@ -92,7 +92,7 @@ source _patch_ascii.sh
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.X.Y"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997    T-ENG V0.9.5"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997   T-ENG V1.0rc1"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN

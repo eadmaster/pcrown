@@ -1,5 +1,5 @@
 0|
-<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat up that Dragon!<lineend><CC03ED=00350002000103FF><pause>|
+<CC03EA><CC03ED=00350002000103FF><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Wow! You beat up that dragon!<lineend><CC03ED=00350002000103FF><pause>|
 1|
 <CC03ED=0000001F00010000><CC03ED=00000020000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000021000103FF>Let's get away from this place.<lineend><CC03ED=0000002200010000><CC03ED=0000009500010000><CC03ED=0000009800010000><pause>|
 2|
@@ -9,7 +9,7 @@
 4|
 <CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep.<lineend>This lady saved me.<lineend><CC03ED=00350002000103FF><CC03ED=000A001900010000><pause>|
 5|
-<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>My Lady.<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
+<CC03EA><CC03ED=000A0006000103FF><CC03FC=0004><string=000A>My Lady...<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
 6|
 <CC03ED=0000009500010000><CC03ED=0000009800010000>|
 7|
@@ -25,7 +25,7 @@
 12|
 <CC03ED=0000009F00010000><CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 13|
-<CC03EA><color=0004><string=016C><lineend><color=0001>...But I've changed my opinion of you.<lineend>To think you could take down a Dragon with that sword.<pause><lineend>|
+<CC03EA><color=0004><string=016C><lineend><color=0001>...But I've changed my opinion of you.<pause><lineend><CC03EA>To think you could take down a dragon with that sword.<pause><lineend>|
 14|
 <CC03FB=001E><CC03ED=000000A200010000><CC03ED=000000AF000103FF><CC03FB=0064><CC03ED=000000B000010000><CC03EA><color=0004><string=016C><lineend><color=0001>I still don't know your name.<lineend><pause>|
 15|
@@ -53,7 +53,7 @@
 131072|
 <CC03EA><CC03FC=0004><string=007D>We took too long to get here...<pause><lineend><CC03EA>There may still be dragons in the area. Move out and protect the village!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=007D>Playtime is over for those Dragons now that we're here!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Playtime is over for those dragons now that we're here!<pause><lineend>|
 196608|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I wonder if her Majesty is safe...<pause><lineend>|
 196609|
@@ -73,7 +73,7 @@
 196616|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>I'll be going, then.<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Princess Eriel, do remember to rest from time to time.<lineend>Remember, all things in moderation.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Princess Eriel, do remember to rest from time to time.<pause><lineend><CC03EA>Remember, all things in moderation.<pause><lineend>|
 196618|
 <CC03EA><color=0004><string=0129><lineend><color=0001>Thank you.<pause><lineend>|
 196619|
@@ -89,11 +89,11 @@
 262146|
 <CC03EA><CC03FC=0004><string=010D>Please excuse me.<pause><lineend>|
 262147|
-<CC03EA><CC03FC=0004><string=010D><color=0001>My name is Larva. I am a holy book, created to keep the world safe.<pause><lineend><CC03EA>I know of a magic power hidden far from the Demon King.<pause><lineend><CC03EA>I know of worlds kept secret from humans.<pause><lineend><CC03EA>This kingdom's past and its future... the fate of the stars...<pause><lineend><CC03EA>I once tried to pass on my knowledge for the good of mankind...<pause><lineend><CC03EA>...but a foolish Wizard has trapped me and left me as you see me now.<lineend>Take me into your hands and release me.<pause><lineend><CC03EA>Do this, sweet princess, and I shall entrust you with all that I know.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010D><color=0001>My name is Larva. I am a holy book, created to keep the world safe.<pause><lineend><CC03EA>I know of a magic power hidden far from the Demon King.<pause><lineend><CC03EA>I know of worlds kept secret from humans.<pause><lineend><CC03EA>This kingdom's past and its future... the fate of the stars...<pause><lineend><CC03EA>I once tried to pass on my knowledge for the good of mankind...<pause><lineend><CC03EA>...but a foolish wizard has trapped me and left me as you see me now.<lineend>Take me into your hands and release me.<pause><lineend><CC03EA>Do this, sweet princess, and I shall entrust you with all that I know.<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0129><lineend><color=0001>No... I can't...<pause><lineend>|
 262149|
-<CC03EA><color=0005><string=010D><lineend><color=0001>Just imagine it, Princess...<pause><lineend><CC03EA>You'll be stronger than any Wizard and wiser than any sage.<pause><lineend>|
+<CC03EA><color=0005><string=010D><lineend><color=0001>Just imagine it, Princess...<pause><lineend><CC03EA>You'll be stronger than any wizard and wiser than any sage.<pause><lineend>|
 262150|
 <CC03EA><color=0004><string=0129><lineend><color=0001>I can't...<pause><lineend>|
 262151|
@@ -121,7 +121,7 @@
 327682|
 <CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>Yep. This lady saved me.<lineend><CC03ED=00350002000103FF><pause>|
 327683|
-<CC03EA><CC03FC=0004><string=000A>My Lady.<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=000A>My Lady...<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
 327684|
 <CC03EA><CC03FC=0004><string=000A>And Edward, sir...<lineend><pause><CC03EA>Thank you for coming.<pause><lineend>|
 327685|
@@ -135,12 +135,12 @@
 327689|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm sorry.<lineend><pause>|
 327690|
-<CC03EA><color=0004><string=016E><lineend><color=0001>...But I've changed my opinion of you.<lineend>To think you could take down a Dragon with that sword.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>...But I've changed my opinion of you.<pause><lineend><CC03EA>To think you could take down a dragon with that sword.<pause><lineend>|
 327691|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I still don't know your name.<pause><lineend>|
 327692|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...I am Gradriel.<pause><lineend><CC03EA>You must be Sir Edward Glowstar...<pause><lineend><CC03EA>Thank you for earlier.<pause><lineend>|
 327693|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Hmm... it seems the son of Golgotha is famous wherever he goes...<pause><lineend><CC03EA>The knights' arrival does not change the fact that this village is still dangerous.<lineend>Gradriel, it's best you evacuate this village too.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Hmm... it seems the son of Golgotha is famous wherever he goes...<pause><lineend><CC03EA>The knights' arrival does not change the fact that this village is still dangerous.<pause><lineend><CC03EA>Gradriel, it's best you evacuate this village too.<pause><lineend>|
 327694|
 <CC03EA><color=0001>Meanwhile, at Valenadine Castle...<pause><lineend>|

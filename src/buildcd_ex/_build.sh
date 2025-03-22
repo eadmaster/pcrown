@@ -35,6 +35,9 @@ sfk replace KD2T.CHR.eng -binary /1111111111111111111111111111111111111111111111
 sfk replace KD2T.CHR.eng -binary /3333333333333333333333333333333333333333333333333333333333333333/6666666666666666666666666666666666666666666666666666666666666666/ -yes -firsthit                                  
 cd-replace  "$PATCHED_IMAGE_FILE" KD2T.CHR KD2T.CHR.eng  > /dev/null
 
+# remove transparency on Amberstep villagers turned into stones
+sfk setbytes 0.BIN 0xF36E 0x0000 -yes
+
 # repatch 0.BIN, KANJI.BIN
 source _patch_items.sh
 

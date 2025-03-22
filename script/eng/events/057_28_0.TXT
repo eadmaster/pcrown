@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0005><string=0122><lineend><color=0001>I know that smell. It's royal blood...And here comes someone to give me a taste of it.<pause><lineend>|
+<CC03EA><color=0005><string=0122><lineend><color=0001>I know that smell. It's royal blood... And here comes someone to give me a taste of it.<pause><lineend>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I've come for the Time Stone that you are said to possess. Will you let me have it?<pause><lineend>|
 65538|
@@ -31,7 +31,7 @@
 196616|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Sir Glowstar!<pause><lineend>|
 196617|
-<CC03EA><CC03FC=0004><string=007E><color=0001>Damn! I...I'm trembling!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007E><color=0001>Damn! I... I'm trembling!<pause><lineend>|
 196618|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Was that Demon what we were looking for, Sir Glowstar?<pause><lineend>|
 196619|

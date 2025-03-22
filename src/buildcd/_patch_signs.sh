@@ -250,7 +250,6 @@ sfk replace -binary /130C140C140C130C004B/1B0D1B0D1B0C1B0C004B/  -yes -firsthit 
 sfk replace -binary /150C1C0C1C0C150C000A/1C0D230D230C1C0C000A/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # r frame
 
 # item_shop
-#TODO: sfk setbytes DC1T.PAK 0x?? 0x300c -yes  # size 24x11->48x12
 sfk setbytes DR1T.PAK 0x74 0x300c -yes  # size 24x11->48x12
 sfk setbytes GB1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes KD2T.PAK 0x54 0x300c -yes  # size 24x11->48x12
@@ -260,16 +259,19 @@ sfk setbytes RL1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
 sfk setbytes VD1T.PAK 0x5c 0x300c -yes  # size 24x11->48x12
 sfk setbytes VG1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes YA1C.PAK 0x9C 0x300c -yes  # size 24x11->48x12
+#TODO: sfk setbytes DC1T.PAK 0x?? 0x300c -yes  # size 24x11->48x12
 #sfk setbytes RL1T.PAK 0x224 0x00031705180518061706 -yes  # change texture size
 sfk replace -binary /1105060506051105004B/1705180518061706004B/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
 #sfk setbytes RL1T.PAK 0x200 0x40221b0C220C220C1b0C000A -yes  # R frame coords
-sfk replace -binary /150C1C0C1C0C150C000A/1b0C220C220C1b0C000A/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
+sfk replace -binary /150C1C0C1C0C150C000A/1b0C220C220C1b0C000A/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK
+sfk replace -binary /170C1E0C1E0B170B000A/1b0C220C220C1b0C000A/ -yes -firsthit -dir . -file YA1C.PAK  # test in 043-01 
 #sfk setbytes RL1T.PAK 0x20c 0x4021190C1a0C1a0C190C004B -yes  # C frame coords
-sfk replace -binary /130C140C140C130C004B/190C1a0C1a0C190C004B/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
+sfk replace -binary /130C140C140C130C004B/190C1a0C1a0C190C004B/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK
+sfk replace -binary /130C160C160B130B004B/190C1a0C1a0C190C004B/ -yes -firsthit -dir . -file YA1C.PAK
 #sfk setbytes RL1T.PAK 0x218 0x4020210C1a0C1a0C210C005F -yes  # L frame coords
-sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK YA1C.PAK
+sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file RL1T.PAK DR1T.PAK GB1T.PAK KD2T.PAK NB1T.PAK NE1T.PAK RL1T.PAK VD1T.PAK VG1T.PAK
+sfk replace -binary /1B0C140C140B1B0B005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file YA1C.PAK
 # TODO: check multi-matches in KD2T.PAK NB1T.PAK, GB1T.PAK, VG1T.PAK
-# TODO: no matches for the frames in YA1C.PAK?
 
 # potions_shop -> test in 002-00, 043-01
 sfk setbytes VD1T.PAK 0xa8  0x0020EEC8400c0070 -yes  # size 16x11->64x12

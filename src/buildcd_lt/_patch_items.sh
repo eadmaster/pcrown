@@ -60,7 +60,7 @@ sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (ma
 #sfk setbytes 0.BIN 0x4777B 0x17 -yes
 
 # fix Engrish text in main program (opening, etc) https://github.com/eadmaster/pcrown/issues/94
-source ../buildcd/_patch_ascii.sh
+#source ../buildcd/_patch_ascii.sh
 
 # add splashscreen -> freezes with cheats enabled during boot  https://github.com/eadmaster/pcrown/issues/96
 #mv 0.BIN  0_org.BIN
@@ -69,7 +69,7 @@ source ../buildcd/_patch_ascii.sh
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" -> "@SEGA & ATLUS,1997 T-ENG 0.8.5+EX"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V0.9.0+LT"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V1.0rc1LT"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN
