@@ -121,7 +121,7 @@
 327682|
 <CC03EA><CC03FC=0004><string=0035><CC03ED=00350003000103FF>This nice lady saved me, mommy.<lineend>She's really strong!<lineend><CC03ED=00350002000103FF><pause>|
 327683|
-<CC03EA><CC03FC=0004><string=000A>My Lady...<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
+<CC03EA><CC03FC=0004><string=000A>My lady...<lineend><pause><CC03EA>Thank you for saving my daughter.<lineend><pause>|
 327684|
 <CC03EA><CC03FC=0004><string=000A>And Edward, sir...<lineend><pause><CC03EA>Thank you for coming.<pause><lineend>|
 327685|
