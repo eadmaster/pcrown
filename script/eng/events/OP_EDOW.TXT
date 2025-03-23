@@ -35,7 +35,7 @@
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010008000103FF>...That was,<lineend><CC03ED=00010007000103FF><pause><CC03EA><CC03ED=00010008000103FF>to prove that I'm different from my father.<lineend><CC03ED=00010007000103FF><pause>|
 131083|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his father, anyway?<pause><lineend>|
 131084|
 <CC03EA><CC03FC=0004><string=015C><color=0001>...He carries on the name of Glowstar.<lineend><pause>|
 131085|
@@ -47,11 +47,11 @@
 196609|
 <CC03EA><CC03FC=0004><string=0104><color=0001>I certainly know your name, Edward.<lineend><pause><CC03EA>People who come to me all seek answers.<pause><lineend>|
 196610|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Yes, as do I.<pause><lineend><CC03EA>Golgotha Glowstar, my Father, is hiding. I want you to tell me where.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Yes, as do I.<pause><lineend><CC03EA>Golgotha Glowstar, my father, is hiding. I want you to tell me where.<pause><lineend>|
 196611|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an honorable Knight, like my Mother says? I must know.<pause><lineend><CC03EA>If he is a traitor, I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he better be ready to explain why he abandoned us for all those years.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an honorable Knight, like my mother says? I must know.<pause><lineend><CC03EA>If he is a traitor, I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he better be ready to explain why he abandoned us for all those years.<pause><lineend>|
 196612|
-<CC03EA><CC03FC=0004><string=0104><color=0001>It sounds almost as if you want me to help you murder your Father.<pause><lineend><CC03EA>If you absolutely must know, then I will make a deal with you.<pause><lineend><CC03EA>In exchange for telling you, I want you to bring me something that I desire.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0104><color=0001>It sounds almost as if you want me to help you murder your father.<pause><lineend><CC03EA>If you absolutely must know, then I will make a deal with you.<pause><lineend><CC03EA>In exchange for telling you, I want you to bring me something that I desire.<pause><lineend>|
 196613|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...I could just force you to tell me, you know.<pause><lineend>|
 196614|
@@ -91,9 +91,9 @@
 262153|
 <CC03EA><color=0003><string=0001><lineend><color=0001>That...<pause><lineend>|
 262154|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...That's what I'm after.<pause><lineend><CC03EA>It's to prove that I'm not the same as my Father.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...That's what I'm after.<pause><lineend><CC03EA>It's to prove that I'm not the same as my father.<pause><lineend>|
 262155|
-<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his Father, anyway?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=015E><color=0001>Captain?<pause><lineend><CC03EA>What was he talking about? And who is his father, anyway?<pause><lineend>|
 262156|
 <CC03EA><CC03FC=0004><string=015C><color=0001>...<pause><lineend><CC03EA>He's the successor to the Glowstar name.<lineend><pause>|
 262157|

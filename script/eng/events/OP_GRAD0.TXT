@@ -45,12 +45,12 @@
 131090|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Q, Queen Gradriel! I can hardly believe my ears.<pause><lineend><CC03EA>We couldn't possibly allow you to go to such a dangerous place!<pause><lineend>|
 131091|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I've been thinking about my Mother.<pause><lineend><CC03EA>When she was Queen, she would leave the castle, and take her sword with her, too.<pause><lineend><CC03EA>"You cannot judge correctly what you have not seen with your own eyes."<pause><lineend><CC03EA>Isn't that something she used to say?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I've been thinking about my mother.<pause><lineend><CC03EA>When she was Queen, she would leave the castle, and take her sword with her, too.<pause><lineend><CC03EA>"You cannot judge correctly what you have not seen with your own eyes."<pause><lineend><CC03EA>Isn't that something she used to say?<pause><lineend>|
 131092|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>But for you to go to Dorangora simply won't do.<pause><lineend>|
 131093|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I want to be a brave Queen just like my Mother.<pause><lineend><CC03EA>I need to see Valendia for myself if I'm going to lead its people correctly.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I want to be a brave queen just like my mother.<pause><lineend><CC03EA>I need to see Valendia for myself if I'm going to lead its people correctly.<pause><lineend>|
 131094|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how you feel, but the time for that will come later.<pause><lineend><CC03EA>You're still so young, Gradriel.<pause><lineend><CC03EA>If you want to be a good Queen, you have things to learn here at the castle first.<pause><lineend><CC03EA>Come, let's proceed to the courtyard. Kwein, the Card Knights Captain, is waiting for you there.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I understand how you feel, but the time for that will come later.<pause><lineend><CC03EA>You're still so young, Gradriel.<pause><lineend><CC03EA>If you want to be a good queen, you have things to learn here at the castle first.<pause><lineend><CC03EA>Come, let's proceed to the courtyard. Kwein, the Card Knights Captain, is waiting for you there.<pause><lineend>|
 131095|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...All right...<pause><lineend>|

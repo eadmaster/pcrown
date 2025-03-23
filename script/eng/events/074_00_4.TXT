@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>That giant eyeball-thing is called a Chaotic Eye? That's pretty fitting.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0025><lineend><color=0001>Umm...Are you a hero that the Goddess sent to save us?<pause><lineend>|
+<CC03EA><color=0006><string=0025><lineend><color=0001>Umm... Are you a hero that the Goddess sent to save us?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0014><lineend><color=0001>You're very strong.<pause><lineend><CC03EA>Strong people get a lot of respect here in Volga.<pause><lineend><CC03EA>After all, strength comes by faith in the Goddess, and the study of her ways.<pause><lineend>|
 6|

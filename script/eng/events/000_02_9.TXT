@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0079><lineend><color=0001>I'm thankful we live in a sturdy castle.<pause><lineend>|
 9|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>Your appearance is really starting to resemble your Mother's, Queen Gradriel.<pause><lineend><CC03EA>The similarities are quite striking.<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>Your appearance is really starting to resemble your mother's, Queen Gradriel.<pause><lineend><CC03EA>The similarities are quite striking.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
 11|

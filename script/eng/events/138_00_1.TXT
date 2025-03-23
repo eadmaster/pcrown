@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0059><lineend><color=0001>I'm a merchant who travels the whole kingdom over.<pause><lineend><CC03EA>There are so many monsters these days, I can barely get along.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=0024><lineend><color=0001>I came to visit from Cadho Badho with my Father.<pause><lineend>|
+<CC03EA><color=0006><string=0024><lineend><color=0001>I came to visit from Cadho Badho with my father.<pause><lineend>|
 3|
 <CC03EA><color=0006><string=0067><lineend><color=0001>You really think that Drake's treasure exists, don't you?<pause><lineend><CC03EA>Me, I just can't believe it.<pause><lineend>|
 4|

@@ -43,7 +43,7 @@
 21|
 <CC03EA><CC03FC=0004><string=0172><color=0001>This is the only book we have at the moment.<pause><lineend>|
 22|
-<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures live on today in the stories that the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good Queen?<pause><lineend><CC03EA>Why yes, she went on to become an even greater Queen than her Mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Gradriel's adventures live on today in the stories that the fairies tell.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>How did you like it?<lineend><pause><CC03EA>Hmm? Did Gradriel become a good queen?<pause><lineend><CC03EA>Why yes, she went on to become an even greater queen than her mother, Elfaran.<pause><lineend><CC03EA>She was loved by all, and never backed down in the face of evil.<pause><lineend><CC03EA>Not only that, but she was both fair and wise.<pause><lineend><CC03EA>Phew...<lineend>That was a long one, wasn't it?<pause><lineend><CC03EA>Is there another book you would like to read?<pause><lineend>|
 23|
 <CC03EA><CC03FC=0004><string=0172><color=0001>...and so, Edward set out to become a Knight worthy of his Queen.<pause><lineend><CC03EA>...The End.<pause><lineend><CC03EA>Edward's travels didn't end there, but for this book, that's all.<pause><lineend>|
 24|

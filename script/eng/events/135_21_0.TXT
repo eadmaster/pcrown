@@ -1,5 +1,5 @@
 65536|
-<CC03EA><color=0003><string=0001><lineend><color=0001>This is the sword my Father was talking about.<pause><lineend><CC03EA>The Gleipnir...<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>This is the sword my father was talking about.<pause><lineend><CC03EA>The Gleipnir...<pause><lineend>|
 65537|
 <CC03EA><color=0001>Who speaks my name?<lineend><pause>|
 65538|
@@ -25,7 +25,7 @@
 65548|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha... the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my Father is in there.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my father is in there.<lineend><CC03ED=00010003000103FF><pause>|
 65550|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward, no!<pause><lineend>|
 65551|
@@ -61,7 +61,7 @@
 131081|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Then I'm going with you.<pause><lineend>|
 131082|
-<CC03EA><color=0003><string=0001><lineend><color=0001>My Father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>My father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
 131083|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Thank you, Edward.<pause><lineend>|
 131084|
@@ -75,7 +75,7 @@
 196610|
 <CC03EA><color=0005><string=0121><lineend><color=0001>I am known as Skulg.<pause><lineend><CC03EA>My apologies for not introducing myself properly at the castle!<pause><lineend>|
 196611|
-<CC03EA><color=0003><string=0001><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my Father!!<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my father!!<pause><lineend>|
 196612|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I'm sorry, Gradriel, but I want you to go on alone.<pause><lineend>|
 196613|

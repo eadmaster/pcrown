@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=0009><lineend><color=0001>Frying Pans and Soup Pots will break after you use them too many times.<pause><lineend><CC03EA>When that happens, you can't cook with them anymore.<pause><lineend><CC03EA>You can still throw them, though! That goes for Empty Bottles, too.<pause><lineend>|
 15|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My Mom told me so.<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My mom told me so.<pause><lineend>|
 16|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
 17|

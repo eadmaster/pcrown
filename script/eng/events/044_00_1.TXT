@@ -1,7 +1,7 @@
 0|
 <CC03ED=0011000B000103FF><CC03ED=0011000C000103FF><CC03EA><color=0006><string=0011><lineend><color=0001>Ready, son? The next stop for us is Lake Titania!<lineend><CC03ED=0011000B000103FF><pause><CC03EA><CC03ED=0011000C000103FF>There's a huge bounty for whoever catches the monster living there!<lineend><CC03ED=0011000B000103FF><pause>|
 1|
-<CC03EA><color=0006><string=0005><lineend><color=0001>If we pull this off, we'll be rich! Right, Dad?<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>If we pull this off, we'll be rich! Right, dad?<pause><lineend>|
 2|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Um, excuse me...<lineend><CC03ED=0011000D000103FF><pause>|
 3|

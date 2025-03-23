@@ -117,11 +117,11 @@
 196617|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I'll protect her with my life. Let's just say it's something I have to do.<pause><lineend>|
 196618|
-<CC03EA><color=0004><string=016E><lineend><color=0001>My Father served under the last Queen as the Captain of the Card Knights.<pause><lineend><CC03EA>One day, though... He came under a spell, double-crossed the Card Knights, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>My father served under the last Queen as the Captain of the Card Knights.<pause><lineend><CC03EA>One day, though... He came under a spell, double-crossed the Card Knights, and tried to kill the Queen.<pause><lineend><CC03EA>I have to prove that I'm nothing like him.<pause><lineend>|
 196619|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I can do it by joining the Card Knights and protecting the new Queen...<pause><lineend><CC03EA>...You know, you're the first person I've told this to.<pause><lineend>|
 196620|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend><CC03EA>Please don't blame yourself for the things your Father did.<pause><lineend><CC03EA>I think you've proved enough already by becoming the kind of person you have.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Edward...<pause><lineend><CC03EA>Please don't blame yourself for the things your father did.<pause><lineend><CC03EA>I think you've proved enough already by becoming the kind of person you have.<pause><lineend>|
 196621|
 <CC03EA><color=0004><string=016E><lineend><color=0001>Is that so...<pause><lineend><CC03EA>Anyway, tell me, what brought you all the way out here?<pause><lineend>|
 196622|

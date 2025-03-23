@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=001C><lineend><color=0001>My, aren't you a cute little witch?<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0029><lineend><color=0001>My Dad gets lost really easily.<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>My dad gets lost really easily.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0011><lineend><color=0001>It's a nice city, isn't it? Enjoy your stay.<pause><lineend>|
 6|

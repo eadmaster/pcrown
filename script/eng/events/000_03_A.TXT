@@ -19,11 +19,11 @@
 131078|
 <CC03EA><CC03FC=0004><string=010B>Even Golgotha died. He'd be alive today if he hadn't been forced to protect us.<pause><lineend><CC03EA>How long can we live with ourselves while we force all these people to sacrifice for us?<lineend><pause>|
 131079|
-<CC03EA><CC03FC=0004><string=010B>Even Mother died when she gave birth to us.<pause><lineend><CC03EA>Queen Elfaran would be alive, too, if only we had never existed!<pause><lineend><CC03EA>I wonder if the trade was worth it? Something tells me you wonder, too...<pause><lineend>|
+<CC03EA><CC03FC=0004><string=010B>Even our mother died when she gave birth to us.<pause><lineend><CC03EA>Queen Elfaran would be alive, too, if only we had never existed!<pause><lineend><CC03EA>I wonder if the trade was worth it? Something tells me you wonder, too...<pause><lineend>|
 131080|
 <CC03EA><CC03FC=0004><string=010B>If the outpour of evil magic continues, the world will soon be covered in darkness.<pause><lineend><CC03EA>And you can't stop it...<lineend><pause>|
 131081|
-<CC03EA><color=0002><string=0000><lineend><color=0001>No...No!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>No... No!<pause><lineend>|
 131082|
 <CC03EA><color=0005><string=010B><lineend><color=0001>I'm afraid you alone aren't qualified to be Queen Gradriel.<pause><lineend><CC03EA>From now on, just stand back and leave everything to me.<pause><lineend>|
 131083|
@@ -41,7 +41,7 @@
 131089|
 <CC03EA><color=0005><string=010B><lineend><color=0001>Hmph! I was so close to making you disappear forever!<lineend><pause>|
 196608|
-<CC03EA><color=0002><string=010B><lineend><color=0001>That's ridiculous...Why would I ever want to disappear?<pause><lineend><CC03EA>I am Gradriel, too!<pause><lineend>|
+<CC03EA><color=0002><string=010B><lineend><color=0001>That's ridiculous... Why would I ever want to disappear?<pause><lineend><CC03EA>I am Gradriel, too!<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>In the hearts of all people lie both darkness and light.<pause><lineend><CC03EA>"May light rain down upon the darkness. May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>So that's what the prayer was saying...<pause><lineend>|
 196610|

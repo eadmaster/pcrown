@@ -7,13 +7,13 @@
 3|
 <CC03EA><color=0006><string=0052><lineend><color=0001>I'm sensing a large flow of magic. It's enough to make the very ground tremble.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0053><lineend><color=0001>People in Volga, the kingdom to the north, believe in the Goddess Gaia.<pause><lineend><CC03EA>They have "Holy Knights" guarding their Kingdom.<pause><lineend><CC03EA>That reminds me, Queen Gradriel's Father was from Volga, wasn't he?<pause><lineend>|
+<CC03EA><color=0006><string=0053><lineend><color=0001>People in Volga, the kingdom to the north, believe in the Goddess Gaia.<pause><lineend><CC03EA>They have "Holy Knights" guarding their Kingdom.<pause><lineend><CC03EA>That reminds me, Queen Gradriel's father was from Volga, wasn't he?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>The Wizards are trying so hard to catch the bandits, but it's not going well for them.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=001C><lineend><color=0001>Crime never pays.<pause><lineend><CC03EA>I'd say those bandits figured that out the hard way!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0029><lineend><color=0001>My Father never even found my uncle.<pause><lineend><CC03EA>Poor uncle... I hope he isn't still waiting!<pause><lineend>|
+<CC03EA><color=0006><string=0029><lineend><color=0001>My father never even found my uncle.<pause><lineend><CC03EA>Poor uncle... I hope he isn't still waiting!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=0013><lineend><color=0001>Phew! I finally made it home!<pause><lineend><CC03EA>I do feel sorry for my cousin, though.<pause><lineend><CC03EA>Oh well. I can make it up to him next time. When I do, I'll remember to take a map!<pause><lineend><CC03ED=00130012000103FF><CC03FB=0050><CC03F1=0013>|
 9|

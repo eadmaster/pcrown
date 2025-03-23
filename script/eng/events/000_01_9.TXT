@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=008B><lineend><color=0001>To think that you made it all the way to the Demon Realm and back...<pause><lineend><CC03EA>What a Queen we have!<pause><lineend><CC03EA>Our Motherly Goddess must be giving you her greatest protection.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>To think that you made it all the way to the Demon Realm and back...<pause><lineend><CC03EA>What a queen we have!<pause><lineend><CC03EA>Our motherly Goddess must be giving you her greatest protection.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=007D><lineend><color=0001>There's a strange murmur in the air these days.<pause><lineend><CC03EA>I can hear it when I close my eyes.<pause><lineend>|
 2|

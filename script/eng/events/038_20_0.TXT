@@ -27,7 +27,7 @@
 65549|
 <CC03EA><color=0005><string=011A><lineend><color=0001>Your hands are shaking. Ha ha! Thinking of hitting your big sister, huh?<pause><lineend><CC03EA>Bad girls like you need a spanking!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=011A><lineend><color=0001>You've grown strong...<lineend>Just like Mother...<pause><lineend><CC03EA>You're too late though. Sorry! The gate is nearly complete.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>You've grown strong...<lineend>Just like our mother...<pause><lineend><CC03EA>You're too late though. Sorry! The gate is nearly complete.<pause><lineend>|
 131073|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Someone must be controlling Princess Eriel.<pause><lineend>|
 131074|

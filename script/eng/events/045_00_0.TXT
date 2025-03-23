@@ -29,7 +29,7 @@
 14|
 <CC03EA><color=0006><string=0014><lineend><color=0001>I heard that the Siren in the lake has gone mad...<pause><lineend><CC03EA>...and kills and eats anyone who comes too close!<pause><lineend>|
 15|
-<CC03EA><color=0006><string=0014><lineend><color=0001>You want to know more about the mermaid?<pause><lineend><CC03EA>The rumors have already spread all over town.<pause><lineend><CC03EA>I even saw a Father and son head off to the Merchants' area to buy supplies to catch it.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>You want to know more about the mermaid?<pause><lineend><CC03EA>The rumors have already spread all over town.<pause><lineend><CC03EA>I even saw a father and son head off to the Merchants' area to buy supplies to catch it.<pause><lineend>|
 16|
 <CC03EA><color=0006><string=0005><lineend><color=0001>You know that monster in the lake? It wouldn't come here, would it?<pause><lineend><CC03EA>We've got so many Warriors and Wizards, after all.<pause><lineend><CC03EA>I mean, we'll be all right here, won't we?<pause><lineend>|
 17|

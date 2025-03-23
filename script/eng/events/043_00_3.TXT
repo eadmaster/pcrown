@@ -27,7 +27,7 @@
 13|
 <CC03FA=0031000300000000000003FF000D003C0000><CC03FB=0046>|
 14|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Oh, I know!<pause><lineend><CC03EA>I'll ask my Father to give you access to the <color=0005>Secret Market<color=0001> from now on!<pause><lineend><CC03EA>You can find some really useful things there, so be sure to check it out!<pause><lineend><CC03EA>It's on the right side of town.<lineend>Try talking to the guard there!<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Oh, I know!<pause><lineend><CC03EA>I'll ask my father to give you access to the <color=0005>Secret Market<color=0001> from now on!<pause><lineend><CC03EA>You can find some really useful things there, so be sure to check it out!<pause><lineend><CC03EA>It's on the right side of town.<lineend>Try talking to the guard there!<pause><lineend>|
 15|
 <CC03EA><color=0006><string=0031><lineend><color=0001>Hmm...<pause><lineend><CC03EA>I wonder how pretty I'll look in one of those Dwarf-made pendants?<pause><lineend>|
 16|

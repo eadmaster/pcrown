@@ -31,7 +31,7 @@
 15|
 <CC03EA><color=0006><string=005A><lineend><color=0001>It looks like you don't have enough space.<pause><lineend>|
 16|
-<CC03EA><color=0006><string=005A><lineend><color=0001>One Magic Sword!<lineend>Thank you!<pause><lineend>|
+<CC03EA><color=0006><string=005A><lineend><color=0001>One Magic Dagger!<lineend>Thank you!<pause><lineend>|
 17|
 <CC03EA><color=0006><string=0004><lineend><color=0001>I came all the way from Lowgrove to sell this goat...<pause><lineend><CC03EA>Now the stupid thing refuses to budge!<pause><lineend>|
 18|
@@ -57,7 +57,7 @@
 28|
 <CC03EA><color=0006><string=0060><lineend><color=0001>If you strike an enemy while wearing an Alchemist Ring, he'll drop some gold coins.<pause><lineend><CC03EA>My uncle actually made himself rich with one of those.<pause><lineend>|
 29|
-<CC03EA><color=0006><string=001F><lineend><color=0001>My Dad's a really good salesman!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>My dad's a really good salesman!<pause><lineend>|
 30|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 31|

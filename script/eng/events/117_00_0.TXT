@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0029><lineend><color=0001>The Knights are the protectors of the city... Or at least they should be.<pause><lineend><CC03EA>Instead, all they do is pick fights with the Wizards and give everyone a headache!<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0036><lineend><color=0001>My Mom told me some guy named Edward beat up the evil Dragon!<pause><lineend>|
+<CC03EA><color=0006><string=0036><lineend><color=0001>My mom told me some guy named Edward beat up the evil Dragon!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=015E><lineend><color=0001>Patrolling the town is among our most important duties.<pause><lineend>|
 9|

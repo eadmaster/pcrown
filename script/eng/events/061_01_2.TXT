@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0011><lineend><color=0001>They say somewhere out there is a sage who knows everything.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=002E><lineend><color=0001>Somebody told me the same thing!<pause><lineend><CC03EA>What I heard was that he'll answer any question in exchange for treasure.<pause><lineend><CC03EA>What would you ask him, Dad?<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>Somebody told me the same thing!<pause><lineend><CC03EA>What I heard was that he'll answer any question in exchange for treasure.<pause><lineend><CC03EA>What would you ask him, dad?<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Well, let me think.<pause><lineend><CC03EA>Maybe how to get rich?<pause><lineend>|
 3|
@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=0011><lineend><color=0001>Some strange folks have been gathering on the edge of town recently.<pause><lineend><CC03EA>They don't look like travelers to me.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=002E><lineend><color=0001>You're imagining things again, Dad.<pause><lineend><CC03EA>Nobody comes to a place like this unless they're sightseeing.<pause><lineend>|
+<CC03EA><color=0006><string=002E><lineend><color=0001>You're imagining things again, dad.<pause><lineend><CC03EA>Nobody comes to a place like this unless they're sightseeing.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=01AD><lineend><color=0001>Welcome to the Black Cat Tavern. I'll take your order.<pause><lineend>|
 7|

@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0006><string=0079><lineend><color=0001>Your Majesty, I'm very worried about Princess Eriel.<pause><lineend>|
 10|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>I knew your Mother Elfaran and your Father Shelius.<pause><lineend><CC03EA>They both loved their three children dearly.<pause><lineend><CC03EA>I'm certain that their spirits are protecting Princess Eriel right now.<pause><lineend><CC03EA>Queen Gradriel, I just know your sister is safe!<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>I knew your mother Elfaran and your father Shelius.<pause><lineend><CC03EA>They both loved their three children dearly.<pause><lineend><CC03EA>I'm certain that their spirits are protecting Princess Eriel right now.<pause><lineend><CC03EA>Queen Gradriel, I just know your sister is safe!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
 12|

@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0036><lineend><color=0001>I wanna play outside the town walls!<pause><lineend>|
 9|
-<CC03EA><color=0006><string=000B><lineend><color=0001>My husband is always off drinking in the tavern.<pause><lineend><CC03EA>If he takes after his Father, my little boy will be a heavy drinker one day, too.<pause><lineend>|
+<CC03EA><color=0006><string=000B><lineend><color=0001>My husband is always off drinking in the tavern.<pause><lineend><CC03EA>If he takes after his father, my little boy will be a heavy drinker one day, too.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=0015><lineend><color=0001>This country is beautiful, don't you think?<pause><lineend><CC03EA>We'll never hand such precious lands over to the Demons.<pause><lineend><CC03EA>Queen Elfaran and everyone else is going to fight for them!<pause><lineend>|
 11|
@@ -101,7 +101,7 @@
 50|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03ED=000000A1000103FF><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Is this Valenadine before I was born?<lineend><CC03ED=000000A0000103FF><pause>|
 51|
-<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Shadow must have sent me back with the Time Stone...<pause><lineend><CC03EA><CC03F8=0001>This is what everyone said Valendia looked like back when Mother fought the Demons.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Shadow must have sent me back with the Time Stone...<pause><lineend><CC03EA><CC03F8=0001>This is what everyone said Valendia looked like back when my mother fought the Demons.<pause><lineend>|
 52|
 <CC03F0=000000880000000603FF00000000>|
 65536|

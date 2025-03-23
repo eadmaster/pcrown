@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0053><lineend><color=0001>Many Wizards graduated from our magic school this year.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=001C><lineend><color=0001>Maybe it's time Grandpa and I went to the lake again!<pause><lineend><CC03EA>Of course, we won't bother the mermaid. I'm sure she wants to go back to being left alone.<pause><lineend>|
+<CC03EA><color=0006><string=001C><lineend><color=0001>Maybe it's time grandpa and I went to the lake again!<pause><lineend><CC03EA>Of course, we won't bother the mermaid. I'm sure she wants to go back to being left alone.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0029><lineend><color=0001>Sailors from Leeland have been buying magic items here recently.<pause><lineend><CC03EA>Only attack-magic items, too.<pause><lineend><CC03EA>I had heard about problems with pirates before, but it must be serious this time.<pause><lineend>|
 5|

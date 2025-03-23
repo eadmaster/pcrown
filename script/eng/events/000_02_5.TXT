@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=0078><lineend><color=0001>I heard that Sir Glowstar protected you, your Highness.<pause><lineend><CC03EA>We've been mistaken about him all this time, haven't we?<pause><lineend>|
 8|
-<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at the death of his Father, Sir Glowstar.<pause><lineend><CC03EA>I wonder where it is he's gone to?<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at the death of his father, Sir Glowstar.<pause><lineend><CC03EA>I wonder where it is he's gone to?<pause><lineend>|
 9|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of Elfaran and Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep her safe.<pause><lineend>|
 10|
@@ -29,4 +29,4 @@
 14|
 <CC03EA><color=0006><string=0080><lineend><color=0001>It appears that only our castle and town were attacked. Other towns nearby haven't reported any damage.<pause><lineend>|
 15|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother...Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear mother... Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|

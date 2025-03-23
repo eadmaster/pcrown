@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>We won't have to worry about a thing. Ha ha!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates are all gone.<pause><lineend><CC03EA>Now my Father can rest and heal up.<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>The real pirates are all gone.<pause><lineend><CC03EA>Now my father can rest and heal up.<pause><lineend>|
 7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of town that nobody's lived in for 20 years.<pause><lineend><CC03EA>Apparently the place is overrun with ghosts, and nobody goes in for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion, though. It must be worth a fortune!<pause><lineend><CC03EA>There's just nobody who wants to buy it.<pause><lineend>|
 8|

@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>You know who I am!?<lineend><CC03ED=0000001C000103FF><pause>|
 17|
-<CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I've gone to Valenadine Castle in the past to consult your Mother.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It's quite a surprise to see you traveling the kingdom unaccompanied like this.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It reminds me of something that Queen Elfaran herself would do.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>That aside, please allow me to extend my gratitude for saving this village.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I can't offer you much, but you are welcome to stay in my home to rest.<lineend><CC03ED=00F70006000103FF><pause>|
+<CC03ED=00F70006000103FF><CC03EA><color=0004><string=00F7><lineend><color=0001><CC03ED=00F70007000103FF>I've gone to Valenadine Castle in the past to consult your mother.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It's quite a surprise to see you traveling the kingdom unaccompanied like this.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>It reminds me of something that Queen Elfaran herself would do.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>That aside, please allow me to extend my gratitude for saving this village.<lineend><CC03ED=00F70006000103FF><pause><CC03EA><CC03ED=00F70007000103FF>I can't offer you much, but you are welcome to stay in my home to rest.<lineend><CC03ED=00F70006000103FF><pause>|
 18|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Please do me one favor, Leon.<lineend><CC03ED=0000001C000103FF><pause><CC03EA><CC03ED=0000001D000103FF>I'd like you not to tell anyone that I'm the Queen.<lineend><CC03ED=0000001C000103FF><pause>|
 19|
@@ -41,11 +41,11 @@
 65536|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>You mentioned before that you are traveling to discover the world for yourself.<pause><lineend><CC03EA>Forgive me, but why would a Queen need to do such a thing?<pause><lineend>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>The day I took the crown, people from all over the kingdom came to ask me for help.<pause><lineend><CC03EA>How could I answer them when the only world I understood was the one inside the castle?<pause><lineend><CC03EA>I could never be as helpful to people as my Mother was if I were to go on living that way.<pause><lineend><CC03EA>That's why I left.<lineend><pause><CC03EA>Though I may have done the wrong thing by leaving the castle without telling anyone...<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>The day I took the crown, people from all over the kingdom came to ask me for help.<pause><lineend><CC03EA>How could I answer them when the only world I understood was the one inside the castle?<pause><lineend><CC03EA>I could never be as helpful to people as my mother was if I were to go on living that way.<pause><lineend><CC03EA>That's why I left.<lineend><pause><CC03EA>Though I may have done the wrong thing by leaving the castle without telling anyone...<lineend><pause>|
 65538|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>But it was because you left the castle and came all this way that you could save us.<pause><lineend><CC03EA>I don't think there's a single person in the whole village who would say you were wrong.<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>In the end, there's more than one path to becoming a great Queen.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>In the end, there's more than one path to becoming a great queen.<pause><lineend>|
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Leon.<pause><lineend>|
 65541|
@@ -71,4 +71,4 @@
 65551|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I wish you safe travels as well, Leon.<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Thank you, your Highness. I think you're well on your way to becoming a great Queen!<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Thank you, your Highness. I think you're well on your way to becoming a great queen!<pause><lineend>|

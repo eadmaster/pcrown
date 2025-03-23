@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=002F><lineend><color=0001>I hear there's a wandering bard in town.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0020><lineend><color=0001>It's all right to eat the Heart Fruits that grow on the trees in the forest.<pause><lineend><CC03EA>Don't tell my Mom, but I sneak out to pick them all the time.<pause><lineend>|
+<CC03EA><color=0006><string=0020><lineend><color=0001>It's all right to eat the Heart Fruits that grow on the trees in the forest.<pause><lineend><CC03EA>Don't tell my mom, but I sneak out to pick them all the time.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=000E><lineend><color=0001>When you're feeling hungry, head over to the tavern with some Food Ingredients.<pause><lineend><CC03EA>The tavern master can cook them up into something delicious!<pause><lineend>|
 7|
@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0009><lineend><color=0001>I've traveled from one end of this kingdom to the other.<pause><lineend><CC03EA>Wherever I go, I always cook for myself with my trusty Frying Pan.<pause><lineend><CC03EA>Dodo Eggs, Raw Meat...<pause><lineend><CC03EA>...and of course Fish and Corn.<pause><lineend><CC03EA>When I'm really lucky, I come across some Dragon Meat.<pause><lineend><CC03EA>There's not much out there that I can't cook!<pause><lineend><CC03EA>The key is to remember to add just a little bit of Spice.<pause><lineend>|
 11|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My Mom told me so.<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Hey lady, guess what?<pause><lineend><CC03EA>If you combine Potions, it'll ruin your health!<pause><lineend><CC03EA>My mom told me so.<pause><lineend>|
 12|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Good afternoon, my dear lady.<pause><lineend>|
 13|

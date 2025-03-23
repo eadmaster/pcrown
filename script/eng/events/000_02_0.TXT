@@ -13,9 +13,9 @@
 6|
 <CC03EA><color=0006><string=0078><lineend><color=0001>Hello, your Majesty.<pause><lineend><CC03EA>What brings you to a place like this at such an hour? Jestonai will be upset with you.<pause><lineend><CC03EA>We'll keep it our little secret, OK?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0079><lineend><color=0001>Your Highness, I believe that you will one day be as great a Queen as your Mother.<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>Your Highness, I believe that you will one day be as great a queen as your mother.<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>When the moon is as beautiful as it is today...<pause><lineend><CC03EA>...it makes me remember your dear departed Mother and her husband, Sir Shelius.<pause><lineend><CC03EA>The moon was just like this on the night of their wedding.<pause><lineend><CC03EA>It was such a beautiful ceremony. I can still picture it now.<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>When the moon is as beautiful as it is today...<pause><lineend><CC03EA>...it makes me remember your dear departed mother and her husband, Sir Shelius.<pause><lineend><CC03EA>The moon was just like this on the night of their wedding.<pause><lineend><CC03EA>It was such a beautiful ceremony. I can still picture it now.<pause><lineend>|
 9|
 <CC03EA><color=0006><string=0051><lineend><color=0001>There's a prayer that's been passed down through the Royal Family.<pause><lineend><CC03EA>Do you remember it, Queen Gradriel?<pause><lineend>|
 10|
@@ -27,4 +27,4 @@
 13|
 <CC03EA><color=0006><string=0080><lineend><color=0001>When you stun enemies with special attacks, they'll drop items one after another.<pause><lineend><CC03EA>You can only hold 8 items in battle, so don't be stingy with them. When you've got it, use it!<pause><lineend>|
 14|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, Mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|

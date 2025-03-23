@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That takes care of that. Now to go tell the Dwarf King.<pause><lineend>|
 65536|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>Oh! I've been waiting for you!<pause><lineend><CC03EA>You have defeated the monster in the mine!<pause><lineend><CC03EA>At last, the souls of so many other Kings whose lives it took can rest in peace.<lineend><pause>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>Oh! I've been waiting for you!<pause><lineend><CC03EA>You have defeated the monster in the mine!<pause><lineend><CC03EA>At last, the souls of so many other kings whose lives it took can rest in peace.<lineend><pause>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I wish I could tell you how much I sympathize, your Majesty.<pause><lineend>|
 65538|

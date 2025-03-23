@@ -27,7 +27,7 @@
 131079|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Yes. They're holding my sister in there.<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=016D><lineend><color=0001>Then I'm going with you.<pause><lineend><CC03EA>My Father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>Then I'm going with you.<pause><lineend><CC03EA>My father would never forgive me for letting the Queen go alone into the Demon Realm.<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Edward.<pause><lineend>|
 196608|
@@ -37,7 +37,7 @@
 196610|
 <CC03EA><color=0005><string=0121><lineend><color=0001>I am known as Skulg.<pause><lineend><CC03EA>My apologies for not introducing myself properly at the castle!<pause><lineend>|
 196611|
-<CC03EA><color=0004><string=016E><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my Father!!<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>You're the one...<pause><lineend><CC03EA>You killed my father!!<pause><lineend>|
 196612|
 <CC03EA><color=0004><string=016E><lineend><color=0001>I'm sorry, Gradriel, but I want you to go on alone.<pause><lineend>|
 196613|

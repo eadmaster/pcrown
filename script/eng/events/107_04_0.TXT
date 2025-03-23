@@ -51,7 +51,7 @@
 131082|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...Golgotha.<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...<pause><lineend><CC03EA>I didn't want you or your Mother caught up in this. That's why I left. Forgive me.<pause><lineend><CC03EA>I know what I did while under the Demon King's control is hard for you to live with.<lineend><pause>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>Edward...<pause><lineend><CC03EA>I didn't want you or your mother caught up in this. That's why I left. Forgive me.<pause><lineend><CC03EA>I know what I did while under the Demon King's control is hard for you to live with.<lineend><pause>|
 131084|
 <CC03EA><color=0003><string=0001><lineend><color=0001>You picked quite a time to tell me all of this.<pause><lineend>|
 131085|
@@ -77,9 +77,9 @@
 196612|
 <CC03EA><color=0004><string=0102><lineend><color=0001>I see.<pause><lineend>|
 196613|
-<CC03EA><color=0003><string=0001><lineend><color=0001>I must find out more before I'll be able to accept the things my Father has done.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>I must find out more before I'll be able to accept the things my father has done.<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Do as you must. I'm sure you'll become a fine Knight just like your Father.<pause><lineend><CC03EA>Come back to us anytime. You're always welcome.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Do as you must. I'm sure you'll become a fine Knight just like your father.<pause><lineend><CC03EA>Come back to us anytime. You're always welcome.<pause><lineend>|
 196615|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Thank you.<pause><lineend>|
 196616|

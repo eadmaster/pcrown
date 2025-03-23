@@ -3,11 +3,11 @@
 65537|
 <CC03EA><color=0004><string=0104><lineend><color=0001>That didn't take long, did it?<pause><lineend><CC03EA>Ah yes, that glimmer... This is definitely the Sun Stone.<pause><lineend>|
 65538|
-<CC03EA><color=0003><string=0001><lineend><color=0001>My Father is dead.<pause><lineend><CC03EA>I want you to answer a different question for me now.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>My father is dead.<pause><lineend><CC03EA>I want you to answer a different question for me now.<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=0104><lineend><color=0001>You wish to know the location of the sword Golgotha spoke of?<pause><lineend>|
 65540|
-<CC03EA><color=0003><string=0001><lineend><color=0001>If you know, then tell me.<pause><lineend><CC03EA>Where is the sword my Father left for me?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>If you know, then tell me.<pause><lineend><CC03EA>Where is the sword my father left for me?<pause><lineend>|
 65541|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Very well. I shall tell you.<pause><lineend>|
 65542|
@@ -41,7 +41,7 @@
 196612|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Golgotha expected you to surpass him. He placed all of his hopes on you.<pause><lineend><CC03EA>...Along with the duties he was unable to fulfill as a Knight.<pause><lineend><CC03EA>The only way to save Sidrael is to go into the Demon Realm.<lineend><pause><CC03EA>Will you take that sword even if death is waiting right behind it?<pause><lineend>|
 196613|
-<CC03EA><color=0003><string=0001><lineend><color=0001>There is no other path for me to take.<pause><lineend><CC03EA>If I die there, at least I can die as the son my Father believed in.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>There is no other path for me to take.<pause><lineend><CC03EA>If I die there, at least I can die as the son my father believed in.<pause><lineend>|
 196614|
 <CC03EA><color=0004><string=0104><lineend><color=0001>If that's how you feel, then I will tell you what to do.<pause><lineend><CC03EA><color=0001>Go to <color=0002>Lake Titania<color=0001> and find Ondine.<pause><lineend><CC03EA>She has the power to take you where your feet cannot.<pause><lineend><CC03EA>She will lead you to Arsontula.<lineend><pause>|
 196615|

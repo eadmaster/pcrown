@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Portgus even attacked the cargo ship that left the port the other day.<pause><lineend><CC03EA>What gives? He never went after ordinary cargo ships in the past.<pause><lineend><CC03EA>Portgus... He used to only rob crooked officials and merchants. He was a heck of a guy!<pause><lineend>|
 6|
-<CC03EA><color=0006><string=003C><lineend><color=0001>My Father was on one of the ships that the pirates attacked.<pause><lineend><CC03EA>He made it back in one piece, but he was covered in terrible burns.<pause><lineend><CC03EA>I just hope they catch those rotten pirates!<pause><lineend>|
+<CC03EA><color=0006><string=003C><lineend><color=0001>My father was on one of the ships that the pirates attacked.<pause><lineend><CC03EA>He made it back in one piece, but he was covered in terrible burns.<pause><lineend><CC03EA>I just hope they catch those rotten pirates!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=001C><lineend><color=0001>There's a house in the middle of town that nobody's lived in for 20 years.<pause><lineend><CC03EA>Apparently the place is overrun with ghosts, and nobody goes in for fear of losing their lives.<pause><lineend><CC03EA>It's actually a historic mansion, though. It must be worth a fortune!<pause><lineend><CC03EA>There's just nobody who wants to buy it.<pause><lineend>|
 8|

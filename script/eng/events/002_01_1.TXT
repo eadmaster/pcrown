@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*...Hey lady, let me tell you something...<pause><lineend><CC03EA>The Queen we used to have?<pause><lineend><CC03EA>Now THERE...was a strong Queen. People called her...*HIC*... Elfaran the Wise!<pause><lineend><CC03EA>It'll probably take another five years or so...for the new Queen...*HIC*...<pause><lineend><CC03EA>...to be on the same level as her Mother.<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*... Hey lady, let me tell you something...<pause><lineend><CC03EA>The Queen we used to have?<pause><lineend><CC03EA>Now THERE... was a strong queen. People called her... *HIC*... Elfaran the Wise!<pause><lineend><CC03EA>It'll probably take another five years or so... for the new Queen... *HIC*...<pause><lineend><CC03EA>...to be on the same level as her mother.<pause><lineend>|
 1|
 <CC03FA=000A000300000000000003FF000A00460000><CC03FB=0046>|
 2|

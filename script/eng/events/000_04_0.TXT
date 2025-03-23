@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0180><lineend><color=0001>Your older sister Sidrael has been burdened with illness ever since she was a child.<pause><lineend><CC03EA>However, even on her worst days, she never fails to keep a smile.<pause><lineend><CC03EA>She has all the dignity of a beautiful white lily.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Your Majesty, when you wear that crown, you look just like your dear departed Mother.<pause><lineend><CC03EA>I'm so happy to see that you've grown up to be such a fine young woman.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Your Majesty, when you wear that crown, you look just like your dear departed mother.<pause><lineend><CC03EA>I'm so happy to see that you've grown up to be such a fine young woman.<pause><lineend>|
 3|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Good evening, Eriel.<pause><lineend>|
 4|
@@ -35,7 +35,7 @@
 17|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, your Highness.<pause><lineend><CC03EA>It's a lovely night, and the town is sleeping in peace.<pause><lineend>|
 18|
-<CC03EA><color=0006><string=007E><lineend><color=0001>My Father was also in the Card Knights.<pause><lineend><CC03EA>He served under Queen Elfaran, but was killed by Golgotha the Traitor.<pause><lineend><CC03EA>That was 25 years ago, during the war with the Demon Horde.<pause><lineend><CC03EA>It's my intention to carry on my Father's duty as a Card Knight.<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>My father was also in the Card Knights.<pause><lineend><CC03EA>He served under Queen Elfaran, but was killed by Golgotha the Traitor.<pause><lineend><CC03EA>That was 25 years ago, during the war with the Demon Horde.<pause><lineend><CC03EA>It's my intention to carry on my father's duty as a Card Knight.<pause><lineend>|
 19|
 <CC03EA><color=0004><string=0102><lineend><color=0001>Your Majesty! What brings you to my humble quarters?<pause><lineend><CC03EA>These days, nothing brings me more pleasure than sparring with my Queen.<pause><lineend><CC03EA>Let's practice again tomorrow!<pause><lineend>|
 20|

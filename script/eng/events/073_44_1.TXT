@@ -101,7 +101,7 @@
 196619|
 <CC03EA><color=0004><string=00FB><lineend><color=0001>Lord Jadis, the King, is our Grandfather.<pause><lineend><CC03EA>We have to hurry...<pause><lineend>|
 196620|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Your Father, Sir Shelius, was Volga's crown prince.<pause><lineend><CC03EA>But once he fell in love with your Mother, he remained in this kingdom until his death.<pause><lineend><CC03EA>In doing so, he renounced his heritage. King Volga never forgave him for that.<pause><lineend><CC03EA>Whether or not he'll even receive a message from us is hard to say...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Your father, Sir Shelius, was Volga's crown prince.<pause><lineend><CC03EA>But once he fell in love with your mother, he remained in this kingdom until his death.<pause><lineend><CC03EA>In doing so, he renounced his heritage. King Volga never forgave him for that.<pause><lineend><CC03EA>Whether or not he'll even receive a message from us is hard to say...<pause><lineend>|
 196621|
 <CC03EA><color=0004><string=00FB><lineend><color=0001>Maybe so, but we have to warn him about the danger.<pause><lineend>|
 196622|

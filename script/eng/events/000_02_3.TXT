@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0078><lineend><color=0001>We all thought Golgotha had joined the Demons, yet he came to the Queen's rescue.<pause><lineend><CC03EA>Could it be that we've been wrong about him this entire time?<pause><lineend>|
 9|
-<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at the death of his Father, Sir Glowstar.<pause><lineend><CC03EA>I couldn't help but notice earlier how lost in thought he was.<pause><lineend>|
+<CC03EA><color=0006><string=0079><lineend><color=0001>Sir Edward was quite shocked at the death of his father, Sir Glowstar.<pause><lineend><CC03EA>I couldn't help but notice earlier how lost in thought he was.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=00F1><lineend><color=0001>The noble blood of Elfaran and Shelius runs in Princess Sidrael.<pause><lineend><CC03EA>It will surely keep her safe.<pause><lineend>|
 11|
@@ -33,4 +33,4 @@
 16|
 <CC03EA><color=0006><string=0080><lineend><color=0001>The town took quite a lot of damage from that monster attack.<pause><lineend>|
 17|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear Mother...Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>Dear mother... Please look after Sidrael...<pause><lineend><CC03ED=0000005D00010000>|

@@ -15,9 +15,9 @@
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>King Volga...<lineend><pause>|
 65541|
-<CC03EA><color=0004><string=0105><lineend><color=0001>You are a great Queen, Gradriel. Your strength will clear a path to a bright future for your people.<lineend><pause><CC03EA>You deserve to have faith in yourself.<lineend><pause><CC03EA>The next time you visit, I want you and your sisters to show me some great-grandkids.<lineend><pause><CC03EA>...I'll be waiting!<lineend><pause>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>You are a great queen, Gradriel. Your strength will clear a path to a bright future for your people.<lineend><pause><CC03EA>You deserve to have faith in yourself.<lineend><pause><CC03EA>The next time you visit, I want you and your sisters to show me some great-grandkids.<lineend><pause><CC03EA>...I'll be waiting!<lineend><pause>|
 65542|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, Grandpa!<lineend><pause>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Yes, grandpa!<lineend><pause>|
 65543|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>This may be the start of a new friendship between our two kingdoms.<pause><lineend><CC03EA>Elfaran would be pleased.<lineend><pause>|
 65544|
@@ -49,7 +49,7 @@
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you going home?<pause><lineend>|
 131081|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't look so sad.<pause><lineend><CC03EA>You're not like the stuffy old Queens who never left the castle, right?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't look so sad.<pause><lineend><CC03EA>You're not like the stuffy old queens who never left the castle, right?<pause><lineend>|
 131082|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...You're right. I'm not!<pause><lineend><CC03EA>I like to see things for myself, no matter where it takes me...<pause><lineend>|
 131083|
