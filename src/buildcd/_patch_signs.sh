@@ -21,10 +21,10 @@ replace_sign() {
 	
 	if [ -z "$2" ]; then
 		TARGET=".CHR"
-		echo "$0: patching sign $1 in all CHR files..."
+		echo "$0: replacing sign $1 in all CHR files..."
 	else
 		TARGET="$@"
-		echo "$0: patching sign $1 in $TARGET..."
+		echo "$0: replacing sign $1 in $TARGET..."
 	fi
 
 	if [ ! -f "${FILEBASENAME}_jap.bin" ] || [ ! -f "${FILEBASENAME}_eng.bin" ]; then
@@ -40,7 +40,7 @@ replace_sign() {
 	
 	# check if resizing
 	if [ $JAP_SIGN_FILESIZE -ne $ENG_SIGN_FILESIZE ]; then
-		echo "$0: sign ${FILEBASENAME}_eng.bin resized"
+		#echo "$0: reframing sign ${FILEBASENAME}_eng.bin "
 		# compute and add padding
 		JAP_SIGN_PADDED_SIZE=$(( ($JAP_SIGN_FILESIZE + 31) / 32 * 32 ))  # closest bigger multiple of 32
 		ENG_SIGN_PADDED_SIZE=$(( ($ENG_SIGN_FILESIZE + 31) / 32 * 32 ))  # closest bigger multiple of 32
@@ -220,7 +220,7 @@ replace_sign  lost_forest  LL1T.CHR
 
 ## resize and recenter some signs  https://github.com/eadmaster/pcrown/issues/102
 
-# Top Room  -> test in 038-20  https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
+echo "$0: reframing sign Top Room  -> test in 038-20"  #  https://github.com/eadmaster/pcrown/issues/5#issuecomment-2629013480
 sfk setbytes EE1C.PAK  0x5e8  0x00141b05040504051b05005F  -yes  # reposition Top 10R
 sfk setbytes EE1C.PAK  0x5f4  0x00100005170517050005000A  -yes  # reposition Room 12L
 sfk setbytes EE1C.PAK  0x5c4  0x40221b0C220C220C1b0C000A  -yes  # reposition frame right 11L
@@ -230,16 +230,16 @@ sfk setbytes EE1C.PAK  0x602  0xFFFFFFFFFFFFFFFF000A -yes       # hide "F" part
 sfk setbytes EE1C.PAK  0x60E  0xFFFFFFFFFFFFFFFF000A -yes       # hide "'s" part
 # TODO: realign
 
-# Port -> test in 039-00
+echo "$0: reframing sign Port -> test in 039-00"
 sfk setbytes RL1T.PAK 0x6c 0x18 -yes  # width to 24px
 sfk setbytes RL1T.PAK 0x2f4 0x0A050A -yes  # change texture size
 #sfk setbytes RL1T.PAK 0x2fe 0x0000000000000000 -yes  # null "he" part
 
-# Ranch -> test in 026-00
+echo "$0: reframing sign Ranch -> test in 026-00"
 sfk setbytes LL1T.PAK 0x74 0x20 -yes  # width to 32px
 sfk setbytes LL1T.PAK 0x2a0 0x0D050D  -yes  # change texture size 
 
-# Bakery -> test in 004-00, 026-00, 081-00
+echo "$0: reframing sign Bakery -> test in 004-00, 026-00, 081-00"
 sfk setbytes VG1T.PAK 0x58 0x00206C98280c000E -yes  # size to 32x12px
 sfk setbytes LL1T.PAK 0x5c 0x280c -yes  # size to 32x12px
 sfk setbytes NB1T.PAK 0x64 0x280c -yes  # size to 32x12px
@@ -249,7 +249,7 @@ sfk replace -binary /1B0C140C140C1B0C005F/230D1C0D1C0C230C005F/  -yes -firsthit 
 sfk replace -binary /130C140C140C130C004B/1B0D1B0D1B0C1B0C004B/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # c frame
 sfk replace -binary /150C1C0C1C0C150C000A/1C0D230D230C1C0C000A/  -yes -firsthit -dir . -file VG1T.PAK LL1T.PAK NB1T.PAK  # r frame
 
-# item_shop
+echo "$0: reframing sign item_shop"
 sfk setbytes DR1T.PAK 0x74 0x300c -yes  # size 24x11->48x12
 sfk setbytes GB1T.PAK 0x54 0x300c -yes  # size 24x11->48x12
 sfk setbytes KD2T.PAK 0x54 0x300c -yes  # size 24x11->48x12
@@ -273,7 +273,7 @@ sfk replace -binary /1B0C140C140C1B0C005F/210C1a0C1a0C210C005F/ -yes -firsthit -
 sfk replace -binary /1B0C140C140B1B0B005F/210C1a0C1a0C210C005F/ -yes -firsthit -dir . -file YA1C.PAK
 # TODO: check multi-matches in KD2T.PAK NB1T.PAK, GB1T.PAK, VG1T.PAK
 
-# potions_shop -> test in 002-00, 043-01
+echo "$0: reframing sign potions_shop -> test in 002-00, 043-01"
 sfk setbytes VD1T.PAK 0xa8  0x0020EEC8400c0070 -yes  # size 16x11->64x12
 sfk setbytes YA1C.PAK 0xf8  0x00205F4C400c0044 -yes  # size 16x11->64x12
 #sfk setbytes VD1T.PAK 0x5b4 0x000D20051f051f062006 -yes  # change coords
@@ -287,7 +287,7 @@ sfk setbytes YA1C.PAK 0x5e0 0x40142A0C230C230C2A0C005F -yes  # L frame coords
 sfk replace -binary /0D05020502050D05004B/20051f051f062006004B/ -yes -firsthit -dir . -file VD1T.PAK YA1C.PAK  # coords
 # TODO: also in DC1T ?
 
-# gem_shop -> test in 055-00
+echo "$0: reframing sign gem_shop -> test in 055-00"
 sfk setbytes DC1T.PAK 0xb0 0x00201138300c000E -yes  # size 40x11->48x12
 sfk setbytes DC1T.PAK 0x354 0x000E1705180518061706004B -yes  # segment entry
 sfk setbytes DC1T.PAK 0x330 0x40141B0C220C220C1B0C000A -yes  # R frame coords
@@ -295,7 +295,7 @@ sfk setbytes DC1T.PAK 0x33c 0x40131A0C1A0C1A0C1A0C004B -yes  # C frame coords
 sfk setbytes DC1T.PAK 0x348 0x4012220C1B0C1B0C220C005F -yes  # L frame coords
 # TODO: also in DC1C ?
 
-# gem_shop2 -> test in 081-00
+echo "$0: reframing sign gem_shop2 -> test in 081-00"
 sfk setbytes VG1T.PAK 0x70 0x00206EC8300c0012 -yes  # Gem segment entry
 sfk setbytes VG1T.PAK 0x22c 0x00061805170517061806004B -yes  # Gem segment coords
 #sfk setbytes VG1T.PAK 0x238 0x00080000000000000000000A -yes  # Blank $ segment coords
@@ -304,14 +304,14 @@ sfk setbytes VG1T.PAK 0x214 0x400B190C1A0C1A0C190C004B -yes  # c frame coords
 sfk setbytes VG1T.PAK 0x220 0x400A210C1A0C1A0C210C005F -yes  # l frame coords
 # TODO: also in DC1T ?
 
-# King's Palace -> test in 055-00
+echo "$0: reframing sign King's Palace -> test in 055-00"
 sfk setbytes DC1T.PAK 0xa8 0x0020105C480c000D -yes  # King segment entry
 sfk setbytes DC1T.PAK 0x324 0x000D2405230523062406004B -yes  # King segment coords
 sfk setbytes DC1T.PAK 0x300 0x4014250C2C0C2C0C250C000A -yes  # r frame coords
 sfk setbytes DC1T.PAK 0x30c 0x4013240C240C240C240C004B -yes  # c frame coords
 sfk setbytes DC1T.PAK 0x318 0x40122c0C250C250C2c0C005F -yes  # l frame coords
 
-# Magic School -> test in 045-00
+echo "$0: reframing sign Magic School -> test in 045-00"
 sfk setbytes KD3T.PAK 0x60 0x00206FD0480C0014 -yes  # 'School'->'Magic School' segment entry
 sfk setbytes KD3T.PAK 0x1f6 0x0000000000000000 -yes  # 'Magic' segment coords blank
 sfk setbytes KD3T.PAK 0x200 0x00042405230523062406004b -yes  # segment coords
@@ -319,7 +319,7 @@ sfk setbytes KD3T.PAK 0x1d0 0x4008230C2A0C2A0C230C000A -yes  # R frame coords
 sfk setbytes KD3T.PAK 0x1dc 0x4007220C220C220C220C004B -yes  # C frame coords
 sfk setbytes KD3T.PAK 0x1e8 0x40062A0C230C230C2A0C005F -yes  # L frame coords
 
-# Warp Magic -> test in 045-00, 020-00, ...
+echo "$0: reframing sign Warp Magic -> test in 045-00, 020-00, ..."
 #sfk setbytes KD3T.PAK 0x88 0x0020E2BC380C0068 -yes  # segment entry
 sfk setbytes KD3T.PAK 0x8C 0x380C -yes  # size change
 sfk setbytes NE1T.PAK 0xB4 0x380C -yes  # size change
@@ -332,7 +332,7 @@ sfk setbytes SM1T.PAK 0x176 0x1C051B051B061C06004B  -yes  # segment coords (not 
 #sfk setbytes KD3T.PAK 0x54a 0x0000000000000000 -yes  # 'Magic' segment coords blank
 sfk replace -binary /0605110511050605004B/0000000000000000004B/ -yes -firsthit -dir . -file KD3T.PAK NE1T.PAK SM1T.PAK VD1T.PAK VG1T.PAK   # coords
 
-# magic_shop -> test in 045-00, 074-00
+echo "$0: reframing sign magic_shop -> test in 045-00, 074-00"
 sfk setbytes KD3T.PAK 0x5C 0x380C -yes  # size change
 sfk setbytes SG1T.PAK 0x5C 0x380C -yes  # size change
 sfk replace -binary /0705160516050705000A/0000000000000000000A/ -yes -dir . -file KD3T.PAK SG1T.PAK  # 'Shop' segment coords blank
@@ -342,50 +342,50 @@ sfk replace -binary /130C140C140C130C004B/1C0C1D0C1D0C1C0C004B/ -yes -dir . -fil
 sfk replace -binary /1B0C140C140C1B0C005F/240C1D0C1D0C240C005F/ -yes -dir . -file KD3T.PAK SG1T.PAK  # L frame coords
 # NO? SM1T.PAK NE1T.PAK VD1T.PAK VG1T.PAK 
 
-# Jestonai's Room -> test in 000-04
+echo "$0: reframing sign Jestonai's Room -> test in 000-04"
 #python _move_pak_texture.py VD14.PAK 208 -10 0
 sfk setbytes VD14.PAK 0x208 0x000814062b062b041404000a -yes  # recentering: move Room left 10px  
 sfk setbytes VD14.PAK 0x216 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 
-# Kwein's Room
+echo "$0: reframing sign Kwein's Room -> test in 000-04"
 sfk setbytes VD14.PAK 0x25E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 #python _move_pak_texture.py VD14.PAK 250 -4 0
 sfk setbytes VD14.PAK 0x250 0x00080E06250625040E04000A -yes  # recentering: move Room left 3px  
 
-# Gradriel's Room  -> test in 000-04
+echo "$0: reframing sign Gradriel's Room  -> test in 000-04"
 sfk setbytes VD14.PAK 0x130 0x000815062c062c041504000a -yes  # recentering: move Room left 10px
 sfk setbytes VD14.PAK 0x13E 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 
-# Sidrael's Room  -> test in 000-04
+echo "$0: reframing sign Sidrael's Room  -> test in 000-04"
 sfk setbytes VD14.PAK 0x178 0x00081006270627041004000a -yes  # recentering: move Room left 10px
 sfk setbytes VD14.PAK 0x186 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 
-# Eriel's Room  -> test in 000-04
+echo "$0: reframing sign Eriel's Room  -> test in 000-04"
 sfk setbytes VD14.PAK 0x1C0 0x00080c06230623040c04000a -yes  # recentering: move Room left 10px
 sfk setbytes VD14.PAK 0x1CE 0xFFFFFFFFFFFFFFFF -yes  # hide "'s"
 
-# Jadis' Room  -> test in 079-03
+echo "$0: reframing sign Jadis' Room  -> test in 079-03"
 # python _move_pak_texture.py VG11.PAK 220 -15 0
 sfk setbytes VG11.PAK 0x220 0x00070905200520050905000a -yes  # recentering
 sfk setbytes VG11.PAK 0x20A 0x2c0C250C250C2c0C005F -yes  # L frame (72x12) TODO: add more padding
 sfk setbytes VG11.PAK 0x1FE 0x240C240C240C240C004B -yes  # C frame (72x12) TODO: add more padding
 sfk setbytes VG11.PAK 0x1F2 0x250C2C0C2C0C250C000A -yes  # R frame (72x12) TODO: add more padding
  
-# Mine  -> test in 055-00
+echo "$0: reframing sign Mine  -> test in 055-00"
 # python _move_pak_texture.py DC1T.PAK 3B4 5 0
 sfk setbytes DC1T.PAK 0x3B4 0x00100D050A050A050D05004B  -yes  # recentering
  
-# Valenadine Castle -> test in 002-00
+echo "$0: reframing sign Valenadine Castle -> test in 002-00"
 sfk setbytes VD1T.PAK 0x29C 0x00052E05310531052E05004B -yes  # recentering
 
-# Volga Castle -> test in 081-00
+echo "$0: reframing sign Volga Castle -> test in 081-00"
 sfk setbytes VG1T.PAK 0x31C 0x000720051F051F052005004B -yes  # recentering
 
-# Hindel's Room -> test in 148-07
+echo "$0: reframing sign Hindel's Room -> test in 148-07"
 sfk replace -binary /000B18052F052F051805000A/000B0E05250525050E05000A/ -yes -dir . -file CAVE.PAK DG2C.PAK  DG3C.PAK   # recentering
 # TODO: DG1C.PAK
 
-# Elfaran's Room -> test in 000-04 (old castle, save-dependent)
+echo "$0: reframing sign Elfaran's Room -> test in 000-04 (old castle, save-dependent)"
 sfk setbytes VD14.PAK 0xd4 0x380b -yes  # segment entry dimensions 88x10->56x11
 sfk setbytes VD14.PAK 0x298 0x00122c050b050b052c05004B -yes  # "Elfaran" segment coords
 sfk setbytes VD14.PAK 0x2a4 0x00081105280528051105000A -yes  # "Room" segment coords
@@ -394,28 +394,28 @@ sfk setbytes VD14.PAK 0x274 0x40172C0D330D330C2C0C000A -yes  # R frame coords
 sfk setbytes VD14.PAK 0x280 0x40162b0D2b0D2b0C2b0C004B -yes  # C frame coords
 sfk setbytes VD14.PAK 0x28c 0x4015330D2C0D2C0C330C005F -yes  # L frame coords
 
-# Guestroom -> test in 000-04 (old castle, save-dependent)
+echo "$0: reframing sign Guestroom -> test in 000-04 (old castle, save-dependent)"
 sfk setbytes VD14.PAK 0xdc 0x38 -yes  # segment entry dimensions 24x11->56x11
 sfk setbytes VD14.PAK 0x2e0 0x00131b061C061C041B04004B -yes  # segment coords
 sfk setbytes VD14.PAK 0x2bc 0x40171F0D260D260C1F0C000A -yes  # R frame coords
 sfk setbytes VD14.PAK 0x2c8 0x40161E0D1E0D1E0C1E0C004B -yes  # C frame coords
 sfk setbytes VD14.PAK 0x2d4 0x4015260D1F0D1F0C260C005F -yes  # L frame coords
 
-# aud_hall -> test in 000-03
+echo "$0: reframing sign aud_hall -> test in 000-03"
 sfk setbytes VD13.PAK 0x7c 0x48 -yes  # entry dimensions 48x11->72x11
 sfk setbytes VD13.PAK 0x140 0x00072305240524052305004B -yes  # coords
 sfk setbytes VD13.PAK 0x11c 0x4010250D2C0D2C0C250C000A -yes  # R frame coords
 sfk setbytes VD13.PAK 0x128 0x400F240D240D240C240C004B -yes  # C frame coords
 sfk setbytes VD13.PAK 0x134 0x400E2B0D230D230C2B0C005F -yes  # L frame coords
 
-# aud_hall2 -> test in 079-03
+echo "$0: reframing sign aud_hall2 -> test in 079-03"
 sfk setbytes VG11.PAK 0x6c 0x480b -yes  # entry dimensions 48x12->72x11
 sfk setbytes VG11.PAK 0x1e4 0x00052305240524052305004B -yes  # coords
 sfk setbytes VG11.PAK 0x1c0 0x4014250D2C0D2C0C250C000A -yes  # R frame coords
 sfk setbytes VG11.PAK 0x1cc 0x4013240D240D240C240C004B -yes  # C frame coords
 sfk setbytes VG11.PAK 0x1d8 0x40122B0D230D230C2B0C005F -yes  # L frame coords
 
-# Courtyard  -> test in 000-01
+echo "$0: reframing sign Courtyard  -> test in 000-01"
 sfk setbytes VD11.PAK 0xfc 0x380c -yes  # entry dimensions 24x11->56x12
 sfk setbytes VD11.PAK 0x2a4 0x00171C051B051B061C06004B -yes  # coords
 sfk setbytes VD11.PAK 0x280 0x401A1C0C230C230C1C0C000A -yes  # R frame coords
@@ -428,12 +428,12 @@ sfk setbytes VD11.PAK 0x298 0x4018240C1D0C1D0C240C005F -yes  # L frame coords
 #sfk setbytes TROC.PAK 0x28c 0x??? -yes  # C frame coords
 #sfk setbytes TROC.PAK 0x298 0x??? -yes  # L frame coords
 
-# Lost Forest  -> test in 166-00 (Proserpina book)
+echo "$0: reframing sign Lost Forest  -> test in 166-00 (Proserpina book)"
 sfk setbytes LL1T.PAK 0x7c 0x40 -yes  # entry dimensions 48x11->64x11
 sfk setbytes LL1T.PAK 0x2d8 0x000720051F051F052005004B -yes  # coords
 # TODO: also in DC1T ?
   
-# Southwest  -> test in 033-00
+echo "$0: reframing sign Southwest  -> test in 033-00"
 sfk setbytes MR1C.PAK 0x13c 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes MR1C.PAK 0x454 0x001F2A060D060D042A04004B -yes  # Southwest coords
 sfk setbytes MR1C.PAK 0x460 0x00211206290629041204000A -yes  # Cave coords
@@ -441,7 +441,7 @@ sfk setbytes MR1C.PAK 0x430 0x40262C0D330D330B2C0B000A -yes  # R frame coords
 sfk setbytes MR1C.PAK 0x43c 0x40252B0D2B0D2B0B2B0B004B -yes  # C frame coords
 sfk setbytes MR1C.PAK 0x448 0x4024330D2C0D2C0B330B005F -yes  # L frame coords
  
-# Southeast  -> test in 047-00
+echo "$0: reframing sign Southeast  -> test in 047-00"
 sfk setbytes MR1C.PAK 0x144 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes MR1C.PAK 0x3b8 0x00202A060D060D042A04004B -yes  # Southeast coords
 sfk setbytes MR1C.PAK 0x3c4 0x00211206290629041204000A -yes  # Cave coords
@@ -449,7 +449,7 @@ sfk setbytes MR1C.PAK 0x394 0x40262C0D330D330B2C0B000A -yes  # R frame coords
 sfk setbytes MR1C.PAK 0x3a0 0x40252B0D2B0D2B0B2B0B004B -yes  # C frame coords
 sfk setbytes MR1C.PAK 0x3ac 0x4024330D2C0D2C0B330B005F -yes  # L frame coords
 
-# Exit -> test in 038-01
+echo "$0: reframing sign Exit -> test in 038-01"
 sfk setbytes EE1C.PAK 0xcc 0x18 -yes  # entry dimensions 16x11->24x11
 sfk setbytes GS1C.PAK 0x10c 0x18 -yes  # entry dimensions 16x11->24x11
 sfk setbytes KG1C.PAK 0xcc 0x18 -yes  # entry dimensions 16x11->24x11
@@ -460,7 +460,7 @@ sfk setbytes KG1C.PAK 0x238 0x00110c050b050b050c05004B -yes  # coords
 sfk setbytes MO1C.PAK 0x26c 0x00130c050b050b050c05004B -yes  # coords
 #NO(NOT MATCHING)? sfk replace -binary /0F05000500050F05004B/30c050b050b050c05004B/ -yes -dir . -file  EE1C.PAK  GS1C.PAK  KG1C.PAK  MO1C.PAK   # coords
 
-# item_shop2  -> test in 035-05, 061-03, 029-12
+echo "$0: reframing sign item_shop2  -> test in 035-05, 061-03, 029-12"
 sfk replace -binary /280B/300C/ -yes -firsthit -dir . -file  CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK  GS1C.PAK KG1C.PAK  EE1C.PAK  MO1C.PAK  # NO? VD17.PAK   # size 40x11->48x12
 #sfk setbytes DG2C.PAK 0x5b0 0x001C1805170517061806004B -yes  # segment coords
 sfk replace -binary /1105160516051105004B/1805170517061806004B/ -yes -firsthit -dir . -file CAVE.PAK DG1C.PAK DG2C.PAK DG3C.PAK EE1C.PAK MO1C.PAK  # segment coords
@@ -487,12 +487,12 @@ sfk replace -binary /001B00030F030F010001000A/001B00000000000000000000/ -yes -di
 sfk replace -binary /001B0703160316010701000A/001B00000000000000000000/ -yes -dir . -file  GS1C.PAK
 sfk replace -binary /001B0D031C031C010D01000A/001B00000000000000000000/ -yes -dir . -file  GS1C.PAK
 
-# Goat Shed  -> test in 026-00
+echo "$0: reframing sign Goat Shed  -> test in 026-00"
 sfk setbytes LL1T.PAK 0x6c 0x38 -yes  # entry dimensions 40x11->56x11
 sfk setbytes LL1T.PAK 0x224 0x00051C051B051B051C05004B -yes  # coords
 sfk setbytes LL1T.PAK 0x234 0x0000000000000000 -yes  # 'Hut' coords blanked
 
-# Inn -> test in 004-00, 012-00, 043-00
+echo "$0: reframing sign Inn -> test in 004-00, 012-00, 043-00, ..."
 #python _move_pak_texture.py WN1C.PAK 208 4 0
 sfk setbytes WN1C.PAK 0x140 0x00060705080508050705004B -yes  # Inn (inside the pub) recenter 
 sfk replace -binary /0D05020502050D05004B/0905060506050905004B/ -yes -firsthit -dir . -file GB1T.PAK KD2T.PAK KD3T.PAK LL1T.PAK NB1T.PAK VG1T.PAK   # Inn (in villages) recenter
@@ -505,11 +505,11 @@ sfk replace -binary /1E0C250C250C1E0C000A/100C170C170C100C000A/ -yes -firsthit -
 sfk replace -binary /1C0C1D0C1D0C1C0C004B/0D0C0F0C0F0C0D0C004B/ -yes -firsthit -dir . -file KD3T.PAK
 sfk replace -binary /240C1D0C1D0C240C005F/150C0E0C0E0C150C005F/ -yes -firsthit -dir . -file KD3T.PAK
 
-# Old (hut) -> test in 153-00 as Gradriel
+echo "$0: reframing sign Old (hut) -> test in 153-00 as Gradriel"
 sfk setbytes PP1C.PAK 0xAC 0x00020006170617040004000A -yes  # recenter
 # NO? DC1T.PAK
 
-# Edge of Town -> test in 061-00 (save-dependent)
+echo "$0: reframing sign Edge of Town -> test in 061-00 (save-dependent)"
 sfk setbytes NE1T.PAK 0x84 0x480c -yes  # entry dimensions 40x11->72x12
 sfk setbytes NE1T.PAK 0x2a0 0x00082405230523062406004B -yes  # segment coords
 #sfk setbytes NE1T.PAK 0x2ae 0x0000000000000000 -yes  # 'He' kana coords blanked
@@ -517,16 +517,16 @@ sfk setbytes NE1T.PAK 0x27c 0x400D250C2C0C2C0C250C000A -yes  # R frame coords
 sfk setbytes NE1T.PAK 0x288 0x400C250C240C240C250C004B -yes  # C frame coords
 sfk setbytes NE1T.PAK 0x294 0x400B2D0C260C260C2D0C005F -yes  # L frame coords 
 
-# ?? (mysterious) Shop  -> test in 152-00
+echo "$0: reframing sign ?? Shop  -> test in 152-00"
 #python _move_pak_texture.py GB1T.PAK 530 -3 0
 sfk setbytes GB1T.PAK 0x530 0x000D1405130513051405004B -yes  # recenter
 
-# Desert -> test in 031-00
+echo "$0: reframing sign Desert -> test in 031-00"
 sfk setbytes AT1T.PAK 0x1FE 0x1C0D230D230C1C0C000A -yes  # R frame coords
 sfk setbytes AT1T.PAK 0x20A 0x1B0D1B0D1B0C1B0C004B -yes  # C frame coords
 sfk setbytes AT1T.PAK 0x216 0x230D1C0D1C0C230C005F -yes  # L frame coords 
 
-# Truck Race  -> test in 055-00
+echo "$0: reframing sign Truck Race  -> test in 055-00"
 #python _move_pak_texture.py DC1T.PAK 3B4 3 0
 sfk setbytes DC1T.PAK 0x2BA 0x250C2C0C2C0C250C000A -yes  # R frame coords
 sfk setbytes DC1T.PAK 0x2C6 0x240C240C240C240C004B -yes  # C frame coords
@@ -534,7 +534,7 @@ sfk setbytes DC1T.PAK 0x2D2 0x2C0C250C250C2C0C005F -yes  # L frame coords
 # python _move_pak_texture.py DC1T.PAK 2f4 5 0
 sfk setbytes DC1T.PAK 0x2F4 0x00173204030403053205005F -yes  # move "Truck" left 5px
 
-# Dungeon  -> test in 000-06
+echo "$0: reframing sign Dungeon  -> test in 000-06"
 sfk setbytes VD16.PAK 0x92 0x1E0C250C250C1E0C000A -yes  # R frame coords
 sfk setbytes VD16.PAK 0x9E 0x1C0C1D0C1D0C1C0C004B -yes  # C frame coords
 sfk setbytes VD16.PAK 0xAA 0x240C1D0C1D0C240C005F -yes  # L frame coords 
@@ -545,12 +545,12 @@ sfk setbytes VD16.PAK 0xAA 0x240C1D0C1D0C240C005F -yes  # L frame coords
 #sfk setbytes RC1C.PAK 0x1B6 0x230D1C0D1C0C230C005F -yes  # L frame coords 
 #TODO: MR1C.PAK  # tower2 -> 094-00 as Portgus
 
-# Goblin Market  -> test in 154-00
+echo "$0: reframing sign Goblin Market  -> test in 154-00"
 sfk setbytes MR1C.PAK 0x486 0x2C0D330D330C2C0C000A -yes  # R frame coords
 sfk setbytes MR1C.PAK 0x492 0x2b0D2b0D2b0C2b0C004B -yes  # C frame coords
 sfk setbytes MR1C.PAK 0x49E 0x330D2C0D2C0C330C005F -yes  # L frame coords
 
-# Goblin Market2  -> test in 010-00
+echo "$0: reframing sign Goblin Market2  -> test in 010-00"
 sfk setbytes RC1C.PAK 0xF6 0x2C0D330D330C2C0C000A -yes  # R frame coords
 sfk setbytes RC1C.PAK 0x102 0x2b0D2b0D2b0C2b0C004B -yes  # C frame coords
 sfk setbytes RC1C.PAK 0x10E 0x330D2C0D2C0C330C005F -yes  # L frame coords
@@ -558,7 +558,7 @@ sfk setbytes RC1C.PAK 0x10E 0x330D2C0D2C0C330C005F -yes  # L frame coords
 # Mansion -> test in 039-00, 039-03 (save-dependent)
 # TODO: merge into a single part
 
-# Ancient Cave  -> test in 087-00 (Edward book)
+echo "$0: reframing sign Ancient Cave  -> test in 087-00 (Edward book)"
 sfk setbytes RC1C.PAK 0x9C 0x480c -yes  # entry dimensions 24x11->72x12
 sfk setbytes RC1C.PAK 0x186 0x2405230523062406004B -yes  # segment coords
 sfk setbytes RC1C.PAK 0x192 0x0000000000000000 -yes  # 'Cave' segment blanked
@@ -566,7 +566,7 @@ sfk setbytes RC1C.PAK 0x162 0x250C2C0C2C0C250C000A -yes  # R frame coords
 sfk setbytes RC1C.PAK 0x16E 0x250C240C240C250C004B -yes  # C frame coords
 sfk setbytes RC1C.PAK 0x17A 0x2D0C260C260C2D0C005F -yes  # L frame coords 
 
-# Witch's House  -> test in 150-00 (Proserpina book)
+echo "$0: reframing sign Witch's House  -> test in 150-00 (Proserpina book)"
 sfk setbytes MJ1C.PAK 0xE4 0x480c -yes  # entry dimensions 72x12
 sfk setbytes MJ1C.PAK 0x242 0x2405230523062406004B -yes  # segment coords
 sfk setbytes MJ1C.PAK 0x24E 0x0000000000000000 -yes  # 'Hut' segment blanked
@@ -580,11 +580,12 @@ sfk setbytes MJ1C.PAK 0x236 0x2D0C260C260C2D0C005F -yes  # L frame coords
 
 ## more gfx hacks
 
-# replace BEGIN text in load save dialog  https://github.com/eadmaster/pcrown/issues/90
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB  
+echo "$0: replace BEGIN text in load save dialog" #  https://github.com/eadmaster/pcrown/issues/90
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" COCKPIT.CHB   > /dev/null
 file_patch COCKPIT.CHB $(file2hexstr ${SIGNS_PATH}/save_begin_jap.bin) $(file2hexstr ${SIGNS_PATH}/save_begin_eng.bin)
-cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB
+cd-replace  "$PATCHED_IMAGE_FILE" COCKPIT.CHB COCKPIT.CHB  > /dev/null
 
+echo "$0: fix Engrish in banners"
 # fix Engrish in names https://github.com/eadmaster/pcrown/issues/93
 # PORTGAS->PORTGUS banner
 file_patch COMM.CHR $(file2hexstr ${SIGNS_PATH}/portgus_jap.bin) $(file2hexstr ${SIGNS_PATH}/portgus_eng.bin)
