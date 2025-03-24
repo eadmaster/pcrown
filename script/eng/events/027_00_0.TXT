@@ -39,11 +39,11 @@
 196613|
 <CC03EA><color=0004><string=0116><lineend><color=0001>Oh, my son!<pause><lineend>|
 196614|
-<CC03EA><color=0004><string=0117><lineend><color=0001>Here I am, mom!<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>Here I am, Mom!<pause><lineend>|
 196615|
 <CC03EA><color=0004><string=0116><lineend><color=0001>What dreadful things did she do to you, my son?<pause><lineend>|
 196616|
-<CC03EA><color=0004><string=0117><lineend><color=0001>It's all right, mom. Gradriel came and saved me!<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>It's all right, Mom. Gradriel came and saved me!<pause><lineend>|
 196617|
 <CC03EA><color=0004><string=0116><lineend><color=0001>I don't know what we would have done without you.<pause><lineend><CC03EA>Thank you so very much.<pause><lineend>|
 196618|

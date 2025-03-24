@@ -11,7 +11,6 @@
 #export CD_PATH=../../cd
 export TRANSLATED_SCRIPT_PATH=../../script/eng
 export SIGNS_PATH=../../signs
-#export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 export SFK_COLORS=
 
@@ -25,7 +24,6 @@ rm "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
 
 # convert data bin track to iso
 iat "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01).iso"
-#cp "Princess Crown (Japan) (1M) (Track 01).iso" "Princess Crown (Japan) (1M) (Track 01) (English).iso" 
 cp "Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE" 
 
 # patch font, items and names -> alters 0.BIN, KANJI.BIN
@@ -61,21 +59,21 @@ done
 
 # fix for dragon fight softlock  https://github.com/eadmaster/pcrown/issues/30
 wine eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
-cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed
+cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed  > /dev/null
 
 # fix for softlock at Larva boss  https://github.com/eadmaster/pcrown/issues/88
 wine eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
-cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed
+cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed  > /dev/null
 
 # fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
 sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
-cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng
+cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng  > /dev/null
 
 # fix for softlock at dialog with the wizard turned into a frog  https://github.com/eadmaster/pcrown/issues/89
 sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
 sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
-cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng
-cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng
+cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng  > /dev/null
+cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng  > /dev/null
 
 # patch doorway signs and other gfx elements
 source _patch_signs.sh

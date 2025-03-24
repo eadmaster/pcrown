@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=0028><lineend><color=0001>...I can't help but notice the big sword you're carrying.<pause><lineend><CC03EA>You're not... you're not the son of the Traitor, are you?<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0035><lineend><color=0001>I saw a black Dragon once!<pause><lineend><CC03EA>I snuck out to go play on the mountain, and I saw huge black Dragon!<lineend><pause><CC03EA>My mom didn't believe me when I told her. But I swear it's true!<lineend><pause>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>I saw a black Dragon once!<pause><lineend><CC03EA>I snuck out to go play on the mountain, and I saw a huge black Dragon!<lineend><pause><CC03EA>My mom didn't believe me when I told her. But I swear it's true!<lineend><pause>|
 8|
 <CC03EA><color=0006><string=004C><lineend><color=0001>You're Edward the Dragon Slayer, right?<pause><lineend><CC03EA>Now that you're here, maybe we stand a chance of getting out of this.<pause><lineend>|
 9|

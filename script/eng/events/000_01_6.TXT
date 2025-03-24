@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I have to hurry and help mother!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I have to hurry and help Mother!<pause><lineend>|
 1|
 <CC03F2=000000880000001E03FF00000000>|

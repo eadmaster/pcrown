@@ -21,7 +21,7 @@
 65539|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Ugh!<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=016E>I don't know who you are or what you're doing here.<pause><lineend><CC03EA>But this mountain is swarming with dragons. If I were you, I'd run for it.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=016E>I don't know who you are or what you're doing here.<pause><lineend><CC03EA>But this mountain is swarming with Dragons. If I were you, I'd run for it.<pause><lineend>|
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you so much!<pause><lineend>|
 65542|

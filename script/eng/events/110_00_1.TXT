@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Marie!<lineend>Thank goodness you're safe!<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0035><lineend><color=0001>This nice lady saved me, mommy.<lineend>She's really strong!<pause><lineend><CC03EA>She beat up a big Dragon!<pause><lineend>|
+<CC03EA><color=0006><string=0035><lineend><color=0001>This nice lady saved me, Mommy.<lineend>She's really strong!<pause><lineend><CC03EA>She beat up a big Dragon!<pause><lineend>|
 6|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I thought I told you to stay out of trouble...<pause><lineend>|
 7|
@@ -39,7 +39,7 @@
 131072|
 <CC03EA><CC03FC=0004><string=007D>We took too long to get here...<pause><lineend><CC03EA>There may still be Dragons in the area. Move out and protect the village!<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=007D>Playtime is over for those dragons now that we're here!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Playtime is over for those Dragons now that we're here!<pause><lineend>|
 196608|
 <CC03EA><color=0006><string=000A><lineend><color=0001>...Thank you.<pause><lineend>|
 196609|
@@ -51,11 +51,11 @@
 196612|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Oh, Marie!<lineend>Thank goodness you're safe!<pause><lineend>|
 196613|
-<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350002000103FF>This nice lady saved me, mommy.<lineend><CC03ED=00350001000103FF><pause><CC03EA><CC03ED=00350002000103FF>She's really strong!<lineend>She beat up a big dragon!<lineend><CC03ED=00350001000103FF><pause>|
+<CC03EA><color=0006><string=0035><lineend><color=0001><CC03ED=00350002000103FF>This nice lady saved me, Mommy.<lineend><CC03ED=00350001000103FF><pause><CC03EA><CC03ED=00350002000103FF>She's really strong!<lineend>She beat up a big Dragon!<lineend><CC03ED=00350001000103FF><pause>|
 196614|
 <CC03EA><color=0003><string=0001><lineend><color=0001>I thought I told you to stay out of trouble...<pause><lineend>|
 196615|
-<CC03EA><color=0003><string=0001><lineend><color=0001>...but I admit, I was wrong about you.<pause><lineend><CC03EA>Seeing you slay that dragon was the last thing I expected.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>...but I admit, I was wrong about you.<pause><lineend><CC03EA>Seeing you slay that Dragon was the last thing I expected.<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=017C><lineend><color=0001>Thank you.<pause><lineend>|
 196617|

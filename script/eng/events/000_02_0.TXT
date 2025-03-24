@@ -27,4 +27,4 @@
 13|
 <CC03EA><color=0006><string=0080><lineend><color=0001>When you stun enemies with special attacks, they'll drop items one after another.<pause><lineend><CC03EA>You can only hold 8 items in battle, so don't be stingy with them. When you've got it, use it!<pause><lineend>|
 14|
-<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|
+<CC03ED=0000001B000103FF><CC03FB=0004><CC03ED=0000001C000103FF><CC03FB=005A><CC03ED=0000001E00010000><CC03ED=0000005C03FF03FF><CC03FB=000F><CC03EA><color=0002><string=0000><lineend><CC03F8=0001><color=0001>I'm going away, Mother. But I'll be back soon.<pause><lineend><CC03ED=0000005D00010000>|
