@@ -58,6 +58,7 @@ typedef struct
 evn_header_struct header;
 
 unsigned char cmd43_var=0xFF;
+bool cmd71_flag = false;
 int special_flags=0;
 char **pattern_list=NULL;
 int num_patterns=0;
@@ -228,8 +229,17 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
       case 0x00: // Jump command
       {
          int offset=DoubleWordSwap(*((unsigned long *)(evn_buf+index)));
+         int arg_len = 4;
 
-         index += DoCommandParse(cmd, "Jump", evn_buf+index, 4, count_events, jump_list_func, command);
+         if (evn_buf[index+1])  //nonzero 2nd argument
+            arg_len = evn_buf[index + 1];      //fixes 041_00_1, might break others
+         if (DoubleWordSwap(*((unsigned long*)(evn_buf + index - 3))) == 0) //0x00000000 padding detected, including command & previous two (timing) bytes
+         {
+            arg_len = 1;
+            offset = 0;
+         }
+         index += DoCommandParse(cmd, "Jump", evn_buf+index, arg_len, count_events, jump_list_func, command);
+
          if (offset == 0)
             return -1;
 
@@ -635,8 +645,17 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
          index += DoCommandParse(cmd, "CMD70", evn_buf+index, 2, count_events, null_list_func, command);
          break;
       case 0x71: // ??
-         index += DoCommandParse(cmd, "CMD71", evn_buf+index, 2, count_events, null_list_func, command);
-         break;
+         {
+            puts("cmd71");
+            int arg_len = 3;
+             if (!cmd71_flag)    //first instance takes 2 arguments, fixes 041_00_1
+             {
+                  cmd71_flag = true;
+                  arg_len = 2;
+             }
+            index += DoCommandParse(cmd, "CMD71", evn_buf+index, arg_len, count_events, null_list_func, command);
+            break;
+         }
       case 0x72: // Stub
          index += DoCommandParse(cmd, "Null7", evn_buf+index, 1, count_events, null_list_func, command);
          break;
