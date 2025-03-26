@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*...Demon Horde? Ha! They're nothing to worry about.<pause><lineend><CC03EA>We've got the daughter of Elfaran fighting on our side! Here's to Queen Gradriel!<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>*HIC*... Demon Horde? Ha! They're nothing to worry about.<pause><lineend><CC03EA>We've got the daughter of Elfaran fighting on our side! Here's to Queen Gradriel!<pause><lineend>|
 1|
 <CC03EA><color=0006><string=000A><lineend><color=0001>This time, I think I'm going to have faith in what my husband says.<pause><lineend>|
 2|

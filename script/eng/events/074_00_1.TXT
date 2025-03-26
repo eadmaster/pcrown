@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0004><lineend><color=0001>Our King, Lord Jadis, is both a King and a Warrior of the Holy Knights.<pause><lineend><CC03EA>That's why we call him the Warrior King.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0025><lineend><color=0001>You came from the southern kingdom? Is it true that they only have queens there?<pause><lineend><CC03EA>I always thought that a kingdom is supposed to have a King.<pause><lineend><CC03EA>I mean, we've had nothing but kings here since practically forever.<pause><lineend>|
+<CC03EA><color=0006><string=0025><lineend><color=0001>You came from the Southern Kingdom? Is it true that they only have queens there?<pause><lineend><CC03EA>I always thought that a kingdom is supposed to have a King.<pause><lineend><CC03EA>I mean, we've had nothing but kings here since practically forever.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=0014><lineend><color=0001>I was actually born in Knelt, myself.<pause><lineend><CC03EA>Yes, back in the day, I traveled all over Valendia.<pause><lineend><CC03EA>And even when I went someplace I'd already been before, I would always find new things.<pause><lineend>|
 6|

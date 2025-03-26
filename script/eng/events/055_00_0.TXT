@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>Greetings, my lady! Welcome to Dwarf Land, the Kingdom of Treasures!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Greetings, my lady! Welcome to Dwarf Land, the kingdom of treasures!<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0092><lineend><color=0001>One...Two...THREE!<lineend>One...Two...THREE!<pause><lineend><CC03EA>Hmm?<lineend>Why am I digging in the middle of the road?<pause><lineend><CC03EA>Because when I see bare earth, I want to dig. That's what it is to be a Dwarf!<pause><lineend>|
 2|

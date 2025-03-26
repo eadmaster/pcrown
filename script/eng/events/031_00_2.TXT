@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>I saw Leon a few days ago. It was in the middle of the night.<pause><lineend><CC03EA>He was with a woman who was wearing a mantle.<pause><lineend><CC03EA>When I went to see him in the morning, though, there was nobody in his house.<pause><lineend><CC03EA>Maybe it was only a dream...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a really fun game called <color=0003>Truck Race<color=0001> that you can play there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the Dwarf Land.<pause><lineend><CC03EA>He said they have a really fun game called <color=0003>Truck Race<color=0001> that you can play there.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Hey, it's the girl who beat up that monster!<pause><lineend><CC03EA>Well, guess what? I beat up a monster, too!<pause><lineend><CC03EA>I saw a Goblin wandering by himself, and I smacked him with a Large Bone!<pause><lineend>|
 5|

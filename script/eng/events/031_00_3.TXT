@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0011><lineend><color=0001>I wonder if Leon will ever come back...<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the Dwarf Kingdom.<pause><lineend><CC03EA>He said they have a really fun game called <color=0003>Truck Race<color=0001> that you can play there.<pause><lineend>|
+<CC03EA><color=0006><string=0004><lineend><color=0001>A friend of mine just went to the Dwarf Land.<pause><lineend><CC03EA>He said they have a really fun game called <color=0003>Truck Race<color=0001> that you can play there.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=001F><lineend><color=0001>When we had that earthquake, I thought it meant the Basilisk would come back!<pause><lineend>|
 5|

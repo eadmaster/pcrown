@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0052><lineend><color=0001>I'm sensing a large flow of magic. It's enough to make the very ground tremble.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0053><lineend><color=0001>People in Volga, the kingdom to the north, believe in the Goddess Gaia.<pause><lineend><CC03EA>They have "Holy Knights" guarding their Kingdom.<pause><lineend><CC03EA>That reminds me, Queen Gradriel's father was from Volga, wasn't he?<pause><lineend>|
+<CC03EA><color=0006><string=0053><lineend><color=0001>People in Volga, the kingdom to the north, believe in the Goddess Gaia.<pause><lineend><CC03EA>They have "Holy Knights" guarding their kingdom.<pause><lineend><CC03EA>That reminds me, Queen Gradriel's father was from Volga, wasn't he?<pause><lineend>|
 5|
 <CC03EA><color=0006><string=001C><lineend><color=0001>The Wizards are trying so hard to catch the bandits, but it's not going well for them.<pause><lineend>|
 6|

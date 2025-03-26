@@ -19,7 +19,7 @@
 9|
 <CC03EA><color=0006><string=0005><lineend><color=0001>Demons don't just appear out of nowhere, do they?<pause><lineend>|
 10|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Kingdom.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Land.<pause><lineend>|
 11|
 <CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't find them. They were too far away!<pause><lineend>|
 12|

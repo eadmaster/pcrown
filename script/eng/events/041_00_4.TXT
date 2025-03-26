@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=002D><lineend><color=0001>The Warrior and Wizard Leaders have been getting along recently.<pause><lineend><CC03EA>What's gotten into them?<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Kingdom.<pause><lineend>|
+<CC03EA><color=0006><string=0005><lineend><color=0001>The bandits always manage to get away surprisingly fast.<pause><lineend><CC03EA>The Warriors chase after them fiercely, but they disappear north over the Dwarf Land.<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0005><lineend><color=0001>So the bandits' hideout was in Knelt!<pause><lineend><CC03EA>That's why our Warriors couldn't find them. They were too far away!<pause><lineend>|
 8|

@@ -31,7 +31,7 @@
 65551|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Where can I find it?<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Kingdom, and you shall find out quickly enough.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Go to the Dwarf Land, and you shall find out quickly enough.<pause><lineend>|
 65553|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...I understand. I'll bring you the Earth Stone.<pause><lineend><CC03EA>But once I do...<pause><lineend>|
 65554|

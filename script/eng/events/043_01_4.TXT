@@ -1,5 +1,5 @@
 0|
-<CC03EA><CC03FC=0004><string=0059><color=0004>Merchants' Leader<lineend><color=0001>I heard about how you went to the Dwarf Kingdom for my daughter.<pause><lineend><CC03EA>Allow me to return the favor. Make yourself at home and buy anything you like.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0059><color=0004>Merchants' Leader<lineend><color=0001>I heard about how you went to the Dwarf Land for my daughter.<pause><lineend><CC03EA>Allow me to return the favor. Make yourself at home and buy anything you like.<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0033><lineend><color=0001>Merchants throughout the kingdom would give their right hand to have a stall here.<pause><lineend><CC03EA>After all, if you're selling here, you can say you're one of the top Merchants in the land.<pause><lineend>|
 2|

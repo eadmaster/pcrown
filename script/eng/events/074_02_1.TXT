@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0006><string=000E><lineend><color=0001>They say the southern kingdom is full of beautiful women since it's ruled by a queen.<pause><lineend><CC03EA>You think it's true? If it is, maybe I could convince one of them to marry me!<pause><lineend><CC03EA>"In the name of Gaia herself, I promise to love you forever. Now marry me!"<pause><lineend><CC03EA>Gya ha ha ha!<pause><lineend>|
+<CC03EA><color=0006><string=000E><lineend><color=0001>They say the Southern Kingdom is full of beautiful women since it's ruled by a queen.<pause><lineend><CC03EA>You think it's true? If it is, maybe I could convince one of them to marry me!<pause><lineend><CC03EA>"In the name of Gaia herself, I promise to love you forever. Now marry me!"<pause><lineend><CC03EA>Gya ha ha ha!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=00F1><lineend><color=0001>I hear there's even a Dwarf Kingdom in Valendia.<pause><lineend><CC03EA>They probably dig up some incredible Gems there.<pause><lineend><CC03EA>Speaking of Dwarves, did you know there is a very skilled Dwarf craftsman in Volga city?<pause><lineend>|
+<CC03EA><color=0006><string=00F1><lineend><color=0001>I hear there's even a Dwarf Land in Valendia.<pause><lineend><CC03EA>They probably dig up some incredible Gems there.<pause><lineend><CC03EA>Speaking of Dwarves, did you know there is a very skilled Dwarf craftsman in Volga city?<pause><lineend>|
 2|
 <CC03EA><color=0006><string=01AA><lineend><color=0001>Welcome to the Whale in the Sky Tavern! I'll take your order.<pause><lineend>|
 3|

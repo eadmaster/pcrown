@@ -1,7 +1,7 @@
 65536|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Don't you ever get fed up with losing, Bighook?<pause><lineend>|
 65537|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>I heard about you, Portgus. You're leaving the Kingdom. What for?<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>I heard about you, Portgus. You're leaving the kingdom. What for?<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=0179><lineend><color=0001>Where did you ever hear that?<pause><lineend><CC03EA>Listen up. Do anything underhanded while I'm gone, and I'll make you regret it.<pause><lineend>|
 65539|

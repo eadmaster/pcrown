@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=000A><lineend><color=0001>Once stolen, you can't get it back, so I've started saving money again.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0031><lineend><color=0001>Where could she be?<pause><lineend><CC03EA>I sent a maid out to buy something from the Dwarf Kingdom, but she's still not back.<pause><lineend><CC03EA>You're a traveler, aren't you, miss?<pause><lineend><CC03EA>Would you mind telling her to please come home at once?<pause><lineend><CC03EA>Should you ever run across her, that is.<pause><lineend>|
+<CC03EA><color=0006><string=0031><lineend><color=0001>Where could she be?<pause><lineend><CC03EA>I sent a maid out to buy something from the Dwarf Land, but she's still not back.<pause><lineend><CC03EA>You're a traveler, aren't you, miss?<pause><lineend><CC03EA>Would you mind telling her to please come home at once?<pause><lineend><CC03EA>Should you ever run across her, that is.<pause><lineend>|
 6|
 <CC03EA><color=0002><string=0000><lineend><color=0001>What's her name?<pause><lineend>|
 7|

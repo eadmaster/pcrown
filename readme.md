@@ -58,10 +58,10 @@ In chronological order:
 
  - [CyberWarriorX](https://github.com/cyberwarriorx) (EVN file format and text compression reverse engineering, eventeditor and itemsutil patching tools)
  - [SamIAm](https://www.romhacking.net/forum/index.php?action=profile;u=10553) (original script translation draft)
- - [eadmaster](https://github.com/eadmaster) (ASCII support for the eventeditor, dialogs text splitting, doorway signs and other patching scripts, translation fixes, project mantainer)
+ - [eadmaster](https://github.com/eadmaster) (ASCII support for the eventeditor, dialogs text splitting, doorway signs and other patching scripts, translation fixes, project maintainer)
  - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
- - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/) (playtesting and bug reports)
+ - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/), [Stacatto](https://segaxtreme.net/members/stacatto.33007/) (playtesting and bug reports)
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of Engrish and translation fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering, [eventeditor fixes](https://github.com/eadmaster/pcrown/issues/91))
