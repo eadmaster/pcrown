@@ -17,7 +17,7 @@
 8|
 <CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>Northern Kingdom<lineend>Elsewhere<lineend><endchoose>|
 9|
-<CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>Arsontula<lineend>Pirates Island<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0063><color=0001>Where would you like to go?<lineend><choose>Arsontula<lineend>Pirate Isle<lineend><endchoose>|
 10|
 <CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
 11|

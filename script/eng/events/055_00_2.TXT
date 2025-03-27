@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=0093><lineend><color=0001>I wouldn't trade digging for anything in the world!<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0094><lineend><color=0001>The Dwarf mines are rich in high-quality Gems.<pause><lineend><CC03EA>With that Spider gone, we have some catching up to do!<pause><lineend>|
+<CC03EA><color=0006><string=0094><lineend><color=0001>The Dwarf Mines are rich in high-quality Gems.<pause><lineend><CC03EA>With that Spider gone, we have some catching up to do!<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0094><lineend><color=0001>Did you take a look inside Sleepy's Shop?<pause><lineend>|
 5|

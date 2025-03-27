@@ -39,7 +39,7 @@
 131084|
 <CC03EA><CC03FC=0004><string=015C><color=0001>...He carries on the name of Glowstar.<lineend><pause>|
 131085|
-<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the traitor?!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
 131086|
 <CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a father who is called a demon must be causing him a lot of pain...<lineend><pause>|
 196608|
@@ -49,7 +49,7 @@
 196610|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Yes, as do I.<pause><lineend><CC03EA>Golgotha Glowstar, my father, is hiding. I want you to tell me where.<pause><lineend>|
 196611|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an honorable Knight, like my mother says? I must know.<pause><lineend><CC03EA>If he is a traitor, I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he better be ready to explain why he abandoned us for all those years.<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Is Golgotha the Traitor everybody thinks he is?<pause><lineend><CC03EA>Or is he an honorable Knight, like my mother says? I must know.<pause><lineend><CC03EA>If he is a traitor, I'll kill him on the spot.<pause><lineend><CC03EA>If he isn't, he better be ready to explain why he abandoned us for all those years.<pause><lineend>|
 196612|
 <CC03EA><CC03FC=0004><string=0104><color=0001>It sounds almost as if you want me to help you murder your father.<pause><lineend><CC03EA>If you absolutely must know, then I will make a deal with you.<pause><lineend><CC03EA>In exchange for telling you, I want you to bring me something that I desire.<pause><lineend>|
 196613|

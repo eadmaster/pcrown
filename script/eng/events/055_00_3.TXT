@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>Hello there, my brave little lady! Welcome to Dwarf Land, the kingdom of treasures!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Hello there, my brave little lady! Welcome to Dwarf Land, the Kingdom of Treasures!<pause><lineend>|
 1|
 <CC03EA><color=0006><string=0092><lineend><color=0001>I feel warmth in my heart when I smell the scent of fresh-cut rock.<pause><lineend>|
 2|

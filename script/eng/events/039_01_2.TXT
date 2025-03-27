@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0063><lineend><color=0001>The ship is all fixed up!<pause><lineend><CC03EA>We've decided to include the Pirates Island as part of our sightseeing course.<pause><lineend><CC03EA>Care to see it again? It's just 30 Gold each way.<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>The ship is all fixed up!<pause><lineend><CC03EA>We've decided to include the Pirate Isle as part of our sightseeing course.<pause><lineend><CC03EA>Care to see it again? It's just 30 Gold each way.<pause><lineend>|
 1|
 <CC03EA><CC03FC=0004><string=0063><color=0001><choose>All aboard!<lineend>Stay behind<lineend><endchoose>|
 2|

@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=000A><lineend><color=0001>The Card Knights are supposed to be coming to fight off the Dragons.<pause><lineend><CC03EA>The new Queen may be young, but I hear she's as good with a sword as any of her Knights.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0028><lineend><color=0001>A merchant told me something once.<pause><lineend><CC03EA>He said that Golgotha the traitor had a son.<lineend><pause><CC03EA>He said he's a young man with a big sword, blonde hair, and his father's strength.<lineend><pause>|
+<CC03EA><color=0006><string=0028><lineend><color=0001>A merchant told me something once.<pause><lineend><CC03EA>He said that Golgotha the Traitor had a son.<lineend><pause><CC03EA>He said he's a young man with a big sword, blonde hair, and his father's strength.<lineend><pause>|
 5|
 <CC03FA=0028000200000000000003FF000A00280000><CC03FB=0028>|
 6|

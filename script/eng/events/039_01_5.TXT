@@ -1,5 +1,5 @@
 0|
-<CC03EA><CC03FC=0004><string=0063><color=0001>Where will we go next?<lineend><choose>Arsontula<lineend>Pirates Island<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=0063><color=0001>Where will we go next?<lineend><choose>Arsontula<lineend>Pirate Isle<lineend><endchoose>|
 1|
 <CC03EA><color=0006><string=0063><lineend><color=0001>OK, then! All aboard!<pause><lineend>|
 2|

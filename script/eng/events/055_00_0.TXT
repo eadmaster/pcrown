@@ -1,11 +1,11 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>Greetings, my lady! Welcome to Dwarf Land, the kingdom of treasures!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Greetings, my lady! Welcome to Dwarf Land, the Kingdom of Treasures!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0092><lineend><color=0001>One...Two...THREE!<lineend>One...Two...THREE!<pause><lineend><CC03EA>Hmm?<lineend>Why am I digging in the middle of the road?<pause><lineend><CC03EA>Because when I see bare earth, I want to dig. That's what it is to be a Dwarf!<pause><lineend>|
+<CC03EA><color=0006><string=0092><lineend><color=0001>One... Two... THREE!<lineend>One... Two... THREE!<pause><lineend><CC03EA>Hmm?<lineend>Why am I digging in the middle of the road?<pause><lineend><CC03EA>Because when I see bare earth, I want to dig. That's what it is to be a Dwarf!<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0093><lineend><color=0001>We Dwarves are happiest when we're digging.<pause><lineend><CC03EA>Care to give it a try yourself?<pause><lineend>|
 3|
-<CC03EA><color=0006><string=0094><lineend><color=0001>The Dwarf mines are rich in high-quality Gems.<pause><lineend>|
+<CC03EA><color=0006><string=0094><lineend><color=0001>The Dwarf Mines are rich in high-quality Gems.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0094><lineend><color=0001>Dwarves may be small, but we're good with our hands.<pause><lineend><CC03EA>One of our skills is turning the Gems we find into other things.<pause><lineend><CC03EA>Just go to Sleepy's Shop to see our work on sale. You could buy something as a souvenir!<pause><lineend>|
 5|
@@ -45,7 +45,7 @@
 22|
 <CC03EA><color=0006><CC03FC=001E><string=00F3><lineend><color=0001>Not bad, is it? The underground world has its charms.<pause><lineend>|
 23|
-<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I...ZZZ... do for you?<lineend>*Yawn*...ZZZ...<pause><lineend>|
+<CC03EA><color=0006><string=00F2><lineend><color=0001>*Yawn*<lineend>Welcome to Sleepy's Shop.<pause><lineend><CC03EA>What can I... ZZZ... do for you?<lineend>*Yawn*... ZZZ...<pause><lineend>|
 24|
 <CC03EA><CC03FC=0004><string=00F2><color=0001><choose>Shop<lineend>Change Gems<lineend>Quit<lineend><endchoose>|
 25|
