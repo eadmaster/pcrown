@@ -3,7 +3,7 @@
 1|
 <CC03EA><color=0006><string=0180><lineend><color=0001>Princess Sidrael is deeply saddened.<pause><lineend><CC03EA>She has never been away from her twin sister in her life. Not even once.<pause><lineend>|
 2|
-<CC03EA><color=0006><string=00F0><lineend><color=0001>Sidrael would be glad to know that you are safe, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=00F0><lineend><color=0001>Sidrael would be glad to know that you are safe, Your Highness.<pause><lineend>|
 3|
 <CC03EA><color=0004><string=00FC><lineend><color=0001>Please help our sister, Gradriel.<pause><lineend><CC03EA>I will pray to our mother and father that you will both be OK.<pause><lineend>|
 4|
@@ -17,7 +17,7 @@
 8|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 9|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard Your Majesty's prayers.<pause><lineend>|
 10|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 11|

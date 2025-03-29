@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 65536|
-<CC03EA><color=0004><string=0107><lineend><color=0001>This is Arsontula.<pause><lineend><CC03EA>There's a door here that leads into Bindfear, the Demon Realm.<pause><lineend><CC03EA>Please do be careful, Edward.<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>This is Arsontula.<pause><lineend><CC03EA>There's a door here that leads into Baindfear, the Demon Realm.<pause><lineend><CC03EA>Please do be careful, Edward.<pause><lineend>|
 65537|
 <CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>I really owe you for this.<lineend><CC03ED=00010003000103FF><pause>|
 65538|

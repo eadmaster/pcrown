@@ -97,7 +97,7 @@
 48|
 <CC03EA><color=0006><string=008D><lineend><color=0001>You can't go where you've never been.<pause><lineend><CC03EA>You must find places like this one in your travels. Only then can I send you to them.<pause><lineend>|
 49|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't forget, your Majesty, he said it was a red-haired witch.<pause><lineend><CC03EA><color=0005>She's in the cave off the path that runs between here and Amberstep, <color=0001>right?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Don't forget, Your Majesty, he said it was a red-haired witch.<pause><lineend><CC03EA><color=0005>She's in the cave off the path that runs between here and Amberstep, <color=0001>right?<pause><lineend>|
 50|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That sounds right.<lineend>He definitely said it was a <color=0002>cave to the southwest.<color=0001><pause><lineend>|
 51|

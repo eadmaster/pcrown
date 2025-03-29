@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Oh, your Majesty!<lineend>What's the occasion?<pause><lineend><CC03EA>On days like today, you're usually off spending time with your sisters.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Oh, Your Majesty!<lineend>What's the occasion?<pause><lineend><CC03EA>On days like today, you're usually off spending time with your sisters.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Night has fallen, your Majesty.<lineend>Please retire to your room.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Night has fallen, Your Majesty.<lineend>Please retire to your room.<pause><lineend>|
 2|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Your Majesty? Where might you be going? Please turn in for the night.<pause><lineend><CC03FB=000F><CC03ED=0000006200010000><CC03FB=000F>|

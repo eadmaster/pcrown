@@ -13,7 +13,7 @@
 6|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, Your Highness.<pause><lineend>|
 8|
 <CC03EA><color=0006><string=0078><lineend><color=0001>We all thought Golgotha had joined the Demons, yet he came to the Queen's rescue.<pause><lineend><CC03EA>Could it be that we've been wrong about him this entire time?<pause><lineend>|
 9|
@@ -25,7 +25,7 @@
 12|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 13|
-<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, Your Highness.<pause><lineend>|
 14|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Nobody knows just what it means, but the words do convey the kindness of our Royal Family.<pause><lineend>|
 15|

@@ -7,13 +7,13 @@
 3|
 <CC03EA><color=0006><string=007E><lineend><color=0001>The three Princesses are our kingdom's greatest treasure.<pause><lineend>|
 4|
-<CC03EA><color=0006><string=0052><lineend><color=0001>Surely you've started using Magic Stones by now, your Highness?<pause><lineend><CC03EA>Have you tried taking out a monster without even using your sword?<pause><lineend><CC03EA>If you can do that, I'd say you're as good a magic user as anyone else.<pause><lineend>|
+<CC03EA><color=0006><string=0052><lineend><color=0001>Surely you've started using Magic Stones by now, Your Highness?<pause><lineend><CC03EA>Have you tried taking out a monster without even using your sword?<pause><lineend><CC03EA>If you can do that, I'd say you're as good a magic user as anyone else.<pause><lineend>|
 5|
 <CC03EA><color=0006><string=007B><lineend><color=0001>This is a storage room for small goods.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, your Highness.<pause><lineend>|
+<CC03EA><color=0006><string=0077><lineend><color=0001>You are free to take anything in this room, Your Highness.<pause><lineend>|
 7|
-<CC03EA><color=0006><string=0078><lineend><color=0001>Earthquakes are so frightening, your Majesty. I was afraid I was done for!<pause><lineend>|
+<CC03EA><color=0006><string=0078><lineend><color=0001>Earthquakes are so frightening, Your Majesty. I was afraid I was done for!<pause><lineend>|
 8|
 <CC03EA><color=0006><string=0079><lineend><color=0001>I'm thankful we live in a sturdy castle.<pause><lineend>|
 9|
@@ -23,7 +23,7 @@
 11|
 <CC03EA><CC03FC=0004><string=0172><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 12|
-<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, your Highness.<pause><lineend><CC03EA>Who would have ever thought that these words were the key to releasing the Demon King?<pause><lineend>|
+<CC03EA><color=0006><string=0051><lineend><color=0001>Why, of course you do, Your Highness.<pause><lineend><CC03EA>Who would have ever thought that these words were the key to releasing the Demon King?<pause><lineend>|
 13|
 <CC03EA><color=0006><string=0051><lineend><color=0001>"Voice of mine, reach the farthest lands.<pause><lineend><CC03EA>I speak the prayer of all who seek the righteous path.<pause><lineend><CC03EA>May light rain down upon the darkness...<pause><lineend><CC03EA>May the restraints of suffering vanish...<pause><lineend><CC03EA>...And may that which is locked in our hearts be set free."<pause><lineend><CC03EA>Who would have thought such gentle words would be the key to releasing the Demon King?<pause><lineend>|
 14|

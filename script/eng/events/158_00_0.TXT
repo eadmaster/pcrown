@@ -15,7 +15,7 @@
 7|
 <CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, I really owed it to you. Thanks!<pause><lineend>|
 65536|
-<CC03EA><color=0006><string=004C><lineend><color=0001>I'm so close to beating him...but I'm all out of strength!<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>I'm so close to beating him... but I'm all out of strength!<pause><lineend>|
 65537|
 <CC03EA><color=0004><string=0184><lineend><color=0001>There's a Dragon, Proserpina!<pause><lineend><CC03EA>If we beat him, we can get our Dragon Meat!<pause><lineend>|
 65538|
@@ -39,7 +39,7 @@
 131079|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Then how about giving us some Dragon Meat?<pause><lineend><CC03EA>Every Mercenary in Dorangora carries Dragon Meat with him, right?<pause><lineend>|
 131080|
-<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, it's just...you see...these are real hard to come by, and...<pause><lineend>|
+<CC03EA><color=0006><string=004C><lineend><color=0001>Yeah, it's just... you see... these are real hard to come by, and...<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0002><lineend><color=0001>Come ON! You can't be serious! After we saved your sorry hide and everything!<pause><lineend><CC03EA>We're asking you so very nicely, too. I'd say yes if I were you.<pause><lineend><CC03EA>So? What's it going to be?<pause><lineend>|
 131082|

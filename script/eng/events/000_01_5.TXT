@@ -11,4 +11,4 @@
 5|
 <CC03EA><color=0006><string=0081><lineend><color=0001>The courtyard is through here.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0082><lineend><color=0001>It means a lot to me to be in your Majesty's service. I will work hard every day!<pause><lineend>|
+<CC03EA><color=0006><string=0082><lineend><color=0001>It means a lot to me to be in Your Majesty's service. I will work hard every day!<pause><lineend>|

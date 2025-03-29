@@ -25,7 +25,7 @@
 65548|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Your blood smells familiar...<pause><lineend><CC03EA>Golgotha... the one who trapped me...<lineend><pause><CC03EA>His blood smelled the same way...<lineend><pause><CC03EA>That makes you his son, doesn't it?<pause><lineend>|
 65549|
-<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Bindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my father is in there.<lineend><CC03ED=00010003000103FF><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001><CC03ED=00010004000103FF>This must be the way to Baindfear, the so-called Demon Realm...<lineend><CC03ED=00010003000103FF><pause><CC03EA><CC03ED=00010004000103FF>The Demon who killed my father is in there.<lineend><CC03ED=00010003000103FF><pause>|
 65550|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Edward, no!<pause><lineend>|
 65551|
@@ -33,7 +33,7 @@
 65552|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Are you all right, Edward!?<pause><lineend>|
 65553|
-<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel... I mean, your Highness... What are you doing here?<pause><lineend>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel... I mean, Your Highness... What are you doing here?<pause><lineend>|
 65554|
 <CC03EA><color=0004><string=017D><lineend><color=0001>I have to go to the Demon Realm to save my sister.<pause><lineend>|
 65555|
@@ -69,7 +69,7 @@
 131085|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Come on. Let's go.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the World of the Demons!<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
 196610|

@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=007D><lineend><color=0001>Please take care. May all your battles be victorious!<pause><lineend>|
 65536|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, your Majesty!<lineend>You've made it back safely!<pause><lineend><CC03EA>We were all so worried about you.<pause><lineend><CC03EA>I hope you realize the weight of what you've done...<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>Oh, Your Majesty!<lineend>You've made it back safely!<pause><lineend><CC03EA>We were all so worried about you.<pause><lineend><CC03EA>I hope you realize the weight of what you've done...<lineend><pause>|
 65537|
 <CC03ED=0000009F00010000><CC03ED=000000A0000103FF><CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=000000A1000103FF>I apologize for leaving without telling anybody.<lineend><CC03ED=000000A0000103FF><pause>|
 65538|
@@ -39,7 +39,7 @@
 65551|
 <CC03EA><color=0002><string=0000><lineend><color=0001>So Eriel's been kidnapped by the evil red-haired witch!<pause><lineend><CC03EA>I'm going to that tower right away!<pause><lineend>|
 65552|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>I can't allow that, your Majesty!<pause><lineend><CC03EA>We don't yet understand what that witch is after. It's far too dangerous.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>I can't allow that, Your Majesty!<pause><lineend><CC03EA>We don't yet understand what that witch is after. It's far too dangerous.<pause><lineend>|
 65553|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think I know what she's up to. There's not a moment to lose!<pause><lineend>|
 65554|
@@ -47,7 +47,7 @@
 65555|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, you stay here and guard the castle.<pause><lineend><CC03EA>I'm afraid that something dreadful might happen soon.<pause><lineend><CC03EA>Anyway, please don't worry! I promise I won't get carried away.<pause><lineend><CC03EA>If it gets too dangerous, I'll simply turn around and come back.<pause><lineend>|
 65556|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>But your Highness...<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>But Your Highness...<pause><lineend>|
 65557|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai... I order you to stay.<pause><lineend>|
 65558|

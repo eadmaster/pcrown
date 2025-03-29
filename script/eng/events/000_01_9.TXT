@@ -5,7 +5,7 @@
 2|
 <CC03EA><color=0006><string=007E><lineend><color=0001>The monster from last night seems to have been an ordinary Griffon.<pause><lineend><CC03EA>It doesn't make sense. A Griffon has no reason to come where there are so many humans.<pause><lineend>|
 3|
-<CC03EA><color=0006><string=007F><lineend><color=0001>We have seen how your swordsmanship has improved, your Highness.<pause><lineend><CC03EA>I would be surprised if a single one of us could win a match against you.<pause><lineend>|
+<CC03EA><color=0006><string=007F><lineend><color=0001>We have seen how your swordsmanship has improved, Your Highness.<pause><lineend><CC03EA>I would be surprised if a single one of us could win a match against you.<pause><lineend>|
 4|
 <CC03EA><color=0006><string=0080><lineend><color=0001>May our Queen be prosperous!<pause><lineend>|
 5|

@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I think we've taken care of everything I heard at my first audience.<pause><lineend><CC03EA>I guess that means it's time to stop in at the castle.<pause><lineend>|
 11|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, your Highness. I'll come with you!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>All right, Your Highness. I'll come with you!<pause><lineend>|
 12|
 <CC03EA><color=0006><string=001D><lineend><color=0001>Word going around is that the real Portgus beat up the fake one.<pause><lineend><CC03EA>What a relief! I always knew Portgus never would have attacked those cargo ships.<pause><lineend><CC03EA>Oh Portgus... You're my hero...<pause><lineend>|
 13|

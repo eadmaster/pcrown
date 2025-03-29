@@ -49,13 +49,13 @@
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You!!<pause><lineend>|
 65543|
-<CC03EA><color=0005><string=0106><lineend><color=0001>I've been expecting you, your Highness.<pause><lineend><CC03EA>Leon will be quite upset with me if I don't bring him your crown right away!<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>I've been expecting you, Your Highness.<pause><lineend><CC03EA>Leon will be quite upset with me if I don't bring him your crown right away!<pause><lineend>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm not giving it to you!<pause><lineend>|
 65545|
 <CC03EA><color=0005><string=0106><lineend><color=0001>In that case, you'll just have to die.<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0106><lineend><color=0001>Pretty tough, aren't you, your Highness?<pause><lineend><CC03EA>I can't wait to see how you do against me...<pause><lineend><CC03EA>...but today is your lucky day. It looks like someone's come to interfere.<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>Pretty tough, aren't you, Your Highness?<pause><lineend><CC03EA>I can't wait to see how you do against me...<pause><lineend><CC03EA>...but today is your lucky day. It looks like someone's come to interfere.<pause><lineend>|
 131073|
 <CC03EA><color=0006><string=0084><lineend><color=0001>We received word that monsters are attacking this town!<pause><lineend>|
 131074|
@@ -63,7 +63,7 @@
 131075|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You can't escape.<pause><lineend>|
 131076|
-<CC03EA><color=0005><string=0106><lineend><color=0001>You think so?<pause><lineend><CC03EA>Actually, you've got other things to worry about, your Highness.<pause><lineend><CC03EA>Leon has already reached Castle Volga.<pause><lineend><CC03EA>I've also blocked off the road to the castle. You may as well give up on ever reaching it.<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>You think so?<pause><lineend><CC03EA>Actually, you've got other things to worry about, Your Highness.<pause><lineend><CC03EA>Leon has already reached Castle Volga.<pause><lineend><CC03EA>I've also blocked off the road to the castle. You may as well give up on ever reaching it.<pause><lineend>|
 131077|
 <CC03EA><color=0002><string=0000><lineend><color=0001>No!<pause><lineend>|
 131078|

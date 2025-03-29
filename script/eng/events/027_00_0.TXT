@@ -27,7 +27,7 @@
 131080|
 <CC03EA><CC03FC=0004><string=011A>You wouldn't dare threaten me, would you?<pause><lineend><CC03EA>I think my friend here is a better match for the likes of you.<pause><lineend>|
 196608|
-<CC03EA><CC03FC=0004><string=011A>You're certainly no pushover...<pause><lineend><CC03EA>...are you, your Highness!?<pause><lineend><CC03EA>We'll just see how well it goes for you next time. Ta ta!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=011A>You're certainly no pushover...<pause><lineend><CC03EA>...are you, Your Highness!?<pause><lineend><CC03EA>We'll just see how well it goes for you next time. Ta ta!<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right?<pause><lineend><CC03EA>Your mother is waiting just over that way.<lineend><pause>|
 196610|

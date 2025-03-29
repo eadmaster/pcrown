@@ -9,7 +9,7 @@
 131072|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Those who will have audience with the Queen may now come forward.<pause><lineend>|
 131073|
-<CC03EA><CC03FC=0004><string=006F><color=0001>Your Highness, I bring news from the port town Leeland.<pause><lineend><CC03EA>A pirate called Portgus has attacked many ships and left the town in a most dire situation.<pause><lineend><CC03EA>Our authorities would seek to capture this pirate, but only if your Highness approves.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=006F><color=0001>Your Highness, I bring news from the port town Leeland.<pause><lineend><CC03EA>A pirate called Portgus has attacked many ships and left the town in a most dire situation.<pause><lineend><CC03EA>Our authorities would seek to capture this pirate, but only if Your Highness approves.<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full permission to settle this matter as requested.<pause><lineend>|
 131075|
@@ -17,7 +17,7 @@
 131076|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Next person, please.<pause><lineend>|
 131077|
-<CC03EA><CC03FC=0004><string=0073><color=0001>Your Majesty, we are having a crisis in the village of Nutsbill.<pause><lineend><CC03EA>Two of our children have disappeared...<pause><lineend><CC03EA>It looks like the fairies took them captive in the forest as part of some terrible prank.<pause><lineend><CC03EA>We humbly request that your Majesty send soldiers to search the forest for them.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0073><color=0001>Your Majesty, we are having a crisis in the village of Nutsbill.<pause><lineend><CC03EA>Two of our children have disappeared...<pause><lineend><CC03EA>It looks like the fairies took them captive in the forest as part of some terrible prank.<pause><lineend><CC03EA>We humbly request that Your Majesty send soldiers to search the forest for them.<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>It's not like the fairies to play pranks...<pause><lineend>|
 131079|
@@ -29,7 +29,7 @@
 131082|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>The last person may now step forward.<pause><lineend>|
 131083|
-<CC03EA><CC03FC=0004><string=0014><color=0001>My Queen, it is an honor to meet you for the first time on such an auspicious day as this.<pause><lineend><CC03EA>I am the mayor of the village of Dorangora to the west.<pause><lineend><CC03EA>Dragons are coming down from the mountains to attack us in ever greater numbers.<pause><lineend><CC03EA>Our warriors are no longer able to fend them off.<pause><lineend><CC03EA>I beg of you, your Majesty. Save our village from those terrible Dragons!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0014><color=0001>My Queen, it is an honor to meet you for the first time on such an auspicious day as this.<pause><lineend><CC03EA>I am the mayor of the village of Dorangora to the west.<pause><lineend><CC03EA>Dragons are coming down from the mountains to attack us in ever greater numbers.<pause><lineend><CC03EA>Our warriors are no longer able to fend them off.<pause><lineend><CC03EA>I beg of you, Your Majesty. Save our village from those terrible Dragons!<pause><lineend>|
 131084|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Dragons...<pause><lineend>|
 131085|
@@ -37,7 +37,7 @@
 131086|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Very well.<pause><lineend><CC03EA>I give full permission to settle this matter as requested.<pause><lineend>|
 131087|
-<CC03EA><CC03FC=0004><string=0014><color=0001>I am grateful for your help, your Majesty.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0014><color=0001>I am grateful for your help, Your Majesty.<pause><lineend>|
 131088|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>That appears to be all for today, Queen Gradriel.<pause><lineend><CC03EA>Now it is time to begin your swordplay lessons.<pause><lineend>|
 131089|

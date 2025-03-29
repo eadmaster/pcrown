@@ -41,7 +41,7 @@
 131085|
 <CC03EA><CC03FC=0004><string=004B><color=0001>Glowstar!? The same as Golgotha the Traitor?!<pause><lineend>|
 131086|
-<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a father who is called a demon must be causing him a lot of pain...<lineend><pause>|
+<CC03EA><CC03FC=0004><string=015C><color=0001>Yes.<pause><lineend><CC03EA>Having a father who is called a Traitor must be causing him a lot of pain...<lineend><pause>|
 196608|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Are you the Dragon that knows everything there is to know?<pause><lineend>|
 196609|

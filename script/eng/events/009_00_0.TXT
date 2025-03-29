@@ -89,4 +89,4 @@
 131082|
 <CC03EA><color=0004><string=00EE><lineend><color=0001>We will!<pause><lineend><CC03EA>Let's go, Tabitha!<pause><lineend>|
 131083|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Now the fairies can be friends with the villagers like before!<pause><lineend><CC03EA>Thank you, your Majesty!<pause><lineend><CC03EA>You know, I really like being with you.<pause><lineend><CC03EA>I just might have to tag along for the rest of your trip. I hope that's all right!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Now the fairies can be friends with the villagers like before!<pause><lineend><CC03EA>Thank you, Your Majesty!<pause><lineend><CC03EA>You know, I really like being with you.<pause><lineend><CC03EA>I just might have to tag along for the rest of your trip. I hope that's all right!<pause><lineend>|

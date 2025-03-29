@@ -23,7 +23,7 @@
 131072|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>You're quite fierce with a sword, if I do say so myself.<pause><lineend>|
 131073|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right, Moth... I mean, your Highness?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right, Moth... I mean, Your Highness?<pause><lineend>|
 131074|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>Me? I'll be fine.<pause><lineend><CC03EA>I don't know who you are, but I'm grateful for your help.<pause><lineend>|
 131075|
@@ -65,7 +65,7 @@
 196609|
 <CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic stones!<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous, your Highness!<pause><lineend>|
+<CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous, Your Highness!<pause><lineend>|
 196611|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>He's gone!! What happened!?<pause><lineend>|
 196612|
@@ -73,13 +73,13 @@
 196613|
 <CC03EA><color=0004><string=00FF><lineend><color=0001>The monsters no longer have anyone leading them.<lineend><pause><CC03EA>Tell the Card Knights to chase off any of them remaining in the castle or the town below.<lineend><pause>|
 196614|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>At once, your Highness.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>At once, Your Highness.<pause><lineend>|
 196615|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Magical Time Stone, hear me.<lineend>Banish this demon!<pause><lineend>|
 196616|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>...Golgotha, you were too hasty...<pause><lineend>|
 196617|
-<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time Stone, your Highness.<lineend><pause><CC03EA>I had read before that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the Demon have been sent somewhere else in time.<pause><lineend>|
+<CC03EA><color=0004><string=00FE><lineend><color=0001>We used the power of the Time Stone, Your Highness.<lineend><pause><CC03EA>I had read before that the Time Stone allows a person to control time and space at will.<pause><lineend><CC03EA>I'm afraid Sir Glowstar and the Demon have been sent somewhere else in time.<pause><lineend>|
 196618|
 <CC03EA><color=0005><string=0114><lineend><color=0001>This fight is over. The Queen is coming with me!<lineend><pause>|
 262144|
@@ -89,7 +89,7 @@
 262146|
 <CC03EA><color=0004><string=0101><lineend><color=0001>If you say you can't tell me, then I won't ask anything further.<pause><lineend><CC03EA>Whoever you are, you saved us all. There's no questioning that!<pause><lineend><CC03EA>As a token of our gratitude, I bestow the title of "Hero" upon you.<pause><lineend><CC03EA>You are free to go wherever you like in my kingdom.<pause><lineend><CC03EA>Please accept this as our thanks.<pause><lineend>|
 262147|
-<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I have sealed away the wicked book that was controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution, its location is secret to all except myself and a few other Wizards.<pause><lineend><CC03EA>With that settled, allow me to ask... Is this an acquaintance of yours, your Majesty?<pause><lineend><CC03EA>She has a certain air about her...<pause><lineend><CC03EA>It's as if she's a princess from a kingdom not so far away...<pause><lineend>|
+<CC03EA><color=0004><string=0100><lineend><color=0001>Your Majesty, I have sealed away the wicked book that was controlling Sir Glowstar.<pause><lineend><CC03EA>As a precaution, its location is secret to all except myself and a few other Wizards.<pause><lineend><CC03EA>With that settled, allow me to ask... Is this an acquaintance of yours, Your Majesty?<pause><lineend><CC03EA>She has a certain air about her...<pause><lineend><CC03EA>It's as if she's a princess from a kingdom not so far away...<pause><lineend>|
 262148|
 <CC03EA><color=0004><string=0101><lineend><color=0001>I've never met her before, but you're right, there is something special about her.<pause><lineend><CC03EA>Let's not be nosy, though.<pause><lineend><CC03EA>I've given her a title! Hereafter, she'll be known as the hero who saved our land.<pause><lineend>|
 262149|

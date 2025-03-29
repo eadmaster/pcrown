@@ -35,8 +35,8 @@
 17|
 <CC03ED=00F0004E00010000><CC03ED=00F0004F000103FF><CC03ED=00F00050000103FF><CC03EA><color=0004><string=00F0><lineend><color=0001>But... that's something I think he regrets now...<lineend><CC03ED=00F0005100010000><pause>|
 18|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with Your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|
 19|
 <CC03ED=0000009500010000><CC03ED=00000096000103FF><CC03FB=003C><CC03ED=000000A500010000>|
 20|
-<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|
+<CC03EA><color=0004><string=00F0><lineend><color=0001>I have faith in you, Queen Gradriel.<pause><lineend><CC03EA>Time heals all. And with Your Majesty's help...<pause><lineend><CC03EA>...the two royal families will begin to see each other again.<pause><lineend>|

@@ -77,11 +77,11 @@
 38|
 <CC03ED=00F1001000010000><CC03F9=00F1><CC03FB=000A><CC03EA><color=0004><string=00F1><lineend><color=0001>In the Goddess of Music's name, I sing...<pause><lineend>|
 39|
-<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Rest...Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>Your pain...<lineend>Your sadness...<lineend><pause><CC03EA>Sleep the memory of these away...in the arms of the Goddess...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend><pause><CC03EA>Flowing waters...dancing winds...<lineend>Lead them away...<lineend><pause><CC03EA>Lead them to the mercy and the purity of the tranquil Goddess...<lineend><pause><CC03EA>Whispers of the earth...murmurs of the ocean...light of the sun...teach them the way...<lineend><pause><CC03EA>Rest...Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>May you see dreams of hope in the next world...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend>We won't forget...Farewell...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000A>|
+<CC03ED=00F10012000103FF><CC03EA><CC03FC=0004><string=00F1><color=0004>Rest... Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>Your pain...<lineend>Your sadness...<lineend><pause><CC03EA>Sleep the memory of these away...in the arms of the Goddess...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend><pause><CC03EA>Flowing waters...dancing winds...<lineend>Lead them away...<lineend><pause><CC03EA>Lead them to the mercy and the purity of the tranquil Goddess...<lineend><pause><CC03EA>Whispers of the earth...murmurs of the ocean...light of the sun...teach them the way...<lineend><pause><CC03EA>Rest... Rest, tired souls. Your hard work is through.<lineend><pause><CC03EA>May you see dreams of hope in the next world...<lineend><pause><CC03EA>We won't forget what you lived for...<lineend>We won't forget...Farewell...<lineend><CC03ED=00F1001100010000><pause><CC03FB=000A>|
 40|
 <CC03EA><color=0004><string=00F1><lineend><color=0001>Anytime you'd care to hear a song, just let me know.<pause><lineend><CC03ED=00F1000F00010000><CC03F9=00F1><CC03FB=000A>|
 41|
-<CC03EA><color=0006><string=0015><lineend><color=0001>Oh, your Majesty!<pause><lineend><CC03EA>Now you've seen it yourself... What's happened to this town...<pause><lineend><CC03EA>But nobody is giving up! Just wait and see. We'll make Valenadine as beautiful as it ever was.<pause><lineend>|
+<CC03EA><color=0006><string=0015><lineend><color=0001>Oh, Your Majesty!<pause><lineend><CC03EA>Now you've seen it yourself... What's happened to this town...<pause><lineend><CC03EA>But nobody is giving up! Just wait and see. We'll make Valenadine as beautiful as it ever was.<pause><lineend>|
 42|
 <CC03EA><color=0006><string=001D><lineend><color=0001>The town was like this 25 years ago, too.<pause><lineend><CC03EA>But little by little, we made it right again.<pause><lineend><CC03EA>That's why there's no need to be sad. The Castle Town of Valenadine will be back!<pause><lineend>|
 43|
@@ -99,7 +99,7 @@
 49|
 <CC03EA><color=0006><string=01A3><lineend><color=0001>I'm afraid we don't buy those.<pause><lineend>|
 50|
-<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one...That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
+<CC03EA><color=0006><string=008D><lineend><color=0001>The two points shall become one... That which is, shall be no longer...<pause><lineend><CC03EA>In the blink of an eye, this mysterious magic circle will send you anywhere you desire.<pause><lineend><CC03EA>It costs 15G. Care to give it a try?<pause><lineend>|
 51|
 <CC03EA><CC03FC=0004><string=008D><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 52|

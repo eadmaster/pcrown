@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Where are you going, your Majesty?<pause><lineend><CC03EA>We have to do something, quick!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Where are you going, Your Majesty?<pause><lineend><CC03EA>We have to do something, quick!<pause><lineend>|
 1|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You're right. We're the only ones left...<pause><lineend><CC03EA>There's no choice. I have to go confront Larva.<lineend><pause>|
 2|

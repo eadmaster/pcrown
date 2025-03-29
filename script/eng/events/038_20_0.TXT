@@ -33,7 +33,7 @@
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=00000024000103FF>Leon!<lineend>Oh Leon, what should I do?<lineend><CC03ED=00000023000103FF><pause>|
 131075|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Just stand back, your Majesty.<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Just stand back, Your Majesty.<pause><lineend>|
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001><CC03ED=0000001D000103FF>Leon...<lineend><CC03ED=0000001C000103FF><pause>|
 131077|
@@ -67,6 +67,6 @@
 262145|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Are you all right!?<pause><lineend>|
 262146|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your Majesty?<pause><lineend><CC03EA>Are those people...<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, Your Majesty?<pause><lineend><CC03EA>Are those people...<pause><lineend>|
 262147|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The castle is straight up ahead. Let's hurry!<pause><lineend>|

@@ -19,4 +19,4 @@
 9|
 <CC03F0=013000030001001D03FF000003FF><CC03F0=013100030000001D03FF00000000>|
 10|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Hurry, your Majesty! After them!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Hurry, Your Majesty! After them!<pause><lineend>|

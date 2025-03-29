@@ -33,7 +33,7 @@
 16|
 <CC03EA><color=0004><string=0191><lineend><color=0001>The moon is especially beautiful tonight.<pause><lineend><CC03EA>You can get a good view of it from the balcony over there.<pause><lineend>|
 17|
-<CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, your Highness.<pause><lineend><CC03EA>It's a lovely night, and the town is sleeping in peace.<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>Take a look, Your Highness.<pause><lineend><CC03EA>It's a lovely night, and the town is sleeping in peace.<pause><lineend>|
 18|
 <CC03EA><color=0006><string=007E><lineend><color=0001>My father was also in the Card Knights.<pause><lineend><CC03EA>He served under Queen Elfaran, but was killed by Golgotha the Traitor.<pause><lineend><CC03EA>That was 25 years ago, during the war with the Demon Horde.<pause><lineend><CC03EA>It's my intention to carry on my father's duty as a Card Knight.<pause><lineend>|
 19|
@@ -43,7 +43,7 @@
 21|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 22|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard Your Majesty's prayers.<pause><lineend>|
 23|
 <CC03EA><color=0006><string=008B><lineend><color=0001>Very well. Perhaps another time.<pause><lineend>|
 24|

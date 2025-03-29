@@ -57,7 +57,7 @@
 65564|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>I bid you farewell, Queen Gradriel!<pause><lineend>|
 65565|
-<CC03EA><color=0005><string=0106><lineend><color=0001>Don't worry, your Highness. I'll keep you entertained!<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>Don't worry, Your Highness. I'll keep you entertained!<pause><lineend>|
 131072|
 <CC03EA><color=0005><string=0106><lineend><color=0001>So this is the girl who beat the Demon King.<pause><lineend><CC03EA>The next time we meet, I'm going to finish you off as Leon ordered.<pause><lineend><CC03EA>Count on it!<lineend><pause>|
 131073|
@@ -65,7 +65,7 @@
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Now you're the one under that book's spell? What should I do?<pause><lineend>|
 131075|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>Are you all right, your Majesty?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>Are you all right, Your Majesty?<pause><lineend>|
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001>We're not going to be able to stop the evil magic from spreading.<pause><lineend>|
 131077|

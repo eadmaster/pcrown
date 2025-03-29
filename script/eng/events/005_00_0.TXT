@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>Hey, it's the Queen!<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>You listened to Aria! And then you came all this way! Incredible!<lineend><CC03F1=0166><pause>|
 1|
-<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>The kids made it back to their village.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>Now we can all get along with the people in Nutsbill again.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It's all thanks to you and Aria, your Majesty! We're so glad you came along!<lineend><CC03F1=0166><pause>|
+<CC03EA><color=0006><string=0166><lineend><color=0001><CC03ED=0166000A000103FF>The kids made it back to their village.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>Now we can all get along with the people in Nutsbill again.<lineend><CC03F1=0166><pause><CC03EA><CC03ED=0166000A000103FF>It's all thanks to you and Aria, Your Majesty! We're so glad you came along!<lineend><CC03F1=0166><pause>|
 2|
 <CC03EA><color=0006><string=0167><lineend><color=0001><CC03ED=0167000A000103FF>We love those two Nutsbill children.<lineend><CC03F1=0167><pause><CC03EA><CC03ED=0167000A000103FF>It's hard to believe something like this could happen to them...<lineend><CC03F1=0167><pause>|
 3|

@@ -9,7 +9,7 @@
 65540|
 <CC03EA><color=0005><string=0106><lineend><color=0001>Ha ha ha!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=0106><lineend><color=0001>You'll never stop Leon. Do yourself a favor and give up now, your Highness.<pause><lineend>|
+<CC03EA><color=0005><string=0106><lineend><color=0001>You'll never stop Leon. Do yourself a favor and give up now, Your Highness.<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'll keep Leon from summoning Larva if it's the last thing I do!<pause><lineend>|
 65543|

@@ -27,7 +27,7 @@
 13|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thanks for all your hard work, Kwein.<pause><lineend><CC03EA>The Demons would have wreaked a lot more havoc if you hadn't been here.<pause><lineend>|
 14|
-<CC03EA><color=0004><string=0102><lineend><color=0001>You're too kind, your Majesty.<pause><lineend><CC03EA>Sir Glowstar is the one who really deserves our gratitude.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>You're too kind, Your Majesty.<pause><lineend><CC03EA>Sir Glowstar is the one who really deserves our gratitude.<pause><lineend><CC03ED=0000008700010000><CC03F9=0000>|
 15|
 <CC03EA><color=0002><string=0000><lineend><color=0001>He was a brave Knight...<pause><lineend><CC03EA>I don't understand. How did such a great man come to be hated like he was?<pause><lineend>|
 16|
@@ -37,7 +37,7 @@
 18|
 <CC03FA=0000000100000000000003FF000A003C0000><CC03FB=003C>|
 19|
-<CC03EA><color=0004><string=0102><lineend><color=0001>25 years ago, Sir Glowstar succumbed to the evil book because he was protecting me.<pause><lineend><CC03EA>If it weren't for him, I'd have been the one people blamed for the war...<pause><lineend><CC03EA>The villagers and townsfolk still don't know any better.<pause><lineend><CC03EA>All they saw was Golgotha betraying the Queen and leading Demons against the castle.<pause><lineend><CC03EA>Just remember tonight, your Majesty. That was the real Golgotha.<pause><lineend><CC03EA>Sir Glowstar was the proudest Knight in all of Valendia.<pause><lineend>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>25 years ago, Sir Glowstar succumbed to the evil book because he was protecting me.<pause><lineend><CC03EA>If it weren't for him, I'd have been the one people blamed for the war...<pause><lineend><CC03EA>The villagers and townsfolk still don't know any better.<pause><lineend><CC03EA>All they saw was Golgotha betraying the Queen and leading Demons against the castle.<pause><lineend><CC03EA>Just remember tonight, Your Majesty. That was the real Golgotha.<pause><lineend><CC03EA>Sir Glowstar was the proudest Knight in all of Valendia.<pause><lineend>|
 20|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>That book compels whoever picks it up to work toward reviving the Demon King.<pause><lineend><CC03EA>That's how Golgotha wound up fighting alongside the Demon King's Army 25 years ago.<pause><lineend>|
 21|
@@ -47,7 +47,7 @@
 23|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 24|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard Your Majesty's prayers.<pause><lineend>|
 25|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 26|
@@ -75,7 +75,7 @@
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai...<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>What is it, your Highness?<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>What is it, Your Highness?<pause><lineend>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm going back to that tower in the forest.<pause><lineend>|
 131075|

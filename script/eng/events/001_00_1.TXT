@@ -21,7 +21,7 @@
 131072|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Do I have to stay here the whole time?<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>We're going to protect you, your Majesty. Please just relax and wait here.<lineend><pause>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>We're going to protect you, Your Majesty. Please just relax and wait here.<lineend><pause>|
 131074|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I'm afraid he's going to use powerful magic against all of you.<pause><lineend><CC03EA>Please be ready for anything.<pause><lineend>|
 131075|
@@ -57,7 +57,7 @@
 131090|
 <CC03EA><CC03FC=0004><string=007D><color=0001>Yes, Sir!<pause><lineend>|
 131091|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>...If you'll excuse me, your Majesty.<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>...If you'll excuse me, Your Majesty.<pause><lineend>|
 131092|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Be careful, Jestonai.<pause><lineend>|
 131093|

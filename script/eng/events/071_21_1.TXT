@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Wait, Edward!<pause><lineend><CC03EA>Swords don't work on this Demon!<pause><lineend>|
 65539|
-<CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel... I mean, your Highness... What are you doing here?<pause><lineend>|
+<CC03EA><color=0004><string=016E><lineend><color=0001>Gradriel... I mean, Your Highness... What are you doing here?<pause><lineend>|
 65540|
 <CC03EA><color=0005><string=0114><lineend><color=0001>You!!<pause><lineend><CC03EA>You're the one who stole my Gem and sent me four years into the future!<pause><lineend>|
 65541|
@@ -31,7 +31,7 @@
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Edward.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the World of the Demons!<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
 196610|

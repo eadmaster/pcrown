@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, your Majesty?<pause><lineend><CC03EA>We need to hurry and help the others!<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What's wrong, Your Majesty?<pause><lineend><CC03EA>We need to hurry and help the others!<pause><lineend>|
 1|
 <CC03ED=0000008700010000>|
 2|

@@ -7,7 +7,7 @@
 65536|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>Oh! I've been waiting for you!<pause><lineend><CC03EA>You have defeated the monster in the mine!<pause><lineend><CC03EA>At last, the souls of so many other kings whose lives it took can rest in peace.<lineend><pause>|
 65537|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I wish I could tell you how much I sympathize, your Majesty.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I wish I could tell you how much I sympathize, Your Majesty.<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>If only there was something I could do to repay you.<pause><lineend>|
 65539|
@@ -31,4 +31,4 @@
 65548|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>I declare you a lifelong friend of the Dwarves. Come visit us whenever you like!<pause><lineend>|
 65549|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'll do that. Thank you, your Majesty.<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'll do that. Thank you, Your Majesty.<pause><lineend>|

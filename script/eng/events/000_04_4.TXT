@@ -21,7 +21,7 @@
 10|
 <CC03EA><CC03FC=0004><string=008B><color=0001><choose>Pray<lineend>Save<lineend>Quit<lineend><endchoose>|
 11|
-<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard your Majesty's prayers.<pause><lineend>|
+<CC03EA><color=0006><string=008B><lineend><color=0001>I am certain that the gods have heard Your Majesty's prayers.<pause><lineend>|
 12|
 <CC03EA><color=0006><string=008B><lineend><color=0001>I see...<pause><lineend>|
 13|

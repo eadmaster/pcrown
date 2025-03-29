@@ -25,13 +25,13 @@
 65545|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Hero...<lineend><pause><CC03EA>You mean like a certain young lady who visited us 25 years ago?<lineend><pause>|
 65546|
-<CC03EA><color=0004><string=0102><lineend><color=0001>Reporting in, your Majesty.<pause><lineend><CC03EA>All members of the Card Knights have survived, though some suffered injuries.<lineend><pause>|
+<CC03EA><color=0004><string=0102><lineend><color=0001>Reporting in, Your Majesty.<pause><lineend><CC03EA>All members of the Card Knights have survived, though some suffered injuries.<lineend><pause>|
 65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Jestonai, please go see what you can do.<lineend><pause>|
 65548|
 <CC03EA><color=0004><string=00FD><lineend><color=0001>Yes, Queen Gradriel.<lineend><pause>|
 131072|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>What are you going to do tomorrow, your Majesty?<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>What are you going to do tomorrow, Your Majesty?<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>I've got to get started on repairing all the towns that were attacked.<pause><lineend>|
 131074|
