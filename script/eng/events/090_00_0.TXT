@@ -11,13 +11,13 @@
 5|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Did you really think I would go down so easily?<pause><lineend>|
 6|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr....Fine! Let's settle this!<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr... Fine! Let's settle this!<pause><lineend>|
 65536|
 <CC03EA><color=0003><string=0003><lineend><color=0001>We're almost to the Ship Graveyard.<pause><lineend>|
 65537|
 <CC03EA><CC03FC=0004><string=0125>This keeps looking more and more like a bad idea...<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=0126>We sink here, and we're doomed to become ghost-sailors...<pause><lineend><CC03EA>B, Boss...How about we turn around? It'll be like we never even came.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0126>We sink here, and we're doomed to become ghost sailors...<pause><lineend><CC03EA>B, Boss... How about we turn around? It'll be like we never even came.<pause><lineend>|
 65539|
 <CC03EA><color=0003><string=0003><lineend><color=0001>What are you talking about?<pause><lineend><CC03EA>I couldn't hold my head up in town if we lost our cool over some dumb old ghosts!<pause><lineend>|
 65540|
@@ -73,11 +73,11 @@
 262147|
 <CC03EA><CC03FC=0004><string=0127>But what about the treasure?<pause><lineend>|
 262148|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Well, I wanted to talk to you about that...You see...<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Well, I wanted to talk to you about that... You see...<pause><lineend>|
 262149|
 <CC03EA><CC03FC=0004><string=0125><CC03ED=01250014000103FF>Whoa!!<lineend>This is incredible!!<lineend><CC03ED=01250013000103FF><pause><CC03EA><CC03ED=01250014000103FF>Ha ha haaa!!<lineend>It's raining gold!!<lineend><CC03ED=01250013000103FF><pause>|
 262150|
-<CC03EA><color=0003><string=0003><lineend><color=0001>Drake...You're doing this, aren't you?<pause><lineend>|
+<CC03EA><color=0003><string=0003><lineend><color=0001>Drake... You're doing this, aren't you?<pause><lineend>|
 262151|
 <color=0001><CC03EA>What fun is being a pirate if you don't get any treasure?<pause><lineend>|
 262152|
@@ -89,7 +89,7 @@
 262155|
 <CC03EA><color=0003><string=0003><lineend><color=0001>I'm taking the Ocean Stone back.<pause><lineend>|
 262156|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr....<pause><lineend><CC03EA>Just you remember! You won't get off so light next time!<lineend><pause>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>Grrr...<pause><lineend><CC03EA>Just you remember! You won't get off so light next time!<lineend><pause>|
 327680|
 <CC03EA><color=0003><string=0003><lineend><color=0001>All right, everyone, listen up.<pause><lineend>|
 327681|

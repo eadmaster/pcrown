@@ -15,4 +15,4 @@
 65543|
 <CC03EA><CC03FC=0004><string=017E><color=0001>Ha ha ha!<pause><lineend><CC03EA>I bet we've got ourselves a Mermaid's Tear already!<pause><lineend>|
 65544|
-<CC03EA><color=0003><string=0001><lineend><color=0001>So that's it...You're buddies with the other guy.<pause><lineend><CC03EA>You'll regret ever trying to fool me!<lineend><pause>|
+<CC03EA><color=0003><string=0001><lineend><color=0001>So that's it... You're buddies with the other guy.<pause><lineend><CC03EA>You'll regret ever trying to fool me!<lineend><pause>|

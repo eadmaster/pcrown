@@ -1,7 +1,7 @@
 0|
 <CC03EA><color=0006><string=0045><lineend><color=0001>Anyway, that Edward sure was incredible, wasn't he?<pause><lineend><CC03EA>He killed the Dragon in the southwestern caves all by himself!<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0046><lineend><color=0001>It's nice to know he lives up to the name "Dragon Slayer."<pause><lineend>|
+<CC03EA><color=0006><string=0046><lineend><color=0001>It's nice to know he lives up to the name "Dragon Slayer".<pause><lineend>|
 2|
 <CC03EA><color=0006><string=0047><lineend><color=0001>Nothing like a tall, cold glass of beer in peacetime!<pause><lineend>|
 3|

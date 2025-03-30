@@ -8,7 +8,6 @@
    - Using a fixed-width/monospaced font, with condensed spaces (not VWF)
  - All doorway signs translated and resized properly: https://github.com/eadmaster/pcrown/issues/102
  - All book/scenarios fully tested and crash-free
-   - 2 cutscenes have reduced dialogues to bypass softlocks: https://github.com/eadmaster/pcrown/issues/30  https://github.com/eadmaster/pcrown/issues/88
    - Some events commands are still not parsed correctly: https://github.com/eadmaster/pcrown/issues/91
 
 
@@ -48,10 +47,9 @@ Contact me via Discord or forums if you can help or have issues to report (pleas
  - [Discord](https://discord.gg/CPCpEwyhjf)
  - [SegaXtreme](https://segaxtreme.net/members/eadmaster.30323/)
  - [GBAtemp](https://gbatemp.net/members/eadmaster.52646/)
- - [Romhacking.net](https://www.romhacking.net/forum/index.php?action=profile;u=13104)
 
 > [!NOTE]
-> Any bit contributed will be shared in this repository under the terms of GPL-2.0.
+> Any bit contributed will be shared in this repository under the terms of [GPL-2.0](https://github.com/eadmaster/pcrown/blob/master/LICENSE).
 
 
 # Credits/Contributors/Special thanks  🤝
@@ -63,7 +61,7 @@ In chronological order:
  - [eadmaster](https://github.com/eadmaster) (ASCII support and debug mode for eventeditor and itemsutil, dialogs text splitting, doorway signs and other patching scripts, translation fixes, project maintainer)
  - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
- - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/), [Stacatto](https://segaxtreme.net/members/stacatto.33007/) (playtesting and bug reports)
+ - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/), [Stacatto](https://www.youtube.com/c/StilesReviews) (playtesting and bug reports)
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [derek](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of Engrish and translation fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering, [eventeditor fixes](https://github.com/eadmaster/pcrown/issues/91))

@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=00B3><lineend><color=0001>I never liked fighting.<pause><lineend><CC03EA>Of course, you'll meet ruffian Froggers out there who love to pick fights.<pause><lineend><CC03EA>But take a good look at my face. Would this face ever hurt you?<pause><lineend>|
 5|
-<CC03EA><color=0006><string=00B4><lineend><color=0001>We Froggers have a song we sing when we want it to rain.<pause><lineend><CC03EA>After a while, we can make lightning strike, too!<pause><lineend><CC03EA>Did you know that if it weren't for Froggers, there would be no rain? That's the law of nature.<pause><lineend><CC03EA>Ha ha! Listen to me! "Law of nature..." I sound so smart! Now, back to eating bugs.<pause><lineend>|
+<CC03EA><color=0006><string=00B4><lineend><color=0001>We Froggers have a song we sing when we want it to rain.<pause><lineend><CC03EA>After a while, we can make lightning strike, too!<pause><lineend><CC03EA>Did you know that if it weren't for Froggers, there would be no rain? That's the law of nature.<pause><lineend><CC03EA>Ha ha! Listen to me! "Law of nature"... I sound so smart! Now, back to eating bugs.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=00B5><lineend><color=0001>Welcome! I run an inn for weary travelers.<pause><lineend><CC03EA>For 30G, you can spend the night.<pause><lineend>|
 7|
