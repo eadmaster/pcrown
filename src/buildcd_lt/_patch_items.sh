@@ -35,7 +35,7 @@ sfk setbytes 0.BIN 0x702A3 0x03 -yes
 sfk setbytes 0.BIN 0x7001B 0x03 -yes
 sfk setbytes 0.BIN 0x70021 0x03 -yes
 sfk setbytes 0.BIN 0x702EF 0x89 -yes
-sfk setbytes 0.BIN 0x702BB 0x3A -yes
+sfk setbytes 0.BIN 0x702BB 0x2F -yes  # bottom padding on the selection block
 
 # items description fixes / double-line hack  https://github.com/eadmaster/pcrown/issues/57
 sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (max=1A)

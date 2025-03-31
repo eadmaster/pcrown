@@ -274,7 +274,7 @@ Make enemy unable to guard & evade<lineend>
 Strong winds push the enemy away<lineend>
 ♂ Summon a Goblin to knock enemy down<lineend>
 ♂ Damage undead enemies only<lineend>
-Infinite Equipment Endurance<lineend>
+Infinite Equipment Endurance for one battle<lineend>
 ♂ Drop a boulder on enemy<lineend>
 ◇ Sword gains fire magic for 30s<lineend>
 ◇ Sword gains lightning magic for 30s<lineend>

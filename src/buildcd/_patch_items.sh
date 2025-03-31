@@ -41,20 +41,7 @@ sfk setbytes 0.BIN 0x702A3 0x03 -yes
 sfk setbytes 0.BIN 0x7001B 0x03 -yes
 sfk setbytes 0.BIN 0x70021 0x03 -yes
 sfk setbytes 0.BIN 0x702EF 0x89 -yes
-sfk setbytes 0.BIN 0x702BB 0x3A -yes
-
-# OLD 6px font:
-#cp KANJI_ENG_Traysia.BIN KANJI_ENG.BIN
-#sfk setbytes 0.BIN 0x6E9A9 0x04 -yes
-#sfk setbytes 0.BIN 0x6E995 0x04 -yes
-#sfk setbytes 0.BIN 0x6E97D 0x04 -yes
-#
-#sfk setbytes 0.BIN 0x70249 0x04 -yes
-#sfk setbytes 0.BIN 0x702A3 0x04 -yes
-#sfk setbytes 0.BIN 0x7001B 0x04 -yes
-#sfk setbytes 0.BIN 0x70021 0x04 -yes
-#sfk setbytes 0.BIN 0x702EF 0x88 -yes
-#sfk setbytes 0.BIN 0x702BB 0x3A -yes
+sfk setbytes 0.BIN 0x702BB 0x2F -yes  # bottom padding on the selection block
 
 # items description fixes / double-line hack  https://github.com/eadmaster/pcrown/issues/57
 sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (max=1A)
@@ -91,7 +78,7 @@ source _patch_ascii.sh
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.X.Y"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997   T-ENG V1.0RC1"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997   T-ENG V1.0RC2"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN  > /dev/null
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN  > /dev/null

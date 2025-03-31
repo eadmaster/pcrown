@@ -31,7 +31,7 @@ source _patch_items.sh
 #WIP: source _patch_items_vwf.sh
 
 # patch events
-7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'
+7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'  > /dev/null
 # enforce correct line splitting
 mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
