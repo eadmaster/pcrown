@@ -13,7 +13,7 @@
 131076|
 <CC03EA><color=0002><string=0000><lineend><color=0001>He did.<pause><lineend><CC03EA>Along the way, he found a letter from the Golden Warrior.<pause><lineend>|
 131077|
-<CC03EA><color=0004><string=00E5><lineend><color=0001>I found a letter as well! Shall I read mine aloud?<pause><lineend><CC03EA>"To my heir: this trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach this point...<pause><lineend><CC03EA>...then I am sure that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded. It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the Golden Warrior that I could seal the power of my enemy.<pause><lineend><CC03EA>For as long as you live, remember this: The Warriors are friends to rely upon.<pause><lineend>|
+<CC03EA><color=0004><string=00E5><lineend><color=0001>I found a letter as well! Shall I read mine aloud?<pause><lineend><CC03EA>"To my heir: this trial began because the ties between the Warriors and Wizards have frayed.<pause><lineend><CC03EA>If you worked together to reach this point...<pause><lineend><CC03EA>...then I am sure that you will always understand the importance of cooperation.<pause><lineend><CC03EA>Your eyes have been clouded. It's time for you to see clearly.<pause><lineend><CC03EA>It was only for the help of the Golden Warrior that I could seal the power of my enemy.<pause><lineend><CC03EA>For as long as you live, remember this: the Warriors are friends to rely upon.<pause><lineend>|
 131078|
 <CC03EA><color=0002><string=0000><lineend><color=0001>The letter from the Golden Warrior said precisely the same thing.<pause><lineend>|
 131079|

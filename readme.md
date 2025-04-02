@@ -6,9 +6,9 @@
 
  - All story events, items and names translated
    - Using a fixed-width/monospaced font, with condensed spaces (not VWF)
- - All doorway signs translated and resized properly: https://github.com/eadmaster/pcrown/issues/102
+ - All doorway signs translated and resized properly: [#102](https://github.com/eadmaster/pcrown/issues/102)
  - All book/scenarios fully tested and crash-free
-   - Some events commands are still not parsed correctly: https://github.com/eadmaster/pcrown/issues/91
+   - Some events commands are still not parsed correctly: [#91](https://github.com/eadmaster/pcrown/issues/91)
 
 
 ## [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs)  ❓

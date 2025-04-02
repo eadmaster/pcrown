@@ -23,7 +23,7 @@
 65547|
 <CC03EA><color=0003><string=0003><lineend><color=0001>Shadow...<pause><lineend><CC03EA>So that's his name...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path.<color=0001>Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0005>Between Knelt and Cadho Badho is a branching path.<color=0001> Take it.<pause><lineend><CC03EA>At its end, you will find Shadow's tower.<pause><lineend>|
 65549|
 <CC03EA><color=0004><string=0104><lineend><color=0001>That Demon possesses a Magic Stone which gives him great strength.<pause><lineend><CC03EA>Of course, it makes little difference to me whether he kills you.<pause><lineend><CC03EA>The Ocean Stone is mine now.<pause><lineend>|
 65550|
