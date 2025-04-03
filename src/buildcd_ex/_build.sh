@@ -46,10 +46,15 @@ source _patch_items.sh
 cp ../buildcd/031_01_0.EVN.eng .
 sfk setbytes 031_01_0.EVN.eng 0x1aa 0x2c -yes
 cd-replace "$PATCHED_IMAGE_FILE" 031_01_0.EVN  031_01_0.EVN.eng  > /dev/null
-# Dwarf King Earth Stone cutscene fix https://github.com/eadmaster/pcrown/issues/105
+# Dwarf King cutscenes fix https://github.com/eadmaster/pcrown/issues/105
 cp ../buildcd/055_01_1.EVN.eng .
 sfk setbytes 055_01_1.EVN.eng 0xDF 0x2C -yes
 cd-replace "$PATCHED_IMAGE_FILE" 055_01_1.EVN  055_01_1.EVN.eng  > /dev/null
+cp ../buildcd/055_02_3.EVN.eng .
+sfk setbytes 055_02_3.EVN.eng 0x134 0x2C -yes
+sfk setbytes 055_02_3.EVN.eng 0x1BF 0x2C -yes
+cd-replace "$PATCHED_IMAGE_FILE" 055_02_3.EVN  055_02_3.EVN.eng  > /dev/null
+
 
 # build xdelta patch (bin)
 xdelta3 -S none -f -e -s "../buildcd/Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.1M.Track.01.EX.bin.xdelta"
