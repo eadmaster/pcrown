@@ -268,7 +268,7 @@ Cure Drop<lineend>
 ♂ Rain down meteors<lineend>
 ▼ Restore HP & damage undead enemies<lineend>
 
-Change weak enemies into animals<lineend>
+Turn weak enemies into animals<lineend>
 ♂ Create and throw 3 Daggers<lineend>
 Make enemy unable to guard & evade<lineend>
 Strong winds push the enemy away<lineend>

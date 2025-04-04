@@ -69,7 +69,7 @@ sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (ma
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" -> "@SEGA & ATLUS,1997 T-ENG 0.8.5+EX"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V1.0RC1LT"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V1.0RC3LT"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN

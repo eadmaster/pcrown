@@ -268,7 +268,7 @@ Shoot ice arrows<lineend>
 Rain down meteors<lineend>
 Unleash Holy Light<lineend>
 
-Change weak enemies into animals<lineend>
+Turn weak enemies into animals<lineend>
 Create Daggers<lineend>
 Make enemy defenseless<lineend>
 Strong winds push the enemy away<lineend>
