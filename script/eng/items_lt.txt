@@ -402,7 +402,7 @@ Grow Bomb Plant<lineend>
 <CC03EA><color=0000>Select a Food Ingredient<lineend><pause>
 <CC03EA><color=0000>Select a Gem<lineend><pause>
 <CC03EA><color=0000>Choose something to restore<lineend><pause>
-<CC03EA><color=0000><CC03F7> is done<lineend><pause>
+<CC03EA><color=0000><CC03F7> is ready<lineend><pause>
 <CC03EA><color=0000><CC03F7> is necessary<lineend><pause>
 <CC03EA><color=0000><CC03F7> can't be cooked<lineend><pause>
 <CC03EA><color=0000><CC03F7> has been restored<lineend><pause>

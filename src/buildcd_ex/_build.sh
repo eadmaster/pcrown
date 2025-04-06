@@ -13,7 +13,7 @@ rm "$PATCHED_IMAGE_FILE"
 cp "../buildcd/$PATCHED_IMAGE_FILE" .
 
 # extract prepatched files for the widescreen hack
-7z e -y "PC_patch_v1,2.7z" "Patch"
+7z e -y "PC_patch_v1,3.7z" "Patch"
 
 # replace all pre-patched MCB files
 find *.MCB | while read mcbfile; do     
