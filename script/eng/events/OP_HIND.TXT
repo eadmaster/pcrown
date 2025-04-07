@@ -1,13 +1,13 @@
 65536|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I have watched over humankind for one thousand years...<pause><lineend><CC03EA>The darkness is fading, while love and faith are slowly returning.<pause><lineend><CC03EA>Soon, the Goddess Gaia will awaken.<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The three Stones are in my possession...<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The three Gems are in my possession...<pause><lineend>|
 65538|
 <CC03EA><color=0004><string=0104><lineend><color=0001>Perhaps it is time to fulfill my own destiny and wake her myself.<pause><lineend><CC03EA>Yet doing so will bring about the end of my own life.<pause><lineend>|
 65539|
 <CC03EA><color=0004><string=0104><lineend><color=0001>...I shall leave it to the young Queen.<pause><lineend>|
 131072|
-<CC03EA><color=0001>Gradriel...<lineend>Queen Gradriel of Valendia.<pause><lineend>|
+<CC03EA><color=0001>Gradriel...<lineend>Queen of Valendia.<pause><lineend>|
 131073|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Who's there?<pause><lineend>|
 131074|
@@ -21,9 +21,9 @@
 196608|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Hindel? What are you doing here?<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>What are those Stones?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>What are those Gems?<pause><lineend>|
 196610|
-<CC03EA><color=0004><string=0104><lineend><color=0001>These are three of the four Stones that will restore the Goddess to this land.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>These are three of the four Magic Stones that will restore the Goddess to this land.<pause><lineend>|
 196611|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Restore... the Goddess?<pause><lineend>|
 196612|

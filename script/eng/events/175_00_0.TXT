@@ -9,21 +9,21 @@
 65540|
 <CC03EA><color=0004><string=0104><lineend><color=0001>I'm sure you've heard it before. The story goes back 1000 years...<pause><lineend><CC03EA>Your world was once protected by a Goddess called Gaia.<pause><lineend><CC03EA>The God of Darkness, Larva, spread hatred and evil magic to try and make the world his own.<pause><lineend><CC03EA>Yet he was forced to rely on a human to be the leader of his dark army...<pause><lineend><CC03EA>...for Gods are only able to have a hand in the human world through others.<pause><lineend><CC03EA>The human he chose was Volgrod, the one you've been calling the Demon King.<pause><lineend><CC03EA>The onslaught of the Demon Army caused love and faith to weaken...<pause><lineend><CC03EA>...which, in turn, caused Gaia to lose strength.<pause><lineend><CC03EA>In the end, Gaia used the last of her power to seal away the Demon King in his realm.<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0104><lineend><color=0001>...It was actually an enormous gamble...<pause><lineend><CC03EA>Before Gaia disappeared, she sealed her spirit into four Stones.<pause><lineend><CC03EA>This was so that she could eventually return.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>...It was actually an enormous gamble...<pause><lineend><CC03EA>Before Gaia disappeared, she sealed her spirit into four Gems.<pause><lineend><CC03EA>This was so that she could eventually return.<pause><lineend>|
 65542|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Is that what these Stones are?<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Is that what these Gems are?<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gaia gave life to each of the four Stones, turning them into four Dragons.<pause><lineend><CC03EA>We were supposed to protect the world from evil...<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>Yes.<pause><lineend><CC03EA>Gaia gave life to each of the four Gems, turning them into four Dragons.<pause><lineend><CC03EA>We were supposed to protect the world from evil...<lineend><pause>|
 65544|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Hindel!<pause><lineend>|
 65545|
 <CC03EA><color=0004><string=0104><lineend><color=0001>The Dragons of the Earth Stone and the Ocean Stone both passed away long ago.<pause><lineend><CC03EA>Evil corrupted the Dragon of the Sun Stone, but Edward has defeated him.<pause><lineend>|
 65546|
-<CC03EA><color=0004><string=0104><lineend><color=0001>The final Stone exists inside of me.<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>The final Gem exists inside of me.<pause><lineend>|
 65547|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Hindel...<pause><lineend>|
 65548|
-<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You will receive the only chance that any human will ever have.<pause><lineend><CC03EA>If you can defeat me, then I will die, and Gaia will return. But if you lose...<pause><lineend><CC03EA>...I will seal away the three other Stones, and the Goddess of Light will never return.<pause><lineend><CC03EA>Take your sword in your hands. There is no refusing. There is no turning away.<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>When Gaia revives, my fate is to disappear forever.<pause><lineend><CC03EA>However, I have lived too long.<pause><lineend><CC03EA>With each passing year, I've grown more attached to my own life.<pause><lineend><CC03EA>And so I've chosen you, Gradriel.<pause><lineend><CC03EA>You will receive the only chance that any human will ever have.<pause><lineend><CC03EA>If you can defeat me, then I will die, and Gaia will return. But if you lose...<pause><lineend><CC03EA>...I will seal away the three other Gems, and the Goddess of Light will never return.<pause><lineend><CC03EA>Take your sword in your hands. There is no refusing. There is no turning away.<lineend><pause>|
 65549|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Then the only choice I have is to fight!<pause><lineend>|
 131072|
@@ -43,7 +43,7 @@
 131079|
 <CC03EA><color=0002><string=0000><lineend><color=0001>His original form?<pause><lineend>|
 131080|
-<CC03EA><color=0004><string=019E><lineend><color=0001>My spirit was divided into those four Stones you saw before.<pause><lineend><CC03EA>Hindel was the embodiment of my Wisdom, which exists for the sake of protecting humans.<pause><lineend><CC03EA>In other words, he is me.<pause><lineend>|
+<CC03EA><color=0004><string=019E><lineend><color=0001>My spirit was divided into those four Gems you saw before.<pause><lineend><CC03EA>Hindel was the embodiment of my Wisdom, which exists for the sake of protecting humans.<pause><lineend><CC03EA>In other words, he is me.<pause><lineend>|
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>...Really?<pause><lineend>|
 131082|
