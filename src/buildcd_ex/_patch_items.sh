@@ -72,7 +72,7 @@ source ../buildcd/_patch_ascii.sh
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" -> "@SEGA & ATLUS,1997 T-ENG 0.X.X+EX"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V1.0RC3EX"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997   T-ENG V1.0+EX"  -yes
 
 # TODO: reduce speech bubbles transparency (addr.: 060FFDC8 = 04)  https://github.com/eadmaster/pcrown/issues/18
 #sfk setbytes 0.BIN 0xC748 0x..   -yes

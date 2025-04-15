@@ -65,8 +65,8 @@ sfk setbytes 0.BIN 0x5e4b3  0x0b  -yes
 # retrieve 0605bd20 pointer from different location that's not overwritten
 sfk setbytes 0.BIN 0x5e4b7  0xde  -yes
 
-# "TREASURE MENU" (end battle screen) -> "ITEMS DROPPED"
-sfk setbytes 0.BIN 0xA6B60  "ITEMS DROPPED"  -yes
+# "TREASURE MENU" (end battle screen) -> "DROPPED ITEMS"
+sfk setbytes 0.BIN 0xA6B60  "DROPPED ITEMS"  -yes
 
 # "FALLDOWN FROM THE BOOKWORLD" (gameover screen) -> "FALLEN FROM THE BOOKWORLD"
 sfk setbytes 0.BIN 0xACC32 0x20032003460341034C034C0345034E   -yes

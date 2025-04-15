@@ -365,7 +365,7 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA><CC03F4> is slowly closing in<pause><lineend>
 <CC03EA><CC03F4> summoned a thunderstorm<pause><lineend>
 <CC03EA><CC03F4>s are ganging up on you<pause><lineend>
-<CC03EA><CC03F4> have scattered your items<pause><lineend>
+<CC03EA><CC03F4> has scattered your items<pause><lineend>
 <CC03EA><CC03F4>'s arrow hit its mark<pause><lineend>
 <CC03EA>His partner is up to something<pause><lineend>
 <CC03EA><CC03F4> ate some meat<pause><lineend>
@@ -428,16 +428,16 @@ Grow Bomb Plant during battle after 15s<lineend>
 <CC03EA><color=0000><CC03F7>'s effect ended<lineend><pause>
 
 
-<CC03EA>Sword! Grant me strength<lineend>and courage!!<pause><lineend>
-<CC03EA>In the name of the Queen,<lineend>I can't lose!<pause><lineend>
-<CC03EA>If I land another hit,<lineend>I hope it's this one!<pause><lineend>
-<CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<pause><lineend>
-<CC03EA>I don't care who you are.<lineend>You get in my way, you die!!<pause><lineend>
-<CC03EA>Sword! Embody my anger!!<pause><lineend>
-<CC03EA>Here we go! This one's going to<lineend>be full-blast!!<pause><lineend>
-<CC03EA>It's been fun. Bye now!!<pause><lineend>
-<CC03EA>Enough! Just die already!!<pause><lineend>
-<CC03EA>You better hope this doesn't<lineend>stick, or you're finished!<pause><lineend>
-<CC03EA>You almost had me.<lineend>Now it's my turn!<pause><lineend>
-<CC03EA>You'll never beat me,<lineend>if that's all you've got!<pause><lineend>
+<CC03EA>Sword! Grant me strength<lineend>and courage!!<lineend> <pause><lineend>
+<CC03EA>In the name of the Queen,<lineend>I can't lose!<lineend> <pause><lineend>
+<CC03EA>If I land another hit,<lineend>I hope it's this one!<lineend> <pause><lineend>
+<CC03EA>Did that hurt? This will put you<lineend>out of your misery!!<lineend> <pause><lineend>
+<CC03EA>I don't care who you are.<lineend>You get in my way, you die!!<lineend> <pause><lineend>
+<CC03EA>Sword! Embody my anger!!<lineend> <pause><lineend>
+<CC03EA>Here we go! This one's going to<lineend>be full-blast!!<lineend> <pause><lineend>
+<CC03EA>It's been fun. Bye now!!<lineend> <pause><lineend>
+<CC03EA>Enough! Just die already!!<lineend> <pause><lineend>
+<CC03EA>You better hope this doesn't<lineend>stick, or you're finished!<lineend> <pause><lineend>
+<CC03EA>You almost had me.<lineend>Now it's my turn!<lineend> <pause><lineend>
+<CC03EA>You'll never beat me,<lineend>if that's all you've got!<lineend> <pause><lineend>
 <CC03F3=0000><CC03EA>I sense monsters nearby<pause><lineend>
