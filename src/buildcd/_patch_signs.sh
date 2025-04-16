@@ -3,7 +3,6 @@
 # Signs and banners patching script  https://github.com/eadmaster/pcrown/issues/5
 
 export SIGNS_PATH=../../signs
-#export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (English).iso"
 export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 export SFK_COLORS=
 
