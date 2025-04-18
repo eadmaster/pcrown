@@ -13,7 +13,7 @@
 65542|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>What...!<pause><lineend>|
 65543|
-<CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible magic power!<pause><lineend><CC03EA>That's the power of... darkness!<pause><lineend><CC03EA>Such a shame. I'll have to withdraw for now.<pause><lineend>|
+<CC03EA><color=0005><string=00F7><lineend><color=0001>What incredible magic power!<pause><lineend><CC03EA>That's the power of... Darkness!<pause><lineend><CC03EA>Such a shame. I'll have to withdraw for now.<pause><lineend>|
 65544|
 <CC03EA><color=0005><string=00F7><lineend><color=0001>But that crown of yours will be mine! And very soon!<pause><lineend>|
 131072|

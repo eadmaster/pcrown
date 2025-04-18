@@ -7,7 +7,7 @@
 3|
 <CC03EA><color=0006><string=0063><lineend><color=0001>Volga? But, my lady...<pause><lineend><CC03EA>...Well, I suppose there's no stopping you.<pause><lineend>|
 4|
-<CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry.<pause><lineend><CC03EA>I know I keep asking so many dangerous things of you.<pause><lineend><CC03EA>But...Please! I need your help!<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>I'm very sorry.<pause><lineend><CC03EA>I know I keep asking so many dangerous things of you.<pause><lineend><CC03EA>But... Please! I need your help!<pause><lineend>|
 5|
 <CC03FA=0063000500000000000003FF000D005A0000><CC03FB=005A>|
 6|

@@ -11,11 +11,11 @@
 5|
 <CC03EA><color=0005><string=009D><lineend><color=0001>We're going to take every last goat they've got!<pause><lineend>|
 6|
-<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot of Goats...<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot of goats...<pause><lineend>|
 7|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>I'm going to eat goat-cheese until I explode!!<pause><lineend>|
 8|
-<CC03EA><color=0005><string=00A1><lineend><color=0001>All right, you guys...Let's do this!<pause><lineend>|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>All right, you guys... Let's do this!<pause><lineend>|
 9|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You're going to have to get past me first!<pause><lineend>|
 10|
@@ -51,11 +51,11 @@
 65538|
 <CC03EA><color=0005><string=009D><lineend><color=0001>We're going to take every last goat they've got!<pause><lineend>|
 65539|
-<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot of Goats...<pause><lineend>|
+<CC03EA><color=0005><string=009F><lineend><color=0001>If we took a lot of goats...<pause><lineend>|
 65540|
 <CC03EA><color=0005><string=00A0><lineend><color=0001>I'm going to eat goat-cheese until I explode!!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=00A1><lineend><color=0001>All right, you guys...Let's do this!<pause><lineend>|
+<CC03EA><color=0005><string=00A1><lineend><color=0001>All right, you guys... Let's do this!<pause><lineend>|
 65542|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You're going to have to get past me first!<pause><lineend>|
 65543|

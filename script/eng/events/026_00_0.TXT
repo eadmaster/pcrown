@@ -17,7 +17,7 @@
 8|
 <CC03EA><color=0006><string=0028><lineend><color=0001>Recently, there's been something wrong with the forest.<pause><lineend><CC03EA>Monsters have swarmed it, and there's a bad feeling in the air.<pause><lineend><CC03EA>Maybe something happened to the Unicorns protecting the forest...<pause><lineend>|
 9|
-<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but...uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>There was a Goblin in the village earlier.<pause><lineend><CC03EA>I wanted to go teach him a lesson myself, but... uh...<pause><lineend><CC03EA>...it was time to go milk the goats, so I had to go home. What a shame!<pause><lineend>|
 10|
 <CC03EA><color=0006><string=001F><lineend><color=0001>The next time any Goblins come making trouble, I'm going to whip 'em myself!<pause><lineend>|
 11|

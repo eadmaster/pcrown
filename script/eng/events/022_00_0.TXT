@@ -25,7 +25,7 @@
 12|
 <CC03EA><CC03FC=0004><string=00EC><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 13|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha...You don't have enough money!<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>Ah, ha ha... You don't have enough money!<pause><lineend>|
 14|
 <CC03EA><color=0005><string=00EC><lineend><color=0001>You don't have enough space to carry it! Better get rid of something!<pause><lineend>|
 15|

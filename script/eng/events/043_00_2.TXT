@@ -35,7 +35,7 @@
 17|
 <CC03EA><color=0006><string=001F><lineend><color=0001>Oh gosh, that's right!<pause><lineend><CC03EA>I wasn't supposed to tell anybody!<lineend><CC03F1=001F><CC03ED=000B0046000103FF><pause>|
 18|
-<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady...Could you forget about what I just said?<pause><lineend>|
+<CC03EA><color=0006><string=001F><lineend><color=0001>Say lady... Could you forget about what I just said?<pause><lineend>|
 19|
 <CC03EA><color=0006><string=000B><lineend><color=0001>Hello there!<pause><lineend>|
 20|

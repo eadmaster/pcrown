@@ -13,7 +13,7 @@
 65542|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Don't worry about me. Stay focused on the battle!<pause><lineend>|
 65543|
-<CC03EA><color=0004><string=017E><lineend><color=0001>I...I will.<pause><lineend>|
+<CC03EA><color=0004><string=017E><lineend><color=0001>I... I will.<pause><lineend>|
 65544|
 <CC03EA><color=0003><string=0001><lineend><color=0001>...You're the Queen.<pause><lineend><CC03EA>I knew I had heard that name somewhere before.<pause><lineend>|
 65545|

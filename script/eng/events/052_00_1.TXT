@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0006><string=00B1><lineend><color=0001>I'm...so...hungry...<pause><lineend><CC03EA>It's been days...since I last ate.<pause><lineend>|
+<CC03EA><color=0006><string=00B1><lineend><color=0001>I'm... so... hungry...<pause><lineend><CC03EA>It's been days... since I last ate.<pause><lineend>|
 1|
-<CC03EA><color=0006><string=00B1><lineend><color=0001>A...a bug!<lineend>The bugs are back!<pause><lineend>|
+<CC03EA><color=0006><string=00B1><lineend><color=0001>A... a bug!<lineend>The bugs are back!<pause><lineend>|
 2|
 <CC03ED=00B1000200010000><CC03ED=00B10003000103FF><CC03FB=001E><CC03ED=00B1000600010000>|
 3|
@@ -15,11 +15,11 @@
 7|
 <CC03EA><color=0006><string=00B3><lineend><color=0001>Our village is filled with bugs again! How wonderful!<pause><lineend>|
 8|
-<CC03EA><color=0006><string=00B4><lineend><color=0001>I'm dying to go squash that Myconid myself...<pause><lineend><CC03EA>But who can fight on an empty stomach?<pause><lineend><CC03EA>Please...Will you do it instead? We're begging you...<pause><lineend>|
+<CC03EA><color=0006><string=00B4><lineend><color=0001>I'm dying to go squash that Myconid myself...<pause><lineend><CC03EA>But who can fight on an empty stomach?<pause><lineend><CC03EA>Please... Will you do it instead? We're begging you...<pause><lineend>|
 9|
 <CC03EA><CC03FC=0004><string=00B4><color=0001><choose>Yes<lineend>No<lineend><endchoose>|
 10|
-<CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you so...Wait, what!?<pause><lineend><CC03EA>No!? How cruel! And here you had my hopes up!<pause><lineend>|
+<CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you so... Wait, what!?<pause><lineend><CC03EA>No!? How cruel! And here you had my hopes up!<pause><lineend>|
 11|
 <CC03EA><color=0006><string=00B4><lineend><color=0001>Thank you! Thank you!<pause><lineend><CC03EA>You're a ray of hope to us all!<pause><lineend><CC03EA>The Myconid lives in <color=0005>the forest straight beyond the right exit of our village.<color=0001><pause><lineend><CC03EA>We're counting on you!<pause><lineend>|
 12|
