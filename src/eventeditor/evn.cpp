@@ -229,7 +229,21 @@ int EVNParse(unsigned char *evn_buf, int index, BOOL count_events, command_struc
       {
          int offset=DoubleWordSwap(*((unsigned long *)(evn_buf+index)));
 
-         index += DoCommandParse(cmd, "Jump", evn_buf+index, 4, count_events, jump_list_func, command);
+         #ifndef NEW_FIXES
+            index += DoCommandParse(cmd, "Jump", evn_buf+index, 4, count_events, jump_list_func, command);
+         #else
+            int arg_len = 4;
+
+            if (evn_buf[index+1])  //nonzero 2nd argument
+               arg_len = evn_buf[index + 1];      //fixes 041_00_1, might break others
+            if (DoubleWordSwap(*((unsigned long*)(evn_buf + index - 3))) == 0 && index > 0x1000) //0x00000000 padding detected, including command & previous two (timing) bytes
+            {
+               arg_len = 1;
+               offset = 0;
+            }
+            index += DoCommandParse(cmd, "Jump", evn_buf+index, arg_len, count_events, jump_list_func, command);
+         #endif
+         
          if (offset == 0)
             return -1;
 
@@ -847,8 +861,8 @@ int EVNLoadFile(const char *filename)
 
                #ifdef NEW_FIXES
                   // fix for https://github.com/eadmaster/pcrown/issues/30
-                  if (i != list_size-1 && (index+2) > 0x1000+header.offsets1[list[i+1]])
-                     puts("015 fix diff");
+                  //if (i != list_size-1 && (index+2) > 0x1000+header.offsets1[list[i+1]])
+                  //   puts("015 fix diff");
                   if (i != list_size-1 && (index+2) == 0x1000+header.offsets1[list[i+1]])
                      break;
                #else
