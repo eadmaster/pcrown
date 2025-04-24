@@ -1,14 +1,14 @@
 0|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>�q�b�q�b�q�B<lineend>�o�o�̃}�W�b�N�V���b�v�ւ悤�����E�E�E<pause><lineend><CC03EA>�����͉������ɂ����񂾂��H<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>ヒッヒッヒ。<lineend>ババのマジックショップへようこそ・・・<pause><lineend><CC03EA>今日は何をしにきたんだい？<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=01B8><color=0001><choose>�����@<lineend>����@<lineend>��߂�<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=01B8><color=0001><choose>買う　<lineend>売る　<lineend>やめる<lineend><endchoose>|
 2|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>�q�b�q�b�q�B<lineend>�܂������ŁE�E�E�E<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>ヒッヒッヒ。<lineend>またおいで・・・・<pause><lineend>|
 3|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>����������B<pause><lineend><CC03EA>�g�V���������炩�����႟<lineend>������˂��E�E�E<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>金が足りんよ。<pause><lineend><CC03EA>トシヨリをからかっちゃぁ<lineend>いかんねぇ・・・<pause><lineend>|
 4|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>�ו��������ς��̂悤����ȁE�E�E<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>荷物がいっぱいのようじゃな・・・<pause><lineend>|
 5|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>�A�C�e�����ЂƂ��Ȃ�����Ȃ����B<pause><lineend><CC03EA>�g�V���������炩�����႟<lineend>������˂��E�E�E�E<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>アイテムがひとつもないじゃないか。<pause><lineend><CC03EA>トシヨリをからかっちゃぁ<lineend>いかんねぇ・・・・<pause><lineend>|
 6|
-<CC03EA><color=0004><string=01B8><lineend><color=0001>�����͂Ђ��Ƃ�Ȃ��˂��B<pause><lineend>|
+<CC03EA><color=0004><string=01B8><lineend><color=0001>そいつはひきとれないねぇ。<pause><lineend>|

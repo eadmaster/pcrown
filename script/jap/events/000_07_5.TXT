@@ -1,2 +1,2 @@
 65536|
-<CC03EA>����̓_�~�[�ł�<lineend><pause>|
+<CC03EA>これはダミーです<lineend><pause>|

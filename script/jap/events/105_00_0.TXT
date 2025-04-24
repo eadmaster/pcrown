@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0004><string=0116><lineend><color=0001>�悤�����B<lineend>���̐X�͂��ł����Ȃ������񂰂����܂��B<pause><lineend>|
+<CC03EA><color=0004><string=0116><lineend><color=0001>ようこそ。<lineend>この森はいつでもあなたをかんげいします。<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0117><lineend><color=0001>���˂������A���肪�Ƃ��B<pause><lineend>|
+<CC03EA><color=0004><string=0117><lineend><color=0001>おねえちゃん、ありがとう。<pause><lineend>|

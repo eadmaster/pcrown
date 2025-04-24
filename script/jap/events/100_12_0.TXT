@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0001>�ǂ�����Ƃ��Ȃ�<lineend>�W�F�X�g�i�C�̐����������Ă���E�E�E<pause><lineend><CC03EA><color=0004>�W�F�X�g�i�C<lineend><color=0001>�J�[�h�R�m���u���҂�B<lineend>������|���A�R�m�Ƃ��Ă̗͂����߂��E�E�E<pause><lineend>|
+<CC03EA><color=0001>どこからともなく<lineend>ジェストナイの声がきこえてくる・・・<pause><lineend><CC03EA><color=0004>ジェストナイ<lineend><color=0001>カード騎士を志す者よ。<lineend>魔物を倒し、騎士としての力をしめせ・・・<pause><lineend>|
 1|
 <CC03ED=000000AE00010000><CC03F9=0000>|
 65536|
-<CC03EA><color=0002>�u�g���X�g�h���b�v�v����ɓ��ꂽ�I<pause><lineend>|
+<CC03EA><color=0002>「トラストドロップ」を手に入れた！<pause><lineend>|

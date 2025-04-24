@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0104><lineend><color=0001>���O�ɃV���h�E�̂��Ƃ�<lineend>���������Ă����Ă�낤�B<lineend><pause><CC03EA>�V���h�E�̓f�[�����̒��ł�<lineend>�c�E�ȐS�Ƌ������͂����f�[�������B<lineend>���Ԃ̃f�[�����ł���G�W�L�ɂ����B<lineend><pause><CC03EA>�z�ɂ͐l�Ԃ̍��𖂖@�΂ɕς���<lineend>�Ƃ��ׂȗ͂�����B<pause><lineend><CC03EA>����䂦�ɖ��E�̖��͂�K�v�Ƃ���<lineend>�������̂Ēn��Ɏc�����E�E�E<lineend>�z�͖��E�ł��ْ[�̎҂��B<lineend><pause>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>お前にシャドウのことを<lineend>少し教えておいてやろう。<lineend><pause><CC03EA>シャドウはデーモンの中でも<lineend>残忍な心と強い魔力を持つデーモンだ。<lineend>仲間のデーモンですらエジキにされる。<lineend><pause><CC03EA>奴には人間の魂を魔法石に変える<lineend>とくべつな力がある。<pause><lineend><CC03EA>それゆえに魔界の魔力を必要とせず<lineend>魔王を捨て地上に残った・・・<lineend>奴は魔界でも異端の者だ。<lineend><pause>|

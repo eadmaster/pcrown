@@ -1,7 +1,7 @@
 0|
-<CC03EA><color=0005><string=0130><lineend><color=0001>�N�N�N�E�E�E<pause><lineend><CC03EA>���ꂾ���܋��̃E���T�𗬂���<lineend>�e�B�^�j�A�΂�<lineend>�ǂ��Ɛl�������悹�邾�낤���B<pause><lineend>|
+<CC03EA><color=0005><string=0130><lineend><color=0001>ククク・・・<pause><lineend><CC03EA>これだけ賞金のウワサを流せば<lineend>ティタニア湖に<lineend>どっと人がおしよせるだろうぜ。<pause><lineend>|
 1|
-<CC03EA><color=0005><string=0131><lineend><color=0001>���̃Z�C���[�������܂�̂�<lineend>���Ԃ̂��񂾂����ȁB<pause><lineend><CC03EA>����ŃI�������႟<lineend>���̖������炽���Ղ�ق��т�<lineend>���炦����Ă��񂾁B<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>あのセイレーンがつかまるのも<lineend>時間のもんだいだな。<pause><lineend><CC03EA>これでオレたちゃぁ<lineend>あの魔女からたっぷりほうびを<lineend>もらえるってもんだ。<pause><lineend>|
 2|
 <CC03F0=000000880001000903FF00000000>|
 3|
@@ -13,10 +13,10 @@
 6|
 <CC03F0=000000880000000F03FF00000000>|
 7|
-<CC03EA><color=0002><string=0000><lineend><color=0001>���Ȃ��B���E���T��<lineend>�ӂ�܂��Ă����̂ˁE�E�E<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>あなた達がウワサを<lineend>ふりまいていたのね・・・<pause><lineend>|
 8|
-<CC03EA><color=0005><string=0131><lineend><color=0001>�`�b�I�@�X�̒��ւ������I<pause><lineend>|
+<CC03EA><color=0005><string=0131><lineend><color=0001>チッ！　街の中へかくれろ！<pause><lineend>|
 9|
 <CC03F0=013000030001001D03FF000003FF><CC03F0=013100030000001D03FF00000000>|
 10|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>�����l�A���������Ȃ���I<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>女王様、おいかけなきゃ！<pause><lineend>|

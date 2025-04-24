@@ -1,12 +1,12 @@
 0|
-<CC03EA><color=0005><string=012B><lineend><color=0001>ƒ^ƒ@`ƒ‰ƒŠƒ‰ƒŠƒB`I<pause><lineend><CC03EA>‚±‚±AƒSƒuƒŠƒ“‚Ì‚¨“Xƒ‹ƒ‹B<lineend>ƒIƒCƒ‰‚ªŽ‚Á‚Ä‚éuƒoƒ‹ƒJƒ“‚Ì–‚–@Îv<lineend>‚P‚O‚O‚f‚Å‚¤‚Á‚Ä‚ ‚°‚éƒŠƒ‰I<pause><lineend>@<lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ã‚¿ã‚¡ã€œãƒ©ãƒªãƒ©ãƒªã‚£ã€œï¼<pause><lineend><CC03EA>ã“ã“ã€ã‚´ãƒ–ãƒªãƒ³ã®ãŠåº—ãƒ«ãƒ«ã€‚<lineend>ã‚ªã‚¤ãƒ©ãŒæŒã£ã¦ã‚‹ã€Œãƒãƒ«ã‚«ãƒ³ã®é­”æ³•çŸ³ã€<lineend>ï¼‘ï¼ï¼ï¼§ã§ã†ã£ã¦ã‚ã’ã‚‹ãƒªãƒ©ï¼<pause><lineend>ã€€<lineend>|
 1|
-<CC03EA><CC03FC=0004><string=012B><color=0001><choose>”ƒ‚¤@@<lineend>”ƒ‚í‚È‚¢<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=012B><color=0001><choose>è²·ã†ã€€ã€€<lineend>è²·ã‚ãªã„<lineend><endchoose>|
 2|
-<CC03EA><color=0005><string=012B><lineend><color=0001>ƒ„ƒbƒLƒBI<lineend>‚Ü‚½—ˆ‚Ä‚ËII<pause><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ãƒ¤ãƒƒã‚­ã‚£ï¼<lineend>ã¾ãŸæ¥ã¦ã­ï¼ï¼<pause><lineend>|
 3|
-<CC03EA><color=0005><string=012B><lineend><color=0001>ƒ‹ƒŠƒ‹ƒŠ<lineend>‹àƒsƒJ‚º‚ñ‚º‚ñA‘«‚è‚È‚¢ƒ‹ƒ‹ƒDII<pause><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ãƒ«ãƒªãƒ«ãƒª<lineend>é‡‘ãƒ”ã‚«ãœã‚“ãœã‚“ã€è¶³ã‚Šãªã„ãƒ«ãƒ«ã‚¥ï¼ï¼<pause><lineend>|
 4|
-<CC03EA><color=0005><string=012B><lineend><color=0001>ƒ‹ƒŠƒ‹ƒŠ<lineend>‰×•¨‚ª‚¢‚Á‚Ï‚¢ƒ‹ƒ‹ƒDI<pause><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ãƒ«ãƒªãƒ«ãƒª<lineend>è·ç‰©ãŒã„ã£ã±ã„ãƒ«ãƒ«ã‚¥ï¼<pause><lineend>|
 5|
-<CC03EA><color=0005><string=012B><lineend><color=0001>ƒEƒBƒbƒLƒBI<pause><lineend><CC03EA>uƒoƒ‹ƒJƒ“‚Ì–‚–@Îv‚Ç‚¤‚¼‚§`B<pause><lineend>|
+<CC03EA><color=0005><string=012B><lineend><color=0001>ã‚¦ã‚£ãƒƒã‚­ã‚£ï¼<pause><lineend><CC03EA>ã€Œãƒãƒ«ã‚«ãƒ³ã®é­”æ³•çŸ³ã€ã©ã†ãžã‰ã€œã€‚<pause><lineend>|

@@ -1,10 +1,10 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>‚ ‚çA”à‚É‰½‚©‘‚¢‚Ä‚ ‚é‚íEEE<lineend>‚¦‚¦‚ÆH<pause><lineend><CC03EA>”X‚Ìˆ«—ì‚ð‚±‚±‚É••‚¸‚éEEEH<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ã‚ã‚‰ã€æ‰‰ã«ä½•ã‹æ›¸ã„ã¦ã‚ã‚‹ã‚ãƒ»ãƒ»ãƒ»<lineend>ãˆãˆã¨ï¼Ÿ<pause><lineend><CC03EA>æ•°ã€…ã®æ‚ªéœŠã‚’ã“ã“ã«å°ãšã‚‹ãƒ»ãƒ»ãƒ»ï¼Ÿ<pause><lineend>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ƒJƒM‚ª‚©‚©‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚ËB<lineend>’†‚É‚Í“ü‚ê‚È‚¢‚íB<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ã‚«ã‚®ãŒã‹ã‹ã£ã¦ã„ã‚‹ã¿ãŸã„ã­ã€‚<lineend>ä¸­ã«ã¯å…¥ã‚Œãªã„ã‚ã€‚<pause><lineend>|
 2|
 <CC03F0=000000880001000703FF00000000>|
 3|
-<CC03EA><color=0002><string=0000><lineend><color=0001>‚à‚µ‚©‚µ‚ÄEEE<pause><lineend><CC03EA>ƒJƒGƒ‹‚³‚ñ‚©‚ç‚à‚ç‚Á‚½ƒJƒM‚Í<lineend>‚±‚±‚ÌƒJƒM‚©‚µ‚çB<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ã‚‚ã—ã‹ã—ã¦ãƒ»ãƒ»ãƒ»<pause><lineend><CC03EA>ã‚«ã‚¨ãƒ«ã•ã‚“ã‹ã‚‰ã‚‚ã‚‰ã£ãŸã‚«ã‚®ã¯<lineend>ã“ã“ã®ã‚«ã‚®ã‹ã—ã‚‰ã€‚<pause><lineend>|
 4|
-<CC03EA><color=0002><string=0000><lineend><color=0001>ŠJ‚¢‚½‚íI<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>é–‹ã„ãŸã‚ï¼<pause><lineend>|

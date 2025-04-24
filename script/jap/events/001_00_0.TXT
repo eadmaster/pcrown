@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>�܂��A����ɖ߂�킯�ɂ͂����Ȃ���E�E�E<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>まだ、お城に戻るわけにはいかないわ・・・<pause><lineend>|
 1|
 <CC03F0=000000880001000803FF00000000>|

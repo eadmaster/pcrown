@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>‚¨‹C‚ð•t‚¯‚Ä‚²o”­‰º‚³‚¢B<pause><lineend>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>ãŠæ°—ã‚’ä»˜ã‘ã¦ã”å‡ºç™ºä¸‹ã•ã„ã€‚<pause><lineend>|
 1|
-<CC03EA><color=0006><string=007E><lineend><color=0001>’nk‚ÌŒãA‚¢‚¿‚¾‚ñ‚Æ‰ö‚µ‚°‚È‹C”z‚ª<lineend>‚±‚­‚È‚Á‚½‚æ‚¤‚ÈEEE<pause><lineend>|
+<CC03EA><color=0006><string=007E><lineend><color=0001>åœ°éœ‡ã®å¾Œã€ã„ã¡ã ã‚“ã¨æ€ªã—ã’ãªæ°—é…ãŒ<lineend>ã“ããªã£ãŸã‚ˆã†ãªãƒ»ãƒ»ãƒ»<pause><lineend>|

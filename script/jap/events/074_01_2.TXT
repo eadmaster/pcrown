@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=0067><lineend><color=0001>�����̌Z����̂�������<lineend>�����������񂾂�B<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>そこの兄さんのおかげで<lineend>無事だったんだよ。<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0063><lineend><color=0001>���₟�A���̐l�͋����˂��I<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>いやぁ、この人は強いねぇ！<pause><lineend>|
 2|
-<CC03EA><color=0004><string=0178><lineend><color=0001>�O���h���G�����A���Ă���܂�<lineend>�����ő҂��Ă��B<pause><lineend><CC03EA>���̊X�̎��͋C�ɂ���ȁB<lineend>�܂��������U�߂Ă��Ă�<lineend>�����K������Ă��B<pause><lineend><CC03EA>������A���S���čs���Ă��ȁB<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>グラドリエルが帰ってくるまで<lineend>ここで待ってるよ。<pause><lineend><CC03EA>この街の事は気にするな。<lineend>また魔物が攻めてきても<lineend>俺が必ず護ってやる。<pause><lineend><CC03EA>だから、安心して行ってきな。<pause><lineend>|

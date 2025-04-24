@@ -1,12 +1,12 @@
 0|
-<CC03EA><color=0006><string=019B><lineend><color=0001>�ӂ��̓_���ЂƂ̓_�ɂ��`<lineend>�����́A�L�̑��݂𖳂ɂ��鏊���B<pause><lineend><CC03EA>�ӂ����Ȗ��@�w���`<lineend>���̂܂΂����̂��Ƃ���u��<lineend>�]�݂̏ꏊ�܂ł�čs�����`�B<pause><lineend><CC03EA>�P�T�f�����ǂ��`<lineend>�u�Ԉړ���̌����邩�`���H<pause><lineend>|
+<CC03EA><color=0006><string=019B><lineend><color=0001>ふたつの点がひとつの点にぃ〜<lineend>ここは、有の存在を無にする所ぉ。<pause><lineend><CC03EA>ふしぎな魔法陣が〜<lineend>星のまばたきのごとく一瞬で<lineend>望みの場所までつれて行くぅ〜。<pause><lineend><CC03EA>１５Ｇだけどぉ〜<lineend>瞬間移動を体験するか〜い？<pause><lineend>|
 1|
-<CC03EA><CC03FC=0004><string=019B><color=0001><choose>�ړ�����@<lineend>�ړ����Ȃ�<lineend><endchoose>|
+<CC03EA><CC03FC=0004><string=019B><color=0001><choose>移動する　<lineend>移動しない<lineend><endchoose>|
 2|
-<CC03EA><color=0006><string=019B><lineend><color=0001>�ǂ��܂ňړ�����`�H<lineend>�ړ����I�Ԃ̂��`�B<pause><lineend>|
+<CC03EA><color=0006><string=019B><lineend><color=0001>どこまで移動する〜？<lineend>移動先を選ぶのだ〜。<pause><lineend>|
 3|
-<CC03EA><color=0006><string=019B><lineend><color=0001>���ꂶ�Ⴀ�A�܂����Ăˁ`�B<lineend>���͂̉��삪����񎖂��`�B<pause><lineend>|
+<CC03EA><color=0006><string=019B><lineend><color=0001>それじゃあ、またきてね〜。<lineend>魔力の加護があらん事を〜。<pause><lineend>|
 4|
-<CC03EA><color=0006><string=019B><lineend><color=0001>���������A����Ȃ���`�B<pause><lineend>|
+<CC03EA><color=0006><string=019B><lineend><color=0001>お金がぁ、足りないよ〜。<pause><lineend>|
 5|
-<CC03EA><color=0006><string=019B><lineend><color=0001>�s���������Ȃ����ɂ�<lineend>�����Ȃ��悧�`�B<pause><lineend><CC03EA>����ŁA����Ɠ������@�w�����Ă���`<lineend>����Ƃ����`�B<pause><lineend>|
+<CC03EA><color=0006><string=019B><lineend><color=0001>行った事がない所には<lineend>いけないよぉ〜。<pause><lineend><CC03EA>旅先で、これと同じ魔法陣を見てから〜<lineend>来るといい〜。<pause><lineend>|

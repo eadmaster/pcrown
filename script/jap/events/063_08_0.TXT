@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0104><lineend><color=0001>�u��n�̖��@�΁v�́A�h���[�t������<lineend>���ލ��ɍs���΂��̂��Ƃ킩��B<pause><lineend>|
+<CC03EA><color=0004><string=0104><lineend><color=0001>「大地の魔法石」は、ドワーフたちが<lineend>すむ国に行けばおのずとわかる。<pause><lineend>|

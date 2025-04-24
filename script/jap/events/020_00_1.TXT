@@ -1,8 +1,8 @@
 0|
 <CC03ED=01470002000103FF><CC03FB=005A><CC03F1=0147>|
 1|
-<CC03EA><color=0002><string=0000><lineend><color=0001>���ꂪ�A�G�T�\���i�Ղ̂���������Ă���<lineend>�|���^�[�K�C�X�g�ˁE�E�E�I<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>これが、エサソン司祭のおっしゃっていた<lineend>ポルターガイストね・・・！<pause><lineend>|
 65536|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>�q�b�q�b�q<lineend>������͓G����Ȃ��悧�B<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>ヒッヒッヒ<lineend>おいらは敵じゃないよぉ。<pause><lineend>|
 65537|
-<CC03EA><color=0005><string=00EC><lineend><color=0001>���\�҂�ގ����Ă����<lineend>���肪�Ƃ���`<pause><lineend><CC03EA>���傢�ƎU���ɗ��������Ȃ̂�<lineend>�|���^�[�K�C�X�g�ɂ���������<lineend>�U�X�Ȗڂɂ����Ă��񂾁`<pause><lineend><CC03EA>�������ŁA�X�ɋA�����Ă��񂾂��B<lineend>���񂽂��C����������<lineend><color=0003>�p���v�L���n�E�X<color=0001>�ւ���Ă�����`�B<pause><lineend><CC03EA>�q�B�b�q�b�q�b�q�E�E�E�E�E<pause><lineend>|
+<CC03EA><color=0005><string=00EC><lineend><color=0001>乱暴者を退治してくれて<lineend>ありがとさん〜<pause><lineend><CC03EA>ちょいと散歩に来ただけなのに<lineend>ポルターガイストにこきつかわれて<lineend>散々な目にあってたんだ〜<pause><lineend><CC03EA>おかげで、店に帰れるってもんだぁ。<lineend>あんたも気が向いたら<lineend><color=0003>パンプキンハウス<color=0001>へよっておくれ〜。<pause><lineend><CC03EA>ヒィッヒッヒッヒ・・・・・<pause><lineend>|

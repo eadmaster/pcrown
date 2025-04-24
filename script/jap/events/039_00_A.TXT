@@ -1,16 +1,16 @@
 65536|
-<CC03EA><color=0004><string=0186><lineend><color=0001>�܂��Ȃ��[�����A�����Ȃ����I<lineend>�悭���A�������̂���H�ׂ���ˁI<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>まちなさーいっ、逃さないわよ！<lineend>よくも、あたしのおやつ食べたわね！<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=018E><lineend><color=0001>����̓I�C���̂��������B<pause><lineend><CC03EA>�����̂͐�ɐH�ׂ������<lineend>�I�C���̂�����肷��Ȃ�ĂЂǂ������I<pause><lineend>|
+<CC03EA><color=0004><string=018E><lineend><color=0001>あれはオイラのおやつルルよ。<pause><lineend><CC03EA>自分のは先に食べちゃって<lineend>オイラのを横取りするなんてひどいリラ！<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0186><lineend><color=0001>�������Ɍ���������C�Ȃ́H<pause><lineend><CC03EA>�K�u���G���A������������I<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>あたしに口答えする気なの？<pause><lineend><CC03EA>ガブリエル、おしおきよっ！<pause><lineend>|
 65539|
-<CC03EA><CC03FC=0004><string=00E0><color=0004>�K�u���G��<lineend><color=0001>�����I�@�Ȃ�Ă��Ƃ���P�������B<pause><lineend><CC03EA>���ǂ��ăP�������B<lineend>���ǂ��ăP�������B<pause><lineend>|
+<CC03EA><CC03FC=0004><string=00E0><color=0004>ガブリエル<lineend><color=0001>ああ！　なんてことするケロリラ。<pause><lineend><CC03EA>もどしてケロリラ。<lineend>もどしてケロリラ。<pause><lineend>|
 65540|
-<CC03EA><color=0004><string=0186><lineend><color=0001>�P�����������āI<lineend>�Ղ��E�E�E���͂͂͂͂͂͂́B<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>ケロリラだって！<lineend>ぷっ・・・あははははははは。<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0186><lineend><color=0001>�Ȃ��ɁH<lineend>�������񂽂����J�G���ɂȂ肽���́H<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>なぁに？<lineend>おじさんたちもカエルになりたいの？<pause><lineend>|
 65542|
-<CC03EA><color=0004><string=0186><lineend><color=0001>�E�t�t�A����Ȃ�<lineend>�G���������Ȃ��Ă��������Ă΁I<pause><lineend>|
+<CC03EA><color=0004><string=0186><lineend><color=0001>ウフフ、そんなに<lineend>エンリョしなくてもいいってば！<pause><lineend>|
 65543|
-<CC03EA><color=0006><string=0011><lineend><color=0001>�Ђ������I<pause><lineend>|
+<CC03EA><color=0006><string=0011><lineend><color=0001>ひええぇ！<pause><lineend>|

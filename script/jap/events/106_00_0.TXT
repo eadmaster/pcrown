@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0002><string=0000><lineend><color=0001>‚±‚ê‚ÅAƒ€ƒV‚ª‚à‚Ç‚Á‚Ä‚­‚é‚í‚ËB<pause><lineend><CC03EA>ƒJƒGƒ‹‚³‚ñ’B‚É‚¨‚µ‚¦‚Ä‚ ‚°‚È‚­‚Á‚¿‚áB<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>ã“ã‚Œã§ã€ãƒ ã‚·ãŒã‚‚ã©ã£ã¦ãã‚‹ã‚ã­ã€‚<pause><lineend><CC03EA>ã‚«ã‚¨ãƒ«ã•ã‚“é”ã«ãŠã—ãˆã¦ã‚ã’ãªãã£ã¡ã‚ƒã€‚<pause><lineend>|
 1|
 <CC03ED=000000B700010000><CC03F9=0000>|
 2|

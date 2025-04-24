@@ -1,24 +1,24 @@
 65536|
-<CC03EA><color=0004><string=0179><lineend><color=0001>����������<lineend>�悭����ɗ������񂾁B<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>あきもせず<lineend>よくやられに来れるもんだ。<pause><lineend>|
 65537|
-<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>�����������|�[�g�K�X�B<lineend>�Ă߂����̍����o�邻������˂����I<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=011E><lineend><color=0001>聞いたぜぇポートガス。<lineend>てめえこの国を出るそうじゃねえか！<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=0179><lineend><color=0001>�ق��A�ǂ��ŕ������񂾁E�E�E<pause><lineend><CC03EA>�������Ȃ��Ȃ�̂��������Ƃ�<lineend>�ЂƖ\�ꂵ�悤�Ǝv���Ă���Ȃ�<lineend>��������Ă�邺�I<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>ほう、どこで聞いたんだ・・・<pause><lineend><CC03EA>俺がいなくなるのをいいことに<lineend>ひと暴れしようと思っているなら<lineend>後悔させてやるぜ！<pause><lineend>|
 65539|
-<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>�t���I�@�c�O�����I���l��<lineend>�Ă߂��̍s�����ǂ��ւ����Ă��Ă����B<pause><lineend><CC03EA>�ǂ��ɍs���̂��m��񂪖ڎw����ɂ�<lineend>���󂪂���ɂ��܂��Ă邩��Ȃ��I<pause><lineend>|
+<CC03EA><color=0005><CC03FC=0058><string=01A2><lineend><color=0001>フン！　残念だがオレ様は<lineend>てめえの行く所どこへだってついてくぜ。<pause><lineend><CC03EA>どこに行くのか知らんが目指す先には<lineend>お宝があるにきまってるからなぁ！<pause><lineend>|
 65540|
-<CC03EA><CC03FC=0004><string=0125><color=0006>�q��<lineend><color=0001>�����A����Ȃ��ƌ����Ă܂����E�E�E<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0125><color=0006>子分<lineend><color=0001>お頭、あんなこと言ってますぜ・・・<pause><lineend>|
 65541|
-<CC03EA><color=0004><string=0179><lineend><color=0001>�ق��Ƃ��I<lineend>��������o�����A��낤�ǂ��I<pause><lineend>|
+<CC03EA><color=0004><string=0179><lineend><color=0001>ほっとけ！<lineend>それよりも出発だ、やろうども！<pause><lineend>|
 131072|
-<CC03EA><color=0002><string=0000><lineend><color=0001>�u�S�͏�ɐ���������<lineend>�@���̌��͎カ�������邽�߂Ɂv<pause><lineend><CC03EA>�u�^���݂̂����ɂ�<lineend>�@���ɂ͓{��������ė����������v<pause><lineend><CC03EA>�u�G�h���[�h�E�O���[�X�^�[<lineend>�@�@�R�m�̂����Ăɏ]��<lineend>�@�@�@�@�����������ĂȂ����v<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>「心は常に正しくあり<lineend>　その剣は弱きを助けるために」<pause><lineend><CC03EA>「真実のみを口にし<lineend>　悪には怒りをもって立ち向かう」<pause><lineend><CC03EA>「エドワード・グロースター<lineend>　　騎士のおきてに従い<lineend>　　　　ちかいをたてなさい」<pause><lineend>|
 131073|
-<CC03EA><color=0004><string=016D><lineend><color=0001>���̒N�̂��߂ł��Ȃ��E�E�E<lineend>���Ȃ�����邽�߂ɂ��̌���U�邤�B<pause><lineend><CC03EA>�O���h���G���E�E�E�����É��B<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>他の誰のためでもない・・・<lineend>あなたを守るためにこの剣を振るう。<pause><lineend><CC03EA>グラドリエル・・・女王陛下。<pause><lineend>|
 131074|
-<CC03EA><color=0004><string=016D><lineend><color=0001>�u�������ƂƂ���<lineend>�@�����̋R�m�Ƃ��Ă̔C��S�����܂��v<pause><lineend>|
+<CC03EA><color=0004><string=016D><lineend><color=0001>「ちかいとともに<lineend>　女王の騎士としての任を全うします」<pause><lineend>|
 131075|
-<CC03EA><color=0002><string=0000><lineend><color=0001>�u���@���i�f�B�����̖��ɂ�����<lineend>�@�@���ɐ��R�m�̏̍��������܂��v<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>「ヴァレナディン王の名において<lineend>　　汝に聖騎士の称号を授けます」<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>�����l�A�����l�B<pause><lineend><CC03EA>�����A�݂�Ȗ������݂�����B<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>女王様、女王様。<pause><lineend><CC03EA>もう、みんな眠ったみたいよ。<pause><lineend>|
 196609|
-<CC03EA><color=0002><string=0000><lineend><color=0001>���x�̓��B�����h�Ŗ������킬����������<lineend>�����Ƃ܂��v���Z���s�i�̂��킴�ˁB<pause><lineend><CC03EA>�����A�s���܂��傤�B<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>今度はリィランドで魔女さわぎがあったの<lineend>きっとまたプロセルピナのしわざね。<pause><lineend><CC03EA>さあ、行きましょう。<pause><lineend>|

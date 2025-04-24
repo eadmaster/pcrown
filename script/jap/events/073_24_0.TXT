@@ -1,2 +1,2 @@
 65536|
-<CC03EA><CC03FC=0004><string=017A><color=0001><CC03EA>ƒqƒbƒqƒbƒqA–‚‰¤—l‚ª‚¨‘Ò‚¿‚Å‚·‚æB<lineend>ƒVƒhƒ‰ƒGƒ‹—lB<pause><lineend>|
+<CC03EA><CC03FC=0004><string=017A><color=0001><CC03EA>ãƒ’ãƒƒãƒ’ãƒƒãƒ’ã€é­”çŽ‹æ§˜ãŒãŠå¾…ã¡ã§ã™ã‚ˆã€‚<lineend>ã‚·ãƒ‰ãƒ©ã‚¨ãƒ«æ§˜ã€‚<pause><lineend>|

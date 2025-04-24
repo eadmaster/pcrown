@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0004><string=00FD><lineend><color=0001>���C�����čs����܂����B<pause><lineend>|
+<CC03EA><color=0004><string=00FD><lineend><color=0001>お気をつけて行かれませい。<pause><lineend>|
 65536|
-<CC03EA>����̓_�~�[�ł�<lineend><pause>|
+<CC03EA>これはダミーです<lineend><pause>|

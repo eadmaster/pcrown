@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0002><string=0002><lineend><color=0001>�����Ȃ��A�����Ȃ��B<pause><lineend><CC03EA>�i�b�c�r���ɂ�<lineend>�߂Â��Ȃ��悤�ɂ��Ȃ�������I<pause><lineend>|
+<CC03EA><color=0002><string=0002><lineend><color=0001>いけない、いけない。<pause><lineend><CC03EA>ナッツビルには<lineend>近づかないようにしなくっちゃ！<pause><lineend>|
 1|
 <CC03F0=000200100001000F03FF00000000>|

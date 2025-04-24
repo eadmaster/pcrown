@@ -1,6 +1,6 @@
 65536|
-<CC03EA><color=0002><string=0000><lineend><color=0001>�f�[���������͂��̓��̍ŏ�K���疂�E��<lineend>�߂����̂��Ǝv���̂ł����E�E�E<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>デーモンたちはこの塔の最上階から魔界へ<lineend>戻ったのだと思うのですが・・・<pause><lineend>|
 65537|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>���E���Ă��������킢�Ƃ��Ȃ�ł���<lineend>�{���ɍs���́H<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>魔界ってすごくこわいとこなんでしょ<lineend>本当に行くの？<pause><lineend>|
 65538|
-<CC03EA><color=0002><string=0000><lineend><color=0001>�����A�}���܂��傤�B<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>さあ、急ぎましょう。<pause><lineend>|

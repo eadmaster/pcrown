@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0006><string=007D><lineend><color=0001>��قǂ��烂���X�^�[�̖�����<lineend>��������悤�Ȃ̂ł��B<pause><lineend><CC03EA>���E�E�E�P�K�Ƀ����X�^�[���H<lineend>����͂����ւ񂾁I�I<lineend><pause>|
+<CC03EA><color=0006><string=007D><lineend><color=0001>先ほどからモンスターの鳴き声が<lineend>聞こえるようなのです。<pause><lineend><CC03EA>え・・・１階にモンスターが？<lineend>それはたいへんだ！！<lineend><pause>|

@@ -1,2 +1,2 @@
 0|
-<CC03EA><color=0004><string=0105><lineend><color=0001>‚ ‚Ì–‚–@Žg‚¢‚ª‚Ü‚½‚â‚Á‚Ä‚­‚é‘O‚É<lineend>‚±‚±‚©‚ç—§‚¿‹Ž‚é‚ª‚æ‚¢B<pause><lineend><CC03F0=000000880001000F03FF00000000>|
+<CC03EA><color=0004><string=0105><lineend><color=0001>ã‚ã®é­”æ³•ä½¿ã„ãŒã¾ãŸã‚„ã£ã¦ãã‚‹å‰ã«<lineend>ã“ã“ã‹ã‚‰ç«‹ã¡åŽ»ã‚‹ãŒã‚ˆã„ã€‚<pause><lineend><CC03F0=000000880001000F03FF00000000>|

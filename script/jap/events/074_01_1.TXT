@@ -1,6 +1,6 @@
 0|
-<CC03EA><color=0006><string=0067><lineend><color=0001>�Z�C���[�������������ꂽ�̂���<lineend>���ꂱ��A�Q�R�N�Ԃ肩�Ȃ��B<pause><lineend>|
+<CC03EA><color=0006><string=0067><lineend><color=0001>セイレーンがたいじされたのって<lineend>かれこれ、２３年ぶりかなぁ。<pause><lineend>|
 1|
-<CC03EA><color=0006><string=0063><lineend><color=0001>�ǂ������A�ٍ��̕��́H<lineend>�������S���킭�킭���邾��B<pause><lineend>|
+<CC03EA><color=0006><string=0063><lineend><color=0001>どうだい、異国の風は？<lineend>何だか心がわくわくするだろ。<pause><lineend>|
 2|
-<CC03EA><color=0004><string=0178><lineend><color=0001>��ꂽ��H<lineend>�����͂������x�񂾕����������B<pause><lineend>|
+<CC03EA><color=0004><string=0178><lineend><color=0001>疲れたろ？<lineend>今日はゆっくり休んだ方がいいぜ。<pause><lineend>|

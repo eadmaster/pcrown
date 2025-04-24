@@ -1,4 +1,4 @@
 0|
-<CC03EA><color=0004><string=0107><lineend><color=0001>�O���h���G���A���Ȃ��̂����ɂ��Ă��<lineend>�����̂�����ǁE�E�E<pause><lineend><CC03EA><color=0005>���̌΂ƃJ�h�D�E�o�h�D���Ȃ��X��<lineend>�悱�����s������<color=0001>��<color=0003>���A<color=0001>��<lineend>�������ȗ͂�������́B<pause><lineend><CC03EA>���Ȃ������̗͂���ɂ����<lineend>���������y�ɂȂ�Ǝv����B<pause><lineend><CC03EA>��䂤������̂Ȃ�<lineend>�s���Ă݂�Ƃ����񂶂�Ȃ�������B<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>グラドリエル、あなたのお役にたてると<lineend>いいのだけれど・・・<pause><lineend><CC03EA><color=0005>この湖とカドゥ・バドゥをつなぐ森の<lineend>よこ道を行った先<color=0001>の<color=0003>洞窟<color=0001>に<lineend>かすかな力を感じるの。<pause><lineend><CC03EA>あなたがその力を手にすれば<lineend>旅が少し楽になると思うわ。<pause><lineend><CC03EA>よゆうがあるのなら<lineend>行ってみるといいんじゃないかしら。<pause><lineend>|
 1|
-<CC03EA><color=0004><string=0107><lineend><color=0001>�O���h���G���A���肪�Ƃ��E�E�E<pause><lineend>|
+<CC03EA><color=0004><string=0107><lineend><color=0001>グラドリエル、ありがとう・・・<pause><lineend>|
