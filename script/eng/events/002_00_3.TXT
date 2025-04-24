@@ -9,7 +9,7 @@
 4|
 <CC03EA><color=0006><string=001C><lineend><color=0001>I guess she's been busy with the war...<pause><lineend><CC03EA>We never see Queen Elfaran out on her balcony these days. Everybody misses her.<pause><lineend>|
 5|
-<CC03EA><color=0006><string=0014><lineend><color=0001>Nobody knows where the Knight Captain Golgotha went.<pause><lineend><CC03EA>I personally think the Demon King did him in.<pause><lineend>|
+<CC03EA><color=0006><string=0014><lineend><color=0001>Nobody knows where the Knight Captain Golgotha went.<pause><lineend><CC03EA>I personally think the Demon King took him out.<pause><lineend>|
 6|
 <CC03EA><color=0006><string=001D><lineend><color=0001>Long purple hair and eyes shining with wisdom...<pause><lineend><CC03EA>Our Queen truly is very beautiful!<pause><lineend>|
 7|
@@ -35,7 +35,7 @@
 17|
 <CC03F0=0006000F0000001403FF00000000>|
 18|
-<CC03ED=0006000800010000><CC03ED=00060009000103FF><CC03ED=0006000A000103FF><CC03EA><color=0006><string=0006><lineend><color=0001>*huff* ...*puff*<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>Everybody!<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>A huge army of monsters is attacking the castle!!<lineend><CC03ED=00060009000103FF><pause>|
+<CC03ED=0006000800010000><CC03ED=00060009000103FF><CC03ED=0006000A000103FF><CC03EA><color=0006><string=0006><lineend><color=0001>*huff*... *puff*<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>Everybody!<lineend><CC03ED=00060009000103FF><pause><CC03EA><CC03ED=0006000A000103FF>A huge army of monsters is attacking the castle!!<lineend><CC03ED=00060009000103FF><pause>|
 19|
 <CC03FA=0000000300000000000003FF000A003C0000><CC03FB=0046>|
 20|

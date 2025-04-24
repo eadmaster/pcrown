@@ -41,7 +41,7 @@
 65556|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gradriel, get back!!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0114><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>I told you that sword wouldn't work. Now to finish you off...<pause><lineend>|
 131073|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Gleipnir! Become the embodiment of my anger, and strike!!<pause><lineend>|
 131074|
@@ -69,7 +69,7 @@
 131085|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Come on. Let's go.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the world of darkness, Baindfear!<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
 196610|

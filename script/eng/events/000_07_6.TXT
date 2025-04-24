@@ -63,7 +63,7 @@
 196608|
 <CC03EA><color=0004><string=00FE><lineend><color=0001>...That's... The Time Stone! Quickly! Raise it up toward the Demon!<pause><lineend>|
 196609|
-<CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand magic stones!<pause><lineend>|
+<CC03EA><color=0005><string=0114><lineend><color=0001>Ha ha ha! Your human sword can't possibly kill me!<lineend><pause><CC03EA>I've swallowed a thousand Magic Stones!<pause><lineend>|
 196610|
 <CC03EA><color=0004><string=0103><lineend><color=0001>It's dangerous, Your Highness!<pause><lineend>|
 196611|

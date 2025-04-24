@@ -47,4 +47,4 @@
 196614|
 <CC03EA><color=0004><string=016D><lineend><color=0001>You're the one who isn't going anywhere.<pause><lineend><CC03EA>I hope you're ready to see what it means to be the son of Golgotha!<pause><lineend>|
 196615|
-<CC03EA><color=0005><string=0174><lineend><color=0001>If following in your father's footsteps is what you want, then allow me to oblige!<pause><lineend>|
+<CC03EA><color=0005><string=0174><lineend><color=0001>If following your father's footsteps is what you want, then allow me to oblige!<pause><lineend>|

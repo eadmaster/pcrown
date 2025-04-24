@@ -11,7 +11,7 @@
 65541|
 <CC03EA><color=0005><string=011A><lineend><color=0001>I've got some powers of my own now, and things have changed.<pause><lineend><CC03EA>All I want now is for the Demon King to come and destroy this cruel world.<pause><lineend>|
 65542|
-<CC03EA><color=0005><string=011A><lineend><color=0001>Gradriel, just be a dear and stay where you are.<pause><lineend><CC03EA>Here, right beneath our feet, is where the door to the Demon Realm will open.<pause><lineend>|
+<CC03EA><color=0005><string=011A><lineend><color=0001>Gradriel, just be a dear and stay where you are.<pause><lineend><CC03EA>Here, right beneath our feet, is where the gate to the Demon Realm will open.<pause><lineend>|
 65543|
 <CC03EA><color=0005><string=011A><lineend><color=0001>I'll need you when that happens...<pause><lineend><CC03EA>You're going to break the seal on the Demon King!<pause><lineend><CC03EA>How lucky for you, Gradriel. You get to be the one who initiates the end of the world!<pause><lineend>|
 65544|

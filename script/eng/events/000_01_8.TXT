@@ -1,5 +1,5 @@
 65536|
-<CC03EA><CC03FC=0004><string=007D>Monster attack!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=007D>Th, this is bad! Monsters...<pause><lineend>|
 65537|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Monsters!? How many of them!?<pause><lineend>|
 65538|

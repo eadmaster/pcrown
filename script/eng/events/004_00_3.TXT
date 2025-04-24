@@ -21,7 +21,7 @@
 10|
 <CC03EA><color=0006><string=0166><lineend><color=0001>Hey Aria!<pause><lineend><CC03EA>That was one heck of an earthquake, wasn't it?<pause><lineend><CC03EA>The animals in the forest are pretty frightened.<pause><lineend>|
 11|
-<CC03EA><color=0004><string=00ED><lineend><color=0001>You know what's really great? When fairies tell us their fairy tales.<pause><lineend><CC03EA>They're so much fun to listen to!<pause><lineend><CC03EA>I get all nervous and excited every time I hear one. Fairy-tales are the best!<pause><lineend>|
+<CC03EA><color=0004><string=00ED><lineend><color=0001>You know what's really great? When fairies tell us their fairy tales.<pause><lineend><CC03EA>They're so much fun to listen to!<pause><lineend><CC03EA>I get all nervous and excited every time I hear one. Fairy tales are the best!<pause><lineend>|
 12|
 <CC03EA><color=0006><string=01AE><lineend><color=0001>Welcome to the Nutsbill Bakery. What can I get for you?<pause><lineend>|
 13|

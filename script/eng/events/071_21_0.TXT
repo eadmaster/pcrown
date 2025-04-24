@@ -9,7 +9,7 @@
 65540|
 <CC03EA><color=0002><string=0000><lineend><color=0001>You killed Edward!!!<pause><lineend>|
 65541|
-<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your sword wouldn't work.<pause><lineend><CC03EA>Now once I finish you off, I can be on my way...<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you that sword wouldn't work.<pause><lineend><CC03EA>Now once I finish you off, I can be on my way...<pause><lineend>|
 65542|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Somebody! Help!<lineend>He's going to kill the Queen!<pause><lineend>|
 65543|

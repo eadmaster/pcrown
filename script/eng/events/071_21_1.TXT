@@ -11,7 +11,7 @@
 65541|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Run, Edward!<pause><lineend>|
 131072|
-<CC03EA><color=0005><string=0115><lineend><color=0001>I told you your sword wouldn't work. Now to finish you off...<pause><lineend>|
+<CC03EA><color=0005><string=0115><lineend><color=0001>I told you that sword wouldn't work. Now to finish you off...<pause><lineend>|
 131073|
 <CC03EA><color=0004><string=016D><lineend><color=0001>Gradriel! Stand back!<pause><lineend>|
 131074|
@@ -31,7 +31,7 @@
 131081|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Thank you, Edward.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the World of the Demons!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the world of darkness, Baindfear!<pause><lineend>|
 196609|
 <CC03EA><color=0002><string=0000><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
 196610|
