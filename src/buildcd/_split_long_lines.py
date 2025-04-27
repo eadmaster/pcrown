@@ -89,7 +89,7 @@ def insert_lineend_every_x_chars(s, init_lines_counter=0):
 
 # main
 
-f = open(sys.argv[1], 'r', encoding='shift_jis', errors='ignore') 
+f = open(sys.argv[1], 'r', encoding='utf-8', errors='ignore') 
 out = open(sys.argv[2], 'w', encoding='shift_jis') 
 
 init_lines_counter=0

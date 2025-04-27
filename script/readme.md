@@ -16,13 +16,8 @@
     └── ...  # other files are unused
 ```
 
-All text files are Shift-JIS encoded, with the exception of `items_*.txt`.
-If the Japanese text is not displaying correctly, force the Shift-JIS encoding in your text editor and reload (encoding auto-detection fails is some cases, even on the Github frontend).
-
-Currently these two events have size restrictions due to bugs:
- 
- - 015_00_1.TXT  https://github.com/eadmaster/pcrown/issues/30
- - 176_00_0.TXT  https://github.com/eadmaster/pcrown/issues/88
+All text files are UTF-8 encoded.
+If the Japanese text is not displaying correctly, force the UTF-8 encoding in your text editor and reload (encoding auto-detection fails is some cases, even on the Github frontend).
 
 TIP: to easily test any event file, use the [in-game debug mode](https://github.com/eadmaster/pcrown/wiki/Extras#cheats).
 Alternatively, if using savestates, keep in mind the current event is cached in RAM, so you must go through a loading screen to reload from disk.
