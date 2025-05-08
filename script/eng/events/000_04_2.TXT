@@ -5,7 +5,7 @@
 65538|
 <CC03EA><CC03FC=0004><string=0121><color=0001>You must be in the Royal Family, too.<pause><lineend><CC03EA>How perfect...<pause><lineend>|
 131072|
-<CC03EA><CC03FC=0004><string=0121><color=0001>It seems you're no ordinary Princess.<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0121><color=0001>It seems you're no ordinary princess.<pause><lineend>|
 131073|
 <CC03EA><CC03FC=0004><string=0121><color=0001>You fight well... but not well enough!<pause><lineend>|
 196608|

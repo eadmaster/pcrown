@@ -3,9 +3,9 @@
 65537|
 <CC03EA><color=0001>That is correct.<pause><lineend>|
 65538|
-<CC03EA><color=0004><string=00F7><lineend><color=0001>Larva, The God of Darkness, can now manifest in our world...<pause><lineend>|
+<CC03EA><color=0004><string=00F7><lineend><color=0001>Larva, the God of Darkness, can now manifest in our world...<pause><lineend>|
 65539|
-<CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend><CC03EA>...What do you mean, "The God of Darkness?"<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>Leon!<pause><lineend><CC03EA>...What do you mean, the "God of Darkness"?<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>You must have a lot of questions indeed.<pause><lineend><CC03EA>Bear with me a moment. I'll tell you everything.<pause><lineend>|
 65541|
@@ -19,7 +19,7 @@
 65545|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>Hatred and evil magic are the source of Larva's power.<pause><lineend><CC03EA>These things must overtake the world in order for him to consume it.<pause><lineend><CC03EA>Larva has appeared in our world in the form of a book.<pause><lineend><CC03EA>He has come in order to spread hatred and evil magic.<pause><lineend>|
 65546|
-<CC03EA><color=0002><string=0000><lineend><color=0001>That book was actually the Dark God himself...<pause><lineend>|
+<CC03EA><color=0002><string=0000><lineend><color=0001>That book was actually the God of Darkness himself...<pause><lineend>|
 65547|
 <CC03EA><color=0004><string=00F7><lineend><color=0001>It once led the prince of a certain kingdom to transform himself into the Demon King.<pause><lineend><CC03EA>Time and again, he has led the Demons in an attack on our world.<pause><lineend><CC03EA>He has spread hatred and evil magic in the place of love and faith.<pause><lineend><CC03EA>However, the Goddess Gaia sealed away both the Demon King and the book long ago.<pause><lineend><CC03EA>She had to spend her final strength to do it, but she saved our world in the process.<pause><lineend>|
 65548|

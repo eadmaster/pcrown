@@ -5,7 +5,7 @@
 65538|
 <CC03EA><color=0004><string=0110><lineend><color=0001>Larva, you were the God of Darkness?<lineend>YOU deceived me this whole time!?<lineend><pause><CC03EA>I have regained my human heart.<lineend>You will no longer do as you wish.<lineend><pause>|
 65539|
-<CC03EA><color=0004><string=0110><lineend><color=0001>Even if you're a God...<pause><lineend><CC03EA>I won't let you harm Sidrael in this world!<pause><lineend>|
+<CC03EA><color=0004><string=0110><lineend><color=0001>Even if you're a god...<pause><lineend><CC03EA>I won't let you harm Sidrael in this world!<pause><lineend>|
 65540|
 <CC03EA><color=0004><string=0110><lineend><color=0001>Guh-hah...<pause><lineend><CC03EA>Damn, my strength is fading away!<pause><lineend><CC03EA>...O Goddess of Light.<lineend>Save this world...<lineend>Please save Sidrael...<pause><lineend>|
 131072|

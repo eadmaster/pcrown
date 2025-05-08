@@ -11,7 +11,7 @@
 5|
 <CC03EA><color=0006><string=0096><lineend><color=0001>The Truck Race is on hold until that monster goes away.<pause><lineend><CC03EA>As the saying goes, it's safety first.<pause><lineend>|
 6|
-<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>I'd normally say to stop by the Truck Race and the Dwarf Mine...<pause><lineend><CC03EA>...but you better stay away for now, or that terrible Spider will eat you right up!<pause><lineend>|
+<CC03EA><color=0006><string=0097><lineend><color=0001>Well, this is a surprise!<pause><lineend><CC03EA>It's not every day we see a cute little human girl in a place like this.<pause><lineend><CC03EA>I'd normally say to stop by the Truck Race and the Dwarf Mine...<pause><lineend><CC03EA>...but you better stay away for now, or that terrible spider will eat you right up!<pause><lineend>|
 7|
 <CC03EA><color=0006><string=0098><lineend><color=0001>The king says he'll slay the spider himself.<pause><lineend><CC03EA>We're not about to let him try something so dangerous, though.<pause><lineend>|
 8|

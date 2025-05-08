@@ -1,5 +1,5 @@
 0|
-<CC03EA><color=0006><string=0091><lineend><color=0001>Don't go any further or the Spider will get you!<pause><lineend><CC03EA>Please, turn around!<pause><lineend>|
+<CC03EA><color=0006><string=0091><lineend><color=0001>Don't go any further or the spider will get you!<pause><lineend><CC03EA>Please, turn around!<pause><lineend>|
 1|
 <CC03ED=0000006200010000><CC03FB=0010><CC03F2=000000880000000A03FF00000000>|
 2|

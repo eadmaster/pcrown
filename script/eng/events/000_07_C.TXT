@@ -63,7 +63,7 @@
 131087|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>I told them I had a story to tell, and they all came to listen.<pause><lineend>|
 131088|
-<CC03EA><color=0004><string=00F8><lineend><color=0001>It's the story of a Princess who accepted the crown to her kingdom...<pause><lineend><CC03EA>...then picked up her sword and had all kinds of great adventures.<pause><lineend>|
+<CC03EA><color=0004><string=00F8><lineend><color=0001>It's the story of a princess who accepted the crown to her kingdom...<pause><lineend><CC03EA>...then picked up her sword and had all kinds of great adventures.<pause><lineend>|
 131089|
 <CC03EA><color=0004><string=00F8><lineend><color=0001>Good night, Queen Gradriel!<pause><lineend>|
 131090|

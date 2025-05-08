@@ -21,7 +21,7 @@
 65546|
 <CC03EA><color=0002><string=0000><lineend><color=0001>Proserpina, please give the Truck Race back to the Dwarves.<pause><lineend><CC03EA>They're all waiting to use it.<pause><lineend>|
 65547|
-<CC03EA><color=0004><string=0187><lineend><color=0001>There you go again!<pause><lineend><CC03EA>Don't you have anything better to do than ruin my fun?<pause><lineend><CC03EA>Today, I'm going to show you who's Boss!<pause><lineend><CC03EA>You and me, Gradriel! Let's go!<pause><lineend>|
+<CC03EA><color=0004><string=0187><lineend><color=0001>There you go again!<pause><lineend><CC03EA>Don't you have anything better to do than ruin my fun?<pause><lineend><CC03EA>Today, I'm going to show you who's boss!<pause><lineend><CC03EA>You and me, Gradriel! Let's go!<pause><lineend>|
 131072|
 <CC03EA><color=0004><string=0187><lineend><color=0001>Dang it!!<lineend>I lost again!?<pause><lineend>|
 131073|
@@ -41,7 +41,7 @@
 131080|
 <CC03EA><color=0002><string=0000><lineend><color=0001>For now, I should go talk to the king.<pause><lineend><CC03EA>I need to tell him that the Dwarves have the Truck Race back.<pause><lineend>|
 196608|
-<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she actually gave it back!?<pause><lineend><CC03EA>First that giant Spider, and now this... We can't thank you enough!<pause><lineend>|
+<CC03EA><color=0004><string=00EA><lineend><color=0001>You mean she actually gave it back!?<pause><lineend><CC03EA>First that giant spider, and now this... We can't thank you enough!<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=00EA><lineend><color=0001>My people and I can have fun once again.<pause><lineend><CC03EA>As a show of thanks, let me upgrade your sword!<pause><lineend>|
 262144|

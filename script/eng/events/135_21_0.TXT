@@ -69,7 +69,7 @@
 131085|
 <CC03EA><color=0004><string=017D><lineend><color=0001>Come on. Let's go.<pause><lineend>|
 196608|
-<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the world of darkness, Baindfear!<pause><lineend>|
+<CC03EA><color=0005><string=0121><lineend><color=0001>Ah, Your Majesty! Welcome to the Demon Realm, Baindfear!<pause><lineend>|
 196609|
 <CC03EA><color=0004><string=017E><lineend><color=0001>That's the Demon that kidnapped Sidrael!<pause><lineend>|
 196610|

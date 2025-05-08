@@ -45,7 +45,7 @@
 262149|
 <CC03EA><CC03FC=0004><string=0110><color=0001>Not so evil!?<pause><lineend>|
 262150|
-<CC03EA><CC03FC=0004><string=0110><color=0001>I think you're forgetting who you're talking to!<pause><lineend><CC03EA>I'm the King of the Demon Realm! I have no need for that nonsense!!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0110><color=0001>I think you're forgetting who you're talking to!<pause><lineend><CC03EA>I'm the King of the Demons! I have no need for that nonsense!!<pause><lineend>|
 262151|
 <CC03EA><color=0004><string=012A><lineend><color=0001>Volgrod...<pause><lineend>|
 262152|
