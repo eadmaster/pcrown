@@ -284,14 +284,49 @@ int main(int argc, char *argv[])
    else if (strcmp(argv[1], "-i") == 0)
    {
       int ret;
+      int out_size;
+
+#ifdef SATAKORE
+      text_info_struct ti[2] = 
+      {
+           // tbl_addr, tbl_size, txt_offset, txt_size
+           { 0xAF3F8+0xB0, 0x108, 0xAD520+0xB0, 0x1728 }, // names.txt: table addr: 0x060B33F8, text addr: 0x060B2C4C
+           { 0xAF080+0xB0, 0x378, 0xAD520+0xB0, 0x3180 }, // items.txt: table addr: 0x060B3080, text addr: 0x060B1524
+      };
+
+      // used for names.txt
+      ti[0].prog_addr = ti[1].prog_addr = 0x06004000;
+      ti[0].txt_filename = NULL;
+      ti[0].txt_addr = 0x060B15D0;
+      memset(ti[0].x_reft_off, 0, sizeof(ti[0].x_reft_off));
+      ti[0].x_reft[0] = 0x06074594 + 0xB8;
+      ti[0].x_reft[1] = 0x06074498 + 0xB8; // pointer + 4
+      ti[0].x_reft_off[1] = 4;
+      ti[0].num_x_reft = 2;
+
+      // used for items.txt
+      ti[1].txt_filename = argv[5];  // KANJI.BIN
+      ti[1].txt_addr = 0x05E6B800 + strtol(argv[6], NULL, 0);  // 0x2400
+      ti[1].txt_offset = strtol(argv[6], NULL, 0);  
+      memset(ti[1].x_reft_off, 0, sizeof(ti[1].x_reft_off));
+      ti[1].x_reft[0] = 0x0607204C + 0xB8; // pointer + 4  ??
+      ti[1].x_reft[1] = 0x06072214 + 0xB8; // pointer + 4
+      ti[1].x_reft[2] = 0x06072218 + 0xB8;
+      ti[1].x_reft[3] = 0x06072328 + 0xB8; // pointer + 4
+      ti[1].x_reft[4] = 0x06072330 + 0xB8;
+      ti[1].x_reft[5] = 0x06073458 + 0xB8; // pointer + 4
+      ti[1].x_reft[6] = 0x060734CC + 0xB8;
+      ti[1].x_reft[7] = 0x06074494 + 0xB8; // pointer + 4
+      ti[1].x_reft[8] = 0x060744A8 + 0xB8;
+      ti[1].x_reft[9] = 0x06074E48 + 0xB8; // pointer + 4
+#else
       text_info_struct ti[2] = 
       {
            // tbl_addr, tbl_size, txt_offset, txt_size
            { 0xAF3F8, 0x108, 0xAD520, 0x1728 }, // names.txt: table addr: 0x060B33F8, text addr: 0x060B2C4C
            { 0xAF080, 0x378, 0xAD520, 0x3180 }, // items.txt: table addr: 0x060B3080, text addr: 0x060B1524
       };
-      int out_size;
-
+      
       // used for names.txt
       ti[0].prog_addr = ti[1].prog_addr = 0x06004000;
       ti[0].txt_filename = NULL;
@@ -317,6 +352,7 @@ int main(int argc, char *argv[])
       ti[1].x_reft[7] = 0x06074494; // pointer + 4
       ti[1].x_reft[8] = 0x060744A8;
       ti[1].x_reft[9] = 0x06074E48; // pointer + 4
+#endif
       ti[1].x_reft_off[0] = 4;
       ti[1].x_reft_off[1] = 4;
       ti[1].x_reft_off[3] = 4;
