@@ -34,7 +34,7 @@ source _patch_items.sh
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" '*.EVN'  > /dev/null
 # enforce correct line splitting
 mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted
-for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.txt ; do
+for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.TXT ; do
     echo "$0: splitting text in $txt"
     python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted/$(basename $txt)
 done

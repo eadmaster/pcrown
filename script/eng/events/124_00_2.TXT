@@ -1,9 +1,9 @@
 65536|
 <CC03EA><color=0004><string=0107><lineend><color=0001><CC03ED=0107001F000103FF>Edward!!<lineend><CC03ED=0107001E000103FF><pause>|
 65537|
-<CC03EA><CC03FC=0004><string=0157>Ha ha ha! It's no use!<pause><lineend><CC03EA>He's busy running around with the doppelganger now!<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>Ha ha ha! It's no use!<pause><lineend><CC03EA>He's busy running around with the Doppelganger now!<pause><lineend>|
 65538|
-<CC03EA><CC03FC=0004><string=0157>You...You're alive!?<pause><lineend>|
+<CC03EA><CC03FC=0004><string=0157>You... You're alive!?<pause><lineend>|
 65539|
 <CC03EA><color=0003><string=0001><lineend><color=0001>Did you think I'd go down that easily?<pause><lineend>|
 65540|
