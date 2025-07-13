@@ -207,7 +207,7 @@ replace_sign  artist
 replace_sign  shouse
 # Grass Meadow (72*11/2=396) -> test in 058-00 (save-dependent)
 replace_sign  magic_meadow
-# Last (Pub/Tavern) (40*11/2=220) -> test in 083-00
+# Last (Pub/Tavern) (40*11/2=220) -> test in 082-00
 replace_sign  last
 # Ancient Cave (24*11/2=132) -> test in 087-00 (Edward book)
 replace_sign  old2

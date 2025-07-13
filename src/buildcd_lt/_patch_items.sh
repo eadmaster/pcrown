@@ -38,26 +38,26 @@ sfk setbytes 0.BIN 0x702EF 0x89 -yes
 sfk setbytes 0.BIN 0x702BB 0x2F -yes  # bottom padding on the selection block
 
 # items description fixes / double-line hack  https://github.com/eadmaster/pcrown/issues/57
-sfk setbytes 0.BIN 0x70603 0x14 -yes  # X position of the price in the store (max=1A)
+sfk setbytes 0.BIN 0x70603 0xF -yes  # X position of the price in the store (max=1A)
 # Tile map address (window #1)
-sfk setbytes 0.BIN 0x47732 0xB308 -yes
+#sfk setbytes 0.BIN 0x47732 0xB308 -yes
 # Tile map address (window #2)
-sfk setbytes 0.BIN 0x3BE09 0x0AB308 -yes
+#sfk setbytes 0.BIN 0x3BE09 0x0AB308 -yes
 # Height of window #1
-sfk setbytes 0.BIN 0x476FF 0x05 -yes
+#sfk setbytes 0.BIN 0x476FF 0x05 -yes
 # Height of window #2
-sfk setbytes 0.BIN 0x3BDD5 0x05 -yes
+#sfk setbytes 0.BIN 0x3BDD5 0x05 -yes
 # Y position of window #1
-sfk setbytes 0.BIN 0x47707 0x17 -yes
+#sfk setbytes 0.BIN 0x47707 0x17 -yes
 # Y position of window #2
-sfk setbytes 0.BIN 0x3BDDD 0x17 -yes
+#sfk setbytes 0.BIN 0x3BDDD 0x17 -yes
 # Y position of text
-sfk setbytes 0.BIN 0x75F7E 0xBC -yes
+#sfk setbytes 0.BIN 0x75F7E 0xBC -yes
 # Line Scroll Range Fix
-sfk setbytes 0.BIN 0x3BA61 0xB8 -yes
+#sfk setbytes 0.BIN 0x3BA61 0xB8 -yes
 # Clearing the description window
-sfk setbytes 0.BIN 0x47773 0x05 -yes
-sfk setbytes 0.BIN 0x4777B 0x17 -yes
+#sfk setbytes 0.BIN 0x47773 0x05 -yes
+#sfk setbytes 0.BIN 0x4777B 0x17 -yes
 
 # fix Engrish text in main program (opening, etc) https://github.com/eadmaster/pcrown/issues/94
 #source ../buildcd/_patch_ascii.sh

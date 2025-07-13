@@ -29,8 +29,9 @@ source _patch_items.sh
 
 # patch events
 7z e -y "Princess Crown (Japan) (Rev A) (11M) (Track 01).iso" '*.EVN'  > /dev/null
+
 # enforce correct line splitting
-mkdir ${TRANSLATED_SCRIPT_PATH}/events_splitted
+mkdir -p ${TRANSLATED_SCRIPT_PATH}/events_splitted
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.TXT ; do
     echo "$0: splitting text in $txt"
     python3 ../buildcd/_split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted/$(basename $txt)
@@ -44,7 +45,7 @@ find *.EVN | while read eventfile; do
         # check if txt file is newer
         if [ ! -f ${eventfile}.eng ] || [ $(stat --format=%Y ${txtfile_orig}) -gt $(stat --format=%Y ${eventfile}.eng) ]; then
             echo "$0: updating ${eventfile}"
-            wine ../buildcd/eventeditor.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
+            wine ../buildcd/eventeditor_fixed.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
         else
             echo "$0: no need to repatch ${eventfile}.eng"
         fi
@@ -55,29 +56,29 @@ find *.EVN | while read eventfile; do
 done
 
 # fix for dragon fight softlock  https://github.com/eadmaster/pcrown/issues/30
-wine ../buildcd/eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
-cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed  > /dev/null
+#wine ../buildcd/eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
+#cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed  > /dev/null
 
 # fix for softlock at Larva boss  https://github.com/eadmaster/pcrown/issues/88
-wine ../buildcd/eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
-cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed  > /dev/null
+#wine ../buildcd/eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
+#cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed  > /dev/null
 
 # fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
-sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
-cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng  > /dev/null
+#sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
+#cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng  > /dev/null
 
 # fix for softlock at dialog with the wizard turned into a frog  https://github.com/eadmaster/pcrown/issues/89
-sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
-sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
-cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng  > /dev/null
-cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng  > /dev/null
+#sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
+#sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
+#cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng  > /dev/null
+#cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng  > /dev/null
 
 # patch doorway signs and other gfx elements
 # TODO: ../buildcd/_patch_signs.sh
 source _patch_signs.sh
 
 # build xdelta patch (bin)
-xdelta3 -S none -f -e -s "Princess Crown (Japan) (Rev A) (11M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.Rev.A.11M.Track.01.bin.xdelta"
+xdelta3 -S none -f -e -s "Princess Crown (Japan) (Rev A) (11M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.Rev.A.11M.Track.01.LT.bin.xdelta"
 
 # build xdelta patch (iso)
 iat "$PATCHED_IMAGE_FILE" "Princess Crown (Japan) (Rev A) (11M) (Track 01) (English).iso"

@@ -232,7 +232,7 @@ Cure Drop<lineend>
 Restore health<lineend>
 Restore health & Power boost<lineend>
 Power boost<lineend>
-Restore full HP & Power boost<lineend>
+Restore all HP & Power boost<lineend>
 Health halved for Power boost<lineend>
 
 
@@ -268,10 +268,10 @@ Shoot ice arrows<lineend>
 Rain down meteors<lineend>
 Unleash Holy Light<lineend>
 
-Turn weak enemies into animals<lineend>
+Turn weak enemies into animal<lineend>
 Create Daggers<lineend>
 Make enemy defenseless<lineend>
-Strong winds push the enemy away<lineend>
+Push the enemy away<lineend>
 Goblin knocks the enemy down<lineend>
 Damage undead enemies<lineend>
 Equipment won't break<lineend>
