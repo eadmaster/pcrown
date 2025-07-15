@@ -32,7 +32,7 @@
 
 // Program Name/version Strings
 #define PROG_NAME "Princess Crown Event Editor"
-#define PROG_VERSION "v0.1"
+#define PROG_VERSION "v0.2"
 
 //////////////////////////////////////////////////////////////////////////////
 

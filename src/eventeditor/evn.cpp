@@ -1458,7 +1458,7 @@ unsigned short AsciiCharToTexttblIndex(char c) {
 }
 
 
-
+// MEMO: used by eventeditor
 unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_size, evn_header_struct *header, int *text_num)
 {
    unsigned char magic_number=0;
@@ -1485,6 +1485,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
    text_num[0] = Align16Byte(num_text * 2) / 2;
    if ((text_pointer_list = (unsigned short *)calloc(sizeof(unsigned short), text_num[0])) == NULL)
       return NULL;
+   
    for (l = 0; l < num_text; l++)
    {
 		char *text=NULL;
@@ -1641,8 +1642,14 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 
 		if (l == num_text-1)
 		{
-			while (out_size[0] % 5 != 0)
-				CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);
+         #ifdef NEW_FIXES
+            // fix for dialogue beeps out of sync  https://github.com/eadmaster/pcrown/issues/106
+            // Add 0xFF at the end
+            CompressAddWord(0xFF, &outbuf, out_size, &magic_number, &enc_count);
+         #else
+            while (out_size[0] % 5 != 0)
+               CompressAddWord(0, &outbuf, out_size, &magic_number, &enc_count);  // add spaces
+         #endif
 
 			// increase text_num to compensate
 			int old_text_num=text_num[0], max_size=text_num[0];
@@ -1655,7 +1662,7 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 			break;
 		}
    }
-
+   
    // Go through offsets and fill in any null offsets
    for (i = text_num[0]-2; i > 0; i--)
    {
