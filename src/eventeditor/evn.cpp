@@ -1642,9 +1642,9 @@ unsigned short *CompressText(int cur_cmd43_var, unsigned char *outbuf, int *out_
 
 		if (l == num_text-1)
 		{
-         #ifdef NEW_FIXES
-            // fix for dialogue beeps out of sync  https://github.com/eadmaster/pcrown/issues/106
-            // Add 0xFF at the end
+         #ifdef NEW_FIXES_DISABLED
+            // fix for dialogue beeps out of sync: add 0xFF at the end  https://github.com/eadmaster/pcrown/issues/106
+            // 2FIX: breaks choice dialogs, e.g. while saving at the inns
             CompressAddWord(0xFF, &outbuf, out_size, &magic_number, &enc_count);
          #else
             while (out_size[0] % 5 != 0)

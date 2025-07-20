@@ -58,6 +58,7 @@ sfk setbytes 0.BIN $((0x702EF+0x8))  0x89 -yes
 sfk setbytes 0.BIN $((0x702BB+0x8))  0x2F -yes  # bottom padding on the selection block
 
 # items description fixes / double-line hack  https://github.com/eadmaster/pcrown/issues/57
+#sfk setbytes 0.BIN $((0x70603+0x8)) 0x14 -yes  # X position of the price in the store (max=1A)
 sfk setbytes 0.BIN $((0x70603+0x8)) 0xF -yes  # X position of the price in the store (max=1A)
 # Tile map address (window #1)
 #sfk setbytes 0.BIN $((0x47732+0x8))  0xB308 -yes
@@ -83,8 +84,8 @@ sfk setbytes 0.BIN $((0x70603+0x8)) 0xF -yes  # X position of the price in the s
 #source ../buildcd/_patch_ascii.sh
 
 # statically enable debug mode (press Start on 2nd pad to navigate event files) https://web.archive.org/web/20200918203538/https://github.com/cyberwarriorx/pcrown/wiki/Debugging
-# RAM: 6022B8F
-#sfk setbytes 0.BIN 0x1eadf 0x01 -yes
+# RAM: 6022B8F 
+# sfk setbytes 0.BIN 0x1eadf 0x01 -yes
 
 # add splashscreen -> freezes with cheats enabled during boot  https://github.com/eadmaster/pcrown/issues/96
 #mv 0.BIN  0_org.BIN

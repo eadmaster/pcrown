@@ -230,10 +230,10 @@ Cure Drop<lineend>
 
 
 Restore health<lineend>
-Restore health & Power boost<lineend>
+Restore HP & Power boost<lineend>
 Power boost<lineend>
 Restore all HP & Power boost<lineend>
-Health halved for Power boost<lineend>
+HP halved for Power boost<lineend>
 
 
 
@@ -286,7 +286,7 @@ Anti-petrification<lineend>
 Grill Food<lineend>
 Make Soup<lineend>
 Recharge Magic Stones<lineend>
-Increase equipment durability<lineend>
+Strengthen equipment<lineend>
 Remove curse from item<lineend>
 Restore consumable item<lineend>
 Check item for curse<lineend>
