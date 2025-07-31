@@ -45,7 +45,7 @@ find *.EVN | while read eventfile; do
         # check if txt file is newer
         if [ ! -f ${eventfile}.eng ] || [ $(stat --format=%Y ${txtfile_orig}) -gt $(stat --format=%Y ${eventfile}.eng) ]; then
             echo "$0: updating ${eventfile}"
-            wine ../buildcd/eventeditor_fixed.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
+            wine ../buildcd/eventeditor.exe -i ${eventfile}  ${txtfile}  -o ${eventfile}.eng
         else
             echo "$0: no need to repatch ${eventfile}.eng"
         fi
@@ -56,25 +56,28 @@ find *.EVN | while read eventfile; do
 done
 
 # fix for dragon fight softlock  https://github.com/eadmaster/pcrown/issues/30
-#wine ../buildcd/eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
-#cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed  > /dev/null
+wine ../buildcd/eventeditor_fixed.exe -i 015_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/015_00_1.TXT -o 015_00_1.EVN.fixed
+cd-replace "$PATCHED_IMAGE_FILE" 015_00_1.EVN 015_00_1.EVN.fixed  > /dev/null
 
 # fix for softlock at Larva boss  https://github.com/eadmaster/pcrown/issues/88
-#wine ../buildcd/eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
-#cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed  > /dev/null
+wine ../buildcd/eventeditor_fixed.exe -i 176_00_0.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/176_00_0.TXT -o 176_00_0.EVN.fixed
+cd-replace "$PATCHED_IMAGE_FILE" 176_00_0.EVN 176_00_0.EVN.fixed  > /dev/null
 
 # fix for PEOPLE FULL bug in Cado Bado (add missing cmds)  https://github.com/eadmaster/pcrown/issues/71
 #sfk partcopy 041_00_1.EVN 0x3DD 190 041_00_1.EVN.eng 0x3DD -yes
-#cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng  > /dev/null
+wine ../buildcd/eventeditor_fixed.exe -i 041_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/041_00_1.TXT -o 041_00_1.EVN.eng
+cd-replace "$PATCHED_IMAGE_FILE" 041_00_1.EVN 041_00_1.EVN.eng  > /dev/null
 
 # fix for softlock at dialog with the wizard turned into a frog  https://github.com/eadmaster/pcrown/issues/89
 #sfk setbytes 061_00_2.EVN.eng 0x1002 0x0190 -yes
 #sfk setbytes 061_00_1.EVN.eng 0x1002 0x0190 -yes  # not sure if really needed
-#cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng  > /dev/null
-#cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng  > /dev/null
+wine ../buildcd/eventeditor_fixed.exe -i 061_00_2.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/061_00_2.TXT -o 061_00_2.EVN.eng
+wine ../buildcd/eventeditor_fixed.exe -i 061_00_1.EVN  ${TRANSLATED_SCRIPT_PATH}/events_splitted/061_00_1.TXT -o 061_00_1.EVN.eng
+cd-replace "$PATCHED_IMAGE_FILE" 061_00_2.EVN  061_00_2.EVN.eng  > /dev/null
+cd-replace "$PATCHED_IMAGE_FILE" 061_00_1.EVN  061_00_1.EVN.eng  > /dev/null
 
 # patch doorway signs and other gfx elements
-# TODO: ../buildcd/_patch_signs.sh
+# TODO: reuse ../buildcd/_patch_signs.sh
 source _patch_signs.sh
 
 # build xdelta patch (bin)

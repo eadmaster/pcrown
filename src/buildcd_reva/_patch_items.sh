@@ -94,7 +94,7 @@ sfk setbytes 0.BIN $((0x70603+0x8)) 0xF -yes  # X position of the price in the s
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.X.Y"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997  T-ENG V1.1b+LT"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997 T-ENG V1.1b2+LT"  -yes
 
 # fix for RevA shifted addresses
 sfk partcopy 0.BIN -allfrom 0x0 0.BIN.bak 0xB0 -yes
