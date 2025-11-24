@@ -58,7 +58,7 @@ In chronological order:
 
  - [SamIAm](https://www.romhacking.net/forum/index.php?action=profile;u=10553) (original script translation draft)
  - [CyberWarriorX](https://github.com/cyberwarriorx) (EVN file format and text compression reverse engineering, eventeditor and itemsutil patching tools)
- - [eadmaster](https://github.com/eadmaster) (ASCII support and debug mode for eventeditor and itemsutil, dialogs text splitter, doorway signs and other patching scripts, translation fixes, Satakore port, project maintainer)
+ - [eadmaster](https://github.com/eadmaster) (ASCII support and debug mode for eventeditor and itemsutil, dialogs text splitter, doorway signs and other patching tools, translation fixes, Satakore port, project maintainer)
  - [paul-met](https://github.com/paul-met) ([text spacing and dialog fixes](https://github.com/eadmaster/pcrown/issues/1), [main font](https://github.com/eadmaster/pcrown/issues/98), [gfx enhancements in the EX build](https://github.com/eadmaster/pcrown/issues/18))
  - [MiYakuGaming](https://github.com/MiYakuGaming/) ([missing translation parts and corrections](https://github.com/eadmaster/pcrown/issues/4))
  - [MADevil](https://www.twitch.tv/madevil/), [RetroBorgo](https://www.twitch.tv/retroborgo/), [Stacatto](https://www.youtube.com/c/StilesReviews) (playtesting and bug reports)

@@ -83,5 +83,5 @@ source _patch_signs.sh
 xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin" "$PATCHED_IMAGE_FILE"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"
 
 # build xdelta patch (iso)
-iat "$PATCHED_IMAGE_FILE" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
+#iat "$PATCHED_IMAGE_FILE" "Princess Crown (Japan) (1M) (Track 01) (English).iso"
 #xdelta3 -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).iso"  "Princess Crown (Japan) (1M) (Track 01) (English).iso"  "Princess.Crown.Japan.1M.Track.01.iso.xdelta"
