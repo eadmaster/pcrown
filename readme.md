@@ -66,8 +66,4 @@ In chronological order:
  - [DerekPascarella](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of Engrish and translation fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering, [eventeditor fixes](https://github.com/eadmaster/pcrown/issues/91))
 
-> [!NOTE]
-> CyberWarriorX and SamIAm are still working privately on this project, and since this was forked many years ago it does not reflect the [current status of their project](https://www.romhacking.net/forum/index.php?topic=39984.0).
-> Btw since this was originally [released with a GPL-2.0 license](https://github.com/eadmaster/pcrown/blob/master/LICENSE), i'd like to exercise my right to keep working on this and make improvements.
-
 [old readme here](readme.txt.old)
