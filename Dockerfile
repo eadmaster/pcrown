@@ -7,7 +7,7 @@ COPY script /app/script
 COPY signs /app/signs
 
 WORKDIR /app/src/buildcd/
-RUN rm *.eng
+RUN rm -f *.eng
 
 # Ensure execute permissions
 RUN chmod +x *.sh
