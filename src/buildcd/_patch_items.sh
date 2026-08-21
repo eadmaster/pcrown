@@ -6,10 +6,17 @@ export PATCHED_IMAGE_FILE="Princess Crown (Japan) (1M) (Track 01) (patched).bin"
 
 # patch the font
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" KANJI.BIN  > /dev/null
-xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN  # apply English font patch
-#cp KANJI_ENG_narrow.BIN KANJI_ENG.BIN
-#cp KANJI_ENG_couriernew.BIN KANJI_ENG.BIN
-#cp KANJI_ENG_geomon5px.BIN KANJI_ENG.BIN
+if [ -z "$USE_EXTENDED_LATIN_FONT" ]; then
+    # apply English font patch
+    xdelta3 -f -d -s KANJI.BIN KANJI.BIN.xdelta KANJI_ENG.BIN
+else
+    # Latin letters with diacritics  https://github.com/eadmaster/pcrown/issues/114
+    #cp KANJI_ENG_narrow.BIN KANJI_ENG.BIN
+    #cp KANJI_ENG_couriernew.BIN KANJI_ENG.BIN
+    #cp KANJI_ENG_geomon5px.BIN KANJI_ENG.BIN
+    #cp KANJI_ACCENTS.bin KANJI_ENG.BIN
+    xdelta3 -f -d -s KANJI.BIN KANJI_ACCENTS.BIN.xdelta KANJI_ENG.BIN
+fi
 
 # patch items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" 0.BIN  > /dev/null
@@ -78,7 +85,7 @@ source _patch_ascii.sh
 
 # add version number in title screen  https://github.com/eadmaster/pcrown/issues/96
 # "@SEGA ENTERPRISES,LTD.& ATLUS,1997" ->  "@SEGA & ATLUS,1997    T-ENG V0.X.Y"
-sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997     T-ENG V1.1b"  -yes
+sfk setbytes 0.BIN 0xA4137  "& ATLUS,1997      T-ENG V1.1"  -yes
 
 cd-replace "$PATCHED_IMAGE_FILE" 0.BIN  0.BIN  > /dev/null
 cd-replace "$PATCHED_IMAGE_FILE" KANJI.BIN  KANJI_ENG.BIN  > /dev/null

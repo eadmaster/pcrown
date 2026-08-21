@@ -18,6 +18,7 @@ SHORT_DIALOG_WARNING_LEN=20
 
 import sys
 import re
+import os
 
 
 def remove_tags(text):
@@ -139,5 +140,27 @@ for line in f.readlines():
                     
         # end for tags
     # end if
+    
+    if os.getenv("USE_EXTENDED_LATIN_FONT"):
+        # replace letters with diacritics  https://github.com/eadmaster/pcrown/issues/114
+        line = line.replace("à", "暮")  # 0x95E9,
+        line = line.replace("â", "母")  # 0x95EA, 
+        line = line.replace("é", "包")  # 0x95EF, 
+        line = line.replace("è", "報")  # 0x95F1,
+        line = line.replace("ê", "宝")  # 0x95F3,
+        line = line.replace("ë", "放")  # 0x95FA,
+        line = line.replace("î", "方")  # 0x95FB,
+        line = line.replace("ï", "法")  # 0x9640
+        line = line.replace("ô", "訪")  # 0x964B, 
+        line = line.replace("ö", "亡")  # 0x9653,
+        line = line.replace("ù", "坊")  # 0x9656,
+        line = line.replace("û", "帽")  # 0x9658,
+        line = line.replace("ü", "忘")  # 0x9659,
+        line = line.replace("ç", "忙")  # 0x965A,
+        line = line.replace("Ç", "暴")  # 0x965C,
+        line = line.replace("ò", "望")  # 0x965D,
+        line = line.replace("Ò", "棒")  # 0x965F,
+        # ... , 0x9660, 0x9668, 0x966B, 0x966C, 0x967B, 0x9682, 0x9685,
+    
     out.write(line)
 

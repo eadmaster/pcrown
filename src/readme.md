@@ -37,7 +37,11 @@
 
 After the first build is complete:
 
- - to quickly repatch a single event file (e.g to fix a typo), use the [_update_single_event.sh script](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_update_single_event.sh). 
+ - each speech bubble have a fixed limit of **44 chars per line**, and **3 lines per bubble**. 
+   If longer they will be split automatically, but it's always better to test ingame to make sure they split nicely.
+   The items description/names in `items.txt` have the same limit of 44 chars, but if longer they will **overflow** instead.
+ - to use the [new extended Latin font with diacritics](https://github.com/eadmaster/pcrown/issues/114), set the environment variable `USE_EXTENDED_LATIN_FONT=1`.
+ - to quickly repatch a single event file, use [_update_single_event.sh](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_update_single_event.sh). 
      e.g. `_update_single_event.sh 000_00_1"` will repatch `000_00_1.EVN` using [000_00_1.TXT](https://github.com/eadmaster/pcrown/blob/master/script/eng/events/000_00_1.TXT)
    - Use the [debug mode](https://tcrf.net/Princess_Crown_(Sega_Saturn)#Debug_Features) to quickly test an event.
    - [List of event numbers and game locations](https://github.com/eadmaster/pcrown/wiki/FileStructure#files-reference)
@@ -48,3 +52,8 @@ After the first build is complete:
    - [How to retranslate a doorway sign](https://github.com/eadmaster/pcrown/tree/master/signs#how-to-retranslate-a-doorway-sign)
  - to customize the copyright text in the title screen, [change this line](https://github.com/eadmaster/pcrown/blob/master/src/buildcd/_patch_items.sh#L81).
  - to generate a new xdelta patch with the latest changes: `cd /app/src/buildcd ; xdelta3 -v -S none -f -e -s "Princess Crown (Japan) (1M) (Track 01).bin" "Princess Crown (Japan) (1M) (Track 01) (patched).bin"  "Princess.Crown.Japan.1M.Track.01.bin.xdelta"`
+ - if using Docker, remember to edit files and execute commands **inside** the container.
+   The easiest method is via an [IDE extension like this one](https://dev.to/rwilsonrelease/how-to-edit-a-file-in-a-docker-container-5fk6#option-2-edit-from-vs-code).
+
+
+   

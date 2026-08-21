@@ -40,7 +40,7 @@
 
 ## Issues/Contributions  🐛
  
-Issues and PRs are currently restricted to approved contributors to keep things easy to manage.
+Issues and PRs are restricted to approved contributors to keep things easy to manage.
 
 Contact me via Discord or forums if you can help or have issues to report (please read the [FAQs](https://github.com/eadmaster/pcrown/wiki/FAQs) first):
 
@@ -65,5 +65,6 @@ In chronological order:
  - [Malenko](https://segaxtreme.net/members/malenko.22808/) (gfx hacking help)
  - [DerekPascarella](https://github.com/DerekPascarella) ([Saturn-4bpp-Graphics-Converter script](https://github.com/DerekPascarella/Saturn-4bpp-Graphics-Converter/))
  - [Mentil](https://github.com/mentill) (lot of Engrish and translation fixes, gfx hacking, [PAK file format](https://github.com/eadmaster/pcrown/wiki/PAKFormat) reverse engineering, [eventeditor fixes](https://github.com/eadmaster/pcrown/issues/91))
+ - [Ryusan-AT](https://github.com/Ryusan-AT) ([extended Latin font](https://github.com/eadmaster/pcrown/issues/114))
 
 [old readme here](readme.txt.old)

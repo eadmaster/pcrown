@@ -12,7 +12,7 @@ python3 _split_long_lines.py  "${TRANSLATED_SCRIPT_PATH}/events/${EVENT_NAME}.TX
 
 #7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" ${EVENT_NAME}.EVN
 
-wine eventeditor.exe -i ${EVENT_NAME}.EVN  "${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVENT_NAME}.TXT"  -o ${EVENT_NAME}.EVN.eng
+wine eventeditor_fixed.exe -i ${EVENT_NAME}.EVN  "${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVENT_NAME}.TXT"  -o ${EVENT_NAME}.EVN.eng
 
 cd-replace  "$PATCHED_IMAGE_FILE" ${EVENT_NAME}.EVN  ${EVENT_NAME}.EVN.eng
 
