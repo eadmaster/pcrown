@@ -21,8 +21,16 @@ fi
 # patch items and names
 7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" 0.BIN  > /dev/null
 sed 's/▼ //g; s/♂ //g; s/◇ //g'  ${TRANSLATED_SCRIPT_PATH}/items_ex.txt > ${TRANSLATED_SCRIPT_PATH}/items.txt  # remove EX icons
-iconv -f UTF-8 -t SHIFT-JIS ${TRANSLATED_SCRIPT_PATH}/items.txt -o ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis
-wine itemsutil.exe -i ${TRANSLATED_SCRIPT_PATH}/names.txt ${TRANSLATED_SCRIPT_PATH}/items.txt.sjis  0.BIN  KANJI_ENG.BIN  0xC60   # 0xC60 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
+cp ${TRANSLATED_SCRIPT_PATH}/items.txt /tmp/items.txt.utf8
+cp ${TRANSLATED_SCRIPT_PATH}/names.txt /tmp/names.txt.utf8
+if [ -n "$USE_EXTENDED_LATIN_FONT" ]; then
+    # replace Latin letters with diacritics  https://github.com/eadmaster/pcrown/issues/114
+    sed -i -f  _replace_diacritics_with_kanjis.sed  /tmp/items.txt.utf8
+    sed -i -f  _replace_diacritics_with_kanjis.sed  /tmp/names.txt.utf8
+fi
+iconv -f UTF-8 -t SHIFT-JIS /tmp/items.txt.utf8 -o /tmp/items.txt.sjis
+iconv -f UTF-8 -t SHIFT-JIS /tmp/names.txt.utf8 -o /tmp/names.txt.sjis
+wine itemsutil.exe -i /tmp/names.txt.sjis /tmp/items.txt.sjis  0.BIN  KANJI_ENG.BIN  0xC60   # 0xC60 = starting write offset in KANJI_ENG.BIN, ranges are in itemsutils/main.cpp
 # TODO: make sure items are not truncated -> there is "FFE88277F1021221121060000203FE02" in KANJI_ENG.BIN -> decrease 0xC60 if needed, not below 0x29A   https://github.com/eadmaster/pcrown/issues/93#issuecomment-2629532940
 
 # make chars spacing smaller  https://github.com/eadmaster/pcrown/issues/1#issuecomment-2439672329

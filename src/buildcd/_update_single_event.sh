@@ -8,7 +8,17 @@ if [ ! -f "${EVENT_NAME}.EVN" ]; then
     exit 1
 fi
 
-python3 _split_long_lines.py  "${TRANSLATED_SCRIPT_PATH}/events/${EVENT_NAME}.TXT" "${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVENT_NAME}.TXT"
+txt="${TRANSLATED_SCRIPT_PATH}/events/${EVENT_NAME}.TXT"
+txt_base_name=$(basename "$txt")
+
+if [ -n "$USE_EXTENDED_LATIN_FONT" ]; then
+    # replace Latin letters with diacritics  https://github.com/eadmaster/pcrown/issues/114
+    cp "$txt" /tmp/$txt_base_name
+    sed -i -f  _replace_diacritics_with_kanjis.sed  /tmp/$txt_base_name
+    txt=/tmp/$txt_base_name
+fi
+
+python3 _split_long_lines.py  $txt "${TRANSLATED_SCRIPT_PATH}/events_splitted/${EVENT_NAME}.TXT"
 
 #7z e -y "Princess Crown (Japan) (1M) (Track 01).iso" ${EVENT_NAME}.EVN
 

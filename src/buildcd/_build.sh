@@ -36,8 +36,15 @@ source _patch_items.sh
 # enforce correct line splitting
 mkdir -p ${TRANSLATED_SCRIPT_PATH}/events_splitted
 for txt in  ${TRANSLATED_SCRIPT_PATH}/events/*.TXT ; do
+    txt_base_name=$(basename "$txt")
     echo "$0: splitting text in $txt"
-    python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted/$(basename $txt)
+    if [ -n "$USE_EXTENDED_LATIN_FONT" ]; then
+        # replace Latin letters with diacritics  https://github.com/eadmaster/pcrown/issues/114
+        cp "$txt" /tmp/$txt_base_name
+        sed -i -f  _replace_diacritics_with_kanjis.sed  /tmp/$txt_base_name
+        txt=/tmp/$txt_base_name
+    fi
+    python3 _split_long_lines.py "$txt"  ${TRANSLATED_SCRIPT_PATH}/events_splitted/$txt_base_name
 done
 
 find *.EVN | while read eventfile; do 
